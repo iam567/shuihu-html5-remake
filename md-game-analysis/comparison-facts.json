@@ -1,0 +1,12 @@
+{
+  "new_sha256": "0c97ad517c57cbb8f85e4d0250652e878e0506afb16e5b67440b2e983741279f",
+  "new_size": 2097152,
+  "old_size": 2097152,
+  "differing_bytes": 2,
+  "runs": [
+    [
+      1981234,
+      1981236
+    ]
+  ]
+}

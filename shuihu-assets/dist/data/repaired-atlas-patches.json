@@ -1,0 +1,38 @@
+{
+  "bank-053fd4-07cbea-0dde08-pixel-hd": {
+    "image": "generated/repaired-atlases/bank-053fd4-07cbea-0dde08-pixel-hd.png",
+    "columns": 16,
+    "tileSize": 128,
+    "status": "repainted-awaiting-review"
+  },
+  "bank-053fd4-07cbea-0dde08-unreal": {
+    "image": "generated/repaired-atlases/bank-053fd4-07cbea-0dde08-unreal.png",
+    "columns": 16,
+    "tileSize": 128,
+    "status": "repainted-awaiting-review"
+  },
+  "bank-053fd4-07cbea-0dde08-ghibli": {
+    "image": "generated/repaired-atlases/bank-053fd4-07cbea-0dde08-ghibli.png",
+    "columns": 16,
+    "tileSize": 128,
+    "status": "repainted-awaiting-review"
+  },
+  "bank-04b710-07a56a-0dde48-pixel-hd": {
+    "image": "generated/repaired-atlases/bank-04b710-07a56a-0dde48-pixel-hd.png",
+    "columns": 16,
+    "tileSize": 128,
+    "status": "repainted-awaiting-review"
+  },
+  "bank-04b710-07a56a-0dde48-unreal": {
+    "image": "generated/repaired-atlases/bank-04b710-07a56a-0dde48-unreal.png",
+    "columns": 16,
+    "tileSize": 128,
+    "status": "repainted-awaiting-review"
+  },
+  "bank-04b710-07a56a-0dde48-ghibli": {
+    "image": "generated/repaired-atlases/bank-04b710-07a56a-0dde48-ghibli.png",
+    "columns": 16,
+    "tileSize": 128,
+    "status": "repainted-awaiting-review"
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "concurrency": 10,
+  "model": "gpt-image-2.5-sunburst",
+  "jobs": {
+    "bank-032386-0772aa-0dd948-pixel-hd": {
+      "state": "generated-awaiting-review",
+      "exitCode": 0
+    },
+    "bank-032386-0772aa-0dd948-unreal": {
+      "state": "generated-awaiting-review",
+      "exitCode": 0
+    },
+    "bank-032386-0772aa-0dd948-ghibli": {
+      "state": "generated-awaiting-review",
+      "exitCode": 0
+    },
+    "bank-037948-07852a-0dd988-pixel-hd": {
+      "state": "generated-awaiting-review",
+      "exitCode": 0
+    },
+    "bank-037948-07852a-0dd988-unreal": {
+      "state": "generated-awaiting-review",
+      "exitCode": 0
+    },
+    "bank-037948-07852a-0dd988-ghibli": {
+      "state": "generated-awaiting-review",
+      "exitCode": 0
+    },
+    "portrait-160138-hd": {
+      "state": "generated-awaiting-review",
+      "exitCode": 0
+    },
+    "portrait-1605b8-hd": {
+      "state": "generated-awaiting-review",
+      "exitCode": 0
+    },
+    "character-100400-hd": {
+      "state": "generated-awaiting-review",
+      "exitCode": 0
+    },
+    "interface-kit-hd": {
+      "state": "generated-awaiting-review",
+      "exitCode": 0
+    }
+  }
+}

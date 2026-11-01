@@ -1,0 +1,33 @@
+{
+  "capture": "start_1264",
+  "map_id": "0106",
+  "spawn_id": "0100",
+  "width": 10,
+  "height": 10,
+  "ram_word_swap": true,
+  "layers": [
+    {
+      "layer": 1,
+      "size": 100,
+      "equal": true,
+      "differences": []
+    },
+    {
+      "layer": 2,
+      "size": 100,
+      "equal": false,
+      "differences": [
+        {
+          "index": 84,
+          "static": 0,
+          "runtime": 66
+        },
+        {
+          "index": 85,
+          "static": 0,
+          "runtime": 66
+        }
+      ]
+    }
+  ]
+}

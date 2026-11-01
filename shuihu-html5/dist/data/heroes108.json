@@ -1,0 +1,673 @@
+{
+"note": "梁山泊石碣受天文：三十六天罡星、七十二地煞星座次（百回本第七十一回）。identity = 本作中可操作的同名人物（立绘用）。",
+"heroes": [
+{
+"rank": 1,
+"star": "天魁星",
+"nickname": "呼保義",
+"name": "宋江",
+"identity": 21
+},
+{
+"rank": 2,
+"star": "天罡星",
+"nickname": "玉麒麟",
+"name": "盧俊義",
+"identity": 4
+},
+{
+"rank": 3,
+"star": "天機星",
+"nickname": "智多星",
+"name": "吳用",
+"identity": 2
+},
+{
+"rank": 4,
+"star": "天閒星",
+"nickname": "入雲龍",
+"name": "公孫勝",
+"identity": 5
+},
+{
+"rank": 5,
+"star": "天勇星",
+"nickname": "大刀",
+"name": "關勝"
+},
+{
+"rank": 6,
+"star": "天雄星",
+"nickname": "豹子頭",
+"name": "林沖",
+"identity": 11
+},
+{
+"rank": 7,
+"star": "天猛星",
+"nickname": "霹靂火",
+"name": "秦明",
+"identity": 7
+},
+{
+"rank": 8,
+"star": "天威星",
+"nickname": "雙鞭",
+"name": "呼延灼",
+"identity": 13
+},
+{
+"rank": 9,
+"star": "天英星",
+"nickname": "小李廣",
+"name": "花榮",
+"identity": 17
+},
+{
+"rank": 10,
+"star": "天貴星",
+"nickname": "小旋風",
+"name": "柴進",
+"identity": 20
+},
+{
+"rank": 11,
+"star": "天富星",
+"nickname": "撲天鵰",
+"name": "李應"
+},
+{
+"rank": 12,
+"star": "天滿星",
+"nickname": "美髯公",
+"name": "朱仝"
+},
+{
+"rank": 13,
+"star": "天孤星",
+"nickname": "花和尚",
+"name": "魯智深",
+"identity": 18
+},
+{
+"rank": 14,
+"star": "天傷星",
+"nickname": "行者",
+"name": "武松",
+"identity": 14
+},
+{
+"rank": 15,
+"star": "天立星",
+"nickname": "雙槍將",
+"name": "董平"
+},
+{
+"rank": 16,
+"star": "天捷星",
+"nickname": "沒羽箭",
+"name": "張清",
+"identity": 8
+},
+{
+"rank": 17,
+"star": "天暗星",
+"nickname": "青面獸",
+"name": "楊志",
+"identity": 9
+},
+{
+"rank": 18,
+"star": "天佑星",
+"nickname": "金槍手",
+"name": "徐寧"
+},
+{
+"rank": 19,
+"star": "天空星",
+"nickname": "急先鋒",
+"name": "索超"
+},
+{
+"rank": 20,
+"star": "天速星",
+"nickname": "神行太保",
+"name": "戴宗",
+"identity": 16
+},
+{
+"rank": 21,
+"star": "天異星",
+"nickname": "赤髮鬼",
+"name": "劉唐"
+},
+{
+"rank": 22,
+"star": "天殺星",
+"nickname": "黑旋風",
+"name": "李逵",
+"identity": 12
+},
+{
+"rank": 23,
+"star": "天微星",
+"nickname": "九紋龍",
+"name": "史進",
+"identity": 6
+},
+{
+"rank": 24,
+"star": "天究星",
+"nickname": "沒遮攔",
+"name": "穆弘"
+},
+{
+"rank": 25,
+"star": "天退星",
+"nickname": "插翅虎",
+"name": "雷橫"
+},
+{
+"rank": 26,
+"star": "天壽星",
+"nickname": "混江龍",
+"name": "李俊"
+},
+{
+"rank": 27,
+"star": "天劍星",
+"nickname": "立地太歲",
+"name": "阮小二"
+},
+{
+"rank": 28,
+"star": "天平星",
+"nickname": "船火兒",
+"name": "張橫"
+},
+{
+"rank": 29,
+"star": "天罪星",
+"nickname": "短命二郎",
+"name": "阮小五"
+},
+{
+"rank": 30,
+"star": "天損星",
+"nickname": "浪裡白條",
+"name": "張順"
+},
+{
+"rank": 31,
+"star": "天敗星",
+"nickname": "活閻羅",
+"name": "阮小七",
+"identity": 19
+},
+{
+"rank": 32,
+"star": "天牢星",
+"nickname": "病關索",
+"name": "楊雄"
+},
+{
+"rank": 33,
+"star": "天慧星",
+"nickname": "拼命三郎",
+"name": "石秀"
+},
+{
+"rank": 34,
+"star": "天暴星",
+"nickname": "兩頭蛇",
+"name": "解珍",
+"identity": 15
+},
+{
+"rank": 35,
+"star": "天哭星",
+"nickname": "雙尾蠍",
+"name": "解寶"
+},
+{
+"rank": 36,
+"star": "天巧星",
+"nickname": "浪子",
+"name": "燕青",
+"identity": 3
+},
+{
+"rank": 37,
+"star": "地魁星",
+"nickname": "神機軍師",
+"name": "朱武"
+},
+{
+"rank": 38,
+"star": "地煞星",
+"nickname": "鎮三山",
+"name": "黃信"
+},
+{
+"rank": 39,
+"star": "地勇星",
+"nickname": "病尉遲",
+"name": "孫立"
+},
+{
+"rank": 40,
+"star": "地傑星",
+"nickname": "醜郡馬",
+"name": "宣贊"
+},
+{
+"rank": 41,
+"star": "地雄星",
+"nickname": "井木犴",
+"name": "郝思文"
+},
+{
+"rank": 42,
+"star": "地威星",
+"nickname": "百勝將",
+"name": "韓滔"
+},
+{
+"rank": 43,
+"star": "地英星",
+"nickname": "天目將",
+"name": "彭玘"
+},
+{
+"rank": 44,
+"star": "地奇星",
+"nickname": "聖水將",
+"name": "單廷圭"
+},
+{
+"rank": 45,
+"star": "地猛星",
+"nickname": "神火將",
+"name": "魏定國"
+},
+{
+"rank": 46,
+"star": "地文星",
+"nickname": "聖手書生",
+"name": "蕭讓"
+},
+{
+"rank": 47,
+"star": "地正星",
+"nickname": "鐵面孔目",
+"name": "裴宣"
+},
+{
+"rank": 48,
+"star": "地闊星",
+"nickname": "摩雲金翅",
+"name": "歐鵬"
+},
+{
+"rank": 49,
+"star": "地闔星",
+"nickname": "火眼狻猊",
+"name": "鄧飛"
+},
+{
+"rank": 50,
+"star": "地強星",
+"nickname": "錦毛虎",
+"name": "燕順"
+},
+{
+"rank": 51,
+"star": "地暗星",
+"nickname": "錦豹子",
+"name": "楊林"
+},
+{
+"rank": 52,
+"star": "地軸星",
+"nickname": "轟天雷",
+"name": "凌振"
+},
+{
+"rank": 53,
+"star": "地會星",
+"nickname": "神算子",
+"name": "蔣敬"
+},
+{
+"rank": 54,
+"star": "地佐星",
+"nickname": "小溫侯",
+"name": "呂方"
+},
+{
+"rank": 55,
+"star": "地佑星",
+"nickname": "賽仁貴",
+"name": "郭盛"
+},
+{
+"rank": 56,
+"star": "地靈星",
+"nickname": "神醫",
+"name": "安道全"
+},
+{
+"rank": 57,
+"star": "地獸星",
+"nickname": "紫髯伯",
+"name": "皇甫端"
+},
+{
+"rank": 58,
+"star": "地微星",
+"nickname": "矮腳虎",
+"name": "王英"
+},
+{
+"rank": 59,
+"star": "地慧星",
+"nickname": "一丈青",
+"name": "扈三娘",
+"identity": 10
+},
+{
+"rank": 60,
+"star": "地暴星",
+"nickname": "喪門神",
+"name": "鮑旭"
+},
+{
+"rank": 61,
+"star": "地然星",
+"nickname": "混世魔王",
+"name": "樊瑞"
+},
+{
+"rank": 62,
+"star": "地猖星",
+"nickname": "毛頭星",
+"name": "孔明"
+},
+{
+"rank": 63,
+"star": "地狂星",
+"nickname": "獨火星",
+"name": "孔亮"
+},
+{
+"rank": 64,
+"star": "地飛星",
+"nickname": "八臂哪吒",
+"name": "項充"
+},
+{
+"rank": 65,
+"star": "地走星",
+"nickname": "飛天大聖",
+"name": "李袞"
+},
+{
+"rank": 66,
+"star": "地巧星",
+"nickname": "玉臂匠",
+"name": "金大堅"
+},
+{
+"rank": 67,
+"star": "地明星",
+"nickname": "鐵笛仙",
+"name": "馬麟"
+},
+{
+"rank": 68,
+"star": "地進星",
+"nickname": "出洞蛟",
+"name": "童威"
+},
+{
+"rank": 69,
+"star": "地退星",
+"nickname": "翻江蜃",
+"name": "童猛"
+},
+{
+"rank": 70,
+"star": "地滿星",
+"nickname": "玉旛竿",
+"name": "孟康"
+},
+{
+"rank": 71,
+"star": "地遂星",
+"nickname": "通臂猿",
+"name": "侯健"
+},
+{
+"rank": 72,
+"star": "地周星",
+"nickname": "跳澗虎",
+"name": "陳達"
+},
+{
+"rank": 73,
+"star": "地隱星",
+"nickname": "白花蛇",
+"name": "楊春"
+},
+{
+"rank": 74,
+"star": "地異星",
+"nickname": "白面郎君",
+"name": "鄭天壽"
+},
+{
+"rank": 75,
+"star": "地理星",
+"nickname": "九尾龜",
+"name": "陶宗旺"
+},
+{
+"rank": 76,
+"star": "地俊星",
+"nickname": "鐵扇子",
+"name": "宋清"
+},
+{
+"rank": 77,
+"star": "地樂星",
+"nickname": "鐵叫子",
+"name": "樂和"
+},
+{
+"rank": 78,
+"star": "地捷星",
+"nickname": "花項虎",
+"name": "龔旺"
+},
+{
+"rank": 79,
+"star": "地速星",
+"nickname": "中箭虎",
+"name": "丁得孫"
+},
+{
+"rank": 80,
+"star": "地鎮星",
+"nickname": "小遮攔",
+"name": "穆春"
+},
+{
+"rank": 81,
+"star": "地羈星",
+"nickname": "操刀鬼",
+"name": "曹正"
+},
+{
+"rank": 82,
+"star": "地魔星",
+"nickname": "雲裡金剛",
+"name": "宋萬"
+},
+{
+"rank": 83,
+"star": "地妖星",
+"nickname": "摸着天",
+"name": "杜遷"
+},
+{
+"rank": 84,
+"star": "地幽星",
+"nickname": "病大蟲",
+"name": "薛永"
+},
+{
+"rank": 85,
+"star": "地伏星",
+"nickname": "金眼彪",
+"name": "施恩"
+},
+{
+"rank": 86,
+"star": "地僻星",
+"nickname": "打虎將",
+"name": "李忠"
+},
+{
+"rank": 87,
+"star": "地空星",
+"nickname": "小霸王",
+"name": "周通"
+},
+{
+"rank": 88,
+"star": "地孤星",
+"nickname": "金錢豹子",
+"name": "湯隆"
+},
+{
+"rank": 89,
+"star": "地全星",
+"nickname": "鬼臉兒",
+"name": "杜興"
+},
+{
+"rank": 90,
+"star": "地短星",
+"nickname": "出林龍",
+"name": "鄒淵"
+},
+{
+"rank": 91,
+"star": "地角星",
+"nickname": "獨角龍",
+"name": "鄒潤"
+},
+{
+"rank": 92,
+"star": "地囚星",
+"nickname": "旱地忽律",
+"name": "朱貴"
+},
+{
+"rank": 93,
+"star": "地藏星",
+"nickname": "笑面虎",
+"name": "朱富"
+},
+{
+"rank": 94,
+"star": "地平星",
+"nickname": "鐵臂膊",
+"name": "蔡福"
+},
+{
+"rank": 95,
+"star": "地損星",
+"nickname": "一枝花",
+"name": "蔡慶"
+},
+{
+"rank": 96,
+"star": "地奴星",
+"nickname": "催命判官",
+"name": "李立"
+},
+{
+"rank": 97,
+"star": "地察星",
+"nickname": "青眼虎",
+"name": "李雲"
+},
+{
+"rank": 98,
+"star": "地惡星",
+"nickname": "沒面目",
+"name": "焦挺"
+},
+{
+"rank": 99,
+"star": "地醜星",
+"nickname": "石將軍",
+"name": "石勇"
+},
+{
+"rank": 100,
+"star": "地數星",
+"nickname": "小尉遲",
+"name": "孫新"
+},
+{
+"rank": 101,
+"star": "地陰星",
+"nickname": "母大蟲",
+"name": "顧大嫂"
+},
+{
+"rank": 102,
+"star": "地刑星",
+"nickname": "菜園子",
+"name": "張青"
+},
+{
+"rank": 103,
+"star": "地壯星",
+"nickname": "母夜叉",
+"name": "孫二娘"
+},
+{
+"rank": 104,
+"star": "地劣星",
+"nickname": "活閃婆",
+"name": "王定六"
+},
+{
+"rank": 105,
+"star": "地健星",
+"nickname": "險道神",
+"name": "郁保四"
+},
+{
+"rank": 106,
+"star": "地耗星",
+"nickname": "白日鼠",
+"name": "白勝"
+},
+{
+"rank": 107,
+"star": "地賊星",
+"nickname": "鼓上蚤",
+"name": "時遷"
+},
+{
+"rank": 108,
+"star": "地狗星",
+"nickname": "金毛犬",
+"name": "段景住"
+}
+]
+}

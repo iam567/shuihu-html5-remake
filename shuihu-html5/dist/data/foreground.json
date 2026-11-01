@@ -1,0 +1,1056 @@
+{
+  "version": 1,
+  "scope": "Original static exploration map with low-priority actors; excludes HD maps, battle sprites and future dynamic graphical patches.",
+  "evidence": {
+    "capture": "start_1264",
+    "playerAttribute": 16416,
+    "npcAttribute": 18592,
+    "actorPriorityHigh": false
+  },
+  "maps": {
+    "0100": {
+      "originalImage": "assets/maps/0100.png",
+      "originalSha256": "efceeab0dcc09f09a1721c0f014e0a88ab15f0929687da04b9ef9718a782a9da",
+      "width": 768,
+      "height": 640,
+      "mask": "assets/foreground/0100.png",
+      "maskSha256": "525230552786ed1e6022f3cb707c848e1bedd2112fbf632ac20ec692337b41c5",
+      "priorityCells": 1
+    },
+    "0101": {
+      "originalImage": "assets/maps/0101.png",
+      "originalSha256": "1b7597a00ea48dce3ddfa587291482f3c745573ec42b1fe4bbddff3dcdc2dbdd",
+      "width": 320,
+      "height": 320,
+      "mask": "assets/foreground/0101.png",
+      "maskSha256": "7c739bf635b2425ad07689e83213e115926999482c9f46b35fc211b7242a5081",
+      "priorityCells": 6
+    },
+    "0102": {
+      "originalImage": "assets/maps/0102.png",
+      "originalSha256": "fe626feb882625642630be47ddcdd5427ca94223ec3ff0a68a59bdca3af72c5a",
+      "width": 320,
+      "height": 480,
+      "mask": "assets/foreground/0102.png",
+      "maskSha256": "456af28e2201ac496b2a50b4c5b72a123a757c20760eb94475de6bf142b8123d",
+      "priorityCells": 5
+    },
+    "0103": {
+      "originalImage": "assets/maps/0103.png",
+      "originalSha256": "8a24b96bf7c3dfd53e5f5e4378a772f9a3d46b3ecfd86f546f3883b995325254",
+      "width": 320,
+      "height": 320,
+      "mask": "assets/foreground/0103.png",
+      "maskSha256": "056759408e028b7da6758e226fa618e5e1865b6e7db35d93e6d0cc1902b94462",
+      "priorityCells": 2
+    },
+    "0104": {
+      "originalImage": "assets/maps/0104.png",
+      "originalSha256": "9e1050eb457dabfe41470a37c4a59309a39ceff4788f853889983c616d8d432d",
+      "width": 320,
+      "height": 320,
+      "mask": "assets/foreground/0104.png",
+      "maskSha256": "056759408e028b7da6758e226fa618e5e1865b6e7db35d93e6d0cc1902b94462",
+      "priorityCells": 2
+    },
+    "0105": {
+      "originalImage": "assets/maps/0105.png",
+      "originalSha256": "0c04705133a99a4f0f82d6dc47062d17e72ca4b4b653fb7cde6baf9e774ea94d",
+      "width": 320,
+      "height": 320,
+      "mask": "assets/foreground/0105.png",
+      "maskSha256": "056759408e028b7da6758e226fa618e5e1865b6e7db35d93e6d0cc1902b94462",
+      "priorityCells": 2
+    },
+    "0106": {
+      "originalImage": "assets/maps/0106.png",
+      "originalSha256": "07f39975c6c99b57518d53ae52f1e1834bd5148787ebd33691093079c860cfc4",
+      "width": 320,
+      "height": 320,
+      "mask": "assets/foreground/0106.png",
+      "maskSha256": "056759408e028b7da6758e226fa618e5e1865b6e7db35d93e6d0cc1902b94462",
+      "priorityCells": 2
+    },
+    "0107": {
+      "originalImage": "assets/maps/0107.png",
+      "originalSha256": "62580b405e9b5aaea1567c3421eb9c1496ae92aa939f8917f1ee7824a4a7cca5",
+      "width": 320,
+      "height": 320,
+      "mask": "assets/foreground/0107.png",
+      "maskSha256": "056759408e028b7da6758e226fa618e5e1865b6e7db35d93e6d0cc1902b94462",
+      "priorityCells": 2
+    },
+    "0200": {
+      "originalImage": "assets/maps/0200.png",
+      "originalSha256": "dd0ae85da99930d246780b22ac0dccbeb87fd9fb32a512ef90e22e47823cad59",
+      "width": 768,
+      "height": 480,
+      "mask": "assets/foreground/0200.png",
+      "maskSha256": "1270ec3db1ff8dea531078a9b25c1d26054818bd53febfd058ead75df983bc68",
+      "priorityCells": 13
+    },
+    "0201": {
+      "originalImage": "assets/maps/0201.png",
+      "originalSha256": "c550bac50bac99d423e89c0ae0f8ba728088a7bcf8f9f735f1a6f755d6e23225",
+      "width": 320,
+      "height": 320,
+      "mask": "assets/foreground/0201.png",
+      "maskSha256": "056759408e028b7da6758e226fa618e5e1865b6e7db35d93e6d0cc1902b94462",
+      "priorityCells": 2
+    },
+    "0202": {
+      "originalImage": "assets/maps/0202.png",
+      "originalSha256": "2bf012becce3686209a9cbfe2d0485b839b3ba16308cd6d16a7018a3d1eb7c18",
+      "width": 320,
+      "height": 320,
+      "mask": "assets/foreground/0202.png",
+      "maskSha256": "0ad17b6644676716ebad6e0464c40f468318e2256d784d27c69af5730a0ad431",
+      "priorityCells": 5
+    },
+    "0203": {
+      "originalImage": "assets/maps/0203.png",
+      "originalSha256": "9cb71a0b3dd7f7c7dc038304bf024a15f2816453d0f166fe25409b782deb5402",
+      "width": 320,
+      "height": 320,
+      "mask": null,
+      "maskSha256": null,
+      "priorityCells": 0
+    },
+    "0204": {
+      "originalImage": "assets/maps/0204.png",
+      "originalSha256": "2478160b302b33541d0320026e74ad4334294d7ad10710c59cc4db727be6b762",
+      "width": 320,
+      "height": 320,
+      "mask": "assets/foreground/0204.png",
+      "maskSha256": "056759408e028b7da6758e226fa618e5e1865b6e7db35d93e6d0cc1902b94462",
+      "priorityCells": 2
+    },
+    "0205": {
+      "originalImage": "assets/maps/0205.png",
+      "originalSha256": "c34d3e753f12fdb69fbbf844af4b9d2480e3390c5b50ac60dfa5635464c5c925",
+      "width": 320,
+      "height": 320,
+      "mask": "assets/foreground/0205.png",
+      "maskSha256": "056759408e028b7da6758e226fa618e5e1865b6e7db35d93e6d0cc1902b94462",
+      "priorityCells": 2
+    },
+    "0206": {
+      "originalImage": "assets/maps/0206.png",
+      "originalSha256": "150e5aa752a95cc515fb6c4d8bc3de74559b44dddfb472e036d5b6dd9087b9ef",
+      "width": 768,
+      "height": 480,
+      "mask": null,
+      "maskSha256": null,
+      "priorityCells": 0
+    },
+    "0207": {
+      "originalImage": "assets/maps/0207.png",
+      "originalSha256": "ed6c2fee59cd3878ea88f07fd1f3490d3ec6adfae17c64d642acffb2f4a9d2a5",
+      "width": 512,
+      "height": 736,
+      "mask": null,
+      "maskSha256": null,
+      "priorityCells": 0
+    },
+    "0300": {
+      "originalImage": "assets/maps/0300.png",
+      "originalSha256": "cec5375fc6539961b6646bf4752d88a4c21c79c233607a8af36c202e27e7212c",
+      "width": 1024,
+      "height": 480,
+      "mask": null,
+      "maskSha256": null,
+      "priorityCells": 0
+    },
+    "0301": {
+      "originalImage": "assets/maps/0301.png",
+      "originalSha256": "ee36187d64ecc7cebdcfe3b504c8aa35ee1591cfa0108e0b3e907bb059302803",
+      "width": 320,
+      "height": 320,
+      "mask": "assets/foreground/0301.png",
+      "maskSha256": "056759408e028b7da6758e226fa618e5e1865b6e7db35d93e6d0cc1902b94462",
+      "priorityCells": 2
+    },
+    "0302": {
+      "originalImage": "assets/maps/0302.png",
+      "originalSha256": "903ea03755b63687648acc26566b7b93e67fd7b2c154505af27399fd8890485a",
+      "width": 320,
+      "height": 320,
+      "mask": "assets/foreground/0302.png",
+      "maskSha256": "056759408e028b7da6758e226fa618e5e1865b6e7db35d93e6d0cc1902b94462",
+      "priorityCells": 2
+    },
+    "0303": {
+      "originalImage": "assets/maps/0303.png",
+      "originalSha256": "0dd90f29c788c1b019501fad96d513b3a3291dfd318e4a5c31757b12ffde3095",
+      "width": 320,
+      "height": 320,
+      "mask": "assets/foreground/0303.png",
+      "maskSha256": "056759408e028b7da6758e226fa618e5e1865b6e7db35d93e6d0cc1902b94462",
+      "priorityCells": 2
+    },
+    "0304": {
+      "originalImage": "assets/maps/0304.png",
+      "originalSha256": "8e188f13385ad362e91a6cbfa30d59432cface2aab155f3a6d34f8cf3196242e",
+      "width": 320,
+      "height": 320,
+      "mask": null,
+      "maskSha256": null,
+      "priorityCells": 0
+    },
+    "0305": {
+      "originalImage": "assets/maps/0305.png",
+      "originalSha256": "b1cb34ca343c2266cd82da652f756d9afe3dad2278eddb560d44435531122343",
+      "width": 320,
+      "height": 320,
+      "mask": null,
+      "maskSha256": null,
+      "priorityCells": 0
+    },
+    "0306": {
+      "originalImage": "assets/maps/0306.png",
+      "originalSha256": "d48372e440014ae1e789676d938f7a8ea2d6d934203f1366e597416439b8e2d5",
+      "width": 320,
+      "height": 320,
+      "mask": "assets/foreground/0306.png",
+      "maskSha256": "b9f431232d2e79dee2a3438133842d21de8711120016de6adbc9b9f3346ab1c3",
+      "priorityCells": 8
+    },
+    "0307": {
+      "originalImage": "assets/maps/0307.png",
+      "originalSha256": "1fca5a110b288569c2cca1fdf58403b66b0670111e645b15381c4ef4ea97438d",
+      "width": 768,
+      "height": 800,
+      "mask": null,
+      "maskSha256": null,
+      "priorityCells": 0
+    },
+    "0308": {
+      "originalImage": "assets/maps/0308.png",
+      "originalSha256": "59e29adb6971b197a5a80234f57a997aca99e876aee57881e80b3ba4e9f28670",
+      "width": 416,
+      "height": 800,
+      "mask": null,
+      "maskSha256": null,
+      "priorityCells": 0
+    },
+    "0309": {
+      "originalImage": "assets/maps/0309.png",
+      "originalSha256": "335cc7320f56b07d272a5e58f7519944f003eac7b6681185cf3da8abb6c1fc3e",
+      "width": 384,
+      "height": 960,
+      "mask": "assets/foreground/0309.png",
+      "maskSha256": "6a19ba3e961276cd9e8dc517f795df78c6be56dfa3e77c9c3f30a0aa57aa834d",
+      "priorityCells": 1
+    },
+    "0400": {
+      "originalImage": "assets/maps/0400.png",
+      "originalSha256": "48cc17749e0cf9f20f7bf1776c9cc36aaada85e4822627e65246dbf7cd8749b4",
+      "width": 512,
+      "height": 896,
+      "mask": "assets/foreground/0400.png",
+      "maskSha256": "d598a99f621073cfd154487b27763045e69f06c3a8c0b4cd6d0a367aa93ae0b4",
+      "priorityCells": 1
+    },
+    "0401": {
+      "originalImage": "assets/maps/0401.png",
+      "originalSha256": "96f343cfe20bfb5c2bdaad073b1169220e93979412d57d4f6755e53b87034c27",
+      "width": 320,
+      "height": 320,
+      "mask": "assets/foreground/0401.png",
+      "maskSha256": "a03e5a8579e3e1d1900246ef810308b982abffd2fc69f234da59ca862f3d15e8",
+      "priorityCells": 8
+    },
+    "0402": {
+      "originalImage": "assets/maps/0402.png",
+      "originalSha256": "5db2a7f166e97ea408b14313384275dac8b3478c4c6eb3ebd951e56fc551e742",
+      "width": 320,
+      "height": 320,
+      "mask": "assets/foreground/0402.png",
+      "maskSha256": "056759408e028b7da6758e226fa618e5e1865b6e7db35d93e6d0cc1902b94462",
+      "priorityCells": 2
+    },
+    "0403": {
+      "originalImage": "assets/maps/0403.png",
+      "originalSha256": "efcb2bf46f49e1e72d498e96e751516ff2c98f57fd58a30c6971dc8b6b8d001a",
+      "width": 320,
+      "height": 320,
+      "mask": "assets/foreground/0403.png",
+      "maskSha256": "056759408e028b7da6758e226fa618e5e1865b6e7db35d93e6d0cc1902b94462",
+      "priorityCells": 2
+    },
+    "0404": {
+      "originalImage": "assets/maps/0404.png",
+      "originalSha256": "f1cec5f7c58eb229ecbf0fc686d36c8e69ee334ca72630c29a87c922bdf5fe8d",
+      "width": 384,
+      "height": 384,
+      "mask": "assets/foreground/0404.png",
+      "maskSha256": "ba855b855f4bc9312209b7f2eac35ebe7517881ec91a3c9c04f63701363f7ddf",
+      "priorityCells": 4
+    },
+    "0405": {
+      "originalImage": "assets/maps/0405.png",
+      "originalSha256": "a6639922ad345d35d5f31ddbff925603a147ee30376109d25ccbf5a06b1fa59e",
+      "width": 320,
+      "height": 384,
+      "mask": "assets/foreground/0405.png",
+      "maskSha256": "87a499317bc41d2f122b8e9785f85513e805cfd15d1fc83c3d12b2ca27644522",
+      "priorityCells": 5
+    },
+    "0406": {
+      "originalImage": "assets/maps/0406.png",
+      "originalSha256": "ec6b92c99c9b5e630b83ac98d2cbaf946305a6be466c9dd8a9f1a1cbd359e60a",
+      "width": 320,
+      "height": 320,
+      "mask": "assets/foreground/0406.png",
+      "maskSha256": "056759408e028b7da6758e226fa618e5e1865b6e7db35d93e6d0cc1902b94462",
+      "priorityCells": 2
+    },
+    "0407": {
+      "originalImage": "assets/maps/0407.png",
+      "originalSha256": "d657ab61e4463dcad79be06be8c8920d8ade13af384a14db08a7e1b3285adbef",
+      "width": 320,
+      "height": 320,
+      "mask": "assets/foreground/0407.png",
+      "maskSha256": "056759408e028b7da6758e226fa618e5e1865b6e7db35d93e6d0cc1902b94462",
+      "priorityCells": 2
+    },
+    "0408": {
+      "originalImage": "assets/maps/0408.png",
+      "originalSha256": "36f3e67c1d65297494bd500e143c614fb3fed5a52a4bcdcdbda3dc0fb2d97f1f",
+      "width": 768,
+      "height": 480,
+      "mask": null,
+      "maskSha256": null,
+      "priorityCells": 0
+    },
+    "0409": {
+      "originalImage": "assets/maps/0409.png",
+      "originalSha256": "13c7a76b1a0120ebb94cd221972b6cfeccc8469657df83e886dbb636ee23c62f",
+      "width": 768,
+      "height": 640,
+      "mask": null,
+      "maskSha256": null,
+      "priorityCells": 0
+    },
+    "0500": {
+      "originalImage": "assets/maps/0500.png",
+      "originalSha256": "3f8e83e6e844df8a1bb1c3ace5d0f0c9a518e009693ff9d3e90814e13683284c",
+      "width": 768,
+      "height": 576,
+      "mask": "assets/foreground/0500.png",
+      "maskSha256": "93cd210b85368a598d8ee63f1d931eb3f4f7a71057a417008747c28774f19fba",
+      "priorityCells": 1
+    },
+    "0501": {
+      "originalImage": "assets/maps/0501.png",
+      "originalSha256": "e146dca824fbf06bc344350c260464cfe9d8b02d220e5ff37892833c68c70092",
+      "width": 320,
+      "height": 320,
+      "mask": "assets/foreground/0501.png",
+      "maskSha256": "056759408e028b7da6758e226fa618e5e1865b6e7db35d93e6d0cc1902b94462",
+      "priorityCells": 2
+    },
+    "0502": {
+      "originalImage": "assets/maps/0502.png",
+      "originalSha256": "4632ca421ced1d68d619b6f9dd9048282c3ffe970cc6d80596b0c0ca3fa24de6",
+      "width": 320,
+      "height": 320,
+      "mask": "assets/foreground/0502.png",
+      "maskSha256": "056759408e028b7da6758e226fa618e5e1865b6e7db35d93e6d0cc1902b94462",
+      "priorityCells": 2
+    },
+    "0503": {
+      "originalImage": "assets/maps/0503.png",
+      "originalSha256": "8237fb3ed60578cfb88706528df9ede4a37d9b1b9c0c09f69f185783653d08c8",
+      "width": 320,
+      "height": 320,
+      "mask": "assets/foreground/0503.png",
+      "maskSha256": "056759408e028b7da6758e226fa618e5e1865b6e7db35d93e6d0cc1902b94462",
+      "priorityCells": 2
+    },
+    "0504": {
+      "originalImage": "assets/maps/0504.png",
+      "originalSha256": "df193ed8ee46eb2878c67626be9ad93e885c6238a8b20c37399c9a7fd197e4e9",
+      "width": 320,
+      "height": 320,
+      "mask": "assets/foreground/0504.png",
+      "maskSha256": "056759408e028b7da6758e226fa618e5e1865b6e7db35d93e6d0cc1902b94462",
+      "priorityCells": 2
+    },
+    "0505": {
+      "originalImage": "assets/maps/0505.png",
+      "originalSha256": "c20fc854c003e26700da172ef1a51400d8857e569603ce354329192057fb1b22",
+      "width": 320,
+      "height": 320,
+      "mask": "assets/foreground/0505.png",
+      "maskSha256": "b9f431232d2e79dee2a3438133842d21de8711120016de6adbc9b9f3346ab1c3",
+      "priorityCells": 8
+    },
+    "0506": {
+      "originalImage": "assets/maps/0506.png",
+      "originalSha256": "40d1644e0c4046a38cf66a1fd98e9485bfa5badd2b2e912631574b7c47b89424",
+      "width": 320,
+      "height": 320,
+      "mask": "assets/foreground/0506.png",
+      "maskSha256": "056759408e028b7da6758e226fa618e5e1865b6e7db35d93e6d0cc1902b94462",
+      "priorityCells": 2
+    },
+    "0507": {
+      "originalImage": "assets/maps/0507.png",
+      "originalSha256": "59e29adb6971b197a5a80234f57a997aca99e876aee57881e80b3ba4e9f28670",
+      "width": 416,
+      "height": 800,
+      "mask": null,
+      "maskSha256": null,
+      "priorityCells": 0
+    },
+    "0508": {
+      "originalImage": "assets/maps/0508.png",
+      "originalSha256": "32f7775fecf593281829102e9ff383f0462ecfed5a1feccf689b5666f33c238b",
+      "width": 768,
+      "height": 736,
+      "mask": "assets/foreground/0508.png",
+      "maskSha256": "671b1c383642467ce746d1554e7438ddc2e244c8ca8d2e9e6011634cfa1315e3",
+      "priorityCells": 1
+    },
+    "0509": {
+      "originalImage": "assets/maps/0509.png",
+      "originalSha256": "12b0a0dba11b039ad44fba98031149fe83f866a9f9c191b07ab43d3b79633bb9",
+      "width": 352,
+      "height": 480,
+      "mask": "assets/foreground/0509.png",
+      "maskSha256": "10325fcb877483e115d0a01d0e060b7c289054fe9a219dd4207b44f87281751e",
+      "priorityCells": 3
+    },
+    "0600": {
+      "originalImage": "assets/maps/0600.png",
+      "originalSha256": "1872d7173ceab1abb72029e0f21561e89b7ceeabc3846029d5f21856f7e53166",
+      "width": 768,
+      "height": 480,
+      "mask": null,
+      "maskSha256": null,
+      "priorityCells": 0
+    },
+    "0601": {
+      "originalImage": "assets/maps/0601.png",
+      "originalSha256": "91f8a95a1977507d917028490d97bcc1a84c3e0ee7a131011a55a82cf7bc5bff",
+      "width": 320,
+      "height": 320,
+      "mask": "assets/foreground/0601.png",
+      "maskSha256": "056759408e028b7da6758e226fa618e5e1865b6e7db35d93e6d0cc1902b94462",
+      "priorityCells": 2
+    },
+    "0602": {
+      "originalImage": "assets/maps/0602.png",
+      "originalSha256": "8dde5e74b48c7c6014a0be4ff6a4392265ca1171daff4e964e60706eef57c9ab",
+      "width": 320,
+      "height": 416,
+      "mask": "assets/foreground/0602.png",
+      "maskSha256": "5836e9ff56ce7f62be8c22f0d22dd7a9e4ce3330331e4708b802fd59b1039bf4",
+      "priorityCells": 6
+    },
+    "0603": {
+      "originalImage": "assets/maps/0603.png",
+      "originalSha256": "c0fac6256bfe25b018f2ae410cd2767786113eea038cc5a6b3f2bd5801831ff2",
+      "width": 320,
+      "height": 320,
+      "mask": "assets/foreground/0603.png",
+      "maskSha256": "b9f431232d2e79dee2a3438133842d21de8711120016de6adbc9b9f3346ab1c3",
+      "priorityCells": 8
+    },
+    "0604": {
+      "originalImage": "assets/maps/0604.png",
+      "originalSha256": "fd46047a809491428be36d893c1738f8aa5829188da2dea668ee46dd3e76319e",
+      "width": 320,
+      "height": 320,
+      "mask": "assets/foreground/0604.png",
+      "maskSha256": "056759408e028b7da6758e226fa618e5e1865b6e7db35d93e6d0cc1902b94462",
+      "priorityCells": 2
+    },
+    "0605": {
+      "originalImage": "assets/maps/0605.png",
+      "originalSha256": "6e09c594d68ddea7b6a90887a243693053949aad3214775404868d3fa3da5b93",
+      "width": 320,
+      "height": 320,
+      "mask": "assets/foreground/0605.png",
+      "maskSha256": "056759408e028b7da6758e226fa618e5e1865b6e7db35d93e6d0cc1902b94462",
+      "priorityCells": 2
+    },
+    "0606": {
+      "originalImage": "assets/maps/0606.png",
+      "originalSha256": "0e6b681c1786d372d1d0efeb350feceb386663835c2e2ff91f946b518656c7ee",
+      "width": 320,
+      "height": 320,
+      "mask": "assets/foreground/0606.png",
+      "maskSha256": "056759408e028b7da6758e226fa618e5e1865b6e7db35d93e6d0cc1902b94462",
+      "priorityCells": 2
+    },
+    "0607": {
+      "originalImage": "assets/maps/0607.png",
+      "originalSha256": "7f9310facacb33e21b62c91352a942821d2e5e07076af85c3aea8f2537812277",
+      "width": 320,
+      "height": 320,
+      "mask": null,
+      "maskSha256": null,
+      "priorityCells": 0
+    },
+    "0608": {
+      "originalImage": "assets/maps/0608.png",
+      "originalSha256": "5d95203afdcd2d45c0f65d446b1acaedadf61f708c9c1b92eacfe54e2657b036",
+      "width": 320,
+      "height": 320,
+      "mask": null,
+      "maskSha256": null,
+      "priorityCells": 0
+    },
+    "0609": {
+      "originalImage": "assets/maps/0609.png",
+      "originalSha256": "074c424f7411033c740a9a9d162c25672d7041dd45e73b8e0f32dfd7f39e7f82",
+      "width": 768,
+      "height": 544,
+      "mask": "assets/foreground/0609.png",
+      "maskSha256": "75600b5a14fa8e1bd9c69d756af4b5ccbfcff0d393ea953966965b5c85aafcfb",
+      "priorityCells": 3
+    },
+    "0700": {
+      "originalImage": "assets/maps/0700.png",
+      "originalSha256": "2a4e825a9ba9ac3ee1f1c721b556bf5288751a092faa6dcd1178ad4e2d989d4c",
+      "width": 512,
+      "height": 736,
+      "mask": "assets/foreground/0700.png",
+      "maskSha256": "59c3564bd19b40b4a9871693435a8fe1cd6513b803138f47dc62003f58cf15f8",
+      "priorityCells": 24
+    },
+    "0701": {
+      "originalImage": "assets/maps/0701.png",
+      "originalSha256": "64b68e8112f4d5a6b5874ab9ea943c3b5b96807e44971c85c2510ddaf380c853",
+      "width": 352,
+      "height": 416,
+      "mask": "assets/foreground/0701.png",
+      "maskSha256": "da50c460f26473d773204922006ba6d7e6a5265af030b00ce0888d4293c888d7",
+      "priorityCells": 3
+    },
+    "0702": {
+      "originalImage": "assets/maps/0702.png",
+      "originalSha256": "61d54afc597af31662e74c7f6b62ca0024a29784abb1a6ed4ea83f80c779995b",
+      "width": 320,
+      "height": 320,
+      "mask": "assets/foreground/0702.png",
+      "maskSha256": "056759408e028b7da6758e226fa618e5e1865b6e7db35d93e6d0cc1902b94462",
+      "priorityCells": 2
+    },
+    "0703": {
+      "originalImage": "assets/maps/0703.png",
+      "originalSha256": "21a3c7d203e3aca1e94782f6fc88a0960b21ef37243f30215411f64603e97c06",
+      "width": 320,
+      "height": 320,
+      "mask": "assets/foreground/0703.png",
+      "maskSha256": "056759408e028b7da6758e226fa618e5e1865b6e7db35d93e6d0cc1902b94462",
+      "priorityCells": 2
+    },
+    "0704": {
+      "originalImage": "assets/maps/0704.png",
+      "originalSha256": "b484226eaedd18061cbd568955be7458f327fdaf0c93578a870ee4765b4b7017",
+      "width": 320,
+      "height": 320,
+      "mask": "assets/foreground/0704.png",
+      "maskSha256": "b9f431232d2e79dee2a3438133842d21de8711120016de6adbc9b9f3346ab1c3",
+      "priorityCells": 8
+    },
+    "0705": {
+      "originalImage": "assets/maps/0705.png",
+      "originalSha256": "c4a87e23c3ae33ab6d4caa933a31ed3307e73b6dc220c53e1751f1f68e8e7a2e",
+      "width": 320,
+      "height": 320,
+      "mask": "assets/foreground/0705.png",
+      "maskSha256": "056759408e028b7da6758e226fa618e5e1865b6e7db35d93e6d0cc1902b94462",
+      "priorityCells": 2
+    },
+    "0706": {
+      "originalImage": "assets/maps/0706.png",
+      "originalSha256": "c9f2e29a6667cf37656fa644cb12dd90dbfbbdb83d4017d4ca5d18de991a60cc",
+      "width": 320,
+      "height": 320,
+      "mask": "assets/foreground/0706.png",
+      "maskSha256": "056759408e028b7da6758e226fa618e5e1865b6e7db35d93e6d0cc1902b94462",
+      "priorityCells": 2
+    },
+    "0707": {
+      "originalImage": "assets/maps/0707.png",
+      "originalSha256": "d91c77e9880b0d8a28c14a30e3b47469b34c7e142fc3eb1f9c9bae5d78e35d06",
+      "width": 768,
+      "height": 640,
+      "mask": null,
+      "maskSha256": null,
+      "priorityCells": 0
+    },
+    "0708": {
+      "originalImage": "assets/maps/0708.png",
+      "originalSha256": "595b2bd6ee14a4c660e366335a65363158cafab093c42ec6473eaf22490c3b3a",
+      "width": 768,
+      "height": 800,
+      "mask": null,
+      "maskSha256": null,
+      "priorityCells": 0
+    },
+    "0709": {
+      "originalImage": "assets/maps/0709.png",
+      "originalSha256": "2bd035a7bc7d5a233b614170dd4efd9611a9bdb08ab1950c943af902e0922501",
+      "width": 1024,
+      "height": 480,
+      "mask": null,
+      "maskSha256": null,
+      "priorityCells": 0
+    },
+    "0800": {
+      "originalImage": "assets/maps/0800.png",
+      "originalSha256": "2eb69dbae6bf783864a5b082d3138e2d9ea26048148676db6a4d15836f945682",
+      "width": 768,
+      "height": 480,
+      "mask": "assets/foreground/0800.png",
+      "maskSha256": "aae6d16a3dae93b5b7a37a13b2e1a194af6dc2355b93f638e70abd9f29ecc9d0",
+      "priorityCells": 1
+    },
+    "0801": {
+      "originalImage": "assets/maps/0801.png",
+      "originalSha256": "b07d3ecb268074b3ac12c272986a8474ab6ad0beafcc5d8846603bf3d4aeef64",
+      "width": 320,
+      "height": 320,
+      "mask": "assets/foreground/0801.png",
+      "maskSha256": "056759408e028b7da6758e226fa618e5e1865b6e7db35d93e6d0cc1902b94462",
+      "priorityCells": 2
+    },
+    "0802": {
+      "originalImage": "assets/maps/0802.png",
+      "originalSha256": "5c92712ba692d0442b602f9319b040c97fa88dfce6d0150bc44e48bb356ca5cf",
+      "width": 320,
+      "height": 384,
+      "mask": "assets/foreground/0802.png",
+      "maskSha256": "d978eb91a39e8b05d41119eaf5719b4a9ef5470bad5073583620083affa51813",
+      "priorityCells": 5
+    },
+    "0803": {
+      "originalImage": "assets/maps/0803.png",
+      "originalSha256": "1dd3932b926c8b262e272d44cedbd33c45bd676dfc31b2613d56859a6b1ae32c",
+      "width": 320,
+      "height": 320,
+      "mask": "assets/foreground/0803.png",
+      "maskSha256": "b9f431232d2e79dee2a3438133842d21de8711120016de6adbc9b9f3346ab1c3",
+      "priorityCells": 8
+    },
+    "0804": {
+      "originalImage": "assets/maps/0804.png",
+      "originalSha256": "34d0ac2d58b68d62ba509c47e5ac434314df51a5f3676fe7478cb11ee785099e",
+      "width": 320,
+      "height": 320,
+      "mask": "assets/foreground/0804.png",
+      "maskSha256": "056759408e028b7da6758e226fa618e5e1865b6e7db35d93e6d0cc1902b94462",
+      "priorityCells": 2
+    },
+    "0805": {
+      "originalImage": "assets/maps/0805.png",
+      "originalSha256": "3f95b1347cbd1895e4c4cecb05e61a7bf1edef037aaa11e2ae6a7a0389fe9718",
+      "width": 320,
+      "height": 320,
+      "mask": "assets/foreground/0805.png",
+      "maskSha256": "056759408e028b7da6758e226fa618e5e1865b6e7db35d93e6d0cc1902b94462",
+      "priorityCells": 2
+    },
+    "0806": {
+      "originalImage": "assets/maps/0806.png",
+      "originalSha256": "1650e3f0929a04601a98438afc4949ce547b80eb12870c4540a79f790a8f153c",
+      "width": 320,
+      "height": 320,
+      "mask": "assets/foreground/0806.png",
+      "maskSha256": "056759408e028b7da6758e226fa618e5e1865b6e7db35d93e6d0cc1902b94462",
+      "priorityCells": 2
+    },
+    "0807": {
+      "originalImage": "assets/maps/0807.png",
+      "originalSha256": "d8a72787a266dc069325fe5f4198f08a6c408fe3d92963562dfd4cb01db61aa5",
+      "width": 320,
+      "height": 320,
+      "mask": "assets/foreground/0807.png",
+      "maskSha256": "056759408e028b7da6758e226fa618e5e1865b6e7db35d93e6d0cc1902b94462",
+      "priorityCells": 2
+    },
+    "0808": {
+      "originalImage": "assets/maps/0808.png",
+      "originalSha256": "a6a162ec1c3d2add289be5bbed597c649ceddee28e07db1af407271742ec9d14",
+      "width": 480,
+      "height": 640,
+      "mask": null,
+      "maskSha256": null,
+      "priorityCells": 0
+    },
+    "0809": {
+      "originalImage": "assets/maps/0809.png",
+      "originalSha256": "726f6006aeb90292030a1176be6445e59a8a27f5f858573352f2a9c5f4aac29a",
+      "width": 768,
+      "height": 800,
+      "mask": "assets/foreground/0809.png",
+      "maskSha256": "89de0f8183805c2f5283015ebf7bb4f281ad9977393bd6691143c4a331cad372",
+      "priorityCells": 3
+    },
+    "080a": {
+      "originalImage": "assets/maps/080a.png",
+      "originalSha256": "8483ee5abbdd2a9c8c3aa65d681a4b23ee2ac5f5697a73ca066b776f7a8364ca",
+      "width": 320,
+      "height": 320,
+      "mask": "assets/foreground/080a.png",
+      "maskSha256": "aeb44848f75beab34281073a41629bee384a0308be155723e31a267937ef7303",
+      "priorityCells": 1
+    },
+    "080b": {
+      "originalImage": "assets/maps/080b.png",
+      "originalSha256": "7bfbac759bafb7e27480b2a92219b7d073af7620cb59996483e544a467ab1d57",
+      "width": 320,
+      "height": 320,
+      "mask": "assets/foreground/080b.png",
+      "maskSha256": "aeb44848f75beab34281073a41629bee384a0308be155723e31a267937ef7303",
+      "priorityCells": 1
+    },
+    "0900": {
+      "originalImage": "assets/maps/0900.png",
+      "originalSha256": "c3627c5e4897c368b5e061d94850e666cc460c1637865faa17285ad7664633ac",
+      "width": 512,
+      "height": 640,
+      "mask": "assets/foreground/0900.png",
+      "maskSha256": "7636b6cecdc056d93575b145180698d61793cbfeb5466a76d73e90c28dab2538",
+      "priorityCells": 21
+    },
+    "0901": {
+      "originalImage": "assets/maps/0901.png",
+      "originalSha256": "8bddb2e25d7b3b0aed4f0b3187ee96014041824b06a3b3ae7cc54154ab700ea3",
+      "width": 320,
+      "height": 416,
+      "mask": "assets/foreground/0901.png",
+      "maskSha256": "eca47bbd79e0bf8d1510ed21dd41d007c4d3764f7e60482c0ee4928118bc025a",
+      "priorityCells": 5
+    },
+    "0902": {
+      "originalImage": "assets/maps/0902.png",
+      "originalSha256": "c550bac50bac99d423e89c0ae0f8ba728088a7bcf8f9f735f1a6f755d6e23225",
+      "width": 320,
+      "height": 320,
+      "mask": "assets/foreground/0902.png",
+      "maskSha256": "056759408e028b7da6758e226fa618e5e1865b6e7db35d93e6d0cc1902b94462",
+      "priorityCells": 2
+    },
+    "0903": {
+      "originalImage": "assets/maps/0903.png",
+      "originalSha256": "2478160b302b33541d0320026e74ad4334294d7ad10710c59cc4db727be6b762",
+      "width": 320,
+      "height": 320,
+      "mask": "assets/foreground/0903.png",
+      "maskSha256": "056759408e028b7da6758e226fa618e5e1865b6e7db35d93e6d0cc1902b94462",
+      "priorityCells": 2
+    },
+    "0904": {
+      "originalImage": "assets/maps/0904.png",
+      "originalSha256": "54f06dc3ff3b2d58d451ac39bf02dc307d891ebf1fa653dc4689bf2a1a99a9d6",
+      "width": 320,
+      "height": 320,
+      "mask": "assets/foreground/0904.png",
+      "maskSha256": "b9f431232d2e79dee2a3438133842d21de8711120016de6adbc9b9f3346ab1c3",
+      "priorityCells": 8
+    },
+    "0905": {
+      "originalImage": "assets/maps/0905.png",
+      "originalSha256": "3e4dc388ac6c58100e673b66141bd8a7accbf7de2b118d142e9a4a76233626d6",
+      "width": 320,
+      "height": 320,
+      "mask": "assets/foreground/0905.png",
+      "maskSha256": "056759408e028b7da6758e226fa618e5e1865b6e7db35d93e6d0cc1902b94462",
+      "priorityCells": 2
+    },
+    "0906": {
+      "originalImage": "assets/maps/0906.png",
+      "originalSha256": "77e8ccbf8438bfaba8a7368136da77eecd448328c6e3cd98ee6c2030d99de9ca",
+      "width": 512,
+      "height": 960,
+      "mask": null,
+      "maskSha256": null,
+      "priorityCells": 0
+    },
+    "0907": {
+      "originalImage": "assets/maps/0907.png",
+      "originalSha256": "c5c112e8c05a2232edcdd3593014c8dad433e77e387e6496843f31cf3a351d41",
+      "width": 1024,
+      "height": 640,
+      "mask": null,
+      "maskSha256": null,
+      "priorityCells": 0
+    },
+    "0908": {
+      "originalImage": "assets/maps/0908.png",
+      "originalSha256": "3e641ef28e770c7c9f055e1db07f2e1ec9ddee3fcafb34d231810763de9940d3",
+      "width": 768,
+      "height": 800,
+      "mask": null,
+      "maskSha256": null,
+      "priorityCells": 0
+    },
+    "0a00": {
+      "originalImage": "assets/maps/0a00.png",
+      "originalSha256": "4cdff6191641dd7f86ecb81c2e5b98cc75e8878d2d7710c196323d4f10295600",
+      "width": 480,
+      "height": 800,
+      "mask": null,
+      "maskSha256": null,
+      "priorityCells": 0
+    },
+    "0a01": {
+      "originalImage": "assets/maps/0a01.png",
+      "originalSha256": "35c977a7ae239bf0f55e51c2def3986a40bdaa4d6cd8ce916089ceb318348be3",
+      "width": 320,
+      "height": 480,
+      "mask": "assets/foreground/0a01.png",
+      "maskSha256": "1090cf2a39894a6f74073545d4cc970167fe5aa4070cee4219cc0431b9d11181",
+      "priorityCells": 2
+    },
+    "0a02": {
+      "originalImage": "assets/maps/0a02.png",
+      "originalSha256": "9253d63c6c6fb39d082a05eaaf5f69479b2d69abb7e0ed885ad71d736e2f198e",
+      "width": 320,
+      "height": 320,
+      "mask": "assets/foreground/0a02.png",
+      "maskSha256": "056759408e028b7da6758e226fa618e5e1865b6e7db35d93e6d0cc1902b94462",
+      "priorityCells": 2
+    },
+    "0a03": {
+      "originalImage": "assets/maps/0a03.png",
+      "originalSha256": "93676d9657fa87dab594d66b6f4b80d9704b5764223d3c64496529e8957eef4e",
+      "width": 320,
+      "height": 320,
+      "mask": "assets/foreground/0a03.png",
+      "maskSha256": "056759408e028b7da6758e226fa618e5e1865b6e7db35d93e6d0cc1902b94462",
+      "priorityCells": 2
+    },
+    "0a04": {
+      "originalImage": "assets/maps/0a04.png",
+      "originalSha256": "52def12e23a453cbeeb1986c9f7a4e8d2470b5abe05f0898cdf7b58955d481d4",
+      "width": 320,
+      "height": 320,
+      "mask": "assets/foreground/0a04.png",
+      "maskSha256": "0174f2f7ebefe673a2f5b8dd0c4ab7e545a48e4da889e9fe55de2fe62b7bdb61",
+      "priorityCells": 2
+    },
+    "0a05": {
+      "originalImage": "assets/maps/0a05.png",
+      "originalSha256": "274fdc62912dc1c1625a63f32b8c59b19f766f2a1d09e33d03ebccaf715b1335",
+      "width": 320,
+      "height": 320,
+      "mask": "assets/foreground/0a05.png",
+      "maskSha256": "2a079694e70b93d59065672ecb8ca1f69ff9222d404def49542cd9fd361c0b0a",
+      "priorityCells": 6
+    },
+    "0a06": {
+      "originalImage": "assets/maps/0a06.png",
+      "originalSha256": "5387c7a99b581247ce672e5baea7a6ffaf792e153733d207ab5b097bd95cfa64",
+      "width": 768,
+      "height": 800,
+      "mask": null,
+      "maskSha256": null,
+      "priorityCells": 0
+    },
+    "0a07": {
+      "originalImage": "assets/maps/0a07.png",
+      "originalSha256": "ed1c3bfb8e4520ebc487de00a133da2ec197ea4edd8c16d935b14c3b23a55e1e",
+      "width": 352,
+      "height": 384,
+      "mask": null,
+      "maskSha256": null,
+      "priorityCells": 0
+    },
+    "0a08": {
+      "originalImage": "assets/maps/0a08.png",
+      "originalSha256": "63bfe88a59f42a057b82c418f44ea03d75a23fef62761994c43760f4bcaed694",
+      "width": 768,
+      "height": 960,
+      "mask": null,
+      "maskSha256": null,
+      "priorityCells": 0
+    },
+    "0b00": {
+      "originalImage": "assets/maps/0b00.png",
+      "originalSha256": "c7d5ed98e0a6bb7c9416561a260f86da61af8e488169b3b459980ca3c11fef34",
+      "width": 512,
+      "height": 480,
+      "mask": "assets/foreground/0b00.png",
+      "maskSha256": "569e513d3acfda3a670553167df69a2224b602ddf8b11d657c6e83aa2b82f566",
+      "priorityCells": 16
+    },
+    "0b01": {
+      "originalImage": "assets/maps/0b01.png",
+      "originalSha256": "c550bac50bac99d423e89c0ae0f8ba728088a7bcf8f9f735f1a6f755d6e23225",
+      "width": 320,
+      "height": 320,
+      "mask": "assets/foreground/0b01.png",
+      "maskSha256": "056759408e028b7da6758e226fa618e5e1865b6e7db35d93e6d0cc1902b94462",
+      "priorityCells": 2
+    },
+    "0b02": {
+      "originalImage": "assets/maps/0b02.png",
+      "originalSha256": "2478160b302b33541d0320026e74ad4334294d7ad10710c59cc4db727be6b762",
+      "width": 320,
+      "height": 320,
+      "mask": "assets/foreground/0b02.png",
+      "maskSha256": "056759408e028b7da6758e226fa618e5e1865b6e7db35d93e6d0cc1902b94462",
+      "priorityCells": 2
+    },
+    "0b03": {
+      "originalImage": "assets/maps/0b03.png",
+      "originalSha256": "3e4dc388ac6c58100e673b66141bd8a7accbf7de2b118d142e9a4a76233626d6",
+      "width": 320,
+      "height": 320,
+      "mask": "assets/foreground/0b03.png",
+      "maskSha256": "056759408e028b7da6758e226fa618e5e1865b6e7db35d93e6d0cc1902b94462",
+      "priorityCells": 2
+    },
+    "0b04": {
+      "originalImage": "assets/maps/0b04.png",
+      "originalSha256": "54f06dc3ff3b2d58d451ac39bf02dc307d891ebf1fa653dc4689bf2a1a99a9d6",
+      "width": 320,
+      "height": 320,
+      "mask": "assets/foreground/0b04.png",
+      "maskSha256": "b9f431232d2e79dee2a3438133842d21de8711120016de6adbc9b9f3346ab1c3",
+      "priorityCells": 8
+    },
+    "0b05": {
+      "originalImage": "assets/maps/0b05.png",
+      "originalSha256": "bb0564bbed97acd6b159d08dc486005504cd5a290bcb1ef9530268c518276425",
+      "width": 1024,
+      "height": 800,
+      "mask": null,
+      "maskSha256": null,
+      "priorityCells": 0
+    },
+    "0b06": {
+      "originalImage": "assets/maps/0b06.png",
+      "originalSha256": "b25acf4745af94780019a2c9c87af8a5f6f10737854738290d15405f3387ed79",
+      "width": 768,
+      "height": 960,
+      "mask": null,
+      "maskSha256": null,
+      "priorityCells": 0
+    },
+    "0b07": {
+      "originalImage": "assets/maps/0b07.png",
+      "originalSha256": "820e940dadd4bd000a1509ce2344c553f73ce0c6e570e8492a71f99a78a3e2d8",
+      "width": 768,
+      "height": 800,
+      "mask": "assets/foreground/0b07.png",
+      "maskSha256": "04fbc64e77f7a84544f5026e7bc5dbeb2b1b5b3eaeb3a7b4c6333a3bc60aff89",
+      "priorityCells": 1
+    },
+    "0b08": {
+      "originalImage": "assets/maps/0b08.png",
+      "originalSha256": "b709821a5c3f3e044b118276d7119b3c1bfcb56614aa2223e3706b859599f1aa",
+      "width": 1024,
+      "height": 640,
+      "mask": null,
+      "maskSha256": null,
+      "priorityCells": 0
+    },
+    "0b09": {
+      "originalImage": "assets/maps/0b09.png",
+      "originalSha256": "1e8243e28ed001af7872939940116998252791e9de1f36487c058dd6038462a4",
+      "width": 768,
+      "height": 800,
+      "mask": "assets/foreground/0b09.png",
+      "maskSha256": "349d108563e4bff7442349734b3f5a553683a05dc5edfcad547cbc1cab6f593a",
+      "priorityCells": 1
+    },
+    "0b0a": {
+      "originalImage": "assets/maps/0b0a.png",
+      "originalSha256": "fc7c5993bfb9202d2df0fb8bd10447e0790320fd3668fb0268126c2648a5074b",
+      "width": 768,
+      "height": 960,
+      "mask": null,
+      "maskSha256": null,
+      "priorityCells": 0
+    },
+    "0c00": {
+      "originalImage": "assets/maps/0c00.png",
+      "originalSha256": "619857e1b54d1e90fd6fff662c63ed2867d02e88dc911aafcf00500799224ac9",
+      "width": 512,
+      "height": 416,
+      "mask": "assets/foreground/0c00.png",
+      "maskSha256": "f02ce81a41ed9406ad42d0f91101aff9ccf6647c560237ca1dd694cc473a92f4",
+      "priorityCells": 11
+    },
+    "0c01": {
+      "originalImage": "assets/maps/0c01.png",
+      "originalSha256": "2478160b302b33541d0320026e74ad4334294d7ad10710c59cc4db727be6b762",
+      "width": 320,
+      "height": 320,
+      "mask": "assets/foreground/0c01.png",
+      "maskSha256": "056759408e028b7da6758e226fa618e5e1865b6e7db35d93e6d0cc1902b94462",
+      "priorityCells": 2
+    },
+    "0c02": {
+      "originalImage": "assets/maps/0c02.png",
+      "originalSha256": "3e4dc388ac6c58100e673b66141bd8a7accbf7de2b118d142e9a4a76233626d6",
+      "width": 320,
+      "height": 320,
+      "mask": "assets/foreground/0c02.png",
+      "maskSha256": "056759408e028b7da6758e226fa618e5e1865b6e7db35d93e6d0cc1902b94462",
+      "priorityCells": 2
+    },
+    "0c03": {
+      "originalImage": "assets/maps/0c03.png",
+      "originalSha256": "54f06dc3ff3b2d58d451ac39bf02dc307d891ebf1fa653dc4689bf2a1a99a9d6",
+      "width": 320,
+      "height": 320,
+      "mask": "assets/foreground/0c03.png",
+      "maskSha256": "b9f431232d2e79dee2a3438133842d21de8711120016de6adbc9b9f3346ab1c3",
+      "priorityCells": 8
+    },
+    "0c04": {
+      "originalImage": "assets/maps/0c04.png",
+      "originalSha256": "0037e15866df3790d4d4a6940d5801c97e5298c2f37feab9a7f1469dad2e8235",
+      "width": 768,
+      "height": 960,
+      "mask": "assets/foreground/0c04.png",
+      "maskSha256": "0fe0db43ca9842e6e171a888583b5d59af92e3f0081eef3f9b4e05a0015dbb47",
+      "priorityCells": 1
+    },
+    "0c05": {
+      "originalImage": "assets/maps/0c05.png",
+      "originalSha256": "5093bcfa83303b118d787d5b4a996769fc0c7b8a687c17bac0b046375dc9b27a",
+      "width": 1024,
+      "height": 640,
+      "mask": null,
+      "maskSha256": null,
+      "priorityCells": 0
+    },
+    "0c06": {
+      "originalImage": "assets/maps/0c06.png",
+      "originalSha256": "048e09ac3812890834ff7deb931c63e1cc03e21163dd52a7f584d34ff14d89c9",
+      "width": 768,
+      "height": 800,
+      "mask": null,
+      "maskSha256": null,
+      "priorityCells": 0
+    },
+    "0c07": {
+      "originalImage": "assets/maps/0c07.png",
+      "originalSha256": "4cfce4800a4e13e3f01fd7a6dc15f55518418493f5d0894c24670a19e2c3e02c",
+      "width": 768,
+      "height": 960,
+      "mask": "assets/foreground/0c07.png",
+      "maskSha256": "0fe0db43ca9842e6e171a888583b5d59af92e3f0081eef3f9b4e05a0015dbb47",
+      "priorityCells": 1
+    },
+    "0c08": {
+      "originalImage": "assets/maps/0c08.png",
+      "originalSha256": "2bbba9e156284f8a68557ee5fd876f9eafe0e2197aad9a4baa9fc732d73aa441",
+      "width": 768,
+      "height": 640,
+      "mask": null,
+      "maskSha256": null,
+      "priorityCells": 0
+    }
+  }
+}

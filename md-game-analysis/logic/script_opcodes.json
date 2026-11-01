@@ -1,0 +1,511 @@
+[
+  {
+    "opcode": 0,
+    "hex": "0000",
+    "handler": "00fe86",
+    "semantic": "dialogue_id",
+    "payload_bytes": 2
+  },
+  {
+    "opcode": 1,
+    "hex": "0001",
+    "handler": "00ff6a",
+    "semantic": "unresolved"
+  },
+  {
+    "opcode": 2,
+    "hex": "0002",
+    "handler": "00ffc2",
+    "semantic": "unresolved"
+  },
+  {
+    "opcode": 3,
+    "hex": "0003",
+    "handler": "01009e",
+    "semantic": "reset_battle_phase_units",
+    "payload_bytes": 0
+  },
+  {
+    "opcode": 4,
+    "hex": "0004",
+    "handler": "010106",
+    "semantic": "pause_for_flag_6019_bit2"
+  },
+  {
+    "opcode": 5,
+    "hex": "0005",
+    "handler": "01011e",
+    "semantic": "spawn_unit_record",
+    "payload_bytes": 66
+  },
+  {
+    "opcode": 6,
+    "hex": "0006",
+    "handler": "0101a4",
+    "semantic": "camera_follow_spawned_unit"
+  },
+  {
+    "opcode": 7,
+    "hex": "0007",
+    "handler": "0101ee",
+    "semantic": "set_spawned_unit_type",
+    "payload_bytes": 2
+  },
+  {
+    "opcode": 8,
+    "hex": "0008",
+    "handler": "010220",
+    "semantic": "camera_follow_selected_unit"
+  },
+  {
+    "opcode": 9,
+    "hex": "0009",
+    "handler": "010268",
+    "semantic": "unresolved"
+  },
+  {
+    "opcode": 10,
+    "hex": "000a",
+    "handler": "01036c",
+    "semantic": "unresolved"
+  },
+  {
+    "opcode": 11,
+    "hex": "000b",
+    "handler": "010386",
+    "semantic": "unresolved"
+  },
+  {
+    "opcode": 12,
+    "hex": "000c",
+    "handler": "0103ce",
+    "semantic": "unresolved"
+  },
+  {
+    "opcode": 13,
+    "hex": "000d",
+    "handler": "010416",
+    "semantic": "unresolved"
+  },
+  {
+    "opcode": 14,
+    "hex": "000e",
+    "handler": "010438",
+    "semantic": "unresolved"
+  },
+  {
+    "opcode": 15,
+    "hex": "000f",
+    "handler": "01045a",
+    "semantic": "unresolved"
+  },
+  {
+    "opcode": 16,
+    "hex": "0010",
+    "handler": "0104de",
+    "semantic": "pause_for_transition_flag0"
+  },
+  {
+    "opcode": 17,
+    "hex": "0011",
+    "handler": "0104fc",
+    "semantic": "pause_for_transition_flag1"
+  },
+  {
+    "opcode": 18,
+    "hex": "0012",
+    "handler": "01051a",
+    "semantic": "set_map_and_spawn_ids",
+    "payload_bytes": 4
+  },
+  {
+    "opcode": 19,
+    "hex": "0013",
+    "handler": "01053a",
+    "semantic": "load_map_resources",
+    "payload_bytes": 0
+  },
+  {
+    "opcode": 20,
+    "hex": "0014",
+    "handler": "010586",
+    "semantic": "unresolved"
+  },
+  {
+    "opcode": 21,
+    "hex": "0015",
+    "handler": "010606",
+    "semantic": "wait_frames_counter",
+    "payload_bytes": 2
+  },
+  {
+    "opcode": 22,
+    "hex": "0016",
+    "handler": "01061e",
+    "semantic": "unresolved"
+  },
+  {
+    "opcode": 23,
+    "hex": "0017",
+    "handler": "01071e",
+    "semantic": "unresolved"
+  },
+  {
+    "opcode": 24,
+    "hex": "0018",
+    "handler": "010796",
+    "semantic": "set_FF6194_and_call_1AB3E"
+  },
+  {
+    "opcode": 25,
+    "hex": "0019",
+    "handler": "0107ac",
+    "semantic": "unresolved"
+  },
+  {
+    "opcode": 26,
+    "hex": "001a",
+    "handler": "0107d0",
+    "semantic": "unresolved"
+  },
+  {
+    "opcode": 27,
+    "hex": "001b",
+    "handler": "0107ee",
+    "semantic": "camera_to_xy",
+    "payload_bytes": 2
+  },
+  {
+    "opcode": 28,
+    "hex": "001c",
+    "handler": "010824",
+    "semantic": "scripted_move_parameters",
+    "payload_bytes": 4
+  },
+  {
+    "opcode": 29,
+    "hex": "001d",
+    "handler": "010858",
+    "semantic": "dialogue_at_player",
+    "payload_bytes": 2
+  },
+  {
+    "opcode": 30,
+    "hex": "001e",
+    "handler": "01093c",
+    "semantic": "set_animation_speed",
+    "payload_bytes": 2
+  },
+  {
+    "opcode": 31,
+    "hex": "001f",
+    "handler": "01094c",
+    "semantic": "set_exploration_entity_animation",
+    "payload_bytes": 2
+  },
+  {
+    "opcode": 32,
+    "hex": "0020",
+    "handler": "01097e",
+    "semantic": "move_player_direction",
+    "payload_bytes": 2
+  },
+  {
+    "opcode": 33,
+    "hex": "0021",
+    "handler": "010996",
+    "semantic": "set_persistent_bit",
+    "payload_bytes": 2
+  },
+  {
+    "opcode": 34,
+    "hex": "0022",
+    "handler": "0109bc",
+    "semantic": "clear_persistent_bit",
+    "payload_bytes": 2
+  },
+  {
+    "opcode": 35,
+    "hex": "0023",
+    "handler": "0109e2",
+    "semantic": "load_exploration_entities_until_index_gt15",
+    "payload_bytes": null
+  },
+  {
+    "opcode": 36,
+    "hex": "0024",
+    "handler": "010a12",
+    "semantic": "remove_exploration_entity",
+    "payload_bytes": 2
+  },
+  {
+    "opcode": 37,
+    "hex": "0025",
+    "handler": "010a32",
+    "semantic": "load_battle_map_with_dimensions",
+    "payload_bytes": 6
+  },
+  {
+    "opcode": 38,
+    "hex": "0026",
+    "handler": "010aa0",
+    "semantic": "append_party_member",
+    "payload_bytes": 2
+  },
+  {
+    "opcode": 39,
+    "hex": "0027",
+    "handler": "010ace",
+    "semantic": "return_to_exploration_and_persist_party",
+    "payload_bytes": 0
+  },
+  {
+    "opcode": 40,
+    "hex": "0028",
+    "handler": "010b40",
+    "semantic": "set_display_flags",
+    "payload_bytes": 2
+  },
+  {
+    "opcode": 41,
+    "hex": "0029",
+    "handler": "010b58",
+    "semantic": "unresolved"
+  },
+  {
+    "opcode": 42,
+    "hex": "002a",
+    "handler": "0114da",
+    "semantic": "unresolved"
+  },
+  {
+    "opcode": 43,
+    "hex": "002b",
+    "handler": "0114f2",
+    "semantic": "unresolved"
+  },
+  {
+    "opcode": 44,
+    "hex": "002c",
+    "handler": "011574",
+    "semantic": "increment_persistent_counter_E300",
+    "payload_bytes": 2
+  },
+  {
+    "opcode": 45,
+    "hex": "002d",
+    "handler": "011588",
+    "semantic": "set_persistent_byte_E600",
+    "payload_bytes": 2
+  },
+  {
+    "opcode": 46,
+    "hex": "002e",
+    "handler": "0115a2",
+    "semantic": "unresolved"
+  },
+  {
+    "opcode": 47,
+    "hex": "002f",
+    "handler": "01160a",
+    "semantic": "unresolved"
+  },
+  {
+    "opcode": 48,
+    "hex": "0030",
+    "handler": "011672",
+    "semantic": "unresolved"
+  },
+  {
+    "opcode": 49,
+    "hex": "0031",
+    "handler": "0116da",
+    "semantic": "unresolved"
+  },
+  {
+    "opcode": 50,
+    "hex": "0032",
+    "handler": "0116f2",
+    "semantic": "unresolved"
+  },
+  {
+    "opcode": 51,
+    "hex": "0033",
+    "handler": "011702",
+    "semantic": "unresolved"
+  },
+  {
+    "opcode": 52,
+    "hex": "0034",
+    "handler": "011732",
+    "semantic": "unresolved"
+  },
+  {
+    "opcode": 53,
+    "hex": "0035",
+    "handler": "01175c",
+    "semantic": "unresolved"
+  },
+  {
+    "opcode": 54,
+    "hex": "0036",
+    "handler": "0117d8",
+    "semantic": "unresolved"
+  },
+  {
+    "opcode": 55,
+    "hex": "0037",
+    "handler": "01196a",
+    "semantic": "unresolved"
+  },
+  {
+    "opcode": 56,
+    "hex": "0038",
+    "handler": "0119fa",
+    "semantic": "unresolved"
+  },
+  {
+    "opcode": 57,
+    "hex": "0039",
+    "handler": "011c6c",
+    "semantic": "unresolved"
+  },
+  {
+    "opcode": 58,
+    "hex": "003a",
+    "handler": "011c88",
+    "semantic": "unresolved"
+  },
+  {
+    "opcode": 59,
+    "hex": "003b",
+    "handler": "011c98",
+    "semantic": "unresolved"
+  },
+  {
+    "opcode": 60,
+    "hex": "003c",
+    "handler": "011cee",
+    "semantic": "unresolved"
+  },
+  {
+    "opcode": 61,
+    "hex": "003d",
+    "handler": "011d4c",
+    "semantic": "unresolved"
+  },
+  {
+    "opcode": 62,
+    "hex": "003e",
+    "handler": "011d64",
+    "semantic": "unresolved"
+  },
+  {
+    "opcode": 63,
+    "hex": "003f",
+    "handler": "011d7c",
+    "semantic": "unresolved"
+  },
+  {
+    "opcode": 64,
+    "hex": "0040",
+    "handler": "011d8c",
+    "semantic": "unresolved"
+  },
+  {
+    "opcode": 65,
+    "hex": "0041",
+    "handler": "011dc6",
+    "semantic": "unresolved"
+  },
+  {
+    "opcode": 66,
+    "hex": "0042",
+    "handler": "011dd4",
+    "semantic": "unresolved"
+  },
+  {
+    "opcode": 67,
+    "hex": "0043",
+    "handler": "011e2a",
+    "semantic": "spawn_unit_record_alt_faction",
+    "payload_bytes": 66
+  },
+  {
+    "opcode": 68,
+    "hex": "0044",
+    "handler": "011eb6",
+    "semantic": "unresolved"
+  },
+  {
+    "opcode": 69,
+    "hex": "0045",
+    "handler": "011ed6",
+    "semantic": "set_first_party_identity_1515",
+    "payload_bytes": 0
+  },
+  {
+    "opcode": 70,
+    "hex": "0046",
+    "handler": "011ee6",
+    "semantic": "unresolved"
+  },
+  {
+    "opcode": 71,
+    "hex": "0047",
+    "handler": "011f66",
+    "semantic": "unresolved"
+  },
+  {
+    "opcode": 72,
+    "hex": "0048",
+    "handler": "011f76",
+    "semantic": "unresolved"
+  },
+  {
+    "opcode": 73,
+    "hex": "0049",
+    "handler": "011f96",
+    "semantic": "unresolved"
+  },
+  {
+    "opcode": 74,
+    "hex": "004a",
+    "handler": "011fb4",
+    "semantic": "unresolved"
+  },
+  {
+    "opcode": 75,
+    "hex": "004b",
+    "handler": "011fd2",
+    "semantic": "play_and_remember_music",
+    "payload_bytes": 2
+  },
+  {
+    "opcode": 76,
+    "hex": "004c",
+    "handler": "011ff2",
+    "semantic": "unresolved"
+  },
+  {
+    "opcode": 77,
+    "hex": "004d",
+    "handler": "012002",
+    "semantic": "play_sound_command",
+    "payload_bytes": 2
+  },
+  {
+    "opcode": 78,
+    "hex": "004e",
+    "handler": "012018",
+    "semantic": "noop",
+    "payload_bytes": 0
+  },
+  {
+    "opcode": 79,
+    "hex": "004f",
+    "handler": "012018",
+    "semantic": "noop",
+    "payload_bytes": 0
+  }
+]

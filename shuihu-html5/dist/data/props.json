@@ -1,0 +1,435 @@
+{
+ "provenance": "ROM 0x25F86 props (FFE11C starts 0x243), loader 0x25D46, emotes 0x9087A @ tile 0x500, patterns 0x28188",
+ "initialMask": 579,
+ "props": [
+  {
+   "bit": 0,
+   "map": "0206",
+   "x": 208,
+   "y": 224,
+   "pattern": 117,
+   "image": "assets/props/prop-00.png",
+   "dx": 0,
+   "dy": 0,
+   "w": 48,
+   "h": 32,
+   "hd": {
+    "image": "assets/props-hd/prop-00.webp",
+    "source": "redraw",
+    "dx": -8,
+    "dy": 0,
+    "w": 64,
+    "h": 38,
+    "status": "review"
+   }
+  },
+  {
+   "bit": 1,
+   "map": "0206",
+   "x": 576,
+   "y": 224,
+   "pattern": 118,
+   "image": "assets/props/prop-01.png",
+   "dx": 0,
+   "dy": 0,
+   "w": 48,
+   "h": 32,
+   "hd": {
+    "image": "assets/props-hd/prop-01.webp",
+    "source": "redraw",
+    "dx": -8,
+    "dy": 0,
+    "w": 64,
+    "h": 38,
+    "status": "review"
+   }
+  },
+  {
+   "bit": 2,
+   "map": "0307",
+   "x": 160,
+   "y": 160,
+   "pattern": 140,
+   "image": "assets/props/prop-02.png",
+   "dx": 0,
+   "dy": 0,
+   "w": 32,
+   "h": 32,
+   "hd": {
+    "image": "assets/props-hd/prop-02.webp",
+    "source": "scale2x",
+    "dx": -8,
+    "dy": 0,
+    "w": 48,
+    "h": 38,
+    "status": "review"
+   }
+  },
+  {
+   "bit": 3,
+   "map": "0404",
+   "x": 128,
+   "y": 256,
+   "pattern": 156,
+   "image": "assets/props/prop-03.png",
+   "dx": 0,
+   "dy": 0,
+   "w": 32,
+   "h": 32,
+   "hd": {
+    "image": "assets/props-hd/prop-02.webp",
+    "source": "scale2x",
+    "dx": -8,
+    "dy": 0,
+    "w": 48,
+    "h": 38,
+    "status": "review"
+   }
+  },
+  {
+   "bit": 4,
+   "map": "0308",
+   "x": 192,
+   "y": 128,
+   "pattern": 141,
+   "image": "assets/props/prop-04.png",
+   "dx": 0,
+   "dy": 0,
+   "w": 32,
+   "h": 32,
+   "hd": {
+    "image": "assets/props-hd/prop-04.webp",
+    "source": "redraw",
+    "dx": -8,
+    "dy": 0,
+    "w": 48,
+    "h": 38,
+    "status": "review"
+   }
+  },
+  {
+   "bit": 5,
+   "map": "0308",
+   "x": 200,
+   "y": 200,
+   "pattern": 142,
+   "image": "assets/props/prop-05.png",
+   "dx": 0,
+   "dy": 0,
+   "w": 16,
+   "h": 16,
+   "hd": {
+    "image": "assets/props-hd/prop-05.webp",
+    "source": "redraw",
+    "dx": -8,
+    "dy": 0,
+    "w": 32,
+    "h": 22,
+    "status": "review"
+   }
+  },
+  {
+   "bit": 6,
+   "map": "0708",
+   "x": 128,
+   "y": 224,
+   "pattern": 143,
+   "image": "assets/props/prop-06.png",
+   "dx": 0,
+   "dy": 0,
+   "w": 48,
+   "h": 32,
+   "hd": {
+    "image": "assets/props-hd/prop-06.webp",
+    "source": "redraw",
+    "dx": -8,
+    "dy": 0,
+    "w": 64,
+    "h": 38,
+    "status": "review"
+   }
+  },
+  {
+   "bit": 7,
+   "map": "0808",
+   "x": 224,
+   "y": 128,
+   "pattern": 144,
+   "image": "assets/props/prop-07.png",
+   "dx": 0,
+   "dy": 0,
+   "w": 32,
+   "h": 32,
+   "hd": {
+    "image": "assets/props-hd/prop-07.webp",
+    "source": "redraw",
+    "dx": -8,
+    "dy": 0,
+    "w": 48,
+    "h": 38,
+    "status": "review"
+   }
+  },
+  {
+   "bit": 8,
+   "map": "0808",
+   "x": 224,
+   "y": 256,
+   "pattern": 145,
+   "image": "assets/props/prop-08.png",
+   "dx": 0,
+   "dy": 0,
+   "w": 32,
+   "h": 32,
+   "hd": {
+    "image": "assets/props-hd/prop-08.webp",
+    "source": "redraw",
+    "dx": -8,
+    "dy": 0,
+    "w": 48,
+    "h": 38,
+    "status": "review"
+   }
+  },
+  {
+   "bit": 9,
+   "map": "0809",
+   "x": 392,
+   "y": 416,
+   "pattern": 147,
+   "image": "assets/props/prop-09.png",
+   "dx": 0,
+   "dy": 0,
+   "w": 48,
+   "h": 32,
+   "hd": {
+    "image": "assets/props-hd/prop-09.webp",
+    "source": "redraw",
+    "dx": -8,
+    "dy": 0,
+    "w": 64,
+    "h": 38,
+    "status": "review"
+   }
+  },
+  {
+   "bit": 10,
+   "map": "080a",
+   "x": 136,
+   "y": 208,
+   "pattern": 148,
+   "image": "assets/props/prop-10.png",
+   "dx": 0,
+   "dy": 0,
+   "w": 16,
+   "h": 16,
+   "hd": {
+    "image": "assets/props-hd/prop-05.webp",
+    "source": "redraw",
+    "dx": -8,
+    "dy": 0,
+    "w": 32,
+    "h": 22,
+    "status": "review"
+   }
+  },
+  {
+   "bit": 11,
+   "map": "0a07",
+   "x": 152,
+   "y": 64,
+   "pattern": 149,
+   "image": "assets/props/prop-11.png",
+   "dx": 0,
+   "dy": 0,
+   "w": 56,
+   "h": 64,
+   "hd": {
+    "image": "assets/props-hd/prop-11.webp",
+    "source": "redraw",
+    "dx": 0,
+    "dy": 0,
+    "w": 56,
+    "h": 64,
+    "status": "review"
+   }
+  },
+  {
+   "bit": 12,
+   "map": "0a08",
+   "x": 360,
+   "y": 176,
+   "pattern": 150,
+   "image": "assets/props/prop-12.png",
+   "dx": 0,
+   "dy": 0,
+   "w": 16,
+   "h": 16,
+   "hd": {
+    "image": "assets/props-hd/prop-12.webp",
+    "source": "redraw",
+    "dx": -8,
+    "dy": 0,
+    "w": 32,
+    "h": 22,
+    "status": "review"
+   }
+  },
+  {
+   "bit": 13,
+   "map": "0a08",
+   "x": 376,
+   "y": 176,
+   "pattern": 150,
+   "image": "assets/props/prop-13.png",
+   "dx": 0,
+   "dy": 0,
+   "w": 16,
+   "h": 16,
+   "hd": {
+    "image": "assets/props-hd/prop-12.webp",
+    "source": "redraw",
+    "dx": -8,
+    "dy": 0,
+    "w": 32,
+    "h": 22,
+    "status": "review"
+   }
+  },
+  {
+   "bit": 14,
+   "map": "0a08",
+   "x": 392,
+   "y": 176,
+   "pattern": 150,
+   "image": "assets/props/prop-14.png",
+   "dx": 0,
+   "dy": 0,
+   "w": 16,
+   "h": 16,
+   "hd": {
+    "image": "assets/props-hd/prop-12.webp",
+    "source": "redraw",
+    "dx": -8,
+    "dy": 0,
+    "w": 32,
+    "h": 22,
+    "status": "review"
+   }
+  },
+  {
+   "bit": 15,
+   "map": "0c04",
+   "x": 160,
+   "y": 576,
+   "pattern": 153,
+   "image": "assets/props/prop-15.png",
+   "dx": 0,
+   "dy": 0,
+   "w": 32,
+   "h": 32,
+   "hd": {
+    "image": "assets/props-hd/prop-15.webp",
+    "source": "redraw",
+    "dx": -8,
+    "dy": 0,
+    "w": 48,
+    "h": 38,
+    "status": "review"
+   }
+  },
+  {
+   "bit": 16,
+   "map": "0c04",
+   "x": 160,
+   "y": 576,
+   "pattern": 154,
+   "image": "assets/props/prop-16.png",
+   "dx": 0,
+   "dy": 16,
+   "w": 32,
+   "h": 24,
+   "hd": {
+    "image": "assets/props-hd/prop-16.webp",
+    "source": "redraw",
+    "dx": -8,
+    "dy": 16,
+    "w": 48,
+    "h": 30,
+    "status": "review"
+   }
+  }
+ ],
+ "emotes": {
+  "6b": {
+   "image": "assets/props/emote-6b.png",
+   "dx": 0,
+   "dy": 0,
+   "w": 16,
+   "h": 8
+  },
+  "6c": {
+   "image": "assets/props/emote-6c.png",
+   "dx": 0,
+   "dy": 0,
+   "w": 16,
+   "h": 16
+  },
+  "6d": {
+   "image": "assets/props/emote-6d.png",
+   "dx": 0,
+   "dy": 0,
+   "w": 16,
+   "h": 16
+  },
+  "6e": {
+   "image": "assets/props/emote-6e.png",
+   "dx": 13,
+   "dy": -7,
+   "w": 16,
+   "h": 8
+  },
+  "6f": {
+   "image": "assets/props/emote-6f.png",
+   "dx": 5,
+   "dy": -15,
+   "w": 32,
+   "h": 16
+  },
+  "70": {
+   "image": "assets/props/emote-70.png",
+   "dx": 5,
+   "dy": -23,
+   "w": 32,
+   "h": 16
+  },
+  "71": {
+   "image": "assets/props/emote-71.png",
+   "dx": -4,
+   "dy": -14,
+   "w": 16,
+   "h": 16
+  },
+  "72": {
+   "image": "assets/props/emote-72.png",
+   "dx": -4,
+   "dy": -14,
+   "w": 16,
+   "h": 16
+  },
+  "73": {
+   "image": "assets/props/emote-73.png",
+   "dx": 20,
+   "dy": -14,
+   "w": 16,
+   "h": 16
+  },
+  "74": {
+   "image": "assets/props/emote-74.png",
+   "dx": 20,
+   "dy": -14,
+   "w": 16,
+   "h": 16
+  }
+ }
+}

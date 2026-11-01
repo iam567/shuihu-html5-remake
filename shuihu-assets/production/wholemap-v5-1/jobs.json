@@ -1,0 +1,668 @@
+[
+  {
+    "id": "0100-ghibli",
+    "kind": "whole-map",
+    "style": "ghibli",
+    "reference": "0100-reference.png",
+    "size": "3072x2560",
+    "cell": 128,
+    "sourceId": "0100"
+  },
+  {
+    "id": "0100-hd2d",
+    "kind": "whole-map",
+    "style": "hd2d",
+    "reference": "0100-reference.png",
+    "size": "3072x2560",
+    "cell": 128,
+    "sourceId": "0100"
+  },
+  {
+    "id": "0103-ghibli",
+    "kind": "whole-map",
+    "style": "ghibli",
+    "reference": "0103-reference.png",
+    "size": "1280x1280",
+    "cell": 128,
+    "sourceId": "0103"
+  },
+  {
+    "id": "0103-hd2d",
+    "kind": "whole-map",
+    "style": "hd2d",
+    "reference": "0103-reference.png",
+    "size": "1280x1280",
+    "cell": 128,
+    "sourceId": "0103"
+  },
+  {
+    "id": "0104-hd2d",
+    "kind": "whole-map",
+    "style": "hd2d",
+    "reference": "0104-reference.png",
+    "size": "1280x1280",
+    "cell": 128,
+    "sourceId": "0104"
+  },
+  {
+    "id": "0200-ghibli",
+    "kind": "whole-map",
+    "style": "ghibli",
+    "reference": "0200-reference.png",
+    "size": "3072x1920",
+    "cell": 128,
+    "sourceId": "0200"
+  },
+  {
+    "id": "0200-hd2d",
+    "kind": "whole-map",
+    "style": "hd2d",
+    "reference": "0200-reference.png",
+    "size": "3072x1920",
+    "cell": 128,
+    "sourceId": "0200"
+  },
+  {
+    "id": "0203-ghibli",
+    "kind": "whole-map",
+    "style": "ghibli",
+    "reference": "0203-reference.png",
+    "size": "1280x1280",
+    "cell": 128,
+    "sourceId": "0203"
+  },
+  {
+    "id": "0303-ghibli",
+    "kind": "whole-map",
+    "style": "ghibli",
+    "reference": "0303-reference.png",
+    "size": "1280x1280",
+    "cell": 128,
+    "sourceId": "0303"
+  },
+  {
+    "id": "0307-ghibli",
+    "kind": "whole-map",
+    "style": "ghibli",
+    "reference": "0307-reference.png",
+    "size": "2688x2800",
+    "cell": 112,
+    "sourceId": "0307"
+  },
+  {
+    "id": "0307-hd2d",
+    "kind": "whole-map",
+    "style": "hd2d",
+    "reference": "0307-reference.png",
+    "size": "2688x2800",
+    "cell": 112,
+    "sourceId": "0307"
+  },
+  {
+    "id": "0309-hd2d",
+    "kind": "whole-map",
+    "style": "hd2d",
+    "reference": "0309-reference.png",
+    "size": "1536x3840",
+    "cell": 128,
+    "sourceId": "0309"
+  },
+  {
+    "id": "0400-hd2d",
+    "kind": "whole-map",
+    "style": "hd2d",
+    "reference": "0400-reference.png",
+    "size": "2048x3584",
+    "cell": 128,
+    "sourceId": "0400"
+  },
+  {
+    "id": "0401-hd2d",
+    "kind": "whole-map",
+    "style": "hd2d",
+    "reference": "0401-reference.png",
+    "size": "1280x1280",
+    "cell": 128,
+    "sourceId": "0401"
+  },
+  {
+    "id": "0402-hd2d",
+    "kind": "whole-map",
+    "style": "hd2d",
+    "reference": "0402-reference.png",
+    "size": "1280x1280",
+    "cell": 128,
+    "sourceId": "0402"
+  },
+  {
+    "id": "0408-ghibli",
+    "kind": "whole-map",
+    "style": "ghibli",
+    "reference": "0408-reference.png",
+    "size": "3072x1920",
+    "cell": 128,
+    "sourceId": "0408"
+  },
+  {
+    "id": "0408-hd2d",
+    "kind": "whole-map",
+    "style": "hd2d",
+    "reference": "0408-reference.png",
+    "size": "3072x1920",
+    "cell": 128,
+    "sourceId": "0408"
+  },
+  {
+    "id": "0409-ghibli",
+    "kind": "whole-map",
+    "style": "ghibli",
+    "reference": "0409-reference.png",
+    "size": "3072x2560",
+    "cell": 128,
+    "sourceId": "0409"
+  },
+  {
+    "id": "0501-hd2d",
+    "kind": "whole-map",
+    "style": "hd2d",
+    "reference": "0501-reference.png",
+    "size": "1280x1280",
+    "cell": 128,
+    "sourceId": "0501"
+  },
+  {
+    "id": "0502-hd2d",
+    "kind": "whole-map",
+    "style": "hd2d",
+    "reference": "0502-reference.png",
+    "size": "1280x1280",
+    "cell": 128,
+    "sourceId": "0502"
+  },
+  {
+    "id": "0505-ghibli",
+    "kind": "whole-map",
+    "style": "ghibli",
+    "reference": "0505-reference.png",
+    "size": "1280x1280",
+    "cell": 128,
+    "sourceId": "0505"
+  },
+  {
+    "id": "0506-ghibli",
+    "kind": "whole-map",
+    "style": "ghibli",
+    "reference": "0506-reference.png",
+    "size": "1280x1280",
+    "cell": 128,
+    "sourceId": "0506"
+  },
+  {
+    "id": "0600-hd2d",
+    "kind": "whole-map",
+    "style": "hd2d",
+    "reference": "0600-reference.png",
+    "size": "3072x1920",
+    "cell": 128,
+    "sourceId": "0600"
+  },
+  {
+    "id": "0602-hd2d",
+    "kind": "whole-map",
+    "style": "hd2d",
+    "reference": "0602-reference.png",
+    "size": "1280x1664",
+    "cell": 128,
+    "sourceId": "0602"
+  },
+  {
+    "id": "0603-ghibli",
+    "kind": "whole-map",
+    "style": "ghibli",
+    "reference": "0603-reference.png",
+    "size": "1280x1280",
+    "cell": 128,
+    "sourceId": "0603"
+  },
+  {
+    "id": "0604-hd2d",
+    "kind": "whole-map",
+    "style": "hd2d",
+    "reference": "0604-reference.png",
+    "size": "1280x1280",
+    "cell": 128,
+    "sourceId": "0604"
+  },
+  {
+    "id": "0700-ghibli",
+    "kind": "whole-map",
+    "style": "ghibli",
+    "reference": "0700-reference.png",
+    "size": "2048x2944",
+    "cell": 128,
+    "sourceId": "0700"
+  },
+  {
+    "id": "0700-hd2d",
+    "kind": "whole-map",
+    "style": "hd2d",
+    "reference": "0700-reference.png",
+    "size": "2048x2944",
+    "cell": 128,
+    "sourceId": "0700"
+  },
+  {
+    "id": "0702-ghibli",
+    "kind": "whole-map",
+    "style": "ghibli",
+    "reference": "0702-reference.png",
+    "size": "1280x1280",
+    "cell": 128,
+    "sourceId": "0702"
+  },
+  {
+    "id": "0702-hd2d",
+    "kind": "whole-map",
+    "style": "hd2d",
+    "reference": "0702-reference.png",
+    "size": "1280x1280",
+    "cell": 128,
+    "sourceId": "0702"
+  },
+  {
+    "id": "0703-hd2d",
+    "kind": "whole-map",
+    "style": "hd2d",
+    "reference": "0703-reference.png",
+    "size": "1280x1280",
+    "cell": 128,
+    "sourceId": "0703"
+  },
+  {
+    "id": "0705-ghibli",
+    "kind": "whole-map",
+    "style": "ghibli",
+    "reference": "0705-reference.png",
+    "size": "1280x1280",
+    "cell": 128,
+    "sourceId": "0705"
+  },
+  {
+    "id": "0708-ghibli",
+    "kind": "whole-map",
+    "style": "ghibli",
+    "reference": "0708-reference.png",
+    "size": "2688x2800",
+    "cell": 112,
+    "sourceId": "0708"
+  },
+  {
+    "id": "0800-hd2d",
+    "kind": "whole-map",
+    "style": "hd2d",
+    "reference": "0800-reference.png",
+    "size": "3072x1920",
+    "cell": 128,
+    "sourceId": "0800"
+  },
+  {
+    "id": "0804-hd2d",
+    "kind": "whole-map",
+    "style": "hd2d",
+    "reference": "0804-reference.png",
+    "size": "1280x1280",
+    "cell": 128,
+    "sourceId": "0804"
+  },
+  {
+    "id": "0806-ghibli",
+    "kind": "whole-map",
+    "style": "ghibli",
+    "reference": "0806-reference.png",
+    "size": "1280x1280",
+    "cell": 128,
+    "sourceId": "0806"
+  },
+  {
+    "id": "0806-hd2d",
+    "kind": "whole-map",
+    "style": "hd2d",
+    "reference": "0806-reference.png",
+    "size": "1280x1280",
+    "cell": 128,
+    "sourceId": "0806"
+  },
+  {
+    "id": "0809-ghibli",
+    "kind": "whole-map",
+    "style": "ghibli",
+    "reference": "0809-reference.png",
+    "size": "2688x2800",
+    "cell": 112,
+    "sourceId": "0809"
+  },
+  {
+    "id": "080a-ghibli",
+    "kind": "whole-map",
+    "style": "ghibli",
+    "reference": "080a-reference.png",
+    "size": "1280x1280",
+    "cell": 128,
+    "sourceId": "080a"
+  },
+  {
+    "id": "080a-hd2d",
+    "kind": "whole-map",
+    "style": "hd2d",
+    "reference": "080a-reference.png",
+    "size": "1280x1280",
+    "cell": 128,
+    "sourceId": "080a"
+  },
+  {
+    "id": "0900-ghibli",
+    "kind": "whole-map",
+    "style": "ghibli",
+    "reference": "0900-reference.png",
+    "size": "2048x2560",
+    "cell": 128,
+    "sourceId": "0900"
+  },
+  {
+    "id": "0900-hd2d",
+    "kind": "whole-map",
+    "style": "hd2d",
+    "reference": "0900-reference.png",
+    "size": "2048x2560",
+    "cell": 128,
+    "sourceId": "0900"
+  },
+  {
+    "id": "0906-ghibli",
+    "kind": "whole-map",
+    "style": "ghibli",
+    "reference": "0906-reference.png",
+    "size": "2048x3840",
+    "cell": 128,
+    "sourceId": "0906"
+  },
+  {
+    "id": "0907-ghibli",
+    "kind": "whole-map",
+    "style": "ghibli",
+    "reference": "0907-reference.png",
+    "size": "3584x2240",
+    "cell": 112,
+    "sourceId": "0907"
+  },
+  {
+    "id": "0907-hd2d",
+    "kind": "whole-map",
+    "style": "hd2d",
+    "reference": "0907-reference.png",
+    "size": "3584x2240",
+    "cell": 112,
+    "sourceId": "0907"
+  },
+  {
+    "id": "0908-ghibli",
+    "kind": "whole-map",
+    "style": "ghibli",
+    "reference": "0908-reference.png",
+    "size": "2688x2800",
+    "cell": 112,
+    "sourceId": "0908"
+  },
+  {
+    "id": "0a00-ghibli",
+    "kind": "whole-map",
+    "style": "ghibli",
+    "reference": "0a00-reference.png",
+    "size": "1920x3200",
+    "cell": 128,
+    "sourceId": "0a00"
+  },
+  {
+    "id": "0a00-hd2d",
+    "kind": "whole-map",
+    "style": "hd2d",
+    "reference": "0a00-reference.png",
+    "size": "1920x3200",
+    "cell": 128,
+    "sourceId": "0a00"
+  },
+  {
+    "id": "0a03-hd2d",
+    "kind": "whole-map",
+    "style": "hd2d",
+    "reference": "0a03-reference.png",
+    "size": "1280x1280",
+    "cell": 128,
+    "sourceId": "0a03"
+  },
+  {
+    "id": "0a05-hd2d",
+    "kind": "whole-map",
+    "style": "hd2d",
+    "reference": "0a05-reference.png",
+    "size": "1280x1280",
+    "cell": 128,
+    "sourceId": "0a05"
+  },
+  {
+    "id": "0b00-ghibli",
+    "kind": "whole-map",
+    "style": "ghibli",
+    "reference": "0b00-reference.png",
+    "size": "2048x1920",
+    "cell": 128,
+    "sourceId": "0b00"
+  },
+  {
+    "id": "0b02-hd2d",
+    "kind": "whole-map",
+    "style": "hd2d",
+    "reference": "0b02-reference.png",
+    "size": "1280x1280",
+    "cell": 128,
+    "sourceId": "0b02"
+  },
+  {
+    "id": "0b04-ghibli",
+    "kind": "whole-map",
+    "style": "ghibli",
+    "reference": "0b04-reference.png",
+    "size": "1280x1280",
+    "cell": 128,
+    "sourceId": "0b04"
+  },
+  {
+    "id": "0b05-hd2d",
+    "kind": "whole-map",
+    "style": "hd2d",
+    "reference": "0b05-reference.png",
+    "size": "3072x2400",
+    "cell": 96,
+    "sourceId": "0b05"
+  },
+  {
+    "id": "0b06-ghibli",
+    "kind": "whole-map",
+    "style": "ghibli",
+    "reference": "0b06-reference.png",
+    "size": "2304x2880",
+    "cell": 96,
+    "sourceId": "0b06"
+  },
+  {
+    "id": "0b06-hd2d",
+    "kind": "whole-map",
+    "style": "hd2d",
+    "reference": "0b06-reference.png",
+    "size": "2304x2880",
+    "cell": 96,
+    "sourceId": "0b06"
+  },
+  {
+    "id": "0b07-ghibli",
+    "kind": "whole-map",
+    "style": "ghibli",
+    "reference": "0b07-reference.png",
+    "size": "2688x2800",
+    "cell": 112,
+    "sourceId": "0b07"
+  },
+  {
+    "id": "0b08-ghibli",
+    "kind": "whole-map",
+    "style": "ghibli",
+    "reference": "0b08-reference.png",
+    "size": "3584x2240",
+    "cell": 112,
+    "sourceId": "0b08"
+  },
+  {
+    "id": "0b08-hd2d",
+    "kind": "whole-map",
+    "style": "hd2d",
+    "reference": "0b08-reference.png",
+    "size": "3584x2240",
+    "cell": 112,
+    "sourceId": "0b08"
+  },
+  {
+    "id": "0b09-ghibli",
+    "kind": "whole-map",
+    "style": "ghibli",
+    "reference": "0b09-reference.png",
+    "size": "2688x2800",
+    "cell": 112,
+    "sourceId": "0b09"
+  },
+  {
+    "id": "0b0a-ghibli",
+    "kind": "whole-map",
+    "style": "ghibli",
+    "reference": "0b0a-reference.png",
+    "size": "2304x2880",
+    "cell": 96,
+    "sourceId": "0b0a"
+  },
+  {
+    "id": "0c00-ghibli",
+    "kind": "whole-map",
+    "style": "ghibli",
+    "reference": "0c00-reference.png",
+    "size": "2048x1664",
+    "cell": 128,
+    "sourceId": "0c00"
+  },
+  {
+    "id": "0c00-hd2d",
+    "kind": "whole-map",
+    "style": "hd2d",
+    "reference": "0c00-reference.png",
+    "size": "2048x1664",
+    "cell": 128,
+    "sourceId": "0c00"
+  },
+  {
+    "id": "0c01-ghibli",
+    "kind": "whole-map",
+    "style": "ghibli",
+    "reference": "0c01-reference.png",
+    "size": "1280x1280",
+    "cell": 128,
+    "sourceId": "0c01"
+  },
+  {
+    "id": "0c04-ghibli",
+    "kind": "whole-map",
+    "style": "ghibli",
+    "reference": "0c04-reference.png",
+    "size": "2304x2880",
+    "cell": 96,
+    "sourceId": "0c04"
+  },
+  {
+    "id": "0c04-hd2d",
+    "kind": "whole-map",
+    "style": "hd2d",
+    "reference": "0c04-reference.png",
+    "size": "2304x2880",
+    "cell": 96,
+    "sourceId": "0c04"
+  },
+  {
+    "id": "0c05-ghibli",
+    "kind": "whole-map",
+    "style": "ghibli",
+    "reference": "0c05-reference.png",
+    "size": "3584x2240",
+    "cell": 112,
+    "sourceId": "0c05"
+  },
+  {
+    "id": "0c05-hd2d",
+    "kind": "whole-map",
+    "style": "hd2d",
+    "reference": "0c05-reference.png",
+    "size": "3584x2240",
+    "cell": 112,
+    "sourceId": "0c05"
+  },
+  {
+    "id": "0c06-ghibli",
+    "kind": "whole-map",
+    "style": "ghibli",
+    "reference": "0c06-reference.png",
+    "size": "2688x2800",
+    "cell": 112,
+    "sourceId": "0c06"
+  },
+  {
+    "id": "0c06-hd2d",
+    "kind": "whole-map",
+    "style": "hd2d",
+    "reference": "0c06-reference.png",
+    "size": "2688x2800",
+    "cell": 112,
+    "sourceId": "0c06"
+  },
+  {
+    "id": "0c07-ghibli",
+    "kind": "whole-map",
+    "style": "ghibli",
+    "reference": "0c07-reference.png",
+    "size": "2304x2880",
+    "cell": 96,
+    "sourceId": "0c07"
+  },
+  {
+    "id": "0c07-hd2d",
+    "kind": "whole-map",
+    "style": "hd2d",
+    "reference": "0c07-reference.png",
+    "size": "2304x2880",
+    "cell": 96,
+    "sourceId": "0c07"
+  },
+  {
+    "id": "0c08-ghibli",
+    "kind": "whole-map",
+    "style": "ghibli",
+    "reference": "0c08-reference.png",
+    "size": "3072x2560",
+    "cell": 128,
+    "sourceId": "0c08"
+  },
+  {
+    "id": "0c08-hd2d",
+    "kind": "whole-map",
+    "style": "hd2d",
+    "reference": "0c08-reference.png",
+    "size": "3072x2560",
+    "cell": 128,
+    "sourceId": "0c08"
+  }
+]

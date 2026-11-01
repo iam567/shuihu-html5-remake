@@ -1,0 +1,1029 @@
+ram:0000  DI
+ram:0001  IM 1
+ram:0003  LD SP,0x2000
+ram:0006  JP 0x0046
+ram:0009  LD A,A
+ram:000a  LD A,A
+ram:000b  LD A,A
+ram:000c  LD A,A
+ram:000d  LD A,A
+ram:000e  LD A,A
+ram:000f  LD A,A
+ram:0010  LD A,A
+ram:0011  LD A,A
+ram:0012  LD A,A
+ram:0013  LD A,A
+ram:0014  LD A,A
+ram:0015  LD A,A
+ram:0016  LD A,A
+ram:0017  LD A,A
+ram:0018  LD A,A
+ram:0019  LD A,A
+ram:001a  LD A,A
+ram:001b  LD A,A
+ram:001c  LD A,A
+ram:001d  LD A,A
+ram:001e  LD A,A
+ram:001f  LD A,A
+ram:0020  NOP
+ram:0021  ADD A,B
+ram:0022  LD BC,0x0
+ram:0025  NOP
+ram:0026  NOP
+ram:0027  NOP
+ram:0028  NOP
+ram:0029  NOP
+ram:002a  NOP
+ram:002b  NOP
+ram:002c  NOP
+ram:002d  NOP
+ram:002e  NOP
+ram:002f  NOP
+ram:0030  JR 0x0032
+ram:0032  NOP
+ram:0033  NOP
+ram:0034  CPL
+ram:0035  LD A,0x0
+ram:0037  RLCA
+ram:0038  LD (0x6000),A
+ram:003b  LD B,0x8
+ram:003d  LD A,0x40
+ram:003f  LD (0x6000),A
+ram:0042  RRCA
+ram:0043  DJNZ 0x003f
+ram:0045  RET
+ram:0046  LD A,IXL
+ram:0048  LD A,IYL
+ram:004a  ADD A,IXL
+ram:004c  ADC A,IXH
+ram:004e  SUB L
+ram:004f  CALL 0x0035
+ram:0052  LD HL,0x30
+ram:0055  LD A,0x0
+ram:0057  LD (0x8004),A
+ram:005a  LD A,(0x8006)
+ram:005d  LD (HL),A
+ram:005e  INC HL
+ram:005f  LD A,0x60
+ram:0061  LD (0x8004),A
+ram:0064  LD A,(0x8006)
+ram:0067  ADD A,(HL)
+ram:0068  LD (HL),A
+ram:0069  INC HL
+ram:006a  LD A,0x0
+ram:006c  LD (0x8004),A
+ram:006f  LD A,(0x8006)
+ram:0072  ADD A,(HL)
+ram:0073  LD (HL),A
+ram:0074  INC HL
+ram:0075  LD A,0xcb
+ram:0077  LD (0x8004),A
+ram:007a  LD A,(0x8006)
+ram:007d  ADD A,(HL)
+ram:007e  LD (HL),A
+ram:007f  LD IY,0x20
+ram:0083  BIT 0x6,(IY+0x1)
+ram:0087  JP Z,0x009a
+ram:008a  BIT 0x7,(IY+0x0)
+ram:008e  JP NZ,0x009a
+ram:0091  PUSH BC
+ram:0092  LD B,0x2
+ram:0094  DJNZ 0x0094
+ram:0096  POP BC
+ram:0097  JP 0x016e
+ram:009a  LD A,(0x0020)
+ram:009d  OR (IY+0x1)
+ram:00a0  JP Z,0x009a
+ram:00a3  LD A,(0x0020)
+ram:00a6  OR A
+ram:00a7  JP Z,0x016e
+ram:00aa  LD (IY+0x0),0x0
+ram:00ae  LD I,A
+ram:00b0  LD A,0x80
+ram:00b2  JP P,0x00b7
+ram:00b5  OR 0x40
+ram:00b7  LD (IY+0x1),A
+ram:00ba  LD A,I
+ram:00bc  AND 0x7f
+ram:00be  DEC A
+ram:00bf  LD H,0x0
+ram:00c1  LD L,A
+ram:00c2  ADD HL,HL
+ram:00c3  ADD HL,HL
+ram:00c4  ADD HL,HL
+ram:00c5  EX DE,HL
+ram:00c6  LD IX,0x1ad
+ram:00ca  ADD IX,DE
+ram:00cc  LD A,(IX+0x4)
+ram:00cf  LD HL,(0x0030)
+ram:00d2  LD (HL),A
+ram:00d3  LD A,(IX+0x5)
+ram:00d6  LD HL,0x32
+ram:00d9  ADD A,(HL)
+ram:00da  LD HL,(0x0030)
+ram:00dd  LD B,0x8
+ram:00df  LD (HL),A
+ram:00e0  RRCA
+ram:00e1  DJNZ 0x00df
+ram:00e3  LD HL,0xf5
+ram:00e6  LD A,(0x0022)
+ram:00e9  ADD A,A
+ram:00ea  ADD A,L
+ram:00eb  LD L,A
+ram:00ec  LD A,0x0
+ram:00ee  ADC A,H
+ram:00ef  LD H,A
+ram:00f0  LD A,(HL)
+ram:00f1  INC HL
+ram:00f2  LD H,(HL)
+ram:00f3  LD L,A
+ram:00f4  JP (HL)
+ram:00f5  LD D,B
+ram:00f6  LD BC,0x13b
+ram:00f9  LD H,0x1
+ram:00fb  LD DE,0xff01
+ram:00fe  NOP
+ram:00ff  LD HL,(0x0033)
+ram:0102  LD (0x0178),HL
+ram:0105  LD (0x017a),HL
+ram:0108  LD (0x017c),HL
+ram:010b  LD (0x017e),HL
+ram:010e  JP 0x0162
+ram:0111  LD HL,(0x0033)
+ram:0114  LD (0x0178),HL
+ram:0117  LD (0x017a),HL
+ram:011a  LD (0x017c),HL
+ram:011d  LD HL,0x0
+ram:0120  LD (0x017e),HL
+ram:0123  JP 0x0162
+ram:0126  LD HL,(0x0033)
+ram:0129  LD (0x0178),HL
+ram:012c  LD (0x017a),HL
+ram:012f  LD HL,0x0
+ram:0132  LD (0x017c),HL
+ram:0135  LD (0x017e),HL
+ram:0138  JP 0x0162
+ram:013b  LD HL,(0x0033)
+ram:013e  LD (0x0178),HL
+ram:0141  LD HL,0x0
+ram:0144  LD (0x017a),HL
+ram:0147  LD (0x017c),HL
+ram:014a  LD (0x017e),HL
+ram:014d  JP 0x0162
+ram:0150  LD HL,0x0
+ram:0153  LD (0x0178),HL
+ram:0156  LD (0x017a),HL
+ram:0159  LD (0x017c),HL
+ram:015c  LD (0x017e),HL
+ram:015f  JP 0x0162
+ram:0162  LD E,(IX+0x0)
+ram:0165  LD D,(IX+0x1)
+ram:0168  LD C,(IX+0x2)
+ram:016b  LD B,(IX+0x3)
+ram:016e  LD A,(IX+0x6)
+ram:0171  DEC A
+ram:0172  JP NZ,0x0171
+ram:0175  LD A,(DE)
+ram:0176  SUB 0x80
+ram:0178  NOP
+ram:0179  NOP
+ram:017a  NOP
+ram:017b  NOP
+ram:017c  NOP
+ram:017d  NOP
+ram:017e  NOP
+ram:017f  NOP
+ram:0180  ADD A,0x80
+ram:0182  LD (0x4001),A
+ram:0185  INC DE
+ram:0186  DEC BC
+ram:0187  LD A,B
+ram:0188  OR C
+ram:0189  JP NZ,0x0083
+ram:018c  LD A,(IY+0x0)
+ram:018f  OR A
+ram:0190  JP Z,0x01a0
+ram:0193  JP M,0x01a6
+ram:0196  LD A,(IX+0x7)
+ram:0199  OR A
+ram:019a  JP M,0x01a0
+ram:019d  JP 0x01a6
+ram:01a0  LD A,(IX+0x7)
+ram:01a3  LD (IY+0x0),A
+ram:01a6  LD (IY+0x1),0x0
+ram:01aa  JP 0x0083
+ram:01ad  DJNZ 0x01af
+ram:01af  LD BC,0x100
+ram:01b2  RRA
+ram:01b3  LD BC,0x0
+ram:01b6  ADD A,B
+ram:01b7  JR NZ,0x01be
+ram:01b9  LD BC,0x11e
+ram:01bc  NOP
+ram:01bd  JR NZ,0x0144
+ram:01bf  OR A
+ram:01c0  INC B
+ram:01c1  LD BC,0x11e
+ram:01c4  NOP
+ram:01c5  RST 0x0010
+ram:01c6  ADC A,C
+ram:01c7  LD B,B
+ram:01c8  DEC C
+ram:01c9  LD BC,0x11e
+ram:01cc  NOP
+ram:01cd  RLA
+ram:01ce  SUB A
+ram:01cf  LD D,A
+ram:01d0  LD DE,0x1e01
+ram:01d3  LD BC,0x6d00
+ram:01d6  XOR B
+ram:01d7  LD D,A
+ram:01d8  LD DE,0x1e01
+ram:01db  LD BC,0xc500
+ram:01de  CP C
+ram:01df  LD D,A
+ram:01e0  LD DE,0x1e01
+ram:01e3  LD BC,0x1c00
+ram:01e6  RES 0x6,A
+ram:01e8  INC B
+ram:01e9  LD BC,0x11e
+ram:01ec  NOP
+ram:01ed  OUT (0xcf),A
+ram:01ef  LD B,B
+ram:01f0  DEC C
+ram:01f1  LD BC,0x11e
+ram:01f4  NOP
+ram:01f5  INC DE
+ram:01f7  LD D,E
+ram:01f8  LD B,0x1
+ram:01fa  LD E,0x1
+ram:01fc  NOP
+ram:01fd  INC DE
+ram:01ff  LD D,E
+ram:0200  LD B,0x1
+ram:0202  LD E,0x3
+ram:0204  NOP
+ram:0205  LD H,(HL)
+ram:0206  EX (SP),HL
+ram:0207  INC HL
+ram:0208  DEC BC
+ram:0209  LD BC,0x11e
+ram:020c  NOP
+ram:020d  LD H,(HL)
+ram:020e  EX (SP),HL
+ram:020f  INC HL
+ram:0210  DEC BC
+ram:0211  LD BC,0x81e
+ram:0214  NOP
+ram:0215  LD H,(HL)
+ram:0216  EX (SP),HL
+ram:0217  INC HL
+ram:0218  DEC BC
+ram:0219  LD BC,0xf1e
+ram:021c  NOP
+ram:021d  LD H,(HL)
+ram:021e  EX (SP),HL
+ram:021f  INC HL
+ram:0220  DEC BC
+ram:0221  LD BC,0x181e
+ram:0224  NOP
+ram:0225  LD H,(HL)
+ram:0226  EX (SP),HL
+ram:0227  INC HL
+ram:0228  DEC BC
+ram:0229  LD BC,0x1f1e
+ram:022c  NOP
+ram:022d  LD H,(HL)
+ram:022e  EX (SP),HL
+ram:022f  INC HL
+ram:0230  DEC BC
+ram:0231  LD BC,0x281e
+ram:0234  NOP
+ram:0235  ADC A,C
+ram:0236  XOR 0x8c
+ram:0238  LD C,0x1
+ram:023a  LD E,0x1
+ram:023c  NOP
+ram:023d  ADC A,C
+ram:023e  XOR 0x8c
+ram:0240  LD C,0x1
+ram:0242  LD E,0x8
+ram:0244  NOP
+ram:0245  ADC A,C
+ram:0246  XOR 0x8c
+ram:0248  LD C,0x1
+ram:024a  LD E,0xf
+ram:024c  NOP
+ram:024d  ADC A,C
+ram:024e  XOR 0x8c
+ram:0250  LD C,0x1
+ram:0252  LD E,0x18
+ram:0254  NOP
+ram:0255  ADC A,C
+ram:0256  XOR 0x8c
+ram:0258  LD C,0x1
+ram:025a  LD E,0x1f
+ram:025c  NOP
+ram:025d  ADC A,C
+ram:025e  XOR 0x8c
+ram:0260  LD C,0x1
+ram:0262  LD E,0x28
+ram:0264  NOP
+ram:0265  NOP
+ram:0266  ADD A,B
+ram:0267  DEC HL
+ram:0268  INC B
+ram:0269  NOP
+ram:026a  RRA
+ram:026b  INC B
+ram:026c  NOP
+ram:026d  NOP
+ram:026e  ADD A,B
+ram:026f  DEC HL
+ram:0270  INC B
+ram:0271  NOP
+ram:0272  RRA
+ram:0273  EX AF,AF_
+ram:0274  NOP
+ram:0275  DEC HL
+ram:0276  ADD A,H
+ram:0277  LD H,(HL)
+ram:0278  DEC L
+ram:0279  NOP
+ram:027a  RRA
+ram:027b  LD BC,0x9100
+ram:027e  OR C
+ram:027f  RST 0x0028
+ram:0280  LD (BC),A
+ram:0281  NOP
+ram:0282  RRA
+ram:0283  INC BC
+ram:0284  NOP
+ram:0285  ADD A,B
+ram:0286  OR H
+ram:0287  RST 0x0018
+ram:0288  LD (BC),A
+ram:0289  NOP
+ram:028a  RRA
+ram:028b  LD BC,0x5e00
+ram:028e  OR A
+ram:028f  JP M,0x0002
+ram:0292  RRA
+ram:0293  INC B
+ram:0294  NOP
+ram:0295  LD E,(HL)
+ram:0296  OR A
+ram:0297  JP M,0x0002
+ram:029a  RRA
+ram:029b  EX AF,AF_
+ram:029c  NOP
+ram:029d  LD E,C
+ram:029e  CP D
+ram:029f  LD D,E
+ram:02a0  EX AF,AF_
+ram:02a1  NOP
+ram:02a2  RRA
+ram:02a3  INC B
+ram:02a4  NOP
+ram:02a5  LD E,C
+ram:02a6  CP D
+ram:02a7  LD D,E
+ram:02a8  EX AF,AF_
+ram:02a9  NOP
+ram:02aa  RRA
+ram:02ab  EX AF,AF_
+ram:02ac  NOP
+ram:02ad  XOR H
+ram:02ae  JP NZ,0x14bd
+ram:02b1  NOP
+ram:02b2  RRA
+ram:02b3  LD (BC),A
+ram:02b4  NOP
+ram:02b5  XOR H
+ram:02b6  JP NZ,0x14bd
+ram:02b9  NOP
+ram:02ba  RRA
+ram:02bb  INC BC
+ram:02bc  NOP
+ram:02bd  XOR H
+ram:02be  JP NZ,0x14bd
+ram:02c1  NOP
+ram:02c2  RRA
+ram:02c3  INC B
+ram:02c4  NOP
+ram:02c5  XOR H
+ram:02c6  JP NZ,0x14bd
+ram:02c9  NOP
+ram:02ca  RRA
+ram:02cb  DEC B
+ram:02cc  NOP
+ram:02cd  XOR H
+ram:02ce  JP NZ,0x14bd
+ram:02d1  NOP
+ram:02d2  RRA
+ram:02d3  RLCA
+ram:02d4  NOP
+ram:02d5  XOR H
+ram:02d6  JP NZ,0x14bd
+ram:02d9  NOP
+ram:02da  RRA
+ram:02db  EX AF,AF_
+ram:02dc  NOP
+ram:02dd  XOR H
+ram:02de  JP NZ,0x14bd
+ram:02e1  NOP
+ram:02e2  RRA
+ram:02e3  LD A,(BC)
+ram:02e4  NOP
+ram:02e5  XOR H
+ram:02e6  JP NZ,0x14bd
+ram:02e9  NOP
+ram:02ea  RRA
+ram:02eb  DEC BC
+ram:02ec  NOP
+ram:02ed  XOR H
+ram:02ee  JP NZ,0x14bd
+ram:02f1  NOP
+ram:02f2  RRA
+ram:02f3  DEC C
+ram:02f4  NOP
+ram:02f5  XOR H
+ram:02f6  JP NZ,0x14bd
+ram:02f9  NOP
+ram:02fa  RRA
+ram:02fb  RRCA
+ram:02fc  NOP
+ram:02fd  XOR H
+ram:02fe  JP NZ,0x14bd
+ram:0301  NOP
+ram:0302  RRA
+ram:0303  DJNZ 0x0305
+ram:0305  XOR H
+ram:0306  JP NZ,0x14bd
+ram:0309  NOP
+ram:030a  RRA
+ram:030b  LD (DE),A
+ram:030c  NOP
+ram:030d  XOR H
+ram:030e  JP NZ,0x14bd
+ram:0311  NOP
+ram:0312  RRA
+ram:0313  INC D
+ram:0314  NOP
+ram:0315  XOR H
+ram:0316  JP NZ,0x14bd
+ram:0319  NOP
+ram:031a  RRA
+ram:031b  LD D,0x0
+ram:031d  XOR H
+ram:031e  JP NZ,0x14bd
+ram:0321  NOP
+ram:0322  RRA
+ram:0323  ADD HL,DE
+ram:0324  NOP
+ram:0325  XOR H
+ram:0326  JP NZ,0x14bd
+ram:0329  NOP
+ram:032a  RRA
+ram:032b  DEC DE
+ram:032c  NOP
+ram:032d  XOR H
+ram:032e  JP NZ,0x14bd
+ram:0331  NOP
+ram:0332  RRA
+ram:0333  DEC E
+ram:0334  NOP
+ram:0335  XOR H
+ram:0336  JP NZ,0x14bd
+ram:0339  NOP
+ram:033a  RRA
+ram:033b  JR NZ,0x033d
+ram:033d  XOR H
+ram:033e  JP NZ,0x14bd
+ram:0341  NOP
+ram:0342  RRA
+ram:0343  INC H
+ram:0344  NOP
+ram:0345  XOR H
+ram:0346  JP NZ,0x14bd
+ram:0349  NOP
+ram:034a  RRA
+ram:034b  LD H,0x0
+ram:034d  XOR H
+ram:034e  JP NZ,0x14bd
+ram:0351  NOP
+ram:0352  RRA
+ram:0353  ADD HL,HL
+ram:0354  NOP
+ram:0355  XOR H
+ram:0356  JP NZ,0x14bd
+ram:0359  NOP
+ram:035a  RRA
+ram:035b  DEC L
+ram:035c  NOP
+ram:035d  XOR H
+ram:035e  JP NZ,0x14bd
+ram:0361  NOP
+ram:0362  RRA
+ram:0363  JR NC,0x0365
+ram:0365  XOR H
+ram:0366  JP NZ,0x14bd
+ram:0369  NOP
+ram:036a  RRA
+ram:036b  INC (HL)
+ram:036c  NOP
+ram:036d  XOR H
+ram:036e  JP NZ,0x14bd
+ram:0371  NOP
+ram:0372  RRA
+ram:0373  SCF
+ram:0374  NOP
+ram:0375  LD L,C
+ram:0376  RST 0x0010
+ram:0377  OR C
+ram:0378  DEC DE
+ram:0379  NOP
+ram:037a  RRA
+ram:037b  LD (BC),A
+ram:037c  NOP
+ram:037d  LD L,C
+ram:037e  RST 0x0010
+ram:037f  OR C
+ram:0380  DEC DE
+ram:0381  NOP
+ram:0382  RRA
+ram:0383  INC BC
+ram:0384  NOP
+ram:0385  LD L,C
+ram:0386  RST 0x0010
+ram:0387  OR C
+ram:0388  DEC DE
+ram:0389  NOP
+ram:038a  RRA
+ram:038b  INC B
+ram:038c  NOP
+ram:038d  LD L,C
+ram:038e  RST 0x0010
+ram:038f  OR C
+ram:0390  DEC DE
+ram:0391  NOP
+ram:0392  RRA
+ram:0393  DEC B
+ram:0394  NOP
+ram:0395  LD L,C
+ram:0396  RST 0x0010
+ram:0397  OR C
+ram:0398  DEC DE
+ram:0399  NOP
+ram:039a  RRA
+ram:039b  RLCA
+ram:039c  NOP
+ram:039d  LD L,C
+ram:039e  RST 0x0010
+ram:039f  OR C
+ram:03a0  DEC DE
+ram:03a1  NOP
+ram:03a2  RRA
+ram:03a3  EX AF,AF_
+ram:03a4  NOP
+ram:03a5  LD L,C
+ram:03a6  RST 0x0010
+ram:03a7  OR C
+ram:03a8  DEC DE
+ram:03a9  NOP
+ram:03aa  RRA
+ram:03ab  LD A,(BC)
+ram:03ac  NOP
+ram:03ad  LD L,C
+ram:03ae  RST 0x0010
+ram:03af  OR C
+ram:03b0  DEC DE
+ram:03b1  NOP
+ram:03b2  RRA
+ram:03b3  DEC BC
+ram:03b4  NOP
+ram:03b5  LD L,C
+ram:03b6  RST 0x0010
+ram:03b7  OR C
+ram:03b8  DEC DE
+ram:03b9  NOP
+ram:03ba  RRA
+ram:03bb  INC C
+ram:03bc  NOP
+ram:03bd  LD L,C
+ram:03be  RST 0x0010
+ram:03bf  OR C
+ram:03c0  DEC DE
+ram:03c1  NOP
+ram:03c2  RRA
+ram:03c3  RRCA
+ram:03c4  NOP
+ram:03c5  LD L,C
+ram:03c6  RST 0x0010
+ram:03c7  OR C
+ram:03c8  DEC DE
+ram:03c9  NOP
+ram:03ca  RRA
+ram:03cb  DJNZ 0x03cd
+ram:03cd  LD L,C
+ram:03ce  RST 0x0010
+ram:03cf  OR C
+ram:03d0  DEC DE
+ram:03d1  NOP
+ram:03d2  RRA
+ram:03d3  LD (DE),A
+ram:03d4  NOP
+ram:03d5  LD L,C
+ram:03d6  RST 0x0010
+ram:03d7  OR C
+ram:03d8  DEC DE
+ram:03d9  NOP
+ram:03da  RRA
+ram:03db  INC D
+ram:03dc  NOP
+ram:03dd  LD L,C
+ram:03de  RST 0x0010
+ram:03df  OR C
+ram:03e0  DEC DE
+ram:03e1  NOP
+ram:03e2  RRA
+ram:03e3  LD D,0x0
+ram:03e5  LD L,C
+ram:03e6  RST 0x0010
+ram:03e7  OR C
+ram:03e8  DEC DE
+ram:03e9  NOP
+ram:03ea  RRA
+ram:03eb  ADD HL,DE
+ram:03ec  NOP
+ram:03ed  LD L,C
+ram:03ee  RST 0x0010
+ram:03ef  OR C
+ram:03f0  DEC DE
+ram:03f1  NOP
+ram:03f2  RRA
+ram:03f3  DEC DE
+ram:03f4  NOP
+ram:03f5  LD L,C
+ram:03f6  RST 0x0010
+ram:03f7  OR C
+ram:03f8  DEC DE
+ram:03f9  NOP
+ram:03fa  RRA
+ram:03fb  DEC E
+ram:03fc  NOP
+ram:03fd  LD L,C
+ram:03fe  RST 0x0010
+ram:03ff  OR C
+ram:0400  DEC DE
+ram:0401  NOP
+ram:0402  RRA
+ram:0403  JR NZ,0x0405
+ram:0405  LD L,C
+ram:0406  RST 0x0010
+ram:0407  OR C
+ram:0408  DEC DE
+ram:0409  NOP
+ram:040a  RRA
+ram:040b  INC H
+ram:040c  NOP
+ram:040d  LD L,C
+ram:040e  RST 0x0010
+ram:040f  OR C
+ram:0410  DEC DE
+ram:0411  NOP
+ram:0412  RRA
+ram:0413  LD H,0x0
+ram:0415  LD L,C
+ram:0416  RST 0x0010
+ram:0417  OR C
+ram:0418  DEC DE
+ram:0419  NOP
+ram:041a  RRA
+ram:041b  ADD HL,HL
+ram:041c  NOP
+ram:041d  LD L,C
+ram:041e  RST 0x0010
+ram:041f  OR C
+ram:0420  DEC DE
+ram:0421  NOP
+ram:0422  RRA
+ram:0423  DEC L
+ram:0424  NOP
+ram:0425  LD L,C
+ram:0426  RST 0x0010
+ram:0427  OR C
+ram:0428  DEC DE
+ram:0429  NOP
+ram:042a  RRA
+ram:042b  JR NC,0x042d
+ram:042d  LD L,C
+ram:042e  RST 0x0010
+ram:042f  OR C
+ram:0430  DEC DE
+ram:0431  NOP
+ram:0432  RRA
+ram:0433  INC (HL)
+ram:0434  NOP
+ram:0435  LD L,C
+ram:0436  RST 0x0010
+ram:0437  OR C
+ram:0438  DEC DE
+ram:0439  NOP
+ram:043a  RRA
+ram:043b  LD (HL),0x0
+ram:043d  LD A,(DE)
+ram:043e  DI
+ram:043f  CP H
+ram:0440  ADD HL,BC
+ram:0441  NOP
+ram:0442  RRA
+ram:0443  LD BC,0xd600
+ram:0446  CALL M,0x0001
+ram:0449  NOP
+ram:044a  RRA
+ram:044b  LD BC,0x0
+ram:044e  OR B
+ram:044f  AND H
+ram:0450  INC E
+ram:0451  NOP
+ram:0452  INC E
+ram:0453  DEC HL
+ram:0454  NOP
+ram:0455  AND H
+ram:0456  CALL Z,0x1ba9
+ram:0459  NOP
+ram:045a  INC E
+ram:045b  DEC HL
+ram:045c  NOP
+ram:045d  LD C,H
+ram:045e  RET PE
+ram:045f  ADD A,0x15
+ram:0461  NOP
+ram:0462  INC E
+ram:0463  DEC HL
+ram:0464  NOP
+ram:0465  NOP
+ram:0466  ADD A,B
+ram:0467  DEC L
+ram:0468  INC C
+ram:0469  LD BC,0x201c
+ram:046c  NOP
+ram:046d  INC L
+ram:046e  ADC A,H
+ram:046f  RRCA
+ram:0470  RRA
+ram:0471  LD BC,0x2b1c
+ram:0474  NOP
+ram:0475  ADD A,0xde
+ram:0478  LD (DE),A
+ram:0479  NOP
+ram:047a  DEC E
+ram:047b  DEC HL
+ram:047c  NOP
+ram:047d  LD A,(0xadab)
+ram:0480  LD H,0x1
+ram:0482  INC E
+ram:0483  DEC HL
+ram:0484  NOP
+ram:0485  CALL PE,0x6ed1
+ram:0488  INC B
+ram:0489  LD BC,0x2b1c
+ram:048c  NOP
+ram:048d  AND D
+ram:048e  POP AF
+ram:048f  AND D
+ram:0490  ADD HL,BC
+ram:0491  NOP
+ram:0492  DEC E
+ram:0493  DEC HL
+ram:0494  NOP
+ram:0495  LD B,H
+ram:0496  EI
+ram:0497  OR A
+ram:0498  INC BC
+ram:0499  NOP
+ram:049a  DEC E
+ram:049b  DEC HL
+ram:049c  NOP
+ram:049d  NOP
+ram:049e  ADD A,B
+ram:049f  POP AF
+ram:04a0  INC DE
+ram:04a1  NOP
+ram:04a2  DEC E
+ram:04a3  DEC HL
+ram:04a4  NOP
+ram:04a5  RET P
+ram:04a6  SUB E
+ram:04a7  LD L,0x21
+ram:04a9  NOP
+ram:04aa  DEC E
+ram:04ab  DEC HL
+ram:04ac  NOP
+ram:04ad  LD E,0xb5
+ram:04af  LD L,D
+ram:04b0  LD (DE),A
+ram:04b1  NOP
+ram:04b2  DEC E
+ram:04b3  DEC HL
+ram:04b4  NOP
+ram:04b5  ADC A,B
+ram:04b6  RST 0x0000
+ram:04b7  LD A,0x17
+ram:04b9  NOP
+ram:04ba  DEC E
+ram:04bb  DEC HL
+ram:04bc  NOP
+ram:04bd  LD E,D
+ram:04be  SUB 0x63
+ram:04c0  LD H,0x1
+ram:04c2  INC E
+ram:04c3  DEC HL
+ram:04c4  NOP
+ram:04c5  CALL PE,0x6ed1
+ram:04c8  INC B
+ram:04c9  LD BC,0x4b1c
+ram:04cc  NOP
+ram:04cd  SBC A,L
+ram:04ce  AND D
+ram:04cf  ADD A,B
+ram:04d0  INC C
+ram:04d1  LD BC,0x311f
+ram:04d4  NOP
+ram:04d5  SBC A,L
+ram:04d6  AND D
+ram:04d7  ADD A,B
+ram:04d8  INC C
+ram:04d9  LD BC,0x411f
+ram:04dc  NOP
+ram:04dd  NOP
+ram:04de  ADD A,B
+ram:04df  INC SP
+ram:04e0  INC DE
+ram:04e1  NOP
+ram:04e2  DEC E
+ram:04e3  DEC HL
+ram:04e4  NOP
+ram:04e5  LD (HL),0xe9
+ram:04e7  LD L,(HL)
+ram:04e8  INC B
+ram:04e9  NOP
+ram:04ea  DEC E
+ram:04eb  INC BC
+ram:04ec  NOP
+ram:04ed  LD (0x6e93),A
+ram:04f0  INC B
+ram:04f1  NOP
+ram:04f2  DEC E
+ram:04f3  INC D
+ram:04f4  NOP
+ram:04f5  LD (0x6e93),A
+ram:04f8  INC B
+ram:04f9  NOP
+ram:04fa  DEC E
+ram:04fb  INC (HL)
+ram:04fc  NOP
+ram:04fd  LD (0x6e93),A
+ram:0500  INC B
+ram:0501  NOP
+ram:0502  DEC E
+ram:0503  LD B,H
+ram:0504  NOP
+ram:0505  LD L,0xa1
+ram:0507  CP H
+ram:0508  NOP
+ram:0509  LD BC,0x2b1d
+ram:050c  NOP
+ram:050d  JP PE,0x20a1
+ram:0510  EX AF,AF_
+ram:0511  LD BC,0x2b1d
+ram:0514  NOP
+ram:0515  OR D
+ram:0516  OUT (0x75),A
+ram:0518  JR NZ,0x051b
+ram:051a  DEC E
+ram:051b  DEC HL
+ram:051c  NOP
+ram:051d  RET P
+ram:051e  CP H
+ram:051f  OR C
+ram:0520  DEC E
+ram:0521  NOP
+ram:0522  DEC E
+ram:0523  DEC HL
+ram:0524  NOP
+ram:0525  ADD A,0xf2
+ram:0527  LD C,(HL)
+ram:0528  RLCA
+ram:0529  NOP
+ram:052a  DEC E
+ram:052b  DEC HL
+ram:052c  NOP
+ram:052d  INC D
+ram:052e  JP M,0x0373
+ram:0531  NOP
+ram:0532  DEC E
+ram:0533  DEC HL
+ram:0534  NOP
+ram:0535  ADD A,(HL)
+ram:0537  OUT (0x1),A
+ram:0539  NOP
+ram:053a  DEC E
+ram:053b  DEC HL
+ram:053c  NOP
+ram:053d  ADD A,(HL)
+ram:053f  OUT (0x1),A
+ram:0541  NOP
+ram:0542  DEC E
+ram:0543  DEC HL
+ram:0544  NOP
+ram:0545  ADD A,0xb5
+ram:0547  POP AF
+ram:0548  INC DE
+ram:0549  LD BC,0x2b1f
+ram:054c  NOP
+ram:054d  OR (HL)
+ram:054e  RET
+ram:054f  XOR A
+ram:0550  DEC DE
+ram:0551  LD BC,0x2b1f
+ram:0554  NOP
+ram:0555  SBC A,(HL)
+ram:0556  XOR A
+ram:0557  XOR L
+ram:0558  LD H,0x0
+ram:055a  RRA
+ram:055b  DEC HL
+ram:055c  NOP
+ram:055d  LD C,E
+ram:055e  SUB 0x63
+ram:0560  LD H,0x0
+ram:0562  RRA
+ram:0563  DEC HL
+ram:0564  NOP
+ram:0565  NOP
+ram:0566  RET NZ
+ram:0567  LD C,L
+ram:0568  ADD HL,BC
+ram:0569  LD BC,0x2b1c
+ram:056c  NOP
+ram:056d  LD C,L
+ram:056e  RET
+ram:056f  LD (DE),A
+ram:0570  LD C,0x1
+ram:0572  INC E
+ram:0573  DEC HL
+ram:0574  NOP
+ram:0575  LD E,A
+ram:0576  RST 0x0010
+ram:0577  LD D,A
+ram:0578  LD B,0x1
+ram:057a  INC E
+ram:057b  DEC HL
+ram:057c  NOP
+ram:057d  LD B,(HL)
+ram:057e  XOR C
+ram:057f  ADD A,B
+ram:0580  INC C
+ram:0581  LD BC,0x211f
+ram:0584  NOP
+ram:0585  LD B,(HL)
+ram:0586  XOR C
+ram:0587  ADD A,B
+ram:0588  INC C
+ram:0589  LD BC,0x311f
+ram:058c  NOP
+ram:058d  LD B,(HL)
+ram:058e  XOR C
+ram:058f  ADD A,B
+ram:0590  INC C
+ram:0591  LD BC,0x411f
+ram:0594  NOP
+ram:0595  LD L,0xd0
+ram:0597  OR E
+ram:0598  INC B
+ram:0599  LD BC,0x2b1c
+ram:059c  NOP
+ram:059d  LD L,0xd0
+ram:059f  OR E
+ram:05a0  INC B
+ram:05a1  LD BC,0x2b1c
+ram:05a4  NOP
+ram:05a5  LD L,0xd0
+ram:05a7  OR E
+ram:05a8  INC B
+ram:05a9  LD BC,0x2b1c
+ram:05ac  NOP
+ram:05ad  NOP
+ram:05ae  RET NZ
+ram:05af  LD L,0x10
+ram:05b1  LD BC,0x2b1c
+ram:05b4  NOP
+ram:05b5  POP HL
+ram:05b6  CALL NC,0x096d
+ram:05b9  LD BC,0x2b1c
+ram:05bc  NOP
+ram:05bd  LD C,(HL)
+ram:05be  SBC A,0x23
+ram:05c0  LD (DE),A

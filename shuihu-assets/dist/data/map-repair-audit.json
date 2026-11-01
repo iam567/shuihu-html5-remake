@@ -1,0 +1,2442 @@
+{
+  "count": 348,
+  "metrics": "Unexpected near-black pixels over colored original pixels; heuristic only, not visual approval.",
+  "items": [
+    {
+      "mapId": "0100",
+      "style": "pixel-hd",
+      "bankId": "bank-032386-0772aa-0dd948",
+      "maps-v2UnexpectedBlackFraction": 0.0,
+      "state": "needs-visual-review"
+    },
+    {
+      "mapId": "0100",
+      "style": "unreal",
+      "bankId": "bank-032386-0772aa-0dd948",
+      "maps-v2UnexpectedBlackFraction": 3.4e-05,
+      "state": "needs-visual-review"
+    },
+    {
+      "mapId": "0100",
+      "style": "ghibli",
+      "bankId": "bank-032386-0772aa-0dd948",
+      "maps-v2UnexpectedBlackFraction": 0.000926,
+      "state": "needs-visual-review"
+    },
+    {
+      "mapId": "0101",
+      "style": "pixel-hd",
+      "bankId": "bank-037948-07852a-0dd988",
+      "maps-v2UnexpectedBlackFraction": 0.003409,
+      "state": "needs-visual-review"
+    },
+    {
+      "mapId": "0101",
+      "style": "unreal",
+      "bankId": "bank-037948-07852a-0dd988",
+      "maps-v2UnexpectedBlackFraction": 0.000481,
+      "state": "needs-visual-review"
+    },
+    {
+      "mapId": "0101",
+      "style": "ghibli",
+      "bankId": "bank-037948-07852a-0dd988",
+      "maps-v2UnexpectedBlackFraction": 0.000415,
+      "state": "needs-visual-review"
+    },
+    {
+      "mapId": "0102",
+      "style": "pixel-hd",
+      "bankId": "bank-037948-07852a-0dd988",
+      "maps-v2UnexpectedBlackFraction": 0.002391,
+      "state": "needs-visual-review"
+    },
+    {
+      "mapId": "0102",
+      "style": "unreal",
+      "bankId": "bank-037948-07852a-0dd988",
+      "maps-v2UnexpectedBlackFraction": 0.000661,
+      "state": "needs-visual-review"
+    },
+    {
+      "mapId": "0102",
+      "style": "ghibli",
+      "bankId": "bank-037948-07852a-0dd988",
+      "maps-v2UnexpectedBlackFraction": 0.00086,
+      "state": "needs-visual-review"
+    },
+    {
+      "mapId": "0103",
+      "style": "pixel-hd",
+      "bankId": "bank-037948-07852a-0dd988",
+      "maps-v2UnexpectedBlackFraction": 0.00281,
+      "state": "needs-visual-review"
+    },
+    {
+      "mapId": "0103",
+      "style": "unreal",
+      "bankId": "bank-037948-07852a-0dd988",
+      "maps-v2UnexpectedBlackFraction": 0.001097,
+      "state": "needs-visual-review"
+    },
+    {
+      "mapId": "0103",
+      "style": "ghibli",
+      "bankId": "bank-037948-07852a-0dd988",
+      "maps-v2UnexpectedBlackFraction": 0.000977,
+      "state": "needs-visual-review"
+    },
+    {
+      "mapId": "0104",
+      "style": "pixel-hd",
+      "bankId": "bank-037948-07852a-0dd988",
+      "maps-v2UnexpectedBlackFraction": 0.002628,
+      "state": "needs-visual-review"
+    },
+    {
+      "mapId": "0104",
+      "style": "unreal",
+      "bankId": "bank-037948-07852a-0dd988",
+      "maps-v2UnexpectedBlackFraction": 0.000453,
+      "state": "needs-visual-review"
+    },
+    {
+      "mapId": "0104",
+      "style": "ghibli",
+      "bankId": "bank-037948-07852a-0dd988",
+      "maps-v2UnexpectedBlackFraction": 0.000748,
+      "state": "needs-visual-review"
+    },
+    {
+      "mapId": "0105",
+      "style": "pixel-hd",
+      "bankId": "bank-037948-07852a-0dd988",
+      "maps-v2UnexpectedBlackFraction": 0.003289,
+      "state": "needs-visual-review"
+    },
+    {
+      "mapId": "0105",
+      "style": "unreal",
+      "bankId": "bank-037948-07852a-0dd988",
+      "maps-v2UnexpectedBlackFraction": 0.001096,
+      "state": "needs-visual-review"
+    },
+    {
+      "mapId": "0105",
+      "style": "ghibli",
+      "bankId": "bank-037948-07852a-0dd988",
+      "maps-v2UnexpectedBlackFraction": 0.000408,
+      "state": "needs-visual-review"
+    },
+    {
+      "mapId": "0106",
+      "style": "pixel-hd",
+      "bankId": "bank-037948-07852a-0dd988",
+      "maps-v2UnexpectedBlackFraction": 0.002702,
+      "state": "needs-visual-review"
+    },
+    {
+      "mapId": "0106",
+      "style": "unreal",
+      "bankId": "bank-037948-07852a-0dd988",
+      "maps-v2UnexpectedBlackFraction": 0.001161,
+      "state": "needs-visual-review"
+    },
+    {
+      "mapId": "0106",
+      "style": "ghibli",
+      "bankId": "bank-037948-07852a-0dd988",
+      "maps-v2UnexpectedBlackFraction": 0.000987,
+      "state": "needs-visual-review"
+    },
+    {
+      "mapId": "0107",
+      "style": "pixel-hd",
+      "bankId": "bank-037948-07852a-0dd988",
+      "maps-v2UnexpectedBlackFraction": 0.003307,
+      "state": "needs-visual-review"
+    },
+    {
+      "mapId": "0107",
+      "style": "unreal",
+      "bankId": "bank-037948-07852a-0dd988",
+      "maps-v2UnexpectedBlackFraction": 0.001072,
+      "state": "needs-visual-review"
+    },
+    {
+      "mapId": "0107",
+      "style": "ghibli",
+      "bankId": "bank-037948-07852a-0dd988",
+      "maps-v2UnexpectedBlackFraction": 0.00105,
+      "state": "needs-visual-review"
+    },
+    {
+      "mapId": "0200",
+      "style": "pixel-hd",
+      "bankId": "bank-03d80a-077b8a-0dd9c8",
+      "maps-v2UnexpectedBlackFraction": 0.002414,
+      "state": "needs-visual-review"
+    },
+    {
+      "mapId": "0200",
+      "style": "unreal",
+      "bankId": "bank-03d80a-077b8a-0dd9c8",
+      "maps-v2UnexpectedBlackFraction": 0.003434,
+      "state": "needs-visual-review"
+    },
+    {
+      "mapId": "0200",
+      "style": "ghibli",
+      "bankId": "bank-03d80a-077b8a-0dd9c8",
+      "maps-v2UnexpectedBlackFraction": 0.003473,
+      "state": "needs-visual-review"
+    },
+    {
+      "mapId": "0201",
+      "style": "pixel-hd",
+      "bankId": "bank-037948-07852a-0dda08",
+      "maps-v2UnexpectedBlackFraction": 0.0,
+      "state": "needs-visual-review"
+    },
+    {
+      "mapId": "0201",
+      "style": "unreal",
+      "bankId": "bank-037948-07852a-0dda08",
+      "maps-v2UnexpectedBlackFraction": 0.000331,
+      "state": "needs-visual-review"
+    },
+    {
+      "mapId": "0201",
+      "style": "ghibli",
+      "bankId": "bank-037948-07852a-0dda08",
+      "maps-v2UnexpectedBlackFraction": 8.7e-05,
+      "state": "needs-visual-review"
+    },
+    {
+      "mapId": "0202",
+      "style": "pixel-hd",
+      "bankId": "bank-037948-07852a-0dda08",
+      "maps-v2UnexpectedBlackFraction": 0.0,
+      "state": "needs-visual-review"
+    },
+    {
+      "mapId": "0202",
+      "style": "unreal",
+      "bankId": "bank-037948-07852a-0dda08",
+      "maps-v2UnexpectedBlackFraction": 0.000451,
+      "state": "needs-visual-review"
+    },
+    {
+      "mapId": "0202",
+      "style": "ghibli",
+      "bankId": "bank-037948-07852a-0dda08",
+      "maps-v2UnexpectedBlackFraction": 9.4e-05,
+      "state": "needs-visual-review"
+    },
+    {
+      "mapId": "0203",
+      "style": "pixel-hd",
+      "bankId": "bank-037948-07852a-0dda08",
+      "maps-v2UnexpectedBlackFraction": 0.0,
+      "state": "needs-visual-review"
+    },
+    {
+      "mapId": "0203",
+      "style": "unreal",
+      "bankId": "bank-037948-07852a-0dda08",
+      "maps-v2UnexpectedBlackFraction": 0.000216,
+      "state": "needs-visual-review"
+    },
+    {
+      "mapId": "0203",
+      "style": "ghibli",
+      "bankId": "bank-037948-07852a-0dda08",
+      "maps-v2UnexpectedBlackFraction": 9e-05,
+      "state": "needs-visual-review"
+    },
+    {
+      "mapId": "0204",
+      "style": "pixel-hd",
+      "bankId": "bank-037948-07852a-0dda08",
+      "maps-v2UnexpectedBlackFraction": 0.0,
+      "state": "needs-visual-review"
+    },
+    {
+      "mapId": "0204",
+      "style": "unreal",
+      "bankId": "bank-037948-07852a-0dda08",
+      "maps-v2UnexpectedBlackFraction": 0.000384,
+      "state": "needs-visual-review"
+    },
+    {
+      "mapId": "0204",
+      "style": "ghibli",
+      "bankId": "bank-037948-07852a-0dda08",
+      "maps-v2UnexpectedBlackFraction": 8.7e-05,
+      "state": "needs-visual-review"
+    },
+    {
+      "mapId": "0205",
+      "style": "pixel-hd",
+      "bankId": "bank-037948-07852a-0dda08",
+      "maps-v2UnexpectedBlackFraction": 0.0,
+      "state": "needs-visual-review"
+    },
+    {
+      "mapId": "0205",
+      "style": "unreal",
+      "bankId": "bank-037948-07852a-0dda08",
+      "maps-v2UnexpectedBlackFraction": 0.000285,
+      "state": "needs-visual-review"
+    },
+    {
+      "mapId": "0205",
+      "style": "ghibli",
+      "bankId": "bank-037948-07852a-0dda08",
+      "maps-v2UnexpectedBlackFraction": 8.9e-05,
+      "state": "needs-visual-review"
+    },
+    {
+      "mapId": "0206",
+      "style": "pixel-hd",
+      "bankId": "bank-0434ac-0799ea-0dda48",
+      "maps-v2UnexpectedBlackFraction": 0.000123,
+      "state": "needs-visual-review"
+    },
+    {
+      "mapId": "0206",
+      "style": "unreal",
+      "bankId": "bank-0434ac-0799ea-0dda48",
+      "maps-v2UnexpectedBlackFraction": 4.4e-05,
+      "state": "needs-visual-review"
+    },
+    {
+      "mapId": "0206",
+      "style": "ghibli",
+      "bankId": "bank-0434ac-0799ea-0dda48",
+      "maps-v2UnexpectedBlackFraction": 0.0,
+      "state": "needs-visual-review"
+    },
+    {
+      "mapId": "0207",
+      "style": "pixel-hd",
+      "bankId": "bank-0471ae-079eea-0dda88",
+      "maps-v2UnexpectedBlackFraction": 0.000445,
+      "state": "needs-visual-review"
+    },
+    {
+      "mapId": "0207",
+      "style": "unreal",
+      "bankId": "bank-0471ae-079eea-0dda88",
+      "maps-v2UnexpectedBlackFraction": 0.000243,
+      "state": "needs-visual-review"
+    },
+    {
+      "mapId": "0207",
+      "style": "ghibli",
+      "bankId": "bank-0471ae-079eea-0dda88",
+      "maps-v2UnexpectedBlackFraction": 0.0,
+      "state": "needs-visual-review"
+    },
+    {
+      "mapId": "0300",
+      "style": "pixel-hd",
+      "bankId": "bank-032386-0772aa-0ddac8",
+      "maps-v2UnexpectedBlackFraction": 0.001347,
+      "state": "needs-visual-review"
+    },
+    {
+      "mapId": "0300",
+      "style": "unreal",
+      "bankId": "bank-032386-0772aa-0ddac8",
+      "maps-v2UnexpectedBlackFraction": 0.001349,
+      "state": "needs-visual-review"
+    },
+    {
+      "mapId": "0300",
+      "style": "ghibli",
+      "bankId": "bank-032386-0772aa-0ddac8",
+      "maps-v2UnexpectedBlackFraction": 0.001613,
+      "state": "needs-visual-review"
+    },
+    {
+      "mapId": "0301",
+      "style": "pixel-hd",
+      "bankId": "bank-037948-07852a-0ddb08",
+      "maps-v2UnexpectedBlackFraction": 0.000573,
+      "state": "needs-visual-review"
+    },
+    {
+      "mapId": "0301",
+      "style": "unreal",
+      "bankId": "bank-037948-07852a-0ddb08",
+      "maps-v2UnexpectedBlackFraction": 4.6e-05,
+      "state": "needs-visual-review"
+    },
+    {
+      "mapId": "0301",
+      "style": "ghibli",
+      "bankId": "bank-037948-07852a-0ddb08",
+      "maps-v2UnexpectedBlackFraction": 0.015735,
+      "state": "needs-visual-review"
+    },
+    {
+      "mapId": "0302",
+      "style": "pixel-hd",
+      "bankId": "bank-037948-07852a-0ddb08",
+      "maps-v2UnexpectedBlackFraction": 0.000552,
+      "state": "needs-visual-review"
+    },
+    {
+      "mapId": "0302",
+      "style": "unreal",
+      "bankId": "bank-037948-07852a-0ddb08",
+      "maps-v2UnexpectedBlackFraction": 4.4e-05,
+      "state": "needs-visual-review"
+    },
+    {
+      "mapId": "0302",
+      "style": "ghibli",
+      "bankId": "bank-037948-07852a-0ddb08",
+      "maps-v2UnexpectedBlackFraction": 0.015153,
+      "state": "needs-visual-review"
+    },
+    {
+      "mapId": "0303",
+      "style": "pixel-hd",
+      "bankId": "bank-037948-07852a-0ddb08",
+      "maps-v2UnexpectedBlackFraction": 0.00017,
+      "state": "needs-visual-review"
+    },
+    {
+      "mapId": "0303",
+      "style": "unreal",
+      "bankId": "bank-037948-07852a-0ddb08",
+      "maps-v2UnexpectedBlackFraction": 6.8e-05,
+      "state": "needs-visual-review"
+    },
+    {
+      "mapId": "0303",
+      "style": "ghibli",
+      "bankId": "bank-037948-07852a-0ddb08",
+      "maps-v2UnexpectedBlackFraction": 0.018554,
+      "state": "needs-visual-review"
+    },
+    {
+      "mapId": "0304",
+      "style": "pixel-hd",
+      "bankId": "bank-037948-07852a-0ddb08",
+      "maps-v2UnexpectedBlackFraction": 0.000369,
+      "state": "needs-visual-review"
+    },
+    {
+      "mapId": "0304",
+      "style": "unreal",
+      "bankId": "bank-037948-07852a-0ddb08",
+      "maps-v2UnexpectedBlackFraction": 0.000123,
+      "state": "needs-visual-review"
+    },
+    {
+      "mapId": "0304",
+      "style": "ghibli",
+      "bankId": "bank-037948-07852a-0ddb08",
+      "maps-v2UnexpectedBlackFraction": 0.015593,
+      "state": "needs-visual-review"
+    },
+    {
+      "mapId": "0305",
+      "style": "pixel-hd",
+      "bankId": "bank-037948-07852a-0ddb08",
+      "maps-v2UnexpectedBlackFraction": 0.000311,
+      "state": "needs-visual-review"
+    },
+    {
+      "mapId": "0305",
+      "style": "unreal",
+      "bankId": "bank-037948-07852a-0ddb08",
+      "maps-v2UnexpectedBlackFraction": 0.000128,
+      "state": "needs-visual-review"
+    },
+    {
+      "mapId": "0305",
+      "style": "ghibli",
+      "bankId": "bank-037948-07852a-0ddb08",
+      "maps-v2UnexpectedBlackFraction": 0.016255,
+      "state": "needs-visual-review"
+    },
+    {
+      "mapId": "0306",
+      "style": "pixel-hd",
+      "bankId": "bank-037948-07852a-0ddb08",
+      "maps-v2UnexpectedBlackFraction": 0.000551,
+      "state": "needs-visual-review"
+    },
+    {
+      "mapId": "0306",
+      "style": "unreal",
+      "bankId": "bank-037948-07852a-0ddb08",
+      "maps-v2UnexpectedBlackFraction": 4.4e-05,
+      "state": "needs-visual-review"
+    },
+    {
+      "mapId": "0306",
+      "style": "ghibli",
+      "bankId": "bank-037948-07852a-0ddb08",
+      "maps-v2UnexpectedBlackFraction": 0.015119,
+      "state": "needs-visual-review"
+    },
+    {
+      "mapId": "0307",
+      "style": "pixel-hd",
+      "bankId": "bank-04b710-07a56a-0ddb48",
+      "maps-v2UnexpectedBlackFraction": 3.1e-05,
+      "state": "needs-visual-review"
+    },
+    {
+      "mapId": "0307",
+      "style": "unreal",
+      "bankId": "bank-04b710-07a56a-0ddb48",
+      "maps-v2UnexpectedBlackFraction": 0.001517,
+      "state": "needs-visual-review"
+    },
+    {
+      "mapId": "0307",
+      "style": "ghibli",
+      "bankId": "bank-04b710-07a56a-0ddb48",
+      "maps-v2UnexpectedBlackFraction": 0.0,
+      "state": "needs-visual-review"
+    },
+    {
+      "mapId": "0308",
+      "style": "pixel-hd",
+      "bankId": "bank-04ed72-07afaa-0ddb88",
+      "maps-v2UnexpectedBlackFraction": 0.0,
+      "state": "needs-visual-review"
+    },
+    {
+      "mapId": "0308",
+      "style": "unreal",
+      "bankId": "bank-04ed72-07afaa-0ddb88",
+      "maps-v2UnexpectedBlackFraction": 4.4e-05,
+      "state": "needs-visual-review"
+    },
+    {
+      "mapId": "0308",
+      "style": "ghibli",
+      "bankId": "bank-04ed72-07afaa-0ddb88",
+      "maps-v2UnexpectedBlackFraction": 0.0,
+      "state": "needs-visual-review"
+    },
+    {
+      "mapId": "0309",
+      "style": "pixel-hd",
+      "bankId": "bank-0471ae-079eea-0ddbc8",
+      "maps-v2UnexpectedBlackFraction": 0.0,
+      "state": "needs-visual-review"
+    },
+    {
+      "mapId": "0309",
+      "style": "unreal",
+      "bankId": "bank-0471ae-079eea-0ddbc8",
+      "maps-v2UnexpectedBlackFraction": 0.00272,
+      "state": "needs-visual-review"
+    },
+    {
+      "mapId": "0309",
+      "style": "ghibli",
+      "bankId": "bank-0471ae-079eea-0ddbc8",
+      "maps-v2UnexpectedBlackFraction": 0.0,
+      "state": "needs-visual-review"
+    },
+    {
+      "mapId": "0400",
+      "style": "pixel-hd",
+      "bankId": "bank-032386-0772aa-0ddc08",
+      "maps-v2UnexpectedBlackFraction": 0.0,
+      "state": "needs-visual-review"
+    },
+    {
+      "mapId": "0400",
+      "style": "unreal",
+      "bankId": "bank-032386-0772aa-0ddc08",
+      "maps-v2UnexpectedBlackFraction": 0.0028,
+      "state": "needs-visual-review"
+    },
+    {
+      "mapId": "0400",
+      "style": "ghibli",
+      "bankId": "bank-032386-0772aa-0ddc08",
+      "maps-v2UnexpectedBlackFraction": 0.002244,
+      "state": "needs-visual-review"
+    },
+    {
+      "mapId": "0401",
+      "style": "pixel-hd",
+      "bankId": "bank-037948-07852a-0ddc48",
+      "maps-v2UnexpectedBlackFraction": 0.002257,
+      "state": "needs-visual-review"
+    },
+    {
+      "mapId": "0401",
+      "style": "unreal",
+      "bankId": "bank-037948-07852a-0ddc48",
+      "maps-v2UnexpectedBlackFraction": 0.0,
+      "state": "needs-visual-review"
+    },
+    {
+      "mapId": "0401",
+      "style": "ghibli",
+      "bankId": "bank-037948-07852a-0ddc48",
+      "maps-v2UnexpectedBlackFraction": 0.0,
+      "state": "needs-visual-review"
+    },
+    {
+      "mapId": "0402",
+      "style": "pixel-hd",
+      "bankId": "bank-037948-07852a-0ddc48",
+      "maps-v2UnexpectedBlackFraction": 0.002016,
+      "state": "needs-visual-review"
+    },
+    {
+      "mapId": "0402",
+      "style": "unreal",
+      "bankId": "bank-037948-07852a-0ddc48",
+      "maps-v2UnexpectedBlackFraction": 0.0,
+      "state": "needs-visual-review"
+    },
+    {
+      "mapId": "0402",
+      "style": "ghibli",
+      "bankId": "bank-037948-07852a-0ddc48",
+      "maps-v2UnexpectedBlackFraction": 0.0,
+      "state": "needs-visual-review"
+    },
+    {
+      "mapId": "0403",
+      "style": "pixel-hd",
+      "bankId": "bank-037948-07852a-0ddc48",
+      "maps-v2UnexpectedBlackFraction": 0.002514,
+      "state": "needs-visual-review"
+    },
+    {
+      "mapId": "0403",
+      "style": "unreal",
+      "bankId": "bank-037948-07852a-0ddc48",
+      "maps-v2UnexpectedBlackFraction": 4.5e-05,
+      "state": "needs-visual-review"
+    },
+    {
+      "mapId": "0403",
+      "style": "ghibli",
+      "bankId": "bank-037948-07852a-0ddc48",
+      "maps-v2UnexpectedBlackFraction": 0.0,
+      "state": "needs-visual-review"
+    },
+    {
+      "mapId": "0404",
+      "style": "pixel-hd",
+      "bankId": "bank-037948-07852a-0ddc48",
+      "maps-v2UnexpectedBlackFraction": 0.001885,
+      "state": "needs-visual-review"
+    },
+    {
+      "mapId": "0404",
+      "style": "unreal",
+      "bankId": "bank-037948-07852a-0ddc48",
+      "maps-v2UnexpectedBlackFraction": 0.0,
+      "state": "needs-visual-review"
+    },
+    {
+      "mapId": "0404",
+      "style": "ghibli",
+      "bankId": "bank-037948-07852a-0ddc48",
+      "maps-v2UnexpectedBlackFraction": 0.0,
+      "state": "needs-visual-review"
+    },
+    {
+      "mapId": "0405",
+      "style": "pixel-hd",
+      "bankId": "bank-037948-07852a-0ddc48",
+      "maps-v2UnexpectedBlackFraction": 0.001619,
+      "state": "needs-visual-review"
+    },
+    {
+      "mapId": "0405",
+      "style": "unreal",
+      "bankId": "bank-037948-07852a-0ddc48",
+      "maps-v2UnexpectedBlackFraction": 0.0,
+      "state": "needs-visual-review"
+    },
+    {
+      "mapId": "0405",
+      "style": "ghibli",
+      "bankId": "bank-037948-07852a-0ddc48",
+      "maps-v2UnexpectedBlackFraction": 0.0,
+      "state": "needs-visual-review"
+    },
+    {
+      "mapId": "0406",
+      "style": "pixel-hd",
+      "bankId": "bank-037948-07852a-0ddc48",
+      "maps-v2UnexpectedBlackFraction": 0.002453,
+      "state": "needs-visual-review"
+    },
+    {
+      "mapId": "0406",
+      "style": "unreal",
+      "bankId": "bank-037948-07852a-0ddc48",
+      "maps-v2UnexpectedBlackFraction": 0.0,
+      "state": "needs-visual-review"
+    },
+    {
+      "mapId": "0406",
+      "style": "ghibli",
+      "bankId": "bank-037948-07852a-0ddc48",
+      "maps-v2UnexpectedBlackFraction": 0.0,
+      "state": "needs-visual-review"
+    },
+    {
+      "mapId": "0407",
+      "style": "pixel-hd",
+      "bankId": "bank-037948-07852a-0ddc48",
+      "maps-v2UnexpectedBlackFraction": 0.002335,
+      "state": "needs-visual-review"
+    },
+    {
+      "mapId": "0407",
+      "style": "unreal",
+      "bankId": "bank-037948-07852a-0ddc48",
+      "maps-v2UnexpectedBlackFraction": 0.0,
+      "state": "needs-visual-review"
+    },
+    {
+      "mapId": "0407",
+      "style": "ghibli",
+      "bankId": "bank-037948-07852a-0ddc48",
+      "maps-v2UnexpectedBlackFraction": 0.0,
+      "state": "needs-visual-review"
+    },
+    {
+      "mapId": "0408",
+      "style": "pixel-hd",
+      "bankId": "bank-037948-07bdaa-0ddc48",
+      "maps-v2UnexpectedBlackFraction": 0.000744,
+      "state": "needs-visual-review"
+    },
+    {
+      "mapId": "0408",
+      "style": "unreal",
+      "bankId": "bank-037948-07bdaa-0ddc48",
+      "maps-v2UnexpectedBlackFraction": 3.7e-05,
+      "state": "needs-visual-review"
+    },
+    {
+      "mapId": "0408",
+      "style": "ghibli",
+      "bankId": "bank-037948-07bdaa-0ddc48",
+      "maps-v2UnexpectedBlackFraction": 3.7e-05,
+      "state": "needs-visual-review"
+    },
+    {
+      "mapId": "0409",
+      "style": "pixel-hd",
+      "bankId": "bank-053fd4-07cbea-0ddc88",
+      "maps-v2UnexpectedBlackFraction": 0.000168,
+      "state": "needs-visual-review"
+    },
+    {
+      "mapId": "0409",
+      "style": "unreal",
+      "bankId": "bank-053fd4-07cbea-0ddc88",
+      "maps-v2UnexpectedBlackFraction": 7.2e-05,
+      "state": "needs-visual-review"
+    },
+    {
+      "mapId": "0409",
+      "style": "ghibli",
+      "bankId": "bank-053fd4-07cbea-0ddc88",
+      "maps-v2UnexpectedBlackFraction": 0.0,
+      "state": "needs-visual-review"
+    },
+    {
+      "mapId": "0500",
+      "style": "pixel-hd",
+      "bankId": "bank-032386-0772aa-0ddc08",
+      "maps-v2UnexpectedBlackFraction": 0.0,
+      "state": "needs-visual-review"
+    },
+    {
+      "mapId": "0500",
+      "style": "unreal",
+      "bankId": "bank-032386-0772aa-0ddc08",
+      "maps-v2UnexpectedBlackFraction": 0.002943,
+      "state": "needs-visual-review"
+    },
+    {
+      "mapId": "0500",
+      "style": "ghibli",
+      "bankId": "bank-032386-0772aa-0ddc08",
+      "maps-v2UnexpectedBlackFraction": 0.002361,
+      "state": "needs-visual-review"
+    },
+    {
+      "mapId": "0501",
+      "style": "pixel-hd",
+      "bankId": "bank-037948-07852a-0ddc48",
+      "maps-v2UnexpectedBlackFraction": 0.002171,
+      "state": "needs-visual-review"
+    },
+    {
+      "mapId": "0501",
+      "style": "unreal",
+      "bankId": "bank-037948-07852a-0ddc48",
+      "maps-v2UnexpectedBlackFraction": 0.0,
+      "state": "needs-visual-review"
+    },
+    {
+      "mapId": "0501",
+      "style": "ghibli",
+      "bankId": "bank-037948-07852a-0ddc48",
+      "maps-v2UnexpectedBlackFraction": 0.0,
+      "state": "needs-visual-review"
+    },
+    {
+      "mapId": "0502",
+      "style": "pixel-hd",
+      "bankId": "bank-037948-07852a-0ddc48",
+      "maps-v2UnexpectedBlackFraction": 0.002388,
+      "state": "needs-visual-review"
+    },
+    {
+      "mapId": "0502",
+      "style": "unreal",
+      "bankId": "bank-037948-07852a-0ddc48",
+      "maps-v2UnexpectedBlackFraction": 0.0,
+      "state": "needs-visual-review"
+    },
+    {
+      "mapId": "0502",
+      "style": "ghibli",
+      "bankId": "bank-037948-07852a-0ddc48",
+      "maps-v2UnexpectedBlackFraction": 0.0,
+      "state": "needs-visual-review"
+    },
+    {
+      "mapId": "0503",
+      "style": "pixel-hd",
+      "bankId": "bank-037948-07852a-0ddc48",
+      "maps-v2UnexpectedBlackFraction": 0.002314,
+      "state": "needs-visual-review"
+    },
+    {
+      "mapId": "0503",
+      "style": "unreal",
+      "bankId": "bank-037948-07852a-0ddc48",
+      "maps-v2UnexpectedBlackFraction": 0.0,
+      "state": "needs-visual-review"
+    },
+    {
+      "mapId": "0503",
+      "style": "ghibli",
+      "bankId": "bank-037948-07852a-0ddc48",
+      "maps-v2UnexpectedBlackFraction": 0.0,
+      "state": "needs-visual-review"
+    },
+    {
+      "mapId": "0504",
+      "style": "pixel-hd",
+      "bankId": "bank-037948-07852a-0ddc48",
+      "maps-v2UnexpectedBlackFraction": 0.002204,
+      "state": "needs-visual-review"
+    },
+    {
+      "mapId": "0504",
+      "style": "unreal",
+      "bankId": "bank-037948-07852a-0ddc48",
+      "maps-v2UnexpectedBlackFraction": 0.0,
+      "state": "needs-visual-review"
+    },
+    {
+      "mapId": "0504",
+      "style": "ghibli",
+      "bankId": "bank-037948-07852a-0ddc48",
+      "maps-v2UnexpectedBlackFraction": 0.0,
+      "state": "needs-visual-review"
+    },
+    {
+      "mapId": "0505",
+      "style": "pixel-hd",
+      "bankId": "bank-037948-07852a-0ddc48",
+      "maps-v2UnexpectedBlackFraction": 0.002542,
+      "state": "needs-visual-review"
+    },
+    {
+      "mapId": "0505",
+      "style": "unreal",
+      "bankId": "bank-037948-07852a-0ddc48",
+      "maps-v2UnexpectedBlackFraction": 0.0,
+      "state": "needs-visual-review"
+    },
+    {
+      "mapId": "0505",
+      "style": "ghibli",
+      "bankId": "bank-037948-07852a-0ddc48",
+      "maps-v2UnexpectedBlackFraction": 0.0,
+      "state": "needs-visual-review"
+    },
+    {
+      "mapId": "0506",
+      "style": "pixel-hd",
+      "bankId": "bank-037948-07852a-0ddc48",
+      "maps-v2UnexpectedBlackFraction": 0.002398,
+      "state": "needs-visual-review"
+    },
+    {
+      "mapId": "0506",
+      "style": "unreal",
+      "bankId": "bank-037948-07852a-0ddc48",
+      "maps-v2UnexpectedBlackFraction": 0.0,
+      "state": "needs-visual-review"
+    },
+    {
+      "mapId": "0506",
+      "style": "ghibli",
+      "bankId": "bank-037948-07852a-0ddc48",
+      "maps-v2UnexpectedBlackFraction": 0.0,
+      "state": "needs-visual-review"
+    },
+    {
+      "mapId": "0507",
+      "style": "pixel-hd",
+      "bankId": "bank-04ed72-07afaa-0ddb88",
+      "maps-v2UnexpectedBlackFraction": 0.0,
+      "state": "needs-visual-review"
+    },
+    {
+      "mapId": "0507",
+      "style": "unreal",
+      "bankId": "bank-04ed72-07afaa-0ddb88",
+      "maps-v2UnexpectedBlackFraction": 4.4e-05,
+      "state": "needs-visual-review"
+    },
+    {
+      "mapId": "0507",
+      "style": "ghibli",
+      "bankId": "bank-04ed72-07afaa-0ddb88",
+      "maps-v2UnexpectedBlackFraction": 0.0,
+      "state": "needs-visual-review"
+    },
+    {
+      "mapId": "0508",
+      "style": "pixel-hd",
+      "bankId": "bank-059976-07d64a-0ddcc8",
+      "maps-v2UnexpectedBlackFraction": 2.6e-05,
+      "state": "needs-visual-review"
+    },
+    {
+      "mapId": "0508",
+      "style": "unreal",
+      "bankId": "bank-059976-07d64a-0ddcc8",
+      "maps-v2UnexpectedBlackFraction": 0.00671,
+      "state": "needs-visual-review"
+    },
+    {
+      "mapId": "0508",
+      "style": "ghibli",
+      "bankId": "bank-059976-07d64a-0ddcc8",
+      "maps-v2UnexpectedBlackFraction": 0.006976,
+      "state": "needs-visual-review"
+    },
+    {
+      "mapId": "0509",
+      "style": "pixel-hd",
+      "bankId": "bank-04ed72-07afaa-0ddd08",
+      "maps-v2UnexpectedBlackFraction": 0.0,
+      "state": "needs-visual-review"
+    },
+    {
+      "mapId": "0509",
+      "style": "unreal",
+      "bankId": "bank-04ed72-07afaa-0ddd08",
+      "maps-v2UnexpectedBlackFraction": 6e-05,
+      "state": "needs-visual-review"
+    },
+    {
+      "mapId": "0509",
+      "style": "ghibli",
+      "bankId": "bank-04ed72-07afaa-0ddd08",
+      "maps-v2UnexpectedBlackFraction": 9e-05,
+      "state": "needs-visual-review"
+    },
+    {
+      "mapId": "0600",
+      "style": "pixel-hd",
+      "bankId": "bank-032386-0772aa-0ddc08",
+      "maps-v2UnexpectedBlackFraction": 0.0,
+      "state": "needs-visual-review"
+    },
+    {
+      "mapId": "0600",
+      "style": "unreal",
+      "bankId": "bank-032386-0772aa-0ddc08",
+      "maps-v2UnexpectedBlackFraction": 0.002395,
+      "state": "needs-visual-review"
+    },
+    {
+      "mapId": "0600",
+      "style": "ghibli",
+      "bankId": "bank-032386-0772aa-0ddc08",
+      "maps-v2UnexpectedBlackFraction": 0.001924,
+      "state": "needs-visual-review"
+    },
+    {
+      "mapId": "0601",
+      "style": "pixel-hd",
+      "bankId": "bank-037948-07852a-0ddc48",
+      "maps-v2UnexpectedBlackFraction": 0.002185,
+      "state": "needs-visual-review"
+    },
+    {
+      "mapId": "0601",
+      "style": "unreal",
+      "bankId": "bank-037948-07852a-0ddc48",
+      "maps-v2UnexpectedBlackFraction": 0.0,
+      "state": "needs-visual-review"
+    },
+    {
+      "mapId": "0601",
+      "style": "ghibli",
+      "bankId": "bank-037948-07852a-0ddc48",
+      "maps-v2UnexpectedBlackFraction": 0.0,
+      "state": "needs-visual-review"
+    },
+    {
+      "mapId": "0602",
+      "style": "pixel-hd",
+      "bankId": "bank-037948-07852a-0ddc48",
+      "maps-v2UnexpectedBlackFraction": 0.001577,
+      "state": "needs-visual-review"
+    },
+    {
+      "mapId": "0602",
+      "style": "unreal",
+      "bankId": "bank-037948-07852a-0ddc48",
+      "maps-v2UnexpectedBlackFraction": 0.0,
+      "state": "needs-visual-review"
+    },
+    {
+      "mapId": "0602",
+      "style": "ghibli",
+      "bankId": "bank-037948-07852a-0ddc48",
+      "maps-v2UnexpectedBlackFraction": 0.0,
+      "state": "needs-visual-review"
+    },
+    {
+      "mapId": "0603",
+      "style": "pixel-hd",
+      "bankId": "bank-037948-07852a-0ddc48",
+      "maps-v2UnexpectedBlackFraction": 0.002263,
+      "state": "needs-visual-review"
+    },
+    {
+      "mapId": "0603",
+      "style": "unreal",
+      "bankId": "bank-037948-07852a-0ddc48",
+      "maps-v2UnexpectedBlackFraction": 0.0,
+      "state": "needs-visual-review"
+    },
+    {
+      "mapId": "0603",
+      "style": "ghibli",
+      "bankId": "bank-037948-07852a-0ddc48",
+      "maps-v2UnexpectedBlackFraction": 0.0,
+      "state": "needs-visual-review"
+    },
+    {
+      "mapId": "0604",
+      "style": "pixel-hd",
+      "bankId": "bank-037948-07852a-0ddc48",
+      "maps-v2UnexpectedBlackFraction": 0.0019,
+      "state": "needs-visual-review"
+    },
+    {
+      "mapId": "0604",
+      "style": "unreal",
+      "bankId": "bank-037948-07852a-0ddc48",
+      "maps-v2UnexpectedBlackFraction": 0.0,
+      "state": "needs-visual-review"
+    },
+    {
+      "mapId": "0604",
+      "style": "ghibli",
+      "bankId": "bank-037948-07852a-0ddc48",
+      "maps-v2UnexpectedBlackFraction": 0.0,
+      "state": "needs-visual-review"
+    },
+    {
+      "mapId": "0605",
+      "style": "pixel-hd",
+      "bankId": "bank-037948-07852a-0ddc48",
+      "maps-v2UnexpectedBlackFraction": 0.002434,
+      "state": "needs-visual-review"
+    },
+    {
+      "mapId": "0605",
+      "style": "unreal",
+      "bankId": "bank-037948-07852a-0ddc48",
+      "maps-v2UnexpectedBlackFraction": 0.0,
+      "state": "needs-visual-review"
+    },
+    {
+      "mapId": "0605",
+      "style": "ghibli",
+      "bankId": "bank-037948-07852a-0ddc48",
+      "maps-v2UnexpectedBlackFraction": 0.0,
+      "state": "needs-visual-review"
+    },
+    {
+      "mapId": "0606",
+      "style": "pixel-hd",
+      "bankId": "bank-037948-07852a-0ddc48",
+      "maps-v2UnexpectedBlackFraction": 0.001799,
+      "state": "needs-visual-review"
+    },
+    {
+      "mapId": "0606",
+      "style": "unreal",
+      "bankId": "bank-037948-07852a-0ddc48",
+      "maps-v2UnexpectedBlackFraction": 0.0,
+      "state": "needs-visual-review"
+    },
+    {
+      "mapId": "0606",
+      "style": "ghibli",
+      "bankId": "bank-037948-07852a-0ddc48",
+      "maps-v2UnexpectedBlackFraction": 0.0,
+      "state": "needs-visual-review"
+    },
+    {
+      "mapId": "0607",
+      "style": "pixel-hd",
+      "bankId": "bank-037948-07852a-0ddc48",
+      "maps-v2UnexpectedBlackFraction": 0.001993,
+      "state": "needs-visual-review"
+    },
+    {
+      "mapId": "0607",
+      "style": "unreal",
+      "bankId": "bank-037948-07852a-0ddc48",
+      "maps-v2UnexpectedBlackFraction": 0.0,
+      "state": "needs-visual-review"
+    },
+    {
+      "mapId": "0607",
+      "style": "ghibli",
+      "bankId": "bank-037948-07852a-0ddc48",
+      "maps-v2UnexpectedBlackFraction": 0.0,
+      "state": "needs-visual-review"
+    },
+    {
+      "mapId": "0608",
+      "style": "pixel-hd",
+      "bankId": "bank-037948-07852a-0ddc48",
+      "maps-v2UnexpectedBlackFraction": 0.002213,
+      "state": "needs-visual-review"
+    },
+    {
+      "mapId": "0608",
+      "style": "unreal",
+      "bankId": "bank-037948-07852a-0ddc48",
+      "maps-v2UnexpectedBlackFraction": 0.0,
+      "state": "needs-visual-review"
+    },
+    {
+      "mapId": "0608",
+      "style": "ghibli",
+      "bankId": "bank-037948-07852a-0ddc48",
+      "maps-v2UnexpectedBlackFraction": 0.0,
+      "state": "needs-visual-review"
+    },
+    {
+      "mapId": "0609",
+      "style": "pixel-hd",
+      "bankId": "bank-037948-07852a-0ddc48",
+      "maps-v2UnexpectedBlackFraction": 0.001328,
+      "state": "needs-visual-review"
+    },
+    {
+      "mapId": "0609",
+      "style": "unreal",
+      "bankId": "bank-037948-07852a-0ddc48",
+      "maps-v2UnexpectedBlackFraction": 3e-06,
+      "state": "needs-visual-review"
+    },
+    {
+      "mapId": "0609",
+      "style": "ghibli",
+      "bankId": "bank-037948-07852a-0ddc48",
+      "maps-v2UnexpectedBlackFraction": 0.0,
+      "state": "needs-visual-review"
+    },
+    {
+      "mapId": "0700",
+      "style": "pixel-hd",
+      "bankId": "bank-03d80a-077b8a-0dd9c8",
+      "maps-v2UnexpectedBlackFraction": 0.008725,
+      "state": "needs-visual-review"
+    },
+    {
+      "mapId": "0700",
+      "style": "unreal",
+      "bankId": "bank-03d80a-077b8a-0dd9c8",
+      "maps-v2UnexpectedBlackFraction": 0.011453,
+      "state": "needs-visual-review"
+    },
+    {
+      "mapId": "0700",
+      "style": "ghibli",
+      "bankId": "bank-03d80a-077b8a-0dd9c8",
+      "maps-v2UnexpectedBlackFraction": 0.01309,
+      "state": "needs-visual-review"
+    },
+    {
+      "mapId": "0701",
+      "style": "pixel-hd",
+      "bankId": "bank-04ed72-07afaa-0ddb88",
+      "maps-v2UnexpectedBlackFraction": 0.0,
+      "state": "needs-visual-review"
+    },
+    {
+      "mapId": "0701",
+      "style": "unreal",
+      "bankId": "bank-04ed72-07afaa-0ddb88",
+      "maps-v2UnexpectedBlackFraction": 0.000149,
+      "state": "needs-visual-review"
+    },
+    {
+      "mapId": "0701",
+      "style": "ghibli",
+      "bankId": "bank-04ed72-07afaa-0ddb88",
+      "maps-v2UnexpectedBlackFraction": 0.0,
+      "state": "needs-visual-review"
+    },
+    {
+      "mapId": "0702",
+      "style": "pixel-hd",
+      "bankId": "bank-037948-07852a-0dda08",
+      "maps-v2UnexpectedBlackFraction": 0.003273,
+      "state": "needs-visual-review"
+    },
+    {
+      "mapId": "0702",
+      "style": "unreal",
+      "bankId": "bank-037948-07852a-0dda08",
+      "maps-v2UnexpectedBlackFraction": 0.000107,
+      "state": "needs-visual-review"
+    },
+    {
+      "mapId": "0702",
+      "style": "ghibli",
+      "bankId": "bank-037948-07852a-0dda08",
+      "maps-v2UnexpectedBlackFraction": 0.0,
+      "state": "needs-visual-review"
+    },
+    {
+      "mapId": "0703",
+      "style": "pixel-hd",
+      "bankId": "bank-037948-07852a-0dda08",
+      "maps-v2UnexpectedBlackFraction": 0.00334,
+      "state": "needs-visual-review"
+    },
+    {
+      "mapId": "0703",
+      "style": "unreal",
+      "bankId": "bank-037948-07852a-0dda08",
+      "maps-v2UnexpectedBlackFraction": 0.00025,
+      "state": "needs-visual-review"
+    },
+    {
+      "mapId": "0703",
+      "style": "ghibli",
+      "bankId": "bank-037948-07852a-0dda08",
+      "maps-v2UnexpectedBlackFraction": 0.0,
+      "state": "needs-visual-review"
+    },
+    {
+      "mapId": "0704",
+      "style": "pixel-hd",
+      "bankId": "bank-037948-07852a-0dda08",
+      "maps-v2UnexpectedBlackFraction": 0.0,
+      "state": "needs-visual-review"
+    },
+    {
+      "mapId": "0704",
+      "style": "unreal",
+      "bankId": "bank-037948-07852a-0dda08",
+      "maps-v2UnexpectedBlackFraction": 0.000129,
+      "state": "needs-visual-review"
+    },
+    {
+      "mapId": "0704",
+      "style": "ghibli",
+      "bankId": "bank-037948-07852a-0dda08",
+      "maps-v2UnexpectedBlackFraction": 0.000107,
+      "state": "needs-visual-review"
+    },
+    {
+      "mapId": "0705",
+      "style": "pixel-hd",
+      "bankId": "bank-037948-07852a-0dda08",
+      "maps-v2UnexpectedBlackFraction": 0.003235,
+      "state": "needs-visual-review"
+    },
+    {
+      "mapId": "0705",
+      "style": "unreal",
+      "bankId": "bank-037948-07852a-0dda08",
+      "maps-v2UnexpectedBlackFraction": 0.000354,
+      "state": "needs-visual-review"
+    },
+    {
+      "mapId": "0705",
+      "style": "ghibli",
+      "bankId": "bank-037948-07852a-0dda08",
+      "maps-v2UnexpectedBlackFraction": 0.0,
+      "state": "needs-visual-review"
+    },
+    {
+      "mapId": "0706",
+      "style": "pixel-hd",
+      "bankId": "bank-037948-07852a-0dda08",
+      "maps-v2UnexpectedBlackFraction": 0.003366,
+      "state": "needs-visual-review"
+    },
+    {
+      "mapId": "0706",
+      "style": "unreal",
+      "bankId": "bank-037948-07852a-0dda08",
+      "maps-v2UnexpectedBlackFraction": 0.000324,
+      "state": "needs-visual-review"
+    },
+    {
+      "mapId": "0706",
+      "style": "ghibli",
+      "bankId": "bank-037948-07852a-0dda08",
+      "maps-v2UnexpectedBlackFraction": 0.0,
+      "state": "needs-visual-review"
+    },
+    {
+      "mapId": "0707",
+      "style": "pixel-hd",
+      "bankId": "bank-053fd4-07cbea-0ddc88",
+      "maps-v2UnexpectedBlackFraction": 0.000345,
+      "state": "needs-visual-review"
+    },
+    {
+      "mapId": "0707",
+      "style": "unreal",
+      "bankId": "bank-053fd4-07cbea-0ddc88",
+      "maps-v2UnexpectedBlackFraction": 7.5e-05,
+      "state": "needs-visual-review"
+    },
+    {
+      "mapId": "0707",
+      "style": "ghibli",
+      "bankId": "bank-053fd4-07cbea-0ddc88",
+      "maps-v2UnexpectedBlackFraction": 0.0,
+      "state": "needs-visual-review"
+    },
+    {
+      "mapId": "0708",
+      "style": "pixel-hd",
+      "bankId": "bank-04b710-07a56a-0ddb48",
+      "maps-v2UnexpectedBlackFraction": 0.0,
+      "state": "needs-visual-review"
+    },
+    {
+      "mapId": "0708",
+      "style": "unreal",
+      "bankId": "bank-04b710-07a56a-0ddb48",
+      "maps-v2UnexpectedBlackFraction": 0.002186,
+      "state": "needs-visual-review"
+    },
+    {
+      "mapId": "0708",
+      "style": "ghibli",
+      "bankId": "bank-04b710-07a56a-0ddb48",
+      "maps-v2UnexpectedBlackFraction": 0.0,
+      "state": "needs-visual-review"
+    },
+    {
+      "mapId": "0709",
+      "style": "pixel-hd",
+      "bankId": "bank-0471ae-079eea-0ddd48",
+      "maps-v2UnexpectedBlackFraction": 1.5e-05,
+      "state": "needs-visual-review"
+    },
+    {
+      "mapId": "0709",
+      "style": "unreal",
+      "bankId": "bank-0471ae-079eea-0ddd48",
+      "maps-v2UnexpectedBlackFraction": 0.000134,
+      "state": "needs-visual-review"
+    },
+    {
+      "mapId": "0709",
+      "style": "ghibli",
+      "bankId": "bank-0471ae-079eea-0ddd48",
+      "maps-v2UnexpectedBlackFraction": 0.0,
+      "state": "needs-visual-review"
+    },
+    {
+      "mapId": "0800",
+      "style": "pixel-hd",
+      "bankId": "bank-032386-0772aa-0dd948",
+      "maps-v2UnexpectedBlackFraction": 0.0,
+      "state": "needs-visual-review"
+    },
+    {
+      "mapId": "0800",
+      "style": "unreal",
+      "bankId": "bank-032386-0772aa-0dd948",
+      "maps-v2UnexpectedBlackFraction": 0.0,
+      "state": "needs-visual-review"
+    },
+    {
+      "mapId": "0800",
+      "style": "ghibli",
+      "bankId": "bank-032386-0772aa-0dd948",
+      "maps-v2UnexpectedBlackFraction": 0.000859,
+      "state": "needs-visual-review"
+    },
+    {
+      "mapId": "0801",
+      "style": "pixel-hd",
+      "bankId": "bank-037948-07852a-0dd988",
+      "maps-v2UnexpectedBlackFraction": 0.004203,
+      "state": "needs-visual-review"
+    },
+    {
+      "mapId": "0801",
+      "style": "unreal",
+      "bankId": "bank-037948-07852a-0dd988",
+      "maps-v2UnexpectedBlackFraction": 0.002118,
+      "state": "needs-visual-review"
+    },
+    {
+      "mapId": "0801",
+      "style": "ghibli",
+      "bankId": "bank-037948-07852a-0dd988",
+      "maps-v2UnexpectedBlackFraction": 0.000898,
+      "state": "needs-visual-review"
+    },
+    {
+      "mapId": "0802",
+      "style": "pixel-hd",
+      "bankId": "bank-037948-07852a-0dd988",
+      "maps-v2UnexpectedBlackFraction": 0.003332,
+      "state": "needs-visual-review"
+    },
+    {
+      "mapId": "0802",
+      "style": "unreal",
+      "bankId": "bank-037948-07852a-0dd988",
+      "maps-v2UnexpectedBlackFraction": 0.001142,
+      "state": "needs-visual-review"
+    },
+    {
+      "mapId": "0802",
+      "style": "ghibli",
+      "bankId": "bank-037948-07852a-0dd988",
+      "maps-v2UnexpectedBlackFraction": 0.000398,
+      "state": "needs-visual-review"
+    },
+    {
+      "mapId": "0803",
+      "style": "pixel-hd",
+      "bankId": "bank-037948-07852a-0dd988",
+      "maps-v2UnexpectedBlackFraction": 0.003846,
+      "state": "needs-visual-review"
+    },
+    {
+      "mapId": "0803",
+      "style": "unreal",
+      "bankId": "bank-037948-07852a-0dd988",
+      "maps-v2UnexpectedBlackFraction": 0.001117,
+      "state": "needs-visual-review"
+    },
+    {
+      "mapId": "0803",
+      "style": "ghibli",
+      "bankId": "bank-037948-07852a-0dd988",
+      "maps-v2UnexpectedBlackFraction": 0.000344,
+      "state": "needs-visual-review"
+    },
+    {
+      "mapId": "0804",
+      "style": "pixel-hd",
+      "bankId": "bank-037948-07852a-0dd988",
+      "maps-v2UnexpectedBlackFraction": 0.002543,
+      "state": "needs-visual-review"
+    },
+    {
+      "mapId": "0804",
+      "style": "unreal",
+      "bankId": "bank-037948-07852a-0dd988",
+      "maps-v2UnexpectedBlackFraction": 0.001004,
+      "state": "needs-visual-review"
+    },
+    {
+      "mapId": "0804",
+      "style": "ghibli",
+      "bankId": "bank-037948-07852a-0dd988",
+      "maps-v2UnexpectedBlackFraction": 0.000954,
+      "state": "needs-visual-review"
+    },
+    {
+      "mapId": "0805",
+      "style": "pixel-hd",
+      "bankId": "bank-037948-07852a-0dd988",
+      "maps-v2UnexpectedBlackFraction": 0.001882,
+      "state": "needs-visual-review"
+    },
+    {
+      "mapId": "0805",
+      "style": "unreal",
+      "bankId": "bank-037948-07852a-0dd988",
+      "maps-v2UnexpectedBlackFraction": 0.0005,
+      "state": "needs-visual-review"
+    },
+    {
+      "mapId": "0805",
+      "style": "ghibli",
+      "bankId": "bank-037948-07852a-0dd988",
+      "maps-v2UnexpectedBlackFraction": 0.000483,
+      "state": "needs-visual-review"
+    },
+    {
+      "mapId": "0806",
+      "style": "pixel-hd",
+      "bankId": "bank-037948-07852a-0dd988",
+      "maps-v2UnexpectedBlackFraction": 0.002097,
+      "state": "needs-visual-review"
+    },
+    {
+      "mapId": "0806",
+      "style": "unreal",
+      "bankId": "bank-037948-07852a-0dd988",
+      "maps-v2UnexpectedBlackFraction": 0.000537,
+      "state": "needs-visual-review"
+    },
+    {
+      "mapId": "0806",
+      "style": "ghibli",
+      "bankId": "bank-037948-07852a-0dd988",
+      "maps-v2UnexpectedBlackFraction": 0.000486,
+      "state": "needs-visual-review"
+    },
+    {
+      "mapId": "0807",
+      "style": "pixel-hd",
+      "bankId": "bank-037948-07852a-0dd988",
+      "maps-v2UnexpectedBlackFraction": 0.003199,
+      "state": "needs-visual-review"
+    },
+    {
+      "mapId": "0807",
+      "style": "unreal",
+      "bankId": "bank-037948-07852a-0dd988",
+      "maps-v2UnexpectedBlackFraction": 0.001658,
+      "state": "needs-visual-review"
+    },
+    {
+      "mapId": "0807",
+      "style": "ghibli",
+      "bankId": "bank-037948-07852a-0dd988",
+      "maps-v2UnexpectedBlackFraction": 0.000955,
+      "state": "needs-visual-review"
+    },
+    {
+      "mapId": "0808",
+      "style": "pixel-hd",
+      "bankId": "bank-05f018-07e08a-0dd948",
+      "maps-v2UnexpectedBlackFraction": 2.1e-05,
+      "state": "needs-visual-review"
+    },
+    {
+      "mapId": "0808",
+      "style": "unreal",
+      "bankId": "bank-05f018-07e08a-0dd948",
+      "maps-v2UnexpectedBlackFraction": 0.000393,
+      "state": "needs-visual-review"
+    },
+    {
+      "mapId": "0808",
+      "style": "ghibli",
+      "bankId": "bank-05f018-07e08a-0dd948",
+      "maps-v2UnexpectedBlackFraction": 0.0,
+      "state": "needs-visual-review"
+    },
+    {
+      "mapId": "0809",
+      "style": "pixel-hd",
+      "bankId": "bank-037948-07852a-0ddd88",
+      "maps-v2UnexpectedBlackFraction": 0.000217,
+      "state": "needs-visual-review"
+    },
+    {
+      "mapId": "0809",
+      "style": "unreal",
+      "bankId": "bank-037948-07852a-0ddd88",
+      "maps-v2UnexpectedBlackFraction": 0.004642,
+      "state": "needs-visual-review"
+    },
+    {
+      "mapId": "0809",
+      "style": "ghibli",
+      "bankId": "bank-037948-07852a-0ddd88",
+      "maps-v2UnexpectedBlackFraction": 0.000116,
+      "state": "needs-visual-review"
+    },
+    {
+      "mapId": "080a",
+      "style": "pixel-hd",
+      "bankId": "bank-037948-07852a-0ddd88",
+      "maps-v2UnexpectedBlackFraction": 0.000269,
+      "state": "needs-visual-review"
+    },
+    {
+      "mapId": "080a",
+      "style": "unreal",
+      "bankId": "bank-037948-07852a-0ddd88",
+      "maps-v2UnexpectedBlackFraction": 0.008503,
+      "state": "needs-visual-review"
+    },
+    {
+      "mapId": "080a",
+      "style": "ghibli",
+      "bankId": "bank-037948-07852a-0ddd88",
+      "maps-v2UnexpectedBlackFraction": 0.000185,
+      "state": "needs-visual-review"
+    },
+    {
+      "mapId": "080b",
+      "style": "pixel-hd",
+      "bankId": "bank-037948-07852a-0ddd88",
+      "maps-v2UnexpectedBlackFraction": 0.00048,
+      "state": "needs-visual-review"
+    },
+    {
+      "mapId": "080b",
+      "style": "unreal",
+      "bankId": "bank-037948-07852a-0ddd88",
+      "maps-v2UnexpectedBlackFraction": 0.006019,
+      "state": "needs-visual-review"
+    },
+    {
+      "mapId": "080b",
+      "style": "ghibli",
+      "bankId": "bank-037948-07852a-0ddd88",
+      "maps-v2UnexpectedBlackFraction": 0.000189,
+      "state": "needs-visual-review"
+    },
+    {
+      "mapId": "0900",
+      "style": "pixel-hd",
+      "bankId": "bank-03d80a-077b8a-0dd9c8",
+      "maps-v2UnexpectedBlackFraction": 0.001056,
+      "state": "needs-visual-review"
+    },
+    {
+      "mapId": "0900",
+      "style": "unreal",
+      "bankId": "bank-03d80a-077b8a-0dd9c8",
+      "maps-v2UnexpectedBlackFraction": 0.001939,
+      "state": "needs-visual-review"
+    },
+    {
+      "mapId": "0900",
+      "style": "ghibli",
+      "bankId": "bank-03d80a-077b8a-0dd9c8",
+      "maps-v2UnexpectedBlackFraction": 0.001305,
+      "state": "needs-visual-review"
+    },
+    {
+      "mapId": "0901",
+      "style": "pixel-hd",
+      "bankId": "bank-037948-07852a-0dd988",
+      "maps-v2UnexpectedBlackFraction": 0.005539,
+      "state": "needs-visual-review"
+    },
+    {
+      "mapId": "0901",
+      "style": "unreal",
+      "bankId": "bank-037948-07852a-0dd988",
+      "maps-v2UnexpectedBlackFraction": 0.002738,
+      "state": "needs-visual-review"
+    },
+    {
+      "mapId": "0901",
+      "style": "ghibli",
+      "bankId": "bank-037948-07852a-0dd988",
+      "maps-v2UnexpectedBlackFraction": 0.00052,
+      "state": "needs-visual-review"
+    },
+    {
+      "mapId": "0902",
+      "style": "pixel-hd",
+      "bankId": "bank-037948-07852a-0dd988",
+      "maps-v2UnexpectedBlackFraction": 0.008183,
+      "state": "needs-visual-review"
+    },
+    {
+      "mapId": "0902",
+      "style": "unreal",
+      "bankId": "bank-037948-07852a-0dd988",
+      "maps-v2UnexpectedBlackFraction": 0.002477,
+      "state": "needs-visual-review"
+    },
+    {
+      "mapId": "0902",
+      "style": "ghibli",
+      "bankId": "bank-037948-07852a-0dd988",
+      "maps-v2UnexpectedBlackFraction": 0.000715,
+      "state": "needs-visual-review"
+    },
+    {
+      "mapId": "0903",
+      "style": "pixel-hd",
+      "bankId": "bank-037948-07852a-0dd988",
+      "maps-v2UnexpectedBlackFraction": 0.008226,
+      "state": "needs-visual-review"
+    },
+    {
+      "mapId": "0903",
+      "style": "unreal",
+      "bankId": "bank-037948-07852a-0dd988",
+      "maps-v2UnexpectedBlackFraction": 0.002445,
+      "state": "needs-visual-review"
+    },
+    {
+      "mapId": "0903",
+      "style": "ghibli",
+      "bankId": "bank-037948-07852a-0dd988",
+      "maps-v2UnexpectedBlackFraction": 0.000716,
+      "state": "needs-visual-review"
+    },
+    {
+      "mapId": "0904",
+      "style": "pixel-hd",
+      "bankId": "bank-037948-07852a-0dd988",
+      "maps-v2UnexpectedBlackFraction": 0.008486,
+      "state": "needs-visual-review"
+    },
+    {
+      "mapId": "0904",
+      "style": "unreal",
+      "bankId": "bank-037948-07852a-0dd988",
+      "maps-v2UnexpectedBlackFraction": 0.00413,
+      "state": "needs-visual-review"
+    },
+    {
+      "mapId": "0904",
+      "style": "ghibli",
+      "bankId": "bank-037948-07852a-0dd988",
+      "maps-v2UnexpectedBlackFraction": 0.000567,
+      "state": "needs-visual-review"
+    },
+    {
+      "mapId": "0905",
+      "style": "pixel-hd",
+      "bankId": "bank-037948-07852a-0dd988",
+      "maps-v2UnexpectedBlackFraction": 0.008336,
+      "state": "needs-visual-review"
+    },
+    {
+      "mapId": "0905",
+      "style": "unreal",
+      "bankId": "bank-037948-07852a-0dd988",
+      "maps-v2UnexpectedBlackFraction": 0.002377,
+      "state": "needs-visual-review"
+    },
+    {
+      "mapId": "0905",
+      "style": "ghibli",
+      "bankId": "bank-037948-07852a-0dd988",
+      "maps-v2UnexpectedBlackFraction": 0.000727,
+      "state": "needs-visual-review"
+    },
+    {
+      "mapId": "0906",
+      "style": "pixel-hd",
+      "bankId": "bank-059976-07d64a-0dddc8",
+      "maps-v2UnexpectedBlackFraction": 0.013655,
+      "state": "needs-visual-review"
+    },
+    {
+      "mapId": "0906",
+      "style": "unreal",
+      "bankId": "bank-059976-07d64a-0dddc8",
+      "maps-v2UnexpectedBlackFraction": 0.023943,
+      "state": "needs-visual-review"
+    },
+    {
+      "mapId": "0906",
+      "style": "ghibli",
+      "bankId": "bank-059976-07d64a-0dddc8",
+      "maps-v2UnexpectedBlackFraction": 0.006492,
+      "state": "needs-visual-review"
+    },
+    {
+      "mapId": "0907",
+      "style": "pixel-hd",
+      "bankId": "bank-053fd4-07cbea-0dde08",
+      "maps-v2UnexpectedBlackFraction": 0.0,
+      "state": "needs-visual-review"
+    },
+    {
+      "mapId": "0907",
+      "style": "unreal",
+      "bankId": "bank-053fd4-07cbea-0dde08",
+      "maps-v2UnexpectedBlackFraction": 0.0,
+      "state": "needs-visual-review"
+    },
+    {
+      "mapId": "0907",
+      "style": "ghibli",
+      "bankId": "bank-053fd4-07cbea-0dde08",
+      "maps-v2UnexpectedBlackFraction": 0.0,
+      "state": "needs-visual-review"
+    },
+    {
+      "mapId": "0908",
+      "style": "pixel-hd",
+      "bankId": "bank-04b710-07a56a-0dde48",
+      "maps-v2UnexpectedBlackFraction": 0.0,
+      "state": "needs-visual-review"
+    },
+    {
+      "mapId": "0908",
+      "style": "unreal",
+      "bankId": "bank-04b710-07a56a-0dde48",
+      "maps-v2UnexpectedBlackFraction": 0.0,
+      "state": "needs-visual-review"
+    },
+    {
+      "mapId": "0908",
+      "style": "ghibli",
+      "bankId": "bank-04b710-07a56a-0dde48",
+      "maps-v2UnexpectedBlackFraction": 0.0,
+      "state": "needs-visual-review"
+    },
+    {
+      "mapId": "0a00",
+      "style": "pixel-hd",
+      "bankId": "bank-06111a-07e50a-0dde88",
+      "maps-v2UnexpectedBlackFraction": 0.000293,
+      "state": "needs-visual-review"
+    },
+    {
+      "mapId": "0a00",
+      "style": "unreal",
+      "bankId": "bank-06111a-07e50a-0dde88",
+      "maps-v2UnexpectedBlackFraction": 0.000377,
+      "state": "needs-visual-review"
+    },
+    {
+      "mapId": "0a00",
+      "style": "ghibli",
+      "bankId": "bank-06111a-07e50a-0dde88",
+      "maps-v2UnexpectedBlackFraction": 0.0,
+      "state": "needs-visual-review"
+    },
+    {
+      "mapId": "0a01",
+      "style": "pixel-hd",
+      "bankId": "bank-066d5c-07efea-0ddec8",
+      "maps-v2UnexpectedBlackFraction": 0.000288,
+      "state": "needs-visual-review"
+    },
+    {
+      "mapId": "0a01",
+      "style": "unreal",
+      "bankId": "bank-066d5c-07efea-0ddec8",
+      "maps-v2UnexpectedBlackFraction": 3.3e-05,
+      "state": "needs-visual-review"
+    },
+    {
+      "mapId": "0a01",
+      "style": "ghibli",
+      "bankId": "bank-066d5c-07efea-0ddec8",
+      "maps-v2UnexpectedBlackFraction": 1.1e-05,
+      "state": "needs-visual-review"
+    },
+    {
+      "mapId": "0a02",
+      "style": "pixel-hd",
+      "bankId": "bank-037948-07852a-0dd988",
+      "maps-v2UnexpectedBlackFraction": 0.002574,
+      "state": "needs-visual-review"
+    },
+    {
+      "mapId": "0a02",
+      "style": "unreal",
+      "bankId": "bank-037948-07852a-0dd988",
+      "maps-v2UnexpectedBlackFraction": 0.000725,
+      "state": "needs-visual-review"
+    },
+    {
+      "mapId": "0a02",
+      "style": "ghibli",
+      "bankId": "bank-037948-07852a-0dd988",
+      "maps-v2UnexpectedBlackFraction": 0.000475,
+      "state": "needs-visual-review"
+    },
+    {
+      "mapId": "0a03",
+      "style": "pixel-hd",
+      "bankId": "bank-037948-07852a-0dd988",
+      "maps-v2UnexpectedBlackFraction": 0.002262,
+      "state": "needs-visual-review"
+    },
+    {
+      "mapId": "0a03",
+      "style": "unreal",
+      "bankId": "bank-037948-07852a-0dd988",
+      "maps-v2UnexpectedBlackFraction": 0.000469,
+      "state": "needs-visual-review"
+    },
+    {
+      "mapId": "0a03",
+      "style": "ghibli",
+      "bankId": "bank-037948-07852a-0dd988",
+      "maps-v2UnexpectedBlackFraction": 0.000489,
+      "state": "needs-visual-review"
+    },
+    {
+      "mapId": "0a04",
+      "style": "pixel-hd",
+      "bankId": "bank-037948-07852a-0dd988",
+      "maps-v2UnexpectedBlackFraction": 0.004425,
+      "state": "needs-visual-review"
+    },
+    {
+      "mapId": "0a04",
+      "style": "unreal",
+      "bankId": "bank-037948-07852a-0dd988",
+      "maps-v2UnexpectedBlackFraction": 0.002465,
+      "state": "needs-visual-review"
+    },
+    {
+      "mapId": "0a04",
+      "style": "ghibli",
+      "bankId": "bank-037948-07852a-0dd988",
+      "maps-v2UnexpectedBlackFraction": 0.000505,
+      "state": "needs-visual-review"
+    },
+    {
+      "mapId": "0a05",
+      "style": "pixel-hd",
+      "bankId": "bank-037948-07852a-0dd988",
+      "maps-v2UnexpectedBlackFraction": 0.002923,
+      "state": "needs-visual-review"
+    },
+    {
+      "mapId": "0a05",
+      "style": "unreal",
+      "bankId": "bank-037948-07852a-0dd988",
+      "maps-v2UnexpectedBlackFraction": 0.000593,
+      "state": "needs-visual-review"
+    },
+    {
+      "mapId": "0a05",
+      "style": "ghibli",
+      "bankId": "bank-037948-07852a-0dd988",
+      "maps-v2UnexpectedBlackFraction": 0.000506,
+      "state": "needs-visual-review"
+    },
+    {
+      "mapId": "0a06",
+      "style": "pixel-hd",
+      "bankId": "bank-0694fe-07f58a-0ddf08",
+      "maps-v2UnexpectedBlackFraction": 0.000295,
+      "state": "needs-visual-review"
+    },
+    {
+      "mapId": "0a06",
+      "style": "unreal",
+      "bankId": "bank-0694fe-07f58a-0ddf08",
+      "maps-v2UnexpectedBlackFraction": 0.002564,
+      "state": "needs-visual-review"
+    },
+    {
+      "mapId": "0a06",
+      "style": "ghibli",
+      "bankId": "bank-0694fe-07f58a-0ddf08",
+      "maps-v2UnexpectedBlackFraction": 0.0,
+      "state": "needs-visual-review"
+    },
+    {
+      "mapId": "0a07",
+      "style": "pixel-hd",
+      "bankId": "bank-0694fe-07f58a-0ddf48",
+      "maps-v2UnexpectedBlackFraction": 0.001009,
+      "state": "needs-visual-review"
+    },
+    {
+      "mapId": "0a07",
+      "style": "unreal",
+      "bankId": "bank-0694fe-07f58a-0ddf48",
+      "maps-v2UnexpectedBlackFraction": 0.000151,
+      "state": "needs-visual-review"
+    },
+    {
+      "mapId": "0a07",
+      "style": "ghibli",
+      "bankId": "bank-0694fe-07f58a-0ddf48",
+      "maps-v2UnexpectedBlackFraction": 0.0,
+      "state": "needs-visual-review"
+    },
+    {
+      "mapId": "0a08",
+      "style": "pixel-hd",
+      "bankId": "bank-0694fe-07f58a-0ddf48",
+      "maps-v2UnexpectedBlackFraction": 0.000639,
+      "state": "needs-visual-review"
+    },
+    {
+      "mapId": "0a08",
+      "style": "unreal",
+      "bankId": "bank-0694fe-07f58a-0ddf48",
+      "maps-v2UnexpectedBlackFraction": 0.000117,
+      "state": "needs-visual-review"
+    },
+    {
+      "mapId": "0a08",
+      "style": "ghibli",
+      "bankId": "bank-0694fe-07f58a-0ddf48",
+      "maps-v2UnexpectedBlackFraction": 0.0,
+      "state": "needs-visual-review"
+    },
+    {
+      "mapId": "0b00",
+      "style": "pixel-hd",
+      "bankId": "bank-03d80a-077b8a-0dd9c8",
+      "maps-v2UnexpectedBlackFraction": 0.000893,
+      "state": "needs-visual-review"
+    },
+    {
+      "mapId": "0b00",
+      "style": "unreal",
+      "bankId": "bank-03d80a-077b8a-0dd9c8",
+      "maps-v2UnexpectedBlackFraction": 0.001738,
+      "state": "needs-visual-review"
+    },
+    {
+      "mapId": "0b00",
+      "style": "ghibli",
+      "bankId": "bank-03d80a-077b8a-0dd9c8",
+      "maps-v2UnexpectedBlackFraction": 0.001127,
+      "state": "needs-visual-review"
+    },
+    {
+      "mapId": "0b01",
+      "style": "pixel-hd",
+      "bankId": "bank-037948-07852a-0dd988",
+      "maps-v2UnexpectedBlackFraction": 0.008183,
+      "state": "needs-visual-review"
+    },
+    {
+      "mapId": "0b01",
+      "style": "unreal",
+      "bankId": "bank-037948-07852a-0dd988",
+      "maps-v2UnexpectedBlackFraction": 0.002477,
+      "state": "needs-visual-review"
+    },
+    {
+      "mapId": "0b01",
+      "style": "ghibli",
+      "bankId": "bank-037948-07852a-0dd988",
+      "maps-v2UnexpectedBlackFraction": 0.000715,
+      "state": "needs-visual-review"
+    },
+    {
+      "mapId": "0b02",
+      "style": "pixel-hd",
+      "bankId": "bank-037948-07852a-0dd988",
+      "maps-v2UnexpectedBlackFraction": 0.008226,
+      "state": "needs-visual-review"
+    },
+    {
+      "mapId": "0b02",
+      "style": "unreal",
+      "bankId": "bank-037948-07852a-0dd988",
+      "maps-v2UnexpectedBlackFraction": 0.002445,
+      "state": "needs-visual-review"
+    },
+    {
+      "mapId": "0b02",
+      "style": "ghibli",
+      "bankId": "bank-037948-07852a-0dd988",
+      "maps-v2UnexpectedBlackFraction": 0.000716,
+      "state": "needs-visual-review"
+    },
+    {
+      "mapId": "0b03",
+      "style": "pixel-hd",
+      "bankId": "bank-037948-07852a-0dd988",
+      "maps-v2UnexpectedBlackFraction": 0.008336,
+      "state": "needs-visual-review"
+    },
+    {
+      "mapId": "0b03",
+      "style": "unreal",
+      "bankId": "bank-037948-07852a-0dd988",
+      "maps-v2UnexpectedBlackFraction": 0.002377,
+      "state": "needs-visual-review"
+    },
+    {
+      "mapId": "0b03",
+      "style": "ghibli",
+      "bankId": "bank-037948-07852a-0dd988",
+      "maps-v2UnexpectedBlackFraction": 0.000727,
+      "state": "needs-visual-review"
+    },
+    {
+      "mapId": "0b04",
+      "style": "pixel-hd",
+      "bankId": "bank-037948-07852a-0dd988",
+      "maps-v2UnexpectedBlackFraction": 0.008486,
+      "state": "needs-visual-review"
+    },
+    {
+      "mapId": "0b04",
+      "style": "unreal",
+      "bankId": "bank-037948-07852a-0dd988",
+      "maps-v2UnexpectedBlackFraction": 0.00413,
+      "state": "needs-visual-review"
+    },
+    {
+      "mapId": "0b04",
+      "style": "ghibli",
+      "bankId": "bank-037948-07852a-0dd988",
+      "maps-v2UnexpectedBlackFraction": 0.000567,
+      "state": "needs-visual-review"
+    },
+    {
+      "mapId": "0b05",
+      "style": "pixel-hd",
+      "bankId": "bank-06d4e0-07feca-0ddf88",
+      "maps-v2UnexpectedBlackFraction": 0.014315,
+      "state": "needs-visual-review"
+    },
+    {
+      "mapId": "0b05",
+      "style": "unreal",
+      "bankId": "bank-06d4e0-07feca-0ddf88",
+      "maps-v2UnexpectedBlackFraction": 0.009772,
+      "state": "needs-visual-review"
+    },
+    {
+      "mapId": "0b05",
+      "style": "ghibli",
+      "bankId": "bank-06d4e0-07feca-0ddf88",
+      "maps-v2UnexpectedBlackFraction": 0.009562,
+      "state": "needs-visual-review"
+    },
+    {
+      "mapId": "0b06",
+      "style": "pixel-hd",
+      "bankId": "bank-06111a-07e50a-0dde88",
+      "maps-v2UnexpectedBlackFraction": 0.000132,
+      "state": "needs-visual-review"
+    },
+    {
+      "mapId": "0b06",
+      "style": "unreal",
+      "bankId": "bank-06111a-07e50a-0dde88",
+      "maps-v2UnexpectedBlackFraction": 0.000185,
+      "state": "needs-visual-review"
+    },
+    {
+      "mapId": "0b06",
+      "style": "ghibli",
+      "bankId": "bank-06111a-07e50a-0dde88",
+      "maps-v2UnexpectedBlackFraction": 0.0,
+      "state": "needs-visual-review"
+    },
+    {
+      "mapId": "0b07",
+      "style": "pixel-hd",
+      "bankId": "bank-053fd4-07cbea-0ddc88",
+      "maps-v2UnexpectedBlackFraction": 0.000292,
+      "state": "needs-visual-review"
+    },
+    {
+      "mapId": "0b07",
+      "style": "unreal",
+      "bankId": "bank-053fd4-07cbea-0ddc88",
+      "maps-v2UnexpectedBlackFraction": 8.8e-05,
+      "state": "needs-visual-review"
+    },
+    {
+      "mapId": "0b07",
+      "style": "ghibli",
+      "bankId": "bank-053fd4-07cbea-0ddc88",
+      "maps-v2UnexpectedBlackFraction": 0.0,
+      "state": "needs-visual-review"
+    },
+    {
+      "mapId": "0b08",
+      "style": "pixel-hd",
+      "bankId": "bank-032386-0772aa-0dd948",
+      "maps-v2UnexpectedBlackFraction": 0.0,
+      "state": "needs-visual-review"
+    },
+    {
+      "mapId": "0b08",
+      "style": "unreal",
+      "bankId": "bank-032386-0772aa-0dd948",
+      "maps-v2UnexpectedBlackFraction": 1.1e-05,
+      "state": "needs-visual-review"
+    },
+    {
+      "mapId": "0b08",
+      "style": "ghibli",
+      "bankId": "bank-032386-0772aa-0dd948",
+      "maps-v2UnexpectedBlackFraction": 0.000471,
+      "state": "needs-visual-review"
+    },
+    {
+      "mapId": "0b09",
+      "style": "pixel-hd",
+      "bankId": "bank-06ff42-08084a-0ddfc8",
+      "maps-v2UnexpectedBlackFraction": 0.001852,
+      "state": "needs-visual-review"
+    },
+    {
+      "mapId": "0b09",
+      "style": "unreal",
+      "bankId": "bank-06ff42-08084a-0ddfc8",
+      "maps-v2UnexpectedBlackFraction": 0.002419,
+      "state": "needs-visual-review"
+    },
+    {
+      "mapId": "0b09",
+      "style": "ghibli",
+      "bankId": "bank-06ff42-08084a-0ddfc8",
+      "maps-v2UnexpectedBlackFraction": 0.0,
+      "state": "needs-visual-review"
+    },
+    {
+      "mapId": "0b0a",
+      "style": "pixel-hd",
+      "bankId": "bank-04b710-07a56a-0ddb48",
+      "maps-v2UnexpectedBlackFraction": 0.0,
+      "state": "needs-visual-review"
+    },
+    {
+      "mapId": "0b0a",
+      "style": "unreal",
+      "bankId": "bank-04b710-07a56a-0ddb48",
+      "maps-v2UnexpectedBlackFraction": 0.001775,
+      "state": "needs-visual-review"
+    },
+    {
+      "mapId": "0b0a",
+      "style": "ghibli",
+      "bankId": "bank-04b710-07a56a-0ddb48",
+      "maps-v2UnexpectedBlackFraction": 0.0,
+      "state": "needs-visual-review"
+    },
+    {
+      "mapId": "0c00",
+      "style": "pixel-hd",
+      "bankId": "bank-03d80a-077b8a-0dd9c8",
+      "maps-v2UnexpectedBlackFraction": 0.001248,
+      "state": "needs-visual-review"
+    },
+    {
+      "mapId": "0c00",
+      "style": "unreal",
+      "bankId": "bank-03d80a-077b8a-0dd9c8",
+      "maps-v2UnexpectedBlackFraction": 0.001989,
+      "state": "needs-visual-review"
+    },
+    {
+      "mapId": "0c00",
+      "style": "ghibli",
+      "bankId": "bank-03d80a-077b8a-0dd9c8",
+      "maps-v2UnexpectedBlackFraction": 0.001651,
+      "state": "needs-visual-review"
+    },
+    {
+      "mapId": "0c01",
+      "style": "pixel-hd",
+      "bankId": "bank-037948-07852a-0dd988",
+      "maps-v2UnexpectedBlackFraction": 0.008226,
+      "state": "needs-visual-review"
+    },
+    {
+      "mapId": "0c01",
+      "style": "unreal",
+      "bankId": "bank-037948-07852a-0dd988",
+      "maps-v2UnexpectedBlackFraction": 0.002445,
+      "state": "needs-visual-review"
+    },
+    {
+      "mapId": "0c01",
+      "style": "ghibli",
+      "bankId": "bank-037948-07852a-0dd988",
+      "maps-v2UnexpectedBlackFraction": 0.000716,
+      "state": "needs-visual-review"
+    },
+    {
+      "mapId": "0c02",
+      "style": "pixel-hd",
+      "bankId": "bank-037948-07852a-0dd988",
+      "maps-v2UnexpectedBlackFraction": 0.008336,
+      "state": "needs-visual-review"
+    },
+    {
+      "mapId": "0c02",
+      "style": "unreal",
+      "bankId": "bank-037948-07852a-0dd988",
+      "maps-v2UnexpectedBlackFraction": 0.002377,
+      "state": "needs-visual-review"
+    },
+    {
+      "mapId": "0c02",
+      "style": "ghibli",
+      "bankId": "bank-037948-07852a-0dd988",
+      "maps-v2UnexpectedBlackFraction": 0.000727,
+      "state": "needs-visual-review"
+    },
+    {
+      "mapId": "0c03",
+      "style": "pixel-hd",
+      "bankId": "bank-037948-07852a-0dd988",
+      "maps-v2UnexpectedBlackFraction": 0.008486,
+      "state": "needs-visual-review"
+    },
+    {
+      "mapId": "0c03",
+      "style": "unreal",
+      "bankId": "bank-037948-07852a-0dd988",
+      "maps-v2UnexpectedBlackFraction": 0.00413,
+      "state": "needs-visual-review"
+    },
+    {
+      "mapId": "0c03",
+      "style": "ghibli",
+      "bankId": "bank-037948-07852a-0dd988",
+      "maps-v2UnexpectedBlackFraction": 0.000567,
+      "state": "needs-visual-review"
+    },
+    {
+      "mapId": "0c04",
+      "style": "pixel-hd",
+      "bankId": "bank-073c64-080f6a-0de008",
+      "maps-v2UnexpectedBlackFraction": 0.001511,
+      "state": "needs-visual-review"
+    },
+    {
+      "mapId": "0c04",
+      "style": "unreal",
+      "bankId": "bank-073c64-080f6a-0de008",
+      "maps-v2UnexpectedBlackFraction": 2.7e-05,
+      "state": "needs-visual-review"
+    },
+    {
+      "mapId": "0c04",
+      "style": "ghibli",
+      "bankId": "bank-073c64-080f6a-0de008",
+      "maps-v2UnexpectedBlackFraction": 1.6e-05,
+      "state": "needs-visual-review"
+    },
+    {
+      "mapId": "0c05",
+      "style": "pixel-hd",
+      "bankId": "bank-059976-07d64a-0ddcc8",
+      "maps-v2UnexpectedBlackFraction": 6.9e-05,
+      "state": "needs-visual-review"
+    },
+    {
+      "mapId": "0c05",
+      "style": "unreal",
+      "bankId": "bank-059976-07d64a-0ddcc8",
+      "maps-v2UnexpectedBlackFraction": 0.007156,
+      "state": "needs-visual-review"
+    },
+    {
+      "mapId": "0c05",
+      "style": "ghibli",
+      "bankId": "bank-059976-07d64a-0ddcc8",
+      "maps-v2UnexpectedBlackFraction": 0.00589,
+      "state": "needs-visual-review"
+    },
+    {
+      "mapId": "0c06",
+      "style": "pixel-hd",
+      "bankId": "bank-0694fe-07f58a-0de048",
+      "maps-v2UnexpectedBlackFraction": 1.5e-05,
+      "state": "needs-visual-review"
+    },
+    {
+      "mapId": "0c06",
+      "style": "unreal",
+      "bankId": "bank-0694fe-07f58a-0de048",
+      "maps-v2UnexpectedBlackFraction": 6.9e-05,
+      "state": "needs-visual-review"
+    },
+    {
+      "mapId": "0c06",
+      "style": "ghibli",
+      "bankId": "bank-0694fe-07f58a-0de048",
+      "maps-v2UnexpectedBlackFraction": 0.0,
+      "state": "needs-visual-review"
+    },
+    {
+      "mapId": "0c07",
+      "style": "pixel-hd",
+      "bankId": "bank-06ff42-08084a-0ddfc8",
+      "maps-v2UnexpectedBlackFraction": 0.002045,
+      "state": "needs-visual-review"
+    },
+    {
+      "mapId": "0c07",
+      "style": "unreal",
+      "bankId": "bank-06ff42-08084a-0ddfc8",
+      "maps-v2UnexpectedBlackFraction": 0.003099,
+      "state": "needs-visual-review"
+    },
+    {
+      "mapId": "0c07",
+      "style": "ghibli",
+      "bankId": "bank-06ff42-08084a-0ddfc8",
+      "maps-v2UnexpectedBlackFraction": 0.0,
+      "state": "needs-visual-review"
+    },
+    {
+      "mapId": "0c08",
+      "style": "pixel-hd",
+      "bankId": "bank-06d4e0-07feca-0ddf88",
+      "maps-v2UnexpectedBlackFraction": 0.018175,
+      "state": "needs-visual-review"
+    },
+    {
+      "mapId": "0c08",
+      "style": "unreal",
+      "bankId": "bank-06d4e0-07feca-0ddf88",
+      "maps-v2UnexpectedBlackFraction": 0.012468,
+      "state": "needs-visual-review"
+    },
+    {
+      "mapId": "0c08",
+      "style": "ghibli",
+      "bankId": "bank-06d4e0-07feca-0ddf88",
+      "maps-v2UnexpectedBlackFraction": 0.01212,
+      "state": "needs-visual-review"
+    }
+  ]
+}

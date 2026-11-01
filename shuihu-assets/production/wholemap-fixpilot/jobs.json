@@ -1,0 +1,38 @@
+[
+  {
+    "id": "0605-ghibli",
+    "kind": "whole-map",
+    "style": "ghibli",
+    "reference": "0605-reference.png",
+    "size": "1280x1280",
+    "cell": 128,
+    "sourceId": "0605"
+  },
+  {
+    "id": "0605-hd2d",
+    "kind": "whole-map",
+    "style": "hd2d",
+    "reference": "0605-reference.png",
+    "size": "1280x1280",
+    "cell": 128,
+    "sourceId": "0605"
+  },
+  {
+    "id": "0102-ghibli",
+    "kind": "whole-map",
+    "style": "ghibli",
+    "reference": "0102-reference.png",
+    "size": "1280x1920",
+    "cell": 128,
+    "sourceId": "0102"
+  },
+  {
+    "id": "0102-hd2d",
+    "kind": "whole-map",
+    "style": "hd2d",
+    "reference": "0102-reference.png",
+    "size": "1280x1920",
+    "cell": 128,
+    "sourceId": "0102"
+  }
+]

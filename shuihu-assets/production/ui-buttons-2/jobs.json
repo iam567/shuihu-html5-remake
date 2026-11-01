@@ -1,0 +1,12 @@
+[
+  {
+    "id": "orientation",
+    "kind": "ui-sheet",
+    "references": [
+      "ref-normal.png",
+      "ref-selected.png"
+    ],
+    "size": "1536x1024",
+    "sourceId": "ui-buttons"
+  }
+]

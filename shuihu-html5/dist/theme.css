@@ -1,0 +1,864 @@
+/* Game skin from the workshop's reviewed HD UI boards (generated/ui, measured 9-slice pieces).
+   Text, focus, scroll areas and hit targets remain HTML; style.css keeps layout. */
+:root{--ui-font:'LXGW WenKai','Kaiti SC','STKaiti','Songti SC',serif;--ui-paper:url('assets/ui/dialogue-paper.webp');--ui-panel:url('assets/ui/panel-border.webp');--ui-portrait:url('assets/ui/portrait-frame.webp');--ui-button:url('assets/ui/button-normal.webp');--ui-pressed:url('assets/ui/button-pressed.webp');--ui-focus:url('assets/ui/button-focus.webp');--ui-disabled:url('assets/ui/button-disabled.webp')}
+#dialogue{border:18px solid transparent;border-image:var(--ui-paper) 48 fill /18px /0 stretch;background:#f8f1dd;border-radius:0;box-shadow:0 8px 24px #061b2566;gap:16px;padding:7px;bottom:16px;max-width:760px;align-items:flex-start}
+#dialoguePortrait{border:8px solid transparent;border-image:var(--ui-portrait) 40 /8px /0 stretch;width:86px;height:86px;flex-basis:86px;padding:1px;background:#eddfbe;object-fit:contain;margin-top:2px}
+#dialogueText{font-size:21px;line-height:1.7;color:#24352e;text-shadow:0 1px #fff8;max-height:min(42cqh,340px);min-width:0;touch-action:pan-y;overscroll-behavior:contain;padding:2px 4px 4px 0}
+.modal{border:18px solid transparent;border-image:var(--ui-panel) 95 70 100 64 /20px /0 stretch;border-radius:0;background:linear-gradient(135deg,#fbf4e3,#eee4cd);max-width:620px;max-height:92%;box-shadow:0 14px 60px #06181088;padding-bottom:env(safe-area-inset-bottom)}
+.modal-top{padding:4px 5px 10px;border-bottom:1px solid #c3a976;gap:4px;flex-shrink:0;align-items:center}.modal-top h2{font-family:var(--ui-font);font-size:20px;font-weight:700;min-width:0;text-align:center;line-height:1.35;color:#2f513e}.modal-top button{min-height:44px;min-width:52px;padding:4px;font-size:13px;flex-shrink:0;color:#405b44}
+#modalBody{padding:15px 10px;scrollbar-color:#a18c53 #e4dcc6;scrollbar-width:thin;touch-action:pan-y;overscroll-behavior:contain}#modalBody p{font-size:15px}#modalBody .row{background:linear-gradient(110deg,#fffaf0,#eee7d2);border-color:#cbbc94;border-radius:6px;min-height:62px;box-shadow:inset 0 1px #fffc;line-height:1.5}#modalBody .row:active{background:#e7ddc3}#modalBody .row .game-name{flex:1;min-width:0;overflow-wrap:anywhere}#modalBody .row>span:last-child{flex-shrink:0;font-size:14px;color:#6a532b}
+#modalFooter{padding:10px 4px 0;gap:8px;flex-shrink:0;border-top-color:#c3a976;flex-wrap:wrap}
+#modalFooter button,.battle-actions button,#interactButton{border:14px solid transparent;border-image:var(--ui-button) 60 100 60 100 fill /14px 22px /0 stretch;border-radius:0;background:transparent;color:#284635;padding:0 10px;min-height:48px;line-height:1.35;box-shadow:none;text-shadow:0 1px #fff7}
+#modalFooter button{min-width:100px}#modalFooter .primary,.battle-actions button{font-weight:650;color:#173e2b}#modalFooter button:active:not(:disabled),.battle-actions button:active:not(:disabled),#interactButton:active{border-image-source:var(--ui-pressed)}#modalFooter button:focus-visible,.battle-actions button:focus-visible,#interactButton:focus-visible{border-image-source:var(--ui-focus);outline:2px solid #577c4b;outline-offset:2px}#modalFooter button:disabled,.battle-actions button:disabled{border-image-source:var(--ui-disabled);opacity:.65;color:#666}
+#battleHud{border:12px solid transparent;border-image:var(--ui-paper) 48 fill /12px /0 stretch;background:#f4efdf;padding:5px;color:#244536;border-radius:0}.battle-actions{gap:8px}.battle-actions button{font-size:13px}
+@container app (max-width:480px){#dialogue{border-width:12px;border-image-width:12px;left:7px;right:7px;bottom:10px;padding:5px;gap:10px}#dialoguePortrait{width:64px;height:64px;flex-basis:64px;border-width:6px;border-image-width:6px}#dialogueText{font-size:18px;line-height:1.7;max-height:40cqh}.modal{border-width:13px;border-image-width:15px;max-height:94%}.modal-top h2{font-size:18px}#modalBody{padding:10px 4px}#modalBody .row{gap:8px;padding:10px;font-size:15px}#modalBody .row>span:last-child{font-size:12px}#modalFooter{padding:10px 0 0}#modalFooter button{font-size:15px}#modalBody .row:has(button){flex-wrap:wrap}}
+@container app (orientation:landscape) and (max-height:550px){#dialogue{bottom:6px;left:8px;right:8px;padding:4px;border-width:10px;border-image-width:10px}#dialoguePortrait{width:64px;height:64px;flex-basis:64px}#dialogueText{font-size:18px;max-height:36cqh}.modal{max-height:98%;border-width:10px;border-image-width:12px}.modal-top{padding-bottom:2px}.modal-top button{min-height:44px}#modalBody{padding:5px 10px}#modalFooter{padding-top:4px}#modalFooter button{min-height:44px}}
+
+#modalBody>.row+.row{margin-top:8px}
+
+#modalFooter .primary,.battle-actions button.cancel{background:transparent}
+
+/* Top bar and tool bar: dark lacquered wood with a gold rule instead of a flat web header. */
+:root{--ui-wood:linear-gradient(180deg,#3b2a1c,#24180f);--ui-gold:#c9a55a;--ui-cream:#f3e6c4}
+.topbar{background:var(--ui-wood);border-bottom:2px solid var(--ui-gold);box-shadow:0 2px 0 #0006,inset 0 -1px #f3d38a33;color:var(--ui-cream)}
+.brand{color:var(--ui-cream);font-family:var(--ui-font)}
+.brand small{color:#cdb98a}
+#place{border:10px solid transparent;border-image:var(--ui-paper) 48 fill /10px /0 stretch;color:#2f2615;font-family:var(--ui-font);font-weight:700;padding:0 6px;letter-spacing:2px;line-height:1.6}
+#audioToggle{border:2px solid var(--ui-gold);background:#2f513e;color:var(--ui-cream);border-radius:50%}
+#toolbar{background:var(--ui-wood);border-top:2px solid var(--ui-gold);box-shadow:0 -2px 0 #0006;gap:6px}
+#toolbar button{border:12px solid transparent;border-image:var(--ui-button) 60 100 60 100 fill /12px 18px /0 stretch;color:#284635;font-family:var(--ui-font);font-weight:700;font-size:13px;gap:0;padding:0 2px;text-shadow:0 1px #fff7}
+#toolbar button:active{border-image-source:var(--ui-pressed)}
+#toolbar button:focus-visible{border-image-source:var(--ui-focus)}
+#toolbar span{font-size:17px;height:20px;line-height:20px}
+#hint,#toast{border:12px solid transparent;border-image:var(--ui-paper) 48 fill /12px /0 stretch;background:none;color:#2b2416;border-radius:0;box-shadow:0 6px 18px #0006;text-shadow:0 1px #fff8;padding:2px 10px}
+#hint{font-size:13px}
+#toast{font-size:15px;font-weight:600}
+.modal-top button{border:10px solid transparent;border-image:var(--ui-button) 60 100 60 100 fill /10px 14px /0 stretch;font-weight:600}
+.modal-top button:active{border-image-source:var(--ui-pressed)}
+@container app (orientation:landscape) and (max-height:550px){#toolbar{background:var(--ui-wood);border:2px solid var(--ui-gold);border-radius:6px}#toolbar button{border-width:8px;border-image-width:8px 12px;font-size:11px}}
+
+/* Reward card: centred over the map, larger than a toast, with the item's picture. */
+.reward-card{position:absolute;left:50%;top:45%;transform:translate(-50%,-50%);z-index:90;min-width:220px;max-width:min(80%,360px);display:flex;flex-direction:column;align-items:center;gap:6px;text-align:center;border:22px solid transparent;border-image:var(--ui-paper) 48 fill /22px /0 stretch;padding:6px 12px 10px;color:#2b2416;box-shadow:0 16px 48px #000a;animation:reward-in .28s cubic-bezier(.2,1.4,.4,1)}
+.reward-card.leaving{opacity:0;transform:translate(-50%,-50%) scale(.9);transition:opacity .2s,transform .2s}
+.reward-card small{font-size:14px;letter-spacing:6px;color:#8a6a2c}
+.reward-card strong{font-family:var(--ui-font);font-size:26px;letter-spacing:2px}
+.reward-card p{margin:0;font-size:13px;line-height:1.6;color:#6b5a3a}
+.reward-card .item-icon{width:140px;height:129px}
+.reward-coin{width:84px;height:84px;border-radius:50%;display:grid;place-items:center;background:radial-gradient(circle at 35% 30%,#fff1b0,#d8a93c 55%,#8a6420);color:#5a3b0c;font:700 34px var(--ui-font);box-shadow:inset 0 0 0 4px #f6dc8a,0 4px 10px #0005}
+@keyframes reward-in{from{opacity:0;transform:translate(-50%,-50%) scale(.6)}to{opacity:1;transform:translate(-50%,-50%) scale(1)}}
+@container app (max-width:480px){.reward-card strong{font-size:22px}.reward-card .item-icon{width:112px;height:103px}}
+
+/* ---- Panel interior (pieces cut from the save/load and settings boards) ---- */
+:root{--ui-row:url('assets/ui/row-card.webp');--ui-band:url('assets/ui/green-band.webp');--ui-plaque:url('assets/ui/plaque.webp');--ui-mist:url('assets/ui/paper-mist.webp');--ui-card:url('assets/ui/mist-card.webp');--ui-badge:url('assets/ui/badge.webp');--ink:#2a2418;--ink-soft:#6a5634}
+/* Paper only inside the carved frame: outside the ornaments stays transparent; shadow follows the frame. */
+.modal{background:var(--ui-mist) center bottom/100% auto no-repeat,linear-gradient(180deg,#f7f0dc,#efe4c8);background-clip:padding-box;box-shadow:none;filter:drop-shadow(0 16px 28px #000c)}
+.modal-top{border-bottom:0;background:linear-gradient(90deg,transparent,#c9a55a 18%,#c9a55a 82%,transparent) bottom/100% 1px no-repeat}
+#modalFooter{border-top:0;background:linear-gradient(90deg,transparent,#c9a55a 18%,#c9a55a 82%,transparent) top/100% 1px no-repeat}
+#modalBody{color:var(--ink)}
+#modalBody p{color:var(--ink-soft);font-size:14px;line-height:1.8}
+#modalBody p.note{font-size:13px;padding:6px 4px 2px 18px;position:relative}
+#modalBody p.note::before{content:'◆';position:absolute;left:2px;top:6px;color:#b8913f;font-size:10px}
+#modalBody p.option-note{margin:-2px 0 12px 22px;font-size:12px;color:#8a7650}
+#modalBody .row{border:14px solid transparent;border-image:var(--ui-row) 40 46 40 46 fill /12px 16px /0 stretch;background:none;border-radius:0;box-shadow:none;min-height:64px;padding:2px 10px;font-family:var(--ui-font);font-size:17px;font-weight:600;color:var(--ink);text-shadow:0 1px #fff8}
+#modalBody .row:active{background:none;filter:brightness(.94)}
+#modalBody .row[aria-pressed=true]{border-image:var(--ui-band) 12 38 12 38 fill /12px 30px /0 stretch;color:#f6e9c6;text-shadow:0 1px 2px #0008}
+#modalBody>.row+.row{margin-top:6px}
+.plaque{display:flex;align-items:baseline;justify-content:space-between;gap:12px;margin:14px 0 8px;border:12px solid transparent;border-image:var(--ui-plaque) 40 60 40 60 fill /12px 22px /0 stretch;padding:0 6px;min-height:34px}
+.plaque:first-child{margin-top:2px}
+.plaque strong{font-family:var(--ui-font);font-size:18px;letter-spacing:4px;color:#2f513e}
+.plaque small{font-size:12px;color:var(--ink-soft)}
+.plaque.purse small{font-family:var(--ui-font);font-size:20px;font-weight:700;color:#8a6420}
+.gold-link{display:inline-block;margin:2px 0 6px 18px;color:#8a6420;font-weight:600;text-decoration:none;border-bottom:1px solid #c9a55a}
+/* Item rows: big picture on the green medallion, name, one line of flavour text, count. */
+#modalBody .item-row{display:flex;align-items:center;gap:14px;text-align:left;min-height:96px}
+.item-icon{flex:0 0 auto;width:76px;height:70px;display:grid;place-items:center;background:var(--ui-badge) center/100% 100% no-repeat}
+.item-icon img{width:66%;height:72%;object-fit:contain;filter:drop-shadow(0 2px 2px #0008)}
+.item-text{flex:1;min-width:0;display:flex;flex-direction:column;gap:4px}
+.item-text .game-name{font-size:19px;letter-spacing:1px}
+.item-desc{font-family:system-ui,sans-serif;font-size:13px;font-weight:400;line-height:1.5;color:var(--ink-soft);white-space:normal;text-shadow:none}
+#modalBody .item-row>span:last-child{font-family:var(--ui-font);font-size:18px;color:#8a6420}
+/* Item detail on the misty landscape card. */
+.item-detail{display:flex;flex-direction:column;align-items:center;gap:10px;text-align:center;border:18px solid transparent;border-image:var(--ui-card) 40 40 60 40 fill /14px 14px 26px /0 stretch;padding:8px 10px 18px}
+.item-detail .item-icon{width:150px;height:138px}
+.item-detail p{font-size:16px!important;line-height:1.9!important;margin:0;color:var(--ink)!important}
+/* Party rows: portrait in the carved frame. */
+#modalBody .row>img{width:64px;height:64px;object-fit:cover;border:6px solid transparent;border-image:var(--ui-portrait) 40 /6px /0 stretch}
+@container app (max-width:480px){.item-icon{width:64px;height:59px}#modalBody .item-row{min-height:84px;gap:10px}.item-text .game-name{font-size:17px}.item-desc{font-size:12px}#modalBody .row{font-size:16px}}
+#modalBody>button.row:not(.item-row){justify-content:center;letter-spacing:4px;font-size:18px}
+/* Item numbers: small label over a large figure, gold hairlines between (攻击 25 | 命中 80 | 次数 8). */
+.item-stats{display:flex;align-items:stretch;justify-content:center;margin-top:4px}
+.item-stat{display:flex;flex-direction:column;align-items:center;min-width:64px;padding:2px 12px;border-left:1px solid #c9a55a88}
+.item-stat:first-child{border-left:0}
+.item-stat i{font-style:normal;font-family:var(--ui-font);font-size:12px;letter-spacing:3px;color:#9a7a3c}
+.item-stat b{font-family:var(--ui-font);font-size:24px;font-weight:700;line-height:1.2;color:#2a2418}
+.item-text .item-stats{justify-content:flex-start;margin-top:0}.item-text .item-stat{min-width:0;padding:0 10px}.item-text .item-stat:first-child{padding-left:0}.item-text .item-stat b{font-size:17px}
+/* Bag: purse line, icon grid of inventory slots, description panel. */
+#modalFooter[hidden]{display:none}
+.purse-line{display:flex;align-items:center;justify-content:flex-end;gap:8px;margin:0 4px 8px;font-family:var(--ui-font);font-size:17px;font-weight:700;color:#8a6420}
+.purse-line .coin{width:26px;height:26px;border-radius:50%;display:grid;place-items:center;background:radial-gradient(circle at 35% 30%,#fff1b0,#d8a93c 55%,#8a6420);box-shadow:inset 0 0 0 2px #f6dc8a;color:#5a3b0c;font-size:13px}
+.bag-grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(76px,1fr));gap:10px;padding:2px}
+#modalBody .slot{position:relative;aspect-ratio:115/112;min-height:0;padding:0;border:0;border-radius:0;background:url('assets/ui/slot.webp') center/100% 100% no-repeat;display:grid;place-items:center;box-shadow:none;transition:transform .12s}
+#modalBody .slot img{width:72%;height:72%;object-fit:contain;filter:drop-shadow(0 2px 2px #0009)}
+#modalBody .slot b{position:absolute;right:9%;bottom:7%;font:700 13px var(--ui-font);color:#fff3cf;text-shadow:0 1px 2px #000,0 0 3px #000}
+#modalBody .slot[aria-pressed=true]{outline:3px solid #f2cf73;outline-offset:-2px;box-shadow:0 0 14px #f5c95c,inset 0 0 12px #f5d27a99;transform:scale(1.04)}
+#modalBody .slot:active{transform:scale(.97)}
+.bag-detail{margin-top:12px;min-height:140px;display:flex;flex-direction:column;align-items:center;gap:6px;text-align:center;border:22px solid transparent;border-image:url('assets/ui/desc-panel.webp') 60 60 60 60 fill /20px /0 stretch;padding:2px 8px 6px}
+.bag-detail strong{font-family:var(--ui-font);font-size:22px;letter-spacing:3px;color:#2f513e}
+.bag-detail p{margin:0!important;font-size:14px!important;color:#5b4a2c!important}
+@container app (max-width:480px){.bag-grid{grid-template-columns:repeat(4,1fr);gap:6px}.item-stat b{font-size:20px}.item-stat{min-width:52px;padding:2px 8px}}
+/* Generated button art: the picture is the button (text painted in). */
+#modalBody .art-btn,.modal-top button{border:0;border-image:none;background:none;padding:0;min-height:0;box-shadow:none;transition:transform .1s,filter .1s}
+.art-btn img,.modal-top button img{display:block;height:46px;width:auto;filter:drop-shadow(0 2px 3px #0005)}
+.modal-top button img{height:40px}
+.art-btn:active,.modal-top button:active{transform:scale(.95);filter:brightness(.92)}
+.art-btn:focus-visible,.modal-top button:focus-visible{outline:2px solid #e9c46a;outline-offset:2px}
+.art-menu{display:grid;grid-template-columns:1fr 1fr;gap:10px 12px;justify-items:center;padding:6px 0}
+.art-menu .art-btn img{height:58px}
+.opt-line{display:flex;align-items:center;gap:10px;margin:8px 0}
+.opt-label{height:44px;width:auto;flex:0 0 auto}
+.opt-group{display:flex;flex-wrap:wrap;gap:6px}
+.opt-group .art-btn img{height:42px}
+@container app (max-width:560px){.opt-line{flex-direction:column;align-items:flex-start;gap:4px}.opt-group .art-btn img{height:38px}.art-menu .art-btn img{height:48px}}
+.modal:has(.opt-line){max-width:820px}
+.opt-group{flex-wrap:nowrap}
+.opt-group .art-btn img{height:40px}
+.modal-top button img{height:46px}
+@container app (max-width:560px){.opt-group{flex-wrap:wrap}}
+.opt-group .art-btn img{height:48px}
+.opt-label{height:50px}
+@container app (max-width:560px){.opt-group .art-btn img{height:40px}.opt-label{height:42px}}
+/* Forced orientation: the whole game turned 90° to fill a device held the other way (see applyOrientation). */
+html[data-rotate="90"] #app,html[data-rotate="-90"] #app{position:fixed;top:0;left:0;width:100vh;height:100vw;max-width:none;margin:0;transform-origin:top left}
+html[data-rotate="90"] #app{left:100vw;transform:rotate(90deg)}
+html[data-rotate="-90"] #app{top:100vh;transform:rotate(-90deg)}
+/* The orientation sheet was painted a little larger: keep labels one width and its options a size down. */
+.opt-label{width:176px;height:auto;max-height:50px;object-fit:contain}
+.opt-group .art-btn img[src*="opt-landscape"],.opt-group .art-btn img[src*="opt-portrait"],.opt-group .art-btn img[src*="opt-auto"]{height:43px}
+@container app (max-width:560px){.opt-label{width:150px}}
+/* ---- Character status (pieces cut from the character-status board) ---- */
+.modal:has(.status-card){max-width:860px}
+.status-tabs{display:flex;gap:8px;justify-content:center;margin-bottom:6px}
+.status-tab{padding:0;border-radius:50%;width:52px;height:52px;min-height:0;overflow:hidden;box-shadow:inset 0 0 0 2px #c9a55a;background:#2f513e}
+.status-tab img{width:100%;height:100%;object-fit:cover;image-rendering:pixelated}
+.status-tab[aria-pressed=true]{box-shadow:0 0 0 3px #f2cf73,0 0 12px #f5c95c}
+.status-card{display:grid;grid-template-columns:minmax(150px,38%) 1fr;gap:14px;align-items:start}
+.status-left{display:flex;flex-direction:column;align-items:center;gap:8px}
+.status-medallion{position:relative;width:100%;aspect-ratio:390/570;background:url('assets/ui/status-medallion.webp') center/100% 100% no-repeat}
+.status-medallion img{position:absolute;left:12.2%;top:9.6%;width:75.6%;aspect-ratio:1;border-radius:50%;object-fit:cover;object-position:50% 20%}
+.status-medallion img.pixel{image-rendering:pixelated}
+.status-equip{display:grid;grid-template-columns:repeat(4,1fr);gap:6px;width:100%;margin-top:-14%}
+.status-slot{aspect-ratio:180/176;min-height:0;padding:0;border:0;background:url('assets/ui/status-slot.webp') center/100% 100% no-repeat;display:grid;place-items:center}
+.status-slot img{width:70%;height:70%;object-fit:contain;filter:drop-shadow(0 2px 2px #000a)}
+.status-slot:disabled{opacity:.55;cursor:default}
+.status-right{display:flex;flex-direction:column;gap:6px;min-width:0}
+.status-banner{aspect-ratio:542/154;background:url('assets/ui/status-banner.webp') center/100% 100% no-repeat;display:flex;align-items:baseline;justify-content:center;gap:12px;padding:3.5% 14% 7% 19%}
+.status-banner strong{font-family:var(--ui-font);font-size:clamp(20px,3.2cqw,28px);letter-spacing:6px;color:#2a2418;text-shadow:0 1px #fff8}
+.status-banner small{font-family:var(--ui-font);font-size:14px;color:#8a6420;letter-spacing:2px}
+.status-rows{display:grid;grid-template-columns:1fr 1fr;gap:6px 8px}
+.status-row{display:flex;align-items:center;gap:6px;min-height:44px;padding:4px 10px 4px 4px;border:0;background:url('assets/ui/status-bar.webp') center/100% 100% no-repeat}
+.status-row img{height:30px;width:auto;flex:0 0 auto}
+.status-row b{font-family:var(--ui-font);font-size:22px;color:#2a2418;margin-left:auto}
+.status-row small{font-size:11px;color:#8a7650;white-space:nowrap}
+@container app (max-width:560px){.status-card{grid-template-columns:1fr}.status-left{flex-direction:row;align-items:flex-start}.status-medallion{width:44%}.status-equip{grid-template-columns:1fr 1fr;width:50%;margin-top:6%}.status-rows{grid-template-columns:1fr}}
+/* ---- Shop ---- */
+.modal:has(.shop-top){max-width:700px}
+.shop-top{display:flex;align-items:center;justify-content:space-between;gap:8px;margin-bottom:8px}
+.shop-tabs{display:flex;gap:6px}
+.shop-tabs .art-btn img{height:42px}
+#modalBody .slot i.price{position:absolute;left:8%;bottom:6%;font:700 12px var(--ui-font);font-style:normal;color:#ffe9a8;text-shadow:0 1px 2px #000,0 0 3px #000}
+.shop-deal{display:flex;align-items:center;justify-content:center;gap:16px;margin-top:6px}
+.shop-deal .purse-line{margin:0}
+.shop-deal .art-btn img{height:46px}
+/* ---- Save slots ---- */
+#modalBody .save-row{display:flex;align-items:center;gap:8px;justify-content:space-between}
+.save-text{display:flex;flex-direction:column;flex:1;min-width:0}
+.save-text strong{font-family:var(--ui-font);font-size:18px;letter-spacing:2px}
+.save-text small{font-family:system-ui,sans-serif;font-size:12px;font-weight:400;color:#7a6440}
+.save-row .art-btn img{height:42px}
+.art-btn:disabled{filter:grayscale(.85) brightness(.9);opacity:.6;cursor:default}
+/* ---- Footer buttons, tool bar and title screen as generated art ---- */
+#modalFooter .art-btn{border:0;border-image:none;background:none;padding:0;min-height:0;min-width:0}
+#modalFooter .art-btn img{height:46px}
+#toolbar button{border:0;border-image:none;background:none;padding:0;min-height:0}
+#toolbar button img{height:58px;width:auto;filter:drop-shadow(0 2px 3px #0008)}
+#toolbar button:active img{transform:scale(.94)}
+.title-screen .art-title{background:none;border:0;box-shadow:none;padding:0;min-height:0}
+.title-screen .art-title img{height:62px;width:auto;filter:drop-shadow(0 4px 8px #000a)}
+.title-screen #titleHelp img{height:44px}
+.title-screen .art-title:disabled img{filter:grayscale(.8) brightness(.8)}
+@container app (orientation:landscape) and (max-height:550px){#toolbar button img{height:46px}}
+/* Portrait sits under the frame (frame has the disc cut out), so hair never covers the ring. */
+.status-medallion{background:none}
+.status-medallion::after{content:'';position:absolute;inset:0;background:url('assets/ui/status-medallion-frame.webp') center/100% 100% no-repeat;pointer-events:none}
+.status-medallion img{left:11.84%;top:11.65%;width:74.63%;background:radial-gradient(circle,#f3e8cf,#d9c8a2)}
+.status-equip{margin-top:-4%}
+.status-banner{align-items:center;padding:0 13% 13% 18%}
+.status-banner strong{font-size:clamp(18px,2.6cqw,24px)}
+.status-medallion img{left:12.31%;top:11.75%;width:73.85%}
+/* Portrait disc: the HD portraits are cropped tight at the top, so zoom a little and let the flat top edge fall
+   under the frame's ring instead of showing inside the circle. */
+.status-face{position:absolute;left:12.31%;top:11.75%;width:73.85%;aspect-ratio:1;border-radius:50%;overflow:hidden;background:radial-gradient(circle at 50% 40%,#fbf3df,#dac8a0)}
+.status-medallion .status-face img{position:static;width:100%;height:100%;border-radius:0;object-fit:cover;transform:translateY(5%) scale(1.18);transform-origin:50% 40%;background:none}
+.status-banner{padding:0 12% 0 18%;align-items:center}
+.status-banner strong,.status-banner small{position:relative;top:-9%}
+.status-banner small{font-size:16px;font-weight:700}
+
+/* ---- Character status v2: rosewood and gold scroll parts (production/ui-status-2) ---- */
+.modal:has(.rs-card){max-width:900px}
+.rs-card{display:grid;grid-template-columns:minmax(170px,34%) 1fr;gap:16px;align-items:start}
+.rs-left{display:flex;flex-direction:column;gap:10px}
+.rs-portrait{position:relative;width:100%;aspect-ratio:518/900}
+.rs-portrait img{position:absolute;left:7.92%;top:4.56%;width:84.17%;height:73.33%;object-fit:cover;object-position:50% 0;border-radius:6%;background:radial-gradient(circle at 50% 40%,#fbf3df,#d9c6a0)}
+.rs-portrait img.pixel{image-rendering:pixelated;object-fit:contain}
+.rs-portrait::after{content:'';position:absolute;inset:0;background:url('assets/ui/rs-frame.webp') center/100% 100% no-repeat;pointer-events:none}
+.rs-equip{display:grid;grid-template-columns:repeat(4,1fr);gap:6px;margin-top:-10%}
+.rs-slot{aspect-ratio:264/256;min-height:0;padding:0;border:0;background:url('assets/ui/rs-slot.webp') center/100% 100% no-repeat;display:grid;place-items:center}
+.rs-slot img{width:66%;height:66%;object-fit:contain;filter:drop-shadow(0 2px 2px #0009)}
+.rs-slot:disabled{opacity:.6;cursor:default}
+.rs-right{display:flex;flex-direction:column;gap:10px;min-width:0}
+.rs-plaque{aspect-ratio:851/190;background:url('assets/ui/rs-plaque.webp') center/100% 100% no-repeat;display:flex;align-items:baseline;justify-content:center;gap:16px;padding:0 10%}
+.rs-plaque{align-items:center}
+.rs-plaque strong{font-family:var(--ui-font);font-size:clamp(22px,3cqw,30px);font-weight:800;letter-spacing:8px;color:#2a1a0e}
+.rs-plaque small{font-family:var(--ui-font);font-size:17px;font-weight:700;letter-spacing:3px;color:#8a2a18}
+.rs-rows{display:grid;grid-template-columns:1fr 1fr;gap:8px 10px}
+.rs-row{display:grid;grid-template-columns:auto 1fr;align-items:center;min-height:48px;padding:0 6px 0 4px;background:url('assets/ui/rs-bar.webp') center/100% 100% no-repeat}
+.rs-row img{height:34px;width:auto}
+.rs-row b{text-align:center;font-family:var(--ui-font);font-size:24px;font-weight:800;color:#24170c;letter-spacing:1px;text-shadow:0 1px #fff9}
+@container app (max-width:560px){.rs-card{grid-template-columns:1fr}.rs-left{flex-direction:row;align-items:flex-start}.rs-portrait{width:46%}.rs-equip{grid-template-columns:1fr 1fr;width:50%;margin-top:0}.rs-rows{grid-template-columns:1fr}.rs-row b{font-size:21px}}
+
+/* LXGW WenKai (OFL, assets/fonts/wenkai, loaded per unicode range) for all panel text. */
+.modal,#toast,#hint,.reward-card,.purse-line,.item-desc,#modalBody p,#dialogueText{font-family:var(--ui-font)}
+.modal-top h2{font-family:var(--ui-font);font-weight:700;letter-spacing:4px}
+.rs-row b{font-family:var(--ui-font);font-weight:700;font-size:26px;color:#1f140a}
+.rs-plaque strong{font-family:var(--ui-font);font-weight:700}
+/* Equipment: four large slots under the stats. */
+.rs-right .rs-equip{display:grid;grid-template-columns:repeat(4,1fr);gap:12px;margin:6px 4% 0}
+.rs-match{grid-column:2;grid-row:6;display:flex;flex-direction:column;justify-content:center;gap:2px;padding:4px 10px;min-height:48px;border:1px solid #b08d4a;border-radius:4px;background:linear-gradient(180deg,#fbf3df,#efe2c2);box-shadow:inset 0 0 0 2px #fff6,0 1px 2px #0003;font-family:var(--ui-font);font-size:13px;line-height:1.5;color:#3a2a14}
+.rs-match-line{display:flex;align-items:flex-start;gap:6px}
+.rs-seal{flex:0 0 auto;min-width:34px;text-align:center;padding:0 4px;border-radius:3px;background:#9b2a1a;color:#fbe9c4;font-weight:700;font-size:12px;letter-spacing:1px}
+@container app (max-width:560px){.rs-match{grid-column:auto;grid-row:auto}}
+.rs-match{grid-column:1 / -1;grid-row:auto;min-height:0;padding:5px 10px;font-size:13.5px}
+.rs-rows{gap:6px 10px}
+.rs-row{min-height:42px}
+.rs-row img{height:30px}
+.rs-row b{font-size:24px}
+.rs-right{gap:8px}
+.rs-right .rs-equip{gap:14px;margin:2px 12% 0}
+.rs-left .rs-match{grid-column:auto;margin-top:-6%;padding:6px 8px;font-size:14px;letter-spacing:1px}
+.rs-left .rs-match-line{align-items:center}
+.rs-left .rs-match{font-size:14px;letter-spacing:2px;white-space:nowrap}
+.rs-right .rs-equip{grid-template-columns:repeat(5,1fr);gap:10px;margin:2px 4% 0}
+.rs-slot-hint{font-family:var(--ui-font);font-size:14px;color:#9a8255;letter-spacing:2px}
+.rs-passive{filter:sepia(.25) hue-rotate(-12deg)}
+.rs-slot:active{transform:scale(.95)}
+/* No text selection or callouts while dragging the joystick or the map on phones. */
+#app,#app *{-webkit-user-select:none;user-select:none;-webkit-touch-callout:none}
+#game,#joystickPad,#joystickControls,#interactButton{touch-action:none}
+/* ---- Deployment cards ---- */
+.modal:has(.deploy-grid){max-width:760px}
+.deploy-head{display:flex;align-items:baseline;justify-content:space-between;gap:10px;margin:0 4px 10px}
+.deploy-head strong{font-family:var(--ui-font);font-size:22px;color:#8a2a18;letter-spacing:2px}
+.deploy-head span{font-family:var(--ui-font);font-size:14px;color:#6a5634}
+.deploy-grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(140px,1fr));gap:12px}
+#modalBody .deploy-card{position:relative;display:flex;flex-direction:column;align-items:center;gap:4px;padding:10px 6px 12px;min-height:0;border:0;background:url('assets/ui/rs-slot.webp') center/100% 100% no-repeat;transition:transform .12s,filter .12s;filter:grayscale(.6) brightness(.92)}
+#modalBody .deploy-card[aria-pressed=true]{filter:none;box-shadow:0 0 0 3px #f2cf73,0 0 16px #f5c95c;border-radius:6px}
+#modalBody .deploy-card:active{transform:scale(.97)}
+.deploy-face{width:78%;aspect-ratio:1;object-fit:cover;object-position:50% 15%;border-radius:4px;box-shadow:0 0 0 2px #6b3b1e,0 2px 6px #0006;margin-top:6%}
+.deploy-card strong{font-family:var(--ui-font);font-size:19px;letter-spacing:3px;color:#24170c}
+.deploy-card small{font-family:var(--ui-font);font-size:13px;color:#7a5a30}
+.deploy-seal{position:absolute;right:6%;top:6%;width:30%;transform:rotate(-8deg);filter:drop-shadow(0 1px 2px #0006)}
+/* ---- Battle HUD ---- */
+.battle-actions{display:flex;flex-wrap:wrap;gap:6px}
+#battleHud .art-btn{border:0;border-image:none;background:none;padding:0;min-height:0}
+#battleHud .art-btn img{height:40px;width:auto;filter:drop-shadow(0 2px 3px #0005)}
+#battleHud>div:first-child{font-family:var(--ui-font);font-size:16px;font-weight:700;color:#2a2418;margin-bottom:4px}
+@container app (max-width:480px){#battleHud .art-btn img{height:34px}.deploy-grid{grid-template-columns:repeat(3,1fr);gap:8px}.deploy-card strong{font-size:16px}}
+#modalBody .deploy-card{padding:12px 8px 24px}
+.deploy-card small{position:relative;z-index:1;background:#f6ecd2cc;padding:0 6px;border-radius:3px}
+/* Silver: painted ingot instead of a coin with 两. */
+.purse-line .coin{width:28px;height:28px;border-radius:0;background:none;box-shadow:none;object-fit:contain;filter:drop-shadow(0 1px 2px #0006)}
+.reward-coin{width:120px;height:120px;border-radius:0;background:none;box-shadow:none;object-fit:contain;filter:drop-shadow(0 4px 8px #0007)}
+/* ---- Character status, portrait phones: portrait beside name and matchups, stats in two columns, equipment row ---- */
+@container app (max-width:560px){
+  .modal:has(.rs-card){max-height:96%}
+  .rs-card{grid-template-columns:40% 1fr;grid-template-areas:"portrait plaque" "portrait match" "rows rows" "equip equip";gap:8px;align-items:start}
+  .rs-left,.rs-right{display:contents}
+  .rs-portrait{grid-area:portrait;width:100%}
+  .rs-plaque{grid-area:plaque;aspect-ratio:auto;min-height:64px;flex-direction:column;align-items:center;justify-content:center;gap:2px;padding:6px 8%;background-size:100% 100%}
+  .rs-plaque strong{font-size:22px;letter-spacing:5px}
+  .rs-plaque small{font-size:15px}
+  .rs-left .rs-match,.rs-match{grid-area:match;margin:0;white-space:normal;font-size:13px;letter-spacing:1px;align-self:stretch;justify-content:center;gap:6px}
+  .rs-match-line{flex-direction:column;align-items:flex-start;gap:2px}
+  .rs-rows{grid-area:rows;grid-template-columns:1fr 1fr;gap:5px 6px}
+  .rs-row{min-height:36px;padding:0 4px 0 2px}
+  .rs-row img{height:26px}
+  .rs-row b{font-size:19px}
+  .rs-right .rs-equip,.rs-equip{grid-area:equip;grid-template-columns:repeat(5,1fr);gap:6px;margin:2px 0 0;width:100%}
+}
+/* Map cursors (assets/ui/cursor-*.png, 40 px; hot spot at the arrow tip, the finger tips, the bubble tail). */
+#game{cursor:default}
+#game[data-cursor=walk]{cursor:url('assets/ui/cursor-arrow.png') 1 1,pointer}
+#game[data-cursor=grab]{cursor:url('assets/ui/cursor-grab.png') 22 3,grab}
+#game[data-cursor=talk]{cursor:url('assets/ui/cursor-talk.png') 3 38,help}
+/* Deployment, two panes: roster cards left, status of the tapped member right. */
+.modal:has(.deploy-wrap){max-width:980px}
+.deploy-wrap{display:grid;grid-template-columns:minmax(150px,34%) 1fr;gap:12px;align-items:start}
+.deploy-wrap .deploy-grid{grid-template-columns:repeat(auto-fill,minmax(110px,1fr));gap:8px;max-height:62cqh;overflow:auto;padding:4px}
+.deploy-wrap .deploy-card strong{font-size:16px;letter-spacing:2px}
+.deploy-wrap .deploy-card small{font-size:12px}
+#modalBody .deploy-card.focus{outline:3px solid #b8451f;outline-offset:-2px}
+.deploy-side .rs-card{grid-template-columns:1fr;gap:6px}
+.deploy-side .rs-portrait{display:none}
+.deploy-side .rs-left .rs-match{margin:0}
+.deploy-side .rs-plaque{aspect-ratio:auto;min-height:56px}
+.deploy-side .rs-rows{grid-template-columns:1fr 1fr 1fr;gap:4px 6px}
+.deploy-side .rs-row{min-height:34px}.deploy-side .rs-row img{height:24px}.deploy-side .rs-row b{font-size:18px}
+.deploy-side .rs-equip{grid-template-columns:repeat(5,1fr);gap:6px;margin:0}
+.deploy-toggle{display:block;width:100%;margin-top:8px;min-height:44px;border:2px solid #b08d4a;border-radius:6px;background:linear-gradient(180deg,#fbf3df,#e9dbb7);font-family:var(--ui-font);font-size:17px;font-weight:700;color:#3a2a14;letter-spacing:2px}
+.deploy-toggle.on{background:linear-gradient(180deg,#3e6a52,#2a4c3a);color:#fbe9c4;border-color:#e2c26a}
+.deploy-toggle:disabled{background:#9b2a1a;color:#fbe9c4;opacity:1;border-color:#e2c26a}
+@container app (max-width:560px){.deploy-wrap{grid-template-columns:1fr}.deploy-wrap .deploy-grid{grid-template-columns:repeat(4,1fr);max-height:none}.deploy-wrap .deploy-card strong{font-size:13px;letter-spacing:0}.deploy-wrap .deploy-card small{display:none}.deploy-side .rs-rows{grid-template-columns:1fr 1fr}}
+/* Floating vertical action strip beside the selected unit. */
+#unitMenu{position:absolute;z-index:12;display:flex;flex-direction:column;gap:4px;padding:6px;border:2px solid #c9a55a;border-radius:8px;background:linear-gradient(180deg,#3b2a1cee,#24180fee);box-shadow:0 6px 18px #000a}
+#unitMenu[hidden]{display:none}
+#unitMenu .art-btn{border:0;background:none;padding:0;min-height:0}
+#unitMenu .art-btn img{display:block;height:34px;width:auto;filter:drop-shadow(0 1px 2px #0008)}
+@container app (max-width:480px){#unitMenu .art-btn img{height:30px}}
+#unitMenu .menu-weapon{display:grid;grid-template-columns:30px auto auto;align-items:center;gap:6px;min-height:40px;padding:3px 8px 3px 4px;border:1px solid #c9a55a;border-radius:5px;background:linear-gradient(180deg,#fbf3df,#e6d6ae);font-family:var(--ui-font);font-size:15px;font-weight:700;color:#2a1a0e;text-align:left}
+#unitMenu .menu-weapon img{width:30px;height:30px;object-fit:contain}
+#unitMenu .menu-weapon small{font-size:12px;color:#8a2a18}
+#unitMenu .menu-weapon:disabled{opacity:.5}
+#unitMenu .menu-tip{font-family:var(--ui-font);font-size:13px;color:#f3e6c4;text-align:center;max-width:120px}
+/* Item name on a translucent strip along the bottom of each equipment slot. */
+.rs-slot{position:relative;overflow:hidden}
+.rs-slot img{margin-bottom:14%}
+.rs-slot-name{position:absolute;left:9%;right:9%;bottom:9%;padding:1px 2px;background:#1a120acc;color:#f6e7c1;font-family:var(--ui-font);font-size:12px;font-weight:700;line-height:1.35;text-align:center;white-space:nowrap;overflow:hidden;text-overflow:ellipsis;border-radius:2px}
+@container app (max-width:480px){.rs-slot-name{font-size:10px}}
+#unitMenu{flex-direction:row;align-items:flex-start;gap:6px}
+#unitMenu .menu-col{display:flex;flex-direction:column;gap:4px}
+#unitMenu .menu-sub{padding-left:6px;border-left:1px solid #c9a55a88}
+#unitMenu .menu-weapon{grid-template-columns:34px 1fr;min-width:170px}
+#unitMenu .menu-weapon img{width:34px;height:34px}
+#unitMenu .menu-weapon span{display:flex;flex-direction:column;line-height:1.3}
+#unitMenu .menu-weapon strong{font-size:15px}
+#unitMenu .menu-weapon small{font-size:12px;color:#7a3a18;white-space:nowrap}
+#unitMenu .art-btn.open img{filter:drop-shadow(0 0 6px #f5c95c) brightness(1.1)}
+/* Second column: exactly four rows (the four equipment slots), as tall as the four main buttons. */
+#unitMenu{align-items:stretch}
+#unitMenu .menu-sub{display:grid;grid-template-rows:repeat(4,1fr);gap:4px}
+#unitMenu .menu-weapon{min-height:0;padding:1px 6px 1px 3px;grid-template-columns:28px 1fr;gap:5px;min-width:160px}
+#unitMenu .menu-weapon img{width:28px;height:28px}
+#unitMenu .menu-weapon strong{font-size:14px;line-height:1.15}
+#unitMenu .menu-weapon small{font-size:11px;line-height:1.15}
+/* Enemy info: stats in three columns so the equipment row never covers them. */
+#modalBody>.rs-rows{grid-template-columns:repeat(3,1fr);margin-bottom:10px}
+#modalBody>.rs-equip{display:grid;grid-template-columns:repeat(4,1fr);gap:8px;max-width:420px;margin:0 auto}
+@container app (max-width:480px){#modalBody>.rs-rows{grid-template-columns:1fr 1fr}}
+/* Deployment roster as compact portrait tiles (the original has up to 20 party members): face, name, level badge. */
+.deploy-wrap{grid-template-columns:minmax(220px,40%) 1fr}
+.deploy-wrap .deploy-grid{grid-template-columns:repeat(auto-fill,minmax(68px,1fr));gap:6px;max-height:60cqh;align-content:start}
+#modalBody .deploy-wrap .deploy-card{padding:6px 4px 8px;gap:2px;background-size:100% 100%}
+.deploy-wrap .deploy-face{width:84%;margin-top:4%}
+.deploy-wrap .deploy-card strong{font-size:13px;letter-spacing:0;white-space:nowrap}
+.deploy-wrap .deploy-card small{position:absolute;left:8%;top:8%;padding:0 3px;font-size:10px;background:#1a120acc;color:#f6e7c1;border-radius:2px}
+.deploy-wrap .deploy-seal{width:34%;right:4%;top:4%}
+#modalBody .deploy-wrap .deploy-card.focus{outline-width:2px}
+@container app (max-width:560px){.deploy-wrap .deploy-grid{grid-template-columns:repeat(5,1fr);max-height:38cqh}}
+.deploy-wrap .deploy-grid{grid-template-columns:repeat(auto-fill,minmax(58px,1fr))}.deploy-wrap .deploy-card strong{font-size:12px}
+/* ---- Level-up card ---- */
+.levelup{position:absolute;left:50%;top:46%;transform:translate(-50%,-50%);z-index:95;width:min(88%,380px);display:flex;flex-direction:column;align-items:center;gap:6px;padding:14px 16px 12px;border:22px solid transparent;border-image:var(--ui-paper) 48 fill /22px /0 stretch;box-shadow:0 18px 50px #000c;animation:reward-in .35s cubic-bezier(.2,1.4,.4,1);overflow:hidden}
+.lu-burst{position:absolute;inset:-40%;background:repeating-conic-gradient(#ffd86a33 0 10deg,transparent 10deg 20deg);animation:lu-spin 8s linear infinite;pointer-events:none}
+@keyframes lu-spin{to{transform:rotate(360deg)}}
+.lu-title{position:relative;font-family:var(--ui-font);font-size:34px;font-weight:700;letter-spacing:10px;color:#b8451f;text-shadow:0 2px 0 #fff,0 0 12px #ffd86a}
+.lu-face{position:relative;width:96px;height:96px;object-fit:cover;object-position:50% 15%;border-radius:50%;box-shadow:0 0 0 3px #c9a55a,0 4px 10px #0006;background:#f3e8cf}
+.lu-name{position:relative;font-family:var(--ui-font);font-size:20px;font-weight:700;color:#2a1a0e;letter-spacing:2px}
+.lu-stats{position:relative;display:grid;grid-template-columns:1fr 1fr;gap:4px 14px;width:100%}
+.lu-row{display:grid;grid-template-columns:auto 1fr auto;align-items:baseline;gap:6px;padding:2px 8px;border-bottom:1px dashed #c9a55a88;font-family:var(--ui-font)}
+.lu-row span{font-size:14px;color:#6a5634}.lu-row b{font-size:20px;text-align:right;color:#2a1a0e}.lu-row i{font-style:normal;font-size:15px;font-weight:700;color:#2f8f4e;min-width:28px}
+.lu-row.up b{color:#b8451f}
+.levelup small,.result-hint{position:relative;font-family:var(--ui-font);font-size:12px;color:#8a7650;animation:blink 1.4s ease-in-out infinite}
+@keyframes blink{50%{opacity:.35}}
+/* ---- Battle result ---- */
+.result{position:absolute;inset:0;z-index:96;display:grid;place-items:center;background:radial-gradient(circle,#0006,#000c);animation:fade-in .3s}
+@keyframes fade-in{from{opacity:0}}
+.result-box{width:min(90%,460px);display:flex;flex-direction:column;align-items:center;gap:10px;padding:16px 18px 12px;border:26px solid transparent;border-image:var(--ui-panel) 95 70 100 64 /22px /0 stretch;background:var(--ui-mist) center bottom/100% auto no-repeat,linear-gradient(180deg,#f7f0dc,#efe4c8);background-clip:padding-box;animation:reward-in .4s cubic-bezier(.2,1.4,.4,1)}
+.result-title{font-family:var(--ui-font);font-size:40px;font-weight:700;letter-spacing:12px;color:#9b2a1a;text-shadow:0 2px 0 #fff,0 0 16px #ffd86a}
+.result-gold{display:flex;align-items:center;gap:8px;font-family:var(--ui-font);font-size:17px;color:#5b4a2c}
+.result-gold img{width:64px;height:64px;object-fit:contain;filter:drop-shadow(0 3px 6px #0006)}
+.result-gold b{font-size:34px;color:#8a6420}
+.result-list{display:flex;flex-direction:column;gap:6px;width:100%;max-height:40cqh;overflow:auto}
+.result-row{display:flex;align-items:center;gap:10px;padding:4px 8px;border:1px solid #c9a55a88;border-radius:6px;background:#fffaf0aa}
+.result-row img{width:44px;height:44px;object-fit:cover;object-position:50% 15%;border-radius:4px;box-shadow:0 0 0 2px #6b3b1e}
+.result-row span{display:flex;flex-direction:column;font-family:var(--ui-font)}.result-row b{font-size:17px;color:#2a1a0e}.result-row small{font-size:14px;color:#2f8f4e}
+/* ---- World map ---- */
+.worldmap{position:absolute;inset:0;z-index:94;display:grid;place-items:center;background:#000b;animation:fade-in .3s}
+.wm-box{position:relative;width:min(96%,900px);display:flex;flex-direction:column;align-items:center;gap:6px;padding:10px 12px 8px;border:26px solid transparent;border-image:var(--ui-panel) 95 70 100 64 /22px /0 stretch;background:linear-gradient(180deg,#f7f0dc,#efe4c8);background-clip:padding-box}
+.wm-title{font-family:var(--ui-font);font-size:26px;font-weight:700;letter-spacing:10px;color:#2f513e}
+.wm-stage{position:relative;width:100%;aspect-ratio:256/160;border:3px solid #6b3b1e;box-shadow:inset 0 0 0 2px #c9a55a,0 4px 12px #0006;overflow:hidden}
+.wm-bg{position:absolute;inset:0;width:100%;height:100%;object-fit:cover}
+.wm-bg.pixel{image-rendering:pixelated}
+.wm-place{position:absolute;transform:translate(-8px,-50%);display:flex;align-items:center;gap:4px;padding:0;border:0;background:none;min-height:0;cursor:pointer}
+.wm-place i{width:14px;height:14px;border-radius:50%;background:radial-gradient(circle at 35% 30%,#ffd4c4,#c0392b 60%,#7a1c10);box-shadow:0 0 0 2px #fff8,0 2px 4px #0008;flex:0 0 auto}
+.wm-place span{font-family:var(--ui-font);font-size:clamp(12px,2cqw,17px);font-weight:700;color:#2a1a0e;padding:1px 6px;border-radius:3px;background:#f8efd6e6;box-shadow:0 1px 3px #0006;white-space:nowrap}
+.wm-place.here i{background:radial-gradient(circle at 35% 30%,#fff3c4,#e2a72c 60%,#7a5410);animation:wm-pulse 1.2s ease-in-out infinite}
+.wm-place.here span{background:#2f513ee6;color:#fbe9c4}
+.wm-place.locked{cursor:default;opacity:.55;filter:grayscale(1)}
+.wm-place:not(.locked):hover span,.wm-place:not(.locked):focus-visible span{background:#9b2a1a;color:#fbe9c4}
+@keyframes wm-pulse{50%{box-shadow:0 0 0 6px #ffd86a66,0 2px 4px #0008}}
+.wm-hint{font-family:var(--ui-font);font-size:13px;color:#7a6440}
+.wm-close{position:absolute;left:4px;top:2px;border:0;background:none;padding:0;min-height:0}.wm-close img{height:40px}
+/* Ending: painted scenes with slow camera moves, letterbox, drifting light motes, captions written in character by
+   character; finale with the party roll and the closing seal. */
+.ending{position:absolute;inset:0;z-index:300;background:#000;overflow:hidden;opacity:0;transition:opacity 1.2s ease;cursor:default;user-select:none;-webkit-user-select:none}
+.ending.on{opacity:1}
+.end-scene{position:absolute;inset:0;opacity:0;transition:opacity 1.8s ease}
+.end-scene.on{opacity:1}
+.end-scene>img{position:absolute;inset:0;width:100%;height:100%;object-fit:cover;transform-origin:50% 50%;animation:end-pan-0 12s linear forwards;will-change:transform}
+.end-scene.pan-1>img{animation-name:end-pan-1}.end-scene.pan-2>img{animation-name:end-pan-2}.end-scene.pan-3>img{animation-name:end-pan-3}
+.end-scene::after{content:'';position:absolute;inset:0;background:radial-gradient(ellipse at 50% 45%,transparent 45%,#000a 100%),linear-gradient(transparent 55%,#000c);pointer-events:none}
+@keyframes end-pan-0{from{transform:scale(1.04) translate(0,1.5%)}to{transform:scale(1.16) translate(0,-1.5%)}}
+@keyframes end-pan-1{from{transform:scale(1.14) translate(2.5%,0)}to{transform:scale(1.04) translate(-2%,0)}}
+@keyframes end-pan-2{from{transform:scale(1.05) translate(-2%,1%)}to{transform:scale(1.15) translate(2%,-1%)}}
+@keyframes end-pan-3{from{transform:scale(1.16) translate(0,-2%)}to{transform:scale(1.05) translate(0,1.5%)}}
+.end-bars::before,.end-bars::after{content:'';position:absolute;left:0;right:0;height:7%;background:#000;z-index:3}
+.end-bars::before{top:0}.end-bars::after{bottom:0}
+.end-motes{position:absolute;inset:-20% 0 0;z-index:2;pointer-events:none;opacity:.55;mix-blend-mode:screen;
+  background-image:radial-gradient(2px 2px at 12% 80%,#ffe2a0,transparent),radial-gradient(1.5px 1.5px at 30% 60%,#fff3c8,transparent),radial-gradient(2.5px 2.5px at 55% 90%,#ffd27a,transparent),radial-gradient(1.5px 1.5px at 72% 70%,#fff,transparent),radial-gradient(2px 2px at 88% 85%,#ffe2a0,transparent),radial-gradient(1.5px 1.5px at 42% 75%,#ffd27a,transparent);
+  background-size:100% 50%;animation:end-motes 14s linear infinite}
+@keyframes end-motes{from{transform:translateY(0)}to{transform:translateY(-50%)}}
+.end-caption{position:absolute;left:4%;right:4%;bottom:11%;line-height:1.6;z-index:4;text-align:center;font-family:'LXGW WenKai',serif;font-weight:700;font-size:clamp(20px,4.6cqmin,44px);letter-spacing:.22em;color:#fff1cf;
+  text-shadow:0 2px 3px #000,0 0 14px #000c,0 0 34px #d29a3a77}
+.end-caption span{display:inline-block;opacity:0;filter:blur(8px);transform:translateY(10px);animation:end-char 1.1s ease forwards}
+@keyframes end-char{to{opacity:1;filter:blur(0);transform:none}}
+.end-finale>img{animation:end-pan-0 30s linear forwards}
+.end-finale::after{background:linear-gradient(#000a,transparent 42%),linear-gradient(90deg,transparent 40%,#000b 75%),radial-gradient(ellipse at 40% 40%,transparent 50%,#0009 100%)}
+.end-roll{position:absolute;right:3%;top:7%;bottom:7%;width:min(34%,260px);z-index:4;overflow:hidden;-webkit-mask-image:linear-gradient(transparent,#000 15%,#000 85%,transparent);mask-image:linear-gradient(transparent,#000 15%,#000 85%,transparent)}
+.end-roll-list{position:absolute;left:0;right:0;top:100%;display:flex;flex-direction:column;align-items:center;gap:12px;animation:end-roll 20s linear forwards}
+@keyframes end-roll{from{transform:translateY(0)}to{transform:translateY(-100%) translateY(-100cqh)}}
+.end-roll-list h3{margin:0 0 8px;font-family:'LXGW WenKai',serif;font-size:clamp(18px,3.4cqmin,28px);letter-spacing:.4em;color:#f3c66b;text-shadow:0 2px 6px #000}
+.end-roll-list div{display:flex;align-items:center;gap:12px;width:100%;padding-left:12%}
+.end-roll-list img{width:clamp(40px,8cqmin,64px);height:clamp(40px,8cqmin,64px);border-radius:50%;object-fit:cover;border:2px solid #e2b45c;box-shadow:0 0 12px #000c;background:#2a1d10}
+.end-roll-list span{font-family:'LXGW WenKai',serif;font-weight:700;font-size:clamp(16px,3.2cqmin,26px);letter-spacing:.2em;color:#fff1cf;text-shadow:0 2px 4px #000}
+.end-title{position:absolute;left:0;width:62%;top:9%;z-index:5;display:flex;flex-direction:column;align-items:center;gap:1.5cqmin;opacity:0;transition:opacity 2s ease}
+.end-title.on{opacity:1}
+.end-title b{font-family:'LXGW WenKai',serif;font-size:clamp(48px,15cqmin,150px);letter-spacing:.12em;line-height:1;background:linear-gradient(#fff6d8,#f1c25e 55%,#a8681c);-webkit-background-clip:text;background-clip:text;color:transparent;filter:drop-shadow(0 4px 10px #000) drop-shadow(0 0 24px #e0a24077)}
+.end-title i{font-style:normal;font-family:'LXGW WenKai',serif;font-weight:700;font-size:clamp(26px,7cqmin,64px);color:#fff4ea;background:#b3261e;border:3px double #ffd9c8;border-radius:6px;padding:.08em .22em;transform:rotate(-6deg);box-shadow:0 4px 14px #000b;animation:end-seal .5s cubic-bezier(.2,1.6,.4,1) 1s both}
+@keyframes end-seal{from{transform:rotate(-6deg) scale(2.4);opacity:0}to{transform:rotate(-6deg) scale(1);opacity:1}}
+.end-title small{margin-top:2cqmin;font-size:clamp(12px,2.4cqmin,18px);letter-spacing:.4em;color:#f3dfb2;text-shadow:0 2px 4px #000;animation:end-blink 2.4s ease-in-out 2s infinite both}
+@keyframes end-blink{0%,100%{opacity:.35}50%{opacity:1}}
+#dialoguePortrait.hd{image-rendering:auto;object-fit:cover;object-position:50% 20%}
+/* Battle HUD: only the 结束回合 button, alone in the top-right corner, away from the units' menus. */
+#battleHud{top:8px;right:8px;left:auto;bottom:auto;padding:0;border:0;border-image:none;background:none;box-shadow:none}
+#battleHud[hidden]{display:none}
+#battleHud .battle-actions{display:flex;margin:0}
+#battleHud .art-btn img{height:38px}
+/* Turn banner: shown at the start of each turn / phase, fades out by itself. */
+.turn-banner{position:absolute;left:0;right:0;top:38%;z-index:14;display:flex;flex-direction:column;align-items:center;gap:2px;padding:10px 0;pointer-events:none;
+  background:linear-gradient(90deg,transparent,#1b120bdd 22%,#1b120bdd 78%,transparent);border-block:1px solid #d6b26a88;animation:turn-banner 1.9s ease forwards}
+.turn-banner b{font-family:'LXGW WenKai',serif;font-size:clamp(24px,5cqmin,40px);letter-spacing:.3em;color:#ffe6a8;text-shadow:0 2px 4px #000,0 0 18px #e0a24066}
+.turn-banner span{font-family:'LXGW WenKai',serif;font-size:clamp(13px,2.4cqmin,18px);letter-spacing:.2em;color:#cfe6ff}
+.turn-banner.enemy span{color:#ffb4a0}
+@keyframes turn-banner{0%{opacity:0;transform:scaleY(.4)}12%{opacity:1;transform:none}75%{opacity:1}100%{opacity:0}}
+/* Floating unit menu: status head (portrait, name, level, HP bar) above the command buttons. */
+#unitMenu{flex-direction:column;align-items:stretch;gap:6px}
+#unitMenu .menu-body{display:flex;flex-direction:row;align-items:stretch;gap:6px}
+#unitMenu .menu-head{display:flex;align-items:center;gap:7px;padding-bottom:5px;border-bottom:1px solid #c9a55a66}
+#unitMenu .menu-head img{width:40px;height:40px;border-radius:5px;object-fit:cover;object-position:50% 20%;border:1px solid #e2b45c;background:#2a1d10}
+#unitMenu .menu-head>div{display:flex;flex-direction:column;gap:2px;min-width:86px}
+#unitMenu .menu-head b{font-family:var(--ui-font);font-size:15px;color:#ffe9bd;white-space:nowrap}
+#unitMenu .menu-head b small{margin-left:6px;font-size:11px;color:#d9c08a;font-weight:400}
+#unitMenu .menu-head span{font-family:var(--ui-font);font-size:11px;color:#f3e6c4;white-space:nowrap}
+#unitMenu .hp-bar{height:6px;border-radius:3px;background:#0008;border:1px solid #8a6a2c;overflow:hidden}
+#unitMenu .hp-bar i{display:block;height:100%;background:linear-gradient(#9cf08a,#3fae4a)}
+#unitMenu .hp-bar i.low{background:linear-gradient(#ffb08a,#d8452c)}
+#unitMenu .menu-tip b{display:block;color:#ffe08a;font-size:14px;margin-bottom:2px}
+.levelup-veil{position:absolute;inset:0;z-index:95;background:#0006}
+.end-roll{width:min(40%,330px)}
+.end-roll-list h4{margin:18px 0 4px;font-family:'LXGW WenKai',serif;font-size:clamp(15px,2.8cqmin,22px);letter-spacing:.35em;color:#e9b866;text-shadow:0 2px 4px #000;border-bottom:1px solid #e2b45c66;padding-bottom:4px}
+.end-roll-list .end-hero{display:flex;align-items:center;gap:10px;width:100%;padding-left:6%;min-height:22px}
+.end-roll-list .end-hero.known{margin:6px 0}
+.end-hero span{display:grid;grid-template-columns:auto auto auto;align-items:baseline;gap:.55em;font-family:'LXGW WenKai',serif;font-weight:700;text-shadow:0 2px 4px #000}
+.end-hero small{font-size:clamp(10px,1.8cqmin,13px);color:#c9b48a;letter-spacing:.08em}
+.end-hero em{font-style:normal;font-size:clamp(11px,2cqmin,15px);color:#e8d3a6}
+.end-hero b{font-size:clamp(14px,2.6cqmin,20px);color:#fff1cf;letter-spacing:.12em}
+.end-hero.known b{font-size:clamp(16px,3cqmin,24px)}
+.end-hero.party b{color:#ffd77a;text-shadow:0 0 10px #e0a24099,0 2px 4px #000}
+.end-hero img{width:clamp(36px,7cqmin,56px);height:clamp(36px,7cqmin,56px)}
+.end-hero.party img{border-color:#ffd77a;box-shadow:0 0 12px #e0a240aa}
+/* No top bar: the map takes the full height; only the music switch floats in the top-right corner (the game menu is
+   in the bottom bar). */
+.topbar{position:absolute;top:calc(6px + env(safe-area-inset-top));right:8px;left:auto;padding:0;background:none;border:0;box-shadow:none;z-index:20;pointer-events:none}
+.topbar .brand,.topbar #place{display:none}
+.topbar #audioToggle{pointer-events:auto;opacity:.85;box-shadow:0 2px 6px #0008}
+#battleHud{right:54px}
+/* Compact menu head, as wide as the buttons: small portrait, name over level; HP is already shown under every unit. */
+#unitMenu .menu-head{gap:5px;padding-bottom:4px;justify-content:center}
+#unitMenu .menu-head img{width:30px;height:30px;border-radius:4px}
+#unitMenu .menu-head>div{min-width:0;gap:0}
+#unitMenu .menu-head b{font-size:13px;line-height:1.15;display:flex;flex-direction:column}
+#unitMenu .menu-head b small{margin-left:0;font-size:10px;line-height:1.2}
+#unitMenu .menu-head .hp-bar,#unitMenu .menu-head span{display:none}
+/* Party strip: HD portraits; up to 20 in one row (10 per row on phones), each shrinking to fit. */
+.status-tabs{display:grid;grid-template-columns:repeat(var(--cols,10),minmax(0,48px));gap:5px;justify-content:center}
+.status-tab{width:auto;height:auto;aspect-ratio:1}
+.status-tab img{image-rendering:auto;object-position:50% 18%}
+.status-tab img.pixel{image-rendering:pixelated}
+/* 方向按键 mode: wooden cross pad bottom-left, 确认 / 取消 bottom-right; used for walking, menus and the battle cursor. */
+#dpadControls{position:absolute;left:14px;right:14px;bottom:14px;display:flex;justify-content:space-between;align-items:flex-end;pointer-events:none;z-index:13}
+#dpadControls[hidden]{display:none}
+.dpad{display:grid;grid-template-columns:repeat(3,44px);grid-template-rows:repeat(3,44px);pointer-events:auto;touch-action:none;user-select:none;-webkit-user-select:none;filter:drop-shadow(0 3px 6px #0009)}
+.dpad button{min-height:0;padding:0;border:2px solid #c9a55a;background:linear-gradient(#5b3d22,#3a2614);border-radius:8px;display:grid;place-items:center}
+.dpad button::before{content:'';border:9px solid transparent}
+#dpadUp{grid-area:1/2}#dpadLeft{grid-area:2/1}#dpadRight{grid-area:2/3}#dpadDown{grid-area:3/2}
+#dpadUp::before{border-bottom:12px solid #f3d38a;border-top:0;margin-bottom:4px}
+#dpadDown::before{border-top:12px solid #f3d38a;border-bottom:0;margin-top:4px}
+#dpadLeft::before{border-right:12px solid #f3d38a;border-left:0;margin-right:4px}
+#dpadRight::before{border-left:12px solid #f3d38a;border-right:0;margin-left:4px}
+.dpad button:active{background:linear-gradient(#7a5530,#4c331b)}
+.dpad-act{display:flex;gap:12px;align-items:flex-end;pointer-events:auto}
+.dpad-act button{width:58px;height:58px;min-height:0;padding:0;border-radius:50%;border:2px solid #e2b45c;font-family:var(--ui-font);font-size:16px;font-weight:700;box-shadow:0 3px 8px #0009;touch-action:manipulation}
+#dpadOk{background:radial-gradient(circle at 40% 35%,#3f8f63,#1f5a3c);color:#fff3cf;margin-bottom:22px}
+#dpadBack{background:radial-gradient(circle at 40% 35%,#f4ead0,#d9c79c);color:#3a2a16}
+body.talking #dpadControls .dpad{opacity:.35}
+/* Keyboard / pad / remote focus ring */
+body.keys button:focus,body.keys [tabindex="0"]:focus{outline:3px solid #ffd76a;outline-offset:2px;border-radius:8px;box-shadow:0 0 12px #ffcf5a88}
+/* Status page: frame without the tassel, name and job under the portrait, a second row for the 4 carried items. */
+.rs-portrait{aspect-ratio:518/748}
+.rs-portrait::after{background-image:url('assets/ui/rs-frame-plain.webp')}
+.rs-portrait img{top:5.49%;height:88.2%}
+.rs-name{display:flex;flex-direction:column;align-items:center;gap:2px;margin:6px 0 4px;font-family:var(--ui-font)}
+.rs-name strong{font-size:clamp(20px,3.4cqmin,28px);letter-spacing:.3em;color:#2b2416}
+.rs-name small{font-size:14px;color:#9b3a26;letter-spacing:.2em}
+.rs-items{margin-top:6px}
+.rs-item .rs-slot-hint{color:#8a6a2c}
+/* Matchup lines wrap inside their box instead of running past it. */
+.rs-match{box-sizing:border-box;max-width:100%;overflow:hidden}
+.rs-match-line{display:flex;align-items:flex-start;gap:5px}
+.rs-match-line span:last-child{white-space:normal;overflow-wrap:anywhere;min-width:0;font-size:clamp(10px,1.7cqmin,12px);line-height:1.45}
+.rs-seal{flex:none}
+/* Name and job on a dark strip at the bottom inside the portrait frame (same look as the slot name labels). */
+.rs-portrait .rs-name{position:absolute;left:7.92%;right:7.92%;bottom:5.6%;z-index:2;margin:0;flex-direction:row;justify-content:center;align-items:baseline;gap:8px;padding:5px 6px 6px;background:linear-gradient(transparent,#140d07d9 30%);border-radius:0 0 6% 6%/0 0 18% 18%}
+.rs-portrait .rs-name strong{font-size:clamp(17px,2.8cqmin,24px);letter-spacing:.2em;color:#fff3d6;text-shadow:0 2px 3px #000}
+.rs-portrait .rs-name small{font-size:12px;color:#f3c66b;letter-spacing:.15em}
+.rs-portrait::after{z-index:3}
+/* The matchup box sits lower, with a clear gap under the portrait frame (aligned toward the item row). */
+.rs-left{display:flex;flex-direction:column;align-self:stretch}
+.rs-left .rs-match{margin-top:auto!important}
+.rs-portrait{margin-bottom:14px}
+/* Item grids (bag, equipment and item pickers): a dark name strip under each icon, like the status slots. */
+.slot .slot-name{position:absolute;left:8%;right:8%;bottom:7%;padding:1px 2px;background:#1a120acc;color:#f6e7c1;font-family:var(--ui-font);font-size:10px;font-weight:700;line-height:1.35;text-align:center;white-space:nowrap;overflow:hidden;text-overflow:ellipsis;border-radius:2px;pointer-events:none}
+.slot img{margin-bottom:14%}
+.slot b{bottom:auto;top:7%}
+/* Title sequence (js/title-intro.js): night sky + poem, dawn over Liangshan with cranes, 水滸傳 red -> gold, menu. */
+.title-screen{background:#05070d;overflow:hidden}
+.title-art,.title-content .eyebrow,.title-content h1,.title-content .subtitle,.title-note{display:none!important}
+.title-content{z-index:5;opacity:0;pointer-events:none;transition:opacity 1s ease}
+.title-screen.intro-done .title-content{opacity:1;pointer-events:auto}
+.intro{position:absolute;inset:0;overflow:hidden;user-select:none;-webkit-user-select:none}
+.intro-sky{position:absolute;inset:0;background:linear-gradient(#03050c,#0b1426 60%,#13203a);transition:background 2.5s ease}
+.intro.dawn .intro-sky{background:linear-gradient(#7d86b8 0%,#c8b4c8 38%,#f2c9a0 70%,#f6dcb5)}
+.intro-stars{position:absolute;inset:0;transition:opacity 2.5s ease;background-image:radial-gradient(1.5px 1.5px at 12% 18%,#fff,transparent),radial-gradient(1px 1px at 28% 42%,#cfe2ff,transparent),radial-gradient(2px 2px at 44% 12%,#fff,transparent),radial-gradient(1px 1px at 63% 33%,#fff,transparent),radial-gradient(1.5px 1.5px at 79% 8%,#cfe2ff,transparent),radial-gradient(1px 1px at 88% 48%,#fff,transparent),radial-gradient(1.5px 1.5px at 7% 62%,#cfe2ff,transparent),radial-gradient(1px 1px at 52% 71%,#fff,transparent),radial-gradient(2px 2px at 92% 76%,#fff,transparent),radial-gradient(1px 1px at 35% 86%,#cfe2ff,transparent);animation:intro-twinkle 3s ease-in-out infinite alternate}
+@keyframes intro-twinkle{from{opacity:.55}to{opacity:1}}
+.intro.dawn .intro-stars{opacity:0}
+.intro-land{position:absolute;left:0;right:0;bottom:0;width:100%;height:100%;object-fit:cover;object-position:50% 100%;transform:translateY(100%);transition:transform 3s cubic-bezier(.2,.7,.2,1)}
+.intro.dawn .intro-land{transform:none}
+.intro-cranes{position:absolute;inset:0;opacity:0;transition:opacity 2s ease 1.5s;pointer-events:none}
+.intro.dawn .intro-cranes{opacity:1}
+.intro-cranes i{position:absolute;top:var(--y);left:110%;width:calc(60px*var(--s));aspect-ratio:1;background:url('assets/title/crane.webp') 0 0/400% 100% no-repeat;animation-name:intro-fly,intro-flap;animation-timing-function:linear,steps(4);animation-iteration-count:infinite,infinite}
+@keyframes intro-fly{from{left:110%}to{left:-15%}}
+@keyframes intro-flap{from{background-position-x:0}to{background-position-x:133.33%}}
+.intro-poem{position:absolute;top:8%;right:8%;left:8%;height:70%;display:flex;flex-direction:row-reverse;justify-content:space-between;font-family:'LXGW WenKai',serif;font-weight:700;font-size:clamp(18px,4.6cqmin,40px);color:#f3ead2;text-shadow:0 0 10px #000,0 2px 3px #000;transition:opacity 1.2s ease}
+.intro-poem span{display:flex;flex-direction:column;align-items:center;gap:.25em}
+.intro-poem i{font-style:normal;opacity:0;filter:blur(6px)}
+.intro.playing .intro-poem i{animation:intro-char .9s ease forwards}
+.intro.logo .intro-poem{opacity:0}
+.intro-logo{position:absolute;left:50%;top:14%;width:min(86%,820px);transform:translate(-50%,0) scale(.86);opacity:0;filter:hue-rotate(-38deg) saturate(2.4) brightness(.9);transition:opacity 1s ease,transform 1.2s cubic-bezier(.2,1.2,.3,1),filter 1.4s ease}
+.intro.logo .intro-logo{opacity:1;transform:translate(-50%,0)}
+.intro.gold .intro-logo{filter:drop-shadow(0 4px 18px #000a)}
+.intro.skipped *{transition:none!important}
+.intro.skipped .intro-logo{transition:none!important}
+.intro-skip{position:absolute;right:14px;bottom:calc(14px + env(safe-area-inset-bottom));z-index:6;padding:6px 14px;min-height:0;border:1px solid #c9a55a88;border-radius:20px;background:#0008;color:#f3dfb2;font-size:13px;letter-spacing:.3em}
+.intro.menu .intro-skip{display:none}
+@keyframes intro-char{to{opacity:1;filter:blur(0)}}
+/* Logo as two layers (WebKit does not animate between unlike filter lists): a red-tinted copy fades into the gold one. */
+.intro-logo,.intro.gold .intro-logo{filter:none}
+.intro-logo img{display:block;width:100%;height:auto}
+.intro-logo .logo-red{filter:hue-rotate(-38deg) saturate(2.4) brightness(.9);transition:opacity 1.4s ease}
+.intro-logo .logo-gold{position:absolute;inset:0;opacity:0;filter:drop-shadow(0 4px 18px #000a);transition:opacity 1.4s ease}
+.intro.gold .intro-logo .logo-red{opacity:0}
+.intro.gold .intro-logo .logo-gold{opacity:1}
+/* Item numbers: each value on one line (never broken mid-word); smaller type, and whole items wrap when many. */
+.bag-detail .item-stats,.item-detail .item-stats{flex-wrap:wrap;justify-content:center;row-gap:4px}
+.item-stat{padding:0 8px}
+.item-stat b{white-space:nowrap;font-size:clamp(14px,2.6cqmin,19px);letter-spacing:0}
+.item-stat i{white-space:nowrap;font-size:11px;letter-spacing:1px}
+/* Volume buttons (square art) as tall as the other option buttons. */
+.opt-group .art-btn img[src*="opt-vol"]{height:clamp(34px,5.6cqmin,46px);width:auto}
+/* Title menu: the three buttons share one size. */
+.title-screen .art-title img,.title-screen #titleHelp img{height:58px;width:auto}
+/* Deployment side panel: name line kept (portrait image hidden), numbers on one line, both slot rows visible. */
+.deploy-side .rs-portrait{display:block;width:auto;aspect-ratio:auto}
+.deploy-side .rs-portrait img,.deploy-side .rs-portrait::after{display:none}
+.deploy-side .rs-portrait .rs-name{position:static;background:none;padding:0 0 4px;justify-content:flex-start}
+.deploy-side .rs-portrait .rs-name strong{color:#2b2416;text-shadow:none;font-size:20px}
+.deploy-side .rs-portrait .rs-name small{color:#9b3a26}
+.deploy-side .rs-row b{white-space:nowrap;font-size:clamp(12px,3.4cqw,17px);letter-spacing:0}
+.deploy-side .rs-right{display:flex;flex-direction:column;gap:6px;min-width:0}
+.deploy-side .rs-equip{display:grid;grid-template-columns:repeat(5,minmax(0,1fr));gap:4px;width:100%;margin:0}
+.deploy-side .rs-items{grid-template-columns:repeat(5,minmax(0,1fr))}
+.deploy-side .rs-slot-name{font-size:9px}
+/* Narrow screens: portraits on top (5 across), the chosen person's numbers full width below. */
+@container app (max-width:620px){
+  .deploy-wrap{grid-template-columns:1fr!important;gap:8px}
+  .deploy-grid{grid-template-columns:repeat(5,1fr)!important;gap:4px}
+  .deploy-card{padding:6px 3px 14px}
+  .deploy-card span,.deploy-card .deploy-name{font-size:10px}
+  .deploy-side .rs-card{display:flex!important;flex-direction:column;gap:6px}
+  .deploy-side .rs-left{display:flex;flex-direction:row;align-items:center;gap:8px;width:100%}
+  .deploy-side .rs-left .rs-match{flex:1;font-size:11px}
+  .deploy-side .rs-rows{grid-template-columns:1fr 1fr!important;gap:4px}
+  .deploy-side .rs-row b{font-size:15px}
+}
+/* Deployment on narrow screens, one page without scrolling even for a 20-person party: small avatar tiles, stats in
+   three tight columns, equipment and carried items on one row, matchups on one line. */
+@container app (max-width:620px){
+  .modal:has(.deploy-wrap) #modalBody{overflow:hidden}
+  .deploy-head{margin:0 2px 4px}
+  .deploy-grid{grid-template-columns:repeat(7,1fr)!important;gap:3px!important}
+  .deploy-card{padding:3px 2px 11px!important;aspect-ratio:auto}
+  .deploy-face{width:100%!important;margin-top:0!important}
+  .deploy-card span,.deploy-card .deploy-name,.deploy-card small{font-size:9px!important;line-height:1.1}
+  .deploy-seal{width:38%}
+  .deploy-side .rs-left{gap:6px}
+  .deploy-side .rs-portrait .rs-name strong{font-size:16px}
+  .deploy-side .rs-left .rs-match{padding:3px 6px;min-height:0;font-size:10px!important;gap:1px}
+  .deploy-side .rs-match-line{flex-direction:row!important;align-items:center;gap:4px}
+  .deploy-side .rs-rows{grid-template-columns:repeat(3,1fr)!important;gap:3px!important}
+  .deploy-side .rs-row{min-height:26px!important}
+  .deploy-side .rs-row img{height:18px!important}
+  .deploy-side .rs-row b{font-size:13px!important}
+  .deploy-side .rs-right{display:grid!important;grid-template-columns:5fr 4fr;gap:3px 4px}
+  .deploy-side .rs-rows{grid-column:1 / -1}
+  .deploy-side .rs-equip{grid-template-columns:repeat(5,1fr)!important;gap:2px!important}
+  .deploy-side .rs-items{grid-template-columns:repeat(4,1fr)!important}
+  .deploy-side .rs-slot-name,.deploy-side .rs-slot-hint{font-size:8px!important}
+}
+@container app (max-width:620px){
+  .deploy-side .rs-right{grid-template-areas:none!important;grid-template-rows:auto auto!important}
+  .deploy-side .rs-right .rs-rows{grid-area:1 / 1 / 2 / 3!important;width:auto}
+  .deploy-side .rs-right .rs-equip{grid-area:2 / 1 / 3 / 2!important}
+  .deploy-side .rs-right .rs-items{grid-area:2 / 2 / 3 / 3!important}
+}
+/* Status page on narrow screens: portrait + matchups | stats in one column; equipment row and item row full width. */
+@container app (max-width:620px){
+  .modal:not(:has(.deploy-wrap)) .rs-card{display:grid!important;grid-template-columns:42% 1fr!important;grid-template-areas:none!important;gap:6px 8px!important;align-items:start}
+  .modal:not(:has(.deploy-wrap)) .rs-left{grid-area:1 / 1 / 2 / 2!important;display:flex!important;flex-direction:column!important;gap:6px}
+  .modal:not(:has(.deploy-wrap)) .rs-left .rs-portrait{width:100%!important;margin:0!important}
+  .modal:not(:has(.deploy-wrap)) .rs-left .rs-match{margin:0!important;padding:3px 5px;font-size:10px!important}
+  .modal:not(:has(.deploy-wrap)) .rs-right{display:contents!important}
+  .modal:not(:has(.deploy-wrap)) .rs-rows{grid-area:1 / 2 / 2 / 3!important;grid-template-columns:1fr!important;gap:3px!important;width:auto}
+  .modal:not(:has(.deploy-wrap)) .rs-row{min-height:26px!important}
+  .modal:not(:has(.deploy-wrap)) .rs-row img{height:19px!important}
+  .modal:not(:has(.deploy-wrap)) .rs-row b{font-size:14px!important;white-space:nowrap}
+  .modal:not(:has(.deploy-wrap)) .rs-equip{grid-area:2 / 1 / 3 / 3!important;grid-template-columns:repeat(5,1fr)!important;width:100%!important;margin:0!important;gap:5px}
+  .modal:not(:has(.deploy-wrap)) .rs-items{grid-area:3 / 1 / 4 / 3!important;grid-template-columns:repeat(5,1fr)!important}
+}
+/* All dialogs (人物, 行囊, 存档, 菜单, shops...) open in the middle of the screen on every screen size. */
+#modalHost{align-items:center!important;justify-content:center}
+.modal{margin:0 8px!important;width:calc(100% - 16px)}
+.art-menu{grid-template-columns:repeat(2,minmax(0,1fr))!important;gap:8px!important}
+.art-menu .art-btn{min-width:0;justify-self:center}
+.art-menu .art-btn img{max-width:100%;height:auto!important;max-height:52px}
+/* Item numbers as an even two-column list of label / value rows (any count lines up). */
+.bag-detail .item-stats,.item-detail .item-stats{display:grid!important;grid-template-columns:1fr 1fr;gap:3px 14px;width:100%;max-width:420px;margin:4px auto 0}
+.bag-detail .item-stat,.item-detail .item-stat{flex-direction:row!important;justify-content:space-between;align-items:baseline;gap:8px;padding:2px 2px 3px!important;border-left:0!important;border-bottom:1px dotted #c9a55a99;min-width:0}
+.bag-detail .item-stat i,.item-detail .item-stat i{font-size:12px;letter-spacing:1px;flex:none}
+.bag-detail .item-stat b,.item-detail .item-stat b{font-size:clamp(13px,3.6cqw,16px);text-align:right;white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
+.bag-detail .item-stats,.item-detail .item-stats{grid-template-columns:1fr!important;max-width:300px;gap:1px}
+.bag-detail .item-stat b,.item-detail .item-stat b{overflow:visible}
+.bag-grid.dense-6{grid-template-columns:repeat(6,1fr)!important;gap:4px!important}
+.bag-grid.dense-8{grid-template-columns:repeat(8,1fr)!important;gap:3px!important}
+.bag-grid.dense-6 .slot-name{font-size:8px}
+.bag-grid.dense-8 .slot-name{display:none}
+.bag-grid.dense-8 .slot img{margin-bottom:0}
+.bag-grid.dense-8 .slot b{font-size:10px}
+.modal:has(.bag-grid) #modalBody{overflow:hidden}
+/* Icon area scrolls by itself (about three rows visible); the item details below stay fixed. */
+.bag-grid{grid-template-columns:repeat(5,1fr)!important;gap:5px!important;max-height:min(42cqh,236px);overflow-y:auto;overscroll-behavior:contain;touch-action:pan-y;padding:2px 4px 2px 2px;scrollbar-width:thin;scrollbar-color:#b08d4a transparent}
+.bag-grid::-webkit-scrollbar{width:5px}.bag-grid::-webkit-scrollbar-thumb{background:#b08d4a;border-radius:3px}
+.bag-grid{align-content:start;grid-auto-rows:auto}
+.bag-grid>.slot{aspect-ratio:1/1;height:auto;min-height:0;align-self:start}
+/* Icons cannot be dragged out as images; the detail panel keeps one height so the window does not jump. */
+.bag-grid img,.slot img,.rs-slot img{-webkit-user-drag:none;user-select:none;-webkit-user-select:none}
+.bag-grid{cursor:grab;user-select:none;-webkit-user-select:none}
+.bag-detail{min-height:280px;box-sizing:border-box;justify-content:flex-start}
+/* Status chips under the name in the unit menu (乱 confusion, 毒 poison, 弱 weakened, 破 armour broken; number = turns left). */
+.menu-status{display:flex;gap:3px;justify-content:center;padding:3px 0 4px;border-bottom:1px solid #c9a55a66}
+.menu-status .st{font-style:normal;font-family:var(--ui-font);font-size:11px;font-weight:700;color:#fff;padding:0 4px;border-radius:3px;line-height:16px}
+.st0{background:#8a4bd6}.st1{background:#2f8a3e}.st2{background:#c0761a}.st3{background:#b02c2c}
+.cheat{cursor:pointer}.cheat:active{filter:brightness(1.15)}
+/* Title in short (landscape) screens: the logo is sized by the screen height as well, so it stays clear of the menu. */
+.title-screen{container-type:size}
+.intro-logo{width:min(86%,820px,72cqh)!important;top:5%!important}
+@container (max-aspect-ratio:1/1){.intro-logo{top:12%!important}}
+@container (min-aspect-ratio:4/3){
+  .title-screen .title-content{bottom:5%!important}
+  .title-screen .art-title img,.title-screen #titleHelp img{height:min(58px,10.5cqh)!important}
+  .title-screen .title-content{display:flex;flex-direction:column;align-items:center;gap:min(10px,1.6cqh)}
+}
+/* Landscape: no bottom bar; the map takes the whole screen and the four buttons float on the sides
+   (人物 / 行囊 left, 存档 / 菜单 right), where small maps leave room anyway. */
+html[data-layout="landscape"] #toolbar{position:absolute;inset:0;z-index:11;display:grid!important;grid-template-columns:auto 1fr auto;grid-template-rows:1fr auto auto 1fr;gap:14px 0;padding:0 calc(10px + env(safe-area-inset-right)) 0 calc(10px + env(safe-area-inset-left));background:none!important;border:0!important;box-shadow:none!important;pointer-events:none;visibility:visible}
+html[data-layout="landscape"] #toolbar button{pointer-events:auto;max-width:none}
+html[data-layout="landscape"] #toolbar button:nth-child(1){grid-area:2 / 1}
+html[data-layout="landscape"] #toolbar button:nth-child(2){grid-area:3 / 1}
+html[data-layout="landscape"] #toolbar button:nth-child(3){grid-area:2 / 3}
+html[data-layout="landscape"] #toolbar button:nth-child(4){grid-area:3 / 3}
+html[data-layout="landscape"] #toolbar button img{height:clamp(40px,11cqmin,58px);opacity:.92}
+html[data-layout="landscape"] body.talking #toolbar{display:none!important}
+html[data-layout="landscape"] #toolbar{left:0!important;right:0!important;top:0!important;bottom:0!important;width:auto!important;height:auto!important;border-radius:0!important;flex-direction:row!important}
+/* Landscape: keep the side buttons (and the music switch) clear of the Dynamic Island / notch on either side. */
+html[data-layout="landscape"] #toolbar{padding-left:max(64px,calc(env(safe-area-inset-left) + 12px))!important;padding-right:max(64px,calc(env(safe-area-inset-right) + 12px))!important}
+html[data-layout="landscape"] .topbar{right:max(64px,calc(env(safe-area-inset-right) + 12px))!important}
+/* Landscape (final): one slim side curtain on the right holding all four buttons in a column. */
+html[data-layout="landscape"] #toolbar{left:auto!important;right:max(56px,calc(env(safe-area-inset-right) + 8px))!important;top:50%!important;bottom:auto!important;transform:translateY(-50%);width:auto!important;padding:10px 6px!important;display:flex!important;flex-direction:column!important;gap:8px!important;background:linear-gradient(90deg,#2a1b10e0,#3b2716e8 50%,#2a1b10e0)!important;border:1px solid #c9a55a99!important;border-radius:10px!important;box-shadow:0 6px 18px #000a!important;pointer-events:auto}
+html[data-layout="landscape"] #toolbar button{grid-area:auto!important}
+html[data-layout="landscape"] #toolbar button img{height:clamp(36px,9.5cqmin,50px)!important;opacity:1}
+html[data-layout="landscape"] .topbar{right:max(56px,calc(env(safe-area-inset-right) + 8px))!important}
+/* 人物状态 in landscape / short screens: [portrait + matchups] [stats, two columns] [equipment + items grid]. */
+@container app (min-aspect-ratio:4/3) and (max-height:620px){
+  .modal:not(:has(.deploy-wrap)):has(.rs-card) #modalBody{overflow:hidden}
+  .modal:not(:has(.deploy-wrap)) .status-tabs{margin-bottom:4px;--cols:20!important;grid-template-columns:repeat(var(--cols),minmax(0,34px))!important}
+  .modal:not(:has(.deploy-wrap)) .rs-card{display:grid!important;grid-template-columns:auto minmax(0,1.25fr) minmax(0,1fr)!important;grid-template-rows:auto auto!important;grid-template-areas:none!important;gap:6px 10px!important;align-items:start}
+  .modal:not(:has(.deploy-wrap)) .rs-left{grid-area:1 / 1 / 3 / 2!important;display:flex!important;flex-direction:column!important;gap:5px;width:auto}
+  .modal:not(:has(.deploy-wrap)) .rs-left .rs-portrait{width:auto!important;height:min(240px,50cqh)!important;aspect-ratio:518/748;margin:0!important}
+  .modal:not(:has(.deploy-wrap)) .rs-left .rs-match{width:calc(min(240px,50cqh)*518/748);box-sizing:border-box;margin:0!important;padding:3px 5px;font-size:10px!important}
+  .modal:not(:has(.deploy-wrap)) .rs-right{display:contents!important}
+  .modal:not(:has(.deploy-wrap)) .rs-rows{grid-area:1 / 2 / 3 / 3!important;grid-template-columns:1fr 1fr!important;gap:4px 6px!important;width:auto}
+  .modal:not(:has(.deploy-wrap)) .rs-row{min-height:26px!important}
+  .modal:not(:has(.deploy-wrap)) .rs-row img{height:19px!important}
+  .modal:not(:has(.deploy-wrap)) .rs-row b{font-size:14px!important;white-space:nowrap}
+  .modal:not(:has(.deploy-wrap)) .rs-equip{grid-area:1 / 3 / 2 / 4!important;grid-template-columns:repeat(4,1fr)!important;width:100%!important;margin:0!important;gap:4px}
+  .modal:not(:has(.deploy-wrap)) .rs-items{grid-area:2 / 3 / 3 / 4!important}
+  .modal:not(:has(.deploy-wrap)) .rs-slot-name,.modal:not(:has(.deploy-wrap)) .rs-slot-hint{font-size:9px!important}
+}
+@container app (min-aspect-ratio:4/3) and (max-height:620px){
+  .modal:not(:has(.deploy-wrap)) .rs-card{grid-template-rows:auto 1fr!important}
+  .modal:not(:has(.deploy-wrap)) .rs-items{align-self:start}
+  /* 行囊 / item pickers in landscape: icons (scrolling) on the left, details on the right. */
+  .modal:has(.bag-grid) #modalBody{display:grid;grid-template-columns:minmax(0,1.1fr) minmax(0,1fr);grid-template-rows:auto 1fr;gap:6px 12px;align-items:start}
+  .modal:has(.bag-grid) .purse-line{grid-column:1 / -1}
+  .modal:has(.bag-grid) .bag-grid{grid-column:1;max-height:calc(100cqh - 150px)!important;grid-template-columns:repeat(4,1fr)!important}
+  .modal:has(.bag-grid) .bag-detail{grid-column:2;grid-row:2;margin-top:0;min-height:0!important;max-height:calc(100cqh - 150px);overflow:hidden}
+  .modal:has(.bag-grid) .bag-detail .item-stat{padding:1px 2px!important}
+}
+@container app (min-aspect-ratio:4/3) and (max-height:620px){
+  .modal{max-width:min(92cqw,900px)!important}
+  .modal:has(.bag-grid) .bag-detail strong{font-size:18px}
+  .modal:has(.bag-grid) .bag-detail p{font-size:12px!important}
+  .modal:has(.bag-grid) .bag-grid{grid-template-columns:repeat(5,1fr)!important}
+}
+@container app (min-aspect-ratio:4/3) and (max-height:620px){
+  /* 人物状态: equipment row (4 + 饰品) with the 4 item slots directly underneath, same column widths */
+  .modal:not(:has(.deploy-wrap)) .rs-card{grid-template-columns:auto minmax(0,1fr) minmax(0,1.05fr)!important;grid-template-rows:auto auto 1fr!important}
+  .modal:not(:has(.deploy-wrap)) .rs-left{grid-area:1 / 1 / 4 / 2!important}
+  .modal:not(:has(.deploy-wrap)) .rs-rows{grid-area:1 / 2 / 4 / 3!important}
+  .modal:not(:has(.deploy-wrap)) .rs-equip{grid-area:1 / 3 / 2 / 4!important;grid-template-columns:repeat(5,minmax(0,1fr))!important}
+  .modal:not(:has(.deploy-wrap)) .rs-items{grid-area:2 / 3 / 3 / 4!important;grid-template-columns:repeat(5,minmax(0,1fr))!important}
+  /* 出战人员: small portrait tiles on the left, the chosen person's compact sheet on the right; no scrolling */
+  .modal:has(.deploy-wrap) #modalBody{overflow:hidden}
+  .deploy-wrap{grid-template-columns:minmax(0,1fr) minmax(0,1.15fr)!important;gap:10px!important}
+  .deploy-head{margin:0 2px 4px}
+  .deploy-grid{grid-template-columns:repeat(5,1fr)!important;gap:3px!important}
+  .deploy-card{padding:2px 2px 10px!important}
+  .deploy-face{width:100%!important;margin-top:0!important}
+  .deploy-card span,.deploy-card .deploy-name,.deploy-card small{font-size:9px!important;line-height:1.1}
+  .deploy-side .rs-card{display:flex!important;flex-direction:column;gap:4px}
+  .deploy-side .rs-left{display:flex!important;flex-direction:row!important;align-items:center;gap:6px}
+  .deploy-side .rs-portrait{display:block;width:auto;aspect-ratio:auto}
+  .deploy-side .rs-portrait img,.deploy-side .rs-portrait::after{display:none}
+  .deploy-side .rs-portrait .rs-name{position:static;background:none;padding:0}
+  .deploy-side .rs-portrait .rs-name strong{color:#2b2416;text-shadow:none;font-size:15px}
+  .deploy-side .rs-left .rs-match{flex:1;padding:2px 5px;min-height:0;font-size:10px!important}
+  .deploy-side .rs-match-line{flex-direction:row!important;align-items:center;gap:4px}
+  .deploy-side .rs-right{display:grid!important;grid-template-columns:5fr 4fr;gap:3px 4px;grid-template-areas:none!important}
+  .deploy-side .rs-right .rs-rows{grid-area:1 / 1 / 2 / 3!important;grid-template-columns:repeat(3,1fr)!important;gap:3px!important}
+  .deploy-side .rs-right .rs-equip{grid-area:2 / 1 / 3 / 2!important;grid-template-columns:repeat(5,1fr)!important;gap:2px!important;margin:0}
+  .deploy-side .rs-right .rs-items{grid-area:2 / 2 / 3 / 3!important;grid-template-columns:repeat(4,1fr)!important}
+  .deploy-side .rs-row{min-height:22px!important}
+  .deploy-side .rs-row img{height:16px!important}
+  .deploy-side .rs-row b{font-size:12px!important;white-space:nowrap}
+  .deploy-side .rs-slot-name,.deploy-side .rs-slot-hint{font-size:8px!important}
+}
+@container app (min-aspect-ratio:4/3) and (max-height:620px){.deploy-grid{grid-template-columns:repeat(7,1fr)!important}.deploy-wrap{grid-template-columns:minmax(0,1.05fr) minmax(0,1.1fr)!important}}
+@container app (min-aspect-ratio:4/3) and (max-height:620px){
+  .modal:not(:has(.deploy-wrap)) .rs-card{grid-template-columns:auto minmax(0,1fr) minmax(0,1.45fr)!important}
+  .modal:not(:has(.deploy-wrap)) .rs-equip,.modal:not(:has(.deploy-wrap)) .rs-items{gap:6px!important}
+  .modal:not(:has(.deploy-wrap)) .rs-items{margin-top:4px!important}
+}
+/* Matchup lines never wrap: one line each, type small enough to fit, so the box keeps one height. */
+.rs-match-line{flex-wrap:nowrap!important;align-items:center!important}
+.rs-match-line span:last-child{white-space:nowrap!important;overflow:hidden;text-overflow:clip;font-size:9.5px!important;letter-spacing:0!important;line-height:1.5}
+.rs-match .rs-seal{font-size:10px;padding:0 3px}
+/* Experience to the next level, under the name in the battle menu. */
+#unitMenu .menu-head .exp-bar{display:block;width:100%;min-width:44px;height:4px;margin-top:3px;background:#4a3a18;border-radius:2px;overflow:hidden;box-shadow:inset 0 0 0 1px #0006}
+#unitMenu .menu-head .exp-bar i{display:block;height:100%;background:linear-gradient(90deg,#c9952f,#ffe27a)}
+
+/* Landscape (v2): the four buttons become a dock floating at the bottom centre, folded away until the handle under it
+   is tapped (like the macOS / iPadOS dock), so the map's side exits stay clear. */
+#dockHandle{display:none}
+html[data-layout="landscape"] #toolbar{left:50%!important;right:auto!important;top:auto!important;bottom:calc(8px + env(safe-area-inset-bottom))!important;transform:translate(-50%,calc(100% + 40px))!important;flex-direction:row!important;padding:6px 10px!important;gap:10px!important;opacity:0;pointer-events:none!important;transition:transform .3s cubic-bezier(.2,.9,.3,1.15),opacity .2s}
+html[data-layout="landscape"].dock-open #toolbar{transform:translate(-50%,0)!important;opacity:1;pointer-events:auto!important}
+html[data-layout="landscape"] #toolbar button{pointer-events:inherit}
+html[data-layout="landscape"] #dockHandle{display:grid;place-items:center;position:absolute;left:50%;bottom:calc(4px + env(safe-area-inset-bottom));transform:translateX(-50%);z-index:12;width:58px;height:18px;min-height:0;min-width:0;padding:0;border:1px solid #c9a55a88;border-radius:9px;background:#2a1b10b8;box-shadow:0 2px 8px #0008;cursor:pointer;transition:bottom .3s cubic-bezier(.2,.9,.3,1.15)}
+html[data-layout="landscape"].dock-open #dockHandle{bottom:calc(14px + var(--dock-h,56px) + env(safe-area-inset-bottom))}
+html[data-layout="landscape"] #dockHandle i{width:10px;height:10px;border:solid #f3dfae;border-width:2px 0 0 2px;transform:translateY(2px) rotate(45deg);transition:transform .3s}
+html[data-layout="landscape"].dock-open #dockHandle i{transform:translateY(-3px) rotate(225deg)}
+html[data-layout="landscape"] body.talking #dockHandle{display:none}
+/* Layout queries and viewport-sized lengths follow the game screen (#app) rather than the browser window, so the
+   landscape layout also applies when the game rotates itself on a phone held upright (html[data-rotate]). */
+#app{container:app / size}
+/* World map in landscape: no panel frame; the map fills the screen height whole (no dragging), with the title and the
+   back button floating on its top corners. */
+html[data-layout="landscape"] .worldmap .wm-box{width:auto;height:100%;padding:6px 0;border:0;background:none;justify-content:center;box-sizing:border-box}
+html[data-layout="landscape"] .worldmap .wm-stage{height:calc(100cqh - 12px);width:auto;max-width:calc(100cqw - 24px);aspect-ratio:256/160}
+html[data-layout="landscape"] .worldmap .wm-title{position:absolute;top:14px;left:50%;transform:translateX(-50%);z-index:2;font-size:18px;letter-spacing:8px;padding:2px 10px 2px 18px;border-radius:4px;background:#f8efd6e6;box-shadow:0 2px 6px #0006;white-space:nowrap}
+html[data-layout="landscape"] .worldmap .wm-hint{position:absolute;bottom:14px;left:50%;transform:translateX(-50%);z-index:2;padding:1px 10px;border-radius:4px;background:#f8efd6d9;white-space:nowrap}
+html[data-layout="landscape"] .worldmap .wm-close{left:10px;top:12px;z-index:2}
+/* Notices: a small strip at the top centre, clear of the battlefield and the unit menus (was a framed box low in the middle). */
+#toast{top:calc(10px + env(safe-area-inset-top))!important;bottom:auto!important;border:1px solid #c9a55a88!important;border-image:none!important;background:#1d140ce0!important;color:#fbe9c4!important;text-shadow:none!important;border-radius:14px!important;padding:3px 14px!important;font-size:12px!important;font-weight:600;line-height:1.5!important;max-width:70%!important;z-index:120!important;box-shadow:0 2px 8px #0008!important}
+/* 战斗目的: a text button in the art-button frame, and the conditions card over a dimmed field. */
+.art-btn.text-btn{position:relative;display:inline-grid;place-items:center}
+.art-btn.text-btn>*{grid-area:1/1}
+.art-btn.text-btn span{font-family:var(--ui-font);font-weight:800;color:#2a1a0e;font-size:calc(var(--btn-h,38px)*.42);letter-spacing:.12em;padding-left:.12em;white-space:nowrap;pointer-events:none;position:relative;z-index:1}
+#battleHud .art-btn.text-btn span{font-size:17px;font-weight:900;-webkit-text-stroke:.6px #2a1a0e;letter-spacing:.14em;padding-left:.14em}
+.objective{position:absolute;inset:0;z-index:97;display:grid;place-items:center;background:#000a;animation:fade-in .25s;cursor:pointer}
+.obj-card{min-width:min(78%,360px);max-width:90%;padding:16px 22px 12px;border:1px solid #c9a55a;border-radius:10px;background:linear-gradient(180deg,#2a1d12f2,#1b130bf2);box-shadow:0 10px 30px #000a;color:#fbe9c4;font-family:var(--ui-font);text-align:center}
+.obj-card h3{margin:0 0 10px;font-size:20px;letter-spacing:.4em;color:#f3d48a}
+.obj-row{display:grid;gap:2px;margin:8px 0;padding:8px 10px;border-radius:6px;background:#ffffff0d}
+.obj-row b{font-size:13px;letter-spacing:.2em;color:#c9a55a}
+.obj-row.win span{font-size:19px;font-weight:700;color:#fff3cf}
+.obj-row.lose span{font-size:17px;font-weight:700;color:#ffb3a3}
+.obj-card small{display:block;margin-top:6px;font-size:11px;color:#c9b48a99}
+/* 撤退 -> 战役失败 banner (red, held), and the narrower HUD frames so the three buttons fit a phone's width. */
+.turn-banner.lost b{color:#ff8a70;text-shadow:0 2px 4px #000,0 0 22px #c0392b99}
+#battleHud .battle-actions{gap:6px!important}
+@container app (max-width:480px){#battleHud .art-btn img{height:32px!important}#battleHud .art-btn.text-btn span{font-size:15px}}
+/* The battle buttons sit below the status bar / Dynamic Island, as the corner music button does. When the game rotates
+   itself (data-rotate) the island is at the side of the rotated screen, so no top inset applies there. */
+/* The island itself ends about 11 pt above the safe-area line, so the row sits just under it rather than under the
+   whole status bar. */
+#battleHud,.topbar{top:max(6px,calc(env(safe-area-inset-top) - 6px))}
+html[data-rotate="90"] #battleHud,html[data-rotate="-90"] #battleHud{top:8px}
+html[data-rotate="90"] #toast,html[data-rotate="-90"] #toast{top:10px!important}
+html[data-rotate="90"] .topbar,html[data-rotate="-90"] .topbar{top:6px}
+/* Shop quantity: − ×n + 最多, with the total and held counts above. */
+.shop-qty{display:flex;align-items:center;gap:4px}
+.shop-qty .qty-btn{min-width:30px;min-height:30px;padding:0 6px;border:1px solid #8a6a3a;border-radius:6px;background:#f6ecd2;color:#3a2614;font:700 15px var(--ui-font);border-image:none}
+.shop-qty .qty-btn:disabled{opacity:.4}
+.shop-qty b{min-width:34px;text-align:center;font:700 16px var(--ui-font);color:#3a2614}
+.shop-held{display:block;margin:2px 0 4px;font-family:var(--ui-font);font-size:12px;color:#6b5434}
+
+/* Build number in the title screen's bottom-right corner, shown with the menu once the intro has played. */
+.build-tag{position:absolute;right:12px;bottom:max(10px,env(safe-area-inset-bottom));z-index:6;font:12px/1 -apple-system,"Helvetica Neue",sans-serif;letter-spacing:.04em;color:#f3e6c8b3;text-shadow:0 1px 2px #000c;pointer-events:none;opacity:0;transition:opacity 1s ease}
+.title-screen.intro-done .build-tag{opacity:1}

@@ -1,0 +1,20 @@
+{
+ "unseenBaseEvents": {
+  "1": [
+   "0x27"
+  ],
+  "17": [
+   "0x27"
+  ],
+  "23": [
+   "0x27"
+  ]
+ },
+ "cases": 28800,
+ "perStage": 800,
+ "seed": 13,
+ "mismatches": 0,
+ "casesFiringEvent": 16719,
+ "stageEventPairsObserved": 150,
+ "firstMismatches": []
+}

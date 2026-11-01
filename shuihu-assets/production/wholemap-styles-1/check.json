@@ -1,0 +1,142 @@
+{
+ "0600-pixel-hd": {
+  "judged": 360,
+  "flagged": 37,
+  "boundaryFlagged": 31,
+  "uncertain": 33,
+  "tileVersionFlagged": 13,
+  "tileVersionBoundaryFlagged": 11,
+  "medianShiftPx": 12.0,
+  "medianScore": 0.474,
+  "size": [
+   3072,
+   1920
+  ]
+ },
+ "0600-unreal": {
+  "judged": 360,
+  "flagged": 9,
+  "boundaryFlagged": 6,
+  "uncertain": 24,
+  "tileVersionFlagged": 26,
+  "tileVersionBoundaryFlagged": 23,
+  "medianShiftPx": 8.0,
+  "medianScore": 0.5,
+  "size": [
+   3072,
+   1920
+  ]
+ },
+ "0600-ghibli": {
+  "judged": 360,
+  "flagged": 10,
+  "boundaryFlagged": 10,
+  "uncertain": 29,
+  "tileVersionFlagged": 30,
+  "tileVersionBoundaryFlagged": 26,
+  "medianShiftPx": 0.0,
+  "medianScore": 0.536,
+  "size": [
+   3072,
+   1920
+  ]
+ },
+ "0600-gongbi": {
+  "judged": 360,
+  "flagged": 7,
+  "boundaryFlagged": 5,
+  "uncertain": 68,
+  "tileVersionFlagged": 13,
+  "tileVersionBoundaryFlagged": 11,
+  "medianShiftPx": 8.0,
+  "medianScore": 0.51,
+  "size": [
+   3072,
+   1920
+  ]
+ },
+ "0600-hd2d": {
+  "judged": 360,
+  "flagged": 15,
+  "boundaryFlagged": 12,
+  "uncertain": 32,
+  "tileVersionFlagged": 13,
+  "tileVersionBoundaryFlagged": 11,
+  "medianShiftPx": 8.0,
+  "medianScore": 0.4815,
+  "size": [
+   3072,
+   1920
+  ]
+ },
+ "0206-pixel-hd": {
+  "judged": 360,
+  "flagged": 0,
+  "boundaryFlagged": 0,
+  "uncertain": 240,
+  "tileVersionFlagged": 0,
+  "tileVersionBoundaryFlagged": 0,
+  "medianShiftPx": 6.0,
+  "medianScore": 0.1895,
+  "size": [
+   3072,
+   1920
+  ]
+ },
+ "0206-unreal": {
+  "judged": 360,
+  "flagged": 0,
+  "boundaryFlagged": 0,
+  "uncertain": 217,
+  "tileVersionFlagged": 0,
+  "tileVersionBoundaryFlagged": 0,
+  "medianShiftPx": 4.0,
+  "medianScore": 0.17149999999999999,
+  "size": [
+   3072,
+   1920
+  ]
+ },
+ "0206-ghibli": {
+  "judged": 360,
+  "flagged": 4,
+  "boundaryFlagged": 4,
+  "uncertain": 262,
+  "tileVersionFlagged": 0,
+  "tileVersionBoundaryFlagged": 0,
+  "medianShiftPx": 12.0,
+  "medianScore": 0.1765,
+  "size": [
+   3072,
+   1920
+  ]
+ },
+ "0206-gongbi": {
+  "judged": 360,
+  "flagged": 0,
+  "boundaryFlagged": 0,
+  "uncertain": 246,
+  "tileVersionFlagged": 0,
+  "tileVersionBoundaryFlagged": 0,
+  "medianShiftPx": 8.0,
+  "medianScore": 0.202,
+  "size": [
+   3072,
+   1920
+  ]
+ },
+ "0206-hd2d": {
+  "judged": 360,
+  "flagged": 0,
+  "boundaryFlagged": 0,
+  "uncertain": 209,
+  "tileVersionFlagged": 0,
+  "tileVersionBoundaryFlagged": 0,
+  "medianShiftPx": 0.0,
+  "medianScore": 0.272,
+  "size": [
+   3072,
+   1920
+  ]
+ }
+}

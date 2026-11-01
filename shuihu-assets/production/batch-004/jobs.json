@@ -1,0 +1,1518 @@
+[
+  {
+    "id": "character-100400-walk-v2",
+    "kind": "character",
+    "style": "shared-hd",
+    "size": "1024x1024",
+    "sourceId": "character-100400",
+    "frameCount": 9,
+    "columns": 3,
+    "rows": 3,
+    "sourceExtraFrames": 2,
+    "reference": "character-100400-reference.png"
+  },
+  {
+    "id": "items-001-016-hd",
+    "kind": "item-icons",
+    "style": "shared-hd",
+    "size": "1024x1024",
+    "items": [
+      {
+        "id": 1,
+        "name": "戒刀"
+      },
+      {
+        "id": 2,
+        "name": "青銅劍"
+      },
+      {
+        "id": 3,
+        "name": "玄鐵劍"
+      },
+      {
+        "id": 4,
+        "name": "八環刀"
+      },
+      {
+        "id": 5,
+        "name": "七星劍"
+      },
+      {
+        "id": 6,
+        "name": "斷日劍"
+      },
+      {
+        "id": 7,
+        "name": "無量刀"
+      },
+      {
+        "id": 8,
+        "name": "白虎長刀"
+      },
+      {
+        "id": 9,
+        "name": "倚天劍"
+      },
+      {
+        "id": 10,
+        "name": "千將神劍"
+      },
+      {
+        "id": 11,
+        "name": "莫邪戰刀"
+      },
+      {
+        "id": 12,
+        "name": "青釭神劍"
+      },
+      {
+        "id": 13,
+        "name": "巨闕神劍"
+      },
+      {
+        "id": 14,
+        "name": "鐵虎指"
+      },
+      {
+        "id": 15,
+        "name": "青龍爪"
+      },
+      {
+        "id": 16,
+        "name": "皮環手"
+      }
+    ],
+    "columns": 4,
+    "rows": 4
+  },
+  {
+    "id": "items-017-032-hd",
+    "kind": "item-icons",
+    "style": "shared-hd",
+    "size": "1024x1024",
+    "items": [
+      {
+        "id": 17,
+        "name": "毒爪"
+      },
+      {
+        "id": 18,
+        "name": "玄武鐵爪"
+      },
+      {
+        "id": 19,
+        "name": "金龍環手"
+      },
+      {
+        "id": 20,
+        "name": "仙霓護指"
+      },
+      {
+        "id": 21,
+        "name": "軒轅爪"
+      },
+      {
+        "id": 22,
+        "name": "柳木弓"
+      },
+      {
+        "id": 23,
+        "name": "大長弓"
+      },
+      {
+        "id": 24,
+        "name": "白鐵長弓"
+      },
+      {
+        "id": 25,
+        "name": "絕命弓"
+      },
+      {
+        "id": 26,
+        "name": "碧霞弓"
+      },
+      {
+        "id": 27,
+        "name": "穿天弓"
+      },
+      {
+        "id": 28,
+        "name": "黄金巨弓"
+      },
+      {
+        "id": 29,
+        "name": "后羿之弓"
+      },
+      {
+        "id": 30,
+        "name": "朱雀神弓"
+      },
+      {
+        "id": 31,
+        "name": "重鐵戢"
+      },
+      {
+        "id": 32,
+        "name": "秀花槍"
+      }
+    ],
+    "columns": 4,
+    "rows": 4
+  },
+  {
+    "id": "items-033-048-hd",
+    "kind": "item-icons",
+    "style": "shared-hd",
+    "size": "1024x1024",
+    "items": [
+      {
+        "id": 33,
+        "name": "蛇尖長矛"
+      },
+      {
+        "id": 34,
+        "name": "丈八長矛"
+      },
+      {
+        "id": 35,
+        "name": "七星槍"
+      },
+      {
+        "id": 36,
+        "name": "翻天戢"
+      },
+      {
+        "id": 37,
+        "name": "火尖槍"
+      },
+      {
+        "id": 38,
+        "name": "吼神矛"
+      },
+      {
+        "id": 39,
+        "name": "乾坤槍"
+      },
+      {
+        "id": 40,
+        "name": "風神戰矛"
+      },
+      {
+        "id": 41,
+        "name": "玄天戰戢"
+      },
+      {
+        "id": 42,
+        "name": "蚩尤神矛"
+      },
+      {
+        "id": 43,
+        "name": "燐火管"
+      },
+      {
+        "id": 44,
+        "name": "西來銃"
+      },
+      {
+        "id": 45,
+        "name": "金龍砲"
+      },
+      {
+        "id": 46,
+        "name": "南蠻火槍"
+      },
+      {
+        "id": 47,
+        "name": "掌中雷"
+      },
+      {
+        "id": 48,
+        "name": "雷公巨砲"
+      }
+    ],
+    "columns": 4,
+    "rows": 4
+  },
+  {
+    "id": "items-064-081-hd",
+    "kind": "item-icons",
+    "style": "shared-hd",
+    "size": "1024x1024",
+    "items": [
+      {
+        "id": 64,
+        "name": "洪水之書"
+      },
+      {
+        "id": 65,
+        "name": "烈火之書"
+      },
+      {
+        "id": 66,
+        "name": "落石之書"
+      },
+      {
+        "id": 67,
+        "name": "東風之書"
+      },
+      {
+        "id": 68,
+        "name": "紛雪之書"
+      },
+      {
+        "id": 69,
+        "name": "海嘯之書"
+      },
+      {
+        "id": 70,
+        "name": "落木之書"
+      },
+      {
+        "id": 71,
+        "name": "落雷之書"
+      },
+      {
+        "id": 72,
+        "name": "山崩計書"
+      },
+      {
+        "id": 73,
+        "name": "孫子兵法"
+      },
+      {
+        "id": 74,
+        "name": "鬼谷子書"
+      },
+      {
+        "id": 75,
+        "name": "臥龍兵書"
+      },
+      {
+        "id": 76,
+        "name": "劇毒草"
+      },
+      {
+        "id": 77,
+        "name": "金炙針"
+      },
+      {
+        "id": 80,
+        "name": "蠱毒咒"
+      },
+      {
+        "id": 81,
+        "name": "迷亂咒"
+      }
+    ],
+    "columns": 4,
+    "rows": 4
+  },
+  {
+    "id": "items-082-102-hd",
+    "kind": "item-icons",
+    "style": "shared-hd",
+    "size": "1024x1024",
+    "items": [
+      {
+        "id": 82,
+        "name": "虛弱咒"
+      },
+      {
+        "id": 83,
+        "name": "破甲咒"
+      },
+      {
+        "id": 84,
+        "name": "奇門遁甲"
+      },
+      {
+        "id": 85,
+        "name": "五行法帖"
+      },
+      {
+        "id": 86,
+        "name": "水降神"
+      },
+      {
+        "id": 87,
+        "name": "火降神"
+      },
+      {
+        "id": 88,
+        "name": "風降神"
+      },
+      {
+        "id": 89,
+        "name": "土降神"
+      },
+      {
+        "id": 90,
+        "name": "桃木劍"
+      },
+      {
+        "id": 96,
+        "name": "刀傷藥典"
+      },
+      {
+        "id": 97,
+        "name": "快癒藥引"
+      },
+      {
+        "id": 98,
+        "name": "金創藥方"
+      },
+      {
+        "id": 99,
+        "name": "化毒綱目"
+      },
+      {
+        "id": 100,
+        "name": "回神藥方"
+      },
+      {
+        "id": 101,
+        "name": "異常傷典"
+      },
+      {
+        "id": 102,
+        "name": "眾傷醫書"
+      }
+    ],
+    "columns": 4,
+    "rows": 4
+  },
+  {
+    "id": "items-103-123-hd",
+    "kind": "item-icons",
+    "style": "shared-hd",
+    "size": "1024x1024",
+    "items": [
+      {
+        "id": 103,
+        "name": "回生藥典"
+      },
+      {
+        "id": 104,
+        "name": "轉生之書"
+      },
+      {
+        "id": 112,
+        "name": "三略兵法"
+      },
+      {
+        "id": 113,
+        "name": "六韜兵法"
+      },
+      {
+        "id": 114,
+        "name": "吳子兵法"
+      },
+      {
+        "id": 115,
+        "name": "孟德新書"
+      },
+      {
+        "id": 116,
+        "name": "弓術指南"
+      },
+      {
+        "id": 117,
+        "name": "盗藝之書"
+      },
+      {
+        "id": 118,
+        "name": "戰國策"
+      },
+      {
+        "id": 119,
+        "name": "朱雀羽鞋"
+      },
+      {
+        "id": 120,
+        "name": "玄武水鞋"
+      },
+      {
+        "id": 121,
+        "name": "護身符"
+      },
+      {
+        "id": 122,
+        "name": "達摩草鞋"
+      },
+      {
+        "id": 123,
+        "name": "散體符"
+      }
+    ],
+    "columns": 4,
+    "rows": 4
+  },
+  {
+    "id": "ui-battle-hd",
+    "kind": "interface",
+    "style": "shared-hd",
+    "size": "1536x1024",
+    "sourceId": "ui-battle"
+  },
+  {
+    "id": "ui-buttons-hd",
+    "kind": "interface",
+    "style": "shared-hd",
+    "size": "1536x1024",
+    "sourceId": "ui-buttons"
+  },
+  {
+    "id": "ui-character-status-hd",
+    "kind": "interface",
+    "style": "shared-hd",
+    "size": "1024x1024",
+    "sourceId": "ui-character-status"
+  },
+  {
+    "id": "ui-dialogue-hd",
+    "kind": "interface",
+    "style": "shared-hd",
+    "size": "1536x1024",
+    "sourceId": "ui-dialogue"
+  },
+  {
+    "id": "ui-inventory-hd",
+    "kind": "interface",
+    "style": "shared-hd",
+    "size": "1024x1024",
+    "sourceId": "ui-inventory"
+  },
+  {
+    "id": "ui-save-load-hd",
+    "kind": "interface",
+    "style": "shared-hd",
+    "size": "1024x1024",
+    "sourceId": "ui-save-load"
+  },
+  {
+    "id": "ui-settings-hd",
+    "kind": "interface",
+    "style": "shared-hd",
+    "size": "1024x1024",
+    "sourceId": "ui-settings"
+  },
+  {
+    "id": "ui-shop-hd",
+    "kind": "interface",
+    "style": "shared-hd",
+    "size": "1024x1024",
+    "sourceId": "ui-shop"
+  },
+  {
+    "id": "portrait-160a38-hd",
+    "kind": "portrait",
+    "style": "shared-hd",
+    "size": "1024x1024",
+    "sourceId": "portrait-160a38",
+    "reference": "portrait-160a38-reference.png"
+  },
+  {
+    "id": "portrait-160eb8-hd",
+    "kind": "portrait",
+    "style": "shared-hd",
+    "size": "1024x1024",
+    "sourceId": "portrait-160eb8",
+    "reference": "portrait-160eb8-reference.png"
+  },
+  {
+    "id": "portrait-161338-hd",
+    "kind": "portrait",
+    "style": "shared-hd",
+    "size": "1024x1024",
+    "sourceId": "portrait-161338",
+    "reference": "portrait-161338-reference.png"
+  },
+  {
+    "id": "portrait-1617b8-hd",
+    "kind": "portrait",
+    "style": "shared-hd",
+    "size": "1024x1024",
+    "sourceId": "portrait-1617b8",
+    "reference": "portrait-1617b8-reference.png"
+  },
+  {
+    "id": "portrait-161c38-hd",
+    "kind": "portrait",
+    "style": "shared-hd",
+    "size": "1024x1024",
+    "sourceId": "portrait-161c38",
+    "reference": "portrait-161c38-reference.png"
+  },
+  {
+    "id": "portrait-1620b8-hd",
+    "kind": "portrait",
+    "style": "shared-hd",
+    "size": "1024x1024",
+    "sourceId": "portrait-1620b8",
+    "reference": "portrait-1620b8-reference.png"
+  },
+  {
+    "id": "portrait-162538-hd",
+    "kind": "portrait",
+    "style": "shared-hd",
+    "size": "1024x1024",
+    "sourceId": "portrait-162538",
+    "reference": "portrait-162538-reference.png"
+  },
+  {
+    "id": "portrait-1629b8-hd",
+    "kind": "portrait",
+    "style": "shared-hd",
+    "size": "1024x1024",
+    "sourceId": "portrait-1629b8",
+    "reference": "portrait-1629b8-reference.png"
+  },
+  {
+    "id": "portrait-162e38-hd",
+    "kind": "portrait",
+    "style": "shared-hd",
+    "size": "1024x1024",
+    "sourceId": "portrait-162e38",
+    "reference": "portrait-162e38-reference.png"
+  },
+  {
+    "id": "portrait-1632b8-hd",
+    "kind": "portrait",
+    "style": "shared-hd",
+    "size": "1024x1024",
+    "sourceId": "portrait-1632b8",
+    "reference": "portrait-1632b8-reference.png"
+  },
+  {
+    "id": "portrait-163738-hd",
+    "kind": "portrait",
+    "style": "shared-hd",
+    "size": "1024x1024",
+    "sourceId": "portrait-163738",
+    "reference": "portrait-163738-reference.png"
+  },
+  {
+    "id": "portrait-163bb8-hd",
+    "kind": "portrait",
+    "style": "shared-hd",
+    "size": "1024x1024",
+    "sourceId": "portrait-163bb8",
+    "reference": "portrait-163bb8-reference.png"
+  },
+  {
+    "id": "portrait-164038-hd",
+    "kind": "portrait",
+    "style": "shared-hd",
+    "size": "1024x1024",
+    "sourceId": "portrait-164038",
+    "reference": "portrait-164038-reference.png"
+  },
+  {
+    "id": "portrait-1644b8-hd",
+    "kind": "portrait",
+    "style": "shared-hd",
+    "size": "1024x1024",
+    "sourceId": "portrait-1644b8",
+    "reference": "portrait-1644b8-reference.png"
+  },
+  {
+    "id": "portrait-164938-hd",
+    "kind": "portrait",
+    "style": "shared-hd",
+    "size": "1024x1024",
+    "sourceId": "portrait-164938",
+    "reference": "portrait-164938-reference.png"
+  },
+  {
+    "id": "portrait-164db8-hd",
+    "kind": "portrait",
+    "style": "shared-hd",
+    "size": "1024x1024",
+    "sourceId": "portrait-164db8",
+    "reference": "portrait-164db8-reference.png"
+  },
+  {
+    "id": "portrait-165238-hd",
+    "kind": "portrait",
+    "style": "shared-hd",
+    "size": "1024x1024",
+    "sourceId": "portrait-165238",
+    "reference": "portrait-165238-reference.png"
+  },
+  {
+    "id": "portrait-1656b8-hd",
+    "kind": "portrait",
+    "style": "shared-hd",
+    "size": "1024x1024",
+    "sourceId": "portrait-1656b8",
+    "reference": "portrait-1656b8-reference.png"
+  },
+  {
+    "id": "portrait-165b38-hd",
+    "kind": "portrait",
+    "style": "shared-hd",
+    "size": "1024x1024",
+    "sourceId": "portrait-165b38",
+    "reference": "portrait-165b38-reference.png"
+  },
+  {
+    "id": "portrait-165fb8-hd",
+    "kind": "portrait",
+    "style": "shared-hd",
+    "size": "1024x1024",
+    "sourceId": "portrait-165fb8",
+    "reference": "portrait-165fb8-reference.png"
+  },
+  {
+    "id": "portrait-166438-hd",
+    "kind": "portrait",
+    "style": "shared-hd",
+    "size": "1024x1024",
+    "sourceId": "portrait-166438",
+    "reference": "portrait-166438-reference.png"
+  },
+  {
+    "id": "portrait-1668b8-hd",
+    "kind": "portrait",
+    "style": "shared-hd",
+    "size": "1024x1024",
+    "sourceId": "portrait-1668b8",
+    "reference": "portrait-1668b8-reference.png"
+  },
+  {
+    "id": "portrait-166d38-hd",
+    "kind": "portrait",
+    "style": "shared-hd",
+    "size": "1024x1024",
+    "sourceId": "portrait-166d38",
+    "reference": "portrait-166d38-reference.png"
+  },
+  {
+    "id": "portrait-1671b8-hd",
+    "kind": "portrait",
+    "style": "shared-hd",
+    "size": "1024x1024",
+    "sourceId": "portrait-1671b8",
+    "reference": "portrait-1671b8-reference.png"
+  },
+  {
+    "id": "portrait-167638-hd",
+    "kind": "portrait",
+    "style": "shared-hd",
+    "size": "1024x1024",
+    "sourceId": "portrait-167638",
+    "reference": "portrait-167638-reference.png"
+  },
+  {
+    "id": "portrait-167ab8-hd",
+    "kind": "portrait",
+    "style": "shared-hd",
+    "size": "1024x1024",
+    "sourceId": "portrait-167ab8",
+    "reference": "portrait-167ab8-reference.png"
+  },
+  {
+    "id": "portrait-167f38-hd",
+    "kind": "portrait",
+    "style": "shared-hd",
+    "size": "1024x1024",
+    "sourceId": "portrait-167f38",
+    "reference": "portrait-167f38-reference.png"
+  },
+  {
+    "id": "portrait-1683b8-hd",
+    "kind": "portrait",
+    "style": "shared-hd",
+    "size": "1024x1024",
+    "sourceId": "portrait-1683b8",
+    "reference": "portrait-1683b8-reference.png"
+  },
+  {
+    "id": "portrait-168838-hd",
+    "kind": "portrait",
+    "style": "shared-hd",
+    "size": "1024x1024",
+    "sourceId": "portrait-168838",
+    "reference": "portrait-168838-reference.png"
+  },
+  {
+    "id": "portrait-168cb8-hd",
+    "kind": "portrait",
+    "style": "shared-hd",
+    "size": "1024x1024",
+    "sourceId": "portrait-168cb8",
+    "reference": "portrait-168cb8-reference.png"
+  },
+  {
+    "id": "portrait-169138-hd",
+    "kind": "portrait",
+    "style": "shared-hd",
+    "size": "1024x1024",
+    "sourceId": "portrait-169138",
+    "reference": "portrait-169138-reference.png"
+  },
+  {
+    "id": "portrait-1695b8-hd",
+    "kind": "portrait",
+    "style": "shared-hd",
+    "size": "1024x1024",
+    "sourceId": "portrait-1695b8",
+    "reference": "portrait-1695b8-reference.png"
+  },
+  {
+    "id": "portrait-169a38-hd",
+    "kind": "portrait",
+    "style": "shared-hd",
+    "size": "1024x1024",
+    "sourceId": "portrait-169a38",
+    "reference": "portrait-169a38-reference.png"
+  },
+  {
+    "id": "portrait-169eb8-hd",
+    "kind": "portrait",
+    "style": "shared-hd",
+    "size": "1024x1024",
+    "sourceId": "portrait-169eb8",
+    "reference": "portrait-169eb8-reference.png"
+  },
+  {
+    "id": "portrait-16a338-hd",
+    "kind": "portrait",
+    "style": "shared-hd",
+    "size": "1024x1024",
+    "sourceId": "portrait-16a338",
+    "reference": "portrait-16a338-reference.png"
+  },
+  {
+    "id": "portrait-16a7b8-hd",
+    "kind": "portrait",
+    "style": "shared-hd",
+    "size": "1024x1024",
+    "sourceId": "portrait-16a7b8",
+    "reference": "portrait-16a7b8-reference.png"
+  },
+  {
+    "id": "portrait-16ac38-hd",
+    "kind": "portrait",
+    "style": "shared-hd",
+    "size": "1024x1024",
+    "sourceId": "portrait-16ac38",
+    "reference": "portrait-16ac38-reference.png"
+  },
+  {
+    "id": "portrait-16b0b8-hd",
+    "kind": "portrait",
+    "style": "shared-hd",
+    "size": "1024x1024",
+    "sourceId": "portrait-16b0b8",
+    "reference": "portrait-16b0b8-reference.png"
+  },
+  {
+    "id": "character-101a00-walk-v2",
+    "kind": "character",
+    "style": "shared-hd",
+    "size": "1024x1024",
+    "sourceId": "character-101a00",
+    "frameCount": 9,
+    "columns": 3,
+    "rows": 3,
+    "sourceExtraFrames": 2,
+    "reference": "character-101a00-reference.png"
+  },
+  {
+    "id": "character-103000-walk-v2",
+    "kind": "character",
+    "style": "shared-hd",
+    "size": "1024x1024",
+    "sourceId": "character-103000",
+    "frameCount": 9,
+    "columns": 3,
+    "rows": 3,
+    "sourceExtraFrames": 2,
+    "reference": "character-103000-reference.png"
+  },
+  {
+    "id": "character-104600-walk-v2",
+    "kind": "character",
+    "style": "shared-hd",
+    "size": "1024x1024",
+    "sourceId": "character-104600",
+    "frameCount": 9,
+    "columns": 3,
+    "rows": 3,
+    "sourceExtraFrames": 2,
+    "reference": "character-104600-reference.png"
+  },
+  {
+    "id": "character-105c00-walk-v2",
+    "kind": "character",
+    "style": "shared-hd",
+    "size": "1024x1024",
+    "sourceId": "character-105c00",
+    "frameCount": 9,
+    "columns": 3,
+    "rows": 3,
+    "sourceExtraFrames": 2,
+    "reference": "character-105c00-reference.png"
+  },
+  {
+    "id": "character-107200-walk-v2",
+    "kind": "character",
+    "style": "shared-hd",
+    "size": "1024x1024",
+    "sourceId": "character-107200",
+    "frameCount": 9,
+    "columns": 3,
+    "rows": 3,
+    "sourceExtraFrames": 2,
+    "reference": "character-107200-reference.png"
+  },
+  {
+    "id": "character-108800-walk-v2",
+    "kind": "character",
+    "style": "shared-hd",
+    "size": "1024x1024",
+    "sourceId": "character-108800",
+    "frameCount": 9,
+    "columns": 3,
+    "rows": 3,
+    "sourceExtraFrames": 2,
+    "reference": "character-108800-reference.png"
+  },
+  {
+    "id": "character-109e00-walk-v2",
+    "kind": "character",
+    "style": "shared-hd",
+    "size": "1024x1024",
+    "sourceId": "character-109e00",
+    "frameCount": 9,
+    "columns": 3,
+    "rows": 3,
+    "sourceExtraFrames": 2,
+    "reference": "character-109e00-reference.png"
+  },
+  {
+    "id": "character-10b400-walk-v2",
+    "kind": "character",
+    "style": "shared-hd",
+    "size": "1024x1024",
+    "sourceId": "character-10b400",
+    "frameCount": 9,
+    "columns": 3,
+    "rows": 3,
+    "sourceExtraFrames": 2,
+    "reference": "character-10b400-reference.png"
+  },
+  {
+    "id": "character-10ca00-walk-v2",
+    "kind": "character",
+    "style": "shared-hd",
+    "size": "1024x1024",
+    "sourceId": "character-10ca00",
+    "frameCount": 9,
+    "columns": 3,
+    "rows": 3,
+    "sourceExtraFrames": 2,
+    "reference": "character-10ca00-reference.png"
+  },
+  {
+    "id": "character-10e000-walk-v2",
+    "kind": "character",
+    "style": "shared-hd",
+    "size": "1024x1024",
+    "sourceId": "character-10e000",
+    "frameCount": 9,
+    "columns": 3,
+    "rows": 3,
+    "sourceExtraFrames": 2,
+    "reference": "character-10e000-reference.png"
+  },
+  {
+    "id": "character-10f600-walk-v2",
+    "kind": "character",
+    "style": "shared-hd",
+    "size": "1024x1024",
+    "sourceId": "character-10f600",
+    "frameCount": 9,
+    "columns": 3,
+    "rows": 3,
+    "sourceExtraFrames": 2,
+    "reference": "character-10f600-reference.png"
+  },
+  {
+    "id": "character-110c00-walk-v2",
+    "kind": "character",
+    "style": "shared-hd",
+    "size": "1024x1024",
+    "sourceId": "character-110c00",
+    "frameCount": 9,
+    "columns": 3,
+    "rows": 3,
+    "sourceExtraFrames": 2,
+    "reference": "character-110c00-reference.png"
+  },
+  {
+    "id": "character-112200-walk-v2",
+    "kind": "character",
+    "style": "shared-hd",
+    "size": "1024x1024",
+    "sourceId": "character-112200",
+    "frameCount": 9,
+    "columns": 3,
+    "rows": 3,
+    "sourceExtraFrames": 2,
+    "reference": "character-112200-reference.png"
+  },
+  {
+    "id": "character-113800-walk-v2",
+    "kind": "character",
+    "style": "shared-hd",
+    "size": "1024x1024",
+    "sourceId": "character-113800",
+    "frameCount": 9,
+    "columns": 3,
+    "rows": 3,
+    "sourceExtraFrames": 2,
+    "reference": "character-113800-reference.png"
+  },
+  {
+    "id": "character-114e00-walk-v2",
+    "kind": "character",
+    "style": "shared-hd",
+    "size": "1024x1024",
+    "sourceId": "character-114e00",
+    "frameCount": 9,
+    "columns": 3,
+    "rows": 3,
+    "sourceExtraFrames": 2,
+    "reference": "character-114e00-reference.png"
+  },
+  {
+    "id": "character-116400-walk-v2",
+    "kind": "character",
+    "style": "shared-hd",
+    "size": "1024x1024",
+    "sourceId": "character-116400",
+    "frameCount": 9,
+    "columns": 3,
+    "rows": 3,
+    "sourceExtraFrames": 2,
+    "reference": "character-116400-reference.png"
+  },
+  {
+    "id": "character-117a00-walk-v2",
+    "kind": "character",
+    "style": "shared-hd",
+    "size": "1024x1024",
+    "sourceId": "character-117a00",
+    "frameCount": 9,
+    "columns": 3,
+    "rows": 3,
+    "sourceExtraFrames": 2,
+    "reference": "character-117a00-reference.png"
+  },
+  {
+    "id": "character-119000-walk-v2",
+    "kind": "character",
+    "style": "shared-hd",
+    "size": "1024x1024",
+    "sourceId": "character-119000",
+    "frameCount": 9,
+    "columns": 3,
+    "rows": 3,
+    "sourceExtraFrames": 2,
+    "reference": "character-119000-reference.png"
+  },
+  {
+    "id": "character-11a600-walk-v2",
+    "kind": "character",
+    "style": "shared-hd",
+    "size": "1024x1024",
+    "sourceId": "character-11a600",
+    "frameCount": 9,
+    "columns": 3,
+    "rows": 3,
+    "sourceExtraFrames": 2,
+    "reference": "character-11a600-reference.png"
+  },
+  {
+    "id": "character-11bc00-walk-v2",
+    "kind": "character",
+    "style": "shared-hd",
+    "size": "1024x1024",
+    "sourceId": "character-11bc00",
+    "frameCount": 9,
+    "columns": 3,
+    "rows": 3,
+    "sourceExtraFrames": 2,
+    "reference": "character-11bc00-reference.png"
+  },
+  {
+    "id": "character-11d200-walk-v2",
+    "kind": "character",
+    "style": "shared-hd",
+    "size": "1024x1024",
+    "sourceId": "character-11d200",
+    "frameCount": 9,
+    "columns": 3,
+    "rows": 3,
+    "sourceExtraFrames": 2,
+    "reference": "character-11d200-reference.png"
+  },
+  {
+    "id": "character-11e800-walk-v2",
+    "kind": "character",
+    "style": "shared-hd",
+    "size": "1024x1024",
+    "sourceId": "character-11e800",
+    "frameCount": 9,
+    "columns": 3,
+    "rows": 3,
+    "sourceExtraFrames": 3,
+    "reference": "character-11e800-reference.png"
+  },
+  {
+    "id": "character-120000-walk-v2",
+    "kind": "character",
+    "style": "shared-hd",
+    "size": "1024x1024",
+    "sourceId": "character-120000",
+    "frameCount": 9,
+    "columns": 3,
+    "rows": 3,
+    "sourceExtraFrames": 2,
+    "reference": "character-120000-reference.png"
+  },
+  {
+    "id": "character-121600-walk-v2",
+    "kind": "character",
+    "style": "shared-hd",
+    "size": "1024x1024",
+    "sourceId": "character-121600",
+    "frameCount": 9,
+    "columns": 3,
+    "rows": 3,
+    "sourceExtraFrames": 2,
+    "reference": "character-121600-reference.png"
+  },
+  {
+    "id": "character-122c00-walk-v2",
+    "kind": "character",
+    "style": "shared-hd",
+    "size": "1024x1024",
+    "sourceId": "character-122c00",
+    "frameCount": 9,
+    "columns": 3,
+    "rows": 3,
+    "sourceExtraFrames": 2,
+    "reference": "character-122c00-reference.png"
+  },
+  {
+    "id": "character-124200-walk-v2",
+    "kind": "character",
+    "style": "shared-hd",
+    "size": "1024x1024",
+    "sourceId": "character-124200",
+    "frameCount": 9,
+    "columns": 3,
+    "rows": 3,
+    "sourceExtraFrames": 2,
+    "reference": "character-124200-reference.png"
+  },
+  {
+    "id": "character-125800-walk-v2",
+    "kind": "character",
+    "style": "shared-hd",
+    "size": "1024x1024",
+    "sourceId": "character-125800",
+    "frameCount": 9,
+    "columns": 3,
+    "rows": 3,
+    "sourceExtraFrames": 2,
+    "reference": "character-125800-reference.png"
+  },
+  {
+    "id": "character-126e00-walk-v2",
+    "kind": "character",
+    "style": "shared-hd",
+    "size": "1024x1024",
+    "sourceId": "character-126e00",
+    "frameCount": 9,
+    "columns": 3,
+    "rows": 3,
+    "sourceExtraFrames": 2,
+    "reference": "character-126e00-reference.png"
+  },
+  {
+    "id": "character-128400-walk-v2",
+    "kind": "character",
+    "style": "shared-hd",
+    "size": "1024x1024",
+    "sourceId": "character-128400",
+    "frameCount": 9,
+    "columns": 3,
+    "rows": 3,
+    "sourceExtraFrames": 2,
+    "reference": "character-128400-reference.png"
+  },
+  {
+    "id": "character-129a00-walk-v2",
+    "kind": "character",
+    "style": "shared-hd",
+    "size": "1024x1024",
+    "sourceId": "character-129a00",
+    "frameCount": 9,
+    "columns": 3,
+    "rows": 3,
+    "sourceExtraFrames": 2,
+    "reference": "character-129a00-reference.png"
+  },
+  {
+    "id": "character-12b000-walk-v2",
+    "kind": "character",
+    "style": "shared-hd",
+    "size": "1024x1024",
+    "sourceId": "character-12b000",
+    "frameCount": 9,
+    "columns": 3,
+    "rows": 3,
+    "sourceExtraFrames": 2,
+    "reference": "character-12b000-reference.png"
+  },
+  {
+    "id": "character-12c600-walk-v2",
+    "kind": "character",
+    "style": "shared-hd",
+    "size": "1024x1024",
+    "sourceId": "character-12c600",
+    "frameCount": 9,
+    "columns": 3,
+    "rows": 3,
+    "sourceExtraFrames": 2,
+    "reference": "character-12c600-reference.png"
+  },
+  {
+    "id": "character-12dc00-walk-v2",
+    "kind": "character",
+    "style": "shared-hd",
+    "size": "1024x1024",
+    "sourceId": "character-12dc00",
+    "frameCount": 9,
+    "columns": 3,
+    "rows": 3,
+    "sourceExtraFrames": 2,
+    "reference": "character-12dc00-reference.png"
+  },
+  {
+    "id": "character-12f200-walk-v2",
+    "kind": "character",
+    "style": "shared-hd",
+    "size": "1024x1024",
+    "sourceId": "character-12f200",
+    "frameCount": 9,
+    "columns": 3,
+    "rows": 3,
+    "sourceExtraFrames": 2,
+    "reference": "character-12f200-reference.png"
+  },
+  {
+    "id": "character-130800-walk-v2",
+    "kind": "character",
+    "style": "shared-hd",
+    "size": "1024x1024",
+    "sourceId": "character-130800",
+    "frameCount": 9,
+    "columns": 3,
+    "rows": 3,
+    "sourceExtraFrames": 2,
+    "reference": "character-130800-reference.png"
+  },
+  {
+    "id": "character-131e00-walk-v2",
+    "kind": "character",
+    "style": "shared-hd",
+    "size": "1024x1024",
+    "sourceId": "character-131e00",
+    "frameCount": 9,
+    "columns": 3,
+    "rows": 3,
+    "sourceExtraFrames": 2,
+    "reference": "character-131e00-reference.png"
+  },
+  {
+    "id": "character-133400-walk-v2",
+    "kind": "character",
+    "style": "shared-hd",
+    "size": "1024x1024",
+    "sourceId": "character-133400",
+    "frameCount": 9,
+    "columns": 3,
+    "rows": 3,
+    "sourceExtraFrames": 2,
+    "reference": "character-133400-reference.png"
+  },
+  {
+    "id": "character-134a00-walk-v2",
+    "kind": "character",
+    "style": "shared-hd",
+    "size": "1024x1024",
+    "sourceId": "character-134a00",
+    "frameCount": 9,
+    "columns": 3,
+    "rows": 3,
+    "sourceExtraFrames": 2,
+    "reference": "character-134a00-reference.png"
+  },
+  {
+    "id": "character-136000-walk-v2",
+    "kind": "character",
+    "style": "shared-hd",
+    "size": "1024x1024",
+    "sourceId": "character-136000",
+    "frameCount": 9,
+    "columns": 3,
+    "rows": 3,
+    "sourceExtraFrames": 2,
+    "reference": "character-136000-reference.png"
+  },
+  {
+    "id": "character-137600-walk-v2",
+    "kind": "character",
+    "style": "shared-hd",
+    "size": "1024x1024",
+    "sourceId": "character-137600",
+    "frameCount": 9,
+    "columns": 3,
+    "rows": 3,
+    "sourceExtraFrames": 2,
+    "reference": "character-137600-reference.png"
+  },
+  {
+    "id": "character-138c00-walk-v2",
+    "kind": "character",
+    "style": "shared-hd",
+    "size": "1024x1024",
+    "sourceId": "character-138c00",
+    "frameCount": 9,
+    "columns": 3,
+    "rows": 3,
+    "sourceExtraFrames": 2,
+    "reference": "character-138c00-reference.png"
+  },
+  {
+    "id": "character-13a200-walk-v2",
+    "kind": "character",
+    "style": "shared-hd",
+    "size": "1024x1024",
+    "sourceId": "character-13a200",
+    "frameCount": 9,
+    "columns": 3,
+    "rows": 3,
+    "sourceExtraFrames": 2,
+    "reference": "character-13a200-reference.png"
+  },
+  {
+    "id": "character-13b800-walk-v2",
+    "kind": "character",
+    "style": "shared-hd",
+    "size": "1024x1024",
+    "sourceId": "character-13b800",
+    "frameCount": 9,
+    "columns": 3,
+    "rows": 3,
+    "sourceExtraFrames": 2,
+    "reference": "character-13b800-reference.png"
+  },
+  {
+    "id": "character-13ce00-walk-v2",
+    "kind": "character",
+    "style": "shared-hd",
+    "size": "1024x1024",
+    "sourceId": "character-13ce00",
+    "frameCount": 9,
+    "columns": 3,
+    "rows": 3,
+    "sourceExtraFrames": 2,
+    "reference": "character-13ce00-reference.png"
+  },
+  {
+    "id": "character-13e400-walk-v2",
+    "kind": "character",
+    "style": "shared-hd",
+    "size": "1024x1024",
+    "sourceId": "character-13e400",
+    "frameCount": 9,
+    "columns": 3,
+    "rows": 3,
+    "sourceExtraFrames": 5,
+    "reference": "character-13e400-reference.png"
+  },
+  {
+    "id": "character-140000-walk-v2",
+    "kind": "character",
+    "style": "shared-hd",
+    "size": "1024x1024",
+    "sourceId": "character-140000",
+    "frameCount": 9,
+    "columns": 3,
+    "rows": 3,
+    "sourceExtraFrames": 2,
+    "reference": "character-140000-reference.png"
+  },
+  {
+    "id": "character-141600-walk-v2",
+    "kind": "character",
+    "style": "shared-hd",
+    "size": "1024x1024",
+    "sourceId": "character-141600",
+    "frameCount": 9,
+    "columns": 3,
+    "rows": 3,
+    "sourceExtraFrames": 2,
+    "reference": "character-141600-reference.png"
+  },
+  {
+    "id": "character-142c00-walk-v2",
+    "kind": "character",
+    "style": "shared-hd",
+    "size": "1024x1024",
+    "sourceId": "character-142c00",
+    "frameCount": 9,
+    "columns": 3,
+    "rows": 3,
+    "sourceExtraFrames": 2,
+    "reference": "character-142c00-reference.png"
+  },
+  {
+    "id": "character-144200-walk-v2",
+    "kind": "character",
+    "style": "shared-hd",
+    "size": "1024x1024",
+    "sourceId": "character-144200",
+    "frameCount": 9,
+    "columns": 3,
+    "rows": 3,
+    "sourceExtraFrames": 2,
+    "reference": "character-144200-reference.png"
+  },
+  {
+    "id": "character-145800-walk-v2",
+    "kind": "character",
+    "style": "shared-hd",
+    "size": "1024x1024",
+    "sourceId": "character-145800",
+    "frameCount": 9,
+    "columns": 3,
+    "rows": 3,
+    "sourceExtraFrames": 2,
+    "reference": "character-145800-reference.png"
+  },
+  {
+    "id": "character-146e00-walk-v2",
+    "kind": "character",
+    "style": "shared-hd",
+    "size": "1024x1024",
+    "sourceId": "character-146e00",
+    "frameCount": 9,
+    "columns": 3,
+    "rows": 3,
+    "sourceExtraFrames": 2,
+    "reference": "character-146e00-reference.png"
+  },
+  {
+    "id": "character-148400-walk-v2",
+    "kind": "character",
+    "style": "shared-hd",
+    "size": "1024x1024",
+    "sourceId": "character-148400",
+    "frameCount": 9,
+    "columns": 3,
+    "rows": 3,
+    "sourceExtraFrames": 2,
+    "reference": "character-148400-reference.png"
+  },
+  {
+    "id": "character-149a00-walk-v2",
+    "kind": "character",
+    "style": "shared-hd",
+    "size": "1024x1024",
+    "sourceId": "character-149a00",
+    "frameCount": 9,
+    "columns": 3,
+    "rows": 3,
+    "sourceExtraFrames": 2,
+    "reference": "character-149a00-reference.png"
+  },
+  {
+    "id": "character-14b000-walk-v2",
+    "kind": "character",
+    "style": "shared-hd",
+    "size": "1024x1024",
+    "sourceId": "character-14b000",
+    "frameCount": 9,
+    "columns": 3,
+    "rows": 3,
+    "sourceExtraFrames": 2,
+    "reference": "character-14b000-reference.png"
+  },
+  {
+    "id": "character-14c600-walk-v2",
+    "kind": "character",
+    "style": "shared-hd",
+    "size": "1024x1024",
+    "sourceId": "character-14c600",
+    "frameCount": 9,
+    "columns": 3,
+    "rows": 3,
+    "sourceExtraFrames": 2,
+    "reference": "character-14c600-reference.png"
+  },
+  {
+    "id": "character-14dc00-walk-v2",
+    "kind": "character",
+    "style": "shared-hd",
+    "size": "1024x1024",
+    "sourceId": "character-14dc00",
+    "frameCount": 9,
+    "columns": 3,
+    "rows": 3,
+    "sourceExtraFrames": 2,
+    "reference": "character-14dc00-reference.png"
+  },
+  {
+    "id": "character-14f200-walk-v2",
+    "kind": "character",
+    "style": "shared-hd",
+    "size": "1024x1024",
+    "sourceId": "character-14f200",
+    "frameCount": 9,
+    "columns": 3,
+    "rows": 3,
+    "sourceExtraFrames": 2,
+    "reference": "character-14f200-reference.png"
+  },
+  {
+    "id": "character-150800-walk-v2",
+    "kind": "character",
+    "style": "shared-hd",
+    "size": "1024x1024",
+    "sourceId": "character-150800",
+    "frameCount": 9,
+    "columns": 3,
+    "rows": 3,
+    "sourceExtraFrames": 2,
+    "reference": "character-150800-reference.png"
+  },
+  {
+    "id": "character-151e00-walk-v2",
+    "kind": "character",
+    "style": "shared-hd",
+    "size": "1024x1024",
+    "sourceId": "character-151e00",
+    "frameCount": 9,
+    "columns": 3,
+    "rows": 3,
+    "sourceExtraFrames": 2,
+    "reference": "character-151e00-reference.png"
+  }
+]

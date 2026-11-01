@@ -1,0 +1,79 @@
+[
+  {
+    "label": "damage_0",
+    "attack": 40,
+    "defense": 10,
+    "attacker_class": 0,
+    "target_class": 0,
+    "halve_attack": 0,
+    "halve_defense": 0,
+    "mode": 0,
+    "skill": 1
+  },
+  {
+    "label": "damage_1",
+    "attack": 40,
+    "defense": 10,
+    "attacker_class": 0,
+    "target_class": 1,
+    "halve_attack": 0,
+    "halve_defense": 0,
+    "mode": 0,
+    "skill": 1
+  },
+  {
+    "label": "damage_2",
+    "attack": 40,
+    "defense": 10,
+    "attacker_class": 0,
+    "target_class": 4,
+    "halve_attack": 0,
+    "halve_defense": 0,
+    "mode": 0,
+    "skill": 1
+  },
+  {
+    "label": "damage_3",
+    "attack": 40,
+    "defense": 10,
+    "attacker_class": 0,
+    "target_class": 4,
+    "halve_attack": 1,
+    "halve_defense": 0,
+    "mode": 0,
+    "skill": 1
+  },
+  {
+    "label": "damage_4",
+    "attack": 40,
+    "defense": 10,
+    "attacker_class": 0,
+    "target_class": 4,
+    "halve_attack": 0,
+    "halve_defense": 1,
+    "mode": 0,
+    "skill": 1
+  },
+  {
+    "label": "damage_5",
+    "attack": 1,
+    "defense": 200,
+    "attacker_class": 0,
+    "target_class": 0,
+    "halve_attack": 0,
+    "halve_defense": 0,
+    "mode": 0,
+    "skill": 1
+  },
+  {
+    "label": "damage_6",
+    "attack": 40,
+    "defense": 10,
+    "attacker_class": 0,
+    "target_class": 4,
+    "halve_attack": 0,
+    "halve_defense": 0,
+    "mode": 1,
+    "skill": 64
+  }
+]

@@ -1,0 +1,1052 @@
+[
+  {
+    "id": 0,
+    "rom": "0xad5fa",
+    "raw_hex": "f00200b4ff",
+    "tokens": [
+      {
+        "offset": 0,
+        "type": "font_bank",
+        "bank": 0
+      },
+      {
+        "offset": 1,
+        "type": "glyph",
+        "bank": 0,
+        "code": 2
+      },
+      {
+        "offset": 2,
+        "type": "glyph",
+        "bank": 0,
+        "code": 0
+      },
+      {
+        "offset": 3,
+        "type": "glyph",
+        "bank": 0,
+        "code": 180
+      },
+      {
+        "offset": 4,
+        "type": "segment_end",
+        "continuation_byte": null
+      }
+    ]
+  },
+  {
+    "id": 1,
+    "rom": "0xad5ff",
+    "raw_hex": "f02e02b9ff",
+    "tokens": [
+      {
+        "offset": 0,
+        "type": "font_bank",
+        "bank": 0
+      },
+      {
+        "offset": 1,
+        "type": "glyph",
+        "bank": 0,
+        "code": 46
+      },
+      {
+        "offset": 2,
+        "type": "glyph",
+        "bank": 0,
+        "code": 2
+      },
+      {
+        "offset": 3,
+        "type": "glyph",
+        "bank": 0,
+        "code": 185
+      },
+      {
+        "offset": 4,
+        "type": "segment_end",
+        "continuation_byte": null
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "rom": "0xad604",
+    "raw_hex": "f0020017ff",
+    "tokens": [
+      {
+        "offset": 0,
+        "type": "font_bank",
+        "bank": 0
+      },
+      {
+        "offset": 1,
+        "type": "glyph",
+        "bank": 0,
+        "code": 2
+      },
+      {
+        "offset": 2,
+        "type": "glyph",
+        "bank": 0,
+        "code": 0
+      },
+      {
+        "offset": 3,
+        "type": "glyph",
+        "bank": 0,
+        "code": 23
+      },
+      {
+        "offset": 4,
+        "type": "segment_end",
+        "continuation_byte": null
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "rom": "0xad609",
+    "raw_hex": "f0170067ff",
+    "tokens": [
+      {
+        "offset": 0,
+        "type": "font_bank",
+        "bank": 0
+      },
+      {
+        "offset": 1,
+        "type": "glyph",
+        "bank": 0,
+        "code": 23
+      },
+      {
+        "offset": 2,
+        "type": "glyph",
+        "bank": 0,
+        "code": 0
+      },
+      {
+        "offset": 3,
+        "type": "glyph",
+        "bank": 0,
+        "code": 103
+      },
+      {
+        "offset": 4,
+        "type": "segment_end",
+        "continuation_byte": null
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "rom": "0xad60e",
+    "raw_hex": "f0b700b9ff",
+    "tokens": [
+      {
+        "offset": 0,
+        "type": "font_bank",
+        "bank": 0
+      },
+      {
+        "offset": 1,
+        "type": "glyph",
+        "bank": 0,
+        "code": 183
+      },
+      {
+        "offset": 2,
+        "type": "glyph",
+        "bank": 0,
+        "code": 0
+      },
+      {
+        "offset": 3,
+        "type": "glyph",
+        "bank": 0,
+        "code": 185
+      },
+      {
+        "offset": 4,
+        "type": "segment_end",
+        "continuation_byte": null
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "rom": "0xad613",
+    "raw_hex": "f0abbab9ff",
+    "tokens": [
+      {
+        "offset": 0,
+        "type": "font_bank",
+        "bank": 0
+      },
+      {
+        "offset": 1,
+        "type": "glyph",
+        "bank": 0,
+        "code": 171
+      },
+      {
+        "offset": 2,
+        "type": "glyph",
+        "bank": 0,
+        "code": 186
+      },
+      {
+        "offset": 3,
+        "type": "glyph",
+        "bank": 0,
+        "code": 185
+      },
+      {
+        "offset": 4,
+        "type": "segment_end",
+        "continuation_byte": null
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "rom": "0xad618",
+    "raw_hex": "f03e9bb9ff",
+    "tokens": [
+      {
+        "offset": 0,
+        "type": "font_bank",
+        "bank": 0
+      },
+      {
+        "offset": 1,
+        "type": "glyph",
+        "bank": 0,
+        "code": 62
+      },
+      {
+        "offset": 2,
+        "type": "glyph",
+        "bank": 0,
+        "code": 155
+      },
+      {
+        "offset": 3,
+        "type": "glyph",
+        "bank": 0,
+        "code": 185
+      },
+      {
+        "offset": 4,
+        "type": "segment_end",
+        "continuation_byte": null
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "rom": "0xad61d",
+    "raw_hex": "f03e77bbff",
+    "tokens": [
+      {
+        "offset": 0,
+        "type": "font_bank",
+        "bank": 0
+      },
+      {
+        "offset": 1,
+        "type": "glyph",
+        "bank": 0,
+        "code": 62
+      },
+      {
+        "offset": 2,
+        "type": "glyph",
+        "bank": 0,
+        "code": 119
+      },
+      {
+        "offset": 3,
+        "type": "glyph",
+        "bank": 0,
+        "code": 187
+      },
+      {
+        "offset": 4,
+        "type": "segment_end",
+        "continuation_byte": null
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "rom": "0xad622",
+    "raw_hex": "f025bcbdff",
+    "tokens": [
+      {
+        "offset": 0,
+        "type": "font_bank",
+        "bank": 0
+      },
+      {
+        "offset": 1,
+        "type": "glyph",
+        "bank": 0,
+        "code": 37
+      },
+      {
+        "offset": 2,
+        "type": "glyph",
+        "bank": 0,
+        "code": 188
+      },
+      {
+        "offset": 3,
+        "type": "glyph",
+        "bank": 0,
+        "code": 189
+      },
+      {
+        "offset": 4,
+        "type": "segment_end",
+        "continuation_byte": null
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "rom": "0xad627",
+    "raw_hex": "f0b300b4ff",
+    "tokens": [
+      {
+        "offset": 0,
+        "type": "font_bank",
+        "bank": 0
+      },
+      {
+        "offset": 1,
+        "type": "glyph",
+        "bank": 0,
+        "code": 179
+      },
+      {
+        "offset": 2,
+        "type": "glyph",
+        "bank": 0,
+        "code": 0
+      },
+      {
+        "offset": 3,
+        "type": "glyph",
+        "bank": 0,
+        "code": 180
+      },
+      {
+        "offset": 4,
+        "type": "segment_end",
+        "continuation_byte": null
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "rom": "0xad62c",
+    "raw_hex": "f0177cbeff",
+    "tokens": [
+      {
+        "offset": 0,
+        "type": "font_bank",
+        "bank": 0
+      },
+      {
+        "offset": 1,
+        "type": "glyph",
+        "bank": 0,
+        "code": 23
+      },
+      {
+        "offset": 2,
+        "type": "glyph",
+        "bank": 0,
+        "code": 124
+      },
+      {
+        "offset": 3,
+        "type": "glyph",
+        "bank": 0,
+        "code": 190
+      },
+      {
+        "offset": 4,
+        "type": "segment_end",
+        "continuation_byte": null
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "rom": "0xad631",
+    "raw_hex": "f0bfc0bdff",
+    "tokens": [
+      {
+        "offset": 0,
+        "type": "font_bank",
+        "bank": 0
+      },
+      {
+        "offset": 1,
+        "type": "glyph",
+        "bank": 0,
+        "code": 191
+      },
+      {
+        "offset": 2,
+        "type": "glyph",
+        "bank": 0,
+        "code": 192
+      },
+      {
+        "offset": 3,
+        "type": "glyph",
+        "bank": 0,
+        "code": 189
+      },
+      {
+        "offset": 4,
+        "type": "segment_end",
+        "continuation_byte": null
+      }
+    ]
+  },
+  {
+    "id": 12,
+    "rom": "0xad636",
+    "raw_hex": "f0c100bdff",
+    "tokens": [
+      {
+        "offset": 0,
+        "type": "font_bank",
+        "bank": 0
+      },
+      {
+        "offset": 1,
+        "type": "glyph",
+        "bank": 0,
+        "code": 193
+      },
+      {
+        "offset": 2,
+        "type": "glyph",
+        "bank": 0,
+        "code": 0
+      },
+      {
+        "offset": 3,
+        "type": "glyph",
+        "bank": 0,
+        "code": 189
+      },
+      {
+        "offset": 4,
+        "type": "segment_end",
+        "continuation_byte": null
+      }
+    ]
+  },
+  {
+    "id": 13,
+    "rom": "0xad63b",
+    "raw_hex": "f0580069ff",
+    "tokens": [
+      {
+        "offset": 0,
+        "type": "font_bank",
+        "bank": 0
+      },
+      {
+        "offset": 1,
+        "type": "glyph",
+        "bank": 0,
+        "code": 88
+      },
+      {
+        "offset": 2,
+        "type": "glyph",
+        "bank": 0,
+        "code": 0
+      },
+      {
+        "offset": 3,
+        "type": "glyph",
+        "bank": 0,
+        "code": 105
+      },
+      {
+        "offset": 4,
+        "type": "segment_end",
+        "continuation_byte": null
+      }
+    ]
+  },
+  {
+    "id": 14,
+    "rom": "0xad640",
+    "raw_hex": "f02dc222ff",
+    "tokens": [
+      {
+        "offset": 0,
+        "type": "font_bank",
+        "bank": 0
+      },
+      {
+        "offset": 1,
+        "type": "glyph",
+        "bank": 0,
+        "code": 45
+      },
+      {
+        "offset": 2,
+        "type": "glyph",
+        "bank": 0,
+        "code": 194
+      },
+      {
+        "offset": 3,
+        "type": "glyph",
+        "bank": 0,
+        "code": 34
+      },
+      {
+        "offset": 4,
+        "type": "segment_end",
+        "continuation_byte": null
+      }
+    ]
+  },
+  {
+    "id": 15,
+    "rom": "0xad645",
+    "raw_hex": "f017c322ff",
+    "tokens": [
+      {
+        "offset": 0,
+        "type": "font_bank",
+        "bank": 0
+      },
+      {
+        "offset": 1,
+        "type": "glyph",
+        "bank": 0,
+        "code": 23
+      },
+      {
+        "offset": 2,
+        "type": "glyph",
+        "bank": 0,
+        "code": 195
+      },
+      {
+        "offset": 3,
+        "type": "glyph",
+        "bank": 0,
+        "code": 34
+      },
+      {
+        "offset": 4,
+        "type": "segment_end",
+        "continuation_byte": null
+      }
+    ]
+  },
+  {
+    "id": 16,
+    "rom": "0xad64a",
+    "raw_hex": "f0075022ff",
+    "tokens": [
+      {
+        "offset": 0,
+        "type": "font_bank",
+        "bank": 0
+      },
+      {
+        "offset": 1,
+        "type": "glyph",
+        "bank": 0,
+        "code": 7
+      },
+      {
+        "offset": 2,
+        "type": "glyph",
+        "bank": 0,
+        "code": 80
+      },
+      {
+        "offset": 3,
+        "type": "glyph",
+        "bank": 0,
+        "code": 34
+      },
+      {
+        "offset": 4,
+        "type": "segment_end",
+        "continuation_byte": null
+      }
+    ]
+  },
+  {
+    "id": 17,
+    "rom": "0xad64f",
+    "raw_hex": "f0c400bbff",
+    "tokens": [
+      {
+        "offset": 0,
+        "type": "font_bank",
+        "bank": 0
+      },
+      {
+        "offset": 1,
+        "type": "glyph",
+        "bank": 0,
+        "code": 196
+      },
+      {
+        "offset": 2,
+        "type": "glyph",
+        "bank": 0,
+        "code": 0
+      },
+      {
+        "offset": 3,
+        "type": "glyph",
+        "bank": 0,
+        "code": 187
+      },
+      {
+        "offset": 4,
+        "type": "segment_end",
+        "continuation_byte": null
+      }
+    ]
+  },
+  {
+    "id": 18,
+    "rom": "0xad654",
+    "raw_hex": "f0c500beff",
+    "tokens": [
+      {
+        "offset": 0,
+        "type": "font_bank",
+        "bank": 0
+      },
+      {
+        "offset": 1,
+        "type": "glyph",
+        "bank": 0,
+        "code": 197
+      },
+      {
+        "offset": 2,
+        "type": "glyph",
+        "bank": 0,
+        "code": 0
+      },
+      {
+        "offset": 3,
+        "type": "glyph",
+        "bank": 0,
+        "code": 190
+      },
+      {
+        "offset": 4,
+        "type": "segment_end",
+        "continuation_byte": null
+      }
+    ]
+  },
+  {
+    "id": 19,
+    "rom": "0xad659",
+    "raw_hex": "f09f00bbff",
+    "tokens": [
+      {
+        "offset": 0,
+        "type": "font_bank",
+        "bank": 0
+      },
+      {
+        "offset": 1,
+        "type": "glyph",
+        "bank": 0,
+        "code": 159
+      },
+      {
+        "offset": 2,
+        "type": "glyph",
+        "bank": 0,
+        "code": 0
+      },
+      {
+        "offset": 3,
+        "type": "glyph",
+        "bank": 0,
+        "code": 187
+      },
+      {
+        "offset": 4,
+        "type": "segment_end",
+        "continuation_byte": null
+      }
+    ]
+  },
+  {
+    "id": 20,
+    "rom": "0xad65e",
+    "raw_hex": "f02ec6b9ff",
+    "tokens": [
+      {
+        "offset": 0,
+        "type": "font_bank",
+        "bank": 0
+      },
+      {
+        "offset": 1,
+        "type": "glyph",
+        "bank": 0,
+        "code": 46
+      },
+      {
+        "offset": 2,
+        "type": "glyph",
+        "bank": 0,
+        "code": 198
+      },
+      {
+        "offset": 3,
+        "type": "glyph",
+        "bank": 0,
+        "code": 185
+      },
+      {
+        "offset": 4,
+        "type": "segment_end",
+        "continuation_byte": null
+      }
+    ]
+  },
+  {
+    "id": 21,
+    "rom": "0xad663",
+    "raw_hex": "f06b001fff",
+    "tokens": [
+      {
+        "offset": 0,
+        "type": "font_bank",
+        "bank": 0
+      },
+      {
+        "offset": 1,
+        "type": "glyph",
+        "bank": 0,
+        "code": 107
+      },
+      {
+        "offset": 2,
+        "type": "glyph",
+        "bank": 0,
+        "code": 0
+      },
+      {
+        "offset": 3,
+        "type": "glyph",
+        "bank": 0,
+        "code": 31
+      },
+      {
+        "offset": 4,
+        "type": "segment_end",
+        "continuation_byte": null
+      }
+    ]
+  },
+  {
+    "id": 22,
+    "rom": "0xad668",
+    "raw_hex": "f0c70054ff",
+    "tokens": [
+      {
+        "offset": 0,
+        "type": "font_bank",
+        "bank": 0
+      },
+      {
+        "offset": 1,
+        "type": "glyph",
+        "bank": 0,
+        "code": 199
+      },
+      {
+        "offset": 2,
+        "type": "glyph",
+        "bank": 0,
+        "code": 0
+      },
+      {
+        "offset": 3,
+        "type": "glyph",
+        "bank": 0,
+        "code": 84
+      },
+      {
+        "offset": 4,
+        "type": "segment_end",
+        "continuation_byte": null
+      }
+    ]
+  },
+  {
+    "id": 23,
+    "rom": "0xad66d",
+    "raw_hex": "f0170090ff",
+    "tokens": [
+      {
+        "offset": 0,
+        "type": "font_bank",
+        "bank": 0
+      },
+      {
+        "offset": 1,
+        "type": "glyph",
+        "bank": 0,
+        "code": 23
+      },
+      {
+        "offset": 2,
+        "type": "glyph",
+        "bank": 0,
+        "code": 0
+      },
+      {
+        "offset": 3,
+        "type": "glyph",
+        "bank": 0,
+        "code": 144
+      },
+      {
+        "offset": 4,
+        "type": "segment_end",
+        "continuation_byte": null
+      }
+    ]
+  },
+  {
+    "id": 24,
+    "rom": "0xad672",
+    "raw_hex": "f0c800c9ff",
+    "tokens": [
+      {
+        "offset": 0,
+        "type": "font_bank",
+        "bank": 0
+      },
+      {
+        "offset": 1,
+        "type": "glyph",
+        "bank": 0,
+        "code": 200
+      },
+      {
+        "offset": 2,
+        "type": "glyph",
+        "bank": 0,
+        "code": 0
+      },
+      {
+        "offset": 3,
+        "type": "glyph",
+        "bank": 0,
+        "code": 201
+      },
+      {
+        "offset": 4,
+        "type": "segment_end",
+        "continuation_byte": null
+      }
+    ]
+  },
+  {
+    "id": 25,
+    "rom": "0xad677",
+    "raw_hex": "f04858b9ff",
+    "tokens": [
+      {
+        "offset": 0,
+        "type": "font_bank",
+        "bank": 0
+      },
+      {
+        "offset": 1,
+        "type": "glyph",
+        "bank": 0,
+        "code": 72
+      },
+      {
+        "offset": 2,
+        "type": "glyph",
+        "bank": 0,
+        "code": 88
+      },
+      {
+        "offset": 3,
+        "type": "glyph",
+        "bank": 0,
+        "code": 185
+      },
+      {
+        "offset": 4,
+        "type": "segment_end",
+        "continuation_byte": null
+      }
+    ]
+  },
+  {
+    "id": 26,
+    "rom": "0xad67c",
+    "raw_hex": "f0cacbb9ff",
+    "tokens": [
+      {
+        "offset": 0,
+        "type": "font_bank",
+        "bank": 0
+      },
+      {
+        "offset": 1,
+        "type": "glyph",
+        "bank": 0,
+        "code": 202
+      },
+      {
+        "offset": 2,
+        "type": "glyph",
+        "bank": 0,
+        "code": 203
+      },
+      {
+        "offset": 3,
+        "type": "glyph",
+        "bank": 0,
+        "code": 185
+      },
+      {
+        "offset": 4,
+        "type": "segment_end",
+        "continuation_byte": null
+      }
+    ]
+  },
+  {
+    "id": 27,
+    "rom": "0xad681",
+    "raw_hex": "f02eccbdff",
+    "tokens": [
+      {
+        "offset": 0,
+        "type": "font_bank",
+        "bank": 0
+      },
+      {
+        "offset": 1,
+        "type": "glyph",
+        "bank": 0,
+        "code": 46
+      },
+      {
+        "offset": 2,
+        "type": "glyph",
+        "bank": 0,
+        "code": 204
+      },
+      {
+        "offset": 3,
+        "type": "glyph",
+        "bank": 0,
+        "code": 189
+      },
+      {
+        "offset": 4,
+        "type": "segment_end",
+        "continuation_byte": null
+      }
+    ]
+  },
+  {
+    "id": 28,
+    "rom": "0xad686",
+    "raw_hex": "f025cdbbff",
+    "tokens": [
+      {
+        "offset": 0,
+        "type": "font_bank",
+        "bank": 0
+      },
+      {
+        "offset": 1,
+        "type": "glyph",
+        "bank": 0,
+        "code": 37
+      },
+      {
+        "offset": 2,
+        "type": "glyph",
+        "bank": 0,
+        "code": 205
+      },
+      {
+        "offset": 3,
+        "type": "glyph",
+        "bank": 0,
+        "code": 187
+      },
+      {
+        "offset": 4,
+        "type": "segment_end",
+        "continuation_byte": null
+      }
+    ]
+  },
+  {
+    "id": 29,
+    "rom": "0xad68b",
+    "raw_hex": "f0ce00cfff",
+    "tokens": [
+      {
+        "offset": 0,
+        "type": "font_bank",
+        "bank": 0
+      },
+      {
+        "offset": 1,
+        "type": "glyph",
+        "bank": 0,
+        "code": 206
+      },
+      {
+        "offset": 2,
+        "type": "glyph",
+        "bank": 0,
+        "code": 0
+      },
+      {
+        "offset": 3,
+        "type": "glyph",
+        "bank": 0,
+        "code": 207
+      },
+      {
+        "offset": 4,
+        "type": "segment_end",
+        "continuation_byte": null
+      }
+    ]
+  }
+]

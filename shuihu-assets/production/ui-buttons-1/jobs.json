@@ -1,0 +1,23 @@
+[
+  {
+    "id": "options-normal",
+    "kind": "ui-sheet",
+    "reference": "reference.png",
+    "size": "1536x1024",
+    "sourceId": "ui-buttons"
+  },
+  {
+    "id": "options-selected",
+    "kind": "ui-sheet",
+    "reference": "reference.png",
+    "size": "1536x1024",
+    "sourceId": "ui-buttons"
+  },
+  {
+    "id": "menu",
+    "kind": "ui-sheet",
+    "reference": "reference.png",
+    "size": "1536x1024",
+    "sourceId": "ui-buttons"
+  }
+]

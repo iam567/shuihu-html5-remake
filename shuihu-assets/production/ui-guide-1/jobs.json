@@ -1,0 +1,21 @@
+[
+ {
+  "id": "label",
+  "kind": "ui-sheet",
+  "references": [
+   "ref-label.png"
+  ],
+  "size": "1024x1024",
+  "sourceId": "ui-buttons"
+ },
+ {
+  "id": "switch",
+  "kind": "ui-sheet",
+  "references": [
+   "ref-normal.png",
+   "ref-selected.png"
+  ],
+  "size": "1024x1024",
+  "sourceId": "ui-buttons"
+ }
+]

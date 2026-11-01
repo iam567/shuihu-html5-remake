@@ -1,0 +1,3962 @@
+{
+ "version": 3,
+ "policy": "Per map and style the whole-map redraw with the fewest boundary flags (tools/check_whole_maps.py) is used; geometryVerified tells whether it has no more than the tile-assembled version (+SLACK). Tile-assembled pictures are never used.",
+ "styles": {
+  "hd2d": {
+   "maps": {
+    "0100": {
+     "status": "approved",
+     "source": "whole-map",
+     "geometryVerified": true,
+     "signsVerified": true,
+     "width": 768,
+     "height": 640,
+     "image": "assets/maps-hd/hd2d/0100.webp",
+     "scale": 4.0,
+     "check": {
+      "flagged": 0,
+      "boundaryFlagged": 0,
+      "tileVersionBoundaryFlagged": 4,
+      "uncertain": 0
+     },
+     "batch": "wholemap-v6-1"
+    },
+    "0101": {
+     "status": "approved",
+     "source": "whole-map",
+     "geometryVerified": true,
+     "signsVerified": true,
+     "width": 320,
+     "height": 320,
+     "image": "assets/maps-hd/hd2d/0101.webp",
+     "scale": 4.0,
+     "check": {
+      "flagged": 0,
+      "boundaryFlagged": 0,
+      "tileVersionBoundaryFlagged": 1,
+      "uncertain": 0
+     },
+     "batch": "wholemap-v2-1"
+    },
+    "0102": {
+     "status": "approved",
+     "source": "whole-map",
+     "geometryVerified": true,
+     "signsVerified": true,
+     "width": 320,
+     "height": 480,
+     "image": "assets/maps-hd/hd2d/0102.webp",
+     "scale": 4.0,
+     "check": {
+      "flagged": 0,
+      "boundaryFlagged": 0,
+      "tileVersionBoundaryFlagged": 0,
+      "uncertain": 0
+     },
+     "batch": "wholemap-fixpilot"
+    },
+    "0103": {
+     "status": "approved",
+     "source": "whole-map",
+     "geometryVerified": true,
+     "signsVerified": true,
+     "width": 320,
+     "height": 320,
+     "image": "assets/maps-hd/hd2d/0103.webp",
+     "scale": 4.0,
+     "check": {
+      "flagged": 0,
+      "boundaryFlagged": 0,
+      "tileVersionBoundaryFlagged": 0,
+      "uncertain": 0
+     },
+     "batch": "wholemap-v5-1"
+    },
+    "0104": {
+     "status": "approved",
+     "source": "whole-map",
+     "geometryVerified": true,
+     "signsVerified": true,
+     "width": 320,
+     "height": 320,
+     "image": "assets/maps-hd/hd2d/0104.webp",
+     "scale": 4.0,
+     "check": {
+      "flagged": 0,
+      "boundaryFlagged": 0,
+      "tileVersionBoundaryFlagged": 0,
+      "uncertain": 0
+     },
+     "batch": "wholemap-v6-1"
+    },
+    "0105": {
+     "status": "approved",
+     "source": "whole-map",
+     "geometryVerified": true,
+     "signsVerified": true,
+     "width": 320,
+     "height": 320,
+     "image": "assets/maps-hd/hd2d/0105.webp",
+     "scale": 4.0,
+     "check": {
+      "flagged": 0,
+      "boundaryFlagged": 0,
+      "tileVersionBoundaryFlagged": 0,
+      "uncertain": 0
+     },
+     "batch": "wholemap-v2-1"
+    },
+    "0106": {
+     "status": "approved",
+     "source": "whole-map",
+     "geometryVerified": true,
+     "signsVerified": true,
+     "width": 320,
+     "height": 320,
+     "image": "assets/maps-hd/hd2d/0106.webp",
+     "scale": 4.0,
+     "check": {
+      "flagged": 0,
+      "boundaryFlagged": 0,
+      "tileVersionBoundaryFlagged": 1,
+      "uncertain": 0
+     },
+     "batch": "wholemap-v2-1"
+    },
+    "0107": {
+     "status": "approved",
+     "source": "whole-map",
+     "geometryVerified": true,
+     "signsVerified": true,
+     "width": 320,
+     "height": 320,
+     "image": "assets/maps-hd/hd2d/0107.webp",
+     "scale": 4.0,
+     "check": {
+      "flagged": 0,
+      "boundaryFlagged": 0,
+      "tileVersionBoundaryFlagged": 0,
+      "uncertain": 0
+     },
+     "batch": "wholemap-v2-1"
+    },
+    "0200": {
+     "status": "approved",
+     "source": "whole-map",
+     "geometryVerified": false,
+     "signsVerified": true,
+     "width": 768,
+     "height": 480,
+     "image": "assets/maps-hd/hd2d/0200.webp",
+     "scale": 4.0,
+     "check": {
+      "flagged": 2,
+      "boundaryFlagged": 1,
+      "tileVersionBoundaryFlagged": 0,
+      "uncertain": 71
+     },
+     "batch": "wholemap-v5-1"
+    },
+    "0201": {
+     "status": "approved",
+     "source": "whole-map",
+     "geometryVerified": true,
+     "signsVerified": true,
+     "width": 320,
+     "height": 320,
+     "image": "assets/maps-hd/hd2d/0201.webp",
+     "scale": 4.0,
+     "check": {
+      "flagged": 1,
+      "boundaryFlagged": 0,
+      "tileVersionBoundaryFlagged": 0,
+      "uncertain": 1
+     },
+     "batch": "wholemap-v2-1"
+    },
+    "0202": {
+     "status": "approved",
+     "source": "whole-map",
+     "geometryVerified": true,
+     "signsVerified": true,
+     "width": 320,
+     "height": 320,
+     "image": "assets/maps-hd/hd2d/0202.webp",
+     "scale": 4.0,
+     "check": {
+      "flagged": 0,
+      "boundaryFlagged": 0,
+      "tileVersionBoundaryFlagged": 0,
+      "uncertain": 0
+     },
+     "batch": "wholemap-1"
+    },
+    "0203": {
+     "status": "approved",
+     "source": "whole-map",
+     "geometryVerified": true,
+     "signsVerified": true,
+     "width": 320,
+     "height": 320,
+     "image": "assets/maps-hd/hd2d/0203.webp",
+     "scale": 4.0,
+     "check": {
+      "flagged": 0,
+      "boundaryFlagged": 0,
+      "tileVersionBoundaryFlagged": 0,
+      "uncertain": 3
+     },
+     "batch": "wholemap-v2-1"
+    },
+    "0204": {
+     "status": "approved",
+     "source": "whole-map",
+     "geometryVerified": true,
+     "signsVerified": true,
+     "width": 320,
+     "height": 320,
+     "image": "assets/maps-hd/hd2d/0204.webp",
+     "scale": 4.0,
+     "check": {
+      "flagged": 0,
+      "boundaryFlagged": 0,
+      "tileVersionBoundaryFlagged": 0,
+      "uncertain": 0
+     },
+     "batch": "wholemap-v2-1"
+    },
+    "0205": {
+     "status": "approved",
+     "source": "whole-map",
+     "geometryVerified": true,
+     "signsVerified": true,
+     "width": 320,
+     "height": 320,
+     "image": "assets/maps-hd/hd2d/0205.webp",
+     "scale": 4.0,
+     "check": {
+      "flagged": 0,
+      "boundaryFlagged": 0,
+      "tileVersionBoundaryFlagged": 0,
+      "uncertain": 0
+     },
+     "batch": "wholemap-v2-1"
+    },
+    "0206": {
+     "status": "approved",
+     "source": "whole-map",
+     "geometryVerified": true,
+     "signsVerified": true,
+     "width": 768,
+     "height": 480,
+     "image": "assets/maps-hd/hd2d/0206.webp",
+     "scale": 4.0,
+     "check": {
+      "flagged": 0,
+      "boundaryFlagged": 0,
+      "tileVersionBoundaryFlagged": 0,
+      "uncertain": 209
+     },
+     "batch": "wholemap-styles-1"
+    },
+    "0207": {
+     "status": "approved",
+     "source": "whole-map",
+     "geometryVerified": true,
+     "signsVerified": true,
+     "width": 512,
+     "height": 736,
+     "image": "assets/maps-hd/hd2d/0207.webp",
+     "scale": 4.0,
+     "check": {
+      "flagged": 4,
+      "boundaryFlagged": 0,
+      "tileVersionBoundaryFlagged": 0,
+      "uncertain": 98
+     },
+     "batch": "wholemap-1"
+    },
+    "0300": {
+     "status": "approved",
+     "source": "whole-map",
+     "geometryVerified": true,
+     "signsVerified": true,
+     "width": 1024,
+     "height": 480,
+     "image": "assets/maps-hd/hd2d/0300.webp",
+     "scale": 3.5,
+     "check": {
+      "flagged": 0,
+      "boundaryFlagged": 0,
+      "tileVersionBoundaryFlagged": 26,
+      "uncertain": 9
+     },
+     "batch": "wholemap-v2-1"
+    },
+    "0301": {
+     "status": "approved",
+     "source": "whole-map",
+     "geometryVerified": true,
+     "signsVerified": true,
+     "width": 320,
+     "height": 320,
+     "image": "assets/maps-hd/hd2d/0301.webp",
+     "scale": 4.0,
+     "check": {
+      "flagged": 0,
+      "boundaryFlagged": 0,
+      "tileVersionBoundaryFlagged": 0,
+      "uncertain": 0
+     },
+     "batch": "wholemap-v2-1"
+    },
+    "0302": {
+     "status": "approved",
+     "source": "whole-map",
+     "geometryVerified": true,
+     "signsVerified": true,
+     "width": 320,
+     "height": 320,
+     "image": "assets/maps-hd/hd2d/0302.webp",
+     "scale": 4.0,
+     "check": {
+      "flagged": 1,
+      "boundaryFlagged": 0,
+      "tileVersionBoundaryFlagged": 0,
+      "uncertain": 0
+     },
+     "batch": "wholemap-v2-1"
+    },
+    "0303": {
+     "status": "approved",
+     "source": "whole-map",
+     "geometryVerified": true,
+     "signsVerified": true,
+     "width": 320,
+     "height": 320,
+     "image": "assets/maps-hd/hd2d/0303.webp",
+     "scale": 4.0,
+     "check": {
+      "flagged": 0,
+      "boundaryFlagged": 0,
+      "tileVersionBoundaryFlagged": 0,
+      "uncertain": 0
+     },
+     "batch": "wholemap-1"
+    },
+    "0304": {
+     "status": "approved",
+     "source": "whole-map",
+     "geometryVerified": true,
+     "signsVerified": true,
+     "width": 320,
+     "height": 320,
+     "image": "assets/maps-hd/hd2d/0304.webp",
+     "scale": 4.0,
+     "check": {
+      "flagged": 0,
+      "boundaryFlagged": 0,
+      "tileVersionBoundaryFlagged": 0,
+      "uncertain": 0
+     },
+     "batch": "wholemap-v2-1"
+    },
+    "0305": {
+     "status": "approved",
+     "source": "whole-map",
+     "geometryVerified": true,
+     "signsVerified": true,
+     "width": 320,
+     "height": 320,
+     "image": "assets/maps-hd/hd2d/0305.webp",
+     "scale": 4.0,
+     "check": {
+      "flagged": 0,
+      "boundaryFlagged": 0,
+      "tileVersionBoundaryFlagged": 0,
+      "uncertain": 0
+     },
+     "batch": "wholemap-v2-1"
+    },
+    "0306": {
+     "status": "approved",
+     "source": "whole-map",
+     "geometryVerified": true,
+     "signsVerified": true,
+     "width": 320,
+     "height": 320,
+     "image": "assets/maps-hd/hd2d/0306.webp",
+     "scale": 4.0,
+     "check": {
+      "flagged": 0,
+      "boundaryFlagged": 0,
+      "tileVersionBoundaryFlagged": 0,
+      "uncertain": 0
+     },
+     "batch": "wholemap-v2-1"
+    },
+    "0307": {
+     "status": "approved",
+     "source": "whole-map",
+     "geometryVerified": true,
+     "signsVerified": true,
+     "width": 768,
+     "height": 800,
+     "image": "assets/maps-hd/hd2d/0307.webp",
+     "scale": 3.5,
+     "check": {
+      "flagged": 0,
+      "boundaryFlagged": 0,
+      "tileVersionBoundaryFlagged": 2,
+      "uncertain": 6
+     },
+     "batch": "wholemap-v5-1"
+    },
+    "0308": {
+     "status": "approved",
+     "source": "whole-map",
+     "geometryVerified": true,
+     "signsVerified": true,
+     "width": 416,
+     "height": 800,
+     "image": "assets/maps-hd/hd2d/0308.webp",
+     "scale": 4.0,
+     "check": {
+      "flagged": 4,
+      "boundaryFlagged": 0,
+      "tileVersionBoundaryFlagged": 2,
+      "uncertain": 1
+     },
+     "batch": "wholemap-v2-1"
+    },
+    "0309": {
+     "status": "approved",
+     "source": "whole-map",
+     "geometryVerified": true,
+     "signsVerified": true,
+     "width": 384,
+     "height": 960,
+     "image": "assets/maps-hd/hd2d/0309.webp",
+     "scale": 4.0,
+     "check": {
+      "flagged": 0,
+      "boundaryFlagged": 0,
+      "tileVersionBoundaryFlagged": 0,
+      "uncertain": 99
+     },
+     "batch": "wholemap-v6-1"
+    },
+    "0400": {
+     "status": "approved",
+     "source": "whole-map",
+     "geometryVerified": false,
+     "signsVerified": true,
+     "width": 512,
+     "height": 896,
+     "image": "assets/maps-hd/hd2d/0400.webp",
+     "scale": 4.0,
+     "check": {
+      "flagged": 22,
+      "boundaryFlagged": 21,
+      "tileVersionBoundaryFlagged": 9,
+      "uncertain": 2
+     },
+     "batch": "wholemap-1"
+    },
+    "0401": {
+     "status": "approved",
+     "source": "whole-map",
+     "geometryVerified": true,
+     "signsVerified": true,
+     "width": 320,
+     "height": 320,
+     "image": "assets/maps-hd/hd2d/0401.webp",
+     "scale": 4.0,
+     "check": {
+      "flagged": 0,
+      "boundaryFlagged": 0,
+      "tileVersionBoundaryFlagged": 0,
+      "uncertain": 0
+     },
+     "batch": "wholemap-v5-1"
+    },
+    "0402": {
+     "status": "approved",
+     "source": "whole-map",
+     "geometryVerified": true,
+     "signsVerified": true,
+     "width": 320,
+     "height": 320,
+     "image": "assets/maps-hd/hd2d/0402.webp",
+     "scale": 4.0,
+     "check": {
+      "flagged": 0,
+      "boundaryFlagged": 0,
+      "tileVersionBoundaryFlagged": 0,
+      "uncertain": 0
+     },
+     "batch": "wholemap-v5-1"
+    },
+    "0403": {
+     "status": "approved",
+     "source": "whole-map",
+     "geometryVerified": true,
+     "signsVerified": true,
+     "width": 320,
+     "height": 320,
+     "image": "assets/maps-hd/hd2d/0403.webp",
+     "scale": 4.0,
+     "check": {
+      "flagged": 0,
+      "boundaryFlagged": 0,
+      "tileVersionBoundaryFlagged": 2,
+      "uncertain": 0
+     },
+     "batch": "wholemap-v2-1"
+    },
+    "0404": {
+     "status": "approved",
+     "source": "whole-map",
+     "geometryVerified": true,
+     "signsVerified": true,
+     "width": 384,
+     "height": 384,
+     "image": "assets/maps-hd/hd2d/0404.webp",
+     "scale": 4.0,
+     "check": {
+      "flagged": 0,
+      "boundaryFlagged": 0,
+      "tileVersionBoundaryFlagged": 1,
+      "uncertain": 0
+     },
+     "batch": "wholemap-v2-1"
+    },
+    "0405": {
+     "status": "approved",
+     "source": "whole-map",
+     "geometryVerified": true,
+     "signsVerified": true,
+     "width": 320,
+     "height": 384,
+     "image": "assets/maps-hd/hd2d/0405.webp",
+     "scale": 4.0,
+     "check": {
+      "flagged": 0,
+      "boundaryFlagged": 0,
+      "tileVersionBoundaryFlagged": 3,
+      "uncertain": 0
+     },
+     "batch": "wholemap-v2-1"
+    },
+    "0406": {
+     "status": "approved",
+     "source": "whole-map",
+     "geometryVerified": true,
+     "signsVerified": true,
+     "width": 320,
+     "height": 320,
+     "image": "assets/maps-hd/hd2d/0406.webp",
+     "scale": 4.0,
+     "check": {
+      "flagged": 0,
+      "boundaryFlagged": 0,
+      "tileVersionBoundaryFlagged": 0,
+      "uncertain": 0
+     },
+     "batch": "wholemap-v2-1"
+    },
+    "0407": {
+     "status": "approved",
+     "source": "whole-map",
+     "geometryVerified": true,
+     "signsVerified": true,
+     "width": 320,
+     "height": 320,
+     "image": "assets/maps-hd/hd2d/0407.webp",
+     "scale": 4.0,
+     "check": {
+      "flagged": 1,
+      "boundaryFlagged": 1,
+      "tileVersionBoundaryFlagged": 1,
+      "uncertain": 0
+     },
+     "batch": "wholemap-v2-1"
+    },
+    "0408": {
+     "status": "approved",
+     "source": "whole-map",
+     "geometryVerified": true,
+     "signsVerified": true,
+     "width": 768,
+     "height": 480,
+     "image": "assets/maps-hd/hd2d/0408.webp",
+     "scale": 4.0,
+     "check": {
+      "flagged": 0,
+      "boundaryFlagged": 0,
+      "tileVersionBoundaryFlagged": 0,
+      "uncertain": 0
+     },
+     "batch": "wholemap-v5-1"
+    },
+    "0409": {
+     "status": "approved",
+     "source": "whole-map",
+     "geometryVerified": true,
+     "signsVerified": true,
+     "width": 768,
+     "height": 640,
+     "image": "assets/maps-hd/hd2d/0409.webp",
+     "scale": 4.0,
+     "check": {
+      "flagged": 0,
+      "boundaryFlagged": 0,
+      "tileVersionBoundaryFlagged": 2,
+      "uncertain": 151
+     },
+     "batch": "wholemap-1"
+    },
+    "0500": {
+     "status": "approved",
+     "source": "whole-map",
+     "geometryVerified": true,
+     "signsVerified": true,
+     "width": 768,
+     "height": 576,
+     "image": "assets/maps-hd/hd2d/0500.webp",
+     "scale": 4.0,
+     "check": {
+      "flagged": 24,
+      "boundaryFlagged": 22,
+      "tileVersionBoundaryFlagged": 22,
+      "uncertain": 0
+     },
+     "batch": "wholemap-1"
+    },
+    "0501": {
+     "status": "approved",
+     "source": "whole-map",
+     "geometryVerified": true,
+     "signsVerified": true,
+     "width": 320,
+     "height": 320,
+     "image": "assets/maps-hd/hd2d/0501.webp",
+     "scale": 4.0,
+     "check": {
+      "flagged": 0,
+      "boundaryFlagged": 0,
+      "tileVersionBoundaryFlagged": 0,
+      "uncertain": 0
+     },
+     "batch": "wholemap-v5-1"
+    },
+    "0502": {
+     "status": "approved",
+     "source": "whole-map",
+     "geometryVerified": true,
+     "signsVerified": true,
+     "width": 320,
+     "height": 320,
+     "image": "assets/maps-hd/hd2d/0502.webp",
+     "scale": 4.0,
+     "check": {
+      "flagged": 0,
+      "boundaryFlagged": 0,
+      "tileVersionBoundaryFlagged": 0,
+      "uncertain": 0
+     },
+     "batch": "wholemap-v5-1"
+    },
+    "0503": {
+     "status": "approved",
+     "source": "whole-map",
+     "geometryVerified": true,
+     "signsVerified": true,
+     "width": 320,
+     "height": 320,
+     "image": "assets/maps-hd/hd2d/0503.webp",
+     "scale": 4.0,
+     "check": {
+      "flagged": 0,
+      "boundaryFlagged": 0,
+      "tileVersionBoundaryFlagged": 0,
+      "uncertain": 0
+     },
+     "batch": "wholemap-v2-1"
+    },
+    "0504": {
+     "status": "approved",
+     "source": "whole-map",
+     "geometryVerified": true,
+     "signsVerified": true,
+     "width": 320,
+     "height": 320,
+     "image": "assets/maps-hd/hd2d/0504.webp",
+     "scale": 4.0,
+     "check": {
+      "flagged": 0,
+      "boundaryFlagged": 0,
+      "tileVersionBoundaryFlagged": 0,
+      "uncertain": 0
+     },
+     "batch": "wholemap-v2-1"
+    },
+    "0505": {
+     "status": "approved",
+     "source": "whole-map",
+     "geometryVerified": true,
+     "signsVerified": true,
+     "width": 320,
+     "height": 320,
+     "image": "assets/maps-hd/hd2d/0505.webp",
+     "scale": 4.0,
+     "check": {
+      "flagged": 0,
+      "boundaryFlagged": 0,
+      "tileVersionBoundaryFlagged": 1,
+      "uncertain": 0
+     },
+     "batch": "wholemap-v2-1"
+    },
+    "0506": {
+     "status": "approved",
+     "source": "whole-map",
+     "geometryVerified": true,
+     "signsVerified": true,
+     "width": 320,
+     "height": 320,
+     "image": "assets/maps-hd/hd2d/0506.webp",
+     "scale": 4.0,
+     "check": {
+      "flagged": 0,
+      "boundaryFlagged": 0,
+      "tileVersionBoundaryFlagged": 0,
+      "uncertain": 0
+     },
+     "batch": "wholemap-v2-1"
+    },
+    "0507": {
+     "status": "approved",
+     "source": "whole-map",
+     "geometryVerified": true,
+     "signsVerified": true,
+     "width": 416,
+     "height": 800,
+     "image": "assets/maps-hd/hd2d/0507.webp",
+     "scale": 4.0,
+     "check": {
+      "flagged": 4,
+      "boundaryFlagged": 1,
+      "tileVersionBoundaryFlagged": 2,
+      "uncertain": 0
+     },
+     "batch": "wholemap-v2-1"
+    },
+    "0508": {
+     "status": "approved",
+     "source": "whole-map",
+     "geometryVerified": true,
+     "signsVerified": true,
+     "width": 768,
+     "height": 736,
+     "image": "assets/maps-hd/hd2d/0508.webp",
+     "scale": 3.5,
+     "check": {
+      "flagged": 0,
+      "boundaryFlagged": 0,
+      "tileVersionBoundaryFlagged": 0,
+      "uncertain": 264
+     },
+     "batch": "wholemap-1"
+    },
+    "0509": {
+     "status": "approved",
+     "source": "whole-map",
+     "geometryVerified": true,
+     "signsVerified": true,
+     "width": 352,
+     "height": 480,
+     "image": "assets/maps-hd/hd2d/0509.webp",
+     "scale": 4.0,
+     "check": {
+      "flagged": 1,
+      "boundaryFlagged": 0,
+      "tileVersionBoundaryFlagged": 4,
+      "uncertain": 0
+     },
+     "batch": "wholemap-v2-1"
+    },
+    "0600": {
+     "status": "approved",
+     "source": "whole-map",
+     "geometryVerified": true,
+     "signsVerified": true,
+     "width": 768,
+     "height": 480,
+     "image": "assets/maps-hd/hd2d/0600.webp",
+     "scale": 4.0,
+     "check": {
+      "flagged": 11,
+      "boundaryFlagged": 9,
+      "tileVersionBoundaryFlagged": 11,
+      "uncertain": 49
+     },
+     "batch": "wholemap-v5-1"
+    },
+    "0601": {
+     "status": "approved",
+     "source": "whole-map",
+     "geometryVerified": true,
+     "signsVerified": true,
+     "width": 320,
+     "height": 320,
+     "image": "assets/maps-hd/hd2d/0601.webp",
+     "scale": 4.0,
+     "check": {
+      "flagged": 1,
+      "boundaryFlagged": 1,
+      "tileVersionBoundaryFlagged": 1,
+      "uncertain": 0
+     },
+     "batch": "wholemap-v2-1"
+    },
+    "0602": {
+     "status": "approved",
+     "source": "whole-map",
+     "geometryVerified": true,
+     "signsVerified": true,
+     "width": 320,
+     "height": 416,
+     "image": "assets/maps-hd/hd2d/0602.webp",
+     "scale": 4.0,
+     "check": {
+      "flagged": 1,
+      "boundaryFlagged": 1,
+      "tileVersionBoundaryFlagged": 4,
+      "uncertain": 0
+     },
+     "batch": "wholemap-v5-1"
+    },
+    "0603": {
+     "status": "approved",
+     "source": "whole-map",
+     "geometryVerified": true,
+     "signsVerified": true,
+     "width": 320,
+     "height": 320,
+     "image": "assets/maps-hd/hd2d/0603.webp",
+     "scale": 4.0,
+     "check": {
+      "flagged": 0,
+      "boundaryFlagged": 0,
+      "tileVersionBoundaryFlagged": 1,
+      "uncertain": 0
+     },
+     "batch": "wholemap-v2-1"
+    },
+    "0604": {
+     "status": "approved",
+     "source": "whole-map",
+     "geometryVerified": true,
+     "signsVerified": true,
+     "width": 320,
+     "height": 320,
+     "image": "assets/maps-hd/hd2d/0604.webp",
+     "scale": 4.0,
+     "check": {
+      "flagged": 0,
+      "boundaryFlagged": 0,
+      "tileVersionBoundaryFlagged": 0,
+      "uncertain": 0
+     },
+     "batch": "wholemap-v5-1"
+    },
+    "0605": {
+     "status": "approved",
+     "source": "whole-map",
+     "geometryVerified": true,
+     "signsVerified": true,
+     "width": 320,
+     "height": 320,
+     "image": "assets/maps-hd/hd2d/0605.webp",
+     "scale": 4.0,
+     "check": {
+      "flagged": 1,
+      "boundaryFlagged": 0,
+      "tileVersionBoundaryFlagged": 0,
+      "uncertain": 0
+     },
+     "batch": "wholemap-fixpilot"
+    },
+    "0606": {
+     "status": "approved",
+     "source": "whole-map",
+     "geometryVerified": true,
+     "signsVerified": true,
+     "width": 320,
+     "height": 320,
+     "image": "assets/maps-hd/hd2d/0606.webp",
+     "scale": 4.0,
+     "check": {
+      "flagged": 0,
+      "boundaryFlagged": 0,
+      "tileVersionBoundaryFlagged": 0,
+      "uncertain": 0
+     },
+     "batch": "wholemap-v2-1"
+    },
+    "0607": {
+     "status": "approved",
+     "source": "whole-map",
+     "geometryVerified": true,
+     "signsVerified": true,
+     "width": 320,
+     "height": 320,
+     "image": "assets/maps-hd/hd2d/0607.webp",
+     "scale": 4.0,
+     "check": {
+      "flagged": 0,
+      "boundaryFlagged": 0,
+      "tileVersionBoundaryFlagged": 0,
+      "uncertain": 0
+     },
+     "batch": "wholemap-v2-1"
+    },
+    "0608": {
+     "status": "approved",
+     "source": "whole-map",
+     "geometryVerified": true,
+     "signsVerified": true,
+     "width": 320,
+     "height": 320,
+     "image": "assets/maps-hd/hd2d/0608.webp",
+     "scale": 4.0,
+     "check": {
+      "flagged": 0,
+      "boundaryFlagged": 0,
+      "tileVersionBoundaryFlagged": 0,
+      "uncertain": 0
+     },
+     "batch": "wholemap-v2-1"
+    },
+    "0609": {
+     "status": "approved",
+     "source": "whole-map",
+     "geometryVerified": true,
+     "signsVerified": true,
+     "width": 768,
+     "height": 544,
+     "image": "assets/maps-hd/hd2d/0609.webp",
+     "scale": 4.0,
+     "check": {
+      "flagged": 0,
+      "boundaryFlagged": 0,
+      "tileVersionBoundaryFlagged": 7,
+      "uncertain": 0
+     },
+     "batch": "wholemap-v2-1"
+    },
+    "0700": {
+     "status": "approved",
+     "source": "whole-map",
+     "geometryVerified": false,
+     "signsVerified": true,
+     "width": 512,
+     "height": 736,
+     "image": "assets/maps-hd/hd2d/0700.webp",
+     "scale": 4.0,
+     "check": {
+      "flagged": 3,
+      "boundaryFlagged": 3,
+      "tileVersionBoundaryFlagged": 0,
+      "uncertain": 39
+     },
+     "batch": "wholemap-v6-1"
+    },
+    "0701": {
+     "status": "approved",
+     "source": "whole-map",
+     "geometryVerified": true,
+     "signsVerified": true,
+     "width": 352,
+     "height": 416,
+     "image": "assets/maps-hd/hd2d/0701.webp",
+     "scale": 4.0,
+     "check": {
+      "flagged": 0,
+      "boundaryFlagged": 0,
+      "tileVersionBoundaryFlagged": 0,
+      "uncertain": 0
+     },
+     "batch": "wholemap-v2-1"
+    },
+    "0702": {
+     "status": "approved",
+     "source": "whole-map",
+     "geometryVerified": true,
+     "signsVerified": true,
+     "width": 320,
+     "height": 320,
+     "image": "assets/maps-hd/hd2d/0702.webp",
+     "scale": 4.0,
+     "check": {
+      "flagged": 2,
+      "boundaryFlagged": 0,
+      "tileVersionBoundaryFlagged": 0,
+      "uncertain": 0
+     },
+     "batch": "wholemap-v6-1"
+    },
+    "0703": {
+     "status": "approved",
+     "source": "whole-map",
+     "geometryVerified": true,
+     "signsVerified": true,
+     "width": 320,
+     "height": 320,
+     "image": "assets/maps-hd/hd2d/0703.webp",
+     "scale": 4.0,
+     "check": {
+      "flagged": 6,
+      "boundaryFlagged": 0,
+      "tileVersionBoundaryFlagged": 0,
+      "uncertain": 0
+     },
+     "batch": "wholemap-v6-1"
+    },
+    "0704": {
+     "status": "approved",
+     "source": "whole-map",
+     "geometryVerified": true,
+     "signsVerified": true,
+     "width": 320,
+     "height": 320,
+     "image": "assets/maps-hd/hd2d/0704.webp",
+     "scale": 4.0,
+     "check": {
+      "flagged": 0,
+      "boundaryFlagged": 0,
+      "tileVersionBoundaryFlagged": 0,
+      "uncertain": 0
+     },
+     "batch": "wholemap-v2-1"
+    },
+    "0705": {
+     "status": "approved",
+     "source": "whole-map",
+     "geometryVerified": true,
+     "signsVerified": true,
+     "width": 320,
+     "height": 320,
+     "image": "assets/maps-hd/hd2d/0705.webp",
+     "scale": 4.0,
+     "check": {
+      "flagged": 3,
+      "boundaryFlagged": 0,
+      "tileVersionBoundaryFlagged": 0,
+      "uncertain": 0
+     },
+     "batch": "wholemap-v2-2"
+    },
+    "0706": {
+     "status": "approved",
+     "source": "whole-map",
+     "geometryVerified": true,
+     "signsVerified": true,
+     "width": 320,
+     "height": 320,
+     "image": "assets/maps-hd/hd2d/0706.webp",
+     "scale": 4.0,
+     "check": {
+      "flagged": 0,
+      "boundaryFlagged": 0,
+      "tileVersionBoundaryFlagged": 0,
+      "uncertain": 0
+     },
+     "batch": "wholemap-v2-2"
+    },
+    "0707": {
+     "status": "approved",
+     "source": "whole-map",
+     "geometryVerified": true,
+     "signsVerified": true,
+     "width": 768,
+     "height": 640,
+     "image": "assets/maps-hd/hd2d/0707.webp",
+     "scale": 4.0,
+     "check": {
+      "flagged": 0,
+      "boundaryFlagged": 0,
+      "tileVersionBoundaryFlagged": 3,
+      "uncertain": 196
+     },
+     "batch": "wholemap-v2-2"
+    },
+    "0708": {
+     "status": "approved",
+     "source": "whole-map",
+     "geometryVerified": true,
+     "signsVerified": true,
+     "width": 768,
+     "height": 800,
+     "image": "assets/maps-hd/hd2d/0708.webp",
+     "scale": 3.5,
+     "check": {
+      "flagged": 1,
+      "boundaryFlagged": 1,
+      "tileVersionBoundaryFlagged": 20,
+      "uncertain": 23
+     },
+     "batch": "wholemap-v2-2"
+    },
+    "0709": {
+     "status": "approved",
+     "source": "whole-map",
+     "geometryVerified": true,
+     "signsVerified": true,
+     "width": 1024,
+     "height": 480,
+     "image": "assets/maps-hd/hd2d/0709.webp",
+     "scale": 3.5,
+     "check": {
+      "flagged": 1,
+      "boundaryFlagged": 1,
+      "tileVersionBoundaryFlagged": 8,
+      "uncertain": 95
+     },
+     "batch": "wholemap-v2-2"
+    },
+    "0800": {
+     "status": "approved",
+     "source": "whole-map",
+     "geometryVerified": true,
+     "signsVerified": true,
+     "width": 768,
+     "height": 480,
+     "image": "assets/maps-hd/hd2d/0800.webp",
+     "scale": 4.0,
+     "check": {
+      "flagged": 0,
+      "boundaryFlagged": 0,
+      "tileVersionBoundaryFlagged": 4,
+      "uncertain": 0
+     },
+     "batch": "wholemap-v6-1"
+    },
+    "0801": {
+     "status": "approved",
+     "source": "whole-map",
+     "geometryVerified": true,
+     "signsVerified": true,
+     "width": 320,
+     "height": 320,
+     "image": "assets/maps-hd/hd2d/0801.webp",
+     "scale": 4.0,
+     "check": {
+      "flagged": 0,
+      "boundaryFlagged": 0,
+      "tileVersionBoundaryFlagged": 1,
+      "uncertain": 0
+     },
+     "batch": "wholemap-v2-2"
+    },
+    "0802": {
+     "status": "approved",
+     "source": "whole-map",
+     "geometryVerified": true,
+     "signsVerified": true,
+     "width": 320,
+     "height": 384,
+     "image": "assets/maps-hd/hd2d/0802.webp",
+     "scale": 4.0,
+     "check": {
+      "flagged": 1,
+      "boundaryFlagged": 1,
+      "tileVersionBoundaryFlagged": 1,
+      "uncertain": 0
+     },
+     "batch": "wholemap-v2-2"
+    },
+    "0803": {
+     "status": "approved",
+     "source": "whole-map",
+     "geometryVerified": true,
+     "signsVerified": true,
+     "width": 320,
+     "height": 320,
+     "image": "assets/maps-hd/hd2d/0803.webp",
+     "scale": 4.0,
+     "check": {
+      "flagged": 0,
+      "boundaryFlagged": 0,
+      "tileVersionBoundaryFlagged": 1,
+      "uncertain": 0
+     },
+     "batch": "wholemap-v2-2"
+    },
+    "0804": {
+     "status": "approved",
+     "source": "whole-map",
+     "geometryVerified": true,
+     "signsVerified": true,
+     "width": 320,
+     "height": 320,
+     "image": "assets/maps-hd/hd2d/0804.webp",
+     "scale": 4.0,
+     "check": {
+      "flagged": 0,
+      "boundaryFlagged": 0,
+      "tileVersionBoundaryFlagged": 0,
+      "uncertain": 0
+     },
+     "batch": "wholemap-v5-1"
+    },
+    "0805": {
+     "status": "approved",
+     "source": "whole-map",
+     "geometryVerified": true,
+     "signsVerified": true,
+     "width": 320,
+     "height": 320,
+     "image": "assets/maps-hd/hd2d/0805.webp",
+     "scale": 4.0,
+     "check": {
+      "flagged": 0,
+      "boundaryFlagged": 0,
+      "tileVersionBoundaryFlagged": 2,
+      "uncertain": 0
+     },
+     "batch": "wholemap-v2-2"
+    },
+    "0806": {
+     "status": "approved",
+     "source": "whole-map",
+     "geometryVerified": true,
+     "signsVerified": true,
+     "width": 320,
+     "height": 320,
+     "image": "assets/maps-hd/hd2d/0806.webp",
+     "scale": 4.0,
+     "check": {
+      "flagged": 0,
+      "boundaryFlagged": 0,
+      "tileVersionBoundaryFlagged": 0,
+      "uncertain": 0
+     },
+     "batch": "wholemap-v6-1"
+    },
+    "0807": {
+     "status": "approved",
+     "source": "whole-map",
+     "geometryVerified": true,
+     "signsVerified": true,
+     "width": 320,
+     "height": 320,
+     "image": "assets/maps-hd/hd2d/0807.webp",
+     "scale": 4.0,
+     "check": {
+      "flagged": 0,
+      "boundaryFlagged": 0,
+      "tileVersionBoundaryFlagged": 0,
+      "uncertain": 0
+     },
+     "batch": "wholemap-v2-2"
+    },
+    "0808": {
+     "status": "approved",
+     "source": "whole-map",
+     "geometryVerified": true,
+     "signsVerified": true,
+     "width": 480,
+     "height": 640,
+     "image": "assets/maps-hd/hd2d/0808.webp",
+     "scale": 4.0,
+     "check": {
+      "flagged": 0,
+      "boundaryFlagged": 0,
+      "tileVersionBoundaryFlagged": 10,
+      "uncertain": 0
+     },
+     "batch": "wholemap-v2-2"
+    },
+    "0809": {
+     "status": "approved",
+     "source": "whole-map",
+     "geometryVerified": true,
+     "signsVerified": true,
+     "width": 768,
+     "height": 800,
+     "image": "assets/maps-hd/hd2d/0809.webp",
+     "scale": 3.5,
+     "check": {
+      "flagged": 4,
+      "boundaryFlagged": 0,
+      "tileVersionBoundaryFlagged": 4,
+      "uncertain": 1
+     },
+     "batch": "wholemap-v3-1"
+    },
+    "080a": {
+     "status": "approved",
+     "source": "whole-map",
+     "geometryVerified": false,
+     "signsVerified": true,
+     "width": 320,
+     "height": 320,
+     "image": "assets/maps-hd/hd2d/080a.webp",
+     "scale": 4.0,
+     "check": {
+      "flagged": 1,
+      "boundaryFlagged": 1,
+      "tileVersionBoundaryFlagged": 0,
+      "uncertain": 2
+     },
+     "batch": "wholemap-v2-2"
+    },
+    "080b": {
+     "status": "approved",
+     "source": "whole-map",
+     "geometryVerified": true,
+     "signsVerified": true,
+     "width": 320,
+     "height": 320,
+     "image": "assets/maps-hd/hd2d/080b.webp",
+     "scale": 4.0,
+     "check": {
+      "flagged": 0,
+      "boundaryFlagged": 0,
+      "tileVersionBoundaryFlagged": 0,
+      "uncertain": 0
+     },
+     "batch": "wholemap-v2-2"
+    },
+    "0900": {
+     "status": "approved",
+     "source": "whole-map",
+     "geometryVerified": false,
+     "signsVerified": true,
+     "width": 512,
+     "height": 640,
+     "image": "assets/maps-hd/hd2d/0900.webp",
+     "scale": 4.0,
+     "check": {
+      "flagged": 5,
+      "boundaryFlagged": 1,
+      "tileVersionBoundaryFlagged": 0,
+      "uncertain": 54
+     },
+     "batch": "wholemap-v6-1"
+    },
+    "0901": {
+     "status": "approved",
+     "source": "whole-map",
+     "geometryVerified": true,
+     "signsVerified": true,
+     "width": 320,
+     "height": 416,
+     "image": "assets/maps-hd/hd2d/0901.webp",
+     "scale": 4.0,
+     "check": {
+      "flagged": 0,
+      "boundaryFlagged": 0,
+      "tileVersionBoundaryFlagged": 0,
+      "uncertain": 0
+     },
+     "batch": "wholemap-v2-2"
+    },
+    "0902": {
+     "status": "approved",
+     "source": "whole-map",
+     "geometryVerified": true,
+     "signsVerified": true,
+     "width": 320,
+     "height": 320,
+     "image": "assets/maps-hd/hd2d/0902.webp",
+     "scale": 4.0,
+     "check": {
+      "flagged": 1,
+      "boundaryFlagged": 1,
+      "tileVersionBoundaryFlagged": 1,
+      "uncertain": 0
+     },
+     "batch": "wholemap-v2-2"
+    },
+    "0903": {
+     "status": "approved",
+     "source": "whole-map",
+     "geometryVerified": true,
+     "signsVerified": true,
+     "width": 320,
+     "height": 320,
+     "image": "assets/maps-hd/hd2d/0903.webp",
+     "scale": 4.0,
+     "check": {
+      "flagged": 0,
+      "boundaryFlagged": 0,
+      "tileVersionBoundaryFlagged": 0,
+      "uncertain": 0
+     },
+     "batch": "wholemap-v2-2"
+    },
+    "0904": {
+     "status": "approved",
+     "source": "whole-map",
+     "geometryVerified": true,
+     "signsVerified": true,
+     "width": 320,
+     "height": 320,
+     "image": "assets/maps-hd/hd2d/0904.webp",
+     "scale": 4.0,
+     "check": {
+      "flagged": 0,
+      "boundaryFlagged": 0,
+      "tileVersionBoundaryFlagged": 0,
+      "uncertain": 0
+     },
+     "batch": "wholemap-v2-2"
+    },
+    "0905": {
+     "status": "approved",
+     "source": "whole-map",
+     "geometryVerified": true,
+     "signsVerified": true,
+     "width": 320,
+     "height": 320,
+     "image": "assets/maps-hd/hd2d/0905.webp",
+     "scale": 4.0,
+     "check": {
+      "flagged": 0,
+      "boundaryFlagged": 0,
+      "tileVersionBoundaryFlagged": 0,
+      "uncertain": 0
+     },
+     "batch": "wholemap-v2-2"
+    },
+    "0906": {
+     "status": "approved",
+     "source": "whole-map",
+     "geometryVerified": true,
+     "signsVerified": true,
+     "width": 512,
+     "height": 960,
+     "image": "assets/maps-hd/hd2d/0906.webp",
+     "scale": 4.0,
+     "check": {
+      "flagged": 2,
+      "boundaryFlagged": 2,
+      "tileVersionBoundaryFlagged": 10,
+      "uncertain": 91
+     },
+     "batch": "wholemap-v3-1"
+    },
+    "0907": {
+     "status": "approved",
+     "source": "whole-map",
+     "geometryVerified": false,
+     "signsVerified": true,
+     "width": 1024,
+     "height": 640,
+     "image": "assets/maps-hd/hd2d/0907.webp",
+     "scale": 3.5,
+     "check": {
+      "flagged": 3,
+      "boundaryFlagged": 1,
+      "tileVersionBoundaryFlagged": 0,
+      "uncertain": 235
+     },
+     "batch": "wholemap-v5-1"
+    },
+    "0908": {
+     "status": "approved",
+     "source": "whole-map",
+     "geometryVerified": true,
+     "signsVerified": true,
+     "width": 768,
+     "height": 800,
+     "image": "assets/maps-hd/hd2d/0908.webp",
+     "scale": 3.5,
+     "check": {
+      "flagged": 1,
+      "boundaryFlagged": 0,
+      "tileVersionBoundaryFlagged": 0,
+      "uncertain": 59
+     },
+     "batch": "wholemap-v2-2"
+    },
+    "0a00": {
+     "status": "approved",
+     "source": "whole-map",
+     "geometryVerified": false,
+     "signsVerified": true,
+     "width": 480,
+     "height": 800,
+     "image": "assets/maps-hd/hd2d/0a00.webp",
+     "scale": 4.0,
+     "check": {
+      "flagged": 10,
+      "boundaryFlagged": 10,
+      "tileVersionBoundaryFlagged": 0,
+      "uncertain": 1
+     },
+     "batch": "wholemap-v6-1"
+    },
+    "0a01": {
+     "status": "approved",
+     "source": "whole-map",
+     "geometryVerified": true,
+     "signsVerified": true,
+     "width": 320,
+     "height": 480,
+     "image": "assets/maps-hd/hd2d/0a01.webp",
+     "scale": 4.0,
+     "check": {
+      "flagged": 0,
+      "boundaryFlagged": 0,
+      "tileVersionBoundaryFlagged": 0,
+      "uncertain": 0
+     },
+     "batch": "wholemap-v2-2"
+    },
+    "0a02": {
+     "status": "approved",
+     "source": "whole-map",
+     "geometryVerified": true,
+     "signsVerified": true,
+     "width": 320,
+     "height": 320,
+     "image": "assets/maps-hd/hd2d/0a02.webp",
+     "scale": 4.0,
+     "check": {
+      "flagged": 11,
+      "boundaryFlagged": 0,
+      "tileVersionBoundaryFlagged": 0,
+      "uncertain": 0
+     },
+     "batch": "wholemap-v2-2"
+    },
+    "0a03": {
+     "status": "approved",
+     "source": "whole-map",
+     "geometryVerified": true,
+     "signsVerified": true,
+     "width": 320,
+     "height": 320,
+     "image": "assets/maps-hd/hd2d/0a03.webp",
+     "scale": 4.0,
+     "check": {
+      "flagged": 0,
+      "boundaryFlagged": 0,
+      "tileVersionBoundaryFlagged": 0,
+      "uncertain": 0
+     },
+     "batch": "wholemap-v5-1"
+    },
+    "0a04": {
+     "status": "approved",
+     "source": "whole-map",
+     "geometryVerified": true,
+     "signsVerified": true,
+     "width": 320,
+     "height": 320,
+     "image": "assets/maps-hd/hd2d/0a04.webp",
+     "scale": 4.0,
+     "check": {
+      "flagged": 2,
+      "boundaryFlagged": 0,
+      "tileVersionBoundaryFlagged": 3,
+      "uncertain": 0
+     },
+     "batch": "wholemap-v2-2"
+    },
+    "0a05": {
+     "status": "approved",
+     "source": "whole-map",
+     "geometryVerified": true,
+     "signsVerified": true,
+     "width": 320,
+     "height": 320,
+     "image": "assets/maps-hd/hd2d/0a05.webp",
+     "scale": 4.0,
+     "check": {
+      "flagged": 0,
+      "boundaryFlagged": 0,
+      "tileVersionBoundaryFlagged": 0,
+      "uncertain": 0
+     },
+     "batch": "wholemap-v5-1"
+    },
+    "0a06": {
+     "status": "approved",
+     "source": "whole-map",
+     "geometryVerified": true,
+     "signsVerified": true,
+     "width": 768,
+     "height": 800,
+     "image": "assets/maps-hd/hd2d/0a06.webp",
+     "scale": 3.5,
+     "check": {
+      "flagged": 0,
+      "boundaryFlagged": 0,
+      "tileVersionBoundaryFlagged": 0,
+      "uncertain": 76
+     },
+     "batch": "wholemap-v2-2"
+    },
+    "0a07": {
+     "status": "approved",
+     "source": "whole-map",
+     "geometryVerified": true,
+     "signsVerified": true,
+     "width": 352,
+     "height": 384,
+     "image": "assets/maps-hd/hd2d/0a07.webp",
+     "scale": 4.0,
+     "check": {
+      "flagged": 1,
+      "boundaryFlagged": 0,
+      "tileVersionBoundaryFlagged": 0,
+      "uncertain": 0
+     },
+     "batch": "wholemap-v2-2"
+    },
+    "0a08": {
+     "status": "approved",
+     "source": "whole-map",
+     "geometryVerified": true,
+     "signsVerified": true,
+     "width": 768,
+     "height": 960,
+     "image": "assets/maps-hd/hd2d/0a08.webp",
+     "scale": 3.0,
+     "check": {
+      "flagged": 0,
+      "boundaryFlagged": 0,
+      "tileVersionBoundaryFlagged": 0,
+      "uncertain": 106
+     },
+     "batch": "wholemap-v2-2"
+    },
+    "0b00": {
+     "status": "approved",
+     "source": "whole-map",
+     "geometryVerified": true,
+     "signsVerified": true,
+     "width": 512,
+     "height": 480,
+     "image": "assets/maps-hd/hd2d/0b00.webp",
+     "scale": 4.0,
+     "check": {
+      "flagged": 0,
+      "boundaryFlagged": 0,
+      "tileVersionBoundaryFlagged": 0,
+      "uncertain": 16
+     },
+     "batch": "wholemap-v3-1"
+    },
+    "0b01": {
+     "status": "approved",
+     "source": "whole-map",
+     "geometryVerified": true,
+     "signsVerified": true,
+     "width": 320,
+     "height": 320,
+     "image": "assets/maps-hd/hd2d/0b01.webp",
+     "scale": 4.0,
+     "check": {
+      "flagged": 0,
+      "boundaryFlagged": 0,
+      "tileVersionBoundaryFlagged": 1,
+      "uncertain": 0
+     },
+     "batch": "wholemap-v2-2"
+    },
+    "0b02": {
+     "status": "approved",
+     "source": "whole-map",
+     "geometryVerified": true,
+     "signsVerified": true,
+     "width": 320,
+     "height": 320,
+     "image": "assets/maps-hd/hd2d/0b02.webp",
+     "scale": 4.0,
+     "check": {
+      "flagged": 0,
+      "boundaryFlagged": 0,
+      "tileVersionBoundaryFlagged": 0,
+      "uncertain": 0
+     },
+     "batch": "wholemap-v5-1"
+    },
+    "0b03": {
+     "status": "approved",
+     "source": "whole-map",
+     "geometryVerified": true,
+     "signsVerified": true,
+     "width": 320,
+     "height": 320,
+     "image": "assets/maps-hd/hd2d/0b03.webp",
+     "scale": 4.0,
+     "check": {
+      "flagged": 0,
+      "boundaryFlagged": 0,
+      "tileVersionBoundaryFlagged": 0,
+      "uncertain": 0
+     },
+     "batch": "wholemap-v2-2"
+    },
+    "0b04": {
+     "status": "approved",
+     "source": "whole-map",
+     "geometryVerified": true,
+     "signsVerified": true,
+     "width": 320,
+     "height": 320,
+     "image": "assets/maps-hd/hd2d/0b04.webp",
+     "scale": 4.0,
+     "check": {
+      "flagged": 0,
+      "boundaryFlagged": 0,
+      "tileVersionBoundaryFlagged": 0,
+      "uncertain": 0
+     },
+     "batch": "wholemap-v2-2"
+    },
+    "0b05": {
+     "status": "approved",
+     "source": "whole-map",
+     "geometryVerified": false,
+     "signsVerified": true,
+     "width": 1024,
+     "height": 800,
+     "image": "assets/maps-hd/hd2d/0b05.webp",
+     "scale": 3.0,
+     "check": {
+      "flagged": 9,
+      "boundaryFlagged": 9,
+      "tileVersionBoundaryFlagged": 0,
+      "uncertain": 201
+     },
+     "batch": "wholemap-v5-1"
+    },
+    "0b06": {
+     "status": "approved",
+     "source": "whole-map",
+     "geometryVerified": false,
+     "signsVerified": true,
+     "width": 768,
+     "height": 960,
+     "image": "assets/maps-hd/hd2d/0b06.webp",
+     "scale": 3.0,
+     "check": {
+      "flagged": 6,
+      "boundaryFlagged": 6,
+      "tileVersionBoundaryFlagged": 0,
+      "uncertain": 0
+     },
+     "batch": "wholemap-v6-1"
+    },
+    "0b07": {
+     "status": "approved",
+     "source": "whole-map",
+     "geometryVerified": true,
+     "signsVerified": true,
+     "width": 768,
+     "height": 800,
+     "image": "assets/maps-hd/hd2d/0b07.webp",
+     "scale": 3.5,
+     "check": {
+      "flagged": 5,
+      "boundaryFlagged": 4,
+      "tileVersionBoundaryFlagged": 4,
+      "uncertain": 281
+     },
+     "batch": "wholemap-v2-2"
+    },
+    "0b08": {
+     "status": "approved",
+     "source": "whole-map",
+     "geometryVerified": true,
+     "signsVerified": true,
+     "width": 1024,
+     "height": 640,
+     "image": "assets/maps-hd/hd2d/0b08.webp",
+     "scale": 3.5,
+     "check": {
+      "flagged": 0,
+      "boundaryFlagged": 0,
+      "tileVersionBoundaryFlagged": 30,
+      "uncertain": 0
+     },
+     "batch": "wholemap-v5-1"
+    },
+    "0b09": {
+     "status": "approved",
+     "source": "whole-map",
+     "geometryVerified": true,
+     "signsVerified": true,
+     "width": 768,
+     "height": 800,
+     "image": "assets/maps-hd/hd2d/0b09.webp",
+     "scale": 3.5,
+     "check": {
+      "flagged": 5,
+      "boundaryFlagged": 0,
+      "tileVersionBoundaryFlagged": 0,
+      "uncertain": 134
+     },
+     "batch": "wholemap-v2-2"
+    },
+    "0b0a": {
+     "status": "approved",
+     "source": "whole-map",
+     "geometryVerified": true,
+     "signsVerified": true,
+     "width": 768,
+     "height": 960,
+     "image": "assets/maps-hd/hd2d/0b0a.webp",
+     "scale": 3.0,
+     "check": {
+      "flagged": 3,
+      "boundaryFlagged": 3,
+      "tileVersionBoundaryFlagged": 39,
+      "uncertain": 33
+     },
+     "batch": "wholemap-v2-2"
+    },
+    "0c00": {
+     "status": "approved",
+     "source": "whole-map",
+     "geometryVerified": true,
+     "signsVerified": true,
+     "width": 512,
+     "height": 416,
+     "image": "assets/maps-hd/hd2d/0c00.webp",
+     "scale": 4.0,
+     "check": {
+      "flagged": 0,
+      "boundaryFlagged": 0,
+      "tileVersionBoundaryFlagged": 0,
+      "uncertain": 16
+     },
+     "batch": "wholemap-v5-1"
+    },
+    "0c01": {
+     "status": "approved",
+     "source": "whole-map",
+     "geometryVerified": true,
+     "signsVerified": true,
+     "width": 320,
+     "height": 320,
+     "image": "assets/maps-hd/hd2d/0c01.webp",
+     "scale": 4.0,
+     "check": {
+      "flagged": 0,
+      "boundaryFlagged": 0,
+      "tileVersionBoundaryFlagged": 0,
+      "uncertain": 0
+     },
+     "batch": "wholemap-v2-2"
+    },
+    "0c02": {
+     "status": "approved",
+     "source": "whole-map",
+     "geometryVerified": true,
+     "signsVerified": true,
+     "width": 320,
+     "height": 320,
+     "image": "assets/maps-hd/hd2d/0c02.webp",
+     "scale": 4.0,
+     "check": {
+      "flagged": 0,
+      "boundaryFlagged": 0,
+      "tileVersionBoundaryFlagged": 0,
+      "uncertain": 0
+     },
+     "batch": "wholemap-v2-2"
+    },
+    "0c03": {
+     "status": "approved",
+     "source": "whole-map",
+     "geometryVerified": true,
+     "signsVerified": true,
+     "width": 320,
+     "height": 320,
+     "image": "assets/maps-hd/hd2d/0c03.webp",
+     "scale": 4.0,
+     "check": {
+      "flagged": 0,
+      "boundaryFlagged": 0,
+      "tileVersionBoundaryFlagged": 0,
+      "uncertain": 0
+     },
+     "batch": "wholemap-v2-2"
+    },
+    "0c04": {
+     "status": "approved",
+     "source": "whole-map",
+     "geometryVerified": false,
+     "signsVerified": true,
+     "width": 768,
+     "height": 960,
+     "image": "assets/maps-hd/hd2d/0c04.webp",
+     "scale": 3.0,
+     "check": {
+      "flagged": 1,
+      "boundaryFlagged": 1,
+      "tileVersionBoundaryFlagged": 0,
+      "uncertain": 193
+     },
+     "batch": "wholemap-v6-1"
+    },
+    "0c05": {
+     "status": "approved",
+     "source": "whole-map",
+     "geometryVerified": false,
+     "signsVerified": true,
+     "width": 1024,
+     "height": 640,
+     "image": "assets/maps-hd/hd2d/0c05.webp",
+     "scale": 3.5,
+     "check": {
+      "flagged": 3,
+      "boundaryFlagged": 3,
+      "tileVersionBoundaryFlagged": 0,
+      "uncertain": 231
+     },
+     "batch": "wholemap-v2-3"
+    },
+    "0c06": {
+     "status": "approved",
+     "source": "whole-map",
+     "geometryVerified": false,
+     "signsVerified": true,
+     "width": 768,
+     "height": 800,
+     "image": "assets/maps-hd/hd2d/0c06.webp",
+     "scale": 3.5,
+     "check": {
+      "flagged": 8,
+      "boundaryFlagged": 5,
+      "tileVersionBoundaryFlagged": 0,
+      "uncertain": 149
+     },
+     "batch": "wholemap-v3-1"
+    },
+    "0c07": {
+     "status": "approved",
+     "source": "whole-map",
+     "geometryVerified": false,
+     "signsVerified": true,
+     "width": 768,
+     "height": 960,
+     "image": "assets/maps-hd/hd2d/0c07.webp",
+     "scale": 3.0,
+     "check": {
+      "flagged": 3,
+      "boundaryFlagged": 1,
+      "tileVersionBoundaryFlagged": 0,
+      "uncertain": 172
+     },
+     "batch": "wholemap-v6-1"
+    },
+    "0c08": {
+     "status": "approved",
+     "source": "whole-map",
+     "geometryVerified": false,
+     "signsVerified": true,
+     "width": 768,
+     "height": 640,
+     "image": "assets/maps-hd/hd2d/0c08.webp",
+     "scale": 4.0,
+     "check": {
+      "flagged": 10,
+      "boundaryFlagged": 4,
+      "tileVersionBoundaryFlagged": 0,
+      "uncertain": 22
+     },
+     "batch": "wholemap-v5-1"
+    }
+   }
+  },
+  "ghibli": {
+   "maps": {
+    "0100": {
+     "status": "approved",
+     "source": "whole-map",
+     "geometryVerified": false,
+     "signsVerified": true,
+     "width": 768,
+     "height": 640,
+     "image": "assets/maps-hd/ghibli/0100.webp",
+     "scale": 4.0,
+     "check": {
+      "flagged": 16,
+      "boundaryFlagged": 14,
+      "tileVersionBoundaryFlagged": 10,
+      "uncertain": 68
+     },
+     "batch": "wholemap-v6-1"
+    },
+    "0101": {
+     "status": "approved",
+     "source": "whole-map",
+     "geometryVerified": true,
+     "signsVerified": true,
+     "width": 320,
+     "height": 320,
+     "image": "assets/maps-hd/ghibli/0101.webp",
+     "scale": 4.0,
+     "check": {
+      "flagged": 0,
+      "boundaryFlagged": 0,
+      "tileVersionBoundaryFlagged": 1,
+      "uncertain": 0
+     },
+     "batch": "wholemap-v2-1"
+    },
+    "0102": {
+     "status": "approved",
+     "source": "whole-map",
+     "geometryVerified": true,
+     "signsVerified": true,
+     "width": 320,
+     "height": 480,
+     "image": "assets/maps-hd/ghibli/0102.webp",
+     "scale": 4.0,
+     "check": {
+      "flagged": 2,
+      "boundaryFlagged": 2,
+      "tileVersionBoundaryFlagged": 4,
+      "uncertain": 0
+     },
+     "batch": "wholemap-fixpilot"
+    },
+    "0103": {
+     "status": "approved",
+     "source": "whole-map",
+     "geometryVerified": true,
+     "signsVerified": true,
+     "width": 320,
+     "height": 320,
+     "image": "assets/maps-hd/ghibli/0103.webp",
+     "scale": 4.0,
+     "check": {
+      "flagged": 0,
+      "boundaryFlagged": 0,
+      "tileVersionBoundaryFlagged": 1,
+      "uncertain": 0
+     },
+     "batch": "wholemap-v5-1"
+    },
+    "0104": {
+     "status": "approved",
+     "source": "whole-map",
+     "geometryVerified": true,
+     "signsVerified": true,
+     "width": 320,
+     "height": 320,
+     "image": "assets/maps-hd/ghibli/0104.webp",
+     "scale": 4.0,
+     "check": {
+      "flagged": 0,
+      "boundaryFlagged": 0,
+      "tileVersionBoundaryFlagged": 0,
+      "uncertain": 0
+     },
+     "batch": "wholemap-v2-1"
+    },
+    "0105": {
+     "status": "approved",
+     "source": "whole-map",
+     "geometryVerified": true,
+     "signsVerified": true,
+     "width": 320,
+     "height": 320,
+     "image": "assets/maps-hd/ghibli/0105.webp",
+     "scale": 4.0,
+     "check": {
+      "flagged": 0,
+      "boundaryFlagged": 0,
+      "tileVersionBoundaryFlagged": 1,
+      "uncertain": 0
+     },
+     "batch": "wholemap-v2-1"
+    },
+    "0106": {
+     "status": "approved",
+     "source": "whole-map",
+     "geometryVerified": true,
+     "signsVerified": true,
+     "width": 320,
+     "height": 320,
+     "image": "assets/maps-hd/ghibli/0106.webp",
+     "scale": 4.0,
+     "check": {
+      "flagged": 0,
+      "boundaryFlagged": 0,
+      "tileVersionBoundaryFlagged": 1,
+      "uncertain": 0
+     },
+     "batch": "wholemap-v2-1"
+    },
+    "0107": {
+     "status": "approved",
+     "source": "whole-map",
+     "geometryVerified": true,
+     "signsVerified": true,
+     "width": 320,
+     "height": 320,
+     "image": "assets/maps-hd/ghibli/0107.webp",
+     "scale": 4.0,
+     "check": {
+      "flagged": 0,
+      "boundaryFlagged": 0,
+      "tileVersionBoundaryFlagged": 0,
+      "uncertain": 0
+     },
+     "batch": "wholemap-v2-1"
+    },
+    "0200": {
+     "status": "approved",
+     "source": "whole-map",
+     "geometryVerified": false,
+     "signsVerified": true,
+     "width": 768,
+     "height": 480,
+     "image": "assets/maps-hd/ghibli/0200.webp",
+     "scale": 4.0,
+     "check": {
+      "flagged": 1,
+      "boundaryFlagged": 1,
+      "tileVersionBoundaryFlagged": 0,
+      "uncertain": 60
+     },
+     "batch": "wholemap-v5-1"
+    },
+    "0201": {
+     "status": "approved",
+     "source": "whole-map",
+     "geometryVerified": true,
+     "signsVerified": true,
+     "width": 320,
+     "height": 320,
+     "image": "assets/maps-hd/ghibli/0201.webp",
+     "scale": 4.0,
+     "check": {
+      "flagged": 0,
+      "boundaryFlagged": 0,
+      "tileVersionBoundaryFlagged": 0,
+      "uncertain": 0
+     },
+     "batch": "wholemap-v2-1"
+    },
+    "0202": {
+     "status": "approved",
+     "source": "whole-map",
+     "geometryVerified": true,
+     "signsVerified": true,
+     "width": 320,
+     "height": 320,
+     "image": "assets/maps-hd/ghibli/0202.webp",
+     "scale": 4.0,
+     "check": {
+      "flagged": 1,
+      "boundaryFlagged": 0,
+      "tileVersionBoundaryFlagged": 0,
+      "uncertain": 0
+     },
+     "batch": "wholemap-v2-1"
+    },
+    "0203": {
+     "status": "approved",
+     "source": "whole-map",
+     "geometryVerified": true,
+     "signsVerified": true,
+     "width": 320,
+     "height": 320,
+     "image": "assets/maps-hd/ghibli/0203.webp",
+     "scale": 4.0,
+     "check": {
+      "flagged": 0,
+      "boundaryFlagged": 0,
+      "tileVersionBoundaryFlagged": 0,
+      "uncertain": 0
+     },
+     "batch": "wholemap-v5-1"
+    },
+    "0204": {
+     "status": "approved",
+     "source": "whole-map",
+     "geometryVerified": true,
+     "signsVerified": true,
+     "width": 320,
+     "height": 320,
+     "image": "assets/maps-hd/ghibli/0204.webp",
+     "scale": 4.0,
+     "check": {
+      "flagged": 0,
+      "boundaryFlagged": 0,
+      "tileVersionBoundaryFlagged": 0,
+      "uncertain": 0
+     },
+     "batch": "wholemap-v2-1"
+    },
+    "0205": {
+     "status": "approved",
+     "source": "whole-map",
+     "geometryVerified": true,
+     "signsVerified": true,
+     "width": 320,
+     "height": 320,
+     "image": "assets/maps-hd/ghibli/0205.webp",
+     "scale": 4.0,
+     "check": {
+      "flagged": 0,
+      "boundaryFlagged": 0,
+      "tileVersionBoundaryFlagged": 0,
+      "uncertain": 0
+     },
+     "batch": "wholemap-v2-1"
+    },
+    "0206": {
+     "status": "approved",
+     "source": "whole-map",
+     "geometryVerified": true,
+     "signsVerified": true,
+     "width": 768,
+     "height": 480,
+     "image": "assets/maps-hd/ghibli/0206.webp",
+     "scale": 4.0,
+     "check": {
+      "flagged": 0,
+      "boundaryFlagged": 0,
+      "tileVersionBoundaryFlagged": 0,
+      "uncertain": 216
+     },
+     "batch": "wholemap-v2-1"
+    },
+    "0207": {
+     "status": "approved",
+     "source": "whole-map",
+     "geometryVerified": true,
+     "signsVerified": true,
+     "width": 512,
+     "height": 736,
+     "image": "assets/maps-hd/ghibli/0207.webp",
+     "scale": 4.0,
+     "check": {
+      "flagged": 0,
+      "boundaryFlagged": 0,
+      "tileVersionBoundaryFlagged": 0,
+      "uncertain": 131
+     },
+     "batch": "wholemap-1"
+    },
+    "0300": {
+     "status": "approved",
+     "source": "whole-map",
+     "geometryVerified": true,
+     "signsVerified": true,
+     "width": 1024,
+     "height": 480,
+     "image": "assets/maps-hd/ghibli/0300.webp",
+     "scale": 3.5,
+     "check": {
+      "flagged": 16,
+      "boundaryFlagged": 12,
+      "tileVersionBoundaryFlagged": 35,
+      "uncertain": 153
+     },
+     "batch": "wholemap-1"
+    },
+    "0301": {
+     "status": "approved",
+     "source": "whole-map",
+     "geometryVerified": true,
+     "signsVerified": true,
+     "width": 320,
+     "height": 320,
+     "image": "assets/maps-hd/ghibli/0301.webp",
+     "scale": 4.0,
+     "check": {
+      "flagged": 1,
+      "boundaryFlagged": 0,
+      "tileVersionBoundaryFlagged": 0,
+      "uncertain": 0
+     },
+     "batch": "wholemap-v2-1"
+    },
+    "0302": {
+     "status": "approved",
+     "source": "whole-map",
+     "geometryVerified": true,
+     "signsVerified": true,
+     "width": 320,
+     "height": 320,
+     "image": "assets/maps-hd/ghibli/0302.webp",
+     "scale": 4.0,
+     "check": {
+      "flagged": 0,
+      "boundaryFlagged": 0,
+      "tileVersionBoundaryFlagged": 0,
+      "uncertain": 0
+     },
+     "batch": "wholemap-v2-1"
+    },
+    "0303": {
+     "status": "approved",
+     "source": "whole-map",
+     "geometryVerified": true,
+     "signsVerified": true,
+     "width": 320,
+     "height": 320,
+     "image": "assets/maps-hd/ghibli/0303.webp",
+     "scale": 4.0,
+     "check": {
+      "flagged": 0,
+      "boundaryFlagged": 0,
+      "tileVersionBoundaryFlagged": 0,
+      "uncertain": 0
+     },
+     "batch": "wholemap-v5-1"
+    },
+    "0304": {
+     "status": "approved",
+     "source": "whole-map",
+     "geometryVerified": true,
+     "signsVerified": true,
+     "width": 320,
+     "height": 320,
+     "image": "assets/maps-hd/ghibli/0304.webp",
+     "scale": 4.0,
+     "check": {
+      "flagged": 0,
+      "boundaryFlagged": 0,
+      "tileVersionBoundaryFlagged": 0,
+      "uncertain": 0
+     },
+     "batch": "wholemap-v2-1"
+    },
+    "0305": {
+     "status": "approved",
+     "source": "whole-map",
+     "geometryVerified": true,
+     "signsVerified": true,
+     "width": 320,
+     "height": 320,
+     "image": "assets/maps-hd/ghibli/0305.webp",
+     "scale": 4.0,
+     "check": {
+      "flagged": 0,
+      "boundaryFlagged": 0,
+      "tileVersionBoundaryFlagged": 0,
+      "uncertain": 0
+     },
+     "batch": "wholemap-v2-1"
+    },
+    "0306": {
+     "status": "approved",
+     "source": "whole-map",
+     "geometryVerified": true,
+     "signsVerified": true,
+     "width": 320,
+     "height": 320,
+     "image": "assets/maps-hd/ghibli/0306.webp",
+     "scale": 4.0,
+     "check": {
+      "flagged": 0,
+      "boundaryFlagged": 0,
+      "tileVersionBoundaryFlagged": 0,
+      "uncertain": 0
+     },
+     "batch": "wholemap-v2-1"
+    },
+    "0307": {
+     "status": "approved",
+     "source": "whole-map",
+     "geometryVerified": false,
+     "signsVerified": true,
+     "width": 768,
+     "height": 800,
+     "image": "assets/maps-hd/ghibli/0307.webp",
+     "scale": 3.5,
+     "check": {
+      "flagged": 2,
+      "boundaryFlagged": 2,
+      "tileVersionBoundaryFlagged": 1,
+      "uncertain": 34
+     },
+     "batch": "wholemap-v5-1"
+    },
+    "0308": {
+     "status": "approved",
+     "source": "whole-map",
+     "geometryVerified": true,
+     "signsVerified": true,
+     "width": 416,
+     "height": 800,
+     "image": "assets/maps-hd/ghibli/0308.webp",
+     "scale": 4.0,
+     "check": {
+      "flagged": 0,
+      "boundaryFlagged": 0,
+      "tileVersionBoundaryFlagged": 0,
+      "uncertain": 0
+     },
+     "batch": "wholemap-v2-1"
+    },
+    "0309": {
+     "status": "approved",
+     "source": "whole-map",
+     "geometryVerified": true,
+     "signsVerified": true,
+     "width": 384,
+     "height": 960,
+     "image": "assets/maps-hd/ghibli/0309.webp",
+     "scale": 4.0,
+     "check": {
+      "flagged": 1,
+      "boundaryFlagged": 0,
+      "tileVersionBoundaryFlagged": 0,
+      "uncertain": 150
+     },
+     "batch": "wholemap-1"
+    },
+    "0400": {
+     "status": "approved",
+     "source": "whole-map",
+     "geometryVerified": true,
+     "signsVerified": true,
+     "width": 512,
+     "height": 896,
+     "image": "assets/maps-hd/ghibli/0400.webp",
+     "scale": 4.0,
+     "check": {
+      "flagged": 0,
+      "boundaryFlagged": 0,
+      "tileVersionBoundaryFlagged": 25,
+      "uncertain": 10
+     },
+     "batch": "wholemap-v2-1"
+    },
+    "0401": {
+     "status": "approved",
+     "source": "whole-map",
+     "geometryVerified": true,
+     "signsVerified": true,
+     "width": 320,
+     "height": 320,
+     "image": "assets/maps-hd/ghibli/0401.webp",
+     "scale": 4.0,
+     "check": {
+      "flagged": 0,
+      "boundaryFlagged": 0,
+      "tileVersionBoundaryFlagged": 0,
+      "uncertain": 0
+     },
+     "batch": "wholemap-v2-1"
+    },
+    "0402": {
+     "status": "approved",
+     "source": "whole-map",
+     "geometryVerified": true,
+     "signsVerified": true,
+     "width": 320,
+     "height": 320,
+     "image": "assets/maps-hd/ghibli/0402.webp",
+     "scale": 4.0,
+     "check": {
+      "flagged": 0,
+      "boundaryFlagged": 0,
+      "tileVersionBoundaryFlagged": 0,
+      "uncertain": 0
+     },
+     "batch": "wholemap-v2-1"
+    },
+    "0403": {
+     "status": "approved",
+     "source": "whole-map",
+     "geometryVerified": true,
+     "signsVerified": true,
+     "width": 320,
+     "height": 320,
+     "image": "assets/maps-hd/ghibli/0403.webp",
+     "scale": 4.0,
+     "check": {
+      "flagged": 0,
+      "boundaryFlagged": 0,
+      "tileVersionBoundaryFlagged": 3,
+      "uncertain": 0
+     },
+     "batch": "wholemap-v2-1"
+    },
+    "0404": {
+     "status": "approved",
+     "source": "whole-map",
+     "geometryVerified": true,
+     "signsVerified": true,
+     "width": 384,
+     "height": 384,
+     "image": "assets/maps-hd/ghibli/0404.webp",
+     "scale": 4.0,
+     "check": {
+      "flagged": 0,
+      "boundaryFlagged": 0,
+      "tileVersionBoundaryFlagged": 2,
+      "uncertain": 0
+     },
+     "batch": "wholemap-v2-1"
+    },
+    "0405": {
+     "status": "approved",
+     "source": "whole-map",
+     "geometryVerified": true,
+     "signsVerified": true,
+     "width": 320,
+     "height": 384,
+     "image": "assets/maps-hd/ghibli/0405.webp",
+     "scale": 4.0,
+     "check": {
+      "flagged": 0,
+      "boundaryFlagged": 0,
+      "tileVersionBoundaryFlagged": 4,
+      "uncertain": 0
+     },
+     "batch": "wholemap-v2-1"
+    },
+    "0406": {
+     "status": "approved",
+     "source": "whole-map",
+     "geometryVerified": true,
+     "signsVerified": true,
+     "width": 320,
+     "height": 320,
+     "image": "assets/maps-hd/ghibli/0406.webp",
+     "scale": 4.0,
+     "check": {
+      "flagged": 0,
+      "boundaryFlagged": 0,
+      "tileVersionBoundaryFlagged": 0,
+      "uncertain": 0
+     },
+     "batch": "wholemap-v2-1"
+    },
+    "0407": {
+     "status": "approved",
+     "source": "whole-map",
+     "geometryVerified": true,
+     "signsVerified": true,
+     "width": 320,
+     "height": 320,
+     "image": "assets/maps-hd/ghibli/0407.webp",
+     "scale": 4.0,
+     "check": {
+      "flagged": 0,
+      "boundaryFlagged": 0,
+      "tileVersionBoundaryFlagged": 1,
+      "uncertain": 0
+     },
+     "batch": "wholemap-v2-1"
+    },
+    "0408": {
+     "status": "approved",
+     "source": "whole-map",
+     "geometryVerified": false,
+     "signsVerified": true,
+     "width": 768,
+     "height": 480,
+     "image": "assets/maps-hd/ghibli/0408.webp",
+     "scale": 4.0,
+     "check": {
+      "flagged": 1,
+      "boundaryFlagged": 1,
+      "tileVersionBoundaryFlagged": 0,
+      "uncertain": 0
+     },
+     "batch": "wholemap-v6-1"
+    },
+    "0409": {
+     "status": "approved",
+     "source": "whole-map",
+     "geometryVerified": true,
+     "signsVerified": true,
+     "width": 768,
+     "height": 640,
+     "image": "assets/maps-hd/ghibli/0409.webp",
+     "scale": 4.0,
+     "check": {
+      "flagged": 2,
+      "boundaryFlagged": 0,
+      "tileVersionBoundaryFlagged": 3,
+      "uncertain": 236
+     },
+     "batch": "wholemap-v5-1"
+    },
+    "0500": {
+     "status": "approved",
+     "source": "whole-map",
+     "geometryVerified": true,
+     "signsVerified": true,
+     "width": 768,
+     "height": 576,
+     "image": "assets/maps-hd/ghibli/0500.webp",
+     "scale": 4.0,
+     "check": {
+      "flagged": 32,
+      "boundaryFlagged": 30,
+      "tileVersionBoundaryFlagged": 45,
+      "uncertain": 8
+     },
+     "batch": "wholemap-1"
+    },
+    "0501": {
+     "status": "approved",
+     "source": "whole-map",
+     "geometryVerified": true,
+     "signsVerified": true,
+     "width": 320,
+     "height": 320,
+     "image": "assets/maps-hd/ghibli/0501.webp",
+     "scale": 4.0,
+     "check": {
+      "flagged": 0,
+      "boundaryFlagged": 0,
+      "tileVersionBoundaryFlagged": 0,
+      "uncertain": 0
+     },
+     "batch": "wholemap-v2-1"
+    },
+    "0502": {
+     "status": "approved",
+     "source": "whole-map",
+     "geometryVerified": true,
+     "signsVerified": true,
+     "width": 320,
+     "height": 320,
+     "image": "assets/maps-hd/ghibli/0502.webp",
+     "scale": 4.0,
+     "check": {
+      "flagged": 0,
+      "boundaryFlagged": 0,
+      "tileVersionBoundaryFlagged": 0,
+      "uncertain": 0
+     },
+     "batch": "wholemap-v2-1"
+    },
+    "0503": {
+     "status": "approved",
+     "source": "whole-map",
+     "geometryVerified": true,
+     "signsVerified": true,
+     "width": 320,
+     "height": 320,
+     "image": "assets/maps-hd/ghibli/0503.webp",
+     "scale": 4.0,
+     "check": {
+      "flagged": 0,
+      "boundaryFlagged": 0,
+      "tileVersionBoundaryFlagged": 0,
+      "uncertain": 0
+     },
+     "batch": "wholemap-v2-1"
+    },
+    "0504": {
+     "status": "approved",
+     "source": "whole-map",
+     "geometryVerified": true,
+     "signsVerified": true,
+     "width": 320,
+     "height": 320,
+     "image": "assets/maps-hd/ghibli/0504.webp",
+     "scale": 4.0,
+     "check": {
+      "flagged": 0,
+      "boundaryFlagged": 0,
+      "tileVersionBoundaryFlagged": 0,
+      "uncertain": 0
+     },
+     "batch": "wholemap-v2-1"
+    },
+    "0505": {
+     "status": "approved",
+     "source": "whole-map",
+     "geometryVerified": true,
+     "signsVerified": true,
+     "width": 320,
+     "height": 320,
+     "image": "assets/maps-hd/ghibli/0505.webp",
+     "scale": 4.0,
+     "check": {
+      "flagged": 0,
+      "boundaryFlagged": 0,
+      "tileVersionBoundaryFlagged": 1,
+      "uncertain": 0
+     },
+     "batch": "wholemap-v5-1"
+    },
+    "0506": {
+     "status": "approved",
+     "source": "whole-map",
+     "geometryVerified": true,
+     "signsVerified": true,
+     "width": 320,
+     "height": 320,
+     "image": "assets/maps-hd/ghibli/0506.webp",
+     "scale": 4.0,
+     "check": {
+      "flagged": 0,
+      "boundaryFlagged": 0,
+      "tileVersionBoundaryFlagged": 0,
+      "uncertain": 0
+     },
+     "batch": "wholemap-v6-1"
+    },
+    "0507": {
+     "status": "approved",
+     "source": "whole-map",
+     "geometryVerified": true,
+     "signsVerified": true,
+     "width": 416,
+     "height": 800,
+     "image": "assets/maps-hd/ghibli/0507.webp",
+     "scale": 4.0,
+     "check": {
+      "flagged": 0,
+      "boundaryFlagged": 0,
+      "tileVersionBoundaryFlagged": 0,
+      "uncertain": 0
+     },
+     "batch": "wholemap-v2-1"
+    },
+    "0508": {
+     "status": "approved",
+     "source": "whole-map",
+     "geometryVerified": true,
+     "signsVerified": true,
+     "width": 768,
+     "height": 736,
+     "image": "assets/maps-hd/ghibli/0508.webp",
+     "scale": 3.5,
+     "check": {
+      "flagged": 0,
+      "boundaryFlagged": 0,
+      "tileVersionBoundaryFlagged": 0,
+      "uncertain": 483
+     },
+     "batch": "wholemap-v2-1"
+    },
+    "0509": {
+     "status": "approved",
+     "source": "whole-map",
+     "geometryVerified": true,
+     "signsVerified": true,
+     "width": 352,
+     "height": 480,
+     "image": "assets/maps-hd/ghibli/0509.webp",
+     "scale": 4.0,
+     "check": {
+      "flagged": 0,
+      "boundaryFlagged": 0,
+      "tileVersionBoundaryFlagged": 0,
+      "uncertain": 0
+     },
+     "batch": "wholemap-v2-1"
+    },
+    "0600": {
+     "status": "approved",
+     "source": "whole-map",
+     "geometryVerified": true,
+     "signsVerified": true,
+     "width": 768,
+     "height": 480,
+     "image": "assets/maps-hd/ghibli/0600.webp",
+     "scale": 4.0,
+     "check": {
+      "flagged": 10,
+      "boundaryFlagged": 10,
+      "tileVersionBoundaryFlagged": 26,
+      "uncertain": 29
+     },
+     "batch": "wholemap-styles-1"
+    },
+    "0601": {
+     "status": "approved",
+     "source": "whole-map",
+     "geometryVerified": true,
+     "signsVerified": true,
+     "width": 320,
+     "height": 320,
+     "image": "assets/maps-hd/ghibli/0601.webp",
+     "scale": 4.0,
+     "check": {
+      "flagged": 0,
+      "boundaryFlagged": 0,
+      "tileVersionBoundaryFlagged": 2,
+      "uncertain": 0
+     },
+     "batch": "wholemap-v2-1"
+    },
+    "0602": {
+     "status": "approved",
+     "source": "whole-map",
+     "geometryVerified": true,
+     "signsVerified": true,
+     "width": 320,
+     "height": 416,
+     "image": "assets/maps-hd/ghibli/0602.webp",
+     "scale": 4.0,
+     "check": {
+      "flagged": 2,
+      "boundaryFlagged": 2,
+      "tileVersionBoundaryFlagged": 5,
+      "uncertain": 0
+     },
+     "batch": "wholemap-v2-1"
+    },
+    "0603": {
+     "status": "approved",
+     "source": "whole-map",
+     "geometryVerified": true,
+     "signsVerified": true,
+     "width": 320,
+     "height": 320,
+     "image": "assets/maps-hd/ghibli/0603.webp",
+     "scale": 4.0,
+     "check": {
+      "flagged": 0,
+      "boundaryFlagged": 0,
+      "tileVersionBoundaryFlagged": 1,
+      "uncertain": 0
+     },
+     "batch": "wholemap-v5-1"
+    },
+    "0604": {
+     "status": "approved",
+     "source": "whole-map",
+     "geometryVerified": true,
+     "signsVerified": true,
+     "width": 320,
+     "height": 320,
+     "image": "assets/maps-hd/ghibli/0604.webp",
+     "scale": 4.0,
+     "check": {
+      "flagged": 0,
+      "boundaryFlagged": 0,
+      "tileVersionBoundaryFlagged": 2,
+      "uncertain": 0
+     },
+     "batch": "wholemap-v2-1"
+    },
+    "0605": {
+     "status": "approved",
+     "source": "whole-map",
+     "geometryVerified": true,
+     "signsVerified": true,
+     "width": 320,
+     "height": 320,
+     "image": "assets/maps-hd/ghibli/0605.webp",
+     "scale": 4.0,
+     "check": {
+      "flagged": 0,
+      "boundaryFlagged": 0,
+      "tileVersionBoundaryFlagged": 0,
+      "uncertain": 0
+     },
+     "batch": "wholemap-fixpilot"
+    },
+    "0606": {
+     "status": "approved",
+     "source": "whole-map",
+     "geometryVerified": true,
+     "signsVerified": true,
+     "width": 320,
+     "height": 320,
+     "image": "assets/maps-hd/ghibli/0606.webp",
+     "scale": 4.0,
+     "check": {
+      "flagged": 0,
+      "boundaryFlagged": 0,
+      "tileVersionBoundaryFlagged": 0,
+      "uncertain": 0
+     },
+     "batch": "wholemap-v2-1"
+    },
+    "0607": {
+     "status": "approved",
+     "source": "whole-map",
+     "geometryVerified": true,
+     "signsVerified": true,
+     "width": 320,
+     "height": 320,
+     "image": "assets/maps-hd/ghibli/0607.webp",
+     "scale": 4.0,
+     "check": {
+      "flagged": 0,
+      "boundaryFlagged": 0,
+      "tileVersionBoundaryFlagged": 1,
+      "uncertain": 0
+     },
+     "batch": "wholemap-v2-1"
+    },
+    "0608": {
+     "status": "approved",
+     "source": "whole-map",
+     "geometryVerified": true,
+     "signsVerified": true,
+     "width": 320,
+     "height": 320,
+     "image": "assets/maps-hd/ghibli/0608.webp",
+     "scale": 4.0,
+     "check": {
+      "flagged": 0,
+      "boundaryFlagged": 0,
+      "tileVersionBoundaryFlagged": 0,
+      "uncertain": 0
+     },
+     "batch": "wholemap-v2-1"
+    },
+    "0609": {
+     "status": "approved",
+     "source": "whole-map",
+     "geometryVerified": true,
+     "signsVerified": true,
+     "width": 768,
+     "height": 544,
+     "image": "assets/maps-hd/ghibli/0609.webp",
+     "scale": 4.0,
+     "check": {
+      "flagged": 4,
+      "boundaryFlagged": 2,
+      "tileVersionBoundaryFlagged": 9,
+      "uncertain": 0
+     },
+     "batch": "wholemap-v2-1"
+    },
+    "0700": {
+     "status": "approved",
+     "source": "whole-map",
+     "geometryVerified": true,
+     "signsVerified": true,
+     "width": 512,
+     "height": 736,
+     "image": "assets/maps-hd/ghibli/0700.webp",
+     "scale": 4.0,
+     "check": {
+      "flagged": 1,
+      "boundaryFlagged": 1,
+      "tileVersionBoundaryFlagged": 1,
+      "uncertain": 52
+     },
+     "batch": "wholemap-v5-1"
+    },
+    "0701": {
+     "status": "approved",
+     "source": "whole-map",
+     "geometryVerified": true,
+     "signsVerified": true,
+     "width": 352,
+     "height": 416,
+     "image": "assets/maps-hd/ghibli/0701.webp",
+     "scale": 4.0,
+     "check": {
+      "flagged": 1,
+      "boundaryFlagged": 0,
+      "tileVersionBoundaryFlagged": 0,
+      "uncertain": 0
+     },
+     "batch": "wholemap-v2-1"
+    },
+    "0702": {
+     "status": "approved",
+     "source": "whole-map",
+     "geometryVerified": true,
+     "signsVerified": true,
+     "width": 320,
+     "height": 320,
+     "image": "assets/maps-hd/ghibli/0702.webp",
+     "scale": 4.0,
+     "check": {
+      "flagged": 0,
+      "boundaryFlagged": 0,
+      "tileVersionBoundaryFlagged": 0,
+      "uncertain": 0
+     },
+     "batch": "wholemap-v5-1"
+    },
+    "0703": {
+     "status": "approved",
+     "source": "whole-map",
+     "geometryVerified": true,
+     "signsVerified": true,
+     "width": 320,
+     "height": 320,
+     "image": "assets/maps-hd/ghibli/0703.webp",
+     "scale": 4.0,
+     "check": {
+      "flagged": 2,
+      "boundaryFlagged": 0,
+      "tileVersionBoundaryFlagged": 0,
+      "uncertain": 0
+     },
+     "batch": "wholemap-v2-1"
+    },
+    "0704": {
+     "status": "approved",
+     "source": "whole-map",
+     "geometryVerified": true,
+     "signsVerified": true,
+     "width": 320,
+     "height": 320,
+     "image": "assets/maps-hd/ghibli/0704.webp",
+     "scale": 4.0,
+     "check": {
+      "flagged": 0,
+      "boundaryFlagged": 0,
+      "tileVersionBoundaryFlagged": 0,
+      "uncertain": 0
+     },
+     "batch": "wholemap-v2-1"
+    },
+    "0705": {
+     "status": "approved",
+     "source": "whole-map",
+     "geometryVerified": true,
+     "signsVerified": true,
+     "width": 320,
+     "height": 320,
+     "image": "assets/maps-hd/ghibli/0705.webp",
+     "scale": 4.0,
+     "check": {
+      "flagged": 1,
+      "boundaryFlagged": 0,
+      "tileVersionBoundaryFlagged": 0,
+      "uncertain": 0
+     },
+     "batch": "wholemap-v5-1"
+    },
+    "0706": {
+     "status": "approved",
+     "source": "whole-map",
+     "geometryVerified": true,
+     "signsVerified": true,
+     "width": 320,
+     "height": 320,
+     "image": "assets/maps-hd/ghibli/0706.webp",
+     "scale": 4.0,
+     "check": {
+      "flagged": 1,
+      "boundaryFlagged": 0,
+      "tileVersionBoundaryFlagged": 0,
+      "uncertain": 0
+     },
+     "batch": "wholemap-v2-2"
+    },
+    "0707": {
+     "status": "approved",
+     "source": "whole-map",
+     "geometryVerified": true,
+     "signsVerified": true,
+     "width": 768,
+     "height": 640,
+     "image": "assets/maps-hd/ghibli/0707.webp",
+     "scale": 4.0,
+     "check": {
+      "flagged": 6,
+      "boundaryFlagged": 4,
+      "tileVersionBoundaryFlagged": 9,
+      "uncertain": 221
+     },
+     "batch": "wholemap-v2-2"
+    },
+    "0708": {
+     "status": "approved",
+     "source": "whole-map",
+     "geometryVerified": true,
+     "signsVerified": true,
+     "width": 768,
+     "height": 800,
+     "image": "assets/maps-hd/ghibli/0708.webp",
+     "scale": 3.5,
+     "check": {
+      "flagged": 1,
+      "boundaryFlagged": 0,
+      "tileVersionBoundaryFlagged": 4,
+      "uncertain": 15
+     },
+     "batch": "wholemap-v5-1"
+    },
+    "0709": {
+     "status": "approved",
+     "source": "whole-map",
+     "geometryVerified": true,
+     "signsVerified": true,
+     "width": 1024,
+     "height": 480,
+     "image": "assets/maps-hd/ghibli/0709.webp",
+     "scale": 3.5,
+     "check": {
+      "flagged": 0,
+      "boundaryFlagged": 0,
+      "tileVersionBoundaryFlagged": 10,
+      "uncertain": 134
+     },
+     "batch": "wholemap-v2-2"
+    },
+    "0800": {
+     "status": "approved",
+     "source": "whole-map",
+     "geometryVerified": true,
+     "signsVerified": true,
+     "width": 768,
+     "height": 480,
+     "image": "assets/maps-hd/ghibli/0800.webp",
+     "scale": 4.0,
+     "check": {
+      "flagged": 2,
+      "boundaryFlagged": 1,
+      "tileVersionBoundaryFlagged": 9,
+      "uncertain": 12
+     },
+     "batch": "wholemap-v2-2"
+    },
+    "0801": {
+     "status": "approved",
+     "source": "whole-map",
+     "geometryVerified": true,
+     "signsVerified": true,
+     "width": 320,
+     "height": 320,
+     "image": "assets/maps-hd/ghibli/0801.webp",
+     "scale": 4.0,
+     "check": {
+      "flagged": 0,
+      "boundaryFlagged": 0,
+      "tileVersionBoundaryFlagged": 2,
+      "uncertain": 0
+     },
+     "batch": "wholemap-v2-2"
+    },
+    "0802": {
+     "status": "approved",
+     "source": "whole-map",
+     "geometryVerified": true,
+     "signsVerified": true,
+     "width": 320,
+     "height": 384,
+     "image": "assets/maps-hd/ghibli/0802.webp",
+     "scale": 4.0,
+     "check": {
+      "flagged": 0,
+      "boundaryFlagged": 0,
+      "tileVersionBoundaryFlagged": 4,
+      "uncertain": 0
+     },
+     "batch": "wholemap-v2-2"
+    },
+    "0803": {
+     "status": "approved",
+     "source": "whole-map",
+     "geometryVerified": true,
+     "signsVerified": true,
+     "width": 320,
+     "height": 320,
+     "image": "assets/maps-hd/ghibli/0803.webp",
+     "scale": 4.0,
+     "check": {
+      "flagged": 0,
+      "boundaryFlagged": 0,
+      "tileVersionBoundaryFlagged": 4,
+      "uncertain": 0
+     },
+     "batch": "wholemap-v2-2"
+    },
+    "0804": {
+     "status": "approved",
+     "source": "whole-map",
+     "geometryVerified": true,
+     "signsVerified": true,
+     "width": 320,
+     "height": 320,
+     "image": "assets/maps-hd/ghibli/0804.webp",
+     "scale": 4.0,
+     "check": {
+      "flagged": 0,
+      "boundaryFlagged": 0,
+      "tileVersionBoundaryFlagged": 0,
+      "uncertain": 0
+     },
+     "batch": "wholemap-v2-2"
+    },
+    "0805": {
+     "status": "approved",
+     "source": "whole-map",
+     "geometryVerified": true,
+     "signsVerified": true,
+     "width": 320,
+     "height": 320,
+     "image": "assets/maps-hd/ghibli/0805.webp",
+     "scale": 4.0,
+     "check": {
+      "flagged": 3,
+      "boundaryFlagged": 3,
+      "tileVersionBoundaryFlagged": 3,
+      "uncertain": 0
+     },
+     "batch": "wholemap-v2-2"
+    },
+    "0806": {
+     "status": "approved",
+     "source": "whole-map",
+     "geometryVerified": true,
+     "signsVerified": true,
+     "width": 320,
+     "height": 320,
+     "image": "assets/maps-hd/ghibli/0806.webp",
+     "scale": 4.0,
+     "check": {
+      "flagged": 0,
+      "boundaryFlagged": 0,
+      "tileVersionBoundaryFlagged": 0,
+      "uncertain": 0
+     },
+     "batch": "wholemap-v5-1"
+    },
+    "0807": {
+     "status": "approved",
+     "source": "whole-map",
+     "geometryVerified": true,
+     "signsVerified": true,
+     "width": 320,
+     "height": 320,
+     "image": "assets/maps-hd/ghibli/0807.webp",
+     "scale": 4.0,
+     "check": {
+      "flagged": 0,
+      "boundaryFlagged": 0,
+      "tileVersionBoundaryFlagged": 3,
+      "uncertain": 0
+     },
+     "batch": "wholemap-v2-2"
+    },
+    "0808": {
+     "status": "approved",
+     "source": "whole-map",
+     "geometryVerified": true,
+     "signsVerified": true,
+     "width": 480,
+     "height": 640,
+     "image": "assets/maps-hd/ghibli/0808.webp",
+     "scale": 4.0,
+     "check": {
+      "flagged": 1,
+      "boundaryFlagged": 0,
+      "tileVersionBoundaryFlagged": 0,
+      "uncertain": 114
+     },
+     "batch": "wholemap-v3-1"
+    },
+    "0809": {
+     "status": "approved",
+     "source": "whole-map",
+     "geometryVerified": true,
+     "signsVerified": true,
+     "width": 768,
+     "height": 800,
+     "image": "assets/maps-hd/ghibli/0809.webp",
+     "scale": 3.5,
+     "check": {
+      "flagged": 12,
+      "boundaryFlagged": 6,
+      "tileVersionBoundaryFlagged": 7,
+      "uncertain": 73
+     },
+     "batch": "wholemap-v6-1"
+    },
+    "080a": {
+     "status": "approved",
+     "source": "whole-map",
+     "geometryVerified": false,
+     "signsVerified": true,
+     "width": 320,
+     "height": 320,
+     "image": "assets/maps-hd/ghibli/080a.webp",
+     "scale": 4.0,
+     "check": {
+      "flagged": 1,
+      "boundaryFlagged": 1,
+      "tileVersionBoundaryFlagged": 0,
+      "uncertain": 0
+     },
+     "batch": "wholemap-v6-1"
+    },
+    "080b": {
+     "status": "approved",
+     "source": "whole-map",
+     "geometryVerified": true,
+     "signsVerified": true,
+     "width": 320,
+     "height": 320,
+     "image": "assets/maps-hd/ghibli/080b.webp",
+     "scale": 4.0,
+     "check": {
+      "flagged": 0,
+      "boundaryFlagged": 0,
+      "tileVersionBoundaryFlagged": 0,
+      "uncertain": 0
+     },
+     "batch": "wholemap-v2-2"
+    },
+    "0900": {
+     "status": "approved",
+     "source": "whole-map",
+     "geometryVerified": false,
+     "signsVerified": true,
+     "width": 512,
+     "height": 640,
+     "image": "assets/maps-hd/ghibli/0900.webp",
+     "scale": 4.0,
+     "check": {
+      "flagged": 19,
+      "boundaryFlagged": 13,
+      "tileVersionBoundaryFlagged": 1,
+      "uncertain": 28
+     },
+     "batch": "wholemap-v2-2"
+    },
+    "0901": {
+     "status": "approved",
+     "source": "whole-map",
+     "geometryVerified": true,
+     "signsVerified": true,
+     "width": 320,
+     "height": 416,
+     "image": "assets/maps-hd/ghibli/0901.webp",
+     "scale": 4.0,
+     "check": {
+      "flagged": 0,
+      "boundaryFlagged": 0,
+      "tileVersionBoundaryFlagged": 3,
+      "uncertain": 0
+     },
+     "batch": "wholemap-v2-2"
+    },
+    "0902": {
+     "status": "approved",
+     "source": "whole-map",
+     "geometryVerified": true,
+     "signsVerified": true,
+     "width": 320,
+     "height": 320,
+     "image": "assets/maps-hd/ghibli/0902.webp",
+     "scale": 4.0,
+     "check": {
+      "flagged": 0,
+      "boundaryFlagged": 0,
+      "tileVersionBoundaryFlagged": 0,
+      "uncertain": 0
+     },
+     "batch": "wholemap-v2-2"
+    },
+    "0903": {
+     "status": "approved",
+     "source": "whole-map",
+     "geometryVerified": true,
+     "signsVerified": true,
+     "width": 320,
+     "height": 320,
+     "image": "assets/maps-hd/ghibli/0903.webp",
+     "scale": 4.0,
+     "check": {
+      "flagged": 0,
+      "boundaryFlagged": 0,
+      "tileVersionBoundaryFlagged": 0,
+      "uncertain": 0
+     },
+     "batch": "wholemap-v2-2"
+    },
+    "0904": {
+     "status": "approved",
+     "source": "whole-map",
+     "geometryVerified": true,
+     "signsVerified": true,
+     "width": 320,
+     "height": 320,
+     "image": "assets/maps-hd/ghibli/0904.webp",
+     "scale": 4.0,
+     "check": {
+      "flagged": 0,
+      "boundaryFlagged": 0,
+      "tileVersionBoundaryFlagged": 0,
+      "uncertain": 0
+     },
+     "batch": "wholemap-v2-2"
+    },
+    "0905": {
+     "status": "approved",
+     "source": "whole-map",
+     "geometryVerified": true,
+     "signsVerified": true,
+     "width": 320,
+     "height": 320,
+     "image": "assets/maps-hd/ghibli/0905.webp",
+     "scale": 4.0,
+     "check": {
+      "flagged": 0,
+      "boundaryFlagged": 0,
+      "tileVersionBoundaryFlagged": 0,
+      "uncertain": 0
+     },
+     "batch": "wholemap-v2-2"
+    },
+    "0906": {
+     "status": "approved",
+     "source": "whole-map",
+     "geometryVerified": true,
+     "signsVerified": true,
+     "width": 512,
+     "height": 960,
+     "image": "assets/maps-hd/ghibli/0906.webp",
+     "scale": 4.0,
+     "check": {
+      "flagged": 2,
+      "boundaryFlagged": 1,
+      "tileVersionBoundaryFlagged": 6,
+      "uncertain": 91
+     },
+     "batch": "wholemap-v5-1"
+    },
+    "0907": {
+     "status": "approved",
+     "source": "whole-map",
+     "geometryVerified": false,
+     "signsVerified": true,
+     "width": 1024,
+     "height": 640,
+     "image": "assets/maps-hd/ghibli/0907.webp",
+     "scale": 3.5,
+     "check": {
+      "flagged": 3,
+      "boundaryFlagged": 1,
+      "tileVersionBoundaryFlagged": 0,
+      "uncertain": 226
+     },
+     "batch": "wholemap-v6-1"
+    },
+    "0908": {
+     "status": "approved",
+     "source": "whole-map",
+     "geometryVerified": false,
+     "signsVerified": true,
+     "width": 768,
+     "height": 800,
+     "image": "assets/maps-hd/ghibli/0908.webp",
+     "scale": 3.5,
+     "check": {
+      "flagged": 79,
+      "boundaryFlagged": 57,
+      "tileVersionBoundaryFlagged": 0,
+      "uncertain": 173
+     },
+     "batch": "wholemap-v5-1"
+    },
+    "0a00": {
+     "status": "approved",
+     "source": "whole-map",
+     "geometryVerified": true,
+     "signsVerified": true,
+     "width": 480,
+     "height": 800,
+     "image": "assets/maps-hd/ghibli/0a00.webp",
+     "scale": 4.0,
+     "check": {
+      "flagged": 0,
+      "boundaryFlagged": 0,
+      "tileVersionBoundaryFlagged": 4,
+      "uncertain": 0
+     },
+     "batch": "wholemap-v5-1"
+    },
+    "0a01": {
+     "status": "approved",
+     "source": "whole-map",
+     "geometryVerified": true,
+     "signsVerified": true,
+     "width": 320,
+     "height": 480,
+     "image": "assets/maps-hd/ghibli/0a01.webp",
+     "scale": 4.0,
+     "check": {
+      "flagged": 0,
+      "boundaryFlagged": 0,
+      "tileVersionBoundaryFlagged": 0,
+      "uncertain": 0
+     },
+     "batch": "wholemap-v2-2"
+    },
+    "0a02": {
+     "status": "approved",
+     "source": "whole-map",
+     "geometryVerified": true,
+     "signsVerified": true,
+     "width": 320,
+     "height": 320,
+     "image": "assets/maps-hd/ghibli/0a02.webp",
+     "scale": 4.0,
+     "check": {
+      "flagged": 0,
+      "boundaryFlagged": 0,
+      "tileVersionBoundaryFlagged": 3,
+      "uncertain": 0
+     },
+     "batch": "wholemap-v2-2"
+    },
+    "0a03": {
+     "status": "approved",
+     "source": "whole-map",
+     "geometryVerified": true,
+     "signsVerified": true,
+     "width": 320,
+     "height": 320,
+     "image": "assets/maps-hd/ghibli/0a03.webp",
+     "scale": 4.0,
+     "check": {
+      "flagged": 0,
+      "boundaryFlagged": 0,
+      "tileVersionBoundaryFlagged": 0,
+      "uncertain": 0
+     },
+     "batch": "wholemap-v2-2"
+    },
+    "0a04": {
+     "status": "approved",
+     "source": "whole-map",
+     "geometryVerified": true,
+     "signsVerified": true,
+     "width": 320,
+     "height": 320,
+     "image": "assets/maps-hd/ghibli/0a04.webp",
+     "scale": 4.0,
+     "check": {
+      "flagged": 0,
+      "boundaryFlagged": 0,
+      "tileVersionBoundaryFlagged": 3,
+      "uncertain": 0
+     },
+     "batch": "wholemap-v2-2"
+    },
+    "0a05": {
+     "status": "approved",
+     "source": "whole-map",
+     "geometryVerified": true,
+     "signsVerified": true,
+     "width": 320,
+     "height": 320,
+     "image": "assets/maps-hd/ghibli/0a05.webp",
+     "scale": 4.0,
+     "check": {
+      "flagged": 0,
+      "boundaryFlagged": 0,
+      "tileVersionBoundaryFlagged": 1,
+      "uncertain": 0
+     },
+     "batch": "wholemap-v2-2"
+    },
+    "0a06": {
+     "status": "approved",
+     "source": "whole-map",
+     "geometryVerified": true,
+     "signsVerified": true,
+     "width": 768,
+     "height": 800,
+     "image": "assets/maps-hd/ghibli/0a06.webp",
+     "scale": 3.5,
+     "check": {
+      "flagged": 0,
+      "boundaryFlagged": 0,
+      "tileVersionBoundaryFlagged": 0,
+      "uncertain": 79
+     },
+     "batch": "wholemap-v2-2"
+    },
+    "0a07": {
+     "status": "approved",
+     "source": "whole-map",
+     "geometryVerified": true,
+     "signsVerified": true,
+     "width": 352,
+     "height": 384,
+     "image": "assets/maps-hd/ghibli/0a07.webp",
+     "scale": 4.0,
+     "check": {
+      "flagged": 1,
+      "boundaryFlagged": 0,
+      "tileVersionBoundaryFlagged": 0,
+      "uncertain": 1
+     },
+     "batch": "wholemap-v2-2"
+    },
+    "0a08": {
+     "status": "approved",
+     "source": "whole-map",
+     "geometryVerified": true,
+     "signsVerified": true,
+     "width": 768,
+     "height": 960,
+     "image": "assets/maps-hd/ghibli/0a08.webp",
+     "scale": 3.0,
+     "check": {
+      "flagged": 0,
+      "boundaryFlagged": 0,
+      "tileVersionBoundaryFlagged": 0,
+      "uncertain": 21
+     },
+     "batch": "wholemap-v2-2"
+    },
+    "0b00": {
+     "status": "approved",
+     "source": "whole-map",
+     "geometryVerified": true,
+     "signsVerified": true,
+     "width": 512,
+     "height": 480,
+     "image": "assets/maps-hd/ghibli/0b00.webp",
+     "scale": 4.0,
+     "check": {
+      "flagged": 1,
+      "boundaryFlagged": 1,
+      "tileVersionBoundaryFlagged": 2,
+      "uncertain": 37
+     },
+     "batch": "wholemap-v5-1"
+    },
+    "0b01": {
+     "status": "approved",
+     "source": "whole-map",
+     "geometryVerified": true,
+     "signsVerified": true,
+     "width": 320,
+     "height": 320,
+     "image": "assets/maps-hd/ghibli/0b01.webp",
+     "scale": 4.0,
+     "check": {
+      "flagged": 1,
+      "boundaryFlagged": 0,
+      "tileVersionBoundaryFlagged": 0,
+      "uncertain": 0
+     },
+     "batch": "wholemap-v2-2"
+    },
+    "0b02": {
+     "status": "approved",
+     "source": "whole-map",
+     "geometryVerified": true,
+     "signsVerified": true,
+     "width": 320,
+     "height": 320,
+     "image": "assets/maps-hd/ghibli/0b02.webp",
+     "scale": 4.0,
+     "check": {
+      "flagged": 0,
+      "boundaryFlagged": 0,
+      "tileVersionBoundaryFlagged": 0,
+      "uncertain": 0
+     },
+     "batch": "wholemap-v2-2"
+    },
+    "0b03": {
+     "status": "approved",
+     "source": "whole-map",
+     "geometryVerified": true,
+     "signsVerified": true,
+     "width": 320,
+     "height": 320,
+     "image": "assets/maps-hd/ghibli/0b03.webp",
+     "scale": 4.0,
+     "check": {
+      "flagged": 2,
+      "boundaryFlagged": 0,
+      "tileVersionBoundaryFlagged": 0,
+      "uncertain": 0
+     },
+     "batch": "wholemap-v2-2"
+    },
+    "0b04": {
+     "status": "approved",
+     "source": "whole-map",
+     "geometryVerified": true,
+     "signsVerified": true,
+     "width": 320,
+     "height": 320,
+     "image": "assets/maps-hd/ghibli/0b04.webp",
+     "scale": 4.0,
+     "check": {
+      "flagged": 0,
+      "boundaryFlagged": 0,
+      "tileVersionBoundaryFlagged": 0,
+      "uncertain": 0
+     },
+     "batch": "wholemap-v5-1"
+    },
+    "0b05": {
+     "status": "approved",
+     "source": "whole-map",
+     "geometryVerified": true,
+     "signsVerified": true,
+     "width": 1024,
+     "height": 800,
+     "image": "assets/maps-hd/ghibli/0b05.webp",
+     "scale": 3.0,
+     "check": {
+      "flagged": 2,
+      "boundaryFlagged": 0,
+      "tileVersionBoundaryFlagged": 0,
+      "uncertain": 188
+     },
+     "batch": "wholemap-v2-2"
+    },
+    "0b06": {
+     "status": "approved",
+     "source": "whole-map",
+     "geometryVerified": true,
+     "signsVerified": true,
+     "width": 768,
+     "height": 960,
+     "image": "assets/maps-hd/ghibli/0b06.webp",
+     "scale": 3.0,
+     "check": {
+      "flagged": 11,
+      "boundaryFlagged": 11,
+      "tileVersionBoundaryFlagged": 31,
+      "uncertain": 228
+     },
+     "batch": "wholemap-v5-1"
+    },
+    "0b07": {
+     "status": "approved",
+     "source": "whole-map",
+     "geometryVerified": true,
+     "signsVerified": true,
+     "width": 768,
+     "height": 800,
+     "image": "assets/maps-hd/ghibli/0b07.webp",
+     "scale": 3.5,
+     "check": {
+      "flagged": 0,
+      "boundaryFlagged": 0,
+      "tileVersionBoundaryFlagged": 2,
+      "uncertain": 267
+     },
+     "batch": "wholemap-v5-1"
+    },
+    "0b08": {
+     "status": "approved",
+     "source": "whole-map",
+     "geometryVerified": true,
+     "signsVerified": true,
+     "width": 1024,
+     "height": 640,
+     "image": "assets/maps-hd/ghibli/0b08.webp",
+     "scale": 3.5,
+     "check": {
+      "flagged": 16,
+      "boundaryFlagged": 15,
+      "tileVersionBoundaryFlagged": 29,
+      "uncertain": 106
+     },
+     "batch": "wholemap-v5-1"
+    },
+    "0b09": {
+     "status": "approved",
+     "source": "whole-map",
+     "geometryVerified": false,
+     "signsVerified": true,
+     "width": 768,
+     "height": 800,
+     "image": "assets/maps-hd/ghibli/0b09.webp",
+     "scale": 3.5,
+     "check": {
+      "flagged": 15,
+      "boundaryFlagged": 7,
+      "tileVersionBoundaryFlagged": 0,
+      "uncertain": 126
+     },
+     "batch": "wholemap-v2-2"
+    },
+    "0b0a": {
+     "status": "approved",
+     "source": "whole-map",
+     "geometryVerified": false,
+     "signsVerified": true,
+     "width": 768,
+     "height": 960,
+     "image": "assets/maps-hd/ghibli/0b0a.webp",
+     "scale": 3.0,
+     "check": {
+      "flagged": 41,
+      "boundaryFlagged": 35,
+      "tileVersionBoundaryFlagged": 8,
+      "uncertain": 177
+     },
+     "batch": "wholemap-v5-1"
+    },
+    "0c00": {
+     "status": "approved",
+     "source": "whole-map",
+     "geometryVerified": false,
+     "signsVerified": true,
+     "width": 512,
+     "height": 416,
+     "image": "assets/maps-hd/ghibli/0c00.webp",
+     "scale": 4.0,
+     "check": {
+      "flagged": 2,
+      "boundaryFlagged": 2,
+      "tileVersionBoundaryFlagged": 0,
+      "uncertain": 21
+     },
+     "batch": "wholemap-v2-2"
+    },
+    "0c01": {
+     "status": "approved",
+     "source": "whole-map",
+     "geometryVerified": true,
+     "signsVerified": true,
+     "width": 320,
+     "height": 320,
+     "image": "assets/maps-hd/ghibli/0c01.webp",
+     "scale": 4.0,
+     "check": {
+      "flagged": 0,
+      "boundaryFlagged": 0,
+      "tileVersionBoundaryFlagged": 0,
+      "uncertain": 0
+     },
+     "batch": "wholemap-v5-1"
+    },
+    "0c02": {
+     "status": "approved",
+     "source": "whole-map",
+     "geometryVerified": true,
+     "signsVerified": true,
+     "width": 320,
+     "height": 320,
+     "image": "assets/maps-hd/ghibli/0c02.webp",
+     "scale": 4.0,
+     "check": {
+      "flagged": 0,
+      "boundaryFlagged": 0,
+      "tileVersionBoundaryFlagged": 0,
+      "uncertain": 0
+     },
+     "batch": "wholemap-v2-2"
+    },
+    "0c03": {
+     "status": "approved",
+     "source": "whole-map",
+     "geometryVerified": true,
+     "signsVerified": true,
+     "width": 320,
+     "height": 320,
+     "image": "assets/maps-hd/ghibli/0c03.webp",
+     "scale": 4.0,
+     "check": {
+      "flagged": 2,
+      "boundaryFlagged": 0,
+      "tileVersionBoundaryFlagged": 0,
+      "uncertain": 0
+     },
+     "batch": "wholemap-v2-2"
+    },
+    "0c04": {
+     "status": "approved",
+     "source": "whole-map",
+     "geometryVerified": false,
+     "signsVerified": true,
+     "width": 768,
+     "height": 960,
+     "image": "assets/maps-hd/ghibli/0c04.webp",
+     "scale": 3.0,
+     "check": {
+      "flagged": 14,
+      "boundaryFlagged": 13,
+      "tileVersionBoundaryFlagged": 0,
+      "uncertain": 309
+     },
+     "batch": "wholemap-v5-1"
+    },
+    "0c05": {
+     "status": "approved",
+     "source": "whole-map",
+     "geometryVerified": true,
+     "signsVerified": true,
+     "width": 1024,
+     "height": 640,
+     "image": "assets/maps-hd/ghibli/0c05.webp",
+     "scale": 3.5,
+     "check": {
+      "flagged": 0,
+      "boundaryFlagged": 0,
+      "tileVersionBoundaryFlagged": 0,
+      "uncertain": 502
+     },
+     "batch": "wholemap-v5-1"
+    },
+    "0c06": {
+     "status": "approved",
+     "source": "whole-map",
+     "geometryVerified": true,
+     "signsVerified": true,
+     "width": 768,
+     "height": 800,
+     "image": "assets/maps-hd/ghibli/0c06.webp",
+     "scale": 3.5,
+     "check": {
+      "flagged": 2,
+      "boundaryFlagged": 0,
+      "tileVersionBoundaryFlagged": 0,
+      "uncertain": 122
+     },
+     "batch": "wholemap-v5-1"
+    },
+    "0c07": {
+     "status": "approved",
+     "source": "whole-map",
+     "geometryVerified": false,
+     "signsVerified": true,
+     "width": 768,
+     "height": 960,
+     "image": "assets/maps-hd/ghibli/0c07.webp",
+     "scale": 3.0,
+     "check": {
+      "flagged": 39,
+      "boundaryFlagged": 17,
+      "tileVersionBoundaryFlagged": 0,
+      "uncertain": 231
+     },
+     "batch": "wholemap-v6-1"
+    },
+    "0c08": {
+     "status": "approved",
+     "source": "whole-map",
+     "geometryVerified": false,
+     "signsVerified": true,
+     "width": 768,
+     "height": 640,
+     "image": "assets/maps-hd/ghibli/0c08.webp",
+     "scale": 4.0,
+     "check": {
+      "flagged": 10,
+      "boundaryFlagged": 5,
+      "tileVersionBoundaryFlagged": 0,
+      "uncertain": 22
+     },
+     "batch": "wholemap-v5-1"
+    }
+   }
+  }
+ },
+ "previews": {
+  "0100": "https://game.areu.pro/shz/samples/town-styles-v1/",
+  "0106": "https://game.areu.pro/shz/samples/styles-v1/"
+ }
+}

@@ -1,0 +1,13 @@
+{
+  "maps": 116,
+  "characterIds": 79,
+  "uniqueCharacterSheets": 60,
+  "portraitIds": 78,
+  "uniquePortraits": 40,
+  "dialogues": 510,
+  "fonts": 1825,
+  "referencedImages": 735,
+  "assetBytes": 10838146,
+  "manifestBytes": 2937265,
+  "validationErrors": []
+}

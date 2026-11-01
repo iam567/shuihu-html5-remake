@@ -1,0 +1,29 @@
+[
+ {
+  "id": "title",
+  "kind": "ui-sheet",
+  "references": [
+   "ref-title.png"
+  ],
+  "size": "1024x1024",
+  "sourceId": "ui"
+ },
+ {
+  "id": "label",
+  "kind": "ui-sheet",
+  "references": [
+   "ref-label.png"
+  ],
+  "size": "1024x1024",
+  "sourceId": "ui"
+ },
+ {
+  "id": "volume",
+  "kind": "ui-sheet",
+  "references": [
+   "ref-opt.png"
+  ],
+  "size": "1024x1024",
+  "sourceId": "ui"
+ }
+]

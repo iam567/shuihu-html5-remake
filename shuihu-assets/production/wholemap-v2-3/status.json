@@ -1,0 +1,56 @@
+{
+  "concurrency": 10,
+  "model": "gpt-image-2",
+  "jobs": {
+    "0c04-ghibli": {
+      "state": "generated-awaiting-review",
+      "updatedAt": 1793297760.9591584,
+      "exitCode": 0
+    },
+    "0c04-hd2d": {
+      "state": "generated-awaiting-review",
+      "updatedAt": 1793297761.762981,
+      "exitCode": 0
+    },
+    "0c05-ghibli": {
+      "state": "generated-awaiting-review",
+      "updatedAt": 1793297749.1237447,
+      "exitCode": 0
+    },
+    "0c05-hd2d": {
+      "state": "generated-awaiting-review",
+      "updatedAt": 1793297742.841628,
+      "exitCode": 0
+    },
+    "0c06-ghibli": {
+      "state": "generated-awaiting-review",
+      "updatedAt": 1793297791.4554298,
+      "exitCode": 0
+    },
+    "0c06-hd2d": {
+      "state": "generated-awaiting-review",
+      "updatedAt": 1793297782.749339,
+      "exitCode": 0
+    },
+    "0c07-ghibli": {
+      "state": "generated-awaiting-review",
+      "updatedAt": 1793297773.6295695,
+      "exitCode": 0
+    },
+    "0c07-hd2d": {
+      "state": "generated-awaiting-review",
+      "updatedAt": 1793297761.5611835,
+      "exitCode": 0
+    },
+    "0c08-ghibli": {
+      "state": "generated-awaiting-review",
+      "updatedAt": 1793297865.4121,
+      "exitCode": 0
+    },
+    "0c08-hd2d": {
+      "state": "generated-awaiting-review",
+      "updatedAt": 1793297757.385534,
+      "exitCode": 0
+    }
+  }
+}

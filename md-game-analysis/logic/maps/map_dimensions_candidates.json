@@ -1,0 +1,2522 @@
+[
+  {
+    "script_rom_candidate": 929660,
+    "map_id": "0100",
+    "spawn_id": "0112",
+    "width": 24,
+    "height": 20,
+    "evidence": "pattern candidate; dimensions corroborated; execution reachability unverified"
+  },
+  {
+    "script_rom_candidate": 929674,
+    "map_id": "0100",
+    "spawn_id": "0101",
+    "width": 24,
+    "height": 20,
+    "evidence": "pattern candidate; dimensions corroborated; execution reachability unverified"
+  },
+  {
+    "script_rom_candidate": 929688,
+    "map_id": "0100",
+    "spawn_id": "0102",
+    "width": 24,
+    "height": 20,
+    "evidence": "pattern candidate; dimensions corroborated; execution reachability unverified"
+  },
+  {
+    "script_rom_candidate": 929702,
+    "map_id": "0100",
+    "spawn_id": "0103",
+    "width": 24,
+    "height": 20,
+    "evidence": "pattern candidate; dimensions corroborated; execution reachability unverified"
+  },
+  {
+    "script_rom_candidate": 929716,
+    "map_id": "0100",
+    "spawn_id": "0104",
+    "width": 24,
+    "height": 20,
+    "evidence": "pattern candidate; dimensions corroborated; execution reachability unverified"
+  },
+  {
+    "script_rom_candidate": 929730,
+    "map_id": "0100",
+    "spawn_id": "0105",
+    "width": 24,
+    "height": 20,
+    "evidence": "pattern candidate; dimensions corroborated; execution reachability unverified"
+  },
+  {
+    "script_rom_candidate": 929744,
+    "map_id": "0100",
+    "spawn_id": "0106",
+    "width": 24,
+    "height": 20,
+    "evidence": "pattern candidate; dimensions corroborated; execution reachability unverified"
+  },
+  {
+    "script_rom_candidate": 929758,
+    "map_id": "0100",
+    "spawn_id": "0107",
+    "width": 24,
+    "height": 20,
+    "evidence": "pattern candidate; dimensions corroborated; execution reachability unverified"
+  },
+  {
+    "script_rom_candidate": 929850,
+    "map_id": "0100",
+    "spawn_id": "0106",
+    "width": 24,
+    "height": 20,
+    "evidence": "pattern candidate; dimensions corroborated; execution reachability unverified"
+  },
+  {
+    "script_rom_candidate": 930026,
+    "map_id": "0100",
+    "spawn_id": "010f",
+    "width": 24,
+    "height": 20,
+    "evidence": "pattern candidate; dimensions corroborated; execution reachability unverified"
+  },
+  {
+    "script_rom_candidate": 930262,
+    "map_id": "0100",
+    "spawn_id": "010f",
+    "width": 24,
+    "height": 20,
+    "evidence": "pattern candidate; dimensions corroborated; execution reachability unverified"
+  },
+  {
+    "script_rom_candidate": 930372,
+    "map_id": "0106",
+    "spawn_id": "0110",
+    "width": 10,
+    "height": 10,
+    "evidence": "pattern candidate; dimensions corroborated; execution reachability unverified"
+  },
+  {
+    "script_rom_candidate": 930506,
+    "map_id": "0103",
+    "spawn_id": "0111",
+    "width": 10,
+    "height": 10,
+    "evidence": "pattern candidate; dimensions corroborated; execution reachability unverified"
+  },
+  {
+    "script_rom_candidate": 930594,
+    "map_id": "0100",
+    "spawn_id": "0112",
+    "width": 24,
+    "height": 20,
+    "evidence": "pattern candidate; dimensions corroborated; execution reachability unverified"
+  },
+  {
+    "script_rom_candidate": 930756,
+    "map_id": "0203",
+    "spawn_id": "020a",
+    "width": 10,
+    "height": 10,
+    "evidence": "pattern candidate; dimensions corroborated; execution reachability unverified"
+  },
+  {
+    "script_rom_candidate": 930884,
+    "map_id": "0200",
+    "spawn_id": "0200",
+    "width": 24,
+    "height": 15,
+    "evidence": "pattern candidate; dimensions corroborated; execution reachability unverified"
+  },
+  {
+    "script_rom_candidate": 931064,
+    "map_id": "0101",
+    "spawn_id": "0108",
+    "width": 10,
+    "height": 10,
+    "evidence": "pattern candidate; dimensions corroborated; execution reachability unverified"
+  },
+  {
+    "script_rom_candidate": 931080,
+    "map_id": "0102",
+    "spawn_id": "0109",
+    "width": 10,
+    "height": 15,
+    "evidence": "pattern candidate; dimensions corroborated; execution reachability unverified"
+  },
+  {
+    "script_rom_candidate": 931096,
+    "map_id": "0103",
+    "spawn_id": "010a",
+    "width": 10,
+    "height": 10,
+    "evidence": "pattern candidate; dimensions corroborated; execution reachability unverified"
+  },
+  {
+    "script_rom_candidate": 931112,
+    "map_id": "0104",
+    "spawn_id": "010b",
+    "width": 10,
+    "height": 10,
+    "evidence": "pattern candidate; dimensions corroborated; execution reachability unverified"
+  },
+  {
+    "script_rom_candidate": 931128,
+    "map_id": "0105",
+    "spawn_id": "010c",
+    "width": 10,
+    "height": 10,
+    "evidence": "pattern candidate; dimensions corroborated; execution reachability unverified"
+  },
+  {
+    "script_rom_candidate": 931144,
+    "map_id": "0106",
+    "spawn_id": "010d",
+    "width": 10,
+    "height": 10,
+    "evidence": "pattern candidate; dimensions corroborated; execution reachability unverified"
+  },
+  {
+    "script_rom_candidate": 931160,
+    "map_id": "0107",
+    "spawn_id": "010e",
+    "width": 10,
+    "height": 10,
+    "evidence": "pattern candidate; dimensions corroborated; execution reachability unverified"
+  },
+  {
+    "script_rom_candidate": 931564,
+    "map_id": "0200",
+    "spawn_id": "0200",
+    "width": 24,
+    "height": 15,
+    "evidence": "pattern candidate; dimensions corroborated; execution reachability unverified"
+  },
+  {
+    "script_rom_candidate": 931602,
+    "map_id": "0206",
+    "spawn_id": "020d",
+    "width": 24,
+    "height": 15,
+    "evidence": "pattern candidate; dimensions corroborated; execution reachability unverified"
+  },
+  {
+    "script_rom_candidate": 932080,
+    "map_id": "0200",
+    "spawn_id": "0202",
+    "width": 24,
+    "height": 15,
+    "evidence": "pattern candidate; dimensions corroborated; execution reachability unverified"
+  },
+  {
+    "script_rom_candidate": 932094,
+    "map_id": "0200",
+    "spawn_id": "0203",
+    "width": 24,
+    "height": 15,
+    "evidence": "pattern candidate; dimensions corroborated; execution reachability unverified"
+  },
+  {
+    "script_rom_candidate": 932108,
+    "map_id": "0200",
+    "spawn_id": "0204",
+    "width": 24,
+    "height": 15,
+    "evidence": "pattern candidate; dimensions corroborated; execution reachability unverified"
+  },
+  {
+    "script_rom_candidate": 932122,
+    "map_id": "0200",
+    "spawn_id": "0205",
+    "width": 24,
+    "height": 15,
+    "evidence": "pattern candidate; dimensions corroborated; execution reachability unverified"
+  },
+  {
+    "script_rom_candidate": 932136,
+    "map_id": "0203",
+    "spawn_id": "020a",
+    "width": 10,
+    "height": 10,
+    "evidence": "pattern candidate; dimensions corroborated; execution reachability unverified"
+  },
+  {
+    "script_rom_candidate": 932336,
+    "map_id": "0202",
+    "spawn_id": "020b",
+    "width": 10,
+    "height": 10,
+    "evidence": "pattern candidate; dimensions corroborated; execution reachability unverified"
+  },
+  {
+    "script_rom_candidate": 932350,
+    "map_id": "0203",
+    "spawn_id": "020a",
+    "width": 10,
+    "height": 10,
+    "evidence": "pattern candidate; dimensions corroborated; execution reachability unverified"
+  },
+  {
+    "script_rom_candidate": 932402,
+    "map_id": "0207",
+    "spawn_id": "020e",
+    "width": 16,
+    "height": 23,
+    "evidence": "pattern candidate; dimensions corroborated; execution reachability unverified"
+  },
+  {
+    "script_rom_candidate": 932570,
+    "map_id": "0200",
+    "spawn_id": "020c",
+    "width": 24,
+    "height": 15,
+    "evidence": "pattern candidate; dimensions corroborated; execution reachability unverified"
+  },
+  {
+    "script_rom_candidate": 933762,
+    "map_id": "0200",
+    "spawn_id": "020c",
+    "width": 24,
+    "height": 15,
+    "evidence": "pattern candidate; dimensions corroborated; execution reachability unverified"
+  },
+  {
+    "script_rom_candidate": 933932,
+    "map_id": "0203",
+    "spawn_id": "020a",
+    "width": 10,
+    "height": 10,
+    "evidence": "pattern candidate; dimensions corroborated; execution reachability unverified"
+  },
+  {
+    "script_rom_candidate": 934090,
+    "map_id": "0206",
+    "spawn_id": "020d",
+    "width": 24,
+    "height": 15,
+    "evidence": "pattern candidate; dimensions corroborated; execution reachability unverified"
+  },
+  {
+    "script_rom_candidate": 934240,
+    "map_id": "0203",
+    "spawn_id": "020a",
+    "width": 10,
+    "height": 10,
+    "evidence": "pattern candidate; dimensions corroborated; execution reachability unverified"
+  },
+  {
+    "script_rom_candidate": 934362,
+    "map_id": "0200",
+    "spawn_id": "020c",
+    "width": 24,
+    "height": 15,
+    "evidence": "pattern candidate; dimensions corroborated; execution reachability unverified"
+  },
+  {
+    "script_rom_candidate": 934498,
+    "map_id": "0203",
+    "spawn_id": "020a",
+    "width": 10,
+    "height": 10,
+    "evidence": "pattern candidate; dimensions corroborated; execution reachability unverified"
+  },
+  {
+    "script_rom_candidate": 934662,
+    "map_id": "0200",
+    "spawn_id": "0201",
+    "width": 24,
+    "height": 15,
+    "evidence": "pattern candidate; dimensions corroborated; execution reachability unverified"
+  },
+  {
+    "script_rom_candidate": 934810,
+    "map_id": "0300",
+    "spawn_id": "0300",
+    "width": 32,
+    "height": 15,
+    "evidence": "pattern candidate; dimensions corroborated; execution reachability unverified"
+  },
+  {
+    "script_rom_candidate": 934898,
+    "map_id": "0201",
+    "spawn_id": "0206",
+    "width": 10,
+    "height": 10,
+    "evidence": "pattern candidate; dimensions corroborated; execution reachability unverified"
+  },
+  {
+    "script_rom_candidate": 934914,
+    "map_id": "0202",
+    "spawn_id": "0207",
+    "width": 10,
+    "height": 10,
+    "evidence": "pattern candidate; dimensions corroborated; execution reachability unverified"
+  },
+  {
+    "script_rom_candidate": 934930,
+    "map_id": "0204",
+    "spawn_id": "0208",
+    "width": 10,
+    "height": 10,
+    "evidence": "pattern candidate; dimensions corroborated; execution reachability unverified"
+  },
+  {
+    "script_rom_candidate": 934944,
+    "map_id": "0205",
+    "spawn_id": "0209",
+    "width": 10,
+    "height": 10,
+    "evidence": "pattern candidate; dimensions corroborated; execution reachability unverified"
+  },
+  {
+    "script_rom_candidate": 934972,
+    "map_id": "0200",
+    "spawn_id": "020c",
+    "width": 24,
+    "height": 15,
+    "evidence": "pattern candidate; dimensions corroborated; execution reachability unverified"
+  },
+  {
+    "script_rom_candidate": 935612,
+    "map_id": "0300",
+    "spawn_id": "0300",
+    "width": 32,
+    "height": 15,
+    "evidence": "pattern candidate; dimensions corroborated; execution reachability unverified"
+  },
+  {
+    "script_rom_candidate": 935628,
+    "map_id": "0400",
+    "spawn_id": "0400",
+    "width": 16,
+    "height": 28,
+    "evidence": "pattern candidate; dimensions corroborated; execution reachability unverified"
+  },
+  {
+    "script_rom_candidate": 935660,
+    "map_id": "0300",
+    "spawn_id": "0301",
+    "width": 32,
+    "height": 15,
+    "evidence": "pattern candidate; dimensions corroborated; execution reachability unverified"
+  },
+  {
+    "script_rom_candidate": 935674,
+    "map_id": "0300",
+    "spawn_id": "0302",
+    "width": 32,
+    "height": 15,
+    "evidence": "pattern candidate; dimensions corroborated; execution reachability unverified"
+  },
+  {
+    "script_rom_candidate": 935688,
+    "map_id": "0300",
+    "spawn_id": "0303",
+    "width": 32,
+    "height": 15,
+    "evidence": "pattern candidate; dimensions corroborated; execution reachability unverified"
+  },
+  {
+    "script_rom_candidate": 935702,
+    "map_id": "0300",
+    "spawn_id": "0304",
+    "width": 32,
+    "height": 15,
+    "evidence": "pattern candidate; dimensions corroborated; execution reachability unverified"
+  },
+  {
+    "script_rom_candidate": 935716,
+    "map_id": "0305",
+    "spawn_id": "030c",
+    "width": 10,
+    "height": 10,
+    "evidence": "pattern candidate; dimensions corroborated; execution reachability unverified"
+  },
+  {
+    "script_rom_candidate": 935730,
+    "map_id": "0304",
+    "spawn_id": "030b",
+    "width": 10,
+    "height": 10,
+    "evidence": "pattern candidate; dimensions corroborated; execution reachability unverified"
+  },
+  {
+    "script_rom_candidate": 935744,
+    "map_id": "0303",
+    "spawn_id": "030a",
+    "width": 10,
+    "height": 10,
+    "evidence": "pattern candidate; dimensions corroborated; execution reachability unverified"
+  },
+  {
+    "script_rom_candidate": 935758,
+    "map_id": "0303",
+    "spawn_id": "0309",
+    "width": 10,
+    "height": 10,
+    "evidence": "pattern candidate; dimensions corroborated; execution reachability unverified"
+  },
+  {
+    "script_rom_candidate": 935772,
+    "map_id": "0300",
+    "spawn_id": "0304",
+    "width": 32,
+    "height": 15,
+    "evidence": "pattern candidate; dimensions corroborated; execution reachability unverified"
+  },
+  {
+    "script_rom_candidate": 935936,
+    "map_id": "0307",
+    "spawn_id": "030d",
+    "width": 24,
+    "height": 25,
+    "evidence": "pattern candidate; dimensions corroborated; execution reachability unverified"
+  },
+  {
+    "script_rom_candidate": 936336,
+    "map_id": "0305",
+    "spawn_id": "030c",
+    "width": 10,
+    "height": 10,
+    "evidence": "pattern candidate; dimensions corroborated; execution reachability unverified"
+  },
+  {
+    "script_rom_candidate": 936478,
+    "map_id": "0300",
+    "spawn_id": "030f",
+    "width": 32,
+    "height": 15,
+    "evidence": "pattern candidate; dimensions corroborated; execution reachability unverified"
+  },
+  {
+    "script_rom_candidate": 936630,
+    "map_id": "0400",
+    "spawn_id": "0400",
+    "width": 16,
+    "height": 28,
+    "evidence": "pattern candidate; dimensions corroborated; execution reachability unverified"
+  },
+  {
+    "script_rom_candidate": 938106,
+    "map_id": "0305",
+    "spawn_id": "030c",
+    "width": 10,
+    "height": 10,
+    "evidence": "pattern candidate; dimensions corroborated; execution reachability unverified"
+  },
+  {
+    "script_rom_candidate": 938316,
+    "map_id": "0307",
+    "spawn_id": "030d",
+    "width": 24,
+    "height": 25,
+    "evidence": "pattern candidate; dimensions corroborated; execution reachability unverified"
+  },
+  {
+    "script_rom_candidate": 938408,
+    "map_id": "0404",
+    "spawn_id": "040f",
+    "width": 12,
+    "height": 12,
+    "evidence": "pattern candidate; dimensions corroborated; execution reachability unverified"
+  },
+  {
+    "script_rom_candidate": 938722,
+    "map_id": "0308",
+    "spawn_id": "030e",
+    "width": 13,
+    "height": 25,
+    "evidence": "pattern candidate; dimensions corroborated; execution reachability unverified"
+  },
+  {
+    "script_rom_candidate": 938916,
+    "map_id": "0404",
+    "spawn_id": "040f",
+    "width": 12,
+    "height": 12,
+    "evidence": "pattern candidate; dimensions corroborated; execution reachability unverified"
+  },
+  {
+    "script_rom_candidate": 938998,
+    "map_id": "0301",
+    "spawn_id": "0305",
+    "width": 10,
+    "height": 10,
+    "evidence": "pattern candidate; dimensions corroborated; execution reachability unverified"
+  },
+  {
+    "script_rom_candidate": 939014,
+    "map_id": "0302",
+    "spawn_id": "0306",
+    "width": 10,
+    "height": 10,
+    "evidence": "pattern candidate; dimensions corroborated; execution reachability unverified"
+  },
+  {
+    "script_rom_candidate": 939030,
+    "map_id": "0303",
+    "spawn_id": "0307",
+    "width": 10,
+    "height": 10,
+    "evidence": "pattern candidate; dimensions corroborated; execution reachability unverified"
+  },
+  {
+    "script_rom_candidate": 939046,
+    "map_id": "0306",
+    "spawn_id": "0308",
+    "width": 10,
+    "height": 10,
+    "evidence": "pattern candidate; dimensions corroborated; execution reachability unverified"
+  },
+  {
+    "script_rom_candidate": 939452,
+    "map_id": "0300",
+    "spawn_id": "0300",
+    "width": 32,
+    "height": 15,
+    "evidence": "pattern candidate; dimensions corroborated; execution reachability unverified"
+  },
+  {
+    "script_rom_candidate": 939468,
+    "map_id": "0400",
+    "spawn_id": "0400",
+    "width": 16,
+    "height": 28,
+    "evidence": "pattern candidate; dimensions corroborated; execution reachability unverified"
+  },
+  {
+    "script_rom_candidate": 939500,
+    "map_id": "0400",
+    "spawn_id": "0401",
+    "width": 16,
+    "height": 28,
+    "evidence": "pattern candidate; dimensions corroborated; execution reachability unverified"
+  },
+  {
+    "script_rom_candidate": 939514,
+    "map_id": "0400",
+    "spawn_id": "0402",
+    "width": 16,
+    "height": 28,
+    "evidence": "pattern candidate; dimensions corroborated; execution reachability unverified"
+  },
+  {
+    "script_rom_candidate": 939528,
+    "map_id": "0400",
+    "spawn_id": "0403",
+    "width": 16,
+    "height": 28,
+    "evidence": "pattern candidate; dimensions corroborated; execution reachability unverified"
+  },
+  {
+    "script_rom_candidate": 939542,
+    "map_id": "0400",
+    "spawn_id": "0404",
+    "width": 16,
+    "height": 28,
+    "evidence": "pattern candidate; dimensions corroborated; execution reachability unverified"
+  },
+  {
+    "script_rom_candidate": 939556,
+    "map_id": "0400",
+    "spawn_id": "0405",
+    "width": 16,
+    "height": 28,
+    "evidence": "pattern candidate; dimensions corroborated; execution reachability unverified"
+  },
+  {
+    "script_rom_candidate": 939570,
+    "map_id": "0400",
+    "spawn_id": "0406",
+    "width": 16,
+    "height": 28,
+    "evidence": "pattern candidate; dimensions corroborated; execution reachability unverified"
+  },
+  {
+    "script_rom_candidate": 939584,
+    "map_id": "0400",
+    "spawn_id": "0407",
+    "width": 16,
+    "height": 28,
+    "evidence": "pattern candidate; dimensions corroborated; execution reachability unverified"
+  },
+  {
+    "script_rom_candidate": 939728,
+    "map_id": "0409",
+    "spawn_id": "0410",
+    "width": 24,
+    "height": 20,
+    "evidence": "pattern candidate; dimensions corroborated; execution reachability unverified"
+  },
+  {
+    "script_rom_candidate": 939910,
+    "map_id": "0504",
+    "spawn_id": "0507",
+    "width": 10,
+    "height": 10,
+    "evidence": "pattern candidate; dimensions corroborated; execution reachability unverified"
+  },
+  {
+    "script_rom_candidate": 940062,
+    "map_id": "0507",
+    "spawn_id": "050a",
+    "width": 13,
+    "height": 25,
+    "evidence": "pattern candidate; dimensions corroborated; execution reachability unverified"
+  },
+  {
+    "script_rom_candidate": 940182,
+    "map_id": "0404",
+    "spawn_id": "040f",
+    "width": 12,
+    "height": 12,
+    "evidence": "pattern candidate; dimensions corroborated; execution reachability unverified"
+  },
+  {
+    "script_rom_candidate": 940342,
+    "map_id": "0305",
+    "spawn_id": "030c",
+    "width": 10,
+    "height": 10,
+    "evidence": "pattern candidate; dimensions corroborated; execution reachability unverified"
+  },
+  {
+    "script_rom_candidate": 940530,
+    "map_id": "0308",
+    "spawn_id": "030e",
+    "width": 13,
+    "height": 25,
+    "evidence": "pattern candidate; dimensions corroborated; execution reachability unverified"
+  },
+  {
+    "script_rom_candidate": 940826,
+    "map_id": "0304",
+    "spawn_id": "030b",
+    "width": 10,
+    "height": 10,
+    "evidence": "pattern candidate; dimensions corroborated; execution reachability unverified"
+  },
+  {
+    "script_rom_candidate": 941124,
+    "map_id": "0300",
+    "spawn_id": "030f",
+    "width": 32,
+    "height": 15,
+    "evidence": "pattern candidate; dimensions corroborated; execution reachability unverified"
+  },
+  {
+    "script_rom_candidate": 941338,
+    "map_id": "0401",
+    "spawn_id": "0408",
+    "width": 10,
+    "height": 10,
+    "evidence": "pattern candidate; dimensions corroborated; execution reachability unverified"
+  },
+  {
+    "script_rom_candidate": 941354,
+    "map_id": "0402",
+    "spawn_id": "0409",
+    "width": 10,
+    "height": 10,
+    "evidence": "pattern candidate; dimensions corroborated; execution reachability unverified"
+  },
+  {
+    "script_rom_candidate": 941370,
+    "map_id": "0403",
+    "spawn_id": "040a",
+    "width": 10,
+    "height": 10,
+    "evidence": "pattern candidate; dimensions corroborated; execution reachability unverified"
+  },
+  {
+    "script_rom_candidate": 941386,
+    "map_id": "0404",
+    "spawn_id": "040b",
+    "width": 12,
+    "height": 12,
+    "evidence": "pattern candidate; dimensions corroborated; execution reachability unverified"
+  },
+  {
+    "script_rom_candidate": 941402,
+    "map_id": "0405",
+    "spawn_id": "040c",
+    "width": 10,
+    "height": 12,
+    "evidence": "pattern candidate; dimensions corroborated; execution reachability unverified"
+  },
+  {
+    "script_rom_candidate": 941418,
+    "map_id": "0406",
+    "spawn_id": "040d",
+    "width": 10,
+    "height": 10,
+    "evidence": "pattern candidate; dimensions corroborated; execution reachability unverified"
+  },
+  {
+    "script_rom_candidate": 941434,
+    "map_id": "0407",
+    "spawn_id": "040e",
+    "width": 10,
+    "height": 10,
+    "evidence": "pattern candidate; dimensions corroborated; execution reachability unverified"
+  },
+  {
+    "script_rom_candidate": 941450,
+    "map_id": "0404",
+    "spawn_id": "040f",
+    "width": 12,
+    "height": 12,
+    "evidence": "pattern candidate; dimensions corroborated; execution reachability unverified"
+  },
+  {
+    "script_rom_candidate": 942110,
+    "map_id": "0507",
+    "spawn_id": "050a",
+    "width": 13,
+    "height": 25,
+    "evidence": "pattern candidate; dimensions corroborated; execution reachability unverified"
+  },
+  {
+    "script_rom_candidate": 942264,
+    "map_id": "0500",
+    "spawn_id": "0500",
+    "width": 24,
+    "height": 18,
+    "evidence": "pattern candidate; dimensions corroborated; execution reachability unverified"
+  },
+  {
+    "script_rom_candidate": 942284,
+    "map_id": "0600",
+    "spawn_id": "0600",
+    "width": 24,
+    "height": 15,
+    "evidence": "pattern candidate; dimensions corroborated; execution reachability unverified"
+  },
+  {
+    "script_rom_candidate": 942508,
+    "map_id": "0507",
+    "spawn_id": "0508",
+    "width": 13,
+    "height": 25,
+    "evidence": "pattern candidate; dimensions corroborated; execution reachability unverified"
+  },
+  {
+    "script_rom_candidate": 942522,
+    "map_id": "0500",
+    "spawn_id": "0501",
+    "width": 24,
+    "height": 18,
+    "evidence": "pattern candidate; dimensions corroborated; execution reachability unverified"
+  },
+  {
+    "script_rom_candidate": 942536,
+    "map_id": "0500",
+    "spawn_id": "0502",
+    "width": 24,
+    "height": 18,
+    "evidence": "pattern candidate; dimensions corroborated; execution reachability unverified"
+  },
+  {
+    "script_rom_candidate": 942550,
+    "map_id": "0500",
+    "spawn_id": "0503",
+    "width": 24,
+    "height": 18,
+    "evidence": "pattern candidate; dimensions corroborated; execution reachability unverified"
+  },
+  {
+    "script_rom_candidate": 942564,
+    "map_id": "0500",
+    "spawn_id": "0504",
+    "width": 24,
+    "height": 18,
+    "evidence": "pattern candidate; dimensions corroborated; execution reachability unverified"
+  },
+  {
+    "script_rom_candidate": 942578,
+    "map_id": "0500",
+    "spawn_id": "0505",
+    "width": 24,
+    "height": 18,
+    "evidence": "pattern candidate; dimensions corroborated; execution reachability unverified"
+  },
+  {
+    "script_rom_candidate": 942592,
+    "map_id": "0500",
+    "spawn_id": "0506",
+    "width": 24,
+    "height": 18,
+    "evidence": "pattern candidate; dimensions corroborated; execution reachability unverified"
+  },
+  {
+    "script_rom_candidate": 942620,
+    "map_id": "0500",
+    "spawn_id": "0500",
+    "width": 24,
+    "height": 18,
+    "evidence": "pattern candidate; dimensions corroborated; execution reachability unverified"
+  },
+  {
+    "script_rom_candidate": 942636,
+    "map_id": "0600",
+    "spawn_id": "0600",
+    "width": 24,
+    "height": 15,
+    "evidence": "pattern candidate; dimensions corroborated; execution reachability unverified"
+  },
+  {
+    "script_rom_candidate": 942874,
+    "map_id": "0500",
+    "spawn_id": "0500",
+    "width": 24,
+    "height": 18,
+    "evidence": "pattern candidate; dimensions corroborated; execution reachability unverified"
+  },
+  {
+    "script_rom_candidate": 942890,
+    "map_id": "0600",
+    "spawn_id": "0600",
+    "width": 24,
+    "height": 15,
+    "evidence": "pattern candidate; dimensions corroborated; execution reachability unverified"
+  },
+  {
+    "script_rom_candidate": 942906,
+    "map_id": "0500",
+    "spawn_id": "0509",
+    "width": 24,
+    "height": 18,
+    "evidence": "pattern candidate; dimensions corroborated; execution reachability unverified"
+  },
+  {
+    "script_rom_candidate": 942934,
+    "map_id": "0508",
+    "spawn_id": "050b",
+    "width": 24,
+    "height": 23,
+    "evidence": "pattern candidate; dimensions corroborated; execution reachability unverified"
+  },
+  {
+    "script_rom_candidate": 943076,
+    "map_id": "0509",
+    "spawn_id": "050c",
+    "width": 11,
+    "height": 15,
+    "evidence": "pattern candidate; dimensions corroborated; execution reachability unverified"
+  },
+  {
+    "script_rom_candidate": 943216,
+    "map_id": "0800",
+    "spawn_id": "0800",
+    "width": 24,
+    "height": 15,
+    "evidence": "pattern candidate; dimensions corroborated; execution reachability unverified"
+  },
+  {
+    "script_rom_candidate": 943262,
+    "map_id": "0507",
+    "spawn_id": "050a",
+    "width": 13,
+    "height": 25,
+    "evidence": "pattern candidate; dimensions corroborated; execution reachability unverified"
+  },
+  {
+    "script_rom_candidate": 943368,
+    "map_id": "0600",
+    "spawn_id": "0600",
+    "width": 24,
+    "height": 15,
+    "evidence": "pattern candidate; dimensions corroborated; execution reachability unverified"
+  },
+  {
+    "script_rom_candidate": 943388,
+    "map_id": "0508",
+    "spawn_id": "050b",
+    "width": 24,
+    "height": 23,
+    "evidence": "pattern candidate; dimensions corroborated; execution reachability unverified"
+  },
+  {
+    "script_rom_candidate": 943988,
+    "map_id": "0500",
+    "spawn_id": "0500",
+    "width": 24,
+    "height": 18,
+    "evidence": "pattern candidate; dimensions corroborated; execution reachability unverified"
+  },
+  {
+    "script_rom_candidate": 944048,
+    "map_id": "0507",
+    "spawn_id": "050a",
+    "width": 13,
+    "height": 25,
+    "evidence": "pattern candidate; dimensions corroborated; execution reachability unverified"
+  },
+  {
+    "script_rom_candidate": 944174,
+    "map_id": "0501",
+    "spawn_id": "0507",
+    "width": 10,
+    "height": 10,
+    "evidence": "pattern candidate; dimensions corroborated; execution reachability unverified"
+  },
+  {
+    "script_rom_candidate": 944190,
+    "map_id": "0503",
+    "spawn_id": "0507",
+    "width": 10,
+    "height": 10,
+    "evidence": "pattern candidate; dimensions corroborated; execution reachability unverified"
+  },
+  {
+    "script_rom_candidate": 944206,
+    "map_id": "0502",
+    "spawn_id": "0507",
+    "width": 10,
+    "height": 10,
+    "evidence": "pattern candidate; dimensions corroborated; execution reachability unverified"
+  },
+  {
+    "script_rom_candidate": 944222,
+    "map_id": "0504",
+    "spawn_id": "0507",
+    "width": 10,
+    "height": 10,
+    "evidence": "pattern candidate; dimensions corroborated; execution reachability unverified"
+  },
+  {
+    "script_rom_candidate": 944238,
+    "map_id": "0505",
+    "spawn_id": "0507",
+    "width": 10,
+    "height": 10,
+    "evidence": "pattern candidate; dimensions corroborated; execution reachability unverified"
+  },
+  {
+    "script_rom_candidate": 944254,
+    "map_id": "0506",
+    "spawn_id": "0507",
+    "width": 10,
+    "height": 10,
+    "evidence": "pattern candidate; dimensions corroborated; execution reachability unverified"
+  },
+  {
+    "script_rom_candidate": 944660,
+    "map_id": "0500",
+    "spawn_id": "0500",
+    "width": 24,
+    "height": 18,
+    "evidence": "pattern candidate; dimensions corroborated; execution reachability unverified"
+  },
+  {
+    "script_rom_candidate": 944676,
+    "map_id": "0600",
+    "spawn_id": "0600",
+    "width": 24,
+    "height": 15,
+    "evidence": "pattern candidate; dimensions corroborated; execution reachability unverified"
+  },
+  {
+    "script_rom_candidate": 944692,
+    "map_id": "0600",
+    "spawn_id": "0601",
+    "width": 24,
+    "height": 15,
+    "evidence": "pattern candidate; dimensions corroborated; execution reachability unverified"
+  },
+  {
+    "script_rom_candidate": 944706,
+    "map_id": "0600",
+    "spawn_id": "0602",
+    "width": 24,
+    "height": 15,
+    "evidence": "pattern candidate; dimensions corroborated; execution reachability unverified"
+  },
+  {
+    "script_rom_candidate": 944720,
+    "map_id": "0600",
+    "spawn_id": "0603",
+    "width": 24,
+    "height": 15,
+    "evidence": "pattern candidate; dimensions corroborated; execution reachability unverified"
+  },
+  {
+    "script_rom_candidate": 944734,
+    "map_id": "0600",
+    "spawn_id": "0604",
+    "width": 24,
+    "height": 15,
+    "evidence": "pattern candidate; dimensions corroborated; execution reachability unverified"
+  },
+  {
+    "script_rom_candidate": 944748,
+    "map_id": "0600",
+    "spawn_id": "0605",
+    "width": 24,
+    "height": 15,
+    "evidence": "pattern candidate; dimensions corroborated; execution reachability unverified"
+  },
+  {
+    "script_rom_candidate": 944762,
+    "map_id": "0600",
+    "spawn_id": "0606",
+    "width": 24,
+    "height": 15,
+    "evidence": "pattern candidate; dimensions corroborated; execution reachability unverified"
+  },
+  {
+    "script_rom_candidate": 944776,
+    "map_id": "0607",
+    "spawn_id": "060b",
+    "width": 10,
+    "height": 10,
+    "evidence": "pattern candidate; dimensions corroborated; execution reachability unverified"
+  },
+  {
+    "script_rom_candidate": 944790,
+    "map_id": "0606",
+    "spawn_id": "0609",
+    "width": 10,
+    "height": 10,
+    "evidence": "pattern candidate; dimensions corroborated; execution reachability unverified"
+  },
+  {
+    "script_rom_candidate": 944804,
+    "map_id": "0608",
+    "spawn_id": "060c",
+    "width": 10,
+    "height": 10,
+    "evidence": "pattern candidate; dimensions corroborated; execution reachability unverified"
+  },
+  {
+    "script_rom_candidate": 944818,
+    "map_id": "0606",
+    "spawn_id": "060a",
+    "width": 10,
+    "height": 10,
+    "evidence": "pattern candidate; dimensions corroborated; execution reachability unverified"
+  },
+  {
+    "script_rom_candidate": 944846,
+    "map_id": "0500",
+    "spawn_id": "0500",
+    "width": 24,
+    "height": 18,
+    "evidence": "pattern candidate; dimensions corroborated; execution reachability unverified"
+  },
+  {
+    "script_rom_candidate": 945018,
+    "map_id": "0600",
+    "spawn_id": "0600",
+    "width": 24,
+    "height": 15,
+    "evidence": "pattern candidate; dimensions corroborated; execution reachability unverified"
+  },
+  {
+    "script_rom_candidate": 945050,
+    "map_id": "0600",
+    "spawn_id": "0600",
+    "width": 24,
+    "height": 15,
+    "evidence": "pattern candidate; dimensions corroborated; execution reachability unverified"
+  },
+  {
+    "script_rom_candidate": 945066,
+    "map_id": "0508",
+    "spawn_id": "050b",
+    "width": 24,
+    "height": 23,
+    "evidence": "pattern candidate; dimensions corroborated; execution reachability unverified"
+  },
+  {
+    "script_rom_candidate": 945668,
+    "map_id": "0600",
+    "spawn_id": "0600",
+    "width": 24,
+    "height": 15,
+    "evidence": "pattern candidate; dimensions corroborated; execution reachability unverified"
+  },
+  {
+    "script_rom_candidate": 945814,
+    "map_id": "0501",
+    "spawn_id": "0507",
+    "width": 10,
+    "height": 10,
+    "evidence": "pattern candidate; dimensions corroborated; execution reachability unverified"
+  },
+  {
+    "script_rom_candidate": 945918,
+    "map_id": "0604",
+    "spawn_id": "0607",
+    "width": 10,
+    "height": 10,
+    "evidence": "pattern candidate; dimensions corroborated; execution reachability unverified"
+  },
+  {
+    "script_rom_candidate": 946122,
+    "map_id": "0600",
+    "spawn_id": "0604",
+    "width": 24,
+    "height": 15,
+    "evidence": "pattern candidate; dimensions corroborated; execution reachability unverified"
+  },
+  {
+    "script_rom_candidate": 946500,
+    "map_id": "0609",
+    "spawn_id": "060d",
+    "width": 24,
+    "height": 17,
+    "evidence": "pattern candidate; dimensions corroborated; execution reachability unverified"
+  },
+  {
+    "script_rom_candidate": 946598,
+    "map_id": "0600",
+    "spawn_id": "0604",
+    "width": 24,
+    "height": 15,
+    "evidence": "pattern candidate; dimensions corroborated; execution reachability unverified"
+  },
+  {
+    "script_rom_candidate": 946624,
+    "map_id": "0601",
+    "spawn_id": "0607",
+    "width": 10,
+    "height": 10,
+    "evidence": "pattern candidate; dimensions corroborated; execution reachability unverified"
+  },
+  {
+    "script_rom_candidate": 946640,
+    "map_id": "0602",
+    "spawn_id": "0608",
+    "width": 10,
+    "height": 13,
+    "evidence": "pattern candidate; dimensions corroborated; execution reachability unverified"
+  },
+  {
+    "script_rom_candidate": 946656,
+    "map_id": "0603",
+    "spawn_id": "0607",
+    "width": 10,
+    "height": 10,
+    "evidence": "pattern candidate; dimensions corroborated; execution reachability unverified"
+  },
+  {
+    "script_rom_candidate": 946672,
+    "map_id": "0604",
+    "spawn_id": "0607",
+    "width": 10,
+    "height": 10,
+    "evidence": "pattern candidate; dimensions corroborated; execution reachability unverified"
+  },
+  {
+    "script_rom_candidate": 946688,
+    "map_id": "0605",
+    "spawn_id": "0607",
+    "width": 10,
+    "height": 10,
+    "evidence": "pattern candidate; dimensions corroborated; execution reachability unverified"
+  },
+  {
+    "script_rom_candidate": 946704,
+    "map_id": "0606",
+    "spawn_id": "0607",
+    "width": 10,
+    "height": 10,
+    "evidence": "pattern candidate; dimensions corroborated; execution reachability unverified"
+  },
+  {
+    "script_rom_candidate": 946848,
+    "map_id": "0604",
+    "spawn_id": "0607",
+    "width": 10,
+    "height": 10,
+    "evidence": "pattern candidate; dimensions corroborated; execution reachability unverified"
+  },
+  {
+    "script_rom_candidate": 947108,
+    "map_id": "0606",
+    "spawn_id": "0607",
+    "width": 10,
+    "height": 10,
+    "evidence": "pattern candidate; dimensions corroborated; execution reachability unverified"
+  },
+  {
+    "script_rom_candidate": 947510,
+    "map_id": "0800",
+    "spawn_id": "0800",
+    "width": 24,
+    "height": 15,
+    "evidence": "pattern candidate; dimensions corroborated; execution reachability unverified"
+  },
+  {
+    "script_rom_candidate": 947526,
+    "map_id": "0700",
+    "spawn_id": "0700",
+    "width": 16,
+    "height": 23,
+    "evidence": "pattern candidate; dimensions corroborated; execution reachability unverified"
+  },
+  {
+    "script_rom_candidate": 947542,
+    "map_id": "0700",
+    "spawn_id": "0701",
+    "width": 16,
+    "height": 23,
+    "evidence": "pattern candidate; dimensions corroborated; execution reachability unverified"
+  },
+  {
+    "script_rom_candidate": 947556,
+    "map_id": "0700",
+    "spawn_id": "0702",
+    "width": 16,
+    "height": 23,
+    "evidence": "pattern candidate; dimensions corroborated; execution reachability unverified"
+  },
+  {
+    "script_rom_candidate": 947570,
+    "map_id": "0700",
+    "spawn_id": "0703",
+    "width": 16,
+    "height": 23,
+    "evidence": "pattern candidate; dimensions corroborated; execution reachability unverified"
+  },
+  {
+    "script_rom_candidate": 947584,
+    "map_id": "0700",
+    "spawn_id": "0704",
+    "width": 16,
+    "height": 23,
+    "evidence": "pattern candidate; dimensions corroborated; execution reachability unverified"
+  },
+  {
+    "script_rom_candidate": 947598,
+    "map_id": "0700",
+    "spawn_id": "0705",
+    "width": 16,
+    "height": 23,
+    "evidence": "pattern candidate; dimensions corroborated; execution reachability unverified"
+  },
+  {
+    "script_rom_candidate": 947612,
+    "map_id": "0700",
+    "spawn_id": "0706",
+    "width": 16,
+    "height": 23,
+    "evidence": "pattern candidate; dimensions corroborated; execution reachability unverified"
+  },
+  {
+    "script_rom_candidate": 947816,
+    "map_id": "0808",
+    "spawn_id": "080a",
+    "width": 15,
+    "height": 20,
+    "evidence": "pattern candidate; dimensions corroborated; execution reachability unverified"
+  },
+  {
+    "script_rom_candidate": 949250,
+    "map_id": "0707",
+    "spawn_id": "0709",
+    "width": 24,
+    "height": 20,
+    "evidence": "pattern candidate; dimensions corroborated; execution reachability unverified"
+  },
+  {
+    "script_rom_candidate": 949418,
+    "map_id": "0800",
+    "spawn_id": "0800",
+    "width": 24,
+    "height": 15,
+    "evidence": "pattern candidate; dimensions corroborated; execution reachability unverified"
+  },
+  {
+    "script_rom_candidate": 949438,
+    "map_id": "0708",
+    "spawn_id": "070a",
+    "width": 24,
+    "height": 25,
+    "evidence": "pattern candidate; dimensions corroborated; execution reachability unverified"
+  },
+  {
+    "script_rom_candidate": 949562,
+    "map_id": "0708",
+    "spawn_id": "070a",
+    "width": 24,
+    "height": 25,
+    "evidence": "pattern candidate; dimensions corroborated; execution reachability unverified"
+  },
+  {
+    "script_rom_candidate": 949664,
+    "map_id": "0800",
+    "spawn_id": "0800",
+    "width": 24,
+    "height": 15,
+    "evidence": "pattern candidate; dimensions corroborated; execution reachability unverified"
+  },
+  {
+    "script_rom_candidate": 949706,
+    "map_id": "0701",
+    "spawn_id": "070c",
+    "width": 11,
+    "height": 13,
+    "evidence": "pattern candidate; dimensions corroborated; execution reachability unverified"
+  },
+  {
+    "script_rom_candidate": 949722,
+    "map_id": "0702",
+    "spawn_id": "0708",
+    "width": 10,
+    "height": 10,
+    "evidence": "pattern candidate; dimensions corroborated; execution reachability unverified"
+  },
+  {
+    "script_rom_candidate": 949738,
+    "map_id": "0703",
+    "spawn_id": "0708",
+    "width": 10,
+    "height": 10,
+    "evidence": "pattern candidate; dimensions corroborated; execution reachability unverified"
+  },
+  {
+    "script_rom_candidate": 949754,
+    "map_id": "0704",
+    "spawn_id": "0708",
+    "width": 10,
+    "height": 10,
+    "evidence": "pattern candidate; dimensions corroborated; execution reachability unverified"
+  },
+  {
+    "script_rom_candidate": 949770,
+    "map_id": "0705",
+    "spawn_id": "0708",
+    "width": 10,
+    "height": 10,
+    "evidence": "pattern candidate; dimensions corroborated; execution reachability unverified"
+  },
+  {
+    "script_rom_candidate": 949786,
+    "map_id": "0706",
+    "spawn_id": "0708",
+    "width": 10,
+    "height": 10,
+    "evidence": "pattern candidate; dimensions corroborated; execution reachability unverified"
+  },
+  {
+    "script_rom_candidate": 950198,
+    "map_id": "0800",
+    "spawn_id": "0800",
+    "width": 24,
+    "height": 15,
+    "evidence": "pattern candidate; dimensions corroborated; execution reachability unverified"
+  },
+  {
+    "script_rom_candidate": 950214,
+    "map_id": "0707",
+    "spawn_id": "0709",
+    "width": 24,
+    "height": 20,
+    "evidence": "pattern candidate; dimensions corroborated; execution reachability unverified"
+  },
+  {
+    "script_rom_candidate": 950368,
+    "map_id": "0700",
+    "spawn_id": "0700",
+    "width": 16,
+    "height": 23,
+    "evidence": "pattern candidate; dimensions corroborated; execution reachability unverified"
+  },
+  {
+    "script_rom_candidate": 950384,
+    "map_id": "0708",
+    "spawn_id": "070a",
+    "width": 24,
+    "height": 25,
+    "evidence": "pattern candidate; dimensions corroborated; execution reachability unverified"
+  },
+  {
+    "script_rom_candidate": 950518,
+    "map_id": "0800",
+    "spawn_id": "0801",
+    "width": 24,
+    "height": 15,
+    "evidence": "pattern candidate; dimensions corroborated; execution reachability unverified"
+  },
+  {
+    "script_rom_candidate": 950532,
+    "map_id": "0800",
+    "spawn_id": "0802",
+    "width": 24,
+    "height": 15,
+    "evidence": "pattern candidate; dimensions corroborated; execution reachability unverified"
+  },
+  {
+    "script_rom_candidate": 950546,
+    "map_id": "0800",
+    "spawn_id": "0803",
+    "width": 24,
+    "height": 15,
+    "evidence": "pattern candidate; dimensions corroborated; execution reachability unverified"
+  },
+  {
+    "script_rom_candidate": 950560,
+    "map_id": "0800",
+    "spawn_id": "0804",
+    "width": 24,
+    "height": 15,
+    "evidence": "pattern candidate; dimensions corroborated; execution reachability unverified"
+  },
+  {
+    "script_rom_candidate": 950574,
+    "map_id": "0800",
+    "spawn_id": "0805",
+    "width": 24,
+    "height": 15,
+    "evidence": "pattern candidate; dimensions corroborated; execution reachability unverified"
+  },
+  {
+    "script_rom_candidate": 950588,
+    "map_id": "0800",
+    "spawn_id": "0806",
+    "width": 24,
+    "height": 15,
+    "evidence": "pattern candidate; dimensions corroborated; execution reachability unverified"
+  },
+  {
+    "script_rom_candidate": 950602,
+    "map_id": "0800",
+    "spawn_id": "0807",
+    "width": 24,
+    "height": 15,
+    "evidence": "pattern candidate; dimensions corroborated; execution reachability unverified"
+  },
+  {
+    "script_rom_candidate": 950658,
+    "map_id": "0808",
+    "spawn_id": "080a",
+    "width": 15,
+    "height": 20,
+    "evidence": "pattern candidate; dimensions corroborated; execution reachability unverified"
+  },
+  {
+    "script_rom_candidate": 951094,
+    "map_id": "0709",
+    "spawn_id": "070b",
+    "width": 32,
+    "height": 15,
+    "evidence": "pattern candidate; dimensions corroborated; execution reachability unverified"
+  },
+  {
+    "script_rom_candidate": 951240,
+    "map_id": "0808",
+    "spawn_id": "080a",
+    "width": 15,
+    "height": 20,
+    "evidence": "pattern candidate; dimensions corroborated; execution reachability unverified"
+  },
+  {
+    "script_rom_candidate": 951336,
+    "map_id": "0701",
+    "spawn_id": "0707",
+    "width": 11,
+    "height": 13,
+    "evidence": "pattern candidate; dimensions corroborated; execution reachability unverified"
+  },
+  {
+    "script_rom_candidate": 951436,
+    "map_id": "0809",
+    "spawn_id": "080b",
+    "width": 24,
+    "height": 25,
+    "evidence": "pattern candidate; dimensions corroborated; execution reachability unverified"
+  },
+  {
+    "script_rom_candidate": 951504,
+    "map_id": "080a",
+    "spawn_id": "080c",
+    "width": 10,
+    "height": 10,
+    "evidence": "pattern candidate; dimensions corroborated; execution reachability unverified"
+  },
+  {
+    "script_rom_candidate": 951632,
+    "map_id": "080b",
+    "spawn_id": "080c",
+    "width": 10,
+    "height": 10,
+    "evidence": "pattern candidate; dimensions corroborated; execution reachability unverified"
+  },
+  {
+    "script_rom_candidate": 951760,
+    "map_id": "0701",
+    "spawn_id": "0707",
+    "width": 11,
+    "height": 13,
+    "evidence": "pattern candidate; dimensions corroborated; execution reachability unverified"
+  },
+  {
+    "script_rom_candidate": 951874,
+    "map_id": "0809",
+    "spawn_id": "080b",
+    "width": 24,
+    "height": 25,
+    "evidence": "pattern candidate; dimensions corroborated; execution reachability unverified"
+  },
+  {
+    "script_rom_candidate": 951954,
+    "map_id": "0308",
+    "spawn_id": "030e",
+    "width": 13,
+    "height": 25,
+    "evidence": "pattern candidate; dimensions corroborated; execution reachability unverified"
+  },
+  {
+    "script_rom_candidate": 952106,
+    "map_id": "080a",
+    "spawn_id": "080c",
+    "width": 10,
+    "height": 10,
+    "evidence": "pattern candidate; dimensions corroborated; execution reachability unverified"
+  },
+  {
+    "script_rom_candidate": 952424,
+    "map_id": "0701",
+    "spawn_id": "0707",
+    "width": 11,
+    "height": 13,
+    "evidence": "pattern candidate; dimensions corroborated; execution reachability unverified"
+  },
+  {
+    "script_rom_candidate": 952554,
+    "map_id": "0900",
+    "spawn_id": "0900",
+    "width": 16,
+    "height": 20,
+    "evidence": "pattern candidate; dimensions corroborated; execution reachability unverified"
+  },
+  {
+    "script_rom_candidate": 952580,
+    "map_id": "0801",
+    "spawn_id": "0808",
+    "width": 10,
+    "height": 10,
+    "evidence": "pattern candidate; dimensions corroborated; execution reachability unverified"
+  },
+  {
+    "script_rom_candidate": 952596,
+    "map_id": "0802",
+    "spawn_id": "0809",
+    "width": 10,
+    "height": 12,
+    "evidence": "pattern candidate; dimensions corroborated; execution reachability unverified"
+  },
+  {
+    "script_rom_candidate": 952612,
+    "map_id": "0803",
+    "spawn_id": "0808",
+    "width": 10,
+    "height": 10,
+    "evidence": "pattern candidate; dimensions corroborated; execution reachability unverified"
+  },
+  {
+    "script_rom_candidate": 952628,
+    "map_id": "0804",
+    "spawn_id": "0808",
+    "width": 10,
+    "height": 10,
+    "evidence": "pattern candidate; dimensions corroborated; execution reachability unverified"
+  },
+  {
+    "script_rom_candidate": 952644,
+    "map_id": "0805",
+    "spawn_id": "0808",
+    "width": 10,
+    "height": 10,
+    "evidence": "pattern candidate; dimensions corroborated; execution reachability unverified"
+  },
+  {
+    "script_rom_candidate": 952660,
+    "map_id": "0806",
+    "spawn_id": "0808",
+    "width": 10,
+    "height": 10,
+    "evidence": "pattern candidate; dimensions corroborated; execution reachability unverified"
+  },
+  {
+    "script_rom_candidate": 952676,
+    "map_id": "0807",
+    "spawn_id": "0808",
+    "width": 10,
+    "height": 10,
+    "evidence": "pattern candidate; dimensions corroborated; execution reachability unverified"
+  },
+  {
+    "script_rom_candidate": 952692,
+    "map_id": "0806",
+    "spawn_id": "0808",
+    "width": 10,
+    "height": 10,
+    "evidence": "pattern candidate; dimensions corroborated; execution reachability unverified"
+  },
+  {
+    "script_rom_candidate": 952816,
+    "map_id": "0809",
+    "spawn_id": "080b",
+    "width": 24,
+    "height": 25,
+    "evidence": "pattern candidate; dimensions corroborated; execution reachability unverified"
+  },
+  {
+    "script_rom_candidate": 952960,
+    "map_id": "080a",
+    "spawn_id": "080c",
+    "width": 10,
+    "height": 10,
+    "evidence": "pattern candidate; dimensions corroborated; execution reachability unverified"
+  },
+  {
+    "script_rom_candidate": 953140,
+    "map_id": "080b",
+    "spawn_id": "080c",
+    "width": 10,
+    "height": 10,
+    "evidence": "pattern candidate; dimensions corroborated; execution reachability unverified"
+  },
+  {
+    "script_rom_candidate": 953320,
+    "map_id": "0809",
+    "spawn_id": "080b",
+    "width": 24,
+    "height": 25,
+    "evidence": "pattern candidate; dimensions corroborated; execution reachability unverified"
+  },
+  {
+    "script_rom_candidate": 953858,
+    "map_id": "0900",
+    "spawn_id": "0900",
+    "width": 16,
+    "height": 20,
+    "evidence": "pattern candidate; dimensions corroborated; execution reachability unverified"
+  },
+  {
+    "script_rom_candidate": 953874,
+    "map_id": "0906",
+    "spawn_id": "0908",
+    "width": 16,
+    "height": 30,
+    "evidence": "pattern candidate; dimensions corroborated; execution reachability unverified"
+  },
+  {
+    "script_rom_candidate": 953950,
+    "map_id": "0907",
+    "spawn_id": "0909",
+    "width": 32,
+    "height": 20,
+    "evidence": "pattern candidate; dimensions corroborated; execution reachability unverified"
+  },
+  {
+    "script_rom_candidate": 954026,
+    "map_id": "0908",
+    "spawn_id": "090a",
+    "width": 24,
+    "height": 25,
+    "evidence": "pattern candidate; dimensions corroborated; execution reachability unverified"
+  },
+  {
+    "script_rom_candidate": 954160,
+    "map_id": "0a00",
+    "spawn_id": "0a00",
+    "width": 15,
+    "height": 25,
+    "evidence": "pattern candidate; dimensions corroborated; execution reachability unverified"
+  },
+  {
+    "script_rom_candidate": 954192,
+    "map_id": "0a07",
+    "spawn_id": "0a0a",
+    "width": 11,
+    "height": 12,
+    "evidence": "pattern candidate; dimensions corroborated; execution reachability unverified"
+  },
+  {
+    "script_rom_candidate": 954428,
+    "map_id": "0a08",
+    "spawn_id": "0a0b",
+    "width": 24,
+    "height": 30,
+    "evidence": "pattern candidate; dimensions corroborated; execution reachability unverified"
+  },
+  {
+    "script_rom_candidate": 954704,
+    "map_id": "0900",
+    "spawn_id": "0901",
+    "width": 16,
+    "height": 20,
+    "evidence": "pattern candidate; dimensions corroborated; execution reachability unverified"
+  },
+  {
+    "script_rom_candidate": 954718,
+    "map_id": "0900",
+    "spawn_id": "0902",
+    "width": 16,
+    "height": 20,
+    "evidence": "pattern candidate; dimensions corroborated; execution reachability unverified"
+  },
+  {
+    "script_rom_candidate": 954732,
+    "map_id": "0900",
+    "spawn_id": "0903",
+    "width": 16,
+    "height": 20,
+    "evidence": "pattern candidate; dimensions corroborated; execution reachability unverified"
+  },
+  {
+    "script_rom_candidate": 954746,
+    "map_id": "0900",
+    "spawn_id": "0904",
+    "width": 16,
+    "height": 20,
+    "evidence": "pattern candidate; dimensions corroborated; execution reachability unverified"
+  },
+  {
+    "script_rom_candidate": 954760,
+    "map_id": "0900",
+    "spawn_id": "0905",
+    "width": 16,
+    "height": 20,
+    "evidence": "pattern candidate; dimensions corroborated; execution reachability unverified"
+  },
+  {
+    "script_rom_candidate": 954892,
+    "map_id": "0900",
+    "spawn_id": "0900",
+    "width": 16,
+    "height": 20,
+    "evidence": "pattern candidate; dimensions corroborated; execution reachability unverified"
+  },
+  {
+    "script_rom_candidate": 954908,
+    "map_id": "0907",
+    "spawn_id": "0909",
+    "width": 32,
+    "height": 20,
+    "evidence": "pattern candidate; dimensions corroborated; execution reachability unverified"
+  },
+  {
+    "script_rom_candidate": 956334,
+    "map_id": "0907",
+    "spawn_id": "0909",
+    "width": 32,
+    "height": 20,
+    "evidence": "pattern candidate; dimensions corroborated; execution reachability unverified"
+  },
+  {
+    "script_rom_candidate": 956414,
+    "map_id": "0900",
+    "spawn_id": "0900",
+    "width": 16,
+    "height": 20,
+    "evidence": "pattern candidate; dimensions corroborated; execution reachability unverified"
+  },
+  {
+    "script_rom_candidate": 956430,
+    "map_id": "0908",
+    "spawn_id": "090a",
+    "width": 24,
+    "height": 25,
+    "evidence": "pattern candidate; dimensions corroborated; execution reachability unverified"
+  },
+  {
+    "script_rom_candidate": 956578,
+    "map_id": "0908",
+    "spawn_id": "090a",
+    "width": 24,
+    "height": 25,
+    "evidence": "pattern candidate; dimensions corroborated; execution reachability unverified"
+  },
+  {
+    "script_rom_candidate": 956780,
+    "map_id": "0900",
+    "spawn_id": "0900",
+    "width": 16,
+    "height": 20,
+    "evidence": "pattern candidate; dimensions corroborated; execution reachability unverified"
+  },
+  {
+    "script_rom_candidate": 956796,
+    "map_id": "0a00",
+    "spawn_id": "0a00",
+    "width": 15,
+    "height": 25,
+    "evidence": "pattern candidate; dimensions corroborated; execution reachability unverified"
+  },
+  {
+    "script_rom_candidate": 956818,
+    "map_id": "0901",
+    "spawn_id": "0906",
+    "width": 10,
+    "height": 13,
+    "evidence": "pattern candidate; dimensions corroborated; execution reachability unverified"
+  },
+  {
+    "script_rom_candidate": 956914,
+    "map_id": "0902",
+    "spawn_id": "0907",
+    "width": 10,
+    "height": 10,
+    "evidence": "pattern candidate; dimensions corroborated; execution reachability unverified"
+  },
+  {
+    "script_rom_candidate": 957084,
+    "map_id": "0902",
+    "spawn_id": "0907",
+    "width": 10,
+    "height": 10,
+    "evidence": "pattern candidate; dimensions corroborated; execution reachability unverified"
+  },
+  {
+    "script_rom_candidate": 957100,
+    "map_id": "0903",
+    "spawn_id": "0907",
+    "width": 10,
+    "height": 10,
+    "evidence": "pattern candidate; dimensions corroborated; execution reachability unverified"
+  },
+  {
+    "script_rom_candidate": 957116,
+    "map_id": "0904",
+    "spawn_id": "0907",
+    "width": 10,
+    "height": 10,
+    "evidence": "pattern candidate; dimensions corroborated; execution reachability unverified"
+  },
+  {
+    "script_rom_candidate": 957132,
+    "map_id": "0905",
+    "spawn_id": "0907",
+    "width": 10,
+    "height": 10,
+    "evidence": "pattern candidate; dimensions corroborated; execution reachability unverified"
+  },
+  {
+    "script_rom_candidate": 957148,
+    "map_id": "0901",
+    "spawn_id": "0906",
+    "width": 10,
+    "height": 13,
+    "evidence": "pattern candidate; dimensions corroborated; execution reachability unverified"
+  },
+  {
+    "script_rom_candidate": 957558,
+    "map_id": "0900",
+    "spawn_id": "0900",
+    "width": 16,
+    "height": 20,
+    "evidence": "pattern candidate; dimensions corroborated; execution reachability unverified"
+  },
+  {
+    "script_rom_candidate": 957574,
+    "map_id": "0a00",
+    "spawn_id": "0a00",
+    "width": 15,
+    "height": 25,
+    "evidence": "pattern candidate; dimensions corroborated; execution reachability unverified"
+  },
+  {
+    "script_rom_candidate": 957606,
+    "map_id": "0a07",
+    "spawn_id": "0a0a",
+    "width": 11,
+    "height": 12,
+    "evidence": "pattern candidate; dimensions corroborated; execution reachability unverified"
+  },
+  {
+    "script_rom_candidate": 957842,
+    "map_id": "0a08",
+    "spawn_id": "0a0b",
+    "width": 24,
+    "height": 30,
+    "evidence": "pattern candidate; dimensions corroborated; execution reachability unverified"
+  },
+  {
+    "script_rom_candidate": 958118,
+    "map_id": "0a00",
+    "spawn_id": "0a01",
+    "width": 15,
+    "height": 25,
+    "evidence": "pattern candidate; dimensions corroborated; execution reachability unverified"
+  },
+  {
+    "script_rom_candidate": 958132,
+    "map_id": "0a00",
+    "spawn_id": "0a02",
+    "width": 15,
+    "height": 25,
+    "evidence": "pattern candidate; dimensions corroborated; execution reachability unverified"
+  },
+  {
+    "script_rom_candidate": 958146,
+    "map_id": "0a00",
+    "spawn_id": "0a03",
+    "width": 15,
+    "height": 25,
+    "evidence": "pattern candidate; dimensions corroborated; execution reachability unverified"
+  },
+  {
+    "script_rom_candidate": 958160,
+    "map_id": "0a00",
+    "spawn_id": "0a04",
+    "width": 15,
+    "height": 25,
+    "evidence": "pattern candidate; dimensions corroborated; execution reachability unverified"
+  },
+  {
+    "script_rom_candidate": 958174,
+    "map_id": "0a00",
+    "spawn_id": "0a05",
+    "width": 15,
+    "height": 25,
+    "evidence": "pattern candidate; dimensions corroborated; execution reachability unverified"
+  },
+  {
+    "script_rom_candidate": 959912,
+    "map_id": "0a01",
+    "spawn_id": "0a09",
+    "width": 10,
+    "height": 15,
+    "evidence": "pattern candidate; dimensions corroborated; execution reachability unverified"
+  },
+  {
+    "script_rom_candidate": 960042,
+    "map_id": "0a08",
+    "spawn_id": "0a0c",
+    "width": 24,
+    "height": 30,
+    "evidence": "pattern candidate; dimensions corroborated; execution reachability unverified"
+  },
+  {
+    "script_rom_candidate": 960208,
+    "map_id": "0509",
+    "spawn_id": "050c",
+    "width": 11,
+    "height": 15,
+    "evidence": "pattern candidate; dimensions corroborated; execution reachability unverified"
+  },
+  {
+    "script_rom_candidate": 960340,
+    "map_id": "0701",
+    "spawn_id": "0707",
+    "width": 11,
+    "height": 13,
+    "evidence": "pattern candidate; dimensions corroborated; execution reachability unverified"
+  },
+  {
+    "script_rom_candidate": 960422,
+    "map_id": "0b00",
+    "spawn_id": "0b00",
+    "width": 16,
+    "height": 15,
+    "evidence": "pattern candidate; dimensions corroborated; execution reachability unverified"
+  },
+  {
+    "script_rom_candidate": 961474,
+    "map_id": "0a01",
+    "spawn_id": "0a06",
+    "width": 10,
+    "height": 15,
+    "evidence": "pattern candidate; dimensions corroborated; execution reachability unverified"
+  },
+  {
+    "script_rom_candidate": 961548,
+    "map_id": "0a02",
+    "spawn_id": "0a07",
+    "width": 10,
+    "height": 10,
+    "evidence": "pattern candidate; dimensions corroborated; execution reachability unverified"
+  },
+  {
+    "script_rom_candidate": 961564,
+    "map_id": "0a03",
+    "spawn_id": "0a07",
+    "width": 10,
+    "height": 10,
+    "evidence": "pattern candidate; dimensions corroborated; execution reachability unverified"
+  },
+  {
+    "script_rom_candidate": 961580,
+    "map_id": "0a04",
+    "spawn_id": "0a08",
+    "width": 10,
+    "height": 10,
+    "evidence": "pattern candidate; dimensions corroborated; execution reachability unverified"
+  },
+  {
+    "script_rom_candidate": 961596,
+    "map_id": "0a05",
+    "spawn_id": "0a07",
+    "width": 10,
+    "height": 10,
+    "evidence": "pattern candidate; dimensions corroborated; execution reachability unverified"
+  },
+  {
+    "script_rom_candidate": 961614,
+    "map_id": "0a01",
+    "spawn_id": "0a06",
+    "width": 10,
+    "height": 15,
+    "evidence": "pattern candidate; dimensions corroborated; execution reachability unverified"
+  },
+  {
+    "script_rom_candidate": 962028,
+    "map_id": "0b00",
+    "spawn_id": "0b00",
+    "width": 16,
+    "height": 15,
+    "evidence": "pattern candidate; dimensions corroborated; execution reachability unverified"
+  },
+  {
+    "script_rom_candidate": 962044,
+    "map_id": "0b05",
+    "spawn_id": "0b06",
+    "width": 32,
+    "height": 25,
+    "evidence": "pattern candidate; dimensions corroborated; execution reachability unverified"
+  },
+  {
+    "script_rom_candidate": 962174,
+    "map_id": "0b06",
+    "spawn_id": "0b07",
+    "width": 24,
+    "height": 30,
+    "evidence": "pattern candidate; dimensions corroborated; execution reachability unverified"
+  },
+  {
+    "script_rom_candidate": 962314,
+    "map_id": "0b07",
+    "spawn_id": "0b08",
+    "width": 24,
+    "height": 25,
+    "evidence": "pattern candidate; dimensions corroborated; execution reachability unverified"
+  },
+  {
+    "script_rom_candidate": 962480,
+    "map_id": "0b08",
+    "spawn_id": "0b09",
+    "width": 32,
+    "height": 20,
+    "evidence": "pattern candidate; dimensions corroborated; execution reachability unverified"
+  },
+  {
+    "script_rom_candidate": 962674,
+    "map_id": "0b09",
+    "spawn_id": "0b0a",
+    "width": 24,
+    "height": 25,
+    "evidence": "pattern candidate; dimensions corroborated; execution reachability unverified"
+  },
+  {
+    "script_rom_candidate": 962812,
+    "map_id": "0b0a",
+    "spawn_id": "0b0b",
+    "width": 24,
+    "height": 30,
+    "evidence": "pattern candidate; dimensions corroborated; execution reachability unverified"
+  },
+  {
+    "script_rom_candidate": 962964,
+    "map_id": "0b00",
+    "spawn_id": "0b01",
+    "width": 16,
+    "height": 15,
+    "evidence": "pattern candidate; dimensions corroborated; execution reachability unverified"
+  },
+  {
+    "script_rom_candidate": 962978,
+    "map_id": "0b00",
+    "spawn_id": "0b02",
+    "width": 16,
+    "height": 15,
+    "evidence": "pattern candidate; dimensions corroborated; execution reachability unverified"
+  },
+  {
+    "script_rom_candidate": 962992,
+    "map_id": "0b00",
+    "spawn_id": "0b03",
+    "width": 16,
+    "height": 15,
+    "evidence": "pattern candidate; dimensions corroborated; execution reachability unverified"
+  },
+  {
+    "script_rom_candidate": 963006,
+    "map_id": "0b00",
+    "spawn_id": "0b04",
+    "width": 16,
+    "height": 15,
+    "evidence": "pattern candidate; dimensions corroborated; execution reachability unverified"
+  },
+  {
+    "script_rom_candidate": 963036,
+    "map_id": "0b0a",
+    "spawn_id": "0b0c",
+    "width": 24,
+    "height": 30,
+    "evidence": "pattern candidate; dimensions corroborated; execution reachability unverified"
+  },
+  {
+    "script_rom_candidate": 963134,
+    "map_id": "0701",
+    "spawn_id": "0707",
+    "width": 11,
+    "height": 13,
+    "evidence": "pattern candidate; dimensions corroborated; execution reachability unverified"
+  },
+  {
+    "script_rom_candidate": 963318,
+    "map_id": "0509",
+    "spawn_id": "050c",
+    "width": 11,
+    "height": 15,
+    "evidence": "pattern candidate; dimensions corroborated; execution reachability unverified"
+  },
+  {
+    "script_rom_candidate": 963510,
+    "map_id": "0c01",
+    "spawn_id": "0c04",
+    "width": 10,
+    "height": 10,
+    "evidence": "pattern candidate; dimensions corroborated; execution reachability unverified"
+  },
+  {
+    "script_rom_candidate": 964768,
+    "map_id": "0b00",
+    "spawn_id": "0b00",
+    "width": 16,
+    "height": 15,
+    "evidence": "pattern candidate; dimensions corroborated; execution reachability unverified"
+  },
+  {
+    "script_rom_candidate": 964784,
+    "map_id": "0b06",
+    "spawn_id": "0b07",
+    "width": 24,
+    "height": 30,
+    "evidence": "pattern candidate; dimensions corroborated; execution reachability unverified"
+  },
+  {
+    "script_rom_candidate": 965870,
+    "map_id": "0b00",
+    "spawn_id": "0b00",
+    "width": 16,
+    "height": 15,
+    "evidence": "pattern candidate; dimensions corroborated; execution reachability unverified"
+  },
+  {
+    "script_rom_candidate": 965886,
+    "map_id": "0b07",
+    "spawn_id": "0b08",
+    "width": 24,
+    "height": 25,
+    "evidence": "pattern candidate; dimensions corroborated; execution reachability unverified"
+  },
+  {
+    "script_rom_candidate": 966110,
+    "map_id": "0b00",
+    "spawn_id": "0b00",
+    "width": 16,
+    "height": 15,
+    "evidence": "pattern candidate; dimensions corroborated; execution reachability unverified"
+  },
+  {
+    "script_rom_candidate": 966126,
+    "map_id": "0b08",
+    "spawn_id": "0b09",
+    "width": 32,
+    "height": 20,
+    "evidence": "pattern candidate; dimensions corroborated; execution reachability unverified"
+  },
+  {
+    "script_rom_candidate": 967008,
+    "map_id": "0b09",
+    "spawn_id": "0b0a",
+    "width": 24,
+    "height": 25,
+    "evidence": "pattern candidate; dimensions corroborated; execution reachability unverified"
+  },
+  {
+    "script_rom_candidate": 967214,
+    "map_id": "0509",
+    "spawn_id": "050c",
+    "width": 11,
+    "height": 15,
+    "evidence": "pattern candidate; dimensions corroborated; execution reachability unverified"
+  },
+  {
+    "script_rom_candidate": 967316,
+    "map_id": "0b01",
+    "spawn_id": "0b05",
+    "width": 10,
+    "height": 10,
+    "evidence": "pattern candidate; dimensions corroborated; execution reachability unverified"
+  },
+  {
+    "script_rom_candidate": 967484,
+    "map_id": "0b09",
+    "spawn_id": "0b0a",
+    "width": 24,
+    "height": 25,
+    "evidence": "pattern candidate; dimensions corroborated; execution reachability unverified"
+  },
+  {
+    "script_rom_candidate": 967560,
+    "map_id": "0b00",
+    "spawn_id": "0b00",
+    "width": 16,
+    "height": 15,
+    "evidence": "pattern candidate; dimensions corroborated; execution reachability unverified"
+  },
+  {
+    "script_rom_candidate": 967576,
+    "map_id": "0b0a",
+    "spawn_id": "0b0b",
+    "width": 24,
+    "height": 30,
+    "evidence": "pattern candidate; dimensions corroborated; execution reachability unverified"
+  },
+  {
+    "script_rom_candidate": 968632,
+    "map_id": "0b01",
+    "spawn_id": "0b05",
+    "width": 10,
+    "height": 10,
+    "evidence": "pattern candidate; dimensions corroborated; execution reachability unverified"
+  },
+  {
+    "script_rom_candidate": 968648,
+    "map_id": "0b02",
+    "spawn_id": "0b05",
+    "width": 10,
+    "height": 10,
+    "evidence": "pattern candidate; dimensions corroborated; execution reachability unverified"
+  },
+  {
+    "script_rom_candidate": 968664,
+    "map_id": "0b03",
+    "spawn_id": "0b05",
+    "width": 10,
+    "height": 10,
+    "evidence": "pattern candidate; dimensions corroborated; execution reachability unverified"
+  },
+  {
+    "script_rom_candidate": 968680,
+    "map_id": "0b04",
+    "spawn_id": "0b05",
+    "width": 10,
+    "height": 10,
+    "evidence": "pattern candidate; dimensions corroborated; execution reachability unverified"
+  },
+  {
+    "script_rom_candidate": 969080,
+    "map_id": "0c00",
+    "spawn_id": "0c00",
+    "width": 16,
+    "height": 13,
+    "evidence": "pattern candidate; dimensions corroborated; execution reachability unverified"
+  },
+  {
+    "script_rom_candidate": 969096,
+    "map_id": "0c04",
+    "spawn_id": "0c05",
+    "width": 24,
+    "height": 30,
+    "evidence": "pattern candidate; dimensions corroborated; execution reachability unverified"
+  },
+  {
+    "script_rom_candidate": 969370,
+    "map_id": "0c00",
+    "spawn_id": "0c00",
+    "width": 16,
+    "height": 13,
+    "evidence": "pattern candidate; dimensions corroborated; execution reachability unverified"
+  },
+  {
+    "script_rom_candidate": 969386,
+    "map_id": "0c05",
+    "spawn_id": "0c06",
+    "width": 32,
+    "height": 20,
+    "evidence": "pattern candidate; dimensions corroborated; execution reachability unverified"
+  },
+  {
+    "script_rom_candidate": 969484,
+    "map_id": "0c00",
+    "spawn_id": "0c01",
+    "width": 16,
+    "height": 13,
+    "evidence": "pattern candidate; dimensions corroborated; execution reachability unverified"
+  },
+  {
+    "script_rom_candidate": 969498,
+    "map_id": "0c00",
+    "spawn_id": "0c02",
+    "width": 16,
+    "height": 13,
+    "evidence": "pattern candidate; dimensions corroborated; execution reachability unverified"
+  },
+  {
+    "script_rom_candidate": 969512,
+    "map_id": "0c00",
+    "spawn_id": "0c03",
+    "width": 16,
+    "height": 13,
+    "evidence": "pattern candidate; dimensions corroborated; execution reachability unverified"
+  },
+  {
+    "script_rom_candidate": 969548,
+    "map_id": "0c00",
+    "spawn_id": "0c00",
+    "width": 16,
+    "height": 13,
+    "evidence": "pattern candidate; dimensions corroborated; execution reachability unverified"
+  },
+  {
+    "script_rom_candidate": 969564,
+    "map_id": "0c05",
+    "spawn_id": "0c06",
+    "width": 32,
+    "height": 20,
+    "evidence": "pattern candidate; dimensions corroborated; execution reachability unverified"
+  },
+  {
+    "script_rom_candidate": 969662,
+    "map_id": "0c06",
+    "spawn_id": "0c07",
+    "width": 24,
+    "height": 25,
+    "evidence": "pattern candidate; dimensions corroborated; execution reachability unverified"
+  },
+  {
+    "script_rom_candidate": 969760,
+    "map_id": "0c07",
+    "spawn_id": "0c08",
+    "width": 24,
+    "height": 30,
+    "evidence": "pattern candidate; dimensions corroborated; execution reachability unverified"
+  },
+  {
+    "script_rom_candidate": 969900,
+    "map_id": "0c08",
+    "spawn_id": "0c09",
+    "width": 24,
+    "height": 20,
+    "evidence": "pattern candidate; dimensions corroborated; execution reachability unverified"
+  },
+  {
+    "script_rom_candidate": 970536,
+    "map_id": "0c00",
+    "spawn_id": "0c00",
+    "width": 16,
+    "height": 13,
+    "evidence": "pattern candidate; dimensions corroborated; execution reachability unverified"
+  },
+  {
+    "script_rom_candidate": 970552,
+    "map_id": "0c06",
+    "spawn_id": "0c07",
+    "width": 24,
+    "height": 25,
+    "evidence": "pattern candidate; dimensions corroborated; execution reachability unverified"
+  },
+  {
+    "script_rom_candidate": 971598,
+    "map_id": "0c00",
+    "spawn_id": "0c00",
+    "width": 16,
+    "height": 13,
+    "evidence": "pattern candidate; dimensions corroborated; execution reachability unverified"
+  },
+  {
+    "script_rom_candidate": 971614,
+    "map_id": "0c07",
+    "spawn_id": "0c08",
+    "width": 24,
+    "height": 30,
+    "evidence": "pattern candidate; dimensions corroborated; execution reachability unverified"
+  },
+  {
+    "script_rom_candidate": 972660,
+    "map_id": "0c07",
+    "spawn_id": "0c08",
+    "width": 24,
+    "height": 30,
+    "evidence": "pattern candidate; dimensions corroborated; execution reachability unverified"
+  },
+  {
+    "script_rom_candidate": 972704,
+    "map_id": "0c01",
+    "spawn_id": "0c04",
+    "width": 10,
+    "height": 10,
+    "evidence": "pattern candidate; dimensions corroborated; execution reachability unverified"
+  },
+  {
+    "script_rom_candidate": 973772,
+    "map_id": "0c04",
+    "spawn_id": "0c05",
+    "width": 24,
+    "height": 30,
+    "evidence": "pattern candidate; dimensions corroborated; execution reachability unverified"
+  },
+  {
+    "script_rom_candidate": 975010,
+    "map_id": "0c04",
+    "spawn_id": "0c05",
+    "width": 24,
+    "height": 30,
+    "evidence": "pattern candidate; dimensions corroborated; execution reachability unverified"
+  },
+  {
+    "script_rom_candidate": 975080,
+    "map_id": "0509",
+    "spawn_id": "050c",
+    "width": 11,
+    "height": 15,
+    "evidence": "pattern candidate; dimensions corroborated; execution reachability unverified"
+  },
+  {
+    "script_rom_candidate": 975182,
+    "map_id": "0308",
+    "spawn_id": "030e",
+    "width": 13,
+    "height": 25,
+    "evidence": "pattern candidate; dimensions corroborated; execution reachability unverified"
+  },
+  {
+    "script_rom_candidate": 975372,
+    "map_id": "0707",
+    "spawn_id": "0709",
+    "width": 24,
+    "height": 20,
+    "evidence": "pattern candidate; dimensions corroborated; execution reachability unverified"
+  },
+  {
+    "script_rom_candidate": 975504,
+    "map_id": "0c01",
+    "spawn_id": "0c04",
+    "width": 10,
+    "height": 10,
+    "evidence": "pattern candidate; dimensions corroborated; execution reachability unverified"
+  },
+  {
+    "script_rom_candidate": 975520,
+    "map_id": "0c02",
+    "spawn_id": "0c04",
+    "width": 10,
+    "height": 10,
+    "evidence": "pattern candidate; dimensions corroborated; execution reachability unverified"
+  },
+  {
+    "script_rom_candidate": 975536,
+    "map_id": "0c03",
+    "spawn_id": "0c04",
+    "width": 10,
+    "height": 10,
+    "evidence": "pattern candidate; dimensions corroborated; execution reachability unverified"
+  }
+]

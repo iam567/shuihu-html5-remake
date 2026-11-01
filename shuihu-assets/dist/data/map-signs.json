@@ -1,0 +1,715 @@
+{
+ "source": "generated/maps-signage/ghibli/*.svg on the workshop, 128 px per cell",
+ "maps": {
+  "0100": {
+   "cell": 128,
+   "signs": [
+    {
+     "tile": 35,
+     "label": "百貨",
+     "rects": [
+      {
+       "x": "512",
+       "y": "708",
+       "width": "128",
+       "height": "60",
+       "fill": "#684526"
+      },
+      {
+       "x": "515",
+       "y": "711",
+       "width": "122",
+       "height": "54",
+       "fill": "#bf9c5b",
+       "stroke": "#382817",
+       "stroke-width": "2"
+      },
+      {
+       "x": "524",
+       "y": "714.0",
+       "width": "104",
+       "height": "48",
+       "rx": "1.5",
+       "fill": "#fff2d2",
+       "stroke": "#634020",
+       "stroke-width": "2"
+      }
+     ],
+     "text": {
+      "x": "576.0",
+      "y": "739.0",
+      "dominant-baseline": "central",
+      "text-anchor": "middle",
+      "font-family": "PingFang TC,Noto Sans CJK TC,Microsoft JhengHei,serif",
+      "font-size": "36.480000000000004",
+      "font-weight": "600",
+      "letter-spacing": "3",
+      "fill": "#34220f",
+      "value": "百貨"
+     }
+    },
+    {
+     "tile": 44,
+     "label": "酒店",
+     "rects": [
+      {
+       "x": "1152",
+       "y": "964",
+       "width": "128",
+       "height": "60",
+       "fill": "#684526"
+      },
+      {
+       "x": "1155",
+       "y": "967",
+       "width": "122",
+       "height": "54",
+       "fill": "#bf9c5b",
+       "stroke": "#382817",
+       "stroke-width": "2"
+      },
+      {
+       "x": "1164",
+       "y": "970.0",
+       "width": "104",
+       "height": "48",
+       "rx": "1.5",
+       "fill": "#fff2d2",
+       "stroke": "#634020",
+       "stroke-width": "2"
+      }
+     ],
+     "text": {
+      "x": "1216.0",
+      "y": "995.0",
+      "dominant-baseline": "central",
+      "text-anchor": "middle",
+      "font-family": "PingFang TC,Noto Sans CJK TC,Microsoft JhengHei,serif",
+      "font-size": "36.480000000000004",
+      "font-weight": "600",
+      "letter-spacing": "3",
+      "fill": "#34220f",
+      "value": "酒店"
+     }
+    }
+   ]
+  },
+  "0400": {
+   "cell": 128,
+   "signs": [
+    {
+     "tile": 35,
+     "label": "百貨",
+     "rects": [
+      {
+       "x": "512",
+       "y": "580",
+       "width": "128",
+       "height": "60",
+       "fill": "#684526"
+      },
+      {
+       "x": "515",
+       "y": "583",
+       "width": "122",
+       "height": "54",
+       "fill": "#bf9c5b",
+       "stroke": "#382817",
+       "stroke-width": "2"
+      },
+      {
+       "x": "524",
+       "y": "586.0",
+       "width": "104",
+       "height": "48",
+       "rx": "1.5",
+       "fill": "#fff2d2",
+       "stroke": "#634020",
+       "stroke-width": "2"
+      }
+     ],
+     "text": {
+      "x": "576.0",
+      "y": "611.0",
+      "dominant-baseline": "central",
+      "text-anchor": "middle",
+      "font-family": "PingFang TC,Noto Sans CJK TC,Microsoft JhengHei,serif",
+      "font-size": "36.480000000000004",
+      "font-weight": "600",
+      "letter-spacing": "3",
+      "fill": "#34220f",
+      "value": "百貨"
+     }
+    },
+    {
+     "tile": 44,
+     "label": "酒店",
+     "rects": [
+      {
+       "x": "896",
+       "y": "2244",
+       "width": "128",
+       "height": "60",
+       "fill": "#684526"
+      },
+      {
+       "x": "899",
+       "y": "2247",
+       "width": "122",
+       "height": "54",
+       "fill": "#bf9c5b",
+       "stroke": "#382817",
+       "stroke-width": "2"
+      },
+      {
+       "x": "908",
+       "y": "2250.0",
+       "width": "104",
+       "height": "48",
+       "rx": "1.5",
+       "fill": "#fff2d2",
+       "stroke": "#634020",
+       "stroke-width": "2"
+      }
+     ],
+     "text": {
+      "x": "960.0",
+      "y": "2275.0",
+      "dominant-baseline": "central",
+      "text-anchor": "middle",
+      "font-family": "PingFang TC,Noto Sans CJK TC,Microsoft JhengHei,serif",
+      "font-size": "36.480000000000004",
+      "font-weight": "600",
+      "letter-spacing": "3",
+      "fill": "#34220f",
+      "value": "酒店"
+     }
+    }
+   ]
+  },
+  "0500": {
+   "cell": 128,
+   "signs": [
+    {
+     "tile": 35,
+     "label": "百貨",
+     "rects": [
+      {
+       "x": "1408",
+       "y": "1604",
+       "width": "128",
+       "height": "60",
+       "fill": "#684526"
+      },
+      {
+       "x": "1411",
+       "y": "1607",
+       "width": "122",
+       "height": "54",
+       "fill": "#bf9c5b",
+       "stroke": "#382817",
+       "stroke-width": "2"
+      },
+      {
+       "x": "1420",
+       "y": "1610.0",
+       "width": "104",
+       "height": "48",
+       "rx": "1.5",
+       "fill": "#fff2d2",
+       "stroke": "#634020",
+       "stroke-width": "2"
+      }
+     ],
+     "text": {
+      "x": "1472.0",
+      "y": "1635.0",
+      "dominant-baseline": "central",
+      "text-anchor": "middle",
+      "font-family": "PingFang TC,Noto Sans CJK TC,Microsoft JhengHei,serif",
+      "font-size": "36.480000000000004",
+      "font-weight": "600",
+      "letter-spacing": "3",
+      "fill": "#34220f",
+      "value": "百貨"
+     }
+    }
+   ]
+  },
+  "0600": {
+   "cell": 128,
+   "signs": [
+    {
+     "tile": 44,
+     "label": "酒店",
+     "rects": [
+      {
+       "x": "1536",
+       "y": "452",
+       "width": "128",
+       "height": "60",
+       "fill": "#684526"
+      },
+      {
+       "x": "1539",
+       "y": "455",
+       "width": "122",
+       "height": "54",
+       "fill": "#bf9c5b",
+       "stroke": "#382817",
+       "stroke-width": "2"
+      },
+      {
+       "x": "1548",
+       "y": "458.0",
+       "width": "104",
+       "height": "48",
+       "rx": "1.5",
+       "fill": "#fff2d2",
+       "stroke": "#634020",
+       "stroke-width": "2"
+      }
+     ],
+     "text": {
+      "x": "1600.0",
+      "y": "483.0",
+      "dominant-baseline": "central",
+      "text-anchor": "middle",
+      "font-family": "PingFang TC,Noto Sans CJK TC,Microsoft JhengHei,serif",
+      "font-size": "36.480000000000004",
+      "font-weight": "600",
+      "letter-spacing": "3",
+      "fill": "#34220f",
+      "value": "酒店"
+     }
+    },
+    {
+     "tile": 35,
+     "label": "百貨",
+     "rects": [
+      {
+       "x": "2688",
+       "y": "580",
+       "width": "128",
+       "height": "60",
+       "fill": "#684526"
+      },
+      {
+       "x": "2691",
+       "y": "583",
+       "width": "122",
+       "height": "54",
+       "fill": "#bf9c5b",
+       "stroke": "#382817",
+       "stroke-width": "2"
+      },
+      {
+       "x": "2700",
+       "y": "586.0",
+       "width": "104",
+       "height": "48",
+       "rx": "1.5",
+       "fill": "#fff2d2",
+       "stroke": "#634020",
+       "stroke-width": "2"
+      }
+     ],
+     "text": {
+      "x": "2752.0",
+      "y": "611.0",
+      "dominant-baseline": "central",
+      "text-anchor": "middle",
+      "font-family": "PingFang TC,Noto Sans CJK TC,Microsoft JhengHei,serif",
+      "font-size": "36.480000000000004",
+      "font-weight": "600",
+      "letter-spacing": "3",
+      "fill": "#34220f",
+      "value": "百貨"
+     }
+    }
+   ]
+  },
+  "0700": {
+   "cell": 128,
+   "signs": [
+    {
+     "tile": 73,
+     "label": "百貨",
+     "rects": [
+      {
+       "x": "1536",
+       "y": "1732",
+       "width": "128",
+       "height": "60",
+       "fill": "#684526"
+      },
+      {
+       "x": "1539",
+       "y": "1735",
+       "width": "122",
+       "height": "54",
+       "fill": "#bf9c5b",
+       "stroke": "#382817",
+       "stroke-width": "2"
+      },
+      {
+       "x": "1548",
+       "y": "1738.0",
+       "width": "104",
+       "height": "48",
+       "rx": "1.5",
+       "fill": "#fff2d2",
+       "stroke": "#634020",
+       "stroke-width": "2"
+      }
+     ],
+     "text": {
+      "x": "1600.0",
+      "y": "1763.0",
+      "dominant-baseline": "central",
+      "text-anchor": "middle",
+      "font-family": "PingFang TC,Noto Sans CJK TC,Microsoft JhengHei,serif",
+      "font-size": "36.480000000000004",
+      "font-weight": "600",
+      "letter-spacing": "3",
+      "fill": "#34220f",
+      "value": "百貨"
+     }
+    }
+   ]
+  },
+  "0800": {
+   "cell": 128,
+   "signs": [
+    {
+     "tile": 44,
+     "label": "酒店",
+     "rects": [
+      {
+       "x": "1920",
+       "y": "580",
+       "width": "128",
+       "height": "60",
+       "fill": "#684526"
+      },
+      {
+       "x": "1923",
+       "y": "583",
+       "width": "122",
+       "height": "54",
+       "fill": "#bf9c5b",
+       "stroke": "#382817",
+       "stroke-width": "2"
+      },
+      {
+       "x": "1932",
+       "y": "586.0",
+       "width": "104",
+       "height": "48",
+       "rx": "1.5",
+       "fill": "#fff2d2",
+       "stroke": "#634020",
+       "stroke-width": "2"
+      }
+     ],
+     "text": {
+      "x": "1984.0",
+      "y": "611.0",
+      "dominant-baseline": "central",
+      "text-anchor": "middle",
+      "font-family": "PingFang TC,Noto Sans CJK TC,Microsoft JhengHei,serif",
+      "font-size": "36.480000000000004",
+      "font-weight": "600",
+      "letter-spacing": "3",
+      "fill": "#34220f",
+      "value": "酒店"
+     }
+    },
+    {
+     "tile": 35,
+     "label": "百貨",
+     "rects": [
+      {
+       "x": "2688",
+       "y": "580",
+       "width": "128",
+       "height": "60",
+       "fill": "#684526"
+      },
+      {
+       "x": "2691",
+       "y": "583",
+       "width": "122",
+       "height": "54",
+       "fill": "#bf9c5b",
+       "stroke": "#382817",
+       "stroke-width": "2"
+      },
+      {
+       "x": "2700",
+       "y": "586.0",
+       "width": "104",
+       "height": "48",
+       "rx": "1.5",
+       "fill": "#fff2d2",
+       "stroke": "#634020",
+       "stroke-width": "2"
+      }
+     ],
+     "text": {
+      "x": "2752.0",
+      "y": "611.0",
+      "dominant-baseline": "central",
+      "text-anchor": "middle",
+      "font-family": "PingFang TC,Noto Sans CJK TC,Microsoft JhengHei,serif",
+      "font-size": "36.480000000000004",
+      "font-weight": "600",
+      "letter-spacing": "3",
+      "fill": "#34220f",
+      "value": "百貨"
+     }
+    }
+   ]
+  },
+  "0900": {
+   "cell": 128,
+   "signs": [
+    {
+     "tile": 74,
+     "label": "酒店",
+     "rects": [
+      {
+       "x": "896",
+       "y": "452",
+       "width": "128",
+       "height": "60",
+       "fill": "#684526"
+      },
+      {
+       "x": "899",
+       "y": "455",
+       "width": "122",
+       "height": "54",
+       "fill": "#bf9c5b",
+       "stroke": "#382817",
+       "stroke-width": "2"
+      },
+      {
+       "x": "908",
+       "y": "458.0",
+       "width": "104",
+       "height": "48",
+       "rx": "1.5",
+       "fill": "#fff2d2",
+       "stroke": "#634020",
+       "stroke-width": "2"
+      }
+     ],
+     "text": {
+      "x": "960.0",
+      "y": "483.0",
+      "dominant-baseline": "central",
+      "text-anchor": "middle",
+      "font-family": "PingFang TC,Noto Sans CJK TC,Microsoft JhengHei,serif",
+      "font-size": "36.480000000000004",
+      "font-weight": "600",
+      "letter-spacing": "3",
+      "fill": "#34220f",
+      "value": "酒店"
+     }
+    },
+    {
+     "tile": 73,
+     "label": "百貨",
+     "rects": [
+      {
+       "x": "768",
+       "y": "1860",
+       "width": "128",
+       "height": "60",
+       "fill": "#684526"
+      },
+      {
+       "x": "771",
+       "y": "1863",
+       "width": "122",
+       "height": "54",
+       "fill": "#bf9c5b",
+       "stroke": "#382817",
+       "stroke-width": "2"
+      },
+      {
+       "x": "780",
+       "y": "1866.0",
+       "width": "104",
+       "height": "48",
+       "rx": "1.5",
+       "fill": "#fff2d2",
+       "stroke": "#634020",
+       "stroke-width": "2"
+      }
+     ],
+     "text": {
+      "x": "832.0",
+      "y": "1891.0",
+      "dominant-baseline": "central",
+      "text-anchor": "middle",
+      "font-family": "PingFang TC,Noto Sans CJK TC,Microsoft JhengHei,serif",
+      "font-size": "36.480000000000004",
+      "font-weight": "600",
+      "letter-spacing": "3",
+      "fill": "#34220f",
+      "value": "百貨"
+     }
+    }
+   ]
+  },
+  "0a00": {
+   "cell": 128,
+   "signs": [
+    {
+     "tile": 81,
+     "label": "百貨",
+     "rects": [
+      {
+       "x": "1408",
+       "y": "2500",
+       "width": "128",
+       "height": "60",
+       "fill": "#684526"
+      },
+      {
+       "x": "1411",
+       "y": "2503",
+       "width": "122",
+       "height": "54",
+       "fill": "#bf9c5b",
+       "stroke": "#382817",
+       "stroke-width": "2"
+      },
+      {
+       "x": "1420",
+       "y": "2506.0",
+       "width": "104",
+       "height": "48",
+       "rx": "1.5",
+       "fill": "#fff2d2",
+       "stroke": "#634020",
+       "stroke-width": "2"
+      }
+     ],
+     "text": {
+      "x": "1472.0",
+      "y": "2531.0",
+      "dominant-baseline": "central",
+      "text-anchor": "middle",
+      "font-family": "PingFang TC,Noto Sans CJK TC,Microsoft JhengHei,serif",
+      "font-size": "36.480000000000004",
+      "font-weight": "600",
+      "letter-spacing": "3",
+      "fill": "#34220f",
+      "value": "百貨"
+     }
+    }
+   ]
+  },
+  "0b00": {
+   "cell": 128,
+   "signs": [
+    {
+     "tile": 73,
+     "label": "百貨",
+     "rects": [
+      {
+       "x": "1536",
+       "y": "1348",
+       "width": "128",
+       "height": "60",
+       "fill": "#684526"
+      },
+      {
+       "x": "1539",
+       "y": "1351",
+       "width": "122",
+       "height": "54",
+       "fill": "#bf9c5b",
+       "stroke": "#382817",
+       "stroke-width": "2"
+      },
+      {
+       "x": "1548",
+       "y": "1354.0",
+       "width": "104",
+       "height": "48",
+       "rx": "1.5",
+       "fill": "#fff2d2",
+       "stroke": "#634020",
+       "stroke-width": "2"
+      }
+     ],
+     "text": {
+      "x": "1600.0",
+      "y": "1379.0",
+      "dominant-baseline": "central",
+      "text-anchor": "middle",
+      "font-family": "PingFang TC,Noto Sans CJK TC,Microsoft JhengHei,serif",
+      "font-size": "36.480000000000004",
+      "font-weight": "600",
+      "letter-spacing": "3",
+      "fill": "#34220f",
+      "value": "百貨"
+     }
+    }
+   ]
+  },
+  "0c00": {
+   "cell": 128,
+   "signs": [
+    {
+     "tile": 73,
+     "label": "百貨",
+     "rects": [
+      {
+       "x": "640",
+       "y": "1092",
+       "width": "128",
+       "height": "60",
+       "fill": "#684526"
+      },
+      {
+       "x": "643",
+       "y": "1095",
+       "width": "122",
+       "height": "54",
+       "fill": "#bf9c5b",
+       "stroke": "#382817",
+       "stroke-width": "2"
+      },
+      {
+       "x": "652",
+       "y": "1098.0",
+       "width": "104",
+       "height": "48",
+       "rx": "1.5",
+       "fill": "#fff2d2",
+       "stroke": "#634020",
+       "stroke-width": "2"
+      }
+     ],
+     "text": {
+      "x": "704.0",
+      "y": "1123.0",
+      "dominant-baseline": "central",
+      "text-anchor": "middle",
+      "font-family": "PingFang TC,Noto Sans CJK TC,Microsoft JhengHei,serif",
+      "font-size": "36.480000000000004",
+      "font-weight": "600",
+      "letter-spacing": "3",
+      "fill": "#34220f",
+      "value": "百貨"
+     }
+    }
+   ]
+  }
+ }
+}

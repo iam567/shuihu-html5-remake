@@ -1,0 +1,82 @@
+[
+  {
+    "id": "0600-pixel-hd",
+    "kind": "whole-map",
+    "style": "pixel-hd",
+    "reference": "0600-reference.png",
+    "size": "3072x1920",
+    "sourceId": "0600"
+  },
+  {
+    "id": "0600-unreal",
+    "kind": "whole-map",
+    "style": "unreal",
+    "reference": "0600-reference.png",
+    "size": "3072x1920",
+    "sourceId": "0600"
+  },
+  {
+    "id": "0600-ghibli",
+    "kind": "whole-map",
+    "style": "ghibli",
+    "reference": "0600-reference.png",
+    "size": "3072x1920",
+    "sourceId": "0600"
+  },
+  {
+    "id": "0600-gongbi",
+    "kind": "whole-map",
+    "style": "gongbi",
+    "reference": "0600-reference.png",
+    "size": "3072x1920",
+    "sourceId": "0600"
+  },
+  {
+    "id": "0600-hd2d",
+    "kind": "whole-map",
+    "style": "hd2d",
+    "reference": "0600-reference.png",
+    "size": "3072x1920",
+    "sourceId": "0600"
+  },
+  {
+    "id": "0206-pixel-hd",
+    "kind": "whole-map",
+    "style": "pixel-hd",
+    "reference": "0206-reference.png",
+    "size": "3072x1920",
+    "sourceId": "0206"
+  },
+  {
+    "id": "0206-unreal",
+    "kind": "whole-map",
+    "style": "unreal",
+    "reference": "0206-reference.png",
+    "size": "3072x1920",
+    "sourceId": "0206"
+  },
+  {
+    "id": "0206-ghibli",
+    "kind": "whole-map",
+    "style": "ghibli",
+    "reference": "0206-reference.png",
+    "size": "3072x1920",
+    "sourceId": "0206"
+  },
+  {
+    "id": "0206-gongbi",
+    "kind": "whole-map",
+    "style": "gongbi",
+    "reference": "0206-reference.png",
+    "size": "3072x1920",
+    "sourceId": "0206"
+  },
+  {
+    "id": "0206-hd2d",
+    "kind": "whole-map",
+    "style": "hd2d",
+    "reference": "0206-reference.png",
+    "size": "3072x1920",
+    "sourceId": "0206"
+  }
+]

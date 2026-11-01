@@ -1,0 +1,39 @@
+[
+  {
+    "id": "100400",
+    "kind": "sprite-sheet",
+    "references": [
+      "100400-pose.png",
+      "160138-face.png"
+    ],
+    "size": "1024x1024",
+    "sourceId": "100400"
+  },
+  {
+    "id": "120000",
+    "kind": "sprite-sheet",
+    "references": [
+      "120000-pose.png"
+    ],
+    "size": "1024x1024",
+    "sourceId": "120000"
+  },
+  {
+    "id": "121600",
+    "kind": "sprite-sheet",
+    "references": [
+      "121600-pose.png"
+    ],
+    "size": "1024x1024",
+    "sourceId": "121600"
+  },
+  {
+    "id": "12f200",
+    "kind": "sprite-sheet",
+    "references": [
+      "12f200-pose.png"
+    ],
+    "size": "1024x1024",
+    "sourceId": "12f200"
+  }
+]

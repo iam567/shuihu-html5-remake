@@ -1,0 +1,115 @@
+{
+  "opening": {
+    "passed": true,
+    "events": [
+      [
+        "dialogue",
+        0
+      ],
+      [
+        "dialogue",
+        1
+      ],
+      [
+        "dialogue",
+        2
+      ],
+      [
+        "map",
+        256,
+        262
+      ]
+    ]
+  },
+  "dryRun": {
+    "description": "Unique entrypoint execution with no-op hooks and default selector 0. Does not prove visual correctness or battle/choice outcome coverage.",
+    "uniqueEntries": 385,
+    "completed": 384,
+    "errors": [
+      {
+        "group": 12,
+        "id": 72,
+        "address": 971538,
+        "error": "Missing script label ffe3",
+        "pc": 975570
+      }
+    ],
+    "opcodesReached": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      13,
+      16,
+      17,
+      18,
+      19,
+      20,
+      21,
+      22,
+      23,
+      24,
+      25,
+      26,
+      27,
+      28,
+      29,
+      30,
+      31,
+      32,
+      33,
+      34,
+      35,
+      36,
+      37,
+      38,
+      39,
+      40,
+      41,
+      42,
+      43,
+      44,
+      45,
+      46,
+      47,
+      48,
+      49,
+      50,
+      51,
+      52,
+      54,
+      55,
+      56,
+      57,
+      58,
+      59,
+      60,
+      61,
+      62,
+      63,
+      64,
+      65,
+      66,
+      67,
+      68,
+      69,
+      70,
+      71,
+      72,
+      73,
+      74,
+      75,
+      76
+    ]
+  },
+  "limitations": [
+    "Battle side effects delegated to hooks; not all battle phases validated",
+    "Visual-only effects represented as callbacks",
+    "World map destination choice uses default selector in dry run",
+    "Battle-stage external event dispatch (12074 table) not yet reimplemented"
+  ]
+}

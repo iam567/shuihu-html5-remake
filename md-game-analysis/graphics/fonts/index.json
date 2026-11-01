@@ -1,0 +1,66 @@
+[
+  {
+    "bank": 0,
+    "start": "0xae2c4",
+    "end": "0xb00c4",
+    "glyph_count": 240,
+    "encoding": "bank command F0+bank, then byte code00..EF; no Unicode mapping yet",
+    "layout": "four 8x8 1bpp tiles, row major; MSB first"
+  },
+  {
+    "bank": 1,
+    "start": "0xb00c4",
+    "end": "0xb1ec4",
+    "glyph_count": 240,
+    "encoding": "bank command F0+bank, then byte code00..EF; no Unicode mapping yet",
+    "layout": "four 8x8 1bpp tiles, row major; MSB first"
+  },
+  {
+    "bank": 2,
+    "start": "0xb1ec4",
+    "end": "0xb3cc4",
+    "glyph_count": 240,
+    "encoding": "bank command F0+bank, then byte code00..EF; no Unicode mapping yet",
+    "layout": "four 8x8 1bpp tiles, row major; MSB first"
+  },
+  {
+    "bank": 3,
+    "start": "0xb3cc4",
+    "end": "0xb5ac4",
+    "glyph_count": 240,
+    "encoding": "bank command F0+bank, then byte code00..EF; no Unicode mapping yet",
+    "layout": "four 8x8 1bpp tiles, row major; MSB first"
+  },
+  {
+    "bank": 4,
+    "start": "0xb5ac4",
+    "end": "0xb78c4",
+    "glyph_count": 240,
+    "encoding": "bank command F0+bank, then byte code00..EF; no Unicode mapping yet",
+    "layout": "four 8x8 1bpp tiles, row major; MSB first"
+  },
+  {
+    "bank": 5,
+    "start": "0xb78c4",
+    "end": "0xb96c4",
+    "glyph_count": 240,
+    "encoding": "bank command F0+bank, then byte code00..EF; no Unicode mapping yet",
+    "layout": "four 8x8 1bpp tiles, row major; MSB first"
+  },
+  {
+    "bank": 6,
+    "start": "0xb96c4",
+    "end": "0xbb4c4",
+    "glyph_count": 240,
+    "encoding": "bank command F0+bank, then byte code00..EF; no Unicode mapping yet",
+    "layout": "four 8x8 1bpp tiles, row major; MSB first"
+  },
+  {
+    "bank": 7,
+    "start": "0xbb4c4",
+    "end": "0xbc6e4",
+    "glyph_count": 145,
+    "encoding": "bank command F0+bank, then byte code00..EF; no Unicode mapping yet",
+    "layout": "four 8x8 1bpp tiles, row major; MSB first"
+  }
+]

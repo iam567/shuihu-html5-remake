@@ -1,0 +1,1355 @@
+{
+  "music": [
+    {
+      "id": 0,
+      "header_offset": "0x1d98e4",
+      "end_boundary": "0x1da334",
+      "channels": [
+        "0x1d9902",
+        "0x1d99e6",
+        "0x1d9b5a",
+        "0x1d9c44",
+        "0x1d9dc0",
+        "0x1da0bc"
+      ],
+      "channel_config": [
+        0,
+        1,
+        2,
+        4,
+        5,
+        6
+      ],
+      "raw_range_note": "Range bounded by next header; final range to sound driver includes possible shared data. Not standalone MIDI."
+    },
+    {
+      "id": 1,
+      "header_offset": "0x1da334",
+      "end_boundary": "0x1dae24",
+      "channels": [
+        "0x1da352",
+        "0x1da4a2",
+        "0x1da6aa",
+        "0x1da9ce",
+        "0x1dab1c",
+        "0x1dad8a"
+      ],
+      "channel_config": [
+        0,
+        1,
+        2,
+        4,
+        5,
+        6
+      ],
+      "raw_range_note": "Range bounded by next header; final range to sound driver includes possible shared data. Not standalone MIDI."
+    },
+    {
+      "id": 2,
+      "header_offset": "0x1dae24",
+      "end_boundary": "0x1db33c",
+      "channels": [
+        "0x1dae42",
+        "0x1daf5e",
+        "0x1db060",
+        "0x1db15a",
+        "0x1db252",
+        "0x1db260"
+      ],
+      "channel_config": [
+        0,
+        1,
+        2,
+        4,
+        5,
+        6
+      ],
+      "raw_range_note": "Range bounded by next header; final range to sound driver includes possible shared data. Not standalone MIDI."
+    },
+    {
+      "id": 3,
+      "header_offset": "0x1db33c",
+      "end_boundary": "0x1db8a6",
+      "channels": [
+        "0x1db35a",
+        "0x1db46a",
+        "0x1db576",
+        "0x1db5ca",
+        "0x1db6a6",
+        "0x1db7b2"
+      ],
+      "channel_config": [
+        0,
+        1,
+        2,
+        4,
+        5,
+        6
+      ],
+      "raw_range_note": "Range bounded by next header; final range to sound driver includes possible shared data. Not standalone MIDI."
+    },
+    {
+      "id": 4,
+      "header_offset": "0x1db8a6",
+      "end_boundary": "0x1dbd2c",
+      "channels": [
+        "0x1db8c4",
+        "0x1db9fc",
+        "0x1dba50",
+        "0x1dbb96",
+        "0x1dbccc",
+        "0x1dbd22"
+      ],
+      "channel_config": [
+        0,
+        1,
+        2,
+        4,
+        5,
+        6
+      ],
+      "raw_range_note": "Range bounded by next header; final range to sound driver includes possible shared data. Not standalone MIDI."
+    },
+    {
+      "id": 5,
+      "header_offset": "0x1dbd2c",
+      "end_boundary": "0x1dc3ec",
+      "channels": [
+        "0x1dbd4a",
+        "0x1dbe88",
+        "0x1dbfc0",
+        "0x1dc0d2",
+        "0x1dc1e4",
+        "0x1dc3e2"
+      ],
+      "channel_config": [
+        0,
+        1,
+        2,
+        4,
+        5,
+        6
+      ],
+      "raw_range_note": "Range bounded by next header; final range to sound driver includes possible shared data. Not standalone MIDI."
+    },
+    {
+      "id": 6,
+      "header_offset": "0x1dc3ec",
+      "end_boundary": "0x1dcb3a",
+      "channels": [
+        "0x1dc40a",
+        "0x1dc5ca",
+        "0x1dc67c",
+        "0x1dc888",
+        "0x1dc966",
+        "0x1dcb24"
+      ],
+      "channel_config": [
+        0,
+        1,
+        2,
+        4,
+        5,
+        6
+      ],
+      "raw_range_note": "Range bounded by next header; final range to sound driver includes possible shared data. Not standalone MIDI."
+    },
+    {
+      "id": 7,
+      "header_offset": "0x1dcb3a",
+      "end_boundary": "0x1dd136",
+      "channels": [
+        "0x1dcb58",
+        "0x1dcc34",
+        "0x1dcd3a",
+        "0x1dcf02",
+        "0x1dcffe",
+        "0x1dd100"
+      ],
+      "channel_config": [
+        0,
+        1,
+        2,
+        4,
+        5,
+        6
+      ],
+      "raw_range_note": "Range bounded by next header; final range to sound driver includes possible shared data. Not standalone MIDI."
+    },
+    {
+      "id": 8,
+      "header_offset": "0x1dd136",
+      "end_boundary": "0x1dd96c",
+      "channels": [
+        "0x1dd154",
+        "0x1dd2a0",
+        "0x1dd466",
+        "0x1dd584",
+        "0x1dd6a4",
+        "0x1dd7ee"
+      ],
+      "channel_config": [
+        0,
+        1,
+        2,
+        4,
+        5,
+        6
+      ],
+      "raw_range_note": "Range bounded by next header; final range to sound driver includes possible shared data. Not standalone MIDI."
+    },
+    {
+      "id": 9,
+      "header_offset": "0x1dd96c",
+      "end_boundary": "0x1de390",
+      "channels": [
+        "0x1dd98a",
+        "0x1ddb18",
+        "0x1ddd78",
+        "0x1ddf22",
+        "0x1de0ac",
+        "0x1de194"
+      ],
+      "channel_config": [
+        0,
+        1,
+        2,
+        4,
+        5,
+        6
+      ],
+      "raw_range_note": "Range bounded by next header; final range to sound driver includes possible shared data. Not standalone MIDI."
+    },
+    {
+      "id": 10,
+      "header_offset": "0x1de390",
+      "end_boundary": "0x1def26",
+      "channels": [
+        "0x1de3ae",
+        "0x1de56a",
+        "0x1de82e",
+        "0x1de9d6",
+        "0x1deb2a",
+        "0x1dec82"
+      ],
+      "channel_config": [
+        0,
+        1,
+        2,
+        4,
+        5,
+        6
+      ],
+      "raw_range_note": "Range bounded by next header; final range to sound driver includes possible shared data. Not standalone MIDI."
+    },
+    {
+      "id": 11,
+      "header_offset": "0x1def26",
+      "end_boundary": "0x1e063a",
+      "channels": [
+        "0x1def44",
+        "0x1df55c",
+        "0x1dfb70",
+        "0x1dfd98",
+        "0x1e023c",
+        "0x1e05e0"
+      ],
+      "channel_config": [
+        0,
+        1,
+        2,
+        4,
+        5,
+        6
+      ],
+      "raw_range_note": "Range bounded by next header; final range to sound driver includes possible shared data. Not standalone MIDI."
+    },
+    {
+      "id": 12,
+      "header_offset": "0x1e063a",
+      "end_boundary": "0x1e3a00",
+      "channels": [
+        "0x1e0658",
+        "0x1e065a",
+        "0x1e065c",
+        "0x1e065e",
+        "0x1e0660",
+        "0x1e0662"
+      ],
+      "channel_config": [
+        0,
+        1,
+        2,
+        4,
+        5,
+        6
+      ],
+      "raw_range_note": "Range bounded by next header; final range to sound driver includes possible shared data. Not standalone MIDI."
+    }
+  ],
+  "sfx": [
+    {
+      "id": 0,
+      "offset": "0x1d84b6",
+      "bytes": "00000000",
+      "word": "0x0"
+    },
+    {
+      "id": 1,
+      "offset": "0x1d84ba",
+      "bytes": "0f010000",
+      "word": "0xf01"
+    },
+    {
+      "id": 2,
+      "offset": "0x1d84be",
+      "bytes": "1f010000",
+      "word": "0x1f01"
+    },
+    {
+      "id": 3,
+      "offset": "0x1d84c2",
+      "bytes": "2f010000",
+      "word": "0x2f01"
+    },
+    {
+      "id": 4,
+      "offset": "0x1d84c6",
+      "bytes": "ffd40000",
+      "word": "0xffd4"
+    },
+    {
+      "id": 5,
+      "offset": "0x1d84ca",
+      "bytes": "ffd20000",
+      "word": "0xffd2"
+    },
+    {
+      "id": 6,
+      "offset": "0x1d84ce",
+      "bytes": "ffd10000",
+      "word": "0xffd1"
+    },
+    {
+      "id": 7,
+      "offset": "0x1d84d2",
+      "bytes": "ffd00000",
+      "word": "0xffd0"
+    },
+    {
+      "id": 8,
+      "offset": "0x1d84d6",
+      "bytes": "ffcf0000",
+      "word": "0xffcf"
+    },
+    {
+      "id": 9,
+      "offset": "0x1d84da",
+      "bytes": "ffce0000",
+      "word": "0xffce"
+    },
+    {
+      "id": 10,
+      "offset": "0x1d84de",
+      "bytes": "ffcd0000",
+      "word": "0xffcd"
+    },
+    {
+      "id": 11,
+      "offset": "0x1d84e2",
+      "bytes": "ffcc0000",
+      "word": "0xffcc"
+    },
+    {
+      "id": 12,
+      "offset": "0x1d84e6",
+      "bytes": "ffcb0000",
+      "word": "0xffcb"
+    },
+    {
+      "id": 13,
+      "offset": "0x1d84ea",
+      "bytes": "ffca0000",
+      "word": "0xffca"
+    },
+    {
+      "id": 14,
+      "offset": "0x1d84ee",
+      "bytes": "ffc90000",
+      "word": "0xffc9"
+    },
+    {
+      "id": 15,
+      "offset": "0x1d84f2",
+      "bytes": "ffc80000",
+      "word": "0xffc8"
+    },
+    {
+      "id": 16,
+      "offset": "0x1d84f6",
+      "bytes": "ffc70000",
+      "word": "0xffc7"
+    },
+    {
+      "id": 17,
+      "offset": "0x1d84fa",
+      "bytes": "ffc60000",
+      "word": "0xffc6"
+    },
+    {
+      "id": 18,
+      "offset": "0x1d84fe",
+      "bytes": "ffc50000",
+      "word": "0xffc5"
+    },
+    {
+      "id": 19,
+      "offset": "0x1d8502",
+      "bytes": "ffc40000",
+      "word": "0xffc4"
+    },
+    {
+      "id": 20,
+      "offset": "0x1d8506",
+      "bytes": "ffc30000",
+      "word": "0xffc3"
+    },
+    {
+      "id": 21,
+      "offset": "0x1d850a",
+      "bytes": "ffc20000",
+      "word": "0xffc2"
+    },
+    {
+      "id": 22,
+      "offset": "0x1d850e",
+      "bytes": "ffc10000",
+      "word": "0xffc1"
+    },
+    {
+      "id": 23,
+      "offset": "0x1d8512",
+      "bytes": "ffc00000",
+      "word": "0xffc0"
+    },
+    {
+      "id": 24,
+      "offset": "0x1d8516",
+      "bytes": "ffbf0000",
+      "word": "0xffbf"
+    },
+    {
+      "id": 25,
+      "offset": "0x1d851a",
+      "bytes": "ffbe0000",
+      "word": "0xffbe"
+    },
+    {
+      "id": 26,
+      "offset": "0x1d851e",
+      "bytes": "ffbd0000",
+      "word": "0xffbd"
+    },
+    {
+      "id": 27,
+      "offset": "0x1d8522",
+      "bytes": "ffbc0000",
+      "word": "0xffbc"
+    },
+    {
+      "id": 28,
+      "offset": "0x1d8526",
+      "bytes": "ffbb0000",
+      "word": "0xffbb"
+    },
+    {
+      "id": 29,
+      "offset": "0x1d852a",
+      "bytes": "ffba0000",
+      "word": "0xffba"
+    },
+    {
+      "id": 30,
+      "offset": "0x1d852e",
+      "bytes": "ffb90000",
+      "word": "0xffb9"
+    },
+    {
+      "id": 31,
+      "offset": "0x1d8532",
+      "bytes": "ffb80000",
+      "word": "0xffb8"
+    },
+    {
+      "id": 32,
+      "offset": "0x1d8536",
+      "bytes": "ffb70000",
+      "word": "0xffb7"
+    },
+    {
+      "id": 33,
+      "offset": "0x1d853a",
+      "bytes": "ffb60000",
+      "word": "0xffb6"
+    },
+    {
+      "id": 34,
+      "offset": "0x1d853e",
+      "bytes": "ffb50000",
+      "word": "0xffb5"
+    },
+    {
+      "id": 35,
+      "offset": "0x1d8542",
+      "bytes": "ffb40000",
+      "word": "0xffb4"
+    },
+    {
+      "id": 36,
+      "offset": "0x1d8546",
+      "bytes": "ffb30000",
+      "word": "0xffb3"
+    },
+    {
+      "id": 37,
+      "offset": "0x1d854a",
+      "bytes": "ffb20000",
+      "word": "0xffb2"
+    },
+    {
+      "id": 38,
+      "offset": "0x1d854e",
+      "bytes": "ffb10000",
+      "word": "0xffb1"
+    },
+    {
+      "id": 39,
+      "offset": "0x1d8552",
+      "bytes": "ffb00000",
+      "word": "0xffb0"
+    },
+    {
+      "id": 40,
+      "offset": "0x1d8556",
+      "bytes": "ffaf0000",
+      "word": "0xffaf"
+    },
+    {
+      "id": 41,
+      "offset": "0x1d855a",
+      "bytes": "ffae0000",
+      "word": "0xffae"
+    },
+    {
+      "id": 42,
+      "offset": "0x1d855e",
+      "bytes": "ffad0000",
+      "word": "0xffad"
+    },
+    {
+      "id": 43,
+      "offset": "0x1d8562",
+      "bytes": "ffac0000",
+      "word": "0xffac"
+    },
+    {
+      "id": 44,
+      "offset": "0x1d8566",
+      "bytes": "ffab0000",
+      "word": "0xffab"
+    },
+    {
+      "id": 45,
+      "offset": "0x1d856a",
+      "bytes": "ffaa0000",
+      "word": "0xffaa"
+    },
+    {
+      "id": 46,
+      "offset": "0x1d856e",
+      "bytes": "ffa90000",
+      "word": "0xffa9"
+    },
+    {
+      "id": 47,
+      "offset": "0x1d8572",
+      "bytes": "ffa80000",
+      "word": "0xffa8"
+    },
+    {
+      "id": 48,
+      "offset": "0x1d8576",
+      "bytes": "ffa70000",
+      "word": "0xffa7"
+    },
+    {
+      "id": 49,
+      "offset": "0x1d857a",
+      "bytes": "ffa60000",
+      "word": "0xffa6"
+    },
+    {
+      "id": 50,
+      "offset": "0x1d857e",
+      "bytes": "ffa50000",
+      "word": "0xffa5"
+    },
+    {
+      "id": 51,
+      "offset": "0x1d8582",
+      "bytes": "ffa40000",
+      "word": "0xffa4"
+    },
+    {
+      "id": 52,
+      "offset": "0x1d8586",
+      "bytes": "ffa30000",
+      "word": "0xffa3"
+    },
+    {
+      "id": 53,
+      "offset": "0x1d858a",
+      "bytes": "ffa20000",
+      "word": "0xffa2"
+    },
+    {
+      "id": 54,
+      "offset": "0x1d858e",
+      "bytes": "ffa10000",
+      "word": "0xffa1"
+    },
+    {
+      "id": 55,
+      "offset": "0x1d8592",
+      "bytes": "ff8c0000",
+      "word": "0xff8c"
+    },
+    {
+      "id": 56,
+      "offset": "0x1d8596",
+      "bytes": "ff8d0000",
+      "word": "0xff8d"
+    },
+    {
+      "id": 57,
+      "offset": "0x1d859a",
+      "bytes": "ff8e0000",
+      "word": "0xff8e"
+    },
+    {
+      "id": 58,
+      "offset": "0x1d859e",
+      "bytes": "ff8f0000",
+      "word": "0xff8f"
+    },
+    {
+      "id": 59,
+      "offset": "0x1d85a2",
+      "bytes": "ff900000",
+      "word": "0xff90"
+    },
+    {
+      "id": 60,
+      "offset": "0x1d85a6",
+      "bytes": "ff910000",
+      "word": "0xff91"
+    },
+    {
+      "id": 61,
+      "offset": "0x1d85aa",
+      "bytes": "ff850000",
+      "word": "0xff85"
+    },
+    {
+      "id": 62,
+      "offset": "0x1d85ae",
+      "bytes": "ffd30000",
+      "word": "0xffd3"
+    },
+    {
+      "id": 63,
+      "offset": "0x1d85b2",
+      "bytes": "ff9a0000",
+      "word": "0xff9a"
+    },
+    {
+      "id": 64,
+      "offset": "0x1d85b6",
+      "bytes": "ff9d0000",
+      "word": "0xff9d"
+    },
+    {
+      "id": 65,
+      "offset": "0x1d85ba",
+      "bytes": "ff9e0000",
+      "word": "0xff9e"
+    },
+    {
+      "id": 66,
+      "offset": "0x1d85be",
+      "bytes": "ffd50000",
+      "word": "0xffd5"
+    },
+    {
+      "id": 67,
+      "offset": "0x1d85c2",
+      "bytes": "ffd60000",
+      "word": "0xffd6"
+    },
+    {
+      "id": 68,
+      "offset": "0x1d85c6",
+      "bytes": "ffd70000",
+      "word": "0xffd7"
+    },
+    {
+      "id": 69,
+      "offset": "0x1d85ca",
+      "bytes": "0e040000",
+      "word": "0xe04"
+    },
+    {
+      "id": 70,
+      "offset": "0x1d85ce",
+      "bytes": "ffdb0000",
+      "word": "0xffdb"
+    },
+    {
+      "id": 71,
+      "offset": "0x1d85d2",
+      "bytes": "ffd80000",
+      "word": "0xffd8"
+    },
+    {
+      "id": 72,
+      "offset": "0x1d85d6",
+      "bytes": "ffe30000",
+      "word": "0xffe3"
+    },
+    {
+      "id": 73,
+      "offset": "0x1d85da",
+      "bytes": "ffd90000",
+      "word": "0xffd9"
+    },
+    {
+      "id": 74,
+      "offset": "0x1d85de",
+      "bytes": "01790000",
+      "word": "0x179"
+    },
+    {
+      "id": 75,
+      "offset": "0x1d85e2",
+      "bytes": "ffda0000",
+      "word": "0xffda"
+    },
+    {
+      "id": 76,
+      "offset": "0x1d85e6",
+      "bytes": "ffee0000",
+      "word": "0xffee"
+    },
+    {
+      "id": 77,
+      "offset": "0x1d85ea",
+      "bytes": "01790000",
+      "word": "0x179"
+    },
+    {
+      "id": 78,
+      "offset": "0x1d85ee",
+      "bytes": "ffdc0000",
+      "word": "0xffdc"
+    },
+    {
+      "id": 79,
+      "offset": "0x1d85f2",
+      "bytes": "ffe40000",
+      "word": "0xffe4"
+    },
+    {
+      "id": 80,
+      "offset": "0x1d85f6",
+      "bytes": "ffdc0000",
+      "word": "0xffdc"
+    },
+    {
+      "id": 81,
+      "offset": "0x1d85fa",
+      "bytes": "ffdc0000",
+      "word": "0xffdc"
+    },
+    {
+      "id": 82,
+      "offset": "0x1d85fe",
+      "bytes": "ffdc0000",
+      "word": "0xffdc"
+    },
+    {
+      "id": 83,
+      "offset": "0x1d8602",
+      "bytes": "ffdc0000",
+      "word": "0xffdc"
+    },
+    {
+      "id": 84,
+      "offset": "0x1d8606",
+      "bytes": "ffdd0000",
+      "word": "0xffdd"
+    },
+    {
+      "id": 85,
+      "offset": "0x1d860a",
+      "bytes": "ffdd0000",
+      "word": "0xffdd"
+    },
+    {
+      "id": 86,
+      "offset": "0x1d860e",
+      "bytes": "ffdf0000",
+      "word": "0xffdf"
+    },
+    {
+      "id": 87,
+      "offset": "0x1d8612",
+      "bytes": "ffdd0000",
+      "word": "0xffdd"
+    },
+    {
+      "id": 88,
+      "offset": "0x1d8616",
+      "bytes": "ffdd0000",
+      "word": "0xffdd"
+    },
+    {
+      "id": 89,
+      "offset": "0x1d861a",
+      "bytes": "ffdd0000",
+      "word": "0xffdd"
+    },
+    {
+      "id": 90,
+      "offset": "0x1d861e",
+      "bytes": "ffe00000",
+      "word": "0xffe0"
+    },
+    {
+      "id": 91,
+      "offset": "0x1d8622",
+      "bytes": "ffdd0000",
+      "word": "0xffdd"
+    },
+    {
+      "id": 92,
+      "offset": "0x1d8626",
+      "bytes": "ffe20000",
+      "word": "0xffe2"
+    },
+    {
+      "id": 93,
+      "offset": "0x1d862a",
+      "bytes": "ffe10000",
+      "word": "0xffe1"
+    },
+    {
+      "id": 94,
+      "offset": "0x1d862e",
+      "bytes": "ffe20000",
+      "word": "0xffe2"
+    },
+    {
+      "id": 95,
+      "offset": "0x1d8632",
+      "bytes": "ffe20000",
+      "word": "0xffe2"
+    },
+    {
+      "id": 96,
+      "offset": "0x1d8636",
+      "bytes": "ffde0000",
+      "word": "0xffde"
+    },
+    {
+      "id": 97,
+      "offset": "0x1d863a",
+      "bytes": "016e0000",
+      "word": "0x16e"
+    },
+    {
+      "id": 98,
+      "offset": "0x1d863e",
+      "bytes": "ffde0000",
+      "word": "0xffde"
+    },
+    {
+      "id": 99,
+      "offset": "0x1d8642",
+      "bytes": "ffde0000",
+      "word": "0xffde"
+    },
+    {
+      "id": 100,
+      "offset": "0x1d8646",
+      "bytes": "01200000",
+      "word": "0x120"
+    },
+    {
+      "id": 101,
+      "offset": "0x1d864a",
+      "bytes": "fff70000",
+      "word": "0xfff7"
+    },
+    {
+      "id": 102,
+      "offset": "0x1d864e",
+      "bytes": "ffdc0000",
+      "word": "0xffdc"
+    },
+    {
+      "id": 103,
+      "offset": "0x1d8652",
+      "bytes": "fff90000",
+      "word": "0xfff9"
+    },
+    {
+      "id": 104,
+      "offset": "0x1d8656",
+      "bytes": "fffa0000",
+      "word": "0xfffa"
+    },
+    {
+      "id": 105,
+      "offset": "0x1d865a",
+      "bytes": "21240000",
+      "word": "0x2124"
+    },
+    {
+      "id": 106,
+      "offset": "0x1d865e",
+      "bytes": "016a0000",
+      "word": "0x16a"
+    },
+    {
+      "id": 107,
+      "offset": "0x1d8662",
+      "bytes": "01270000",
+      "word": "0x127"
+    },
+    {
+      "id": 108,
+      "offset": "0x1d8666",
+      "bytes": "01250000",
+      "word": "0x125"
+    },
+    {
+      "id": 109,
+      "offset": "0x1d866a",
+      "bytes": "fff30000",
+      "word": "0xfff3"
+    },
+    {
+      "id": 110,
+      "offset": "0x1d866e",
+      "bytes": "ffe50000",
+      "word": "0xffe5"
+    },
+    {
+      "id": 111,
+      "offset": "0x1d8672",
+      "bytes": "ffe60000",
+      "word": "0xffe6"
+    },
+    {
+      "id": 112,
+      "offset": "0x1d8676",
+      "bytes": "01260000",
+      "word": "0x126"
+    },
+    {
+      "id": 113,
+      "offset": "0x1d867a",
+      "bytes": "016b0000",
+      "word": "0x16b"
+    },
+    {
+      "id": 114,
+      "offset": "0x1d867e",
+      "bytes": "112b0000",
+      "word": "0x112b"
+    },
+    {
+      "id": 115,
+      "offset": "0x1d8682",
+      "bytes": "012c0000",
+      "word": "0x12c"
+    },
+    {
+      "id": 116,
+      "offset": "0x1d8686",
+      "bytes": "012d0000",
+      "word": "0x12d"
+    },
+    {
+      "id": 117,
+      "offset": "0x1d868a",
+      "bytes": "012e0000",
+      "word": "0x12e"
+    },
+    {
+      "id": 118,
+      "offset": "0x1d868e",
+      "bytes": "212f0000",
+      "word": "0x212f"
+    },
+    {
+      "id": 119,
+      "offset": "0x1d8692",
+      "bytes": "21300000",
+      "word": "0x2130"
+    },
+    {
+      "id": 120,
+      "offset": "0x1d8696",
+      "bytes": "01780000",
+      "word": "0x178"
+    },
+    {
+      "id": 121,
+      "offset": "0x1d869a",
+      "bytes": "21310000",
+      "word": "0x2131"
+    },
+    {
+      "id": 122,
+      "offset": "0x1d869e",
+      "bytes": "21320000",
+      "word": "0x2132"
+    },
+    {
+      "id": 123,
+      "offset": "0x1d86a2",
+      "bytes": "21730000",
+      "word": "0x2173"
+    },
+    {
+      "id": 124,
+      "offset": "0x1d86a6",
+      "bytes": "fff80000",
+      "word": "0xfff8"
+    },
+    {
+      "id": 125,
+      "offset": "0x1d86aa",
+      "bytes": "fff90000",
+      "word": "0xfff9"
+    },
+    {
+      "id": 126,
+      "offset": "0x1d86ae",
+      "bytes": "010b0000",
+      "word": "0x10b"
+    },
+    {
+      "id": 127,
+      "offset": "0x1d86b2",
+      "bytes": "101c0000",
+      "word": "0x101c"
+    },
+    {
+      "id": 128,
+      "offset": "0x1d86b6",
+      "bytes": "21230000",
+      "word": "0x2123"
+    },
+    {
+      "id": 129,
+      "offset": "0x1d86ba",
+      "bytes": "02370000",
+      "word": "0x237"
+    },
+    {
+      "id": 130,
+      "offset": "0x1d86be",
+      "bytes": "01720000",
+      "word": "0x172"
+    },
+    {
+      "id": 131,
+      "offset": "0x1d86c2",
+      "bytes": "21210000",
+      "word": "0x2121"
+    },
+    {
+      "id": 132,
+      "offset": "0x1d86c6",
+      "bytes": "214a0000",
+      "word": "0x214a"
+    },
+    {
+      "id": 133,
+      "offset": "0x1d86ca",
+      "bytes": "01570000",
+      "word": "0x157"
+    },
+    {
+      "id": 134,
+      "offset": "0x1d86ce",
+      "bytes": "22620000",
+      "word": "0x2262"
+    },
+    {
+      "id": 135,
+      "offset": "0x1d86d2",
+      "bytes": "fffc0000",
+      "word": "0xfffc"
+    },
+    {
+      "id": 136,
+      "offset": "0x1d86d6",
+      "bytes": "0e680000",
+      "word": "0xe68"
+    },
+    {
+      "id": 137,
+      "offset": "0x1d86da",
+      "bytes": "ffde0000",
+      "word": "0xffde"
+    },
+    {
+      "id": 138,
+      "offset": "0x1d86de",
+      "bytes": "01700000",
+      "word": "0x170"
+    },
+    {
+      "id": 139,
+      "offset": "0x1d86e2",
+      "bytes": "ffd70000",
+      "word": "0xffd7"
+    },
+    {
+      "id": 140,
+      "offset": "0x1d86e6",
+      "bytes": "013c0000",
+      "word": "0x13c"
+    },
+    {
+      "id": 141,
+      "offset": "0x1d86ea",
+      "bytes": "213d0000",
+      "word": "0x213d"
+    },
+    {
+      "id": 142,
+      "offset": "0x1d86ee",
+      "bytes": "213e0000",
+      "word": "0x213e"
+    },
+    {
+      "id": 143,
+      "offset": "0x1d86f2",
+      "bytes": "01690000",
+      "word": "0x169"
+    },
+    {
+      "id": 144,
+      "offset": "0x1d86f6",
+      "bytes": "f6e40000",
+      "word": "0xf6e4"
+    },
+    {
+      "id": 145,
+      "offset": "0x1d86fa",
+      "bytes": "ffe40100",
+      "word": "0xffe4"
+    },
+    {
+      "id": 146,
+      "offset": "0x1d86fe",
+      "bytes": "fff40000",
+      "word": "0xfff4"
+    },
+    {
+      "id": 147,
+      "offset": "0x1d8702",
+      "bytes": "ffd50000",
+      "word": "0xffd5"
+    },
+    {
+      "id": 148,
+      "offset": "0x1d8706",
+      "bytes": "ffd80000",
+      "word": "0xffd8"
+    },
+    {
+      "id": 149,
+      "offset": "0x1d870a",
+      "bytes": "fff30000",
+      "word": "0xfff3"
+    },
+    {
+      "id": 150,
+      "offset": "0x1d870e",
+      "bytes": "00000000",
+      "word": "0x0"
+    },
+    {
+      "id": 151,
+      "offset": "0x1d8712",
+      "bytes": "00000000",
+      "word": "0x0"
+    },
+    {
+      "id": 152,
+      "offset": "0x1d8716",
+      "bytes": "21430000",
+      "word": "0x2143"
+    },
+    {
+      "id": 153,
+      "offset": "0x1d871a",
+      "bytes": "ffdf0000",
+      "word": "0xffdf"
+    },
+    {
+      "id": 154,
+      "offset": "0x1d871e",
+      "bytes": "01440000",
+      "word": "0x144"
+    },
+    {
+      "id": 155,
+      "offset": "0x1d8722",
+      "bytes": "ffe20000",
+      "word": "0xffe2"
+    },
+    {
+      "id": 156,
+      "offset": "0x1d8726",
+      "bytes": "01450000",
+      "word": "0x145"
+    },
+    {
+      "id": 157,
+      "offset": "0x1d872a",
+      "bytes": "21460000",
+      "word": "0x2146"
+    },
+    {
+      "id": 158,
+      "offset": "0x1d872e",
+      "bytes": "ffe80000",
+      "word": "0xffe8"
+    },
+    {
+      "id": 159,
+      "offset": "0x1d8732",
+      "bytes": "fff50000",
+      "word": "0xfff5"
+    },
+    {
+      "id": 160,
+      "offset": "0x1d8736",
+      "bytes": "21470000",
+      "word": "0x2147"
+    },
+    {
+      "id": 161,
+      "offset": "0x1d873a",
+      "bytes": "11480000",
+      "word": "0x1148"
+    },
+    {
+      "id": 162,
+      "offset": "0x1d873e",
+      "bytes": "01490000",
+      "word": "0x149"
+    },
+    {
+      "id": 163,
+      "offset": "0x1d8742",
+      "bytes": "214a0000",
+      "word": "0x214a"
+    },
+    {
+      "id": 164,
+      "offset": "0x1d8746",
+      "bytes": "214b0000",
+      "word": "0x214b"
+    },
+    {
+      "id": 165,
+      "offset": "0x1d874a",
+      "bytes": "214c0000",
+      "word": "0x214c"
+    },
+    {
+      "id": 166,
+      "offset": "0x1d874e",
+      "bytes": "214d0000",
+      "word": "0x214d"
+    },
+    {
+      "id": 167,
+      "offset": "0x1d8752",
+      "bytes": "ffe30000",
+      "word": "0xffe3"
+    },
+    {
+      "id": 168,
+      "offset": "0x1d8756",
+      "bytes": "fffd0000",
+      "word": "0xfffd"
+    },
+    {
+      "id": 169,
+      "offset": "0x1d875a",
+      "bytes": "014f0000",
+      "word": "0x14f"
+    },
+    {
+      "id": 170,
+      "offset": "0x1d875e",
+      "bytes": "ffdd0000",
+      "word": "0xffdd"
+    },
+    {
+      "id": 171,
+      "offset": "0x1d8762",
+      "bytes": "216a0000",
+      "word": "0x216a"
+    },
+    {
+      "id": 172,
+      "offset": "0x1d8766",
+      "bytes": "01500000",
+      "word": "0x150"
+    },
+    {
+      "id": 173,
+      "offset": "0x1d876a",
+      "bytes": "01510000",
+      "word": "0x151"
+    },
+    {
+      "id": 174,
+      "offset": "0x1d876e",
+      "bytes": "01520000",
+      "word": "0x152"
+    },
+    {
+      "id": 175,
+      "offset": "0x1d8772",
+      "bytes": "11530000",
+      "word": "0x1153"
+    },
+    {
+      "id": 176,
+      "offset": "0x1d8776",
+      "bytes": "01760000",
+      "word": "0x176"
+    }
+  ],
+  "render_method": "Original sound routines in Genesis Plus GX; main logic frozen in RAM, interrupts retained; original ROM unmodified. Music fixed 90s excerpts; SFX fixed 3s previews, tails/loops may exceed window."
+}

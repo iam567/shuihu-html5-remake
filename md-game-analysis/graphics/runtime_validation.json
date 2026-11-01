@@ -1,0 +1,22 @@
+{
+  "player_sprite": {
+    "vram_offset": "0x400",
+    "bytes": 512,
+    "exact_rom_match": "0x101000"
+  },
+  "afu_sprite": {
+    "vram_offset": "0x1400",
+    "bytes": 512,
+    "exact_rom_match": "0x120c00"
+  },
+  "afu_portrait": {
+    "vram_offset": "0xa380",
+    "bytes": 1152,
+    "exact_rom_match": "0x1668b8"
+  },
+  "first_dialogue_glyph": {
+    "glyph": "阿",
+    "exact_font_rom_match": "0xb0404",
+    "expected": "fontbank1 code1A"
+  }
+}

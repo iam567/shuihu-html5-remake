@@ -1,0 +1,12 @@
+[
+ {
+  "id": "dpad",
+  "kind": "ui-sheet",
+  "references": [
+   "ref-normal.png",
+   "ref-selected.png"
+  ],
+  "size": "1024x1024",
+  "sourceId": "ui-buttons"
+ }
+]

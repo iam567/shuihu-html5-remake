@@ -1,0 +1,288 @@
+{
+  "path": "/Users/taoo/Downloads/05a04fef4388020ea303c2c89dccc2bb09c50625ff3872967237dd9173647202.md",
+  "size": 2097152,
+  "sha256": "05a04fef4388020ea303c2c89dccc2bb09c50625ff3872967237dd9173647202",
+  "initial_sp": "0xfffff0",
+  "reset_pc": "0x4ba",
+  "vectors": [
+    "0xfffff0",
+    "0x4ba",
+    "0x188",
+    "0x188",
+    "0x188",
+    "0x188",
+    "0x188",
+    "0x188",
+    "0x188",
+    "0x188",
+    "0x188",
+    "0x188",
+    "0x188",
+    "0x188",
+    "0x188",
+    "0x188",
+    "0x188",
+    "0x188",
+    "0x188",
+    "0x188",
+    "0x188",
+    "0x188",
+    "0x188",
+    "0x188",
+    "0x188",
+    "0x188",
+    "0x188",
+    "0x188",
+    "0x188",
+    "0x188",
+    "0x104",
+    "0x188",
+    "0x188",
+    "0x188",
+    "0x188",
+    "0x188",
+    "0x188",
+    "0x188",
+    "0x188",
+    "0x188",
+    "0x188",
+    "0x188",
+    "0x188",
+    "0x188",
+    "0x188",
+    "0x188",
+    "0x188",
+    "0x188",
+    "0x188",
+    "0x188",
+    "0x188",
+    "0x188",
+    "0x188",
+    "0x188",
+    "0x188",
+    "0x188",
+    "0x4bc40100",
+    "0x87c40100",
+    "0x188",
+    "0x188",
+    "0x188",
+    "0x188",
+    "0x188",
+    "0x188"
+  ],
+  "vdp_init_words": [
+    "0x8014",
+    "0x8134",
+    "0x8230",
+    "0x8338",
+    "0x8407",
+    "0x8578",
+    "0x8600",
+    "0x8700",
+    "0x8800",
+    "0x8900",
+    "0x8a00",
+    "0x8b00",
+    "0x8c81",
+    "0x8d3d",
+    "0x8e00",
+    "0x8f02",
+    "0x9011",
+    "0x9100",
+    "0x9200"
+  ],
+  "blocks_64k": [
+    {
+      "offset": "0x0",
+      "zero_fraction": 0.272,
+      "ff_fraction": 0.064,
+      "distinct_bytes": 256
+    },
+    {
+      "offset": "0x10000",
+      "zero_fraction": 0.31,
+      "ff_fraction": 0.097,
+      "distinct_bytes": 256
+    },
+    {
+      "offset": "0x20000",
+      "zero_fraction": 0.282,
+      "ff_fraction": 0.086,
+      "distinct_bytes": 256
+    },
+    {
+      "offset": "0x30000",
+      "zero_fraction": 0.015,
+      "ff_fraction": 0.005,
+      "distinct_bytes": 252
+    },
+    {
+      "offset": "0x40000",
+      "zero_fraction": 0.0,
+      "ff_fraction": 0.028,
+      "distinct_bytes": 222
+    },
+    {
+      "offset": "0x50000",
+      "zero_fraction": 0.0,
+      "ff_fraction": 0.028,
+      "distinct_bytes": 224
+    },
+    {
+      "offset": "0x60000",
+      "zero_fraction": 0.0,
+      "ff_fraction": 0.012,
+      "distinct_bytes": 225
+    },
+    {
+      "offset": "0x70000",
+      "zero_fraction": 0.023,
+      "ff_fraction": 0.002,
+      "distinct_bytes": 256
+    },
+    {
+      "offset": "0x80000",
+      "zero_fraction": 0.207,
+      "ff_fraction": 0.004,
+      "distinct_bytes": 256
+    },
+    {
+      "offset": "0x90000",
+      "zero_fraction": 0.263,
+      "ff_fraction": 0.003,
+      "distinct_bytes": 239
+    },
+    {
+      "offset": "0xa0000",
+      "zero_fraction": 0.147,
+      "ff_fraction": 0.008,
+      "distinct_bytes": 256
+    },
+    {
+      "offset": "0xb0000",
+      "zero_fraction": 0.152,
+      "ff_fraction": 0.013,
+      "distinct_bytes": 256
+    },
+    {
+      "offset": "0xc0000",
+      "zero_fraction": 0.177,
+      "ff_fraction": 0.019,
+      "distinct_bytes": 256
+    },
+    {
+      "offset": "0xd0000",
+      "zero_fraction": 0.242,
+      "ff_fraction": 0.004,
+      "distinct_bytes": 256
+    },
+    {
+      "offset": "0xe0000",
+      "zero_fraction": 0.272,
+      "ff_fraction": 0.079,
+      "distinct_bytes": 256
+    },
+    {
+      "offset": "0xf0000",
+      "zero_fraction": 0.686,
+      "ff_fraction": 0.0,
+      "distinct_bytes": 232
+    },
+    {
+      "offset": "0x100000",
+      "zero_fraction": 0.398,
+      "ff_fraction": 0.016,
+      "distinct_bytes": 173
+    },
+    {
+      "offset": "0x110000",
+      "zero_fraction": 0.411,
+      "ff_fraction": 0.011,
+      "distinct_bytes": 161
+    },
+    {
+      "offset": "0x120000",
+      "zero_fraction": 0.485,
+      "ff_fraction": 0.002,
+      "distinct_bytes": 152
+    },
+    {
+      "offset": "0x130000",
+      "zero_fraction": 0.38,
+      "ff_fraction": 0.03,
+      "distinct_bytes": 147
+    },
+    {
+      "offset": "0x140000",
+      "zero_fraction": 0.373,
+      "ff_fraction": 0.009,
+      "distinct_bytes": 164
+    },
+    {
+      "offset": "0x150000",
+      "zero_fraction": 0.088,
+      "ff_fraction": 0.799,
+      "distinct_bytes": 133
+    },
+    {
+      "offset": "0x160000",
+      "zero_fraction": 0.006,
+      "ff_fraction": 0.006,
+      "distinct_bytes": 220
+    },
+    {
+      "offset": "0x170000",
+      "zero_fraction": 0.024,
+      "ff_fraction": 0.001,
+      "distinct_bytes": 256
+    },
+    {
+      "offset": "0x180000",
+      "zero_fraction": 0.234,
+      "ff_fraction": 0.004,
+      "distinct_bytes": 255
+    },
+    {
+      "offset": "0x190000",
+      "zero_fraction": 0.252,
+      "ff_fraction": 0.003,
+      "distinct_bytes": 230
+    },
+    {
+      "offset": "0x1a0000",
+      "zero_fraction": 0.099,
+      "ff_fraction": 0.011,
+      "distinct_bytes": 256
+    },
+    {
+      "offset": "0x1b0000",
+      "zero_fraction": 0.097,
+      "ff_fraction": 0.02,
+      "distinct_bytes": 256
+    },
+    {
+      "offset": "0x1c0000",
+      "zero_fraction": 0.009,
+      "ff_fraction": 0.181,
+      "distinct_bytes": 256
+    },
+    {
+      "offset": "0x1d0000",
+      "zero_fraction": 0.019,
+      "ff_fraction": 0.002,
+      "distinct_bytes": 256
+    },
+    {
+      "offset": "0x1e0000",
+      "zero_fraction": 0.032,
+      "ff_fraction": 0.248,
+      "distinct_bytes": 256
+    },
+    {
+      "offset": "0x1f0000",
+      "zero_fraction": 0.114,
+      "ff_fraction": 0.065,
+      "distinct_bytes": 256
+    }
+  ]
+}

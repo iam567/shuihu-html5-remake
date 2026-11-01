@@ -1,0 +1,17 @@
+[
+  {
+    "id": "parts",
+    "kind": "ui-sheet",
+    "size": "1536x1024",
+    "sourceId": "ui-status"
+  },
+  {
+    "id": "labels",
+    "kind": "ui-sheet",
+    "references": [
+      "ref-labels.png"
+    ],
+    "size": "1536x1024",
+    "sourceId": "ui-status"
+  }
+]

@@ -1,0 +1,461 @@
+[
+  {
+    "script_rom_candidate": 930228,
+    "map_id": "0100",
+    "width": 24,
+    "height": 20,
+    "camera_x": 6,
+    "camera_y": 7,
+    "evidence": "opcode0025 explicit dimensions, area corroborated, full script reachability unverified"
+  },
+  {
+    "script_rom_candidate": 931584,
+    "map_id": "0207",
+    "width": 16,
+    "height": 23,
+    "camera_x": 6,
+    "camera_y": 16,
+    "evidence": "opcode0025 explicit dimensions, area corroborated, full script reachability unverified"
+  },
+  {
+    "script_rom_candidate": 932068,
+    "map_id": "0206",
+    "width": 24,
+    "height": 15,
+    "camera_x": 0,
+    "camera_y": 8,
+    "evidence": "opcode0025 explicit dimensions, area corroborated, full script reachability unverified"
+  },
+  {
+    "script_rom_candidate": 932792,
+    "map_id": "0200",
+    "width": 24,
+    "height": 15,
+    "camera_x": 0,
+    "camera_y": 3,
+    "evidence": "opcode0025 explicit dimensions, area corroborated, full script reachability unverified"
+  },
+  {
+    "script_rom_candidate": 935212,
+    "map_id": "0200",
+    "width": 24,
+    "height": 15,
+    "camera_x": 11,
+    "camera_y": 2,
+    "evidence": "opcode0025 explicit dimensions, area corroborated, full script reachability unverified"
+  },
+  {
+    "script_rom_candidate": 935648,
+    "map_id": "0309",
+    "width": 12,
+    "height": 30,
+    "camera_x": 0,
+    "camera_y": 23,
+    "evidence": "opcode0025 explicit dimensions, area corroborated, full script reachability unverified"
+  },
+  {
+    "script_rom_candidate": 936324,
+    "map_id": "0307",
+    "width": 24,
+    "height": 25,
+    "camera_x": 0,
+    "camera_y": 1,
+    "evidence": "opcode0025 explicit dimensions, area corroborated, full script reachability unverified"
+  },
+  {
+    "script_rom_candidate": 939488,
+    "map_id": "0409",
+    "width": 24,
+    "height": 20,
+    "camera_x": 0,
+    "camera_y": 0,
+    "evidence": "opcode0025 explicit dimensions, area corroborated, full script reachability unverified"
+  },
+  {
+    "script_rom_candidate": 941320,
+    "map_id": "0300",
+    "width": 32,
+    "height": 15,
+    "camera_x": 21,
+    "camera_y": 3,
+    "evidence": "opcode0025 explicit dimensions, area corroborated, full script reachability unverified"
+  },
+  {
+    "script_rom_candidate": 941716,
+    "map_id": "0408",
+    "width": 24,
+    "height": 15,
+    "camera_x": 4,
+    "camera_y": 8,
+    "evidence": "opcode0025 explicit dimensions, area corroborated, full script reachability unverified"
+  },
+  {
+    "script_rom_candidate": 942496,
+    "map_id": "0600",
+    "width": 24,
+    "height": 15,
+    "camera_x": 14,
+    "camera_y": 4,
+    "evidence": "opcode0025 explicit dimensions, area corroborated, full script reachability unverified"
+  },
+  {
+    "script_rom_candidate": 942848,
+    "map_id": "0600",
+    "width": 24,
+    "height": 15,
+    "camera_x": 14,
+    "camera_y": 4,
+    "evidence": "opcode0025 explicit dimensions, area corroborated, full script reachability unverified"
+  },
+  {
+    "script_rom_candidate": 943904,
+    "map_id": "0508",
+    "width": 24,
+    "height": 23,
+    "camera_x": 13,
+    "camera_y": 16,
+    "evidence": "opcode0025 explicit dimensions, area corroborated, full script reachability unverified"
+  },
+  {
+    "script_rom_candidate": 944148,
+    "map_id": "0507",
+    "width": 13,
+    "height": 25,
+    "camera_x": 2,
+    "camera_y": 18,
+    "evidence": "opcode0025 explicit dimensions, area corroborated, full script reachability unverified"
+  },
+  {
+    "script_rom_candidate": 945006,
+    "map_id": "0500",
+    "width": 24,
+    "height": 18,
+    "camera_x": 7,
+    "camera_y": 11,
+    "evidence": "opcode0025 explicit dimensions, area corroborated, full script reachability unverified"
+  },
+  {
+    "script_rom_candidate": 945582,
+    "map_id": "0508",
+    "width": 24,
+    "height": 23,
+    "camera_x": 13,
+    "camera_y": 16,
+    "evidence": "opcode0025 explicit dimensions, area corroborated, full script reachability unverified"
+  },
+  {
+    "script_rom_candidate": 947094,
+    "map_id": "0609",
+    "width": 24,
+    "height": 17,
+    "camera_x": 5,
+    "camera_y": 10,
+    "evidence": "opcode0025 explicit dimensions, area corroborated, full script reachability unverified"
+  },
+  {
+    "script_rom_candidate": 948132,
+    "map_id": "0808",
+    "width": 15,
+    "height": 20,
+    "camera_x": 3,
+    "camera_y": 13,
+    "evidence": "opcode0025 explicit dimensions, area corroborated, full script reachability unverified"
+  },
+  {
+    "script_rom_candidate": 949536,
+    "map_id": "0708",
+    "width": 24,
+    "height": 25,
+    "camera_x": 10,
+    "camera_y": 0,
+    "evidence": "opcode0025 explicit dimensions, area corroborated, full script reachability unverified"
+  },
+  {
+    "script_rom_candidate": 949688,
+    "map_id": "0709",
+    "width": 32,
+    "height": 15,
+    "camera_x": 22,
+    "camera_y": 0,
+    "evidence": "opcode0025 explicit dimensions, area corroborated, full script reachability unverified"
+  },
+  {
+    "script_rom_candidate": 950356,
+    "map_id": "0707",
+    "width": 24,
+    "height": 20,
+    "camera_x": 0,
+    "camera_y": 13,
+    "evidence": "opcode0025 explicit dimensions, area corroborated, full script reachability unverified"
+  },
+  {
+    "script_rom_candidate": 950490,
+    "map_id": "0708",
+    "width": 24,
+    "height": 25,
+    "camera_x": 10,
+    "camera_y": 0,
+    "evidence": "opcode0025 explicit dimensions, area corroborated, full script reachability unverified"
+  },
+  {
+    "script_rom_candidate": 950506,
+    "map_id": "0709",
+    "width": 32,
+    "height": 15,
+    "camera_x": 22,
+    "camera_y": 0,
+    "evidence": "opcode0025 explicit dimensions, area corroborated, full script reachability unverified"
+  },
+  {
+    "script_rom_candidate": 953438,
+    "map_id": "0809",
+    "width": 24,
+    "height": 25,
+    "camera_x": 8,
+    "camera_y": 13,
+    "evidence": "opcode0025 explicit dimensions, area corroborated, full script reachability unverified"
+  },
+  {
+    "script_rom_candidate": 953938,
+    "map_id": "0906",
+    "width": 16,
+    "height": 30,
+    "camera_x": 4,
+    "camera_y": 23,
+    "evidence": "opcode0025 explicit dimensions, area corroborated, full script reachability unverified"
+  },
+  {
+    "script_rom_candidate": 954014,
+    "map_id": "0907",
+    "width": 32,
+    "height": 20,
+    "camera_x": 22,
+    "camera_y": 13,
+    "evidence": "opcode0025 explicit dimensions, area corroborated, full script reachability unverified"
+  },
+  {
+    "script_rom_candidate": 954148,
+    "map_id": "0908",
+    "width": 24,
+    "height": 25,
+    "camera_x": 14,
+    "camera_y": 18,
+    "evidence": "opcode0025 explicit dimensions, area corroborated, full script reachability unverified"
+  },
+  {
+    "script_rom_candidate": 954180,
+    "map_id": "0a06",
+    "width": 24,
+    "height": 25,
+    "camera_x": 0,
+    "camera_y": 18,
+    "evidence": "opcode0025 explicit dimensions, area corroborated, full script reachability unverified"
+  },
+  {
+    "script_rom_candidate": 954692,
+    "map_id": "0a08",
+    "width": 24,
+    "height": 30,
+    "camera_x": 7,
+    "camera_y": 23,
+    "evidence": "opcode0025 explicit dimensions, area corroborated, full script reachability unverified"
+  },
+  {
+    "script_rom_candidate": 954972,
+    "map_id": "0907",
+    "width": 32,
+    "height": 20,
+    "camera_x": 22,
+    "camera_y": 13,
+    "evidence": "opcode0025 explicit dimensions, area corroborated, full script reachability unverified"
+  },
+  {
+    "script_rom_candidate": 956552,
+    "map_id": "0908",
+    "width": 24,
+    "height": 25,
+    "camera_x": 14,
+    "camera_y": 18,
+    "evidence": "opcode0025 explicit dimensions, area corroborated, full script reachability unverified"
+  },
+  {
+    "script_rom_candidate": 957594,
+    "map_id": "0a06",
+    "width": 24,
+    "height": 25,
+    "camera_x": 0,
+    "camera_y": 18,
+    "evidence": "opcode0025 explicit dimensions, area corroborated, full script reachability unverified"
+  },
+  {
+    "script_rom_candidate": 958106,
+    "map_id": "0a08",
+    "width": 24,
+    "height": 30,
+    "camera_x": 7,
+    "camera_y": 23,
+    "evidence": "opcode0025 explicit dimensions, area corroborated, full script reachability unverified"
+  },
+  {
+    "script_rom_candidate": 962162,
+    "map_id": "0b05",
+    "width": 32,
+    "height": 25,
+    "camera_x": 22,
+    "camera_y": 18,
+    "evidence": "opcode0025 explicit dimensions, area corroborated, full script reachability unverified"
+  },
+  {
+    "script_rom_candidate": 962302,
+    "map_id": "0b06",
+    "width": 24,
+    "height": 30,
+    "camera_x": 7,
+    "camera_y": 14,
+    "evidence": "opcode0025 explicit dimensions, area corroborated, full script reachability unverified"
+  },
+  {
+    "script_rom_candidate": 962468,
+    "map_id": "0b07",
+    "width": 24,
+    "height": 25,
+    "camera_x": 14,
+    "camera_y": 18,
+    "evidence": "opcode0025 explicit dimensions, area corroborated, full script reachability unverified"
+  },
+  {
+    "script_rom_candidate": 962662,
+    "map_id": "0b08",
+    "width": 32,
+    "height": 20,
+    "camera_x": 0,
+    "camera_y": 13,
+    "evidence": "opcode0025 explicit dimensions, area corroborated, full script reachability unverified"
+  },
+  {
+    "script_rom_candidate": 962800,
+    "map_id": "0b09",
+    "width": 24,
+    "height": 25,
+    "camera_x": 0,
+    "camera_y": 1,
+    "evidence": "opcode0025 explicit dimensions, area corroborated, full script reachability unverified"
+  },
+  {
+    "script_rom_candidate": 962952,
+    "map_id": "0b0a",
+    "width": 24,
+    "height": 30,
+    "camera_x": 0,
+    "camera_y": 0,
+    "evidence": "opcode0025 explicit dimensions, area corroborated, full script reachability unverified"
+  },
+  {
+    "script_rom_candidate": 964912,
+    "map_id": "0b06",
+    "width": 24,
+    "height": 30,
+    "camera_x": 7,
+    "camera_y": 14,
+    "evidence": "opcode0025 explicit dimensions, area corroborated, full script reachability unverified"
+  },
+  {
+    "script_rom_candidate": 966040,
+    "map_id": "0b07",
+    "width": 24,
+    "height": 25,
+    "camera_x": 14,
+    "camera_y": 18,
+    "evidence": "opcode0025 explicit dimensions, area corroborated, full script reachability unverified"
+  },
+  {
+    "script_rom_candidate": 966308,
+    "map_id": "0b08",
+    "width": 32,
+    "height": 20,
+    "camera_x": 0,
+    "camera_y": 13,
+    "evidence": "opcode0025 explicit dimensions, area corroborated, full script reachability unverified"
+  },
+  {
+    "script_rom_candidate": 967716,
+    "map_id": "0b0a",
+    "width": 24,
+    "height": 30,
+    "camera_x": 0,
+    "camera_y": 0,
+    "evidence": "opcode0025 explicit dimensions, area corroborated, full script reachability unverified"
+  },
+  {
+    "script_rom_candidate": 969472,
+    "map_id": "0c05",
+    "width": 32,
+    "height": 20,
+    "camera_x": 0,
+    "camera_y": 2,
+    "evidence": "opcode0025 explicit dimensions, area corroborated, full script reachability unverified"
+  },
+  {
+    "script_rom_candidate": 969650,
+    "map_id": "0c05",
+    "width": 32,
+    "height": 20,
+    "camera_x": 0,
+    "camera_y": 2,
+    "evidence": "opcode0025 explicit dimensions, area corroborated, full script reachability unverified"
+  },
+  {
+    "script_rom_candidate": 969748,
+    "map_id": "0c06",
+    "width": 24,
+    "height": 25,
+    "camera_x": 12,
+    "camera_y": 18,
+    "evidence": "opcode0025 explicit dimensions, area corroborated, full script reachability unverified"
+  },
+  {
+    "script_rom_candidate": 969888,
+    "map_id": "0c07",
+    "width": 24,
+    "height": 30,
+    "camera_x": 14,
+    "camera_y": 23,
+    "evidence": "opcode0025 explicit dimensions, area corroborated, full script reachability unverified"
+  },
+  {
+    "script_rom_candidate": 969998,
+    "map_id": "0c08",
+    "width": 24,
+    "height": 20,
+    "camera_x": 0,
+    "camera_y": 0,
+    "evidence": "opcode0025 explicit dimensions, area corroborated, full script reachability unverified"
+  },
+  {
+    "script_rom_candidate": 970638,
+    "map_id": "0c06",
+    "width": 24,
+    "height": 25,
+    "camera_x": 12,
+    "camera_y": 18,
+    "evidence": "opcode0025 explicit dimensions, area corroborated, full script reachability unverified"
+  },
+  {
+    "script_rom_candidate": 971742,
+    "map_id": "0c07",
+    "width": 24,
+    "height": 30,
+    "camera_x": 14,
+    "camera_y": 23,
+    "evidence": "opcode0025 explicit dimensions, area corroborated, full script reachability unverified"
+  },
+  {
+    "script_rom_candidate": 974092,
+    "map_id": "0c04",
+    "width": 24,
+    "height": 30,
+    "camera_x": 0,
+    "camera_y": 23,
+    "evidence": "opcode0025 explicit dimensions, area corroborated, full script reachability unverified"
+  }
+]

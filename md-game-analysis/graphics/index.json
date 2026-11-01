@@ -1,0 +1,40 @@
+{
+  "tile_bank": {
+    "start": "0x9fe38",
+    "end_exclusive": "0xab8f8",
+    "tiles": 1494,
+    "vram_first_tile": 1
+  },
+  "palette_rom_offset": "0x29344",
+  "maps": [
+    {
+      "name": "opening_background_40x64",
+      "rom_offset": "0xdac96",
+      "width_tiles": 40,
+      "height_tiles": 64,
+      "max_tile_index": 1201
+    },
+    {
+      "name": "title_overlay",
+      "rom_offset": "0xdc4c2",
+      "width_tiles": 31,
+      "height_tiles": 10,
+      "max_tile_index": 1438
+    },
+    {
+      "name": "menu_option_1",
+      "rom_offset": "0x27ca6",
+      "width_tiles": 12,
+      "height_tiles": 3,
+      "max_tile_index": 1474
+    },
+    {
+      "name": "menu_option_2",
+      "rom_offset": "0x27d7e",
+      "width_tiles": 12,
+      "height_tiles": 3,
+      "max_tile_index": 1494
+    }
+  ],
+  "limitations": "Static reconstruction; dynamic scroll/fades and sprite overlays not represented."
+}

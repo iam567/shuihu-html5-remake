@@ -1,0 +1,10 @@
+/* Ghidra 12.1.4 pseudocode, not original source. ROM address 0000f1ba */
+
+void FUN_0000f1ba(void)
+
+{
+  FUN_00006f50();
+  FUN_00006f50();
+  return;
+}
+

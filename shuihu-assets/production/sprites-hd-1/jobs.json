@@ -1,0 +1,602 @@
+[
+  {
+    "id": "100400",
+    "kind": "sprite-sheet",
+    "references": [
+      "100400-pose.png",
+      "style-ref.png"
+    ],
+    "size": "1024x1024",
+    "sourceId": "100400"
+  },
+  {
+    "id": "101a00",
+    "kind": "sprite-sheet",
+    "references": [
+      "101a00-pose.png",
+      "style-ref.png"
+    ],
+    "size": "1024x1024",
+    "sourceId": "101a00"
+  },
+  {
+    "id": "103000",
+    "kind": "sprite-sheet",
+    "references": [
+      "103000-pose.png",
+      "style-ref.png"
+    ],
+    "size": "1024x1024",
+    "sourceId": "103000"
+  },
+  {
+    "id": "104600",
+    "kind": "sprite-sheet",
+    "references": [
+      "104600-pose.png",
+      "style-ref.png"
+    ],
+    "size": "1024x1024",
+    "sourceId": "104600"
+  },
+  {
+    "id": "105c00",
+    "kind": "sprite-sheet",
+    "references": [
+      "105c00-pose.png",
+      "style-ref.png"
+    ],
+    "size": "1024x1024",
+    "sourceId": "105c00"
+  },
+  {
+    "id": "107200",
+    "kind": "sprite-sheet",
+    "references": [
+      "107200-pose.png",
+      "style-ref.png"
+    ],
+    "size": "1024x1024",
+    "sourceId": "107200"
+  },
+  {
+    "id": "108800",
+    "kind": "sprite-sheet",
+    "references": [
+      "108800-pose.png",
+      "style-ref.png"
+    ],
+    "size": "1024x1024",
+    "sourceId": "108800"
+  },
+  {
+    "id": "109e00",
+    "kind": "sprite-sheet",
+    "references": [
+      "109e00-pose.png",
+      "style-ref.png"
+    ],
+    "size": "1024x1024",
+    "sourceId": "109e00"
+  },
+  {
+    "id": "10b400",
+    "kind": "sprite-sheet",
+    "references": [
+      "10b400-pose.png",
+      "style-ref.png"
+    ],
+    "size": "1024x1024",
+    "sourceId": "10b400"
+  },
+  {
+    "id": "10ca00",
+    "kind": "sprite-sheet",
+    "references": [
+      "10ca00-pose.png",
+      "style-ref.png"
+    ],
+    "size": "1024x1024",
+    "sourceId": "10ca00"
+  },
+  {
+    "id": "10e000",
+    "kind": "sprite-sheet",
+    "references": [
+      "10e000-pose.png",
+      "style-ref.png"
+    ],
+    "size": "1024x1024",
+    "sourceId": "10e000"
+  },
+  {
+    "id": "10f600",
+    "kind": "sprite-sheet",
+    "references": [
+      "10f600-pose.png",
+      "style-ref.png"
+    ],
+    "size": "1024x1024",
+    "sourceId": "10f600"
+  },
+  {
+    "id": "110c00",
+    "kind": "sprite-sheet",
+    "references": [
+      "110c00-pose.png",
+      "style-ref.png"
+    ],
+    "size": "1024x1024",
+    "sourceId": "110c00"
+  },
+  {
+    "id": "112200",
+    "kind": "sprite-sheet",
+    "references": [
+      "112200-pose.png",
+      "style-ref.png"
+    ],
+    "size": "1024x1024",
+    "sourceId": "112200"
+  },
+  {
+    "id": "113800",
+    "kind": "sprite-sheet",
+    "references": [
+      "113800-pose.png",
+      "style-ref.png"
+    ],
+    "size": "1024x1024",
+    "sourceId": "113800"
+  },
+  {
+    "id": "114e00",
+    "kind": "sprite-sheet",
+    "references": [
+      "114e00-pose.png",
+      "style-ref.png"
+    ],
+    "size": "1024x1024",
+    "sourceId": "114e00"
+  },
+  {
+    "id": "116400",
+    "kind": "sprite-sheet",
+    "references": [
+      "116400-pose.png",
+      "style-ref.png"
+    ],
+    "size": "1024x1024",
+    "sourceId": "116400"
+  },
+  {
+    "id": "117a00",
+    "kind": "sprite-sheet",
+    "references": [
+      "117a00-pose.png",
+      "style-ref.png"
+    ],
+    "size": "1024x1024",
+    "sourceId": "117a00"
+  },
+  {
+    "id": "119000",
+    "kind": "sprite-sheet",
+    "references": [
+      "119000-pose.png",
+      "style-ref.png"
+    ],
+    "size": "1024x1024",
+    "sourceId": "119000"
+  },
+  {
+    "id": "11a600",
+    "kind": "sprite-sheet",
+    "references": [
+      "11a600-pose.png",
+      "style-ref.png"
+    ],
+    "size": "1024x1024",
+    "sourceId": "11a600"
+  },
+  {
+    "id": "11bc00",
+    "kind": "sprite-sheet",
+    "references": [
+      "11bc00-pose.png",
+      "style-ref.png"
+    ],
+    "size": "1024x1024",
+    "sourceId": "11bc00"
+  },
+  {
+    "id": "11d200",
+    "kind": "sprite-sheet",
+    "references": [
+      "11d200-pose.png",
+      "style-ref.png"
+    ],
+    "size": "1024x1024",
+    "sourceId": "11d200"
+  },
+  {
+    "id": "11e800",
+    "kind": "sprite-sheet",
+    "references": [
+      "11e800-pose.png",
+      "style-ref.png"
+    ],
+    "size": "1024x1024",
+    "sourceId": "11e800"
+  },
+  {
+    "id": "120000",
+    "kind": "sprite-sheet",
+    "references": [
+      "120000-pose.png",
+      "style-ref.png"
+    ],
+    "size": "1024x1024",
+    "sourceId": "120000"
+  },
+  {
+    "id": "121600",
+    "kind": "sprite-sheet",
+    "references": [
+      "121600-pose.png",
+      "style-ref.png"
+    ],
+    "size": "1024x1024",
+    "sourceId": "121600"
+  },
+  {
+    "id": "122c00",
+    "kind": "sprite-sheet",
+    "references": [
+      "122c00-pose.png",
+      "style-ref.png"
+    ],
+    "size": "1024x1024",
+    "sourceId": "122c00"
+  },
+  {
+    "id": "124200",
+    "kind": "sprite-sheet",
+    "references": [
+      "124200-pose.png",
+      "style-ref.png"
+    ],
+    "size": "1024x1024",
+    "sourceId": "124200"
+  },
+  {
+    "id": "125800",
+    "kind": "sprite-sheet",
+    "references": [
+      "125800-pose.png",
+      "style-ref.png"
+    ],
+    "size": "1024x1024",
+    "sourceId": "125800"
+  },
+  {
+    "id": "126e00",
+    "kind": "sprite-sheet",
+    "references": [
+      "126e00-pose.png",
+      "style-ref.png"
+    ],
+    "size": "1024x1024",
+    "sourceId": "126e00"
+  },
+  {
+    "id": "128400",
+    "kind": "sprite-sheet",
+    "references": [
+      "128400-pose.png",
+      "style-ref.png"
+    ],
+    "size": "1024x1024",
+    "sourceId": "128400"
+  },
+  {
+    "id": "129a00",
+    "kind": "sprite-sheet",
+    "references": [
+      "129a00-pose.png",
+      "style-ref.png"
+    ],
+    "size": "1024x1024",
+    "sourceId": "129a00"
+  },
+  {
+    "id": "12b000",
+    "kind": "sprite-sheet",
+    "references": [
+      "12b000-pose.png",
+      "style-ref.png"
+    ],
+    "size": "1024x1024",
+    "sourceId": "12b000"
+  },
+  {
+    "id": "12c600",
+    "kind": "sprite-sheet",
+    "references": [
+      "12c600-pose.png",
+      "style-ref.png"
+    ],
+    "size": "1024x1024",
+    "sourceId": "12c600"
+  },
+  {
+    "id": "12dc00",
+    "kind": "sprite-sheet",
+    "references": [
+      "12dc00-pose.png",
+      "style-ref.png"
+    ],
+    "size": "1024x1024",
+    "sourceId": "12dc00"
+  },
+  {
+    "id": "12f200",
+    "kind": "sprite-sheet",
+    "references": [
+      "12f200-pose.png",
+      "style-ref.png"
+    ],
+    "size": "1024x1024",
+    "sourceId": "12f200"
+  },
+  {
+    "id": "130800",
+    "kind": "sprite-sheet",
+    "references": [
+      "130800-pose.png",
+      "style-ref.png"
+    ],
+    "size": "1024x1024",
+    "sourceId": "130800"
+  },
+  {
+    "id": "131e00",
+    "kind": "sprite-sheet",
+    "references": [
+      "131e00-pose.png",
+      "style-ref.png"
+    ],
+    "size": "1024x1024",
+    "sourceId": "131e00"
+  },
+  {
+    "id": "133400",
+    "kind": "sprite-sheet",
+    "references": [
+      "133400-pose.png",
+      "style-ref.png"
+    ],
+    "size": "1024x1024",
+    "sourceId": "133400"
+  },
+  {
+    "id": "134a00",
+    "kind": "sprite-sheet",
+    "references": [
+      "134a00-pose.png",
+      "style-ref.png"
+    ],
+    "size": "1024x1024",
+    "sourceId": "134a00"
+  },
+  {
+    "id": "136000",
+    "kind": "sprite-sheet",
+    "references": [
+      "136000-pose.png",
+      "style-ref.png"
+    ],
+    "size": "1024x1024",
+    "sourceId": "136000"
+  },
+  {
+    "id": "137600",
+    "kind": "sprite-sheet",
+    "references": [
+      "137600-pose.png",
+      "style-ref.png"
+    ],
+    "size": "1024x1024",
+    "sourceId": "137600"
+  },
+  {
+    "id": "138c00",
+    "kind": "sprite-sheet",
+    "references": [
+      "138c00-pose.png",
+      "style-ref.png"
+    ],
+    "size": "1024x1024",
+    "sourceId": "138c00"
+  },
+  {
+    "id": "13a200",
+    "kind": "sprite-sheet",
+    "references": [
+      "13a200-pose.png",
+      "style-ref.png"
+    ],
+    "size": "1024x1024",
+    "sourceId": "13a200"
+  },
+  {
+    "id": "13b800",
+    "kind": "sprite-sheet",
+    "references": [
+      "13b800-pose.png",
+      "style-ref.png"
+    ],
+    "size": "1024x1024",
+    "sourceId": "13b800"
+  },
+  {
+    "id": "13ce00",
+    "kind": "sprite-sheet",
+    "references": [
+      "13ce00-pose.png",
+      "style-ref.png"
+    ],
+    "size": "1024x1024",
+    "sourceId": "13ce00"
+  },
+  {
+    "id": "13e400",
+    "kind": "sprite-sheet",
+    "references": [
+      "13e400-pose.png",
+      "style-ref.png"
+    ],
+    "size": "1024x1024",
+    "sourceId": "13e400"
+  },
+  {
+    "id": "140000",
+    "kind": "sprite-sheet",
+    "references": [
+      "140000-pose.png",
+      "style-ref.png"
+    ],
+    "size": "1024x1024",
+    "sourceId": "140000"
+  },
+  {
+    "id": "141600",
+    "kind": "sprite-sheet",
+    "references": [
+      "141600-pose.png",
+      "style-ref.png"
+    ],
+    "size": "1024x1024",
+    "sourceId": "141600"
+  },
+  {
+    "id": "142c00",
+    "kind": "sprite-sheet",
+    "references": [
+      "142c00-pose.png",
+      "style-ref.png"
+    ],
+    "size": "1024x1024",
+    "sourceId": "142c00"
+  },
+  {
+    "id": "144200",
+    "kind": "sprite-sheet",
+    "references": [
+      "144200-pose.png",
+      "style-ref.png"
+    ],
+    "size": "1024x1024",
+    "sourceId": "144200"
+  },
+  {
+    "id": "145800",
+    "kind": "sprite-sheet",
+    "references": [
+      "145800-pose.png",
+      "style-ref.png"
+    ],
+    "size": "1024x1024",
+    "sourceId": "145800"
+  },
+  {
+    "id": "146e00",
+    "kind": "sprite-sheet",
+    "references": [
+      "146e00-pose.png",
+      "style-ref.png"
+    ],
+    "size": "1024x1024",
+    "sourceId": "146e00"
+  },
+  {
+    "id": "148400",
+    "kind": "sprite-sheet",
+    "references": [
+      "148400-pose.png",
+      "style-ref.png"
+    ],
+    "size": "1024x1024",
+    "sourceId": "148400"
+  },
+  {
+    "id": "149a00",
+    "kind": "sprite-sheet",
+    "references": [
+      "149a00-pose.png",
+      "style-ref.png"
+    ],
+    "size": "1024x1024",
+    "sourceId": "149a00"
+  },
+  {
+    "id": "14b000",
+    "kind": "sprite-sheet",
+    "references": [
+      "14b000-pose.png",
+      "style-ref.png"
+    ],
+    "size": "1024x1024",
+    "sourceId": "14b000"
+  },
+  {
+    "id": "14c600",
+    "kind": "sprite-sheet",
+    "references": [
+      "14c600-pose.png",
+      "style-ref.png"
+    ],
+    "size": "1024x1024",
+    "sourceId": "14c600"
+  },
+  {
+    "id": "14dc00",
+    "kind": "sprite-sheet",
+    "references": [
+      "14dc00-pose.png",
+      "style-ref.png"
+    ],
+    "size": "1024x1024",
+    "sourceId": "14dc00"
+  },
+  {
+    "id": "14f200",
+    "kind": "sprite-sheet",
+    "references": [
+      "14f200-pose.png",
+      "style-ref.png"
+    ],
+    "size": "1024x1024",
+    "sourceId": "14f200"
+  },
+  {
+    "id": "150800",
+    "kind": "sprite-sheet",
+    "references": [
+      "150800-pose.png",
+      "style-ref.png"
+    ],
+    "size": "1024x1024",
+    "sourceId": "150800"
+  },
+  {
+    "id": "151e00",
+    "kind": "sprite-sheet",
+    "references": [
+      "151e00-pose.png",
+      "style-ref.png"
+    ],
+    "size": "1024x1024",
+    "sourceId": "151e00"
+  }
+]

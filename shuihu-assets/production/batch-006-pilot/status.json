@@ -1,0 +1,21 @@
+{
+  "concurrency": 10,
+  "model": "gpt-image-2.5-sunburst",
+  "jobs": {
+    "objects-bank-032386-0772aa-0dd948-1-pixel-hd": {
+      "state": "generated-awaiting-review",
+      "updatedAt": 1793246160.0724368,
+      "exitCode": 0
+    },
+    "objects-bank-032386-0772aa-0dd948-1-unreal": {
+      "state": "generated-awaiting-review",
+      "updatedAt": 1793246162.5323253,
+      "exitCode": 0
+    },
+    "objects-bank-032386-0772aa-0dd948-1-ghibli": {
+      "state": "generated-awaiting-review",
+      "updatedAt": 1793246160.3249357,
+      "exitCode": 0
+    }
+  }
+}

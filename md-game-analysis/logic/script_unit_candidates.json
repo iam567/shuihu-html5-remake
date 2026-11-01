@@ -1,0 +1,10694 @@
+[
+  {
+    "rom": 932806,
+    "sprite_type": 78,
+    "animation": 17,
+    "x": 192,
+    "y": 352,
+    "direction": 1,
+    "portrait_or_identity": 28,
+    "skill_slots_08_0b": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "status_0c_0f": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "level": 2,
+    "experience": 0,
+    "hp": 30,
+    "stats_14_1a": [
+      12,
+      12,
+      5,
+      6,
+      2,
+      20,
+      5
+    ],
+    "movement_1b": 5,
+    "max_hp": 30,
+    "class": 10,
+    "subtype": 30,
+    "equipment_ids": [
+      14,
+      0,
+      0,
+      0
+    ],
+    "passive_item": 123,
+    "uses": [
+      99,
+      0,
+      0,
+      0
+    ],
+    "raw": "4e1100c00160011c00000000000000000200001e0c0c0506021405050000001e030a00001e000e0000007b630000000000ffffffffffffffffffffffffffffff",
+    "opcode": 5,
+    "slot_search_start": 12,
+    "evidence": "script byte-pattern plus record-structure validation; unverified reachability"
+  },
+  {
+    "rom": 932882,
+    "sprite_type": 78,
+    "animation": 17,
+    "x": 256,
+    "y": 288,
+    "direction": 1,
+    "portrait_or_identity": 28,
+    "skill_slots_08_0b": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "status_0c_0f": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "level": 2,
+    "experience": 0,
+    "hp": 30,
+    "stats_14_1a": [
+      12,
+      12,
+      5,
+      6,
+      2,
+      20,
+      5
+    ],
+    "movement_1b": 5,
+    "max_hp": 30,
+    "class": 10,
+    "subtype": 30,
+    "equipment_ids": [
+      14,
+      0,
+      0,
+      0
+    ],
+    "passive_item": 123,
+    "uses": [
+      99,
+      0,
+      0,
+      0
+    ],
+    "raw": "4e1101000120011c00000000000000000200001e0c0c0506021405050000001e030a00001e000e0000007b630000000000ffffffffffffffffffffffffffffff",
+    "opcode": 5,
+    "slot_search_start": 12,
+    "evidence": "script byte-pattern plus record-structure validation; unverified reachability"
+  },
+  {
+    "rom": 932960,
+    "sprite_type": 78,
+    "animation": 17,
+    "x": 192,
+    "y": 512,
+    "direction": 1,
+    "portrait_or_identity": 28,
+    "skill_slots_08_0b": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "status_0c_0f": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "level": 2,
+    "experience": 0,
+    "hp": 30,
+    "stats_14_1a": [
+      12,
+      12,
+      5,
+      6,
+      2,
+      20,
+      5
+    ],
+    "movement_1b": 5,
+    "max_hp": 30,
+    "class": 10,
+    "subtype": 30,
+    "equipment_ids": [
+      14,
+      0,
+      0,
+      0
+    ],
+    "passive_item": 123,
+    "uses": [
+      99,
+      0,
+      0,
+      0
+    ],
+    "raw": "4e1100c00200011c00000000000000000200001e0c0c0506021405050000001e030a00001e000e0000007b630000000000ffffffffffffffffffffffffffffff",
+    "opcode": 5,
+    "slot_search_start": 12,
+    "evidence": "script byte-pattern plus record-structure validation; unverified reachability"
+  },
+  {
+    "rom": 933036,
+    "sprite_type": 78,
+    "animation": 17,
+    "x": 352,
+    "y": 352,
+    "direction": 1,
+    "portrait_or_identity": 28,
+    "skill_slots_08_0b": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "status_0c_0f": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "level": 2,
+    "experience": 0,
+    "hp": 30,
+    "stats_14_1a": [
+      12,
+      12,
+      5,
+      6,
+      2,
+      20,
+      5
+    ],
+    "movement_1b": 5,
+    "max_hp": 30,
+    "class": 10,
+    "subtype": 30,
+    "equipment_ids": [
+      14,
+      0,
+      0,
+      0
+    ],
+    "passive_item": 123,
+    "uses": [
+      99,
+      0,
+      0,
+      0
+    ],
+    "raw": "4e1101600160011c00000000000000000200001e0c0c0506021405050000001e030a00001e000e0000007b630000000000ffffffffffffffffffffffffffffff",
+    "opcode": 5,
+    "slot_search_start": 12,
+    "evidence": "script byte-pattern plus record-structure validation; unverified reachability"
+  },
+  {
+    "rom": 933114,
+    "sprite_type": 78,
+    "animation": 17,
+    "x": 64,
+    "y": 224,
+    "direction": 1,
+    "portrait_or_identity": 28,
+    "skill_slots_08_0b": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "status_0c_0f": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "level": 2,
+    "experience": 0,
+    "hp": 30,
+    "stats_14_1a": [
+      12,
+      12,
+      5,
+      6,
+      2,
+      20,
+      5
+    ],
+    "movement_1b": 5,
+    "max_hp": 30,
+    "class": 10,
+    "subtype": 30,
+    "equipment_ids": [
+      14,
+      0,
+      0,
+      0
+    ],
+    "passive_item": 123,
+    "uses": [
+      99,
+      0,
+      0,
+      0
+    ],
+    "raw": "4e11004000e0011c00000000000000000200001e0c0c0506021405050000001e030a00001e000e0000007b630000000000ffffffffffffffffffffffffffffff",
+    "opcode": 5,
+    "slot_search_start": 12,
+    "evidence": "script byte-pattern plus record-structure validation; unverified reachability"
+  },
+  {
+    "rom": 933190,
+    "sprite_type": 78,
+    "animation": 17,
+    "x": 160,
+    "y": 96,
+    "direction": 1,
+    "portrait_or_identity": 28,
+    "skill_slots_08_0b": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "status_0c_0f": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "level": 2,
+    "experience": 0,
+    "hp": 30,
+    "stats_14_1a": [
+      12,
+      12,
+      5,
+      6,
+      2,
+      20,
+      5
+    ],
+    "movement_1b": 5,
+    "max_hp": 30,
+    "class": 10,
+    "subtype": 30,
+    "equipment_ids": [
+      14,
+      0,
+      0,
+      0
+    ],
+    "passive_item": 123,
+    "uses": [
+      99,
+      0,
+      0,
+      0
+    ],
+    "raw": "4e1100a00060011c00000000000000000200001e0c0c0506021405050000001e030a00001e000e0000007b630000000000ffffffffffffffffffffffffffffff",
+    "opcode": 5,
+    "slot_search_start": 12,
+    "evidence": "script byte-pattern plus record-structure validation; unverified reachability"
+  },
+  {
+    "rom": 933268,
+    "sprite_type": 78,
+    "animation": 17,
+    "x": 352,
+    "y": 128,
+    "direction": 1,
+    "portrait_or_identity": 28,
+    "skill_slots_08_0b": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "status_0c_0f": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "level": 2,
+    "experience": 0,
+    "hp": 30,
+    "stats_14_1a": [
+      12,
+      12,
+      5,
+      6,
+      2,
+      20,
+      5
+    ],
+    "movement_1b": 5,
+    "max_hp": 30,
+    "class": 10,
+    "subtype": 30,
+    "equipment_ids": [
+      14,
+      0,
+      0,
+      0
+    ],
+    "passive_item": 123,
+    "uses": [
+      99,
+      0,
+      0,
+      0
+    ],
+    "raw": "4e1101600080011c00000000000000000200001e0c0c0506021405050000001e020a05031e000e0000007b630000000000ffffffffffffffffffffffffffffff",
+    "opcode": 5,
+    "slot_search_start": 12,
+    "evidence": "script byte-pattern plus record-structure validation; unverified reachability"
+  },
+  {
+    "rom": 933344,
+    "sprite_type": 78,
+    "animation": 17,
+    "x": 192,
+    "y": 64,
+    "direction": 1,
+    "portrait_or_identity": 28,
+    "skill_slots_08_0b": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "status_0c_0f": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "level": 2,
+    "experience": 0,
+    "hp": 30,
+    "stats_14_1a": [
+      12,
+      12,
+      5,
+      6,
+      2,
+      20,
+      5
+    ],
+    "movement_1b": 5,
+    "max_hp": 30,
+    "class": 10,
+    "subtype": 30,
+    "equipment_ids": [
+      14,
+      0,
+      0,
+      0
+    ],
+    "passive_item": 123,
+    "uses": [
+      99,
+      0,
+      0,
+      0
+    ],
+    "raw": "4e1100c00040011c00000000000000000200001e0c0c0506021405050000001e020a06041e000e0000007b630000000000ffffffffffffffffffffffffffffff",
+    "opcode": 5,
+    "slot_search_start": 12,
+    "evidence": "script byte-pattern plus record-structure validation; unverified reachability"
+  },
+  {
+    "rom": 933422,
+    "sprite_type": 78,
+    "animation": 17,
+    "x": 320,
+    "y": 64,
+    "direction": 1,
+    "portrait_or_identity": 28,
+    "skill_slots_08_0b": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "status_0c_0f": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "level": 2,
+    "experience": 0,
+    "hp": 30,
+    "stats_14_1a": [
+      12,
+      12,
+      5,
+      6,
+      2,
+      20,
+      5
+    ],
+    "movement_1b": 5,
+    "max_hp": 30,
+    "class": 10,
+    "subtype": 30,
+    "equipment_ids": [
+      14,
+      0,
+      0,
+      0
+    ],
+    "passive_item": 123,
+    "uses": [
+      99,
+      0,
+      0,
+      0
+    ],
+    "raw": "4e1101400040011c00000000000000000200001e0c0c0506021405050000001e020a04021e000e0000007b630000000000ffffffffffffffffffffffffffffff",
+    "opcode": 5,
+    "slot_search_start": 12,
+    "evidence": "script byte-pattern plus record-structure validation; unverified reachability"
+  },
+  {
+    "rom": 933498,
+    "sprite_type": 78,
+    "animation": 17,
+    "x": 256,
+    "y": 192,
+    "direction": 1,
+    "portrait_or_identity": 28,
+    "skill_slots_08_0b": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "status_0c_0f": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "level": 2,
+    "experience": 0,
+    "hp": 30,
+    "stats_14_1a": [
+      12,
+      12,
+      5,
+      6,
+      2,
+      20,
+      5
+    ],
+    "movement_1b": 5,
+    "max_hp": 30,
+    "class": 10,
+    "subtype": 30,
+    "equipment_ids": [
+      14,
+      0,
+      0,
+      0
+    ],
+    "passive_item": 123,
+    "uses": [
+      99,
+      0,
+      0,
+      0
+    ],
+    "raw": "4e11010000c0011c00000000000000000200001e0c0c0506021405050000001e020a07051e000e0000007b630000000000ffffffffffffffffffffffffffffff",
+    "opcode": 5,
+    "slot_search_start": 12,
+    "evidence": "script byte-pattern plus record-structure validation; unverified reachability"
+  },
+  {
+    "rom": 933576,
+    "sprite_type": 78,
+    "animation": 17,
+    "x": 224,
+    "y": 32,
+    "direction": 1,
+    "portrait_or_identity": 28,
+    "skill_slots_08_0b": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "status_0c_0f": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "level": 2,
+    "experience": 0,
+    "hp": 30,
+    "stats_14_1a": [
+      12,
+      12,
+      5,
+      6,
+      2,
+      20,
+      5
+    ],
+    "movement_1b": 5,
+    "max_hp": 30,
+    "class": 10,
+    "subtype": 30,
+    "equipment_ids": [
+      14,
+      0,
+      0,
+      0
+    ],
+    "passive_item": 123,
+    "uses": [
+      99,
+      0,
+      0,
+      0
+    ],
+    "raw": "4e1100e00020011c00000000000000000200001e0c0c0506021405050000001e030a04021e000e0000007b630000000000ffffffffffffffffffffffffffffff",
+    "opcode": 5,
+    "slot_search_start": 12,
+    "evidence": "script byte-pattern plus record-structure validation; unverified reachability"
+  },
+  {
+    "rom": 933652,
+    "sprite_type": 78,
+    "animation": 17,
+    "x": 320,
+    "y": 96,
+    "direction": 1,
+    "portrait_or_identity": 28,
+    "skill_slots_08_0b": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "status_0c_0f": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "level": 2,
+    "experience": 0,
+    "hp": 30,
+    "stats_14_1a": [
+      12,
+      12,
+      5,
+      6,
+      2,
+      20,
+      5
+    ],
+    "movement_1b": 5,
+    "max_hp": 30,
+    "class": 10,
+    "subtype": 30,
+    "equipment_ids": [
+      14,
+      0,
+      0,
+      0
+    ],
+    "passive_item": 123,
+    "uses": [
+      99,
+      0,
+      0,
+      0
+    ],
+    "raw": "4e1101400060011c00000000000000000200001e0c0c0506021405050000001e030a07051e000e0000007b630000000000ffffffffffffffffffffffffffffff",
+    "opcode": 5,
+    "slot_search_start": 12,
+    "evidence": "script byte-pattern plus record-structure validation; unverified reachability"
+  },
+  {
+    "rom": 936668,
+    "sprite_type": 78,
+    "animation": 17,
+    "x": 288,
+    "y": 832,
+    "direction": 1,
+    "portrait_or_identity": 28,
+    "skill_slots_08_0b": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "status_0c_0f": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "level": 7,
+    "experience": 0,
+    "hp": 43,
+    "stats_14_1a": [
+      16,
+      16,
+      9,
+      10,
+      3,
+      19,
+      10
+    ],
+    "movement_1b": 5,
+    "max_hp": 43,
+    "class": 10,
+    "subtype": 30,
+    "equipment_ids": [
+      14,
+      0,
+      0,
+      0
+    ],
+    "passive_item": 123,
+    "uses": [
+      99,
+      0,
+      0,
+      0
+    ],
+    "raw": "4e1101200340011c00000000000000000700002b1010090a03130a050000002b030a00001e000e0000007b630000000000ffffffffffffffffffffffffffffff",
+    "opcode": 5,
+    "slot_search_start": 12,
+    "evidence": "script byte-pattern plus record-structure validation; unverified reachability"
+  },
+  {
+    "rom": 936748,
+    "sprite_type": 78,
+    "animation": 17,
+    "x": 256,
+    "y": 736,
+    "direction": 1,
+    "portrait_or_identity": 28,
+    "skill_slots_08_0b": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "status_0c_0f": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "level": 7,
+    "experience": 0,
+    "hp": 43,
+    "stats_14_1a": [
+      16,
+      16,
+      9,
+      10,
+      3,
+      19,
+      10
+    ],
+    "movement_1b": 5,
+    "max_hp": 43,
+    "class": 10,
+    "subtype": 30,
+    "equipment_ids": [
+      14,
+      0,
+      0,
+      0
+    ],
+    "passive_item": 123,
+    "uses": [
+      99,
+      0,
+      0,
+      0
+    ],
+    "raw": "4e11010002e0011c00000000000000000700002b1010090a03130a050000002b030a00001e000e0000007b630000000000ffffffffffffffffffffffffffffff",
+    "opcode": 5,
+    "slot_search_start": 12,
+    "evidence": "script byte-pattern plus record-structure validation; unverified reachability"
+  },
+  {
+    "rom": 936848,
+    "sprite_type": 78,
+    "animation": 17,
+    "x": 320,
+    "y": 672,
+    "direction": 1,
+    "portrait_or_identity": 28,
+    "skill_slots_08_0b": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "status_0c_0f": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "level": 7,
+    "experience": 0,
+    "hp": 43,
+    "stats_14_1a": [
+      16,
+      16,
+      9,
+      10,
+      3,
+      19,
+      10
+    ],
+    "movement_1b": 5,
+    "max_hp": 43,
+    "class": 10,
+    "subtype": 30,
+    "equipment_ids": [
+      14,
+      0,
+      0,
+      0
+    ],
+    "passive_item": 123,
+    "uses": [
+      99,
+      0,
+      0,
+      0
+    ],
+    "raw": "4e11014002a0011c00000000000000000700002b1010090a03130a050000002b030a00001e000e0000007b630000000000ffffffffffffffffffffffffffffff",
+    "opcode": 5,
+    "slot_search_start": 12,
+    "evidence": "script byte-pattern plus record-structure validation; unverified reachability"
+  },
+  {
+    "rom": 936924,
+    "sprite_type": 78,
+    "animation": 17,
+    "x": 256,
+    "y": 640,
+    "direction": 1,
+    "portrait_or_identity": 28,
+    "skill_slots_08_0b": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "status_0c_0f": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "level": 7,
+    "experience": 0,
+    "hp": 43,
+    "stats_14_1a": [
+      16,
+      16,
+      9,
+      10,
+      3,
+      19,
+      10
+    ],
+    "movement_1b": 5,
+    "max_hp": 43,
+    "class": 10,
+    "subtype": 30,
+    "equipment_ids": [
+      14,
+      0,
+      0,
+      0
+    ],
+    "passive_item": 123,
+    "uses": [
+      99,
+      0,
+      0,
+      0
+    ],
+    "raw": "4e1101000280011c00000000000000000700002b1010090a03130a050000002b030a00001e000e0000007b630000000000ffffffffffffffffffffffffffffff",
+    "opcode": 5,
+    "slot_search_start": 12,
+    "evidence": "script byte-pattern plus record-structure validation; unverified reachability"
+  },
+  {
+    "rom": 937002,
+    "sprite_type": 78,
+    "animation": 17,
+    "x": 256,
+    "y": 480,
+    "direction": 1,
+    "portrait_or_identity": 28,
+    "skill_slots_08_0b": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "status_0c_0f": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "level": 7,
+    "experience": 0,
+    "hp": 43,
+    "stats_14_1a": [
+      16,
+      16,
+      9,
+      10,
+      3,
+      19,
+      10
+    ],
+    "movement_1b": 5,
+    "max_hp": 43,
+    "class": 10,
+    "subtype": 30,
+    "equipment_ids": [
+      14,
+      0,
+      0,
+      0
+    ],
+    "passive_item": 123,
+    "uses": [
+      99,
+      0,
+      0,
+      0
+    ],
+    "raw": "4e11010001e0011c00000000000000000700002b1010090a03130a050000002b030a00001e000e0000007b630000000000ffffffffffffffffffffffffffffff",
+    "opcode": 5,
+    "slot_search_start": 12,
+    "evidence": "script byte-pattern plus record-structure validation; unverified reachability"
+  },
+  {
+    "rom": 937078,
+    "sprite_type": 78,
+    "animation": 17,
+    "x": 320,
+    "y": 512,
+    "direction": 1,
+    "portrait_or_identity": 28,
+    "skill_slots_08_0b": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "status_0c_0f": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "level": 7,
+    "experience": 0,
+    "hp": 43,
+    "stats_14_1a": [
+      16,
+      16,
+      9,
+      10,
+      3,
+      19,
+      10
+    ],
+    "movement_1b": 5,
+    "max_hp": 43,
+    "class": 10,
+    "subtype": 30,
+    "equipment_ids": [
+      14,
+      0,
+      0,
+      0
+    ],
+    "passive_item": 123,
+    "uses": [
+      99,
+      0,
+      0,
+      0
+    ],
+    "raw": "4e1101400200011c00000000000000000700002b1010090a03130a050000002b030a00001e000e0000007b630000000000ffffffffffffffffffffffffffffff",
+    "opcode": 5,
+    "slot_search_start": 12,
+    "evidence": "script byte-pattern plus record-structure validation; unverified reachability"
+  },
+  {
+    "rom": 937156,
+    "sprite_type": 78,
+    "animation": 17,
+    "x": 128,
+    "y": 448,
+    "direction": 1,
+    "portrait_or_identity": 28,
+    "skill_slots_08_0b": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "status_0c_0f": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "level": 7,
+    "experience": 0,
+    "hp": 43,
+    "stats_14_1a": [
+      16,
+      16,
+      9,
+      10,
+      3,
+      19,
+      10
+    ],
+    "movement_1b": 5,
+    "max_hp": 43,
+    "class": 10,
+    "subtype": 30,
+    "equipment_ids": [
+      14,
+      0,
+      0,
+      0
+    ],
+    "passive_item": 123,
+    "uses": [
+      99,
+      0,
+      0,
+      0
+    ],
+    "raw": "4e11008001c0011c00000000000000000700002b1010090a03130a050000002b030a00001e000e0000007b630000000000ffffffffffffffffffffffffffffff",
+    "opcode": 5,
+    "slot_search_start": 12,
+    "evidence": "script byte-pattern plus record-structure validation; unverified reachability"
+  },
+  {
+    "rom": 937232,
+    "sprite_type": 78,
+    "animation": 17,
+    "x": 160,
+    "y": 352,
+    "direction": 1,
+    "portrait_or_identity": 28,
+    "skill_slots_08_0b": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "status_0c_0f": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "level": 7,
+    "experience": 0,
+    "hp": 43,
+    "stats_14_1a": [
+      16,
+      16,
+      9,
+      10,
+      3,
+      19,
+      10
+    ],
+    "movement_1b": 5,
+    "max_hp": 43,
+    "class": 10,
+    "subtype": 30,
+    "equipment_ids": [
+      14,
+      0,
+      0,
+      0
+    ],
+    "passive_item": 123,
+    "uses": [
+      99,
+      0,
+      0,
+      0
+    ],
+    "raw": "4e1100a00160011c00000000000000000700002b1010090a03130a050000002b030a00001e000e0000007b630000000000ffffffffffffffffffffffffffffff",
+    "opcode": 5,
+    "slot_search_start": 12,
+    "evidence": "script byte-pattern plus record-structure validation; unverified reachability"
+  },
+  {
+    "rom": 937310,
+    "sprite_type": 78,
+    "animation": 17,
+    "x": 32,
+    "y": 288,
+    "direction": 1,
+    "portrait_or_identity": 28,
+    "skill_slots_08_0b": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "status_0c_0f": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "level": 7,
+    "experience": 0,
+    "hp": 43,
+    "stats_14_1a": [
+      16,
+      16,
+      9,
+      10,
+      3,
+      19,
+      10
+    ],
+    "movement_1b": 5,
+    "max_hp": 43,
+    "class": 10,
+    "subtype": 30,
+    "equipment_ids": [
+      14,
+      0,
+      0,
+      0
+    ],
+    "passive_item": 123,
+    "uses": [
+      99,
+      0,
+      0,
+      0
+    ],
+    "raw": "4e1100200120011c00000000000000000700002b1010090a03130a050000002b030a00001e000e0000007b630000000000ffffffffffffffffffffffffffffff",
+    "opcode": 5,
+    "slot_search_start": 12,
+    "evidence": "script byte-pattern plus record-structure validation; unverified reachability"
+  },
+  {
+    "rom": 937386,
+    "sprite_type": 78,
+    "animation": 17,
+    "x": 96,
+    "y": 224,
+    "direction": 1,
+    "portrait_or_identity": 28,
+    "skill_slots_08_0b": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "status_0c_0f": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "level": 7,
+    "experience": 0,
+    "hp": 43,
+    "stats_14_1a": [
+      16,
+      16,
+      9,
+      10,
+      3,
+      19,
+      10
+    ],
+    "movement_1b": 5,
+    "max_hp": 43,
+    "class": 10,
+    "subtype": 30,
+    "equipment_ids": [
+      14,
+      0,
+      0,
+      0
+    ],
+    "passive_item": 123,
+    "uses": [
+      99,
+      0,
+      0,
+      0
+    ],
+    "raw": "4e11006000e0011c00000000000000000700002b1010090a03130a050000002b030a00001e000e0000007b630000000000ffffffffffffffffffffffffffffff",
+    "opcode": 5,
+    "slot_search_start": 12,
+    "evidence": "script byte-pattern plus record-structure validation; unverified reachability"
+  },
+  {
+    "rom": 937464,
+    "sprite_type": 78,
+    "animation": 17,
+    "x": 192,
+    "y": 192,
+    "direction": 1,
+    "portrait_or_identity": 28,
+    "skill_slots_08_0b": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "status_0c_0f": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "level": 7,
+    "experience": 0,
+    "hp": 43,
+    "stats_14_1a": [
+      16,
+      16,
+      9,
+      10,
+      3,
+      19,
+      10
+    ],
+    "movement_1b": 5,
+    "max_hp": 43,
+    "class": 10,
+    "subtype": 30,
+    "equipment_ids": [
+      14,
+      0,
+      0,
+      0
+    ],
+    "passive_item": 123,
+    "uses": [
+      99,
+      0,
+      0,
+      0
+    ],
+    "raw": "4e1100c000c0011c00000000000000000700002b1010090a03130a050000002b030a00001e000e0000007b630000000000ffffffffffffffffffffffffffffff",
+    "opcode": 5,
+    "slot_search_start": 12,
+    "evidence": "script byte-pattern plus record-structure validation; unverified reachability"
+  },
+  {
+    "rom": 937540,
+    "sprite_type": 78,
+    "animation": 17,
+    "x": 320,
+    "y": 192,
+    "direction": 1,
+    "portrait_or_identity": 28,
+    "skill_slots_08_0b": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "status_0c_0f": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "level": 7,
+    "experience": 0,
+    "hp": 43,
+    "stats_14_1a": [
+      16,
+      16,
+      9,
+      10,
+      3,
+      19,
+      10
+    ],
+    "movement_1b": 5,
+    "max_hp": 43,
+    "class": 10,
+    "subtype": 30,
+    "equipment_ids": [
+      14,
+      0,
+      0,
+      0
+    ],
+    "passive_item": 123,
+    "uses": [
+      99,
+      0,
+      0,
+      0
+    ],
+    "raw": "4e11014000c0011c00000000000000000700002b1010090a03130a050000002b030a00001e000e0000007b630000000000ffffffffffffffffffffffffffffff",
+    "opcode": 5,
+    "slot_search_start": 12,
+    "evidence": "script byte-pattern plus record-structure validation; unverified reachability"
+  },
+  {
+    "rom": 937618,
+    "sprite_type": 78,
+    "animation": 17,
+    "x": 32,
+    "y": 96,
+    "direction": 1,
+    "portrait_or_identity": 28,
+    "skill_slots_08_0b": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "status_0c_0f": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "level": 7,
+    "experience": 0,
+    "hp": 43,
+    "stats_14_1a": [
+      16,
+      16,
+      9,
+      10,
+      3,
+      19,
+      10
+    ],
+    "movement_1b": 5,
+    "max_hp": 43,
+    "class": 10,
+    "subtype": 30,
+    "equipment_ids": [
+      14,
+      0,
+      0,
+      0
+    ],
+    "passive_item": 123,
+    "uses": [
+      99,
+      0,
+      0,
+      0
+    ],
+    "raw": "4e1100200060011c00000000000000000700002b1010090a03130a050000002b030a00001e000e0000007b630000000000ffffffffffffffffffffffffffffff",
+    "opcode": 5,
+    "slot_search_start": 12,
+    "evidence": "script byte-pattern plus record-structure validation; unverified reachability"
+  },
+  {
+    "rom": 937694,
+    "sprite_type": 78,
+    "animation": 17,
+    "x": 192,
+    "y": 64,
+    "direction": 1,
+    "portrait_or_identity": 28,
+    "skill_slots_08_0b": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "status_0c_0f": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "level": 7,
+    "experience": 0,
+    "hp": 43,
+    "stats_14_1a": [
+      16,
+      16,
+      9,
+      10,
+      3,
+      19,
+      10
+    ],
+    "movement_1b": 5,
+    "max_hp": 43,
+    "class": 10,
+    "subtype": 30,
+    "equipment_ids": [
+      14,
+      0,
+      0,
+      0
+    ],
+    "passive_item": 123,
+    "uses": [
+      99,
+      0,
+      0,
+      0
+    ],
+    "raw": "4e1100c00040011c00000000000000000700002b1010090a03130a050000002b030a00001e000e0000007b630000000000ffffffffffffffffffffffffffffff",
+    "opcode": 5,
+    "slot_search_start": 12,
+    "evidence": "script byte-pattern plus record-structure validation; unverified reachability"
+  },
+  {
+    "rom": 937772,
+    "sprite_type": 78,
+    "animation": 17,
+    "x": 96,
+    "y": 736,
+    "direction": 1,
+    "portrait_or_identity": 28,
+    "skill_slots_08_0b": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "status_0c_0f": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "level": 12,
+    "experience": 0,
+    "hp": 53,
+    "stats_14_1a": [
+      20,
+      20,
+      13,
+      14,
+      3,
+      19,
+      10
+    ],
+    "movement_1b": 8,
+    "max_hp": 53,
+    "class": 10,
+    "subtype": 30,
+    "equipment_ids": [
+      17,
+      0,
+      0,
+      0
+    ],
+    "passive_item": 123,
+    "uses": [
+      99,
+      0,
+      0,
+      0
+    ],
+    "raw": "4e11006002e0011c00000000000000000c00003514140d0e03130a0800000035030a00001e00110000007b630000000000ffffffffffffffffffffffffffffff",
+    "opcode": 5,
+    "slot_search_start": 12,
+    "evidence": "script byte-pattern plus record-structure validation; unverified reachability"
+  },
+  {
+    "rom": 937848,
+    "sprite_type": 78,
+    "animation": 17,
+    "x": 96,
+    "y": 704,
+    "direction": 1,
+    "portrait_or_identity": 28,
+    "skill_slots_08_0b": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "status_0c_0f": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "level": 12,
+    "experience": 0,
+    "hp": 53,
+    "stats_14_1a": [
+      20,
+      20,
+      13,
+      14,
+      3,
+      19,
+      10
+    ],
+    "movement_1b": 8,
+    "max_hp": 53,
+    "class": 10,
+    "subtype": 30,
+    "equipment_ids": [
+      17,
+      0,
+      0,
+      0
+    ],
+    "passive_item": 123,
+    "uses": [
+      99,
+      0,
+      0,
+      0
+    ],
+    "raw": "4e11006002c0011c00000000000000000c00003514140d0e03130a0800000035030a00001e00110000007b630000000000ffffffffffffffffffffffffffffff",
+    "opcode": 5,
+    "slot_search_start": 12,
+    "evidence": "script byte-pattern plus record-structure validation; unverified reachability"
+  },
+  {
+    "rom": 937924,
+    "sprite_type": 78,
+    "animation": 17,
+    "x": 64,
+    "y": 736,
+    "direction": 1,
+    "portrait_or_identity": 28,
+    "skill_slots_08_0b": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "status_0c_0f": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "level": 12,
+    "experience": 0,
+    "hp": 53,
+    "stats_14_1a": [
+      20,
+      20,
+      13,
+      14,
+      3,
+      19,
+      10
+    ],
+    "movement_1b": 8,
+    "max_hp": 53,
+    "class": 10,
+    "subtype": 30,
+    "equipment_ids": [
+      17,
+      0,
+      0,
+      0
+    ],
+    "passive_item": 123,
+    "uses": [
+      99,
+      0,
+      0,
+      0
+    ],
+    "raw": "4e11004002e0011c00000000000000000c00003514140d0e03130a0800000035030a00001e00110000007b630000000000ffffffffffffffffffffffffffffff",
+    "opcode": 5,
+    "slot_search_start": 12,
+    "evidence": "script byte-pattern plus record-structure validation; unverified reachability"
+  },
+  {
+    "rom": 938000,
+    "sprite_type": 78,
+    "animation": 17,
+    "x": 64,
+    "y": 704,
+    "direction": 1,
+    "portrait_or_identity": 28,
+    "skill_slots_08_0b": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "status_0c_0f": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "level": 12,
+    "experience": 0,
+    "hp": 53,
+    "stats_14_1a": [
+      20,
+      20,
+      13,
+      14,
+      3,
+      19,
+      10
+    ],
+    "movement_1b": 8,
+    "max_hp": 53,
+    "class": 10,
+    "subtype": 30,
+    "equipment_ids": [
+      17,
+      0,
+      0,
+      0
+    ],
+    "passive_item": 123,
+    "uses": [
+      99,
+      0,
+      0,
+      0
+    ],
+    "raw": "4e11004002c0011c00000000000000000c00003514140d0e03130a0800000035030a00001e00110000007b630000000000ffffffffffffffffffffffffffffff",
+    "opcode": 5,
+    "slot_search_start": 12,
+    "evidence": "script byte-pattern plus record-structure validation; unverified reachability"
+  },
+  {
+    "rom": 946306,
+    "sprite_type": 20,
+    "animation": 16,
+    "x": 608,
+    "y": 384,
+    "direction": 1,
+    "portrait_or_identity": 20,
+    "skill_slots_08_0b": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "status_0c_0f": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "level": 12,
+    "experience": 0,
+    "hp": 57,
+    "stats_14_1a": [
+      25,
+      25,
+      16,
+      25,
+      2,
+      30,
+      25
+    ],
+    "movement_1b": 4,
+    "max_hp": 57,
+    "class": 14,
+    "subtype": 18,
+    "equipment_ids": [
+      67,
+      0,
+      0,
+      0
+    ],
+    "passive_item": 0,
+    "uses": [
+      99,
+      0,
+      0,
+      0
+    ],
+    "raw": "141002600180011400000000000000000c00003919191019021e190400000039030e00001200430000000063000000000cffffffffffffffffffffffffffffff",
+    "opcode": 67,
+    "slot_search_start": 11,
+    "evidence": "script byte-pattern plus record-structure validation; unverified reachability"
+  },
+  {
+    "rom": 946380,
+    "sprite_type": 11,
+    "animation": 16,
+    "x": 576,
+    "y": 384,
+    "direction": 1,
+    "portrait_or_identity": 11,
+    "skill_slots_08_0b": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "status_0c_0f": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "level": 12,
+    "experience": 0,
+    "hp": 46,
+    "stats_14_1a": [
+      29,
+      29,
+      23,
+      19,
+      1,
+      12,
+      11
+    ],
+    "movement_1b": 3,
+    "max_hp": 46,
+    "class": 8,
+    "subtype": 7,
+    "equipment_ids": [
+      34,
+      0,
+      0,
+      0
+    ],
+    "passive_item": 0,
+    "uses": [
+      99,
+      0,
+      0,
+      0
+    ],
+    "raw": "0b1002400180010b00000000000000000c00002e1d1d1713010c0b030000002e030800000700220000000063000000000cffffffffffffffffffffffffffffff",
+    "opcode": 67,
+    "slot_search_start": 10,
+    "evidence": "script byte-pattern plus record-structure validation; unverified reachability"
+  },
+  {
+    "rom": 947632,
+    "sprite_type": 78,
+    "animation": 17,
+    "x": 800,
+    "y": 320,
+    "direction": 1,
+    "portrait_or_identity": 28,
+    "skill_slots_08_0b": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "status_0c_0f": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "level": 12,
+    "experience": 0,
+    "hp": 53,
+    "stats_14_1a": [
+      20,
+      20,
+      3,
+      4,
+      3,
+      0,
+      10
+    ],
+    "movement_1b": 5,
+    "max_hp": 53,
+    "class": 10,
+    "subtype": 30,
+    "equipment_ids": [
+      17,
+      0,
+      0,
+      0
+    ],
+    "passive_item": 123,
+    "uses": [
+      99,
+      0,
+      0,
+      0
+    ],
+    "raw": "4e1103200140011c00000000000000000c0000351414030403000a0500000035030a00001e00110000007b630000000000ffffffffffffffffffffffffffffff",
+    "opcode": 5,
+    "slot_search_start": 12,
+    "evidence": "script byte-pattern plus record-structure validation; unverified reachability"
+  },
+  {
+    "rom": 947712,
+    "sprite_type": 78,
+    "animation": 17,
+    "x": 864,
+    "y": 416,
+    "direction": 1,
+    "portrait_or_identity": 28,
+    "skill_slots_08_0b": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "status_0c_0f": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "level": 12,
+    "experience": 0,
+    "hp": 53,
+    "stats_14_1a": [
+      20,
+      20,
+      3,
+      4,
+      3,
+      0,
+      10
+    ],
+    "movement_1b": 5,
+    "max_hp": 53,
+    "class": 10,
+    "subtype": 30,
+    "equipment_ids": [
+      17,
+      0,
+      0,
+      0
+    ],
+    "passive_item": 123,
+    "uses": [
+      99,
+      0,
+      0,
+      0
+    ],
+    "raw": "4e11036001a0011c00000000000000000c0000351414030403000a0500000035030a00001e00110000007b630000000000ffffffffffffffffffffffffffffff",
+    "opcode": 5,
+    "slot_search_start": 12,
+    "evidence": "script byte-pattern plus record-structure validation; unverified reachability"
+  },
+  {
+    "rom": 948146,
+    "sprite_type": 78,
+    "animation": 17,
+    "x": 672,
+    "y": 416,
+    "direction": 1,
+    "portrait_or_identity": 28,
+    "skill_slots_08_0b": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "status_0c_0f": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "level": 12,
+    "experience": 0,
+    "hp": 53,
+    "stats_14_1a": [
+      20,
+      20,
+      3,
+      4,
+      3,
+      0,
+      10
+    ],
+    "movement_1b": 5,
+    "max_hp": 53,
+    "class": 10,
+    "subtype": 30,
+    "equipment_ids": [
+      17,
+      0,
+      0,
+      0
+    ],
+    "passive_item": 123,
+    "uses": [
+      99,
+      0,
+      0,
+      0
+    ],
+    "raw": "4e1102a001a0011c00000000000000000c0000351414030403000a0500000035030a00001e00110000007b630000000000ffffffffffffffffffffffffffffff",
+    "opcode": 5,
+    "slot_search_start": 12,
+    "evidence": "script byte-pattern plus record-structure validation; unverified reachability"
+  },
+  {
+    "rom": 948222,
+    "sprite_type": 78,
+    "animation": 17,
+    "x": 704,
+    "y": 320,
+    "direction": 1,
+    "portrait_or_identity": 28,
+    "skill_slots_08_0b": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "status_0c_0f": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "level": 12,
+    "experience": 0,
+    "hp": 53,
+    "stats_14_1a": [
+      20,
+      20,
+      3,
+      4,
+      3,
+      0,
+      10
+    ],
+    "movement_1b": 5,
+    "max_hp": 53,
+    "class": 10,
+    "subtype": 30,
+    "equipment_ids": [
+      17,
+      0,
+      0,
+      0
+    ],
+    "passive_item": 123,
+    "uses": [
+      99,
+      0,
+      0,
+      0
+    ],
+    "raw": "4e1102c00140011c00000000000000000c0000351414030403000a0500000035030a00001e00110000007b630000000000ffffffffffffffffffffffffffffff",
+    "opcode": 5,
+    "slot_search_start": 12,
+    "evidence": "script byte-pattern plus record-structure validation; unverified reachability"
+  },
+  {
+    "rom": 948300,
+    "sprite_type": 78,
+    "animation": 17,
+    "x": 736,
+    "y": 224,
+    "direction": 1,
+    "portrait_or_identity": 28,
+    "skill_slots_08_0b": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "status_0c_0f": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "level": 12,
+    "experience": 0,
+    "hp": 53,
+    "stats_14_1a": [
+      20,
+      20,
+      3,
+      4,
+      3,
+      0,
+      10
+    ],
+    "movement_1b": 5,
+    "max_hp": 53,
+    "class": 10,
+    "subtype": 30,
+    "equipment_ids": [
+      17,
+      0,
+      0,
+      0
+    ],
+    "passive_item": 123,
+    "uses": [
+      99,
+      0,
+      0,
+      0
+    ],
+    "raw": "4e1102e000e0011c00000000000000000c0000351414030403000a0500000035030a00001e00110000007b630000000000ffffffffffffffffffffffffffffff",
+    "opcode": 5,
+    "slot_search_start": 12,
+    "evidence": "script byte-pattern plus record-structure validation; unverified reachability"
+  },
+  {
+    "rom": 948376,
+    "sprite_type": 78,
+    "animation": 17,
+    "x": 672,
+    "y": 160,
+    "direction": 1,
+    "portrait_or_identity": 28,
+    "skill_slots_08_0b": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "status_0c_0f": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "level": 12,
+    "experience": 0,
+    "hp": 53,
+    "stats_14_1a": [
+      20,
+      20,
+      3,
+      4,
+      3,
+      0,
+      10
+    ],
+    "movement_1b": 5,
+    "max_hp": 53,
+    "class": 10,
+    "subtype": 30,
+    "equipment_ids": [
+      17,
+      0,
+      0,
+      0
+    ],
+    "passive_item": 123,
+    "uses": [
+      99,
+      0,
+      0,
+      0
+    ],
+    "raw": "4e1102a000a0011c00000000000000000c0000351414030403000a0500000035030a00001e00110000007b630000000000ffffffffffffffffffffffffffffff",
+    "opcode": 5,
+    "slot_search_start": 12,
+    "evidence": "script byte-pattern plus record-structure validation; unverified reachability"
+  },
+  {
+    "rom": 948454,
+    "sprite_type": 78,
+    "animation": 17,
+    "x": 608,
+    "y": 128,
+    "direction": 1,
+    "portrait_or_identity": 28,
+    "skill_slots_08_0b": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "status_0c_0f": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "level": 12,
+    "experience": 0,
+    "hp": 53,
+    "stats_14_1a": [
+      20,
+      20,
+      3,
+      4,
+      3,
+      0,
+      10
+    ],
+    "movement_1b": 5,
+    "max_hp": 53,
+    "class": 10,
+    "subtype": 30,
+    "equipment_ids": [
+      17,
+      0,
+      0,
+      0
+    ],
+    "passive_item": 123,
+    "uses": [
+      99,
+      0,
+      0,
+      0
+    ],
+    "raw": "4e1102600080011c00000000000000000c0000351414030403000a0500000035030a00001e00110000007b630000000000ffffffffffffffffffffffffffffff",
+    "opcode": 5,
+    "slot_search_start": 12,
+    "evidence": "script byte-pattern plus record-structure validation; unverified reachability"
+  },
+  {
+    "rom": 948530,
+    "sprite_type": 78,
+    "animation": 17,
+    "x": 768,
+    "y": 96,
+    "direction": 1,
+    "portrait_or_identity": 28,
+    "skill_slots_08_0b": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "status_0c_0f": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "level": 12,
+    "experience": 0,
+    "hp": 53,
+    "stats_14_1a": [
+      20,
+      20,
+      3,
+      4,
+      3,
+      0,
+      10
+    ],
+    "movement_1b": 5,
+    "max_hp": 53,
+    "class": 10,
+    "subtype": 30,
+    "equipment_ids": [
+      17,
+      0,
+      0,
+      0
+    ],
+    "passive_item": 123,
+    "uses": [
+      99,
+      0,
+      0,
+      0
+    ],
+    "raw": "4e1103000060011c00000000000000000c0000351414030403000a0500000035030a00001e00110000007b630000000000ffffffffffffffffffffffffffffff",
+    "opcode": 5,
+    "slot_search_start": 12,
+    "evidence": "script byte-pattern plus record-structure validation; unverified reachability"
+  },
+  {
+    "rom": 948608,
+    "sprite_type": 78,
+    "animation": 17,
+    "x": 480,
+    "y": 192,
+    "direction": 1,
+    "portrait_or_identity": 28,
+    "skill_slots_08_0b": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "status_0c_0f": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "level": 12,
+    "experience": 0,
+    "hp": 53,
+    "stats_14_1a": [
+      20,
+      20,
+      3,
+      4,
+      3,
+      0,
+      10
+    ],
+    "movement_1b": 5,
+    "max_hp": 53,
+    "class": 10,
+    "subtype": 30,
+    "equipment_ids": [
+      17,
+      0,
+      0,
+      0
+    ],
+    "passive_item": 123,
+    "uses": [
+      99,
+      0,
+      0,
+      0
+    ],
+    "raw": "4e1101e000c0011c00000000000000000c0000351414030403000a0500000035030a00001e00110000007b630000000000ffffffffffffffffffffffffffffff",
+    "opcode": 5,
+    "slot_search_start": 12,
+    "evidence": "script byte-pattern plus record-structure validation; unverified reachability"
+  },
+  {
+    "rom": 948684,
+    "sprite_type": 78,
+    "animation": 17,
+    "x": 544,
+    "y": 256,
+    "direction": 1,
+    "portrait_or_identity": 28,
+    "skill_slots_08_0b": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "status_0c_0f": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "level": 12,
+    "experience": 0,
+    "hp": 53,
+    "stats_14_1a": [
+      20,
+      20,
+      3,
+      4,
+      3,
+      0,
+      10
+    ],
+    "movement_1b": 5,
+    "max_hp": 53,
+    "class": 10,
+    "subtype": 30,
+    "equipment_ids": [
+      17,
+      0,
+      0,
+      0
+    ],
+    "passive_item": 123,
+    "uses": [
+      99,
+      0,
+      0,
+      0
+    ],
+    "raw": "4e1102200100011c00000000000000000c0000351414030403000a0500000035030a00001e00110000007b630000000000ffffffffffffffffffffffffffffff",
+    "opcode": 5,
+    "slot_search_start": 12,
+    "evidence": "script byte-pattern plus record-structure validation; unverified reachability"
+  },
+  {
+    "rom": 948762,
+    "sprite_type": 78,
+    "animation": 17,
+    "x": 416,
+    "y": 416,
+    "direction": 1,
+    "portrait_or_identity": 28,
+    "skill_slots_08_0b": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "status_0c_0f": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "level": 12,
+    "experience": 0,
+    "hp": 53,
+    "stats_14_1a": [
+      20,
+      20,
+      3,
+      4,
+      3,
+      0,
+      10
+    ],
+    "movement_1b": 5,
+    "max_hp": 53,
+    "class": 10,
+    "subtype": 30,
+    "equipment_ids": [
+      17,
+      0,
+      0,
+      0
+    ],
+    "passive_item": 123,
+    "uses": [
+      99,
+      0,
+      0,
+      0
+    ],
+    "raw": "4e1101a001a0011c00000000000000000c0000351414030403000a0500000035030a00001e00110000007b630000000000ffffffffffffffffffffffffffffff",
+    "opcode": 5,
+    "slot_search_start": 12,
+    "evidence": "script byte-pattern plus record-structure validation; unverified reachability"
+  },
+  {
+    "rom": 948838,
+    "sprite_type": 78,
+    "animation": 17,
+    "x": 320,
+    "y": 384,
+    "direction": 1,
+    "portrait_or_identity": 28,
+    "skill_slots_08_0b": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "status_0c_0f": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "level": 12,
+    "experience": 0,
+    "hp": 53,
+    "stats_14_1a": [
+      20,
+      20,
+      3,
+      4,
+      3,
+      0,
+      10
+    ],
+    "movement_1b": 5,
+    "max_hp": 53,
+    "class": 10,
+    "subtype": 30,
+    "equipment_ids": [
+      17,
+      0,
+      0,
+      0
+    ],
+    "passive_item": 123,
+    "uses": [
+      99,
+      0,
+      0,
+      0
+    ],
+    "raw": "4e1101400180011c00000000000000000c0000351414030403000a0500000035030a00001e00110000007b630000000000ffffffffffffffffffffffffffffff",
+    "opcode": 5,
+    "slot_search_start": 12,
+    "evidence": "script byte-pattern plus record-structure validation; unverified reachability"
+  },
+  {
+    "rom": 948916,
+    "sprite_type": 78,
+    "animation": 17,
+    "x": 320,
+    "y": 256,
+    "direction": 1,
+    "portrait_or_identity": 28,
+    "skill_slots_08_0b": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "status_0c_0f": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "level": 12,
+    "experience": 0,
+    "hp": 53,
+    "stats_14_1a": [
+      20,
+      20,
+      3,
+      4,
+      3,
+      0,
+      10
+    ],
+    "movement_1b": 5,
+    "max_hp": 53,
+    "class": 10,
+    "subtype": 30,
+    "equipment_ids": [
+      17,
+      0,
+      0,
+      0
+    ],
+    "passive_item": 123,
+    "uses": [
+      99,
+      0,
+      0,
+      0
+    ],
+    "raw": "4e1101400100011c00000000000000000c0000351414030403000a0500000035030a00001e00110000007b630000000000ffffffffffffffffffffffffffffff",
+    "opcode": 5,
+    "slot_search_start": 12,
+    "evidence": "script byte-pattern plus record-structure validation; unverified reachability"
+  },
+  {
+    "rom": 948992,
+    "sprite_type": 78,
+    "animation": 17,
+    "x": 224,
+    "y": 192,
+    "direction": 1,
+    "portrait_or_identity": 28,
+    "skill_slots_08_0b": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "status_0c_0f": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "level": 12,
+    "experience": 0,
+    "hp": 53,
+    "stats_14_1a": [
+      20,
+      20,
+      3,
+      4,
+      3,
+      0,
+      10
+    ],
+    "movement_1b": 5,
+    "max_hp": 53,
+    "class": 10,
+    "subtype": 30,
+    "equipment_ids": [
+      17,
+      0,
+      0,
+      0
+    ],
+    "passive_item": 123,
+    "uses": [
+      99,
+      0,
+      0,
+      0
+    ],
+    "raw": "4e1100e000c0011c00000000000000000c0000351414030403000a0500000035030a00001e00110000007b630000000000ffffffffffffffffffffffffffffff",
+    "opcode": 5,
+    "slot_search_start": 12,
+    "evidence": "script byte-pattern plus record-structure validation; unverified reachability"
+  },
+  {
+    "rom": 949070,
+    "sprite_type": 78,
+    "animation": 17,
+    "x": 256,
+    "y": 96,
+    "direction": 1,
+    "portrait_or_identity": 28,
+    "skill_slots_08_0b": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "status_0c_0f": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "level": 12,
+    "experience": 0,
+    "hp": 53,
+    "stats_14_1a": [
+      20,
+      20,
+      3,
+      4,
+      3,
+      0,
+      10
+    ],
+    "movement_1b": 5,
+    "max_hp": 53,
+    "class": 10,
+    "subtype": 30,
+    "equipment_ids": [
+      17,
+      0,
+      0,
+      0
+    ],
+    "passive_item": 123,
+    "uses": [
+      99,
+      0,
+      0,
+      0
+    ],
+    "raw": "4e1101000060011c00000000000000000c0000351414030403000a0500000035030a00001e00110000007b630000000000ffffffffffffffffffffffffffffff",
+    "opcode": 5,
+    "slot_search_start": 12,
+    "evidence": "script byte-pattern plus record-structure validation; unverified reachability"
+  },
+  {
+    "rom": 949146,
+    "sprite_type": 78,
+    "animation": 17,
+    "x": 128,
+    "y": 128,
+    "direction": 1,
+    "portrait_or_identity": 28,
+    "skill_slots_08_0b": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "status_0c_0f": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "level": 12,
+    "experience": 0,
+    "hp": 53,
+    "stats_14_1a": [
+      20,
+      20,
+      3,
+      4,
+      3,
+      0,
+      10
+    ],
+    "movement_1b": 5,
+    "max_hp": 53,
+    "class": 10,
+    "subtype": 30,
+    "equipment_ids": [
+      17,
+      0,
+      0,
+      0
+    ],
+    "passive_item": 123,
+    "uses": [
+      99,
+      0,
+      0,
+      0
+    ],
+    "raw": "4e1100800080011c00000000000000000c0000351414030403000a0500000035030a00001e00110000007b630000000000ffffffffffffffffffffffffffffff",
+    "opcode": 5,
+    "slot_search_start": 12,
+    "evidence": "script byte-pattern plus record-structure validation; unverified reachability"
+  },
+  {
+    "rom": 954986,
+    "sprite_type": 69,
+    "animation": 17,
+    "x": 224,
+    "y": 64,
+    "direction": 1,
+    "portrait_or_identity": 23,
+    "skill_slots_08_0b": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "status_0c_0f": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "level": 21,
+    "experience": 0,
+    "hp": 78,
+    "stats_14_1a": [
+      45,
+      45,
+      22,
+      50,
+      3,
+      30,
+      41
+    ],
+    "movement_1b": 5,
+    "max_hp": 78,
+    "class": 2,
+    "subtype": 21,
+    "equipment_ids": [
+      64,
+      0,
+      0,
+      0
+    ],
+    "passive_item": 0,
+    "uses": [
+      99,
+      0,
+      0,
+      0
+    ],
+    "raw": "451100e00040011700000000000000001500004e2d2d1632031e29050000004e0302000015004000000000630000000000ffffffffffffffffffffffffffffff",
+    "opcode": 5,
+    "slot_search_start": 12,
+    "evidence": "script byte-pattern plus record-structure validation; unverified reachability"
+  },
+  {
+    "rom": 955060,
+    "sprite_type": 69,
+    "animation": 17,
+    "x": 256,
+    "y": 64,
+    "direction": 1,
+    "portrait_or_identity": 23,
+    "skill_slots_08_0b": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "status_0c_0f": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "level": 21,
+    "experience": 0,
+    "hp": 78,
+    "stats_14_1a": [
+      45,
+      45,
+      22,
+      50,
+      3,
+      30,
+      41
+    ],
+    "movement_1b": 5,
+    "max_hp": 78,
+    "class": 2,
+    "subtype": 21,
+    "equipment_ids": [
+      64,
+      0,
+      0,
+      0
+    ],
+    "passive_item": 0,
+    "uses": [
+      99,
+      0,
+      0,
+      0
+    ],
+    "raw": "451101000040011700000000000000001500004e2d2d1632031e29050000004e0302000015004000000000630000000000ffffffffffffffffffffffffffffff",
+    "opcode": 5,
+    "slot_search_start": 12,
+    "evidence": "script byte-pattern plus record-structure validation; unverified reachability"
+  },
+  {
+    "rom": 955134,
+    "sprite_type": 69,
+    "animation": 17,
+    "x": 288,
+    "y": 64,
+    "direction": 1,
+    "portrait_or_identity": 23,
+    "skill_slots_08_0b": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "status_0c_0f": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "level": 21,
+    "experience": 0,
+    "hp": 78,
+    "stats_14_1a": [
+      45,
+      45,
+      22,
+      50,
+      3,
+      30,
+      41
+    ],
+    "movement_1b": 5,
+    "max_hp": 78,
+    "class": 2,
+    "subtype": 21,
+    "equipment_ids": [
+      64,
+      0,
+      0,
+      0
+    ],
+    "passive_item": 0,
+    "uses": [
+      99,
+      0,
+      0,
+      0
+    ],
+    "raw": "451101200040011700000000000000001500004e2d2d1632031e29050000004e0302000015004000000000630000000000ffffffffffffffffffffffffffffff",
+    "opcode": 5,
+    "slot_search_start": 12,
+    "evidence": "script byte-pattern plus record-structure validation; unverified reachability"
+  },
+  {
+    "rom": 955208,
+    "sprite_type": 69,
+    "animation": 17,
+    "x": 224,
+    "y": 32,
+    "direction": 1,
+    "portrait_or_identity": 23,
+    "skill_slots_08_0b": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "status_0c_0f": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "level": 21,
+    "experience": 0,
+    "hp": 78,
+    "stats_14_1a": [
+      45,
+      45,
+      22,
+      50,
+      3,
+      30,
+      41
+    ],
+    "movement_1b": 5,
+    "max_hp": 78,
+    "class": 2,
+    "subtype": 21,
+    "equipment_ids": [
+      64,
+      0,
+      0,
+      0
+    ],
+    "passive_item": 0,
+    "uses": [
+      99,
+      0,
+      0,
+      0
+    ],
+    "raw": "451100e00020011700000000000000001500004e2d2d1632031e29050000004e0302000015004000000000630000000000ffffffffffffffffffffffffffffff",
+    "opcode": 5,
+    "slot_search_start": 12,
+    "evidence": "script byte-pattern plus record-structure validation; unverified reachability"
+  },
+  {
+    "rom": 955282,
+    "sprite_type": 69,
+    "animation": 17,
+    "x": 256,
+    "y": 32,
+    "direction": 1,
+    "portrait_or_identity": 23,
+    "skill_slots_08_0b": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "status_0c_0f": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "level": 21,
+    "experience": 0,
+    "hp": 78,
+    "stats_14_1a": [
+      45,
+      45,
+      22,
+      50,
+      3,
+      30,
+      41
+    ],
+    "movement_1b": 5,
+    "max_hp": 78,
+    "class": 2,
+    "subtype": 21,
+    "equipment_ids": [
+      64,
+      0,
+      0,
+      0
+    ],
+    "passive_item": 0,
+    "uses": [
+      99,
+      0,
+      0,
+      0
+    ],
+    "raw": "451101000020011700000000000000001500004e2d2d1632031e29050000004e0302000015004000000000630000000000ffffffffffffffffffffffffffffff",
+    "opcode": 5,
+    "slot_search_start": 12,
+    "evidence": "script byte-pattern plus record-structure validation; unverified reachability"
+  },
+  {
+    "rom": 955356,
+    "sprite_type": 69,
+    "animation": 17,
+    "x": 288,
+    "y": 32,
+    "direction": 1,
+    "portrait_or_identity": 23,
+    "skill_slots_08_0b": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "status_0c_0f": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "level": 21,
+    "experience": 0,
+    "hp": 78,
+    "stats_14_1a": [
+      45,
+      45,
+      22,
+      50,
+      3,
+      30,
+      41
+    ],
+    "movement_1b": 5,
+    "max_hp": 78,
+    "class": 2,
+    "subtype": 21,
+    "equipment_ids": [
+      64,
+      0,
+      0,
+      0
+    ],
+    "passive_item": 0,
+    "uses": [
+      99,
+      0,
+      0,
+      0
+    ],
+    "raw": "451101200020011700000000000000001500004e2d2d1632031e29050000004e0302000015004000000000630000000000ffffffffffffffffffffffffffffff",
+    "opcode": 5,
+    "slot_search_start": 12,
+    "evidence": "script byte-pattern plus record-structure validation; unverified reachability"
+  },
+  {
+    "rom": 955432,
+    "sprite_type": 62,
+    "animation": 17,
+    "x": 416,
+    "y": 64,
+    "direction": 1,
+    "portrait_or_identity": 23,
+    "skill_slots_08_0b": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "status_0c_0f": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "level": 21,
+    "experience": 0,
+    "hp": 79,
+    "stats_14_1a": [
+      31,
+      31,
+      25,
+      71,
+      5,
+      14,
+      7
+    ],
+    "movement_1b": 5,
+    "max_hp": 79,
+    "class": 6,
+    "subtype": 14,
+    "equipment_ids": [
+      36,
+      0,
+      0,
+      0
+    ],
+    "passive_item": 0,
+    "uses": [
+      99,
+      0,
+      0,
+      0
+    ],
+    "raw": "3e1101a00040011700000000000000001500004f1f1f1947050e07050000004f030600000e002400000000630000000000ffffffffffffffffffffffffffffff",
+    "opcode": 5,
+    "slot_search_start": 12,
+    "evidence": "script byte-pattern plus record-structure validation; unverified reachability"
+  },
+  {
+    "rom": 955506,
+    "sprite_type": 62,
+    "animation": 17,
+    "x": 448,
+    "y": 64,
+    "direction": 1,
+    "portrait_or_identity": 23,
+    "skill_slots_08_0b": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "status_0c_0f": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "level": 21,
+    "experience": 0,
+    "hp": 79,
+    "stats_14_1a": [
+      31,
+      31,
+      25,
+      71,
+      5,
+      14,
+      7
+    ],
+    "movement_1b": 5,
+    "max_hp": 79,
+    "class": 6,
+    "subtype": 14,
+    "equipment_ids": [
+      36,
+      0,
+      0,
+      0
+    ],
+    "passive_item": 0,
+    "uses": [
+      99,
+      0,
+      0,
+      0
+    ],
+    "raw": "3e1101c00040011700000000000000001500004f1f1f1947050e07050000004f030600000e002400000000630000000000ffffffffffffffffffffffffffffff",
+    "opcode": 5,
+    "slot_search_start": 12,
+    "evidence": "script byte-pattern plus record-structure validation; unverified reachability"
+  },
+  {
+    "rom": 955580,
+    "sprite_type": 62,
+    "animation": 17,
+    "x": 480,
+    "y": 64,
+    "direction": 1,
+    "portrait_or_identity": 23,
+    "skill_slots_08_0b": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "status_0c_0f": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "level": 21,
+    "experience": 0,
+    "hp": 79,
+    "stats_14_1a": [
+      31,
+      31,
+      25,
+      71,
+      5,
+      14,
+      7
+    ],
+    "movement_1b": 5,
+    "max_hp": 79,
+    "class": 6,
+    "subtype": 14,
+    "equipment_ids": [
+      36,
+      0,
+      0,
+      0
+    ],
+    "passive_item": 0,
+    "uses": [
+      99,
+      0,
+      0,
+      0
+    ],
+    "raw": "3e1101e00040011700000000000000001500004f1f1f1947050e07050000004f030600000e002400000000630000000000ffffffffffffffffffffffffffffff",
+    "opcode": 5,
+    "slot_search_start": 12,
+    "evidence": "script byte-pattern plus record-structure validation; unverified reachability"
+  },
+  {
+    "rom": 955654,
+    "sprite_type": 62,
+    "animation": 17,
+    "x": 416,
+    "y": 32,
+    "direction": 1,
+    "portrait_or_identity": 23,
+    "skill_slots_08_0b": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "status_0c_0f": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "level": 21,
+    "experience": 0,
+    "hp": 79,
+    "stats_14_1a": [
+      31,
+      31,
+      25,
+      71,
+      5,
+      14,
+      7
+    ],
+    "movement_1b": 5,
+    "max_hp": 79,
+    "class": 6,
+    "subtype": 14,
+    "equipment_ids": [
+      36,
+      0,
+      0,
+      0
+    ],
+    "passive_item": 0,
+    "uses": [
+      99,
+      0,
+      0,
+      0
+    ],
+    "raw": "3e1101a00020011700000000000000001500004f1f1f1947050e07050000004f030600000e002400000000630000000000ffffffffffffffffffffffffffffff",
+    "opcode": 5,
+    "slot_search_start": 12,
+    "evidence": "script byte-pattern plus record-structure validation; unverified reachability"
+  },
+  {
+    "rom": 955728,
+    "sprite_type": 62,
+    "animation": 17,
+    "x": 448,
+    "y": 32,
+    "direction": 1,
+    "portrait_or_identity": 23,
+    "skill_slots_08_0b": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "status_0c_0f": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "level": 21,
+    "experience": 0,
+    "hp": 79,
+    "stats_14_1a": [
+      31,
+      31,
+      25,
+      71,
+      5,
+      14,
+      7
+    ],
+    "movement_1b": 5,
+    "max_hp": 79,
+    "class": 6,
+    "subtype": 14,
+    "equipment_ids": [
+      36,
+      0,
+      0,
+      0
+    ],
+    "passive_item": 0,
+    "uses": [
+      99,
+      0,
+      0,
+      0
+    ],
+    "raw": "3e1101c00020011700000000000000001500004f1f1f1947050e07050000004f030600000e002400000000630000000000ffffffffffffffffffffffffffffff",
+    "opcode": 5,
+    "slot_search_start": 12,
+    "evidence": "script byte-pattern plus record-structure validation; unverified reachability"
+  },
+  {
+    "rom": 955802,
+    "sprite_type": 62,
+    "animation": 17,
+    "x": 480,
+    "y": 32,
+    "direction": 1,
+    "portrait_or_identity": 23,
+    "skill_slots_08_0b": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "status_0c_0f": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "level": 21,
+    "experience": 0,
+    "hp": 79,
+    "stats_14_1a": [
+      31,
+      31,
+      25,
+      71,
+      5,
+      14,
+      7
+    ],
+    "movement_1b": 5,
+    "max_hp": 79,
+    "class": 6,
+    "subtype": 14,
+    "equipment_ids": [
+      36,
+      0,
+      0,
+      0
+    ],
+    "passive_item": 0,
+    "uses": [
+      99,
+      0,
+      0,
+      0
+    ],
+    "raw": "3e1101e00020011700000000000000001500004f1f1f1947050e07050000004f030600000e002400000000630000000000ffffffffffffffffffffffffffffff",
+    "opcode": 5,
+    "slot_search_start": 12,
+    "evidence": "script byte-pattern plus record-structure validation; unverified reachability"
+  },
+  {
+    "rom": 955876,
+    "sprite_type": 62,
+    "animation": 17,
+    "x": 160,
+    "y": 512,
+    "direction": 1,
+    "portrait_or_identity": 23,
+    "skill_slots_08_0b": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "status_0c_0f": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "level": 21,
+    "experience": 0,
+    "hp": 79,
+    "stats_14_1a": [
+      31,
+      31,
+      25,
+      71,
+      5,
+      14,
+      7
+    ],
+    "movement_1b": 5,
+    "max_hp": 79,
+    "class": 6,
+    "subtype": 14,
+    "equipment_ids": [
+      36,
+      0,
+      0,
+      0
+    ],
+    "passive_item": 0,
+    "uses": [
+      99,
+      0,
+      0,
+      0
+    ],
+    "raw": "3e1100a00200011700000000000000001500004f1f1f1947050e07050000004f030600000e002400000000630000000000ffffffffffffffffffffffffffffff",
+    "opcode": 5,
+    "slot_search_start": 12,
+    "evidence": "script byte-pattern plus record-structure validation; unverified reachability"
+  },
+  {
+    "rom": 955950,
+    "sprite_type": 62,
+    "animation": 17,
+    "x": 128,
+    "y": 512,
+    "direction": 1,
+    "portrait_or_identity": 23,
+    "skill_slots_08_0b": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "status_0c_0f": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "level": 21,
+    "experience": 0,
+    "hp": 79,
+    "stats_14_1a": [
+      31,
+      31,
+      25,
+      71,
+      5,
+      14,
+      7
+    ],
+    "movement_1b": 5,
+    "max_hp": 79,
+    "class": 6,
+    "subtype": 14,
+    "equipment_ids": [
+      36,
+      0,
+      0,
+      0
+    ],
+    "passive_item": 0,
+    "uses": [
+      99,
+      0,
+      0,
+      0
+    ],
+    "raw": "3e1100800200011700000000000000001500004f1f1f1947050e07050000004f030600000e002400000000630000000000ffffffffffffffffffffffffffffff",
+    "opcode": 5,
+    "slot_search_start": 12,
+    "evidence": "script byte-pattern plus record-structure validation; unverified reachability"
+  },
+  {
+    "rom": 956024,
+    "sprite_type": 62,
+    "animation": 17,
+    "x": 96,
+    "y": 512,
+    "direction": 1,
+    "portrait_or_identity": 23,
+    "skill_slots_08_0b": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "status_0c_0f": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "level": 21,
+    "experience": 0,
+    "hp": 79,
+    "stats_14_1a": [
+      31,
+      31,
+      25,
+      71,
+      5,
+      14,
+      7
+    ],
+    "movement_1b": 5,
+    "max_hp": 79,
+    "class": 6,
+    "subtype": 14,
+    "equipment_ids": [
+      36,
+      0,
+      0,
+      0
+    ],
+    "passive_item": 0,
+    "uses": [
+      99,
+      0,
+      0,
+      0
+    ],
+    "raw": "3e1100600200011700000000000000001500004f1f1f1947050e07050000004f030600000e002400000000630000000000ffffffffffffffffffffffffffffff",
+    "opcode": 5,
+    "slot_search_start": 12,
+    "evidence": "script byte-pattern plus record-structure validation; unverified reachability"
+  },
+  {
+    "rom": 956098,
+    "sprite_type": 62,
+    "animation": 17,
+    "x": 160,
+    "y": 544,
+    "direction": 1,
+    "portrait_or_identity": 23,
+    "skill_slots_08_0b": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "status_0c_0f": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "level": 21,
+    "experience": 0,
+    "hp": 79,
+    "stats_14_1a": [
+      31,
+      31,
+      25,
+      71,
+      5,
+      14,
+      7
+    ],
+    "movement_1b": 5,
+    "max_hp": 79,
+    "class": 6,
+    "subtype": 14,
+    "equipment_ids": [
+      36,
+      0,
+      0,
+      0
+    ],
+    "passive_item": 0,
+    "uses": [
+      99,
+      0,
+      0,
+      0
+    ],
+    "raw": "3e1100a00220011700000000000000001500004f1f1f1947050e07050000004f030600000e002400000000630000000000ffffffffffffffffffffffffffffff",
+    "opcode": 5,
+    "slot_search_start": 12,
+    "evidence": "script byte-pattern plus record-structure validation; unverified reachability"
+  },
+  {
+    "rom": 956172,
+    "sprite_type": 62,
+    "animation": 17,
+    "x": 128,
+    "y": 544,
+    "direction": 1,
+    "portrait_or_identity": 23,
+    "skill_slots_08_0b": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "status_0c_0f": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "level": 21,
+    "experience": 0,
+    "hp": 79,
+    "stats_14_1a": [
+      31,
+      31,
+      25,
+      71,
+      5,
+      14,
+      7
+    ],
+    "movement_1b": 5,
+    "max_hp": 79,
+    "class": 6,
+    "subtype": 14,
+    "equipment_ids": [
+      36,
+      0,
+      0,
+      0
+    ],
+    "passive_item": 0,
+    "uses": [
+      99,
+      0,
+      0,
+      0
+    ],
+    "raw": "3e1100800220011700000000000000001500004f1f1f1947050e07050000004f030600000e002400000000630000000000ffffffffffffffffffffffffffffff",
+    "opcode": 5,
+    "slot_search_start": 12,
+    "evidence": "script byte-pattern plus record-structure validation; unverified reachability"
+  },
+  {
+    "rom": 956246,
+    "sprite_type": 62,
+    "animation": 17,
+    "x": 96,
+    "y": 544,
+    "direction": 1,
+    "portrait_or_identity": 23,
+    "skill_slots_08_0b": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "status_0c_0f": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "level": 21,
+    "experience": 0,
+    "hp": 79,
+    "stats_14_1a": [
+      31,
+      31,
+      25,
+      71,
+      5,
+      14,
+      7
+    ],
+    "movement_1b": 5,
+    "max_hp": 79,
+    "class": 6,
+    "subtype": 14,
+    "equipment_ids": [
+      36,
+      0,
+      0,
+      0
+    ],
+    "passive_item": 0,
+    "uses": [
+      99,
+      0,
+      0,
+      0
+    ],
+    "raw": "3e1100600220011700000000000000001500004f1f1f1947050e07050000004f030600000e002400000000630000000000ffffffffffffffffffffffffffffff",
+    "opcode": 5,
+    "slot_search_start": 12,
+    "evidence": "script byte-pattern plus record-structure validation; unverified reachability"
+  },
+  {
+    "rom": 958190,
+    "sprite_type": 77,
+    "animation": 17,
+    "x": 448,
+    "y": 672,
+    "direction": 1,
+    "portrait_or_identity": 42,
+    "skill_slots_08_0b": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "status_0c_0f": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "level": 22,
+    "experience": 0,
+    "hp": 79,
+    "stats_14_1a": [
+      45,
+      45,
+      41,
+      7,
+      2,
+      20,
+      5
+    ],
+    "movement_1b": 3,
+    "max_hp": 79,
+    "class": 11,
+    "subtype": 29,
+    "equipment_ids": [
+      14,
+      0,
+      0,
+      0
+    ],
+    "passive_item": 0,
+    "uses": [
+      99,
+      0,
+      0,
+      0
+    ],
+    "raw": "4d1101c002a0012a00000000000000001600004f2d2d2907021405030000004f030b00001d000e00000000630000000000ffffffffffffffffffffffffffffff",
+    "opcode": 5,
+    "slot_search_start": 12,
+    "evidence": "script byte-pattern plus record-structure validation; unverified reachability"
+  },
+  {
+    "rom": 958270,
+    "sprite_type": 77,
+    "animation": 17,
+    "x": 448,
+    "y": 704,
+    "direction": 1,
+    "portrait_or_identity": 42,
+    "skill_slots_08_0b": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "status_0c_0f": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "level": 22,
+    "experience": 0,
+    "hp": 79,
+    "stats_14_1a": [
+      45,
+      45,
+      41,
+      7,
+      2,
+      20,
+      5
+    ],
+    "movement_1b": 3,
+    "max_hp": 79,
+    "class": 11,
+    "subtype": 29,
+    "equipment_ids": [
+      14,
+      0,
+      0,
+      0
+    ],
+    "passive_item": 0,
+    "uses": [
+      99,
+      0,
+      0,
+      0
+    ],
+    "raw": "4d1101c002c0012a00000000000000001600004f2d2d2907021405030000004f030b00001d000e00000000630000000000ffffffffffffffffffffffffffffff",
+    "opcode": 5,
+    "slot_search_start": 12,
+    "evidence": "script byte-pattern plus record-structure validation; unverified reachability"
+  },
+  {
+    "rom": 958350,
+    "sprite_type": 77,
+    "animation": 17,
+    "x": 416,
+    "y": 704,
+    "direction": 1,
+    "portrait_or_identity": 42,
+    "skill_slots_08_0b": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "status_0c_0f": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "level": 22,
+    "experience": 0,
+    "hp": 79,
+    "stats_14_1a": [
+      45,
+      45,
+      41,
+      7,
+      2,
+      20,
+      5
+    ],
+    "movement_1b": 3,
+    "max_hp": 79,
+    "class": 11,
+    "subtype": 29,
+    "equipment_ids": [
+      14,
+      0,
+      0,
+      0
+    ],
+    "passive_item": 0,
+    "uses": [
+      99,
+      0,
+      0,
+      0
+    ],
+    "raw": "4d1101a002c0012a00000000000000001600004f2d2d2907021405030000004f030b00001d000e00000000630000000000ffffffffffffffffffffffffffffff",
+    "opcode": 5,
+    "slot_search_start": 12,
+    "evidence": "script byte-pattern plus record-structure validation; unverified reachability"
+  },
+  {
+    "rom": 958432,
+    "sprite_type": 77,
+    "animation": 17,
+    "x": 576,
+    "y": 608,
+    "direction": 1,
+    "portrait_or_identity": 42,
+    "skill_slots_08_0b": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "status_0c_0f": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "level": 22,
+    "experience": 0,
+    "hp": 79,
+    "stats_14_1a": [
+      45,
+      45,
+      41,
+      7,
+      2,
+      20,
+      5
+    ],
+    "movement_1b": 3,
+    "max_hp": 79,
+    "class": 11,
+    "subtype": 29,
+    "equipment_ids": [
+      14,
+      0,
+      0,
+      0
+    ],
+    "passive_item": 0,
+    "uses": [
+      99,
+      0,
+      0,
+      0
+    ],
+    "raw": "4d1102400260012a00000000000000001600004f2d2d2907021405030000004f030b00001d000e00000000630000000000ffffffffffffffffffffffffffffff",
+    "opcode": 5,
+    "slot_search_start": 12,
+    "evidence": "script byte-pattern plus record-structure validation; unverified reachability"
+  },
+  {
+    "rom": 958512,
+    "sprite_type": 77,
+    "animation": 17,
+    "x": 608,
+    "y": 640,
+    "direction": 1,
+    "portrait_or_identity": 42,
+    "skill_slots_08_0b": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "status_0c_0f": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "level": 22,
+    "experience": 0,
+    "hp": 79,
+    "stats_14_1a": [
+      45,
+      45,
+      41,
+      7,
+      2,
+      20,
+      5
+    ],
+    "movement_1b": 3,
+    "max_hp": 79,
+    "class": 11,
+    "subtype": 29,
+    "equipment_ids": [
+      14,
+      0,
+      0,
+      0
+    ],
+    "passive_item": 0,
+    "uses": [
+      99,
+      0,
+      0,
+      0
+    ],
+    "raw": "4d1102600280012a00000000000000001600004f2d2d2907021405030000004f030b00001d000e00000000630000000000ffffffffffffffffffffffffffffff",
+    "opcode": 5,
+    "slot_search_start": 12,
+    "evidence": "script byte-pattern plus record-structure validation; unverified reachability"
+  },
+  {
+    "rom": 958592,
+    "sprite_type": 77,
+    "animation": 17,
+    "x": 640,
+    "y": 672,
+    "direction": 1,
+    "portrait_or_identity": 42,
+    "skill_slots_08_0b": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "status_0c_0f": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "level": 22,
+    "experience": 0,
+    "hp": 79,
+    "stats_14_1a": [
+      45,
+      45,
+      41,
+      7,
+      2,
+      20,
+      5
+    ],
+    "movement_1b": 3,
+    "max_hp": 79,
+    "class": 11,
+    "subtype": 29,
+    "equipment_ids": [
+      14,
+      0,
+      0,
+      0
+    ],
+    "passive_item": 0,
+    "uses": [
+      99,
+      0,
+      0,
+      0
+    ],
+    "raw": "4d11028002a0012a00000000000000001600004f2d2d2907021405030000004f030b00001d000e00000000630000000000ffffffffffffffffffffffffffffff",
+    "opcode": 5,
+    "slot_search_start": 12,
+    "evidence": "script byte-pattern plus record-structure validation; unverified reachability"
+  },
+  {
+    "rom": 958674,
+    "sprite_type": 77,
+    "animation": 17,
+    "x": 608,
+    "y": 448,
+    "direction": 1,
+    "portrait_or_identity": 42,
+    "skill_slots_08_0b": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "status_0c_0f": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "level": 22,
+    "experience": 0,
+    "hp": 79,
+    "stats_14_1a": [
+      45,
+      45,
+      41,
+      7,
+      2,
+      20,
+      5
+    ],
+    "movement_1b": 3,
+    "max_hp": 79,
+    "class": 11,
+    "subtype": 29,
+    "equipment_ids": [
+      14,
+      0,
+      0,
+      0
+    ],
+    "passive_item": 0,
+    "uses": [
+      99,
+      0,
+      0,
+      0
+    ],
+    "raw": "4d11026001c0012a00000000000000001600004f2d2d2907021405030000004f030b00001d000e00000000630000000000ffffffffffffffffffffffffffffff",
+    "opcode": 5,
+    "slot_search_start": 12,
+    "evidence": "script byte-pattern plus record-structure validation; unverified reachability"
+  },
+  {
+    "rom": 958754,
+    "sprite_type": 77,
+    "animation": 17,
+    "x": 640,
+    "y": 448,
+    "direction": 1,
+    "portrait_or_identity": 42,
+    "skill_slots_08_0b": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "status_0c_0f": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "level": 22,
+    "experience": 0,
+    "hp": 79,
+    "stats_14_1a": [
+      45,
+      45,
+      41,
+      7,
+      2,
+      20,
+      5
+    ],
+    "movement_1b": 3,
+    "max_hp": 79,
+    "class": 11,
+    "subtype": 29,
+    "equipment_ids": [
+      14,
+      0,
+      0,
+      0
+    ],
+    "passive_item": 0,
+    "uses": [
+      99,
+      0,
+      0,
+      0
+    ],
+    "raw": "4d11028001c0012a00000000000000001600004f2d2d2907021405030000004f030b00001d000e00000000630000000000ffffffffffffffffffffffffffffff",
+    "opcode": 5,
+    "slot_search_start": 12,
+    "evidence": "script byte-pattern plus record-structure validation; unverified reachability"
+  },
+  {
+    "rom": 958834,
+    "sprite_type": 77,
+    "animation": 17,
+    "x": 672,
+    "y": 448,
+    "direction": 1,
+    "portrait_or_identity": 42,
+    "skill_slots_08_0b": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "status_0c_0f": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "level": 22,
+    "experience": 0,
+    "hp": 79,
+    "stats_14_1a": [
+      45,
+      45,
+      41,
+      7,
+      2,
+      20,
+      5
+    ],
+    "movement_1b": 3,
+    "max_hp": 79,
+    "class": 11,
+    "subtype": 29,
+    "equipment_ids": [
+      14,
+      0,
+      0,
+      0
+    ],
+    "passive_item": 0,
+    "uses": [
+      99,
+      0,
+      0,
+      0
+    ],
+    "raw": "4d1102a001c0012a00000000000000001600004f2d2d2907021405030000004f030b00001d000e00000000630000000000ffffffffffffffffffffffffffffff",
+    "opcode": 5,
+    "slot_search_start": 12,
+    "evidence": "script byte-pattern plus record-structure validation; unverified reachability"
+  },
+  {
+    "rom": 958916,
+    "sprite_type": 77,
+    "animation": 17,
+    "x": 384,
+    "y": 352,
+    "direction": 1,
+    "portrait_or_identity": 42,
+    "skill_slots_08_0b": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "status_0c_0f": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "level": 22,
+    "experience": 0,
+    "hp": 79,
+    "stats_14_1a": [
+      45,
+      45,
+      41,
+      7,
+      2,
+      20,
+      5
+    ],
+    "movement_1b": 3,
+    "max_hp": 79,
+    "class": 11,
+    "subtype": 29,
+    "equipment_ids": [
+      14,
+      0,
+      0,
+      0
+    ],
+    "passive_item": 0,
+    "uses": [
+      99,
+      0,
+      0,
+      0
+    ],
+    "raw": "4d1101800160012a00000000000000001600004f2d2d2907021405030000004f030b00001d000e00000000630000000000ffffffffffffffffffffffffffffff",
+    "opcode": 5,
+    "slot_search_start": 12,
+    "evidence": "script byte-pattern plus record-structure validation; unverified reachability"
+  },
+  {
+    "rom": 958996,
+    "sprite_type": 77,
+    "animation": 17,
+    "x": 384,
+    "y": 384,
+    "direction": 1,
+    "portrait_or_identity": 42,
+    "skill_slots_08_0b": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "status_0c_0f": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "level": 22,
+    "experience": 0,
+    "hp": 79,
+    "stats_14_1a": [
+      45,
+      45,
+      41,
+      7,
+      2,
+      20,
+      5
+    ],
+    "movement_1b": 3,
+    "max_hp": 79,
+    "class": 11,
+    "subtype": 29,
+    "equipment_ids": [
+      14,
+      0,
+      0,
+      0
+    ],
+    "passive_item": 0,
+    "uses": [
+      99,
+      0,
+      0,
+      0
+    ],
+    "raw": "4d1101800180012a00000000000000001600004f2d2d2907021405030000004f030b00001d000e00000000630000000000ffffffffffffffffffffffffffffff",
+    "opcode": 5,
+    "slot_search_start": 12,
+    "evidence": "script byte-pattern plus record-structure validation; unverified reachability"
+  },
+  {
+    "rom": 959076,
+    "sprite_type": 77,
+    "animation": 17,
+    "x": 384,
+    "y": 416,
+    "direction": 1,
+    "portrait_or_identity": 42,
+    "skill_slots_08_0b": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "status_0c_0f": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "level": 22,
+    "experience": 0,
+    "hp": 79,
+    "stats_14_1a": [
+      45,
+      45,
+      41,
+      7,
+      2,
+      20,
+      5
+    ],
+    "movement_1b": 3,
+    "max_hp": 79,
+    "class": 11,
+    "subtype": 29,
+    "equipment_ids": [
+      14,
+      0,
+      0,
+      0
+    ],
+    "passive_item": 0,
+    "uses": [
+      99,
+      0,
+      0,
+      0
+    ],
+    "raw": "4d11018001a0012a00000000000000001600004f2d2d2907021405030000004f030b00001d000e00000000630000000000ffffffffffffffffffffffffffffff",
+    "opcode": 5,
+    "slot_search_start": 12,
+    "evidence": "script byte-pattern plus record-structure validation; unverified reachability"
+  },
+  {
+    "rom": 959158,
+    "sprite_type": 77,
+    "animation": 17,
+    "x": 224,
+    "y": 384,
+    "direction": 1,
+    "portrait_or_identity": 42,
+    "skill_slots_08_0b": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "status_0c_0f": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "level": 22,
+    "experience": 0,
+    "hp": 79,
+    "stats_14_1a": [
+      45,
+      45,
+      41,
+      7,
+      2,
+      20,
+      5
+    ],
+    "movement_1b": 3,
+    "max_hp": 79,
+    "class": 11,
+    "subtype": 29,
+    "equipment_ids": [
+      14,
+      0,
+      0,
+      0
+    ],
+    "passive_item": 0,
+    "uses": [
+      99,
+      0,
+      0,
+      0
+    ],
+    "raw": "4d1100e00180012a00000000000000001600004f2d2d2907021405030000004f030b00001d000e00000000630000000000ffffffffffffffffffffffffffffff",
+    "opcode": 5,
+    "slot_search_start": 12,
+    "evidence": "script byte-pattern plus record-structure validation; unverified reachability"
+  },
+  {
+    "rom": 959238,
+    "sprite_type": 77,
+    "animation": 17,
+    "x": 224,
+    "y": 416,
+    "direction": 1,
+    "portrait_or_identity": 42,
+    "skill_slots_08_0b": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "status_0c_0f": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "level": 22,
+    "experience": 0,
+    "hp": 79,
+    "stats_14_1a": [
+      45,
+      45,
+      41,
+      7,
+      2,
+      20,
+      5
+    ],
+    "movement_1b": 3,
+    "max_hp": 79,
+    "class": 11,
+    "subtype": 29,
+    "equipment_ids": [
+      14,
+      0,
+      0,
+      0
+    ],
+    "passive_item": 0,
+    "uses": [
+      99,
+      0,
+      0,
+      0
+    ],
+    "raw": "4d1100e001a0012a00000000000000001600004f2d2d2907021405030000004f030b00001d000e00000000630000000000ffffffffffffffffffffffffffffff",
+    "opcode": 5,
+    "slot_search_start": 12,
+    "evidence": "script byte-pattern plus record-structure validation; unverified reachability"
+  },
+  {
+    "rom": 959318,
+    "sprite_type": 77,
+    "animation": 17,
+    "x": 224,
+    "y": 448,
+    "direction": 1,
+    "portrait_or_identity": 42,
+    "skill_slots_08_0b": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "status_0c_0f": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "level": 22,
+    "experience": 0,
+    "hp": 79,
+    "stats_14_1a": [
+      45,
+      45,
+      41,
+      7,
+      2,
+      20,
+      5
+    ],
+    "movement_1b": 3,
+    "max_hp": 79,
+    "class": 11,
+    "subtype": 29,
+    "equipment_ids": [
+      14,
+      0,
+      0,
+      0
+    ],
+    "passive_item": 0,
+    "uses": [
+      99,
+      0,
+      0,
+      0
+    ],
+    "raw": "4d1100e001c0012a00000000000000001600004f2d2d2907021405030000004f030b00001d000e00000000630000000000ffffffffffffffffffffffffffffff",
+    "opcode": 5,
+    "slot_search_start": 12,
+    "evidence": "script byte-pattern plus record-structure validation; unverified reachability"
+  },
+  {
+    "rom": 959400,
+    "sprite_type": 77,
+    "animation": 17,
+    "x": 64,
+    "y": 288,
+    "direction": 1,
+    "portrait_or_identity": 42,
+    "skill_slots_08_0b": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "status_0c_0f": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "level": 22,
+    "experience": 0,
+    "hp": 79,
+    "stats_14_1a": [
+      45,
+      45,
+      41,
+      7,
+      2,
+      20,
+      5
+    ],
+    "movement_1b": 3,
+    "max_hp": 79,
+    "class": 11,
+    "subtype": 29,
+    "equipment_ids": [
+      14,
+      0,
+      0,
+      0
+    ],
+    "passive_item": 0,
+    "uses": [
+      99,
+      0,
+      0,
+      0
+    ],
+    "raw": "4d1100400120012a00000000000000001600004f2d2d2907021405030000004f030b00001d000e00000000630000000000ffffffffffffffffffffffffffffff",
+    "opcode": 5,
+    "slot_search_start": 12,
+    "evidence": "script byte-pattern plus record-structure validation; unverified reachability"
+  },
+  {
+    "rom": 959480,
+    "sprite_type": 77,
+    "animation": 17,
+    "x": 96,
+    "y": 288,
+    "direction": 1,
+    "portrait_or_identity": 42,
+    "skill_slots_08_0b": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "status_0c_0f": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "level": 22,
+    "experience": 0,
+    "hp": 79,
+    "stats_14_1a": [
+      45,
+      45,
+      41,
+      7,
+      2,
+      20,
+      5
+    ],
+    "movement_1b": 3,
+    "max_hp": 79,
+    "class": 11,
+    "subtype": 29,
+    "equipment_ids": [
+      14,
+      0,
+      0,
+      0
+    ],
+    "passive_item": 0,
+    "uses": [
+      99,
+      0,
+      0,
+      0
+    ],
+    "raw": "4d1100600120012a00000000000000001600004f2d2d2907021405030000004f030b00001d000e00000000630000000000ffffffffffffffffffffffffffffff",
+    "opcode": 5,
+    "slot_search_start": 12,
+    "evidence": "script byte-pattern plus record-structure validation; unverified reachability"
+  },
+  {
+    "rom": 959560,
+    "sprite_type": 77,
+    "animation": 17,
+    "x": 128,
+    "y": 288,
+    "direction": 1,
+    "portrait_or_identity": 42,
+    "skill_slots_08_0b": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "status_0c_0f": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "level": 22,
+    "experience": 0,
+    "hp": 79,
+    "stats_14_1a": [
+      45,
+      45,
+      41,
+      7,
+      2,
+      20,
+      5
+    ],
+    "movement_1b": 3,
+    "max_hp": 79,
+    "class": 11,
+    "subtype": 29,
+    "equipment_ids": [
+      14,
+      0,
+      0,
+      0
+    ],
+    "passive_item": 0,
+    "uses": [
+      99,
+      0,
+      0,
+      0
+    ],
+    "raw": "4d1100800120012a00000000000000001600004f2d2d2907021405030000004f030b00001d000e00000000630000000000ffffffffffffffffffffffffffffff",
+    "opcode": 5,
+    "slot_search_start": 12,
+    "evidence": "script byte-pattern plus record-structure validation; unverified reachability"
+  },
+  {
+    "rom": 959642,
+    "sprite_type": 77,
+    "animation": 17,
+    "x": 192,
+    "y": 96,
+    "direction": 1,
+    "portrait_or_identity": 42,
+    "skill_slots_08_0b": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "status_0c_0f": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "level": 22,
+    "experience": 0,
+    "hp": 79,
+    "stats_14_1a": [
+      45,
+      45,
+      41,
+      7,
+      2,
+      20,
+      5
+    ],
+    "movement_1b": 3,
+    "max_hp": 79,
+    "class": 11,
+    "subtype": 29,
+    "equipment_ids": [
+      14,
+      0,
+      0,
+      0
+    ],
+    "passive_item": 0,
+    "uses": [
+      99,
+      0,
+      0,
+      0
+    ],
+    "raw": "4d1100c00060012a00000000000000001600004f2d2d2907021405030000004f030b00001d000e00000000630000000000ffffffffffffffffffffffffffffff",
+    "opcode": 5,
+    "slot_search_start": 12,
+    "evidence": "script byte-pattern plus record-structure validation; unverified reachability"
+  },
+  {
+    "rom": 959722,
+    "sprite_type": 77,
+    "animation": 17,
+    "x": 192,
+    "y": 128,
+    "direction": 1,
+    "portrait_or_identity": 42,
+    "skill_slots_08_0b": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "status_0c_0f": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "level": 22,
+    "experience": 0,
+    "hp": 79,
+    "stats_14_1a": [
+      45,
+      45,
+      41,
+      7,
+      2,
+      20,
+      5
+    ],
+    "movement_1b": 3,
+    "max_hp": 79,
+    "class": 11,
+    "subtype": 29,
+    "equipment_ids": [
+      14,
+      0,
+      0,
+      0
+    ],
+    "passive_item": 0,
+    "uses": [
+      99,
+      0,
+      0,
+      0
+    ],
+    "raw": "4d1100c00080012a00000000000000001600004f2d2d2907021405030000004f030b00001d000e00000000630000000000ffffffffffffffffffffffffffffff",
+    "opcode": 5,
+    "slot_search_start": 12,
+    "evidence": "script byte-pattern plus record-structure validation; unverified reachability"
+  },
+  {
+    "rom": 959802,
+    "sprite_type": 77,
+    "animation": 17,
+    "x": 192,
+    "y": 160,
+    "direction": 1,
+    "portrait_or_identity": 42,
+    "skill_slots_08_0b": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "status_0c_0f": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "level": 22,
+    "experience": 0,
+    "hp": 79,
+    "stats_14_1a": [
+      45,
+      45,
+      41,
+      7,
+      2,
+      20,
+      5
+    ],
+    "movement_1b": 3,
+    "max_hp": 79,
+    "class": 11,
+    "subtype": 29,
+    "equipment_ids": [
+      14,
+      0,
+      0,
+      0
+    ],
+    "passive_item": 0,
+    "uses": [
+      99,
+      0,
+      0,
+      0
+    ],
+    "raw": "4d1100c000a0012a00000000000000001600004f2d2d2907021405030000004f030b00001d000e00000000630000000000ffffffffffffffffffffffffffffff",
+    "opcode": 5,
+    "slot_search_start": 12,
+    "evidence": "script byte-pattern plus record-structure validation; unverified reachability"
+  },
+  {
+    "rom": 960508,
+    "sprite_type": 52,
+    "animation": 17,
+    "x": 288,
+    "y": 256,
+    "direction": 1,
+    "portrait_or_identity": 43,
+    "skill_slots_08_0b": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "status_0c_0f": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "level": 25,
+    "experience": 0,
+    "hp": 95,
+    "stats_14_1a": [
+      49,
+      49,
+      10,
+      51,
+      2,
+      28,
+      28
+    ],
+    "movement_1b": 4,
+    "max_hp": 95,
+    "class": 12,
+    "subtype": 4,
+    "equipment_ids": [
+      31,
+      0,
+      0,
+      0
+    ],
+    "passive_item": 0,
+    "uses": [
+      99,
+      0,
+      0,
+      0
+    ],
+    "raw": "341101200100012b00000000000000001900005f31310a33021c1c040000005f030c000004001f00000000630000000000ffffffffffffffffffffffffffffff",
+    "opcode": 5,
+    "slot_search_start": 12,
+    "evidence": "script byte-pattern plus record-structure validation; unverified reachability"
+  },
+  {
+    "rom": 960588,
+    "sprite_type": 52,
+    "animation": 17,
+    "x": 320,
+    "y": 256,
+    "direction": 1,
+    "portrait_or_identity": 43,
+    "skill_slots_08_0b": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "status_0c_0f": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "level": 25,
+    "experience": 0,
+    "hp": 95,
+    "stats_14_1a": [
+      49,
+      49,
+      10,
+      51,
+      2,
+      28,
+      28
+    ],
+    "movement_1b": 4,
+    "max_hp": 95,
+    "class": 12,
+    "subtype": 4,
+    "equipment_ids": [
+      31,
+      0,
+      0,
+      0
+    ],
+    "passive_item": 0,
+    "uses": [
+      99,
+      0,
+      0,
+      0
+    ],
+    "raw": "341101400100012b00000000000000001900005f31310a33021c1c040000005f030c000004001f00000000630000000000ffffffffffffffffffffffffffffff",
+    "opcode": 5,
+    "slot_search_start": 12,
+    "evidence": "script byte-pattern plus record-structure validation; unverified reachability"
+  },
+  {
+    "rom": 960668,
+    "sprite_type": 52,
+    "animation": 17,
+    "x": 352,
+    "y": 256,
+    "direction": 1,
+    "portrait_or_identity": 43,
+    "skill_slots_08_0b": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "status_0c_0f": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "level": 25,
+    "experience": 0,
+    "hp": 95,
+    "stats_14_1a": [
+      49,
+      49,
+      10,
+      51,
+      2,
+      28,
+      28
+    ],
+    "movement_1b": 4,
+    "max_hp": 95,
+    "class": 12,
+    "subtype": 4,
+    "equipment_ids": [
+      31,
+      0,
+      0,
+      0
+    ],
+    "passive_item": 0,
+    "uses": [
+      99,
+      0,
+      0,
+      0
+    ],
+    "raw": "341101600100012b00000000000000001900005f31310a33021c1c040000005f030c000004001f00000000630000000000ffffffffffffffffffffffffffffff",
+    "opcode": 5,
+    "slot_search_start": 12,
+    "evidence": "script byte-pattern plus record-structure validation; unverified reachability"
+  },
+  {
+    "rom": 960748,
+    "sprite_type": 52,
+    "animation": 17,
+    "x": 384,
+    "y": 256,
+    "direction": 1,
+    "portrait_or_identity": 43,
+    "skill_slots_08_0b": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "status_0c_0f": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "level": 25,
+    "experience": 0,
+    "hp": 95,
+    "stats_14_1a": [
+      49,
+      49,
+      10,
+      51,
+      2,
+      28,
+      28
+    ],
+    "movement_1b": 4,
+    "max_hp": 95,
+    "class": 12,
+    "subtype": 4,
+    "equipment_ids": [
+      31,
+      0,
+      0,
+      0
+    ],
+    "passive_item": 0,
+    "uses": [
+      99,
+      0,
+      0,
+      0
+    ],
+    "raw": "341101800100012b00000000000000001900005f31310a33021c1c040000005f030c000004001f00000000630000000000ffffffffffffffffffffffffffffff",
+    "opcode": 5,
+    "slot_search_start": 12,
+    "evidence": "script byte-pattern plus record-structure validation; unverified reachability"
+  },
+  {
+    "rom": 960828,
+    "sprite_type": 52,
+    "animation": 17,
+    "x": 416,
+    "y": 256,
+    "direction": 1,
+    "portrait_or_identity": 43,
+    "skill_slots_08_0b": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "status_0c_0f": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "level": 25,
+    "experience": 0,
+    "hp": 95,
+    "stats_14_1a": [
+      49,
+      49,
+      10,
+      51,
+      2,
+      28,
+      28
+    ],
+    "movement_1b": 4,
+    "max_hp": 95,
+    "class": 12,
+    "subtype": 4,
+    "equipment_ids": [
+      31,
+      0,
+      0,
+      0
+    ],
+    "passive_item": 0,
+    "uses": [
+      99,
+      0,
+      0,
+      0
+    ],
+    "raw": "341101a00100012b00000000000000001900005f31310a33021c1c040000005f030c000004001f00000000630000000000ffffffffffffffffffffffffffffff",
+    "opcode": 5,
+    "slot_search_start": 12,
+    "evidence": "script byte-pattern plus record-structure validation; unverified reachability"
+  },
+  {
+    "rom": 960908,
+    "sprite_type": 52,
+    "animation": 17,
+    "x": 448,
+    "y": 256,
+    "direction": 1,
+    "portrait_or_identity": 43,
+    "skill_slots_08_0b": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "status_0c_0f": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "level": 25,
+    "experience": 0,
+    "hp": 95,
+    "stats_14_1a": [
+      49,
+      49,
+      10,
+      51,
+      2,
+      28,
+      28
+    ],
+    "movement_1b": 4,
+    "max_hp": 95,
+    "class": 12,
+    "subtype": 4,
+    "equipment_ids": [
+      31,
+      0,
+      0,
+      0
+    ],
+    "passive_item": 0,
+    "uses": [
+      99,
+      0,
+      0,
+      0
+    ],
+    "raw": "341101c00100012b00000000000000001900005f31310a33021c1c040000005f030c000004001f00000000630000000000ffffffffffffffffffffffffffffff",
+    "opcode": 5,
+    "slot_search_start": 12,
+    "evidence": "script byte-pattern plus record-structure validation; unverified reachability"
+  },
+  {
+    "rom": 960988,
+    "sprite_type": 52,
+    "animation": 17,
+    "x": 288,
+    "y": 832,
+    "direction": 1,
+    "portrait_or_identity": 43,
+    "skill_slots_08_0b": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "status_0c_0f": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "level": 25,
+    "experience": 0,
+    "hp": 95,
+    "stats_14_1a": [
+      49,
+      49,
+      10,
+      51,
+      2,
+      28,
+      28
+    ],
+    "movement_1b": 4,
+    "max_hp": 95,
+    "class": 12,
+    "subtype": 4,
+    "equipment_ids": [
+      31,
+      0,
+      0,
+      0
+    ],
+    "passive_item": 0,
+    "uses": [
+      99,
+      0,
+      0,
+      0
+    ],
+    "raw": "341101200340012b00000000000000001900005f31310a33021c1c040000005f030c000004001f00000000630000000000ffffffffffffffffffffffffffffff",
+    "opcode": 5,
+    "slot_search_start": 12,
+    "evidence": "script byte-pattern plus record-structure validation; unverified reachability"
+  },
+  {
+    "rom": 961068,
+    "sprite_type": 52,
+    "animation": 17,
+    "x": 320,
+    "y": 832,
+    "direction": 1,
+    "portrait_or_identity": 43,
+    "skill_slots_08_0b": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "status_0c_0f": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "level": 25,
+    "experience": 0,
+    "hp": 95,
+    "stats_14_1a": [
+      49,
+      49,
+      10,
+      51,
+      2,
+      28,
+      28
+    ],
+    "movement_1b": 4,
+    "max_hp": 95,
+    "class": 12,
+    "subtype": 4,
+    "equipment_ids": [
+      31,
+      0,
+      0,
+      0
+    ],
+    "passive_item": 0,
+    "uses": [
+      99,
+      0,
+      0,
+      0
+    ],
+    "raw": "341101400340012b00000000000000001900005f31310a33021c1c040000005f030c000004001f00000000630000000000ffffffffffffffffffffffffffffff",
+    "opcode": 5,
+    "slot_search_start": 12,
+    "evidence": "script byte-pattern plus record-structure validation; unverified reachability"
+  },
+  {
+    "rom": 961148,
+    "sprite_type": 52,
+    "animation": 17,
+    "x": 352,
+    "y": 832,
+    "direction": 1,
+    "portrait_or_identity": 43,
+    "skill_slots_08_0b": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "status_0c_0f": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "level": 25,
+    "experience": 0,
+    "hp": 95,
+    "stats_14_1a": [
+      49,
+      49,
+      10,
+      51,
+      2,
+      28,
+      28
+    ],
+    "movement_1b": 4,
+    "max_hp": 95,
+    "class": 12,
+    "subtype": 4,
+    "equipment_ids": [
+      31,
+      0,
+      0,
+      0
+    ],
+    "passive_item": 0,
+    "uses": [
+      99,
+      0,
+      0,
+      0
+    ],
+    "raw": "341101600340012b00000000000000001900005f31310a33021c1c040000005f030c000004001f00000000630000000000ffffffffffffffffffffffffffffff",
+    "opcode": 5,
+    "slot_search_start": 12,
+    "evidence": "script byte-pattern plus record-structure validation; unverified reachability"
+  },
+  {
+    "rom": 961228,
+    "sprite_type": 52,
+    "animation": 17,
+    "x": 384,
+    "y": 832,
+    "direction": 1,
+    "portrait_or_identity": 43,
+    "skill_slots_08_0b": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "status_0c_0f": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "level": 25,
+    "experience": 0,
+    "hp": 95,
+    "stats_14_1a": [
+      49,
+      49,
+      10,
+      51,
+      2,
+      28,
+      28
+    ],
+    "movement_1b": 4,
+    "max_hp": 95,
+    "class": 12,
+    "subtype": 4,
+    "equipment_ids": [
+      31,
+      0,
+      0,
+      0
+    ],
+    "passive_item": 0,
+    "uses": [
+      99,
+      0,
+      0,
+      0
+    ],
+    "raw": "341101800340012b00000000000000001900005f31310a33021c1c040000005f030c000004001f00000000630000000000ffffffffffffffffffffffffffffff",
+    "opcode": 5,
+    "slot_search_start": 12,
+    "evidence": "script byte-pattern plus record-structure validation; unverified reachability"
+  },
+  {
+    "rom": 961308,
+    "sprite_type": 52,
+    "animation": 17,
+    "x": 416,
+    "y": 832,
+    "direction": 1,
+    "portrait_or_identity": 43,
+    "skill_slots_08_0b": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "status_0c_0f": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "level": 25,
+    "experience": 0,
+    "hp": 95,
+    "stats_14_1a": [
+      49,
+      49,
+      10,
+      51,
+      2,
+      28,
+      28
+    ],
+    "movement_1b": 4,
+    "max_hp": 95,
+    "class": 12,
+    "subtype": 4,
+    "equipment_ids": [
+      31,
+      0,
+      0,
+      0
+    ],
+    "passive_item": 0,
+    "uses": [
+      99,
+      0,
+      0,
+      0
+    ],
+    "raw": "341101a00340012b00000000000000001900005f31310a33021c1c040000005f030c000004001f00000000630000000000ffffffffffffffffffffffffffffff",
+    "opcode": 5,
+    "slot_search_start": 12,
+    "evidence": "script byte-pattern plus record-structure validation; unverified reachability"
+  },
+  {
+    "rom": 961388,
+    "sprite_type": 52,
+    "animation": 17,
+    "x": 448,
+    "y": 832,
+    "direction": 1,
+    "portrait_or_identity": 43,
+    "skill_slots_08_0b": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "status_0c_0f": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "level": 25,
+    "experience": 0,
+    "hp": 95,
+    "stats_14_1a": [
+      49,
+      49,
+      10,
+      51,
+      2,
+      28,
+      28
+    ],
+    "movement_1b": 4,
+    "max_hp": 95,
+    "class": 12,
+    "subtype": 4,
+    "equipment_ids": [
+      31,
+      0,
+      0,
+      0
+    ],
+    "passive_item": 0,
+    "uses": [
+      99,
+      0,
+      0,
+      0
+    ],
+    "raw": "341101c00340012b00000000000000001900005f31310a33021c1c040000005f030c000004001f00000000630000000000ffffffffffffffffffffffffffffff",
+    "opcode": 5,
+    "slot_search_start": 12,
+    "evidence": "script byte-pattern plus record-structure validation; unverified reachability"
+  },
+  {
+    "rom": 963812,
+    "sprite_type": 53,
+    "animation": 17,
+    "x": 0,
+    "y": 288,
+    "direction": 1,
+    "portrait_or_identity": 23,
+    "skill_slots_08_0b": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "status_0c_0f": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "level": 31,
+    "experience": 0,
+    "hp": 136,
+    "stats_14_1a": [
+      66,
+      66,
+      16,
+      16,
+      2,
+      23,
+      36
+    ],
+    "movement_1b": 4,
+    "max_hp": 136,
+    "class": 5,
+    "subtype": 6,
+    "equipment_ids": [
+      20,
+      0,
+      0,
+      0
+    ],
+    "passive_item": 0,
+    "uses": [
+      99,
+      0,
+      0,
+      0
+    ],
+    "raw": "351100000120011700000000000000001f0000884242101002172404000000880305000006001400000000630000000000ffffffffffffffffffffffffffffff",
+    "opcode": 5,
+    "slot_search_start": 12,
+    "evidence": "script byte-pattern plus record-structure validation; unverified reachability"
+  },
+  {
+    "rom": 963886,
+    "sprite_type": 53,
+    "animation": 17,
+    "x": 32,
+    "y": 288,
+    "direction": 1,
+    "portrait_or_identity": 23,
+    "skill_slots_08_0b": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "status_0c_0f": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "level": 31,
+    "experience": 0,
+    "hp": 136,
+    "stats_14_1a": [
+      66,
+      66,
+      16,
+      16,
+      2,
+      23,
+      36
+    ],
+    "movement_1b": 4,
+    "max_hp": 136,
+    "class": 5,
+    "subtype": 6,
+    "equipment_ids": [
+      20,
+      0,
+      0,
+      0
+    ],
+    "passive_item": 0,
+    "uses": [
+      99,
+      0,
+      0,
+      0
+    ],
+    "raw": "351100200120011700000000000000001f0000884242101002172404000000880305000006001400000000630000000000ffffffffffffffffffffffffffffff",
+    "opcode": 5,
+    "slot_search_start": 12,
+    "evidence": "script byte-pattern plus record-structure validation; unverified reachability"
+  },
+  {
+    "rom": 963960,
+    "sprite_type": 53,
+    "animation": 17,
+    "x": 64,
+    "y": 288,
+    "direction": 1,
+    "portrait_or_identity": 23,
+    "skill_slots_08_0b": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "status_0c_0f": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "level": 31,
+    "experience": 0,
+    "hp": 136,
+    "stats_14_1a": [
+      66,
+      66,
+      16,
+      16,
+      2,
+      23,
+      36
+    ],
+    "movement_1b": 4,
+    "max_hp": 136,
+    "class": 5,
+    "subtype": 6,
+    "equipment_ids": [
+      20,
+      0,
+      0,
+      0
+    ],
+    "passive_item": 0,
+    "uses": [
+      99,
+      0,
+      0,
+      0
+    ],
+    "raw": "351100400120011700000000000000001f0000884242101002172404000000880305000006001400000000630000000000ffffffffffffffffffffffffffffff",
+    "opcode": 5,
+    "slot_search_start": 12,
+    "evidence": "script byte-pattern plus record-structure validation; unverified reachability"
+  },
+  {
+    "rom": 964034,
+    "sprite_type": 64,
+    "animation": 17,
+    "x": 0,
+    "y": 256,
+    "direction": 1,
+    "portrait_or_identity": 23,
+    "skill_slots_08_0b": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "status_0c_0f": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "level": 31,
+    "experience": 0,
+    "hp": 101,
+    "stats_14_1a": [
+      34,
+      34,
+      31,
+      38,
+      5,
+      18,
+      41
+    ],
+    "movement_1b": 4,
+    "max_hp": 101,
+    "class": 7,
+    "subtype": 16,
+    "equipment_ids": [
+      28,
+      0,
+      0,
+      0
+    ],
+    "passive_item": 0,
+    "uses": [
+      99,
+      0,
+      0,
+      0
+    ],
+    "raw": "401100000100011700000000000000001f00006522221f2605122904000000650307000010001c00000000630000000000ffffffffffffffffffffffffffffff",
+    "opcode": 5,
+    "slot_search_start": 12,
+    "evidence": "script byte-pattern plus record-structure validation; unverified reachability"
+  },
+  {
+    "rom": 964108,
+    "sprite_type": 64,
+    "animation": 17,
+    "x": 32,
+    "y": 256,
+    "direction": 1,
+    "portrait_or_identity": 23,
+    "skill_slots_08_0b": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "status_0c_0f": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "level": 31,
+    "experience": 0,
+    "hp": 101,
+    "stats_14_1a": [
+      34,
+      34,
+      31,
+      38,
+      5,
+      18,
+      41
+    ],
+    "movement_1b": 4,
+    "max_hp": 101,
+    "class": 7,
+    "subtype": 16,
+    "equipment_ids": [
+      28,
+      0,
+      0,
+      0
+    ],
+    "passive_item": 0,
+    "uses": [
+      99,
+      0,
+      0,
+      0
+    ],
+    "raw": "401100200100011700000000000000001f00006522221f2605122904000000650307000010001c00000000630000000000ffffffffffffffffffffffffffffff",
+    "opcode": 5,
+    "slot_search_start": 12,
+    "evidence": "script byte-pattern plus record-structure validation; unverified reachability"
+  },
+  {
+    "rom": 964182,
+    "sprite_type": 64,
+    "animation": 17,
+    "x": 64,
+    "y": 256,
+    "direction": 1,
+    "portrait_or_identity": 23,
+    "skill_slots_08_0b": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "status_0c_0f": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "level": 31,
+    "experience": 0,
+    "hp": 101,
+    "stats_14_1a": [
+      34,
+      34,
+      31,
+      38,
+      5,
+      18,
+      41
+    ],
+    "movement_1b": 4,
+    "max_hp": 101,
+    "class": 7,
+    "subtype": 16,
+    "equipment_ids": [
+      28,
+      0,
+      0,
+      0
+    ],
+    "passive_item": 0,
+    "uses": [
+      99,
+      0,
+      0,
+      0
+    ],
+    "raw": "401100400100011700000000000000001f00006522221f2605122904000000650307000010001c00000000630000000000ffffffffffffffffffffffffffffff",
+    "opcode": 5,
+    "slot_search_start": 12,
+    "evidence": "script byte-pattern plus record-structure validation; unverified reachability"
+  },
+  {
+    "rom": 964256,
+    "sprite_type": 53,
+    "animation": 17,
+    "x": 0,
+    "y": 576,
+    "direction": 1,
+    "portrait_or_identity": 23,
+    "skill_slots_08_0b": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "status_0c_0f": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "level": 31,
+    "experience": 0,
+    "hp": 136,
+    "stats_14_1a": [
+      66,
+      66,
+      16,
+      16,
+      2,
+      23,
+      36
+    ],
+    "movement_1b": 4,
+    "max_hp": 136,
+    "class": 5,
+    "subtype": 6,
+    "equipment_ids": [
+      20,
+      0,
+      0,
+      0
+    ],
+    "passive_item": 0,
+    "uses": [
+      99,
+      0,
+      0,
+      0
+    ],
+    "raw": "351100000240011700000000000000001f0000884242101002172404000000880005060f06001400000000630000000000ffffffffffffffffffffffffffffff",
+    "opcode": 5,
+    "slot_search_start": 12,
+    "evidence": "script byte-pattern plus record-structure validation; unverified reachability"
+  },
+  {
+    "rom": 964330,
+    "sprite_type": 53,
+    "animation": 17,
+    "x": 32,
+    "y": 576,
+    "direction": 1,
+    "portrait_or_identity": 23,
+    "skill_slots_08_0b": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "status_0c_0f": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "level": 31,
+    "experience": 0,
+    "hp": 136,
+    "stats_14_1a": [
+      66,
+      66,
+      16,
+      16,
+      2,
+      23,
+      36
+    ],
+    "movement_1b": 4,
+    "max_hp": 136,
+    "class": 5,
+    "subtype": 6,
+    "equipment_ids": [
+      20,
+      0,
+      0,
+      0
+    ],
+    "passive_item": 0,
+    "uses": [
+      99,
+      0,
+      0,
+      0
+    ],
+    "raw": "351100200240011700000000000000001f0000884242101002172404000000880005070f06001400000000630000000000ffffffffffffffffffffffffffffff",
+    "opcode": 5,
+    "slot_search_start": 12,
+    "evidence": "script byte-pattern plus record-structure validation; unverified reachability"
+  },
+  {
+    "rom": 964404,
+    "sprite_type": 53,
+    "animation": 17,
+    "x": 64,
+    "y": 576,
+    "direction": 1,
+    "portrait_or_identity": 23,
+    "skill_slots_08_0b": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "status_0c_0f": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "level": 31,
+    "experience": 0,
+    "hp": 136,
+    "stats_14_1a": [
+      66,
+      66,
+      16,
+      16,
+      2,
+      23,
+      36
+    ],
+    "movement_1b": 4,
+    "max_hp": 136,
+    "class": 5,
+    "subtype": 6,
+    "equipment_ids": [
+      20,
+      0,
+      0,
+      0
+    ],
+    "passive_item": 0,
+    "uses": [
+      99,
+      0,
+      0,
+      0
+    ],
+    "raw": "351100400240011700000000000000001f0000884242101002172404000000880005080f06001400000000630000000000ffffffffffffffffffffffffffffff",
+    "opcode": 5,
+    "slot_search_start": 12,
+    "evidence": "script byte-pattern plus record-structure validation; unverified reachability"
+  },
+  {
+    "rom": 964478,
+    "sprite_type": 64,
+    "animation": 17,
+    "x": 0,
+    "y": 608,
+    "direction": 1,
+    "portrait_or_identity": 23,
+    "skill_slots_08_0b": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "status_0c_0f": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "level": 31,
+    "experience": 0,
+    "hp": 101,
+    "stats_14_1a": [
+      34,
+      34,
+      31,
+      38,
+      5,
+      18,
+      41
+    ],
+    "movement_1b": 4,
+    "max_hp": 101,
+    "class": 7,
+    "subtype": 16,
+    "equipment_ids": [
+      28,
+      0,
+      0,
+      0
+    ],
+    "passive_item": 0,
+    "uses": [
+      99,
+      0,
+      0,
+      0
+    ],
+    "raw": "401100000260011700000000000000001f00006522221f2605122904000000650007090f10001c00000000630000000000ffffffffffffffffffffffffffffff",
+    "opcode": 5,
+    "slot_search_start": 12,
+    "evidence": "script byte-pattern plus record-structure validation; unverified reachability"
+  },
+  {
+    "rom": 964552,
+    "sprite_type": 64,
+    "animation": 17,
+    "x": 32,
+    "y": 608,
+    "direction": 1,
+    "portrait_or_identity": 23,
+    "skill_slots_08_0b": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "status_0c_0f": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "level": 31,
+    "experience": 0,
+    "hp": 101,
+    "stats_14_1a": [
+      34,
+      34,
+      31,
+      38,
+      5,
+      18,
+      41
+    ],
+    "movement_1b": 4,
+    "max_hp": 101,
+    "class": 7,
+    "subtype": 16,
+    "equipment_ids": [
+      28,
+      0,
+      0,
+      0
+    ],
+    "passive_item": 0,
+    "uses": [
+      99,
+      0,
+      0,
+      0
+    ],
+    "raw": "401100200260011700000000000000001f00006522221f2605122904000000650007071010001c00000000630000000000ffffffffffffffffffffffffffffff",
+    "opcode": 5,
+    "slot_search_start": 12,
+    "evidence": "script byte-pattern plus record-structure validation; unverified reachability"
+  },
+  {
+    "rom": 964626,
+    "sprite_type": 64,
+    "animation": 17,
+    "x": 64,
+    "y": 608,
+    "direction": 1,
+    "portrait_or_identity": 23,
+    "skill_slots_08_0b": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "status_0c_0f": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "level": 31,
+    "experience": 0,
+    "hp": 101,
+    "stats_14_1a": [
+      34,
+      34,
+      31,
+      38,
+      5,
+      18,
+      41
+    ],
+    "movement_1b": 4,
+    "max_hp": 101,
+    "class": 7,
+    "subtype": 16,
+    "equipment_ids": [
+      28,
+      0,
+      0,
+      0
+    ],
+    "passive_item": 0,
+    "uses": [
+      99,
+      0,
+      0,
+      0
+    ],
+    "raw": "401100400260011700000000000000001f00006522221f2605122904000000650007081010001c00000000630000000000ffffffffffffffffffffffffffffff",
+    "opcode": 5,
+    "slot_search_start": 12,
+    "evidence": "script byte-pattern plus record-structure validation; unverified reachability"
+  },
+  {
+    "rom": 964926,
+    "sprite_type": 62,
+    "animation": 17,
+    "x": 512,
+    "y": 64,
+    "direction": 1,
+    "portrait_or_identity": 23,
+    "skill_slots_08_0b": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "status_0c_0f": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "level": 26,
+    "experience": 0,
+    "hp": 86,
+    "stats_14_1a": [
+      34,
+      34,
+      27,
+      51,
+      5,
+      24,
+      15
+    ],
+    "movement_1b": 5,
+    "max_hp": 86,
+    "class": 6,
+    "subtype": 14,
+    "equipment_ids": [
+      37,
+      0,
+      0,
+      0
+    ],
+    "passive_item": 0,
+    "uses": [
+      99,
+      0,
+      0,
+      0
+    ],
+    "raw": "3e1102000040011700000000000000001a00005622221b3305180f0500000056030600000e002500000000630000000000ffffffffffffffffffffffffffffff",
+    "opcode": 5,
+    "slot_search_start": 12,
+    "evidence": "script byte-pattern plus record-structure validation; unverified reachability"
+  },
+  {
+    "rom": 965000,
+    "sprite_type": 62,
+    "animation": 17,
+    "x": 544,
+    "y": 64,
+    "direction": 1,
+    "portrait_or_identity": 23,
+    "skill_slots_08_0b": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "status_0c_0f": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "level": 26,
+    "experience": 0,
+    "hp": 86,
+    "stats_14_1a": [
+      34,
+      34,
+      27,
+      51,
+      5,
+      24,
+      15
+    ],
+    "movement_1b": 5,
+    "max_hp": 86,
+    "class": 6,
+    "subtype": 14,
+    "equipment_ids": [
+      37,
+      0,
+      0,
+      0
+    ],
+    "passive_item": 0,
+    "uses": [
+      99,
+      0,
+      0,
+      0
+    ],
+    "raw": "3e1102200040011700000000000000001a00005622221b3305180f0500000056030600000e002500000000630000000000ffffffffffffffffffffffffffffff",
+    "opcode": 5,
+    "slot_search_start": 12,
+    "evidence": "script byte-pattern plus record-structure validation; unverified reachability"
+  },
+  {
+    "rom": 965074,
+    "sprite_type": 62,
+    "animation": 17,
+    "x": 576,
+    "y": 64,
+    "direction": 1,
+    "portrait_or_identity": 23,
+    "skill_slots_08_0b": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "status_0c_0f": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "level": 26,
+    "experience": 0,
+    "hp": 86,
+    "stats_14_1a": [
+      34,
+      34,
+      27,
+      51,
+      5,
+      24,
+      15
+    ],
+    "movement_1b": 5,
+    "max_hp": 86,
+    "class": 6,
+    "subtype": 14,
+    "equipment_ids": [
+      37,
+      0,
+      0,
+      0
+    ],
+    "passive_item": 0,
+    "uses": [
+      99,
+      0,
+      0,
+      0
+    ],
+    "raw": "3e1102400040011700000000000000001a00005622221b3305180f0500000056030600000e002500000000630000000000ffffffffffffffffffffffffffffff",
+    "opcode": 5,
+    "slot_search_start": 12,
+    "evidence": "script byte-pattern plus record-structure validation; unverified reachability"
+  },
+  {
+    "rom": 965148,
+    "sprite_type": 62,
+    "animation": 17,
+    "x": 512,
+    "y": 96,
+    "direction": 1,
+    "portrait_or_identity": 23,
+    "skill_slots_08_0b": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "status_0c_0f": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "level": 26,
+    "experience": 0,
+    "hp": 86,
+    "stats_14_1a": [
+      34,
+      34,
+      27,
+      51,
+      5,
+      24,
+      15
+    ],
+    "movement_1b": 5,
+    "max_hp": 86,
+    "class": 6,
+    "subtype": 14,
+    "equipment_ids": [
+      37,
+      0,
+      0,
+      0
+    ],
+    "passive_item": 0,
+    "uses": [
+      99,
+      0,
+      0,
+      0
+    ],
+    "raw": "3e1102000060011700000000000000001a00005622221b3305180f0500000056030600000e002500000000630000000000ffffffffffffffffffffffffffffff",
+    "opcode": 5,
+    "slot_search_start": 12,
+    "evidence": "script byte-pattern plus record-structure validation; unverified reachability"
+  },
+  {
+    "rom": 965222,
+    "sprite_type": 62,
+    "animation": 17,
+    "x": 544,
+    "y": 96,
+    "direction": 1,
+    "portrait_or_identity": 23,
+    "skill_slots_08_0b": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "status_0c_0f": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "level": 26,
+    "experience": 0,
+    "hp": 86,
+    "stats_14_1a": [
+      34,
+      34,
+      27,
+      51,
+      5,
+      24,
+      15
+    ],
+    "movement_1b": 5,
+    "max_hp": 86,
+    "class": 6,
+    "subtype": 14,
+    "equipment_ids": [
+      37,
+      0,
+      0,
+      0
+    ],
+    "passive_item": 0,
+    "uses": [
+      99,
+      0,
+      0,
+      0
+    ],
+    "raw": "3e1102200060011700000000000000001a00005622221b3305180f0500000056030600000e002500000000630000000000ffffffffffffffffffffffffffffff",
+    "opcode": 5,
+    "slot_search_start": 12,
+    "evidence": "script byte-pattern plus record-structure validation; unverified reachability"
+  },
+  {
+    "rom": 965296,
+    "sprite_type": 62,
+    "animation": 17,
+    "x": 576,
+    "y": 96,
+    "direction": 1,
+    "portrait_or_identity": 23,
+    "skill_slots_08_0b": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "status_0c_0f": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "level": 26,
+    "experience": 0,
+    "hp": 86,
+    "stats_14_1a": [
+      34,
+      34,
+      27,
+      51,
+      5,
+      24,
+      15
+    ],
+    "movement_1b": 5,
+    "max_hp": 86,
+    "class": 6,
+    "subtype": 14,
+    "equipment_ids": [
+      37,
+      0,
+      0,
+      0
+    ],
+    "passive_item": 0,
+    "uses": [
+      99,
+      0,
+      0,
+      0
+    ],
+    "raw": "3e1102400060011700000000000000001a00005622221b3305180f0500000056030600000e002500000000630000000000ffffffffffffffffffffffffffffff",
+    "opcode": 5,
+    "slot_search_start": 12,
+    "evidence": "script byte-pattern plus record-structure validation; unverified reachability"
+  },
+  {
+    "rom": 965370,
+    "sprite_type": 62,
+    "animation": 17,
+    "x": 224,
+    "y": 544,
+    "direction": 1,
+    "portrait_or_identity": 23,
+    "skill_slots_08_0b": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "status_0c_0f": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "level": 26,
+    "experience": 0,
+    "hp": 86,
+    "stats_14_1a": [
+      34,
+      34,
+      27,
+      51,
+      5,
+      24,
+      15
+    ],
+    "movement_1b": 5,
+    "max_hp": 86,
+    "class": 6,
+    "subtype": 14,
+    "equipment_ids": [
+      37,
+      0,
+      0,
+      0
+    ],
+    "passive_item": 0,
+    "uses": [
+      99,
+      0,
+      0,
+      0
+    ],
+    "raw": "3e1100e00220011700000000000000001a00005622221b3305180f0500000056030600000e002500000000630000000000ffffffffffffffffffffffffffffff",
+    "opcode": 5,
+    "slot_search_start": 12,
+    "evidence": "script byte-pattern plus record-structure validation; unverified reachability"
+  },
+  {
+    "rom": 965444,
+    "sprite_type": 62,
+    "animation": 17,
+    "x": 256,
+    "y": 544,
+    "direction": 1,
+    "portrait_or_identity": 23,
+    "skill_slots_08_0b": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "status_0c_0f": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "level": 26,
+    "experience": 0,
+    "hp": 86,
+    "stats_14_1a": [
+      34,
+      34,
+      27,
+      51,
+      5,
+      24,
+      15
+    ],
+    "movement_1b": 5,
+    "max_hp": 86,
+    "class": 6,
+    "subtype": 14,
+    "equipment_ids": [
+      37,
+      0,
+      0,
+      0
+    ],
+    "passive_item": 0,
+    "uses": [
+      99,
+      0,
+      0,
+      0
+    ],
+    "raw": "3e1101000220011700000000000000001a00005622221b3305180f0500000056030600000e002500000000630000000000ffffffffffffffffffffffffffffff",
+    "opcode": 5,
+    "slot_search_start": 12,
+    "evidence": "script byte-pattern plus record-structure validation; unverified reachability"
+  },
+  {
+    "rom": 965518,
+    "sprite_type": 62,
+    "animation": 17,
+    "x": 288,
+    "y": 544,
+    "direction": 1,
+    "portrait_or_identity": 23,
+    "skill_slots_08_0b": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "status_0c_0f": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "level": 26,
+    "experience": 0,
+    "hp": 86,
+    "stats_14_1a": [
+      34,
+      34,
+      27,
+      51,
+      5,
+      24,
+      15
+    ],
+    "movement_1b": 5,
+    "max_hp": 86,
+    "class": 6,
+    "subtype": 14,
+    "equipment_ids": [
+      37,
+      0,
+      0,
+      0
+    ],
+    "passive_item": 0,
+    "uses": [
+      99,
+      0,
+      0,
+      0
+    ],
+    "raw": "3e1101200220011700000000000000001a00005622221b3305180f0500000056030600000e002500000000630000000000ffffffffffffffffffffffffffffff",
+    "opcode": 5,
+    "slot_search_start": 12,
+    "evidence": "script byte-pattern plus record-structure validation; unverified reachability"
+  },
+  {
+    "rom": 965592,
+    "sprite_type": 62,
+    "animation": 17,
+    "x": 224,
+    "y": 576,
+    "direction": 1,
+    "portrait_or_identity": 23,
+    "skill_slots_08_0b": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "status_0c_0f": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "level": 26,
+    "experience": 0,
+    "hp": 86,
+    "stats_14_1a": [
+      34,
+      34,
+      27,
+      51,
+      5,
+      24,
+      15
+    ],
+    "movement_1b": 5,
+    "max_hp": 86,
+    "class": 6,
+    "subtype": 14,
+    "equipment_ids": [
+      37,
+      0,
+      0,
+      0
+    ],
+    "passive_item": 0,
+    "uses": [
+      99,
+      0,
+      0,
+      0
+    ],
+    "raw": "3e1100e00240011700000000000000001a00005622221b3305180f0500000056030600000e002500000000630000000000ffffffffffffffffffffffffffffff",
+    "opcode": 5,
+    "slot_search_start": 12,
+    "evidence": "script byte-pattern plus record-structure validation; unverified reachability"
+  },
+  {
+    "rom": 965666,
+    "sprite_type": 62,
+    "animation": 17,
+    "x": 256,
+    "y": 576,
+    "direction": 1,
+    "portrait_or_identity": 23,
+    "skill_slots_08_0b": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "status_0c_0f": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "level": 26,
+    "experience": 0,
+    "hp": 86,
+    "stats_14_1a": [
+      34,
+      34,
+      27,
+      51,
+      5,
+      24,
+      15
+    ],
+    "movement_1b": 5,
+    "max_hp": 86,
+    "class": 6,
+    "subtype": 14,
+    "equipment_ids": [
+      37,
+      0,
+      0,
+      0
+    ],
+    "passive_item": 0,
+    "uses": [
+      99,
+      0,
+      0,
+      0
+    ],
+    "raw": "3e1101000240011700000000000000001a00005622221b3305180f0500000056030600000e002500000000630000000000ffffffffffffffffffffffffffffff",
+    "opcode": 5,
+    "slot_search_start": 12,
+    "evidence": "script byte-pattern plus record-structure validation; unverified reachability"
+  },
+  {
+    "rom": 965740,
+    "sprite_type": 62,
+    "animation": 17,
+    "x": 288,
+    "y": 576,
+    "direction": 1,
+    "portrait_or_identity": 23,
+    "skill_slots_08_0b": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "status_0c_0f": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "level": 26,
+    "experience": 0,
+    "hp": 86,
+    "stats_14_1a": [
+      34,
+      34,
+      27,
+      51,
+      5,
+      24,
+      15
+    ],
+    "movement_1b": 5,
+    "max_hp": 86,
+    "class": 6,
+    "subtype": 14,
+    "equipment_ids": [
+      37,
+      0,
+      0,
+      0
+    ],
+    "passive_item": 0,
+    "uses": [
+      99,
+      0,
+      0,
+      0
+    ],
+    "raw": "3e1101200240011700000000000000001a00005622221b3305180f0500000056030600000e002500000000630000000000ffffffffffffffffffffffffffffff",
+    "opcode": 5,
+    "slot_search_start": 12,
+    "evidence": "script byte-pattern plus record-structure validation; unverified reachability"
+  },
+  {
+    "rom": 966322,
+    "sprite_type": 51,
+    "animation": 17,
+    "x": 128,
+    "y": 256,
+    "direction": 1,
+    "portrait_or_identity": 23,
+    "skill_slots_08_0b": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "status_0c_0f": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "level": 28,
+    "experience": 0,
+    "hp": 105,
+    "stats_14_1a": [
+      43,
+      43,
+      33,
+      28,
+      6,
+      19,
+      15
+    ],
+    "movement_1b": 6,
+    "max_hp": 105,
+    "class": 0,
+    "subtype": 3,
+    "equipment_ids": [
+      6,
+      0,
+      0,
+      0
+    ],
+    "passive_item": 0,
+    "uses": [
+      99,
+      0,
+      0,
+      0
+    ],
+    "raw": "331100800100011700000000000000001c0000692b2b211c06130f06000000690300000003000600000000630000000000ffffffffffffffffffffffffffffff",
+    "opcode": 5,
+    "slot_search_start": 12,
+    "evidence": "script byte-pattern plus record-structure validation; unverified reachability"
+  },
+  {
+    "rom": 966396,
+    "sprite_type": 51,
+    "animation": 17,
+    "x": 160,
+    "y": 256,
+    "direction": 1,
+    "portrait_or_identity": 23,
+    "skill_slots_08_0b": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "status_0c_0f": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "level": 28,
+    "experience": 0,
+    "hp": 105,
+    "stats_14_1a": [
+      43,
+      43,
+      33,
+      28,
+      6,
+      19,
+      15
+    ],
+    "movement_1b": 6,
+    "max_hp": 105,
+    "class": 0,
+    "subtype": 3,
+    "equipment_ids": [
+      6,
+      0,
+      0,
+      0
+    ],
+    "passive_item": 0,
+    "uses": [
+      99,
+      0,
+      0,
+      0
+    ],
+    "raw": "331100a00100011700000000000000001c0000692b2b211c06130f06000000690300000003000600000000630000000000ffffffffffffffffffffffffffffff",
+    "opcode": 5,
+    "slot_search_start": 12,
+    "evidence": "script byte-pattern plus record-structure validation; unverified reachability"
+  },
+  {
+    "rom": 966470,
+    "sprite_type": 51,
+    "animation": 17,
+    "x": 192,
+    "y": 256,
+    "direction": 1,
+    "portrait_or_identity": 23,
+    "skill_slots_08_0b": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "status_0c_0f": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "level": 28,
+    "experience": 0,
+    "hp": 105,
+    "stats_14_1a": [
+      43,
+      43,
+      33,
+      28,
+      6,
+      19,
+      15
+    ],
+    "movement_1b": 6,
+    "max_hp": 105,
+    "class": 0,
+    "subtype": 3,
+    "equipment_ids": [
+      6,
+      0,
+      0,
+      0
+    ],
+    "passive_item": 0,
+    "uses": [
+      99,
+      0,
+      0,
+      0
+    ],
+    "raw": "331100c00100011700000000000000001c0000692b2b211c06130f06000000690300000003000600000000630000000000ffffffffffffffffffffffffffffff",
+    "opcode": 5,
+    "slot_search_start": 12,
+    "evidence": "script byte-pattern plus record-structure validation; unverified reachability"
+  },
+  {
+    "rom": 966544,
+    "sprite_type": 51,
+    "animation": 17,
+    "x": 128,
+    "y": 288,
+    "direction": 1,
+    "portrait_or_identity": 23,
+    "skill_slots_08_0b": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "status_0c_0f": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "level": 28,
+    "experience": 0,
+    "hp": 105,
+    "stats_14_1a": [
+      43,
+      43,
+      33,
+      28,
+      6,
+      19,
+      15
+    ],
+    "movement_1b": 6,
+    "max_hp": 105,
+    "class": 0,
+    "subtype": 3,
+    "equipment_ids": [
+      6,
+      0,
+      0,
+      0
+    ],
+    "passive_item": 0,
+    "uses": [
+      99,
+      0,
+      0,
+      0
+    ],
+    "raw": "331100800120011700000000000000001c0000692b2b211c06130f06000000690300000003000600000000630000000000ffffffffffffffffffffffffffffff",
+    "opcode": 5,
+    "slot_search_start": 12,
+    "evidence": "script byte-pattern plus record-structure validation; unverified reachability"
+  },
+  {
+    "rom": 966618,
+    "sprite_type": 51,
+    "animation": 17,
+    "x": 160,
+    "y": 288,
+    "direction": 1,
+    "portrait_or_identity": 23,
+    "skill_slots_08_0b": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "status_0c_0f": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "level": 28,
+    "experience": 0,
+    "hp": 105,
+    "stats_14_1a": [
+      43,
+      43,
+      33,
+      28,
+      6,
+      19,
+      15
+    ],
+    "movement_1b": 6,
+    "max_hp": 105,
+    "class": 0,
+    "subtype": 3,
+    "equipment_ids": [
+      6,
+      0,
+      0,
+      0
+    ],
+    "passive_item": 0,
+    "uses": [
+      99,
+      0,
+      0,
+      0
+    ],
+    "raw": "331100a00120011700000000000000001c0000692b2b211c06130f06000000690300000003000600000000630000000000ffffffffffffffffffffffffffffff",
+    "opcode": 5,
+    "slot_search_start": 12,
+    "evidence": "script byte-pattern plus record-structure validation; unverified reachability"
+  },
+  {
+    "rom": 966692,
+    "sprite_type": 51,
+    "animation": 17,
+    "x": 192,
+    "y": 288,
+    "direction": 1,
+    "portrait_or_identity": 23,
+    "skill_slots_08_0b": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "status_0c_0f": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "level": 28,
+    "experience": 0,
+    "hp": 105,
+    "stats_14_1a": [
+      43,
+      43,
+      33,
+      28,
+      6,
+      19,
+      15
+    ],
+    "movement_1b": 6,
+    "max_hp": 105,
+    "class": 0,
+    "subtype": 3,
+    "equipment_ids": [
+      6,
+      0,
+      0,
+      0
+    ],
+    "passive_item": 0,
+    "uses": [
+      99,
+      0,
+      0,
+      0
+    ],
+    "raw": "331100c00120011700000000000000001c0000692b2b211c06130f06000000690300000003000600000000630000000000ffffffffffffffffffffffffffffff",
+    "opcode": 5,
+    "slot_search_start": 12,
+    "evidence": "script byte-pattern plus record-structure validation; unverified reachability"
+  },
+  {
+    "rom": 966766,
+    "sprite_type": 51,
+    "animation": 17,
+    "x": 128,
+    "y": 320,
+    "direction": 1,
+    "portrait_or_identity": 23,
+    "skill_slots_08_0b": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "status_0c_0f": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "level": 28,
+    "experience": 0,
+    "hp": 105,
+    "stats_14_1a": [
+      43,
+      43,
+      33,
+      28,
+      6,
+      19,
+      15
+    ],
+    "movement_1b": 6,
+    "max_hp": 105,
+    "class": 0,
+    "subtype": 3,
+    "equipment_ids": [
+      6,
+      0,
+      0,
+      0
+    ],
+    "passive_item": 0,
+    "uses": [
+      99,
+      0,
+      0,
+      0
+    ],
+    "raw": "331100800140011700000000000000001c0000692b2b211c06130f06000000690300000003000600000000630000000000ffffffffffffffffffffffffffffff",
+    "opcode": 5,
+    "slot_search_start": 12,
+    "evidence": "script byte-pattern plus record-structure validation; unverified reachability"
+  },
+  {
+    "rom": 966840,
+    "sprite_type": 51,
+    "animation": 17,
+    "x": 160,
+    "y": 320,
+    "direction": 1,
+    "portrait_or_identity": 23,
+    "skill_slots_08_0b": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "status_0c_0f": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "level": 28,
+    "experience": 0,
+    "hp": 105,
+    "stats_14_1a": [
+      43,
+      43,
+      33,
+      28,
+      6,
+      19,
+      15
+    ],
+    "movement_1b": 6,
+    "max_hp": 105,
+    "class": 0,
+    "subtype": 3,
+    "equipment_ids": [
+      6,
+      0,
+      0,
+      0
+    ],
+    "passive_item": 0,
+    "uses": [
+      99,
+      0,
+      0,
+      0
+    ],
+    "raw": "331100a00140011700000000000000001c0000692b2b211c06130f06000000690300000003000600000000630000000000ffffffffffffffffffffffffffffff",
+    "opcode": 5,
+    "slot_search_start": 12,
+    "evidence": "script byte-pattern plus record-structure validation; unverified reachability"
+  },
+  {
+    "rom": 966914,
+    "sprite_type": 51,
+    "animation": 17,
+    "x": 192,
+    "y": 320,
+    "direction": 1,
+    "portrait_or_identity": 23,
+    "skill_slots_08_0b": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "status_0c_0f": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "level": 28,
+    "experience": 0,
+    "hp": 105,
+    "stats_14_1a": [
+      43,
+      43,
+      33,
+      28,
+      6,
+      19,
+      15
+    ],
+    "movement_1b": 6,
+    "max_hp": 105,
+    "class": 0,
+    "subtype": 3,
+    "equipment_ids": [
+      6,
+      0,
+      0,
+      0
+    ],
+    "passive_item": 0,
+    "uses": [
+      99,
+      0,
+      0,
+      0
+    ],
+    "raw": "331100c00140011700000000000000001c0000692b2b211c06130f06000000690300000003000600000000630000000000ffffffffffffffffffffffffffffff",
+    "opcode": 5,
+    "slot_search_start": 12,
+    "evidence": "script byte-pattern plus record-structure validation; unverified reachability"
+  },
+  {
+    "rom": 967730,
+    "sprite_type": 67,
+    "animation": 17,
+    "x": 64,
+    "y": 384,
+    "direction": 1,
+    "portrait_or_identity": 23,
+    "skill_slots_08_0b": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "status_0c_0f": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "level": 30,
+    "experience": 0,
+    "hp": 92,
+    "stats_14_1a": [
+      43,
+      43,
+      25,
+      43,
+      2,
+      30,
+      25
+    ],
+    "movement_1b": 5,
+    "max_hp": 92,
+    "class": 14,
+    "subtype": 19,
+    "equipment_ids": [
+      72,
+      0,
+      0,
+      0
+    ],
+    "passive_item": 0,
+    "uses": [
+      99,
+      0,
+      0,
+      0
+    ],
+    "raw": "431100400180011700000000000000001e00005c2b2b192b021e19050000005c030e000013004800000000630000000000ffffffffffffffffffffffffffffff",
+    "opcode": 5,
+    "slot_search_start": 12,
+    "evidence": "script byte-pattern plus record-structure validation; unverified reachability"
+  },
+  {
+    "rom": 967804,
+    "sprite_type": 67,
+    "animation": 17,
+    "x": 32,
+    "y": 384,
+    "direction": 1,
+    "portrait_or_identity": 23,
+    "skill_slots_08_0b": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "status_0c_0f": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "level": 30,
+    "experience": 0,
+    "hp": 92,
+    "stats_14_1a": [
+      43,
+      43,
+      25,
+      43,
+      2,
+      30,
+      25
+    ],
+    "movement_1b": 5,
+    "max_hp": 92,
+    "class": 14,
+    "subtype": 19,
+    "equipment_ids": [
+      72,
+      0,
+      0,
+      0
+    ],
+    "passive_item": 0,
+    "uses": [
+      99,
+      0,
+      0,
+      0
+    ],
+    "raw": "431100200180011700000000000000001e00005c2b2b192b021e19050000005c030e000013004800000000630000000000ffffffffffffffffffffffffffffff",
+    "opcode": 5,
+    "slot_search_start": 12,
+    "evidence": "script byte-pattern plus record-structure validation; unverified reachability"
+  },
+  {
+    "rom": 967878,
+    "sprite_type": 67,
+    "animation": 17,
+    "x": 0,
+    "y": 384,
+    "direction": 1,
+    "portrait_or_identity": 23,
+    "skill_slots_08_0b": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "status_0c_0f": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "level": 30,
+    "experience": 0,
+    "hp": 92,
+    "stats_14_1a": [
+      43,
+      43,
+      25,
+      43,
+      2,
+      30,
+      25
+    ],
+    "movement_1b": 5,
+    "max_hp": 92,
+    "class": 14,
+    "subtype": 19,
+    "equipment_ids": [
+      72,
+      0,
+      0,
+      0
+    ],
+    "passive_item": 0,
+    "uses": [
+      99,
+      0,
+      0,
+      0
+    ],
+    "raw": "431100000180011700000000000000001e00005c2b2b192b021e19050000005c030e000013004800000000630000000000ffffffffffffffffffffffffffffff",
+    "opcode": 5,
+    "slot_search_start": 12,
+    "evidence": "script byte-pattern plus record-structure validation; unverified reachability"
+  },
+  {
+    "rom": 967952,
+    "sprite_type": 67,
+    "animation": 17,
+    "x": 64,
+    "y": 416,
+    "direction": 1,
+    "portrait_or_identity": 23,
+    "skill_slots_08_0b": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "status_0c_0f": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "level": 30,
+    "experience": 0,
+    "hp": 92,
+    "stats_14_1a": [
+      43,
+      43,
+      25,
+      43,
+      2,
+      30,
+      25
+    ],
+    "movement_1b": 5,
+    "max_hp": 92,
+    "class": 14,
+    "subtype": 19,
+    "equipment_ids": [
+      72,
+      0,
+      0,
+      0
+    ],
+    "passive_item": 0,
+    "uses": [
+      99,
+      0,
+      0,
+      0
+    ],
+    "raw": "4311004001a0011700000000000000001e00005c2b2b192b021e19050000005c030e000013004800000000630000000000ffffffffffffffffffffffffffffff",
+    "opcode": 5,
+    "slot_search_start": 12,
+    "evidence": "script byte-pattern plus record-structure validation; unverified reachability"
+  },
+  {
+    "rom": 968026,
+    "sprite_type": 67,
+    "animation": 17,
+    "x": 32,
+    "y": 416,
+    "direction": 1,
+    "portrait_or_identity": 23,
+    "skill_slots_08_0b": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "status_0c_0f": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "level": 30,
+    "experience": 0,
+    "hp": 92,
+    "stats_14_1a": [
+      43,
+      43,
+      25,
+      43,
+      2,
+      30,
+      25
+    ],
+    "movement_1b": 5,
+    "max_hp": 92,
+    "class": 14,
+    "subtype": 19,
+    "equipment_ids": [
+      72,
+      0,
+      0,
+      0
+    ],
+    "passive_item": 0,
+    "uses": [
+      99,
+      0,
+      0,
+      0
+    ],
+    "raw": "4311002001a0011700000000000000001e00005c2b2b192b021e19050000005c030e000013004800000000630000000000ffffffffffffffffffffffffffffff",
+    "opcode": 5,
+    "slot_search_start": 12,
+    "evidence": "script byte-pattern plus record-structure validation; unverified reachability"
+  },
+  {
+    "rom": 968100,
+    "sprite_type": 67,
+    "animation": 17,
+    "x": 0,
+    "y": 416,
+    "direction": 1,
+    "portrait_or_identity": 23,
+    "skill_slots_08_0b": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "status_0c_0f": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "level": 30,
+    "experience": 0,
+    "hp": 92,
+    "stats_14_1a": [
+      43,
+      43,
+      25,
+      43,
+      2,
+      30,
+      25
+    ],
+    "movement_1b": 5,
+    "max_hp": 92,
+    "class": 14,
+    "subtype": 19,
+    "equipment_ids": [
+      72,
+      0,
+      0,
+      0
+    ],
+    "passive_item": 0,
+    "uses": [
+      99,
+      0,
+      0,
+      0
+    ],
+    "raw": "4311000001a0011700000000000000001e00005c2b2b192b021e19050000005c030e000013004800000000630000000000ffffffffffffffffffffffffffffff",
+    "opcode": 5,
+    "slot_search_start": 12,
+    "evidence": "script byte-pattern plus record-structure validation; unverified reachability"
+  },
+  {
+    "rom": 968174,
+    "sprite_type": 67,
+    "animation": 17,
+    "x": 576,
+    "y": 736,
+    "direction": 1,
+    "portrait_or_identity": 23,
+    "skill_slots_08_0b": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "status_0c_0f": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "level": 30,
+    "experience": 0,
+    "hp": 92,
+    "stats_14_1a": [
+      43,
+      43,
+      25,
+      43,
+      2,
+      30,
+      25
+    ],
+    "movement_1b": 5,
+    "max_hp": 92,
+    "class": 14,
+    "subtype": 19,
+    "equipment_ids": [
+      72,
+      0,
+      0,
+      0
+    ],
+    "passive_item": 0,
+    "uses": [
+      99,
+      0,
+      0,
+      0
+    ],
+    "raw": "4311024002e0011700000000000000001e00005c2b2b192b021e19050000005c020e121713004800000000630000000000ffffffffffffffffffffffffffffff",
+    "opcode": 5,
+    "slot_search_start": 12,
+    "evidence": "script byte-pattern plus record-structure validation; unverified reachability"
+  },
+  {
+    "rom": 968248,
+    "sprite_type": 67,
+    "animation": 17,
+    "x": 608,
+    "y": 736,
+    "direction": 1,
+    "portrait_or_identity": 23,
+    "skill_slots_08_0b": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "status_0c_0f": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "level": 30,
+    "experience": 0,
+    "hp": 92,
+    "stats_14_1a": [
+      43,
+      43,
+      25,
+      43,
+      2,
+      30,
+      25
+    ],
+    "movement_1b": 5,
+    "max_hp": 92,
+    "class": 14,
+    "subtype": 19,
+    "equipment_ids": [
+      72,
+      0,
+      0,
+      0
+    ],
+    "passive_item": 0,
+    "uses": [
+      99,
+      0,
+      0,
+      0
+    ],
+    "raw": "4311026002e0011700000000000000001e00005c2b2b192b021e19050000005c020e131713004800000000630000000000ffffffffffffffffffffffffffffff",
+    "opcode": 5,
+    "slot_search_start": 12,
+    "evidence": "script byte-pattern plus record-structure validation; unverified reachability"
+  },
+  {
+    "rom": 968322,
+    "sprite_type": 67,
+    "animation": 17,
+    "x": 640,
+    "y": 736,
+    "direction": 1,
+    "portrait_or_identity": 23,
+    "skill_slots_08_0b": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "status_0c_0f": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "level": 30,
+    "experience": 0,
+    "hp": 92,
+    "stats_14_1a": [
+      43,
+      43,
+      25,
+      43,
+      2,
+      30,
+      25
+    ],
+    "movement_1b": 5,
+    "max_hp": 92,
+    "class": 14,
+    "subtype": 19,
+    "equipment_ids": [
+      72,
+      0,
+      0,
+      0
+    ],
+    "passive_item": 0,
+    "uses": [
+      99,
+      0,
+      0,
+      0
+    ],
+    "raw": "4311028002e0011700000000000000001e00005c2b2b192b021e19050000005c020e141713004800000000630000000000ffffffffffffffffffffffffffffff",
+    "opcode": 5,
+    "slot_search_start": 12,
+    "evidence": "script byte-pattern plus record-structure validation; unverified reachability"
+  },
+  {
+    "rom": 968396,
+    "sprite_type": 67,
+    "animation": 17,
+    "x": 576,
+    "y": 768,
+    "direction": 1,
+    "portrait_or_identity": 23,
+    "skill_slots_08_0b": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "status_0c_0f": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "level": 30,
+    "experience": 0,
+    "hp": 92,
+    "stats_14_1a": [
+      43,
+      43,
+      25,
+      43,
+      2,
+      30,
+      25
+    ],
+    "movement_1b": 5,
+    "max_hp": 92,
+    "class": 14,
+    "subtype": 19,
+    "equipment_ids": [
+      72,
+      0,
+      0,
+      0
+    ],
+    "passive_item": 0,
+    "uses": [
+      99,
+      0,
+      0,
+      0
+    ],
+    "raw": "431102400300011700000000000000001e00005c2b2b192b021e19050000005c020e121813004800000000630000000000ffffffffffffffffffffffffffffff",
+    "opcode": 5,
+    "slot_search_start": 12,
+    "evidence": "script byte-pattern plus record-structure validation; unverified reachability"
+  },
+  {
+    "rom": 968470,
+    "sprite_type": 67,
+    "animation": 17,
+    "x": 608,
+    "y": 768,
+    "direction": 1,
+    "portrait_or_identity": 23,
+    "skill_slots_08_0b": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "status_0c_0f": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "level": 30,
+    "experience": 0,
+    "hp": 92,
+    "stats_14_1a": [
+      43,
+      43,
+      25,
+      43,
+      2,
+      30,
+      25
+    ],
+    "movement_1b": 5,
+    "max_hp": 92,
+    "class": 14,
+    "subtype": 19,
+    "equipment_ids": [
+      72,
+      0,
+      0,
+      0
+    ],
+    "passive_item": 0,
+    "uses": [
+      99,
+      0,
+      0,
+      0
+    ],
+    "raw": "431102600300011700000000000000001e00005c2b2b192b021e19050000005c020e131813004800000000630000000000ffffffffffffffffffffffffffffff",
+    "opcode": 5,
+    "slot_search_start": 12,
+    "evidence": "script byte-pattern plus record-structure validation; unverified reachability"
+  },
+  {
+    "rom": 968544,
+    "sprite_type": 67,
+    "animation": 17,
+    "x": 640,
+    "y": 768,
+    "direction": 1,
+    "portrait_or_identity": 23,
+    "skill_slots_08_0b": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "status_0c_0f": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "level": 30,
+    "experience": 0,
+    "hp": 92,
+    "stats_14_1a": [
+      43,
+      43,
+      25,
+      43,
+      2,
+      30,
+      25
+    ],
+    "movement_1b": 5,
+    "max_hp": 92,
+    "class": 14,
+    "subtype": 19,
+    "equipment_ids": [
+      72,
+      0,
+      0,
+      0
+    ],
+    "passive_item": 0,
+    "uses": [
+      99,
+      0,
+      0,
+      0
+    ],
+    "raw": "431102800300011700000000000000001e00005c2b2b192b021e19050000005c020e141813004800000000630000000000ffffffffffffffffffffffffffffff",
+    "opcode": 5,
+    "slot_search_start": 12,
+    "evidence": "script byte-pattern plus record-structure validation; unverified reachability"
+  },
+  {
+    "rom": 970012,
+    "sprite_type": 57,
+    "animation": 17,
+    "x": 0,
+    "y": 384,
+    "direction": 1,
+    "portrait_or_identity": 23,
+    "skill_slots_08_0b": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "status_0c_0f": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "level": 36,
+    "experience": 0,
+    "hp": 94,
+    "stats_14_1a": [
+      58,
+      58,
+      45,
+      35,
+      3,
+      17,
+      13
+    ],
+    "movement_1b": 3,
+    "max_hp": 94,
+    "class": 8,
+    "subtype": 9,
+    "equipment_ids": [
+      36,
+      0,
+      0,
+      0
+    ],
+    "passive_item": 0,
+    "uses": [
+      99,
+      0,
+      0,
+      0
+    ],
+    "raw": "391100000180011700000000000000002400005e3a3a2d2303110d030000005e0308000009002400000000630000000000ffffffffffffffffffffffffffffff",
+    "opcode": 5,
+    "slot_search_start": 12,
+    "evidence": "script byte-pattern plus record-structure validation; unverified reachability"
+  },
+  {
+    "rom": 970088,
+    "sprite_type": 51,
+    "animation": 17,
+    "x": 0,
+    "y": 32,
+    "direction": 1,
+    "portrait_or_identity": 23,
+    "skill_slots_08_0b": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "status_0c_0f": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "level": 36,
+    "experience": 0,
+    "hp": 127,
+    "stats_14_1a": [
+      52,
+      52,
+      40,
+      34,
+      7,
+      21,
+      15
+    ],
+    "movement_1b": 6,
+    "max_hp": 127,
+    "class": 0,
+    "subtype": 3,
+    "equipment_ids": [
+      5,
+      0,
+      0,
+      0
+    ],
+    "passive_item": 0,
+    "uses": [
+      99,
+      0,
+      0,
+      0
+    ],
+    "raw": "331100000020011700000000000000002400007f3434282207150f060000007f0300000003000500000000630000000000ffffffffffffffffffffffffffffff",
+    "opcode": 5,
+    "slot_search_start": 12,
+    "evidence": "script byte-pattern plus record-structure validation; unverified reachability"
+  },
+  {
+    "rom": 970164,
+    "sprite_type": 54,
+    "animation": 17,
+    "x": 0,
+    "y": 256,
+    "direction": 1,
+    "portrait_or_identity": 23,
+    "skill_slots_08_0b": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "status_0c_0f": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "level": 36,
+    "experience": 0,
+    "hp": 153,
+    "stats_14_1a": [
+      74,
+      74,
+      18,
+      18,
+      2,
+      24,
+      37
+    ],
+    "movement_1b": 4,
+    "max_hp": 153,
+    "class": 5,
+    "subtype": 6,
+    "equipment_ids": [
+      14,
+      0,
+      0,
+      0
+    ],
+    "passive_item": 0,
+    "uses": [
+      99,
+      0,
+      0,
+      0
+    ],
+    "raw": "36110000010001170000000000000000240000994a4a121202182504000000990305000006000e00000000630000000000ffffffffffffffffffffffffffffff",
+    "opcode": 5,
+    "slot_search_start": 12,
+    "evidence": "script byte-pattern plus record-structure validation; unverified reachability"
+  },
+  {
+    "rom": 970240,
+    "sprite_type": 57,
+    "animation": 17,
+    "x": 0,
+    "y": 416,
+    "direction": 1,
+    "portrait_or_identity": 23,
+    "skill_slots_08_0b": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "status_0c_0f": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "level": 36,
+    "experience": 0,
+    "hp": 94,
+    "stats_14_1a": [
+      58,
+      58,
+      45,
+      35,
+      3,
+      17,
+      13
+    ],
+    "movement_1b": 3,
+    "max_hp": 94,
+    "class": 8,
+    "subtype": 9,
+    "equipment_ids": [
+      36,
+      0,
+      0,
+      0
+    ],
+    "passive_item": 0,
+    "uses": [
+      99,
+      0,
+      0,
+      0
+    ],
+    "raw": "3911000001a0011700000000000000002400005e3a3a2d2303110d030000005e0308000009002400000000630000000000ffffffffffffffffffffffffffffff",
+    "opcode": 5,
+    "slot_search_start": 12,
+    "evidence": "script byte-pattern plus record-structure validation; unverified reachability"
+  },
+  {
+    "rom": 970316,
+    "sprite_type": 51,
+    "animation": 17,
+    "x": 0,
+    "y": 64,
+    "direction": 1,
+    "portrait_or_identity": 23,
+    "skill_slots_08_0b": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "status_0c_0f": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "level": 36,
+    "experience": 0,
+    "hp": 127,
+    "stats_14_1a": [
+      52,
+      52,
+      40,
+      34,
+      7,
+      21,
+      15
+    ],
+    "movement_1b": 6,
+    "max_hp": 127,
+    "class": 0,
+    "subtype": 3,
+    "equipment_ids": [
+      5,
+      0,
+      0,
+      0
+    ],
+    "passive_item": 0,
+    "uses": [
+      99,
+      0,
+      0,
+      0
+    ],
+    "raw": "331100000040011700000000000000002400007f3434282207150f060000007f0300000003000500000000630000000000ffffffffffffffffffffffffffffff",
+    "opcode": 5,
+    "slot_search_start": 12,
+    "evidence": "script byte-pattern plus record-structure validation; unverified reachability"
+  },
+  {
+    "rom": 970392,
+    "sprite_type": 54,
+    "animation": 17,
+    "x": 0,
+    "y": 288,
+    "direction": 1,
+    "portrait_or_identity": 23,
+    "skill_slots_08_0b": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "status_0c_0f": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "level": 36,
+    "experience": 0,
+    "hp": 153,
+    "stats_14_1a": [
+      74,
+      74,
+      18,
+      18,
+      2,
+      24,
+      37
+    ],
+    "movement_1b": 4,
+    "max_hp": 153,
+    "class": 5,
+    "subtype": 6,
+    "equipment_ids": [
+      14,
+      0,
+      0,
+      0
+    ],
+    "passive_item": 0,
+    "uses": [
+      99,
+      0,
+      0,
+      0
+    ],
+    "raw": "36110000012001170000000000000000240000994a4a121202182504000000990305000006000e00000000630000000000ffffffffffffffffffffffffffffff",
+    "opcode": 5,
+    "slot_search_start": 12,
+    "evidence": "script byte-pattern plus record-structure validation; unverified reachability"
+  },
+  {
+    "rom": 970652,
+    "sprite_type": 51,
+    "animation": 17,
+    "x": 544,
+    "y": 64,
+    "direction": 1,
+    "portrait_or_identity": 23,
+    "skill_slots_08_0b": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "status_0c_0f": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "level": 32,
+    "experience": 0,
+    "hp": 116,
+    "stats_14_1a": [
+      48,
+      48,
+      36,
+      31,
+      6,
+      20,
+      15
+    ],
+    "movement_1b": 6,
+    "max_hp": 116,
+    "class": 0,
+    "subtype": 3,
+    "equipment_ids": [
+      8,
+      0,
+      0,
+      0
+    ],
+    "passive_item": 0,
+    "uses": [
+      99,
+      0,
+      0,
+      0
+    ],
+    "raw": "33110220004001170000000000000000200000743030241f06140f06000000740300000003000800000000630000000000ffffffffffffffffffffffffffffff",
+    "opcode": 5,
+    "slot_search_start": 12,
+    "evidence": "script byte-pattern plus record-structure validation; unverified reachability"
+  },
+  {
+    "rom": 970726,
+    "sprite_type": 51,
+    "animation": 17,
+    "x": 576,
+    "y": 64,
+    "direction": 1,
+    "portrait_or_identity": 23,
+    "skill_slots_08_0b": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "status_0c_0f": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "level": 32,
+    "experience": 0,
+    "hp": 116,
+    "stats_14_1a": [
+      48,
+      48,
+      36,
+      31,
+      6,
+      20,
+      15
+    ],
+    "movement_1b": 6,
+    "max_hp": 116,
+    "class": 0,
+    "subtype": 3,
+    "equipment_ids": [
+      8,
+      0,
+      0,
+      0
+    ],
+    "passive_item": 0,
+    "uses": [
+      99,
+      0,
+      0,
+      0
+    ],
+    "raw": "33110240004001170000000000000000200000743030241f06140f06000000740300000003000800000000630000000000ffffffffffffffffffffffffffffff",
+    "opcode": 5,
+    "slot_search_start": 12,
+    "evidence": "script byte-pattern plus record-structure validation; unverified reachability"
+  },
+  {
+    "rom": 970800,
+    "sprite_type": 51,
+    "animation": 17,
+    "x": 608,
+    "y": 64,
+    "direction": 1,
+    "portrait_or_identity": 23,
+    "skill_slots_08_0b": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "status_0c_0f": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "level": 32,
+    "experience": 0,
+    "hp": 116,
+    "stats_14_1a": [
+      48,
+      48,
+      36,
+      31,
+      6,
+      20,
+      15
+    ],
+    "movement_1b": 6,
+    "max_hp": 116,
+    "class": 0,
+    "subtype": 3,
+    "equipment_ids": [
+      8,
+      0,
+      0,
+      0
+    ],
+    "passive_item": 0,
+    "uses": [
+      99,
+      0,
+      0,
+      0
+    ],
+    "raw": "33110260004001170000000000000000200000743030241f06140f06000000740300000003000800000000630000000000ffffffffffffffffffffffffffffff",
+    "opcode": 5,
+    "slot_search_start": 12,
+    "evidence": "script byte-pattern plus record-structure validation; unverified reachability"
+  },
+  {
+    "rom": 970874,
+    "sprite_type": 51,
+    "animation": 17,
+    "x": 544,
+    "y": 96,
+    "direction": 1,
+    "portrait_or_identity": 23,
+    "skill_slots_08_0b": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "status_0c_0f": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "level": 32,
+    "experience": 0,
+    "hp": 116,
+    "stats_14_1a": [
+      48,
+      48,
+      36,
+      31,
+      6,
+      20,
+      15
+    ],
+    "movement_1b": 6,
+    "max_hp": 116,
+    "class": 0,
+    "subtype": 3,
+    "equipment_ids": [
+      8,
+      0,
+      0,
+      0
+    ],
+    "passive_item": 0,
+    "uses": [
+      99,
+      0,
+      0,
+      0
+    ],
+    "raw": "33110220006001170000000000000000200000743030241f06140f06000000740300000003000800000000630000000000ffffffffffffffffffffffffffffff",
+    "opcode": 5,
+    "slot_search_start": 12,
+    "evidence": "script byte-pattern plus record-structure validation; unverified reachability"
+  },
+  {
+    "rom": 970948,
+    "sprite_type": 51,
+    "animation": 17,
+    "x": 576,
+    "y": 96,
+    "direction": 1,
+    "portrait_or_identity": 23,
+    "skill_slots_08_0b": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "status_0c_0f": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "level": 32,
+    "experience": 0,
+    "hp": 116,
+    "stats_14_1a": [
+      48,
+      48,
+      36,
+      31,
+      6,
+      20,
+      15
+    ],
+    "movement_1b": 6,
+    "max_hp": 116,
+    "class": 0,
+    "subtype": 3,
+    "equipment_ids": [
+      8,
+      0,
+      0,
+      0
+    ],
+    "passive_item": 0,
+    "uses": [
+      99,
+      0,
+      0,
+      0
+    ],
+    "raw": "33110240006001170000000000000000200000743030241f06140f06000000740300000003000800000000630000000000ffffffffffffffffffffffffffffff",
+    "opcode": 5,
+    "slot_search_start": 12,
+    "evidence": "script byte-pattern plus record-structure validation; unverified reachability"
+  },
+  {
+    "rom": 971022,
+    "sprite_type": 51,
+    "animation": 17,
+    "x": 608,
+    "y": 96,
+    "direction": 1,
+    "portrait_or_identity": 23,
+    "skill_slots_08_0b": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "status_0c_0f": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "level": 32,
+    "experience": 0,
+    "hp": 116,
+    "stats_14_1a": [
+      48,
+      48,
+      36,
+      31,
+      6,
+      20,
+      15
+    ],
+    "movement_1b": 6,
+    "max_hp": 116,
+    "class": 0,
+    "subtype": 3,
+    "equipment_ids": [
+      8,
+      0,
+      0,
+      0
+    ],
+    "passive_item": 0,
+    "uses": [
+      99,
+      0,
+      0,
+      0
+    ],
+    "raw": "33110260006001170000000000000000200000743030241f06140f06000000740300000003000800000000630000000000ffffffffffffffffffffffffffffff",
+    "opcode": 5,
+    "slot_search_start": 12,
+    "evidence": "script byte-pattern plus record-structure validation; unverified reachability"
+  },
+  {
+    "rom": 971096,
+    "sprite_type": 51,
+    "animation": 17,
+    "x": 160,
+    "y": 480,
+    "direction": 1,
+    "portrait_or_identity": 23,
+    "skill_slots_08_0b": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "status_0c_0f": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "level": 32,
+    "experience": 0,
+    "hp": 116,
+    "stats_14_1a": [
+      48,
+      48,
+      36,
+      31,
+      6,
+      20,
+      15
+    ],
+    "movement_1b": 6,
+    "max_hp": 116,
+    "class": 0,
+    "subtype": 3,
+    "equipment_ids": [
+      8,
+      0,
+      0,
+      0
+    ],
+    "passive_item": 0,
+    "uses": [
+      99,
+      0,
+      0,
+      0
+    ],
+    "raw": "331100a001e001170000000000000000200000743030241f06140f06000000740300000003000800000000630000000000ffffffffffffffffffffffffffffff",
+    "opcode": 5,
+    "slot_search_start": 12,
+    "evidence": "script byte-pattern plus record-structure validation; unverified reachability"
+  },
+  {
+    "rom": 971170,
+    "sprite_type": 51,
+    "animation": 17,
+    "x": 192,
+    "y": 480,
+    "direction": 1,
+    "portrait_or_identity": 23,
+    "skill_slots_08_0b": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "status_0c_0f": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "level": 32,
+    "experience": 0,
+    "hp": 116,
+    "stats_14_1a": [
+      48,
+      48,
+      36,
+      31,
+      6,
+      20,
+      15
+    ],
+    "movement_1b": 6,
+    "max_hp": 116,
+    "class": 0,
+    "subtype": 3,
+    "equipment_ids": [
+      8,
+      0,
+      0,
+      0
+    ],
+    "passive_item": 0,
+    "uses": [
+      99,
+      0,
+      0,
+      0
+    ],
+    "raw": "331100c001e001170000000000000000200000743030241f06140f06000000740300000003000800000000630000000000ffffffffffffffffffffffffffffff",
+    "opcode": 5,
+    "slot_search_start": 12,
+    "evidence": "script byte-pattern plus record-structure validation; unverified reachability"
+  },
+  {
+    "rom": 971244,
+    "sprite_type": 51,
+    "animation": 17,
+    "x": 224,
+    "y": 480,
+    "direction": 1,
+    "portrait_or_identity": 23,
+    "skill_slots_08_0b": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "status_0c_0f": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "level": 32,
+    "experience": 0,
+    "hp": 116,
+    "stats_14_1a": [
+      48,
+      48,
+      36,
+      31,
+      6,
+      20,
+      15
+    ],
+    "movement_1b": 6,
+    "max_hp": 116,
+    "class": 0,
+    "subtype": 3,
+    "equipment_ids": [
+      8,
+      0,
+      0,
+      0
+    ],
+    "passive_item": 0,
+    "uses": [
+      99,
+      0,
+      0,
+      0
+    ],
+    "raw": "331100e001e001170000000000000000200000743030241f06140f06000000740300000003000800000000630000000000ffffffffffffffffffffffffffffff",
+    "opcode": 5,
+    "slot_search_start": 12,
+    "evidence": "script byte-pattern plus record-structure validation; unverified reachability"
+  },
+  {
+    "rom": 971318,
+    "sprite_type": 51,
+    "animation": 17,
+    "x": 160,
+    "y": 512,
+    "direction": 1,
+    "portrait_or_identity": 23,
+    "skill_slots_08_0b": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "status_0c_0f": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "level": 32,
+    "experience": 0,
+    "hp": 116,
+    "stats_14_1a": [
+      48,
+      48,
+      36,
+      31,
+      6,
+      20,
+      15
+    ],
+    "movement_1b": 6,
+    "max_hp": 116,
+    "class": 0,
+    "subtype": 3,
+    "equipment_ids": [
+      8,
+      0,
+      0,
+      0
+    ],
+    "passive_item": 0,
+    "uses": [
+      99,
+      0,
+      0,
+      0
+    ],
+    "raw": "331100a0020001170000000000000000200000743030241f06140f06000000740300000003000800000000630000000000ffffffffffffffffffffffffffffff",
+    "opcode": 5,
+    "slot_search_start": 12,
+    "evidence": "script byte-pattern plus record-structure validation; unverified reachability"
+  },
+  {
+    "rom": 971392,
+    "sprite_type": 51,
+    "animation": 17,
+    "x": 192,
+    "y": 512,
+    "direction": 1,
+    "portrait_or_identity": 23,
+    "skill_slots_08_0b": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "status_0c_0f": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "level": 32,
+    "experience": 0,
+    "hp": 116,
+    "stats_14_1a": [
+      48,
+      48,
+      36,
+      31,
+      6,
+      20,
+      15
+    ],
+    "movement_1b": 6,
+    "max_hp": 116,
+    "class": 0,
+    "subtype": 3,
+    "equipment_ids": [
+      8,
+      0,
+      0,
+      0
+    ],
+    "passive_item": 0,
+    "uses": [
+      99,
+      0,
+      0,
+      0
+    ],
+    "raw": "331100c0020001170000000000000000200000743030241f06140f06000000740300000003000800000000630000000000ffffffffffffffffffffffffffffff",
+    "opcode": 5,
+    "slot_search_start": 12,
+    "evidence": "script byte-pattern plus record-structure validation; unverified reachability"
+  },
+  {
+    "rom": 971466,
+    "sprite_type": 51,
+    "animation": 17,
+    "x": 224,
+    "y": 512,
+    "direction": 1,
+    "portrait_or_identity": 23,
+    "skill_slots_08_0b": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "status_0c_0f": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "level": 32,
+    "experience": 0,
+    "hp": 116,
+    "stats_14_1a": [
+      48,
+      48,
+      36,
+      31,
+      6,
+      20,
+      15
+    ],
+    "movement_1b": 6,
+    "max_hp": 116,
+    "class": 0,
+    "subtype": 3,
+    "equipment_ids": [
+      8,
+      0,
+      0,
+      0
+    ],
+    "passive_item": 0,
+    "uses": [
+      99,
+      0,
+      0,
+      0
+    ],
+    "raw": "331100e0020001170000000000000000200000743030241f06140f06000000740300000003000800000000630000000000ffffffffffffffffffffffffffffff",
+    "opcode": 5,
+    "slot_search_start": 12,
+    "evidence": "script byte-pattern plus record-structure validation; unverified reachability"
+  },
+  {
+    "rom": 971756,
+    "sprite_type": 57,
+    "animation": 17,
+    "x": 128,
+    "y": 192,
+    "direction": 1,
+    "portrait_or_identity": 23,
+    "skill_slots_08_0b": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "status_0c_0f": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "level": 33,
+    "experience": 0,
+    "hp": 88,
+    "stats_14_1a": [
+      55,
+      55,
+      43,
+      32,
+      3,
+      16,
+      13
+    ],
+    "movement_1b": 3,
+    "max_hp": 88,
+    "class": 8,
+    "subtype": 9,
+    "equipment_ids": [
+      39,
+      0,
+      0,
+      0
+    ],
+    "passive_item": 0,
+    "uses": [
+      99,
+      0,
+      0,
+      0
+    ],
+    "raw": "3911008000c0011700000000000000002100005837372b2003100d03000000580208110809002700000000630000000000ffffffffffffffffffffffffffffff",
+    "opcode": 5,
+    "slot_search_start": 12,
+    "evidence": "script byte-pattern plus record-structure validation; unverified reachability"
+  },
+  {
+    "rom": 971830,
+    "sprite_type": 57,
+    "animation": 17,
+    "x": 96,
+    "y": 192,
+    "direction": 1,
+    "portrait_or_identity": 23,
+    "skill_slots_08_0b": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "status_0c_0f": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "level": 33,
+    "experience": 0,
+    "hp": 88,
+    "stats_14_1a": [
+      55,
+      55,
+      43,
+      32,
+      3,
+      16,
+      13
+    ],
+    "movement_1b": 3,
+    "max_hp": 88,
+    "class": 8,
+    "subtype": 9,
+    "equipment_ids": [
+      39,
+      0,
+      0,
+      0
+    ],
+    "passive_item": 0,
+    "uses": [
+      99,
+      0,
+      0,
+      0
+    ],
+    "raw": "3911006000c0011700000000000000002100005837372b2003100d03000000580208100809002700000000630000000000ffffffffffffffffffffffffffffff",
+    "opcode": 5,
+    "slot_search_start": 12,
+    "evidence": "script byte-pattern plus record-structure validation; unverified reachability"
+  },
+  {
+    "rom": 971904,
+    "sprite_type": 57,
+    "animation": 17,
+    "x": 64,
+    "y": 192,
+    "direction": 1,
+    "portrait_or_identity": 23,
+    "skill_slots_08_0b": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "status_0c_0f": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "level": 33,
+    "experience": 0,
+    "hp": 88,
+    "stats_14_1a": [
+      55,
+      55,
+      43,
+      32,
+      3,
+      16,
+      13
+    ],
+    "movement_1b": 3,
+    "max_hp": 88,
+    "class": 8,
+    "subtype": 9,
+    "equipment_ids": [
+      39,
+      0,
+      0,
+      0
+    ],
+    "passive_item": 0,
+    "uses": [
+      99,
+      0,
+      0,
+      0
+    ],
+    "raw": "3911004000c0011700000000000000002100005837372b2003100d030000005802080f0809002700000000630000000000ffffffffffffffffffffffffffffff",
+    "opcode": 5,
+    "slot_search_start": 12,
+    "evidence": "script byte-pattern plus record-structure validation; unverified reachability"
+  },
+  {
+    "rom": 971978,
+    "sprite_type": 57,
+    "animation": 17,
+    "x": 128,
+    "y": 160,
+    "direction": 1,
+    "portrait_or_identity": 23,
+    "skill_slots_08_0b": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "status_0c_0f": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "level": 33,
+    "experience": 0,
+    "hp": 88,
+    "stats_14_1a": [
+      55,
+      55,
+      43,
+      32,
+      3,
+      16,
+      13
+    ],
+    "movement_1b": 3,
+    "max_hp": 88,
+    "class": 8,
+    "subtype": 9,
+    "equipment_ids": [
+      39,
+      0,
+      0,
+      0
+    ],
+    "passive_item": 0,
+    "uses": [
+      99,
+      0,
+      0,
+      0
+    ],
+    "raw": "3911008000a0011700000000000000002100005837372b2003100d030000005802080e0809002700000000630000000000ffffffffffffffffffffffffffffff",
+    "opcode": 5,
+    "slot_search_start": 12,
+    "evidence": "script byte-pattern plus record-structure validation; unverified reachability"
+  },
+  {
+    "rom": 972052,
+    "sprite_type": 57,
+    "animation": 17,
+    "x": 96,
+    "y": 160,
+    "direction": 1,
+    "portrait_or_identity": 23,
+    "skill_slots_08_0b": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "status_0c_0f": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "level": 33,
+    "experience": 0,
+    "hp": 88,
+    "stats_14_1a": [
+      55,
+      55,
+      43,
+      32,
+      3,
+      16,
+      13
+    ],
+    "movement_1b": 3,
+    "max_hp": 88,
+    "class": 8,
+    "subtype": 9,
+    "equipment_ids": [
+      39,
+      0,
+      0,
+      0
+    ],
+    "passive_item": 0,
+    "uses": [
+      99,
+      0,
+      0,
+      0
+    ],
+    "raw": "3911006000a0011700000000000000002100005837372b2003100d03000000580208110709002700000000630000000000ffffffffffffffffffffffffffffff",
+    "opcode": 5,
+    "slot_search_start": 12,
+    "evidence": "script byte-pattern plus record-structure validation; unverified reachability"
+  },
+  {
+    "rom": 972126,
+    "sprite_type": 57,
+    "animation": 17,
+    "x": 64,
+    "y": 160,
+    "direction": 1,
+    "portrait_or_identity": 23,
+    "skill_slots_08_0b": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "status_0c_0f": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "level": 33,
+    "experience": 0,
+    "hp": 88,
+    "stats_14_1a": [
+      55,
+      55,
+      43,
+      32,
+      3,
+      16,
+      13
+    ],
+    "movement_1b": 3,
+    "max_hp": 88,
+    "class": 8,
+    "subtype": 9,
+    "equipment_ids": [
+      39,
+      0,
+      0,
+      0
+    ],
+    "passive_item": 0,
+    "uses": [
+      99,
+      0,
+      0,
+      0
+    ],
+    "raw": "3911004000a0011700000000000000002100005837372b2003100d03000000580208100709002700000000630000000000ffffffffffffffffffffffffffffff",
+    "opcode": 5,
+    "slot_search_start": 12,
+    "evidence": "script byte-pattern plus record-structure validation; unverified reachability"
+  },
+  {
+    "rom": 972200,
+    "sprite_type": 57,
+    "animation": 17,
+    "x": 128,
+    "y": 128,
+    "direction": 1,
+    "portrait_or_identity": 23,
+    "skill_slots_08_0b": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "status_0c_0f": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "level": 33,
+    "experience": 0,
+    "hp": 88,
+    "stats_14_1a": [
+      55,
+      55,
+      43,
+      32,
+      3,
+      16,
+      13
+    ],
+    "movement_1b": 3,
+    "max_hp": 88,
+    "class": 8,
+    "subtype": 9,
+    "equipment_ids": [
+      39,
+      0,
+      0,
+      0
+    ],
+    "passive_item": 0,
+    "uses": [
+      99,
+      0,
+      0,
+      0
+    ],
+    "raw": "391100800080011700000000000000002100005837372b2003100d030000005802080f0709002700000000630000000000ffffffffffffffffffffffffffffff",
+    "opcode": 5,
+    "slot_search_start": 12,
+    "evidence": "script byte-pattern plus record-structure validation; unverified reachability"
+  },
+  {
+    "rom": 972274,
+    "sprite_type": 57,
+    "animation": 17,
+    "x": 96,
+    "y": 128,
+    "direction": 1,
+    "portrait_or_identity": 23,
+    "skill_slots_08_0b": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "status_0c_0f": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "level": 33,
+    "experience": 0,
+    "hp": 88,
+    "stats_14_1a": [
+      55,
+      55,
+      43,
+      32,
+      3,
+      16,
+      13
+    ],
+    "movement_1b": 3,
+    "max_hp": 88,
+    "class": 8,
+    "subtype": 9,
+    "equipment_ids": [
+      39,
+      0,
+      0,
+      0
+    ],
+    "passive_item": 0,
+    "uses": [
+      99,
+      0,
+      0,
+      0
+    ],
+    "raw": "391100600080011700000000000000002100005837372b2003100d030000005802080e0709002700000000630000000000ffffffffffffffffffffffffffffff",
+    "opcode": 5,
+    "slot_search_start": 12,
+    "evidence": "script byte-pattern plus record-structure validation; unverified reachability"
+  },
+  {
+    "rom": 972348,
+    "sprite_type": 57,
+    "animation": 17,
+    "x": 64,
+    "y": 128,
+    "direction": 1,
+    "portrait_or_identity": 23,
+    "skill_slots_08_0b": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "status_0c_0f": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "level": 33,
+    "experience": 0,
+    "hp": 88,
+    "stats_14_1a": [
+      55,
+      55,
+      43,
+      32,
+      3,
+      16,
+      13
+    ],
+    "movement_1b": 3,
+    "max_hp": 88,
+    "class": 8,
+    "subtype": 9,
+    "equipment_ids": [
+      39,
+      0,
+      0,
+      0
+    ],
+    "passive_item": 0,
+    "uses": [
+      99,
+      0,
+      0,
+      0
+    ],
+    "raw": "391100400080011700000000000000002100005837372b2003100d03000000580208110609002700000000630000000000ffffffffffffffffffffffffffffff",
+    "opcode": 5,
+    "slot_search_start": 12,
+    "evidence": "script byte-pattern plus record-structure validation; unverified reachability"
+  },
+  {
+    "rom": 972422,
+    "sprite_type": 57,
+    "animation": 17,
+    "x": 128,
+    "y": 96,
+    "direction": 1,
+    "portrait_or_identity": 23,
+    "skill_slots_08_0b": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "status_0c_0f": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "level": 33,
+    "experience": 0,
+    "hp": 88,
+    "stats_14_1a": [
+      55,
+      55,
+      43,
+      32,
+      3,
+      16,
+      13
+    ],
+    "movement_1b": 3,
+    "max_hp": 88,
+    "class": 8,
+    "subtype": 9,
+    "equipment_ids": [
+      39,
+      0,
+      0,
+      0
+    ],
+    "passive_item": 0,
+    "uses": [
+      99,
+      0,
+      0,
+      0
+    ],
+    "raw": "391100800060011700000000000000002100005837372b2003100d03000000580208100609002700000000630000000000ffffffffffffffffffffffffffffff",
+    "opcode": 5,
+    "slot_search_start": 12,
+    "evidence": "script byte-pattern plus record-structure validation; unverified reachability"
+  },
+  {
+    "rom": 972496,
+    "sprite_type": 57,
+    "animation": 17,
+    "x": 96,
+    "y": 96,
+    "direction": 1,
+    "portrait_or_identity": 23,
+    "skill_slots_08_0b": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "status_0c_0f": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "level": 33,
+    "experience": 0,
+    "hp": 88,
+    "stats_14_1a": [
+      55,
+      55,
+      43,
+      32,
+      3,
+      16,
+      13
+    ],
+    "movement_1b": 3,
+    "max_hp": 88,
+    "class": 8,
+    "subtype": 9,
+    "equipment_ids": [
+      39,
+      0,
+      0,
+      0
+    ],
+    "passive_item": 0,
+    "uses": [
+      99,
+      0,
+      0,
+      0
+    ],
+    "raw": "391100600060011700000000000000002100005837372b2003100d030000005802080f0609002700000000630000000000ffffffffffffffffffffffffffffff",
+    "opcode": 5,
+    "slot_search_start": 12,
+    "evidence": "script byte-pattern plus record-structure validation; unverified reachability"
+  },
+  {
+    "rom": 972570,
+    "sprite_type": 57,
+    "animation": 17,
+    "x": 64,
+    "y": 96,
+    "direction": 1,
+    "portrait_or_identity": 23,
+    "skill_slots_08_0b": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "status_0c_0f": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "level": 33,
+    "experience": 0,
+    "hp": 88,
+    "stats_14_1a": [
+      55,
+      55,
+      43,
+      32,
+      3,
+      16,
+      13
+    ],
+    "movement_1b": 3,
+    "max_hp": 88,
+    "class": 8,
+    "subtype": 9,
+    "equipment_ids": [
+      39,
+      0,
+      0,
+      0
+    ],
+    "passive_item": 0,
+    "uses": [
+      99,
+      0,
+      0,
+      0
+    ],
+    "raw": "391100400060011700000000000000002100005837372b2003100d030000005802080e0609002700000000630000000000ffffffffffffffffffffffffffffff",
+    "opcode": 5,
+    "slot_search_start": 12,
+    "evidence": "script byte-pattern plus record-structure validation; unverified reachability"
+  },
+  {
+    "rom": 972868,
+    "sprite_type": 70,
+    "animation": 17,
+    "x": 512,
+    "y": 96,
+    "direction": 1,
+    "portrait_or_identity": 23,
+    "skill_slots_08_0b": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "status_0c_0f": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "level": 34,
+    "experience": 0,
+    "hp": 99,
+    "stats_14_1a": [
+      61,
+      61,
+      31,
+      67,
+      3,
+      30,
+      25
+    ],
+    "movement_1b": 5,
+    "max_hp": 99,
+    "class": 2,
+    "subtype": 22,
+    "equipment_ids": [
+      68,
+      0,
+      0,
+      0
+    ],
+    "passive_item": 0,
+    "uses": [
+      99,
+      0,
+      0,
+      0
+    ],
+    "raw": "46110200006001170000000000000000220000633d3d1f43031e1905000000630302000016004400000000630000000000ffffffffffffffffffffffffffffff",
+    "opcode": 5,
+    "slot_search_start": 12,
+    "evidence": "script byte-pattern plus record-structure validation; unverified reachability"
+  },
+  {
+    "rom": 972942,
+    "sprite_type": 70,
+    "animation": 17,
+    "x": 544,
+    "y": 96,
+    "direction": 1,
+    "portrait_or_identity": 23,
+    "skill_slots_08_0b": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "status_0c_0f": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "level": 34,
+    "experience": 0,
+    "hp": 99,
+    "stats_14_1a": [
+      61,
+      61,
+      31,
+      67,
+      3,
+      30,
+      25
+    ],
+    "movement_1b": 5,
+    "max_hp": 99,
+    "class": 2,
+    "subtype": 22,
+    "equipment_ids": [
+      68,
+      0,
+      0,
+      0
+    ],
+    "passive_item": 0,
+    "uses": [
+      99,
+      0,
+      0,
+      0
+    ],
+    "raw": "46110220006001170000000000000000220000633d3d1f43031e1905000000630302000016004400000000630000000000ffffffffffffffffffffffffffffff",
+    "opcode": 5,
+    "slot_search_start": 12,
+    "evidence": "script byte-pattern plus record-structure validation; unverified reachability"
+  },
+  {
+    "rom": 973016,
+    "sprite_type": 70,
+    "animation": 17,
+    "x": 512,
+    "y": 128,
+    "direction": 1,
+    "portrait_or_identity": 23,
+    "skill_slots_08_0b": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "status_0c_0f": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "level": 34,
+    "experience": 0,
+    "hp": 99,
+    "stats_14_1a": [
+      61,
+      61,
+      31,
+      67,
+      3,
+      30,
+      25
+    ],
+    "movement_1b": 5,
+    "max_hp": 99,
+    "class": 2,
+    "subtype": 22,
+    "equipment_ids": [
+      68,
+      0,
+      0,
+      0
+    ],
+    "passive_item": 0,
+    "uses": [
+      99,
+      0,
+      0,
+      0
+    ],
+    "raw": "46110200008001170000000000000000220000633d3d1f43031e1905000000630302000016004400000000630000000000ffffffffffffffffffffffffffffff",
+    "opcode": 5,
+    "slot_search_start": 12,
+    "evidence": "script byte-pattern plus record-structure validation; unverified reachability"
+  },
+  {
+    "rom": 973090,
+    "sprite_type": 70,
+    "animation": 17,
+    "x": 544,
+    "y": 128,
+    "direction": 1,
+    "portrait_or_identity": 23,
+    "skill_slots_08_0b": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "status_0c_0f": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "level": 34,
+    "experience": 0,
+    "hp": 99,
+    "stats_14_1a": [
+      61,
+      61,
+      31,
+      67,
+      3,
+      30,
+      25
+    ],
+    "movement_1b": 5,
+    "max_hp": 99,
+    "class": 2,
+    "subtype": 22,
+    "equipment_ids": [
+      68,
+      0,
+      0,
+      0
+    ],
+    "passive_item": 0,
+    "uses": [
+      99,
+      0,
+      0,
+      0
+    ],
+    "raw": "46110220008001170000000000000000220000633d3d1f43031e1905000000630302000016004400000000630000000000ffffffffffffffffffffffffffffff",
+    "opcode": 5,
+    "slot_search_start": 12,
+    "evidence": "script byte-pattern plus record-structure validation; unverified reachability"
+  },
+  {
+    "rom": 973164,
+    "sprite_type": 70,
+    "animation": 17,
+    "x": 512,
+    "y": 160,
+    "direction": 1,
+    "portrait_or_identity": 23,
+    "skill_slots_08_0b": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "status_0c_0f": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "level": 34,
+    "experience": 0,
+    "hp": 99,
+    "stats_14_1a": [
+      61,
+      61,
+      31,
+      67,
+      3,
+      30,
+      25
+    ],
+    "movement_1b": 5,
+    "max_hp": 99,
+    "class": 2,
+    "subtype": 22,
+    "equipment_ids": [
+      68,
+      0,
+      0,
+      0
+    ],
+    "passive_item": 0,
+    "uses": [
+      99,
+      0,
+      0,
+      0
+    ],
+    "raw": "4611020000a001170000000000000000220000633d3d1f43031e1905000000630302000016004400000000630000000000ffffffffffffffffffffffffffffff",
+    "opcode": 5,
+    "slot_search_start": 12,
+    "evidence": "script byte-pattern plus record-structure validation; unverified reachability"
+  },
+  {
+    "rom": 973238,
+    "sprite_type": 70,
+    "animation": 17,
+    "x": 544,
+    "y": 160,
+    "direction": 1,
+    "portrait_or_identity": 23,
+    "skill_slots_08_0b": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "status_0c_0f": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "level": 34,
+    "experience": 0,
+    "hp": 99,
+    "stats_14_1a": [
+      61,
+      61,
+      31,
+      67,
+      3,
+      30,
+      25
+    ],
+    "movement_1b": 5,
+    "max_hp": 99,
+    "class": 2,
+    "subtype": 22,
+    "equipment_ids": [
+      68,
+      0,
+      0,
+      0
+    ],
+    "passive_item": 0,
+    "uses": [
+      99,
+      0,
+      0,
+      0
+    ],
+    "raw": "4611022000a001170000000000000000220000633d3d1f43031e1905000000630302000016004400000000630000000000ffffffffffffffffffffffffffffff",
+    "opcode": 5,
+    "slot_search_start": 12,
+    "evidence": "script byte-pattern plus record-structure validation; unverified reachability"
+  },
+  {
+    "rom": 973312,
+    "sprite_type": 70,
+    "animation": 17,
+    "x": 128,
+    "y": 864,
+    "direction": 1,
+    "portrait_or_identity": 23,
+    "skill_slots_08_0b": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "status_0c_0f": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "level": 34,
+    "experience": 0,
+    "hp": 99,
+    "stats_14_1a": [
+      61,
+      61,
+      31,
+      67,
+      3,
+      30,
+      25
+    ],
+    "movement_1b": 5,
+    "max_hp": 99,
+    "class": 2,
+    "subtype": 22,
+    "equipment_ids": [
+      68,
+      0,
+      0,
+      0
+    ],
+    "passive_item": 0,
+    "uses": [
+      99,
+      0,
+      0,
+      0
+    ],
+    "raw": "46110080036001170000000000000000220000633d3d1f43031e1905000000630302000016004400000000630000000000ffffffffffffffffffffffffffffff",
+    "opcode": 5,
+    "slot_search_start": 12,
+    "evidence": "script byte-pattern plus record-structure validation; unverified reachability"
+  },
+  {
+    "rom": 973386,
+    "sprite_type": 70,
+    "animation": 17,
+    "x": 160,
+    "y": 864,
+    "direction": 1,
+    "portrait_or_identity": 23,
+    "skill_slots_08_0b": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "status_0c_0f": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "level": 34,
+    "experience": 0,
+    "hp": 99,
+    "stats_14_1a": [
+      61,
+      61,
+      31,
+      67,
+      3,
+      30,
+      25
+    ],
+    "movement_1b": 5,
+    "max_hp": 99,
+    "class": 2,
+    "subtype": 22,
+    "equipment_ids": [
+      68,
+      0,
+      0,
+      0
+    ],
+    "passive_item": 0,
+    "uses": [
+      99,
+      0,
+      0,
+      0
+    ],
+    "raw": "461100a0036001170000000000000000220000633d3d1f43031e1905000000630302000016004400000000630000000000ffffffffffffffffffffffffffffff",
+    "opcode": 5,
+    "slot_search_start": 12,
+    "evidence": "script byte-pattern plus record-structure validation; unverified reachability"
+  },
+  {
+    "rom": 973460,
+    "sprite_type": 70,
+    "animation": 17,
+    "x": 192,
+    "y": 864,
+    "direction": 1,
+    "portrait_or_identity": 23,
+    "skill_slots_08_0b": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "status_0c_0f": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "level": 34,
+    "experience": 0,
+    "hp": 99,
+    "stats_14_1a": [
+      61,
+      61,
+      31,
+      67,
+      3,
+      30,
+      25
+    ],
+    "movement_1b": 5,
+    "max_hp": 99,
+    "class": 2,
+    "subtype": 22,
+    "equipment_ids": [
+      68,
+      0,
+      0,
+      0
+    ],
+    "passive_item": 0,
+    "uses": [
+      99,
+      0,
+      0,
+      0
+    ],
+    "raw": "461100c0036001170000000000000000220000633d3d1f43031e1905000000630302000016004400000000630000000000ffffffffffffffffffffffffffffff",
+    "opcode": 5,
+    "slot_search_start": 12,
+    "evidence": "script byte-pattern plus record-structure validation; unverified reachability"
+  },
+  {
+    "rom": 973534,
+    "sprite_type": 70,
+    "animation": 17,
+    "x": 128,
+    "y": 896,
+    "direction": 1,
+    "portrait_or_identity": 23,
+    "skill_slots_08_0b": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "status_0c_0f": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "level": 34,
+    "experience": 0,
+    "hp": 99,
+    "stats_14_1a": [
+      61,
+      61,
+      31,
+      67,
+      3,
+      30,
+      25
+    ],
+    "movement_1b": 5,
+    "max_hp": 99,
+    "class": 2,
+    "subtype": 22,
+    "equipment_ids": [
+      68,
+      0,
+      0,
+      0
+    ],
+    "passive_item": 0,
+    "uses": [
+      99,
+      0,
+      0,
+      0
+    ],
+    "raw": "46110080038001170000000000000000220000633d3d1f43031e1905000000630302000016004400000000630000000000ffffffffffffffffffffffffffffff",
+    "opcode": 5,
+    "slot_search_start": 12,
+    "evidence": "script byte-pattern plus record-structure validation; unverified reachability"
+  },
+  {
+    "rom": 973608,
+    "sprite_type": 70,
+    "animation": 17,
+    "x": 160,
+    "y": 896,
+    "direction": 1,
+    "portrait_or_identity": 23,
+    "skill_slots_08_0b": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "status_0c_0f": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "level": 34,
+    "experience": 0,
+    "hp": 99,
+    "stats_14_1a": [
+      61,
+      61,
+      31,
+      67,
+      3,
+      30,
+      25
+    ],
+    "movement_1b": 5,
+    "max_hp": 99,
+    "class": 2,
+    "subtype": 22,
+    "equipment_ids": [
+      68,
+      0,
+      0,
+      0
+    ],
+    "passive_item": 0,
+    "uses": [
+      99,
+      0,
+      0,
+      0
+    ],
+    "raw": "461100a0038001170000000000000000220000633d3d1f43031e1905000000630302000016004400000000630000000000ffffffffffffffffffffffffffffff",
+    "opcode": 5,
+    "slot_search_start": 12,
+    "evidence": "script byte-pattern plus record-structure validation; unverified reachability"
+  },
+  {
+    "rom": 973682,
+    "sprite_type": 70,
+    "animation": 17,
+    "x": 192,
+    "y": 896,
+    "direction": 1,
+    "portrait_or_identity": 23,
+    "skill_slots_08_0b": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "status_0c_0f": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "level": 34,
+    "experience": 0,
+    "hp": 99,
+    "stats_14_1a": [
+      61,
+      61,
+      31,
+      67,
+      3,
+      30,
+      25
+    ],
+    "movement_1b": 5,
+    "max_hp": 99,
+    "class": 2,
+    "subtype": 22,
+    "equipment_ids": [
+      68,
+      0,
+      0,
+      0
+    ],
+    "passive_item": 0,
+    "uses": [
+      99,
+      0,
+      0,
+      0
+    ],
+    "raw": "461100c0038001170000000000000000220000633d3d1f43031e1905000000630302000016004400000000630000000000ffffffffffffffffffffffffffffff",
+    "opcode": 5,
+    "slot_search_start": 12,
+    "evidence": "script byte-pattern plus record-structure validation; unverified reachability"
+  },
+  {
+    "rom": 974106,
+    "sprite_type": 64,
+    "animation": 17,
+    "x": 576,
+    "y": 320,
+    "direction": 1,
+    "portrait_or_identity": 23,
+    "skill_slots_08_0b": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "status_0c_0f": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "level": 35,
+    "experience": 0,
+    "hp": 110,
+    "stats_14_1a": [
+      40,
+      40,
+      37,
+      29,
+      50,
+      15,
+      15
+    ],
+    "movement_1b": 4,
+    "max_hp": 110,
+    "class": 7,
+    "subtype": 16,
+    "equipment_ids": [
+      26,
+      0,
+      0,
+      0
+    ],
+    "passive_item": 0,
+    "uses": [
+      99,
+      0,
+      0,
+      0
+    ],
+    "raw": "401102400140011700000000000000002300006e2828251d320f0f040000006e0307000010001a00000000630000000000ffffffffffffffffffffffffffffff",
+    "opcode": 5,
+    "slot_search_start": 12,
+    "evidence": "script byte-pattern plus record-structure validation; unverified reachability"
+  },
+  {
+    "rom": 974180,
+    "sprite_type": 64,
+    "animation": 17,
+    "x": 608,
+    "y": 320,
+    "direction": 1,
+    "portrait_or_identity": 23,
+    "skill_slots_08_0b": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "status_0c_0f": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "level": 35,
+    "experience": 0,
+    "hp": 110,
+    "stats_14_1a": [
+      40,
+      40,
+      37,
+      29,
+      50,
+      15,
+      15
+    ],
+    "movement_1b": 4,
+    "max_hp": 110,
+    "class": 7,
+    "subtype": 16,
+    "equipment_ids": [
+      26,
+      0,
+      0,
+      0
+    ],
+    "passive_item": 0,
+    "uses": [
+      99,
+      0,
+      0,
+      0
+    ],
+    "raw": "401102600140011700000000000000002300006e2828251d320f0f040000006e0307000010001a00000000630000000000ffffffffffffffffffffffffffffff",
+    "opcode": 5,
+    "slot_search_start": 12,
+    "evidence": "script byte-pattern plus record-structure validation; unverified reachability"
+  },
+  {
+    "rom": 974254,
+    "sprite_type": 64,
+    "animation": 17,
+    "x": 640,
+    "y": 320,
+    "direction": 1,
+    "portrait_or_identity": 23,
+    "skill_slots_08_0b": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "status_0c_0f": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "level": 35,
+    "experience": 0,
+    "hp": 110,
+    "stats_14_1a": [
+      40,
+      40,
+      37,
+      29,
+      50,
+      15,
+      15
+    ],
+    "movement_1b": 4,
+    "max_hp": 110,
+    "class": 7,
+    "subtype": 16,
+    "equipment_ids": [
+      26,
+      0,
+      0,
+      0
+    ],
+    "passive_item": 0,
+    "uses": [
+      99,
+      0,
+      0,
+      0
+    ],
+    "raw": "401102800140011700000000000000002300006e2828251d320f0f040000006e0307000010001a00000000630000000000ffffffffffffffffffffffffffffff",
+    "opcode": 5,
+    "slot_search_start": 12,
+    "evidence": "script byte-pattern plus record-structure validation; unverified reachability"
+  },
+  {
+    "rom": 974328,
+    "sprite_type": 64,
+    "animation": 17,
+    "x": 672,
+    "y": 320,
+    "direction": 1,
+    "portrait_or_identity": 23,
+    "skill_slots_08_0b": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "status_0c_0f": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "level": 35,
+    "experience": 0,
+    "hp": 110,
+    "stats_14_1a": [
+      40,
+      40,
+      37,
+      29,
+      50,
+      15,
+      15
+    ],
+    "movement_1b": 4,
+    "max_hp": 110,
+    "class": 7,
+    "subtype": 16,
+    "equipment_ids": [
+      26,
+      0,
+      0,
+      0
+    ],
+    "passive_item": 0,
+    "uses": [
+      99,
+      0,
+      0,
+      0
+    ],
+    "raw": "401102a00140011700000000000000002300006e2828251d320f0f040000006e0307000010001a00000000630000000000ffffffffffffffffffffffffffffff",
+    "opcode": 5,
+    "slot_search_start": 12,
+    "evidence": "script byte-pattern plus record-structure validation; unverified reachability"
+  },
+  {
+    "rom": 974402,
+    "sprite_type": 64,
+    "animation": 17,
+    "x": 576,
+    "y": 352,
+    "direction": 1,
+    "portrait_or_identity": 23,
+    "skill_slots_08_0b": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "status_0c_0f": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "level": 35,
+    "experience": 0,
+    "hp": 110,
+    "stats_14_1a": [
+      40,
+      40,
+      37,
+      29,
+      50,
+      15,
+      15
+    ],
+    "movement_1b": 4,
+    "max_hp": 110,
+    "class": 7,
+    "subtype": 16,
+    "equipment_ids": [
+      26,
+      0,
+      0,
+      0
+    ],
+    "passive_item": 0,
+    "uses": [
+      99,
+      0,
+      0,
+      0
+    ],
+    "raw": "401102400160011700000000000000002300006e2828251d320f0f040000006e0307000010001a00000000630000000000ffffffffffffffffffffffffffffff",
+    "opcode": 5,
+    "slot_search_start": 12,
+    "evidence": "script byte-pattern plus record-structure validation; unverified reachability"
+  },
+  {
+    "rom": 974476,
+    "sprite_type": 64,
+    "animation": 17,
+    "x": 608,
+    "y": 352,
+    "direction": 1,
+    "portrait_or_identity": 23,
+    "skill_slots_08_0b": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "status_0c_0f": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "level": 35,
+    "experience": 0,
+    "hp": 110,
+    "stats_14_1a": [
+      40,
+      40,
+      37,
+      29,
+      50,
+      15,
+      15
+    ],
+    "movement_1b": 4,
+    "max_hp": 110,
+    "class": 7,
+    "subtype": 16,
+    "equipment_ids": [
+      26,
+      0,
+      0,
+      0
+    ],
+    "passive_item": 0,
+    "uses": [
+      99,
+      0,
+      0,
+      0
+    ],
+    "raw": "401102600160011700000000000000002300006e2828251d320f0f040000006e0307000010001a00000000630000000000ffffffffffffffffffffffffffffff",
+    "opcode": 5,
+    "slot_search_start": 12,
+    "evidence": "script byte-pattern plus record-structure validation; unverified reachability"
+  },
+  {
+    "rom": 974550,
+    "sprite_type": 64,
+    "animation": 17,
+    "x": 640,
+    "y": 352,
+    "direction": 1,
+    "portrait_or_identity": 23,
+    "skill_slots_08_0b": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "status_0c_0f": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "level": 35,
+    "experience": 0,
+    "hp": 110,
+    "stats_14_1a": [
+      40,
+      40,
+      37,
+      29,
+      50,
+      15,
+      15
+    ],
+    "movement_1b": 4,
+    "max_hp": 110,
+    "class": 7,
+    "subtype": 16,
+    "equipment_ids": [
+      26,
+      0,
+      0,
+      0
+    ],
+    "passive_item": 0,
+    "uses": [
+      99,
+      0,
+      0,
+      0
+    ],
+    "raw": "401102800160011700000000000000002300006e2828251d320f0f040000006e0307000010001a00000000630000000000ffffffffffffffffffffffffffffff",
+    "opcode": 5,
+    "slot_search_start": 12,
+    "evidence": "script byte-pattern plus record-structure validation; unverified reachability"
+  },
+  {
+    "rom": 974624,
+    "sprite_type": 64,
+    "animation": 17,
+    "x": 672,
+    "y": 352,
+    "direction": 1,
+    "portrait_or_identity": 23,
+    "skill_slots_08_0b": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "status_0c_0f": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "level": 35,
+    "experience": 0,
+    "hp": 110,
+    "stats_14_1a": [
+      40,
+      40,
+      37,
+      29,
+      50,
+      15,
+      15
+    ],
+    "movement_1b": 4,
+    "max_hp": 110,
+    "class": 7,
+    "subtype": 16,
+    "equipment_ids": [
+      26,
+      0,
+      0,
+      0
+    ],
+    "passive_item": 0,
+    "uses": [
+      99,
+      0,
+      0,
+      0
+    ],
+    "raw": "401102a00160011700000000000000002300006e2828251d320f0f040000006e0307000010001a00000000630000000000ffffffffffffffffffffffffffffff",
+    "opcode": 5,
+    "slot_search_start": 12,
+    "evidence": "script byte-pattern plus record-structure validation; unverified reachability"
+  },
+  {
+    "rom": 974698,
+    "sprite_type": 64,
+    "animation": 17,
+    "x": 576,
+    "y": 384,
+    "direction": 1,
+    "portrait_or_identity": 23,
+    "skill_slots_08_0b": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "status_0c_0f": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "level": 35,
+    "experience": 0,
+    "hp": 110,
+    "stats_14_1a": [
+      40,
+      40,
+      37,
+      29,
+      50,
+      15,
+      15
+    ],
+    "movement_1b": 4,
+    "max_hp": 110,
+    "class": 7,
+    "subtype": 16,
+    "equipment_ids": [
+      26,
+      0,
+      0,
+      0
+    ],
+    "passive_item": 0,
+    "uses": [
+      99,
+      0,
+      0,
+      0
+    ],
+    "raw": "401102400180011700000000000000002300006e2828251d320f0f040000006e0307000010001a00000000630000000000ffffffffffffffffffffffffffffff",
+    "opcode": 5,
+    "slot_search_start": 12,
+    "evidence": "script byte-pattern plus record-structure validation; unverified reachability"
+  },
+  {
+    "rom": 974772,
+    "sprite_type": 64,
+    "animation": 17,
+    "x": 608,
+    "y": 384,
+    "direction": 1,
+    "portrait_or_identity": 23,
+    "skill_slots_08_0b": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "status_0c_0f": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "level": 35,
+    "experience": 0,
+    "hp": 110,
+    "stats_14_1a": [
+      40,
+      40,
+      37,
+      29,
+      50,
+      15,
+      15
+    ],
+    "movement_1b": 4,
+    "max_hp": 110,
+    "class": 7,
+    "subtype": 16,
+    "equipment_ids": [
+      26,
+      0,
+      0,
+      0
+    ],
+    "passive_item": 0,
+    "uses": [
+      99,
+      0,
+      0,
+      0
+    ],
+    "raw": "401102600180011700000000000000002300006e2828251d320f0f040000006e0307000010001a00000000630000000000ffffffffffffffffffffffffffffff",
+    "opcode": 5,
+    "slot_search_start": 12,
+    "evidence": "script byte-pattern plus record-structure validation; unverified reachability"
+  },
+  {
+    "rom": 974846,
+    "sprite_type": 64,
+    "animation": 17,
+    "x": 640,
+    "y": 384,
+    "direction": 1,
+    "portrait_or_identity": 23,
+    "skill_slots_08_0b": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "status_0c_0f": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "level": 35,
+    "experience": 0,
+    "hp": 110,
+    "stats_14_1a": [
+      40,
+      40,
+      37,
+      29,
+      50,
+      15,
+      15
+    ],
+    "movement_1b": 4,
+    "max_hp": 110,
+    "class": 7,
+    "subtype": 16,
+    "equipment_ids": [
+      26,
+      0,
+      0,
+      0
+    ],
+    "passive_item": 0,
+    "uses": [
+      99,
+      0,
+      0,
+      0
+    ],
+    "raw": "401102800180011700000000000000002300006e2828251d320f0f040000006e0307000010001a00000000630000000000ffffffffffffffffffffffffffffff",
+    "opcode": 5,
+    "slot_search_start": 12,
+    "evidence": "script byte-pattern plus record-structure validation; unverified reachability"
+  },
+  {
+    "rom": 974920,
+    "sprite_type": 64,
+    "animation": 17,
+    "x": 672,
+    "y": 384,
+    "direction": 1,
+    "portrait_or_identity": 23,
+    "skill_slots_08_0b": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "status_0c_0f": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "level": 35,
+    "experience": 0,
+    "hp": 110,
+    "stats_14_1a": [
+      40,
+      40,
+      37,
+      29,
+      50,
+      15,
+      15
+    ],
+    "movement_1b": 4,
+    "max_hp": 110,
+    "class": 7,
+    "subtype": 16,
+    "equipment_ids": [
+      26,
+      0,
+      0,
+      0
+    ],
+    "passive_item": 0,
+    "uses": [
+      99,
+      0,
+      0,
+      0
+    ],
+    "raw": "401102a00180011700000000000000002300006e2828251d320f0f040000006e0307000010001a00000000630000000000ffffffffffffffffffffffffffffff",
+    "opcode": 5,
+    "slot_search_start": 12,
+    "evidence": "script byte-pattern plus record-structure validation; unverified reachability"
+  }
+]

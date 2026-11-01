@@ -1,0 +1,106 @@
+{
+ "0c04-ghibli": {
+  "before": {
+   "trusted": 351,
+   "shifted": 118,
+   "boundaryShifted": 99
+  },
+  "after": {
+   "trusted": 338,
+   "shifted": 55,
+   "boundaryShifted": 48
+  },
+  "maxDisplacementPx": 29.2
+ },
+ "0c04-hd2d": {
+  "before": {
+   "trusted": 465,
+   "shifted": 4,
+   "boundaryShifted": 4
+  },
+  "after": {
+   "trusted": 465,
+   "shifted": 4,
+   "boundaryShifted": 4
+  },
+  "maxDisplacementPx": 9.6
+ },
+ "0c06-ghibli": {
+  "before": {
+   "trusted": 377,
+   "shifted": 13,
+   "boundaryShifted": 9
+  },
+  "after": {
+   "trusted": 383,
+   "shifted": 3,
+   "boundaryShifted": 1
+  },
+  "maxDisplacementPx": 26.4
+ },
+ "0c06-hd2d": {
+  "before": {
+   "trusted": 216,
+   "shifted": 34,
+   "boundaryShifted": 17
+  },
+  "after": {
+   "trusted": 221,
+   "shifted": 26,
+   "boundaryShifted": 13
+  },
+  "maxDisplacementPx": 30.0
+ },
+ "0c07-ghibli": {
+  "before": {
+   "trusted": 411,
+   "shifted": 99,
+   "boundaryShifted": 56
+  },
+  "after": {
+   "trusted": 420,
+   "shifted": 94,
+   "boundaryShifted": 47
+  },
+  "maxDisplacementPx": 21.4
+ },
+ "0c07-hd2d": {
+  "before": {
+   "trusted": 555,
+   "shifted": 53,
+   "boundaryShifted": 15
+  },
+  "after": {
+   "trusted": 562,
+   "shifted": 8,
+   "boundaryShifted": 4
+  },
+  "maxDisplacementPx": 29.5
+ },
+ "0c08-ghibli": {
+  "before": {
+   "trusted": 436,
+   "shifted": 49,
+   "boundaryShifted": 12
+  },
+  "after": {
+   "trusted": 437,
+   "shifted": 37,
+   "boundaryShifted": 9
+  },
+  "maxDisplacementPx": 6.6
+ },
+ "0c08-hd2d": {
+  "before": {
+   "trusted": 385,
+   "shifted": 134,
+   "boundaryShifted": 86
+  },
+  "after": {
+   "trusted": 419,
+   "shifted": 17,
+   "boundaryShifted": 15
+  },
+  "maxDisplacementPx": 60.6
+ }
+}

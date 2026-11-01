@@ -1,0 +1,566 @@
+{
+  "concurrency": 10,
+  "model": "gpt-image-2.5-sunburst",
+  "jobs": {
+    "character-100400-walk-v2": {
+      "state": "failed",
+      "updatedAt": 1793235412.787013,
+      "exitCode": 1
+    },
+    "items-001-016-hd": {
+      "state": "generated-awaiting-review",
+      "updatedAt": 1793235463.7505498,
+      "exitCode": 0
+    },
+    "items-017-032-hd": {
+      "state": "generated-awaiting-review",
+      "updatedAt": 1793235467.1692662,
+      "exitCode": 0
+    },
+    "items-033-048-hd": {
+      "state": "generated-awaiting-review",
+      "updatedAt": 1793235467.7212882,
+      "exitCode": 0
+    },
+    "items-064-081-hd": {
+      "state": "generated-awaiting-review",
+      "updatedAt": 1793235468.9253705,
+      "exitCode": 0
+    },
+    "items-082-102-hd": {
+      "state": "generated-awaiting-review",
+      "updatedAt": 1793235469.4766839,
+      "exitCode": 0
+    },
+    "items-103-123-hd": {
+      "state": "generated-awaiting-review",
+      "updatedAt": 1793235464.3020236,
+      "exitCode": 0
+    },
+    "ui-battle-hd": {
+      "state": "generated-awaiting-review",
+      "updatedAt": 1793235454.986833,
+      "exitCode": 0
+    },
+    "ui-buttons-hd": {
+      "state": "generated-awaiting-review",
+      "updatedAt": 1793235452.7230444,
+      "exitCode": 0
+    },
+    "ui-character-status-hd": {
+      "state": "generated-awaiting-review",
+      "updatedAt": 1793235461.1205342,
+      "exitCode": 0
+    },
+    "ui-dialogue-hd": {
+      "state": "generated-awaiting-review",
+      "updatedAt": 1793235450.6034877,
+      "exitCode": 0
+    },
+    "ui-inventory-hd": {
+      "state": "generated-awaiting-review",
+      "updatedAt": 1793235487.1945975,
+      "exitCode": 0
+    },
+    "ui-save-load-hd": {
+      "state": "generated-awaiting-review",
+      "updatedAt": 1793235490.5151372,
+      "exitCode": 0
+    },
+    "ui-settings-hd": {
+      "state": "generated-awaiting-review",
+      "updatedAt": 1793235495.4490194,
+      "exitCode": 0
+    },
+    "ui-shop-hd": {
+      "state": "generated-awaiting-review",
+      "updatedAt": 1793235500.5945845,
+      "exitCode": 0
+    },
+    "portrait-160a38-hd": {
+      "state": "generated-awaiting-review",
+      "updatedAt": 1793235507.2501397,
+      "exitCode": 0
+    },
+    "portrait-160eb8-hd": {
+      "state": "generated-awaiting-review",
+      "updatedAt": 1793235505.6385088,
+      "exitCode": 0
+    },
+    "portrait-161338-hd": {
+      "state": "generated-awaiting-review",
+      "updatedAt": 1793235512.5968251,
+      "exitCode": 0
+    },
+    "portrait-1617b8-hd": {
+      "state": "generated-awaiting-review",
+      "updatedAt": 1793235512.49392,
+      "exitCode": 0
+    },
+    "portrait-161c38-hd": {
+      "state": "generated-awaiting-review",
+      "updatedAt": 1793235514.557554,
+      "exitCode": 0
+    },
+    "portrait-1620b8-hd": {
+      "state": "generated-awaiting-review",
+      "updatedAt": 1793235510.983323,
+      "exitCode": 0
+    },
+    "portrait-162538-hd": {
+      "state": "generated-awaiting-review",
+      "updatedAt": 1793235525.8151665,
+      "exitCode": 0
+    },
+    "portrait-1629b8-hd": {
+      "state": "generated-awaiting-review",
+      "updatedAt": 1793235531.2182581,
+      "exitCode": 0
+    },
+    "portrait-162e38-hd": {
+      "state": "generated-awaiting-review",
+      "updatedAt": 1793235535.2100124,
+      "exitCode": 0
+    },
+    "portrait-1632b8-hd": {
+      "state": "generated-awaiting-review",
+      "updatedAt": 1793235540.9596229,
+      "exitCode": 0
+    },
+    "portrait-163738-hd": {
+      "state": "generated-awaiting-review",
+      "updatedAt": 1793235547.0121255,
+      "exitCode": 0
+    },
+    "portrait-163bb8-hd": {
+      "state": "generated-awaiting-review",
+      "updatedAt": 1793235549.4596047,
+      "exitCode": 0
+    },
+    "portrait-164038-hd": {
+      "state": "generated-awaiting-review",
+      "updatedAt": 1793235553.3868022,
+      "exitCode": 0
+    },
+    "portrait-1644b8-hd": {
+      "state": "failed",
+      "updatedAt": 1793235552.7805436,
+      "exitCode": 1
+    },
+    "portrait-164938-hd": {
+      "state": "generated-awaiting-review",
+      "updatedAt": 1793235554.7004879,
+      "exitCode": 0
+    },
+    "portrait-164db8-hd": {
+      "state": "generated-awaiting-review",
+      "updatedAt": 1793235557.97489,
+      "exitCode": 0
+    },
+    "portrait-165238-hd": {
+      "state": "generated-awaiting-review",
+      "updatedAt": 1793235564.607769,
+      "exitCode": 0
+    },
+    "portrait-1656b8-hd": {
+      "state": "generated-awaiting-review",
+      "updatedAt": 1793235573.774916,
+      "exitCode": 0
+    },
+    "portrait-165b38-hd": {
+      "state": "generated-awaiting-review",
+      "updatedAt": 1793235575.3917432,
+      "exitCode": 0
+    },
+    "portrait-165fb8-hd": {
+      "state": "generated-awaiting-review",
+      "updatedAt": 1793235581.9863558,
+      "exitCode": 0
+    },
+    "portrait-166438-hd": {
+      "state": "generated-awaiting-review",
+      "updatedAt": 1793235587.402754,
+      "exitCode": 0
+    },
+    "portrait-1668b8-hd": {
+      "state": "generated-awaiting-review",
+      "updatedAt": 1793235587.8541636,
+      "exitCode": 0
+    },
+    "portrait-166d38-hd": {
+      "state": "generated-awaiting-review",
+      "updatedAt": 1793235591.4274464,
+      "exitCode": 0
+    },
+    "portrait-1671b8-hd": {
+      "state": "generated-awaiting-review",
+      "updatedAt": 1793235593.7654197,
+      "exitCode": 0
+    },
+    "portrait-167638-hd": {
+      "state": "generated-awaiting-review",
+      "updatedAt": 1793235596.1884542,
+      "exitCode": 0
+    },
+    "portrait-167ab8-hd": {
+      "state": "generated-awaiting-review",
+      "updatedAt": 1793235597.8003602,
+      "exitCode": 0
+    },
+    "portrait-167f38-hd": {
+      "state": "generated-awaiting-review",
+      "updatedAt": 1793235608.355975,
+      "exitCode": 0
+    },
+    "portrait-1683b8-hd": {
+      "state": "generated-awaiting-review",
+      "updatedAt": 1793235613.448722,
+      "exitCode": 0
+    },
+    "portrait-168838-hd": {
+      "state": "generated-awaiting-review",
+      "updatedAt": 1793235615.5135238,
+      "exitCode": 0
+    },
+    "portrait-168cb8-hd": {
+      "state": "generated-awaiting-review",
+      "updatedAt": 1793235623.1076405,
+      "exitCode": 0
+    },
+    "portrait-169138-hd": {
+      "state": "generated-awaiting-review",
+      "updatedAt": 1793235626.7746246,
+      "exitCode": 0
+    },
+    "portrait-1695b8-hd": {
+      "state": "generated-awaiting-review",
+      "updatedAt": 1793235626.7731416,
+      "exitCode": 0
+    },
+    "portrait-169a38-hd": {
+      "state": "generated-awaiting-review",
+      "updatedAt": 1793235629.3439817,
+      "exitCode": 0
+    },
+    "portrait-169eb8-hd": {
+      "state": "generated-awaiting-review",
+      "updatedAt": 1793235631.8638787,
+      "exitCode": 0
+    },
+    "portrait-16a338-hd": {
+      "state": "generated-awaiting-review",
+      "updatedAt": 1793235638.1067894,
+      "exitCode": 0
+    },
+    "portrait-16a7b8-hd": {
+      "state": "generated-awaiting-review",
+      "updatedAt": 1793235639.26392,
+      "exitCode": 0
+    },
+    "portrait-16ac38-hd": {
+      "state": "generated-awaiting-review",
+      "updatedAt": 1793235648.0076935,
+      "exitCode": 0
+    },
+    "portrait-16b0b8-hd": {
+      "state": "generated-awaiting-review",
+      "updatedAt": 1793235653.2341363,
+      "exitCode": 0
+    },
+    "character-101a00-walk-v2": {
+      "state": "failed",
+      "updatedAt": 1793235615.7877862,
+      "exitCode": 1
+    },
+    "character-103000-walk-v2": {
+      "state": "failed",
+      "updatedAt": 1793235615.9564795,
+      "exitCode": 1
+    },
+    "character-104600-walk-v2": {
+      "state": "failed",
+      "updatedAt": 1793235616.1743026,
+      "exitCode": 1
+    },
+    "character-105c00-walk-v2": {
+      "state": "failed",
+      "updatedAt": 1793235616.442767,
+      "exitCode": 1
+    },
+    "character-107200-walk-v2": {
+      "state": "failed",
+      "updatedAt": 1793235616.6621974,
+      "exitCode": 1
+    },
+    "character-108800-walk-v2": {
+      "state": "failed",
+      "updatedAt": 1793235616.829569,
+      "exitCode": 1
+    },
+    "character-109e00-walk-v2": {
+      "state": "failed",
+      "updatedAt": 1793235616.997951,
+      "exitCode": 1
+    },
+    "character-10b400-walk-v2": {
+      "state": "failed",
+      "updatedAt": 1793235617.2175586,
+      "exitCode": 1
+    },
+    "character-10ca00-walk-v2": {
+      "state": "failed",
+      "updatedAt": 1793235617.3853345,
+      "exitCode": 1
+    },
+    "character-10e000-walk-v2": {
+      "state": "failed",
+      "updatedAt": 1793235617.5551748,
+      "exitCode": 1
+    },
+    "character-10f600-walk-v2": {
+      "state": "failed",
+      "updatedAt": 1793235617.7235782,
+      "exitCode": 1
+    },
+    "character-110c00-walk-v2": {
+      "state": "failed",
+      "updatedAt": 1793235617.8914182,
+      "exitCode": 1
+    },
+    "character-112200-walk-v2": {
+      "state": "failed",
+      "updatedAt": 1793235618.0590315,
+      "exitCode": 1
+    },
+    "character-113800-walk-v2": {
+      "state": "failed",
+      "updatedAt": 1793235618.2816007,
+      "exitCode": 1
+    },
+    "character-114e00-walk-v2": {
+      "state": "failed",
+      "updatedAt": 1793235618.4532568,
+      "exitCode": 1
+    },
+    "character-116400-walk-v2": {
+      "state": "failed",
+      "updatedAt": 1793235618.621982,
+      "exitCode": 1
+    },
+    "character-117a00-walk-v2": {
+      "state": "failed",
+      "updatedAt": 1793235618.789422,
+      "exitCode": 1
+    },
+    "character-119000-walk-v2": {
+      "state": "failed",
+      "updatedAt": 1793235618.9576397,
+      "exitCode": 1
+    },
+    "character-11a600-walk-v2": {
+      "state": "failed",
+      "updatedAt": 1793235619.1249673,
+      "exitCode": 1
+    },
+    "character-11bc00-walk-v2": {
+      "state": "failed",
+      "updatedAt": 1793235619.2962177,
+      "exitCode": 1
+    },
+    "character-11d200-walk-v2": {
+      "state": "failed",
+      "updatedAt": 1793235619.5161107,
+      "exitCode": 1
+    },
+    "character-11e800-walk-v2": {
+      "state": "failed",
+      "updatedAt": 1793235619.6849282,
+      "exitCode": 1
+    },
+    "character-120000-walk-v2": {
+      "state": "failed",
+      "updatedAt": 1793235619.8531573,
+      "exitCode": 1
+    },
+    "character-121600-walk-v2": {
+      "state": "failed",
+      "updatedAt": 1793235620.0228398,
+      "exitCode": 1
+    },
+    "character-122c00-walk-v2": {
+      "state": "failed",
+      "updatedAt": 1793235620.1926353,
+      "exitCode": 1
+    },
+    "character-124200-walk-v2": {
+      "state": "failed",
+      "updatedAt": 1793235620.3620195,
+      "exitCode": 1
+    },
+    "character-125800-walk-v2": {
+      "state": "failed",
+      "updatedAt": 1793235620.5309606,
+      "exitCode": 1
+    },
+    "character-126e00-walk-v2": {
+      "state": "failed",
+      "updatedAt": 1793235620.7002997,
+      "exitCode": 1
+    },
+    "character-128400-walk-v2": {
+      "state": "failed",
+      "updatedAt": 1793235620.8680277,
+      "exitCode": 1
+    },
+    "character-129a00-walk-v2": {
+      "state": "failed",
+      "updatedAt": 1793235621.0364742,
+      "exitCode": 1
+    },
+    "character-12b000-walk-v2": {
+      "state": "failed",
+      "updatedAt": 1793235621.2572598,
+      "exitCode": 1
+    },
+    "character-12c600-walk-v2": {
+      "state": "failed",
+      "updatedAt": 1793235621.4776554,
+      "exitCode": 1
+    },
+    "character-12dc00-walk-v2": {
+      "state": "failed",
+      "updatedAt": 1793235621.6475568,
+      "exitCode": 1
+    },
+    "character-12f200-walk-v2": {
+      "state": "failed",
+      "updatedAt": 1793235621.8189325,
+      "exitCode": 1
+    },
+    "character-130800-walk-v2": {
+      "state": "failed",
+      "updatedAt": 1793235621.9863348,
+      "exitCode": 1
+    },
+    "character-131e00-walk-v2": {
+      "state": "failed",
+      "updatedAt": 1793235622.2047434,
+      "exitCode": 1
+    },
+    "character-133400-walk-v2": {
+      "state": "failed",
+      "updatedAt": 1793235622.5939867,
+      "exitCode": 1
+    },
+    "character-134a00-walk-v2": {
+      "state": "failed",
+      "updatedAt": 1793235622.9711432,
+      "exitCode": 1
+    },
+    "character-136000-walk-v2": {
+      "state": "failed",
+      "updatedAt": 1793235623.2945392,
+      "exitCode": 1
+    },
+    "character-137600-walk-v2": {
+      "state": "failed",
+      "updatedAt": 1793235623.379928,
+      "exitCode": 1
+    },
+    "character-138c00-walk-v2": {
+      "state": "failed",
+      "updatedAt": 1793235623.5640123,
+      "exitCode": 1
+    },
+    "character-13a200-walk-v2": {
+      "state": "failed",
+      "updatedAt": 1793235623.6019707,
+      "exitCode": 1
+    },
+    "character-13b800-walk-v2": {
+      "state": "failed",
+      "updatedAt": 1793235623.8368266,
+      "exitCode": 1
+    },
+    "character-13ce00-walk-v2": {
+      "state": "failed",
+      "updatedAt": 1793235623.8759737,
+      "exitCode": 1
+    },
+    "character-13e400-walk-v2": {
+      "state": "failed",
+      "updatedAt": 1793235624.1082425,
+      "exitCode": 1
+    },
+    "character-140000-walk-v2": {
+      "state": "failed",
+      "updatedAt": 1793235624.1481898,
+      "exitCode": 1
+    },
+    "character-141600-walk-v2": {
+      "state": "failed",
+      "updatedAt": 1793235624.4275525,
+      "exitCode": 1
+    },
+    "character-142c00-walk-v2": {
+      "state": "failed",
+      "updatedAt": 1793235624.4704545,
+      "exitCode": 1
+    },
+    "character-144200-walk-v2": {
+      "state": "failed",
+      "updatedAt": 1793235624.69873,
+      "exitCode": 1
+    },
+    "character-145800-walk-v2": {
+      "state": "failed",
+      "updatedAt": 1793235624.79251,
+      "exitCode": 1
+    },
+    "character-146e00-walk-v2": {
+      "state": "failed",
+      "updatedAt": 1793235625.0214517,
+      "exitCode": 1
+    },
+    "character-148400-walk-v2": {
+      "state": "failed",
+      "updatedAt": 1793235625.0642805,
+      "exitCode": 1
+    },
+    "character-149a00-walk-v2": {
+      "state": "failed",
+      "updatedAt": 1793235625.3461192,
+      "exitCode": 1
+    },
+    "character-14b000-walk-v2": {
+      "state": "failed",
+      "updatedAt": 1793235625.386443,
+      "exitCode": 1
+    },
+    "character-14c600-walk-v2": {
+      "state": "failed",
+      "updatedAt": 1793235625.9759111,
+      "exitCode": 1
+    },
+    "character-14dc00-walk-v2": {
+      "state": "failed",
+      "updatedAt": 1793235625.9694295,
+      "exitCode": 1
+    },
+    "character-14f200-walk-v2": {
+      "state": "failed",
+      "updatedAt": 1793235626.603392,
+      "exitCode": 1
+    },
+    "character-150800-walk-v2": {
+      "state": "failed",
+      "updatedAt": 1793235626.6056652,
+      "exitCode": 1
+    },
+    "character-151e00-walk-v2": {
+      "state": "failed",
+      "updatedAt": 1793235626.881262,
+      "exitCode": 1
+    }
+  }
+}

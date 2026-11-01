@@ -1,0 +1,81 @@
+[
+  {
+    "id": "bank-032386-0772aa-0dd948-pixel-hd",
+    "kind": "map-bank",
+    "style": "pixel-hd",
+    "reference": "bank-032386-0772aa-0dd948.png",
+    "prompt": "Edit this modular RPG environment atlas in modern crisp high-definition JRPG pixel art, clean clustered shading and sharp readable details. Preserve every tile position, size ratio, grid boundary, blank black space, orientation and object footprint EXACTLY. Do not rearrange or merge cells. Do not make a complete scene. Redraw details with much clearer forms. Neighboring pieces must connect seamlessly. Preserve all signs and inscriptions as source glyph silhouettes; never replace characters with guessed words. Original 32px tile boundaries must remain at the identical proportional coordinates. Increase resolution while keeping the entire canvas aspect ratio. No borders or extra objects. This is a candidate atlas for later geometry and lettering validation.",
+    "size": "auto"
+  },
+  {
+    "id": "bank-032386-0772aa-0dd948-unreal",
+    "kind": "map-bank",
+    "style": "unreal",
+    "reference": "bank-032386-0772aa-0dd948.png",
+    "prompt": "Edit this modular RPG environment atlas in Unreal Engine quality stylized-realistic PBR game assets, clear silhouettes and soft neutral lighting. Preserve every tile position, size ratio, grid boundary, blank black space, orientation and object footprint EXACTLY. Do not rearrange or merge cells. Do not make a complete scene. Redraw details with much clearer forms. Neighboring pieces must connect seamlessly. Preserve all signs and inscriptions as source glyph silhouettes; never replace characters with guessed words. Original 32px tile boundaries must remain at the identical proportional coordinates. Increase resolution while keeping the entire canvas aspect ratio. No borders or extra objects. This is a candidate atlas for later geometry and lettering validation.",
+    "size": "auto"
+  },
+  {
+    "id": "bank-032386-0772aa-0dd948-ghibli",
+    "kind": "map-bank",
+    "style": "ghibli",
+    "reference": "bank-032386-0772aa-0dd948.png",
+    "prompt": "Edit this modular RPG environment atlas in Studio Ghibli inspired hand-painted animation background art, refined clear shapes and warm colors. Preserve every tile position, size ratio, grid boundary, blank black space, orientation and object footprint EXACTLY. Do not rearrange or merge cells. Do not make a complete scene. Redraw details with much clearer forms. Neighboring pieces must connect seamlessly. Preserve all signs and inscriptions as source glyph silhouettes; never replace characters with guessed words. Original 32px tile boundaries must remain at the identical proportional coordinates. Increase resolution while keeping the entire canvas aspect ratio. No borders or extra objects. This is a candidate atlas for later geometry and lettering validation.",
+    "size": "auto"
+  },
+  {
+    "id": "bank-037948-07852a-0dd988-pixel-hd",
+    "kind": "map-bank",
+    "style": "pixel-hd",
+    "reference": "bank-037948-07852a-0dd988.png",
+    "prompt": "Edit this modular RPG environment atlas in modern crisp high-definition JRPG pixel art, clean clustered shading and sharp readable details. Preserve every tile position, size ratio, grid boundary, blank black space, orientation and object footprint EXACTLY. Do not rearrange or merge cells. Do not make a complete scene. Redraw details with much clearer forms. Neighboring pieces must connect seamlessly. Preserve all signs and inscriptions as source glyph silhouettes; never replace characters with guessed words. Original 32px tile boundaries must remain at the identical proportional coordinates. Increase resolution while keeping the entire canvas aspect ratio. No borders or extra objects. This is a candidate atlas for later geometry and lettering validation.",
+    "size": "auto"
+  },
+  {
+    "id": "bank-037948-07852a-0dd988-unreal",
+    "kind": "map-bank",
+    "style": "unreal",
+    "reference": "bank-037948-07852a-0dd988.png",
+    "prompt": "Edit this modular RPG environment atlas in Unreal Engine quality stylized-realistic PBR game assets, clear silhouettes and soft neutral lighting. Preserve every tile position, size ratio, grid boundary, blank black space, orientation and object footprint EXACTLY. Do not rearrange or merge cells. Do not make a complete scene. Redraw details with much clearer forms. Neighboring pieces must connect seamlessly. Preserve all signs and inscriptions as source glyph silhouettes; never replace characters with guessed words. Original 32px tile boundaries must remain at the identical proportional coordinates. Increase resolution while keeping the entire canvas aspect ratio. No borders or extra objects. This is a candidate atlas for later geometry and lettering validation.",
+    "size": "auto"
+  },
+  {
+    "id": "bank-037948-07852a-0dd988-ghibli",
+    "kind": "map-bank",
+    "style": "ghibli",
+    "reference": "bank-037948-07852a-0dd988.png",
+    "prompt": "Edit this modular RPG environment atlas in Studio Ghibli inspired hand-painted animation background art, refined clear shapes and warm colors. Preserve every tile position, size ratio, grid boundary, blank black space, orientation and object footprint EXACTLY. Do not rearrange or merge cells. Do not make a complete scene. Redraw details with much clearer forms. Neighboring pieces must connect seamlessly. Preserve all signs and inscriptions as source glyph silhouettes; never replace characters with guessed words. Original 32px tile boundaries must remain at the identical proportional coordinates. Increase resolution while keeping the entire canvas aspect ratio. No borders or extra objects. This is a candidate atlas for later geometry and lettering validation.",
+    "size": "auto"
+  },
+  {
+    "id": "portrait-160138-hd",
+    "kind": "portrait",
+    "style": "shared-hd",
+    "reference": "portrait-160138.png",
+    "prompt": "Redraw this Chinese historical RPG portrait in clear refined modern JRPG illustration, with restrained crisp shading and readable forms. Preserve identity, hair, clothing, colors, expression, crop and orientation. Single portrait only; no border, text, extra characters or background scenery.",
+    "size": "auto"
+  },
+  {
+    "id": "portrait-1605b8-hd",
+    "kind": "portrait",
+    "style": "shared-hd",
+    "reference": "portrait-1605b8.png",
+    "prompt": "Redraw this Chinese historical RPG portrait in clear refined modern JRPG illustration, with restrained crisp shading and readable forms. Preserve identity, hair, clothing, colors, expression, crop and orientation. Single portrait only; no border, text, extra characters or background scenery.",
+    "size": "auto"
+  },
+  {
+    "id": "character-100400-hd",
+    "kind": "character",
+    "style": "shared-hd",
+    "reference": "character-100400.png",
+    "prompt": "Redraw this Chinese historical RPG character in clear refined modern JRPG illustration, with restrained crisp shading and readable forms. Preserve identity, hair, clothing, colors, expression, crop and orientation. For the animation sheet preserve ALL 11 frames, exact sequence, poses, baselines, empty spacing and equal frame widths. Never combine or omit frames. Entire strip visible with same aspect ratio. Keep black background.",
+    "size": "auto"
+  },
+  {
+    "id": "interface-kit-hd",
+    "kind": "interface",
+    "style": "shared-hd",
+    "prompt": "Create a clean game UI art component sheet, 1536x1024. Chinese historical RPG for iPhone. Warm ivory paper, dark jade panels, restrained antique gold edges. Three separated components on neutral dark background: wide dialogue panel with empty portrait recess on left, tall shop panel with empty header and 4 blank item rows, and a row of 4 blank rounded rectangular touch buttons. NO text, letters, numbers, icons or characters. Empty panel areas must be calm and legible for later Unicode text overlay. High quality refined 2D hand-painted ornamental edges, subtle texture, no busy decoration inside text areas. All components separated by ample gutters.",
+    "size": "1536x1024"
+  }
+]

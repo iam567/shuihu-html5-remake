@@ -1,0 +1,879 @@
+ram	from	type	function	instruction
+ffe1f5	00000754	WRITE	000004ba ResetEntry	move.b #-0x1,(0x00ffe1f5).l
+ffe1f5	00007e82	READ_WRITE	00007d40 FUN_00007d40	addq.b #0x1,(0x00ffe1f5).l
+ffe1f5	0000f04e	READ	0000f012 FUN_0000f012	move.b (0x00ffe1f5).l,D4b
+ffe1f5	0002517a	WRITE	00024f06 FUN_00024f06	move.b #-0x1,(0x00ffe1f5).l
+ffe1f5	000121b6	READ	-	cmpi.b #-0x1,(0x00ffe1f5).l
+ffe1f5	000121ce	WRITE	-	move.b #0x0,(0x00ffe1f5).l
+ffe1f5	00012248	READ	-	cmpi.b #-0x1,(0x00ffe1f5).l
+ffe1f5	00012260	WRITE	-	move.b #0x0,(0x00ffe1f5).l
+ffe1f5	000122ee	READ	-	cmp.b (0x00ffe1f5).l,D1b
+ffe1f5	000122fe	READ	-	cmpi.b #0x0,(0x00ffe1f5).l
+ffe1f5	00012334	READ	-	cmpi.b #0x3,(0x00ffe1f5).l
+ffe1f5	00012344	READ	-	move.b (0x00ffe1f5).l,D1b
+ffe1f5	00012380	READ	-	cmpi.b #-0x1,(0x00ffe1f5).l
+ffe1f5	00012398	WRITE	-	move.b #0x0,(0x00ffe1f5).l
+ffe1f5	00012406	READ	-	cmpi.b #-0x1,(0x00ffe1f5).l
+ffe1f5	0001241e	WRITE	-	move.b #0x0,(0x00ffe1f5).l
+ffe1f5	0001248a	READ	-	cmpi.b #-0x1,(0x00ffe1f5).l
+ffe1f5	000124a2	WRITE	-	move.b #0x0,(0x00ffe1f5).l
+ffe1f5	00012552	READ	-	cmpi.b #-0x1,(0x00ffe1f5).l
+ffe1f5	0001256a	WRITE	-	move.b #0x0,(0x00ffe1f5).l
+ffe1f5	0001261c	READ	-	cmpi.b #-0x1,(0x00ffe1f5).l
+ffe1f5	0001263c	WRITE	-	move.b #0x0,(0x00ffe1f5).l
+ffe1f5	000126c2	READ	-	cmp.b (0x00ffe1f5).l,D1b
+ffe1f5	000126d2	READ	-	cmpi.b #0x0,(0x00ffe1f5).l
+ffe1f5	000126e2	READ	-	cmpi.b #0x7,(0x00ffe1f5).l
+ffe1f5	000126ee	READ	-	move.b (0x00ffe1f5).l,D1b
+ffe1f5	00012756	READ	-	cmpi.b #-0x1,(0x00ffe1f5).l
+ffe1f5	0001276e	WRITE	-	move.b #0x0,(0x00ffe1f5).l
+ffe1f5	00012802	READ	-	cmpi.b #-0x1,(0x00ffe1f5).l
+ffe1f5	0001281a	WRITE	-	move.b #0x0,(0x00ffe1f5).l
+ffe1f5	00012894	READ	-	cmpi.b #-0x1,(0x00ffe1f5).l
+ffe1f5	000128ac	WRITE	-	move.b #0x0,(0x00ffe1f5).l
+ffe1f5	00012926	READ	-	cmpi.b #-0x1,(0x00ffe1f5).l
+ffe1f5	0001293e	WRITE	-	move.b #0x0,(0x00ffe1f5).l
+ffe1f5	000129ac	READ	-	cmpi.b #0x4,(0x00ffe1f5).l
+ffe1f5	00012a10	READ	-	cmpi.b #-0x1,(0x00ffe1f5).l
+ffe1f5	00012a28	WRITE	-	move.b #0x0,(0x00ffe1f5).l
+ffe1f5	00012a96	READ	-	cmpi.b #-0x1,(0x00ffe1f5).l
+ffe1f5	00012aae	WRITE	-	move.b #0x0,(0x00ffe1f5).l
+ffe1f5	00012b88	READ	-	cmpi.b #-0x1,(0x00ffe1f5).l
+ffe1f5	00012ba0	WRITE	-	move.b #0x0,(0x00ffe1f5).l
+ffe1f5	00012c5e	READ	-	cmpi.b #-0x1,(0x00ffe1f5).l
+ffe1f5	00012c76	WRITE	-	move.b #0x0,(0x00ffe1f5).l
+ffe1f5	00012d28	READ	-	cmpi.b #-0x1,(0x00ffe1f5).l
+ffe1f5	00012d40	WRITE	-	move.b #0x0,(0x00ffe1f5).l
+ffe1f5	00012dae	READ	-	cmpi.b #-0x1,(0x00ffe1f5).l
+ffe1f5	00012dc6	WRITE	-	move.b #0x0,(0x00ffe1f5).l
+ffe1f5	00012e34	READ	-	cmpi.b #-0x1,(0x00ffe1f5).l
+ffe1f5	00012e4c	WRITE	-	move.b #0x0,(0x00ffe1f5).l
+ffe1f5	00012ee6	READ	-	cmp.b (0x00ffe1f5).l,D1b
+ffe1f5	00012ef6	READ	-	cmpi.b #0x0,(0x00ffe1f5).l
+ffe1f5	00012f2c	READ	-	cmpi.b #0x3,(0x00ffe1f5).l
+ffe1f5	00012f3c	READ	-	move.b (0x00ffe1f5).l,D1b
+ffe1f5	0001306a	READ	-	cmpi.b #-0x1,(0x00ffe1f5).l
+ffe1f5	00013082	WRITE	-	move.b #0x0,(0x00ffe1f5).l
+ffe1f5	000130fc	READ	-	cmpi.b #-0x1,(0x00ffe1f5).l
+ffe1f5	00013124	WRITE	-	move.b #0x0,(0x00ffe1f5).l
+ffe1f5	00013208	READ	-	cmpi.b #-0x1,(0x00ffe1f5).l
+ffe1f5	00013230	WRITE	-	move.b #0x0,(0x00ffe1f5).l
+ffe1f5	00013344	READ	-	cmpi.b #-0x1,(0x00ffe1f5).l
+ffe1f5	0001335c	WRITE	-	move.b #0x0,(0x00ffe1f5).l
+ffe1f5	00013502	READ	-	cmpi.b #-0x1,(0x00ffe1f5).l
+ffe1f5	0001352a	WRITE	-	move.b #0x0,(0x00ffe1f5).l
+ffe1f5	0001360e	READ	-	cmpi.b #-0x1,(0x00ffe1f5).l
+ffe1f5	00013636	WRITE	-	move.b #0x0,(0x00ffe1f5).l
+ffe1f5	0001373a	READ	-	cmpi.b #-0x1,(0x00ffe1f5).l
+ffe1f5	00013762	WRITE	-	move.b #0x0,(0x00ffe1f5).l
+ffe1f5	000137dc	READ	-	cmpi.b #-0x1,(0x00ffe1f5).l
+ffe1f5	00013804	WRITE	-	move.b #0x0,(0x00ffe1f5).l
+ffe1f5	00013908	READ	-	cmpi.b #-0x1,(0x00ffe1f5).l
+ffe1f5	00013930	WRITE	-	move.b #0x0,(0x00ffe1f5).l
+ffe1f5	000139aa	READ	-	cmpi.b #-0x1,(0x00ffe1f5).l
+ffe1f5	000139d2	WRITE	-	move.b #0x0,(0x00ffe1f5).l
+ffe1f5	00013b0e	READ	-	cmpi.b #-0x1,(0x00ffe1f5).l
+ffe1f5	00013b36	WRITE	-	move.b #0x0,(0x00ffe1f5).l
+ffe1f5	00013c0e	READ	-	cmpi.b #-0x1,(0x00ffe1f5).l
+ffe1f5	00013c36	WRITE	-	move.b #0x0,(0x00ffe1f5).l
+ffe1f5	00013d3a	READ	-	cmpi.b #-0x1,(0x00ffe1f5).l
+ffe1f5	00013d62	WRITE	-	move.b #0x0,(0x00ffe1f5).l
+ffe1f5	00013e46	READ	-	cmpi.b #-0x1,(0x00ffe1f5).l
+ffe1f5	00013e6e	WRITE	-	move.b #0x0,(0x00ffe1f5).l
+ffe1f5	00013f52	READ	-	cmpi.b #-0x1,(0x00ffe1f5).l
+ffe1f5	00013f7a	WRITE	-	move.b #0x0,(0x00ffe1f5).l
+ffe1f5	0001405e	READ	-	cmpi.b #-0x1,(0x00ffe1f5).l
+ffe1f5	00014076	WRITE	-	move.b #0x0,(0x00ffe1f5).l
+ffe1f5	000140e2	READ	-	cmp.b (0x00ffe1f5).l,D1b
+ffe1f5	000140f2	READ	-	cmpi.b #0x0,(0x00ffe1f5).l
+ffe1f5	0001412a	READ	-	move.b (0x00ffe1f5).l,D1b
+ffe1f5	00013470	READ	-	cmp.b (0x00ffe1f5).l,D1b
+ffe1f5	00013480	READ	-	cmpi.b #0x0,(0x00ffe1f5).l
+ffe1f5	000134b6	READ	-	cmpi.b #0x3,(0x00ffe1f5).l
+ffe1f5	000134c6	READ	-	move.b (0x00ffe1f5).l,D1b
+ffe1fc	000125b2	READ	-	move.l (0x00ffe1fc).l,D1
+ffe1fc	000125e2	WRITE	-	move.l D1,(0x00ffe1fc).l
+ffe1fc	00012986	READ	-	move.l (0x00ffe1fc).l,D1
+ffe1fc	000129bc	WRITE	-	move.l D1,(0x00ffe1fc).l
+ffe1fc	00012b02	READ	-	move.l (0x00ffe1fc).l,D1
+ffe1fc	00012b32	WRITE	-	move.l D1,(0x00ffe1fc).l
+ffe1fc	00012bf4	READ	-	move.l (0x00ffe1fc).l,D1
+ffe1fc	00012c24	WRITE	-	move.l D1,(0x00ffe1fc).l
+ffe1fc	00012cbe	READ	-	move.l (0x00ffe1fc).l,D1
+ffe1fc	00012cee	WRITE	-	move.l D1,(0x00ffe1fc).l
+ffe1fc	00013114	READ	-	move.l (0x00ffe1fc).l,D1
+ffe1fc	0001311e	WRITE	-	move.l D1,(0x00ffe1fc).l
+ffe1fc	00013178	READ	-	move.l (0x00ffe1fc).l,D1
+ffe1fc	000131c4	READ	-	move.l (0x00ffe1fc).l,D1
+ffe1fc	000131ce	WRITE	-	move.l D1,(0x00ffe1fc).l
+ffe1fc	00013220	READ	-	move.l (0x00ffe1fc).l,D1
+ffe1fc	0001322a	WRITE	-	move.l D1,(0x00ffe1fc).l
+ffe1fc	00013284	READ	-	move.l (0x00ffe1fc).l,D1
+ffe1fc	000132f0	READ	-	move.l (0x00ffe1fc).l,D1
+ffe1fc	000132fa	WRITE	-	move.l D1,(0x00ffe1fc).l
+ffe1fc	0001351a	READ	-	move.l (0x00ffe1fc).l,D1
+ffe1fc	00013524	WRITE	-	move.l D1,(0x00ffe1fc).l
+ffe1fc	0001357e	READ	-	move.l (0x00ffe1fc).l,D1
+ffe1fc	000135ca	READ	-	move.l (0x00ffe1fc).l,D1
+ffe1fc	000135d4	WRITE	-	move.l D1,(0x00ffe1fc).l
+ffe1fc	00013626	READ	-	move.l (0x00ffe1fc).l,D1
+ffe1fc	00013630	WRITE	-	move.l D1,(0x00ffe1fc).l
+ffe1fc	0001368a	READ	-	move.l (0x00ffe1fc).l,D1
+ffe1fc	000136f6	READ	-	move.l (0x00ffe1fc).l,D1
+ffe1fc	00013700	WRITE	-	move.l D1,(0x00ffe1fc).l
+ffe1fc	00013752	READ	-	move.l (0x00ffe1fc).l,D1
+ffe1fc	0001375c	WRITE	-	move.l D1,(0x00ffe1fc).l
+ffe1fc	000137f4	READ	-	move.l (0x00ffe1fc).l,D1
+ffe1fc	000137fe	WRITE	-	move.l D1,(0x00ffe1fc).l
+ffe1fc	00013858	READ	-	move.l (0x00ffe1fc).l,D1
+ffe1fc	000138c4	READ	-	move.l (0x00ffe1fc).l,D1
+ffe1fc	000138ce	WRITE	-	move.l D1,(0x00ffe1fc).l
+ffe1fc	00013920	READ	-	move.l (0x00ffe1fc).l,D1
+ffe1fc	0001392a	WRITE	-	move.l D1,(0x00ffe1fc).l
+ffe1fc	000139c2	READ	-	move.l (0x00ffe1fc).l,D1
+ffe1fc	000139cc	WRITE	-	move.l D1,(0x00ffe1fc).l
+ffe1fc	00013a1a	READ	-	move.l (0x00ffe1fc).l,D1
+ffe1fc	00013a86	READ	-	move.l (0x00ffe1fc).l,D1
+ffe1fc	00013a90	WRITE	-	move.l D1,(0x00ffe1fc).l
+ffe1fc	00013aa4	READ	-	move.l (0x00ffe1fc).l,D1
+ffe1fc	00013ad4	WRITE	-	move.l D1,(0x00ffe1fc).l
+ffe1fc	00013b26	READ	-	move.l (0x00ffe1fc).l,D1
+ffe1fc	00013b30	WRITE	-	move.l D1,(0x00ffe1fc).l
+ffe1fc	00013b7e	READ	-	move.l (0x00ffe1fc).l,D1
+ffe1fc	00013bca	READ	-	move.l (0x00ffe1fc).l,D1
+ffe1fc	00013bd4	WRITE	-	move.l D1,(0x00ffe1fc).l
+ffe1fc	00013c26	READ	-	move.l (0x00ffe1fc).l,D1
+ffe1fc	00013c30	WRITE	-	move.l D1,(0x00ffe1fc).l
+ffe1fc	00013c8a	READ	-	move.l (0x00ffe1fc).l,D1
+ffe1fc	00013cf6	READ	-	move.l (0x00ffe1fc).l,D1
+ffe1fc	00013d00	WRITE	-	move.l D1,(0x00ffe1fc).l
+ffe1fc	00013d52	READ	-	move.l (0x00ffe1fc).l,D1
+ffe1fc	00013d5c	WRITE	-	move.l D1,(0x00ffe1fc).l
+ffe1fc	00013db6	READ	-	move.l (0x00ffe1fc).l,D1
+ffe1fc	00013e02	READ	-	move.l (0x00ffe1fc).l,D1
+ffe1fc	00013e0c	WRITE	-	move.l D1,(0x00ffe1fc).l
+ffe1fc	00013e5e	READ	-	move.l (0x00ffe1fc).l,D1
+ffe1fc	00013e68	WRITE	-	move.l D1,(0x00ffe1fc).l
+ffe1fc	00013ec2	READ	-	move.l (0x00ffe1fc).l,D1
+ffe1fc	00013f0e	READ	-	move.l (0x00ffe1fc).l,D1
+ffe1fc	00013f18	WRITE	-	move.l D1,(0x00ffe1fc).l
+ffe1fc	00013f6a	READ	-	move.l (0x00ffe1fc).l,D1
+ffe1fc	00013f74	WRITE	-	move.l D1,(0x00ffe1fc).l
+ffe1fc	00013fce	READ	-	move.l (0x00ffe1fc).l,D1
+ffe1fc	0001401a	READ	-	move.l (0x00ffe1fc).l,D1
+ffe1fc	00014024	WRITE	-	move.l D1,(0x00ffe1fc).l
+ff6310	000045d4	WRITE	000043ca FUN_000043ca	move.b #0x1,(0x00ff6310).l
+ff6310	000045fc	READ	000043ca FUN_000043ca	cmpi.b #0x0,(0x00ff6310).l
+ff6310	0000472c	WRITE	000043ca FUN_000043ca	move.b #0x1,(0x00ff6310).l
+ff6310	0000848c	WRITE	00007e98 FUN_00007e98	move.b #0x1,(0x00ff6310).l
+ff6310	000084b4	READ	00007e98 FUN_00007e98	cmpi.b #0x0,(0x00ff6310).l
+ff6310	000085d0	WRITE	00007e98 FUN_00007e98	move.b #0x1,(0x00ff6310).l
+ff6310	0000c70a	WRITE	0000c494 FUN_0000c494	move.b #0x1,(0x00ff6310).l
+ff6310	0000c732	READ	0000c494 FUN_0000c494	cmpi.b #0x0,(0x00ff6310).l
+ff6310	0000e1f0	WRITE	-	move.b #0x1,(0x00ff6310).l
+ff6310	0000e218	READ	-	cmpi.b #0x0,(0x00ff6310).l
+ff6310	0000e318	WRITE	-	move.b #0x1,(0x00ff6310).l
+ff6310	0001683e	READ	0001683e FUN_0001683e	tst.b (0x00ff6310).l
+ff6310	00016938	WRITE	0001683e FUN_0001683e	clr.b (0x00ff6310).l
+ff6310	0001219e	READ	-	tst.b (0x00ff6310).l
+ff6310	000121fe	READ	-	tst.b (0x00ff6310).l
+ff6310	00012230	READ	-	tst.b (0x00ff6310).l
+ff6310	000122ac	READ	-	tst.b (0x00ff6310).l
+ff6310	00012368	READ	-	tst.b (0x00ff6310).l
+ff6310	000123bc	READ	-	tst.b (0x00ff6310).l
+ff6310	000123ee	READ	-	tst.b (0x00ff6310).l
+ff6310	00012440	READ	-	tst.b (0x00ff6310).l
+ff6310	00012472	READ	-	tst.b (0x00ff6310).l
+ff6310	000124d2	READ	-	tst.b (0x00ff6310).l
+ff6310	0001253a	READ	-	tst.b (0x00ff6310).l
+ff6310	0001258e	READ	-	tst.b (0x00ff6310).l
+ff6310	00012604	READ	-	tst.b (0x00ff6310).l
+ff6310	00012680	READ	-	tst.b (0x00ff6310).l
+ff6310	0001273e	READ	-	tst.b (0x00ff6310).l
+ff6310	0001279e	READ	-	tst.b (0x00ff6310).l
+ff6310	000127ea	READ	-	tst.b (0x00ff6310).l
+ff6310	0001284a	READ	-	tst.b (0x00ff6310).l
+ff6310	0001287c	READ	-	tst.b (0x00ff6310).l
+ff6310	000128dc	READ	-	tst.b (0x00ff6310).l
+ff6310	0001290e	READ	-	tst.b (0x00ff6310).l
+ff6310	00012962	READ	-	tst.b (0x00ff6310).l
+ff6310	000129f8	READ	-	tst.b (0x00ff6310).l
+ff6310	00012a4c	READ	-	tst.b (0x00ff6310).l
+ff6310	00012a7e	READ	-	tst.b (0x00ff6310).l
+ff6310	00012ade	READ	-	tst.b (0x00ff6310).l
+ff6310	00012b70	READ	-	tst.b (0x00ff6310).l
+ff6310	00012bd0	READ	-	tst.b (0x00ff6310).l
+ff6310	00012c46	READ	-	tst.b (0x00ff6310).l
+ff6310	00012c9a	READ	-	tst.b (0x00ff6310).l
+ff6310	00012d10	READ	-	tst.b (0x00ff6310).l
+ff6310	00012d64	READ	-	tst.b (0x00ff6310).l
+ff6310	00012d96	READ	-	tst.b (0x00ff6310).l
+ff6310	00012dea	READ	-	tst.b (0x00ff6310).l
+ff6310	00012e1c	READ	-	tst.b (0x00ff6310).l
+ff6310	00012ea4	READ	-	tst.b (0x00ff6310).l
+ff6310	00013052	READ	-	tst.b (0x00ff6310).l
+ff6310	000130b2	READ	-	tst.b (0x00ff6310).l
+ff6310	000130e4	READ	-	tst.b (0x00ff6310).l
+ff6310	00013154	READ	-	tst.b (0x00ff6310).l
+ff6310	000131f0	READ	-	tst.b (0x00ff6310).l
+ff6310	00013260	READ	-	tst.b (0x00ff6310).l
+ff6310	0001332c	READ	-	tst.b (0x00ff6310).l
+ff6310	00013380	READ	-	tst.b (0x00ff6310).l
+ff6310	000134ea	READ	-	tst.b (0x00ff6310).l
+ff6310	0001355a	READ	-	tst.b (0x00ff6310).l
+ff6310	000135f6	READ	-	tst.b (0x00ff6310).l
+ff6310	00013666	READ	-	tst.b (0x00ff6310).l
+ff6310	00013722	READ	-	tst.b (0x00ff6310).l
+ff6310	00013792	READ	-	tst.b (0x00ff6310).l
+ff6310	000137c4	READ	-	tst.b (0x00ff6310).l
+ff6310	00013834	READ	-	tst.b (0x00ff6310).l
+ff6310	000138f0	READ	-	tst.b (0x00ff6310).l
+ff6310	00013960	READ	-	tst.b (0x00ff6310).l
+ff6310	00013992	READ	-	tst.b (0x00ff6310).l
+ff6310	000139f6	READ	-	tst.b (0x00ff6310).l
+ff6310	00013af6	READ	-	tst.b (0x00ff6310).l
+ff6310	00013b5a	READ	-	tst.b (0x00ff6310).l
+ff6310	00013bf6	READ	-	tst.b (0x00ff6310).l
+ff6310	00013c66	READ	-	tst.b (0x00ff6310).l
+ff6310	00013d22	READ	-	tst.b (0x00ff6310).l
+ff6310	00013d92	READ	-	tst.b (0x00ff6310).l
+ff6310	00013e2e	READ	-	tst.b (0x00ff6310).l
+ff6310	00013e9e	READ	-	tst.b (0x00ff6310).l
+ff6310	00013f3a	READ	-	tst.b (0x00ff6310).l
+ff6310	00013faa	READ	-	tst.b (0x00ff6310).l
+ff6310	00014046	READ	-	tst.b (0x00ff6310).l
+ff6310	000140a0	READ	-	tst.b (0x00ff6310).l
+ff6019	00000700	WRITE	000004ba ResetEntry	move.b #0x2,(0x00ff6019).l
+ff6019	000028c2	READ	000028c2 FUN_000028c2	btst.b #0x0,(0x00ff6019).l
+ff6019	000028da	READ_WRITE	000028c2 FUN_000028c2	bclr.b #0x0,(0x00ff6019).l
+ff6019	0000298a	READ	0000298a FUN_0000298a	btst.b #0x1,(0x00ff6019).l
+ff6019	000029a2	READ_WRITE	0000298a FUN_0000298a	bclr.b #0x1,(0x00ff6019).l
+ff6019	00002a52	READ	00002a52 FUN_00002a52	btst.b #0x2,(0x00ff6019).l
+ff6019	00002a6a	READ_WRITE	00002a52 FUN_00002a52	bclr.b #0x2,(0x00ff6019).l
+ff6019	00002b1a	READ	00002b1a FUN_00002b1a	btst.b #0x3,(0x00ff6019).l
+ff6019	00002b32	READ_WRITE	00002b1a FUN_00002b1a	bclr.b #0x3,(0x00ff6019).l
+ff6019	00004548	READ	000043ca FUN_000043ca	btst.b #0x2,(0x00ff6019).l
+ff6019	000046a0	READ	000043ca FUN_000043ca	btst.b #0x2,(0x00ff6019).l
+ff6019	00004956	READ_WRITE	0000487e FUN_0000487e	bset.b #0x2,(0x00ff6019).l
+ff6019	000049bc	READ_WRITE	00004976 FUN_00004976	bset.b #0x2,(0x00ff6019).l
+ff6019	00008400	READ	00007e98 FUN_00007e98	btst.b #0x2,(0x00ff6019).l
+ff6019	00008544	READ	00007e98 FUN_00007e98	btst.b #0x2,(0x00ff6019).l
+ff6019	00008aac	READ_WRITE	00008a2a FUN_00008a2a	bset.b #0x2,(0x00ff6019).l
+ff6019	00008b12	READ_WRITE	00008acc FUN_00008acc	bset.b #0x2,(0x00ff6019).l
+ff6019	0000c672	READ_WRITE	0000c494 FUN_0000c494	bset.b #0x2,(0x00ff6019).l
+ff6019	0000c6a0	READ	0000c494 FUN_0000c494	btst.b #0x2,(0x00ff6019).l
+ff6019	0000e164	READ	-	btst.b #0x2,(0x00ff6019).l
+ff6019	0000e2a8	READ	-	btst.b #0x2,(0x00ff6019).l
+ff6019	0000ead2	READ_WRITE	0000ea8c FUN_0000ea8c	bset.b #0x2,(0x00ff6019).l
+ff6019	0000ec40	READ_WRITE	0000ebbe FUN_0000ebbe	bset.b #0x2,(0x00ff6019).l
+ff6019	00017562	READ_WRITE	0001717e FUN_0001717e	bset.b #0x1,(0x00ff6019).l
+ff6019	00017a66	READ_WRITE	0001782a FUN_0001782a	bset.b #0x2,(0x00ff6019).l
+ff6019	00017b26	READ_WRITE	0001782a FUN_0001782a	bset.b #0x3,(0x00ff6019).l
+ff6019	00017c28	READ_WRITE	0001782a FUN_0001782a	bset.b #0x2,(0x00ff6019).l
+ff6019	00017ce8	READ_WRITE	0001782a FUN_0001782a	bset.b #0x3,(0x00ff6019).l
+ff6019	00017e3e	READ_WRITE	0001782a FUN_0001782a	bset.b #0x1,(0x00ff6019).l
+ff6019	0001905a	READ_WRITE	00018e2c FUN_00018e2c	bset.b #0x2,(0x00ff6019).l
+ff6019	000190f2	READ_WRITE	00018e2c FUN_00018e2c	bset.b #0x2,(0x00ff6019).l
+ff6019	000192a6	READ_WRITE	00018e2c FUN_00018e2c	bset.b #0x1,(0x00ff6019).l
+ff6019	000195be	READ_WRITE	000194fe FUN_000194fe	bset.b #0x3,(0x00ff6019).l
+ff6019	00025108	READ_WRITE	00024f06 FUN_00024f06	bset.b #0x1,(0x00ff6019).l
+ff6019	000268bc	READ_WRITE	0002666c FUN_0002666c	bset.b #0x1,(0x00ff6019).l
+ff6019	00026f5c	READ_WRITE	00026ce6 FUN_00026ce6	bset.b #0x1,(0x00ff6019).l
+ff6019	0002709a	READ_WRITE	00026ff2 FUN_00026ff2	bset.b #0x1,(0x00ff6019).l
+ff6019	0001adaa	READ_WRITE	0001ab3e FUN_0001ab3e	bset.b #0x1,(0x00ff6019).l
+ff6019	000121c2	READ	-	btst.b #0x1,(0x00ff6019).l
+ff6019	00012254	READ	-	btst.b #0x1,(0x00ff6019).l
+ff6019	0001238c	READ	-	btst.b #0x1,(0x00ff6019).l
+ff6019	00012412	READ	-	btst.b #0x1,(0x00ff6019).l
+ff6019	00012496	READ	-	btst.b #0x1,(0x00ff6019).l
+ff6019	0001255e	READ	-	btst.b #0x1,(0x00ff6019).l
+ff6019	000125d6	READ_WRITE	-	bclr.b #0x2,(0x00ff6019).l
+ff6019	00012628	READ	-	btst.b #0x1,(0x00ff6019).l
+ff6019	00012762	READ	-	btst.b #0x1,(0x00ff6019).l
+ff6019	0001280e	READ	-	btst.b #0x1,(0x00ff6019).l
+ff6019	000128a0	READ	-	btst.b #0x1,(0x00ff6019).l
+ff6019	00012932	READ	-	btst.b #0x1,(0x00ff6019).l
+ff6019	00012a1c	READ	-	btst.b #0x1,(0x00ff6019).l
+ff6019	00012aa2	READ	-	btst.b #0x1,(0x00ff6019).l
+ff6019	00012b26	READ_WRITE	-	bclr.b #0x2,(0x00ff6019).l
+ff6019	00012b94	READ	-	btst.b #0x1,(0x00ff6019).l
+ff6019	00012c18	READ_WRITE	-	bclr.b #0x2,(0x00ff6019).l
+ff6019	00012c6a	READ	-	btst.b #0x1,(0x00ff6019).l
+ff6019	00012ce2	READ_WRITE	-	bclr.b #0x2,(0x00ff6019).l
+ff6019	00012d34	READ	-	btst.b #0x1,(0x00ff6019).l
+ff6019	00012dba	READ	-	btst.b #0x1,(0x00ff6019).l
+ff6019	00012e40	READ	-	btst.b #0x1,(0x00ff6019).l
+ff6019	00013076	READ	-	btst.b #0x1,(0x00ff6019).l
+ff6019	00013108	READ	-	btst.b #0x1,(0x00ff6019).l
+ff6019	00013214	READ	-	btst.b #0x1,(0x00ff6019).l
+ff6019	00013350	READ	-	btst.b #0x1,(0x00ff6019).l
+ff6019	0001350e	READ	-	btst.b #0x1,(0x00ff6019).l
+ff6019	0001361a	READ	-	btst.b #0x1,(0x00ff6019).l
+ff6019	00013746	READ	-	btst.b #0x1,(0x00ff6019).l
+ff6019	000137e8	READ	-	btst.b #0x1,(0x00ff6019).l
+ff6019	00013914	READ	-	btst.b #0x1,(0x00ff6019).l
+ff6019	000139b6	READ	-	btst.b #0x1,(0x00ff6019).l
+ff6019	00013ac8	READ_WRITE	-	bclr.b #0x2,(0x00ff6019).l
+ff6019	00013b1a	READ	-	btst.b #0x1,(0x00ff6019).l
+ff6019	00013c1a	READ	-	btst.b #0x1,(0x00ff6019).l
+ff6019	00013d46	READ	-	btst.b #0x1,(0x00ff6019).l
+ff6019	00013e52	READ	-	btst.b #0x1,(0x00ff6019).l
+ff6019	00013f5e	READ	-	btst.b #0x1,(0x00ff6019).l
+ff6019	0001406a	READ	-	btst.b #0x1,(0x00ff6019).l
+ff614f	00005ea8	WRITE	00005ce6 FUN_00005ce6	move.b #0x1,(0x00ff614f).l
+ff614f	00005ee6	READ_WRITE	00005ce6 FUN_00005ce6	bset.b #0x1,(0x00ff614f).l
+ff614f	000088f8	WRITE	00008784 FUN_00008784	move.b #0x1,(0x00ff614f).l
+ff614f	00008936	READ_WRITE	00008784 FUN_00008784	bset.b #0x1,(0x00ff614f).l
+ff614f	00014c12	READ	00014c12 FUN_00014c12	btst.b #0x0,(0x00ff614f).l
+ff614f	00014c34	READ_WRITE	00014c12 FUN_00014c12	bclr.b #0x0,(0x00ff614f).l
+ff614f	00015056	WRITE	00014ff2 FUN_00014ff2	move.b #0x1,(0x00ff614f).l
+ff614f	00015094	READ_WRITE	00014ff2 FUN_00014ff2	bset.b #0x1,(0x00ff614f).l
+ff614f	00015572	WRITE	000154f0 FUN_000154f0	move.b #0x1,(0x00ff614f).l
+ff614f	000155b0	READ_WRITE	000154f0 FUN_000154f0	bset.b #0x1,(0x00ff614f).l
+ff614f	000160ba	WRITE	00015f46 FUN_00015f46	move.b #0x1,(0x00ff614f).l
+ff614f	000160f8	READ_WRITE	00015f46 FUN_00015f46	bset.b #0x1,(0x00ff614f).l
+ff614f	0001343c	DATA	-	
+ff614f	00012208	READ	-	btst.b #0x0,(0x00ff614f).l
+ff614f	000122b6	READ	-	btst.b #0x0,(0x00ff614f).l
+ff614f	000123c6	READ	-	btst.b #0x0,(0x00ff614f).l
+ff614f	0001244a	READ	-	btst.b #0x0,(0x00ff614f).l
+ff614f	000124dc	READ	-	btst.b #0x0,(0x00ff614f).l
+ff614f	00012598	READ	-	btst.b #0x0,(0x00ff614f).l
+ff614f	0001268a	READ	-	btst.b #0x0,(0x00ff614f).l
+ff614f	000127a8	READ	-	btst.b #0x0,(0x00ff614f).l
+ff614f	00012854	READ	-	btst.b #0x0,(0x00ff614f).l
+ff614f	000128e6	READ	-	btst.b #0x0,(0x00ff614f).l
+ff614f	0001296c	READ	-	btst.b #0x0,(0x00ff614f).l
+ff614f	00012a56	READ	-	btst.b #0x0,(0x00ff614f).l
+ff614f	00012ae8	READ	-	btst.b #0x0,(0x00ff614f).l
+ff614f	00012bda	READ	-	btst.b #0x0,(0x00ff614f).l
+ff614f	00012ca4	READ	-	btst.b #0x0,(0x00ff614f).l
+ff614f	00012d6e	READ	-	btst.b #0x0,(0x00ff614f).l
+ff614f	00012df4	READ	-	btst.b #0x0,(0x00ff614f).l
+ff614f	00012eae	READ	-	btst.b #0x0,(0x00ff614f).l
+ff614f	000130bc	READ	-	btst.b #0x0,(0x00ff614f).l
+ff614f	0001315e	READ	-	btst.b #0x0,(0x00ff614f).l
+ff614f	0001326a	READ	-	btst.b #0x0,(0x00ff614f).l
+ff614f	0001338a	READ	-	btst.b #0x0,(0x00ff614f).l
+ff614f	00013564	READ	-	btst.b #0x0,(0x00ff614f).l
+ff614f	00013670	READ	-	btst.b #0x0,(0x00ff614f).l
+ff614f	0001379c	READ	-	btst.b #0x0,(0x00ff614f).l
+ff614f	0001383e	READ	-	btst.b #0x0,(0x00ff614f).l
+ff614f	0001396a	READ	-	btst.b #0x0,(0x00ff614f).l
+ff614f	00013a00	READ	-	btst.b #0x0,(0x00ff614f).l
+ff614f	00013b64	READ	-	btst.b #0x0,(0x00ff614f).l
+ff614f	00013c70	READ	-	btst.b #0x0,(0x00ff614f).l
+ff614f	00013d9c	READ	-	btst.b #0x0,(0x00ff614f).l
+ff614f	00013ea8	READ	-	btst.b #0x0,(0x00ff614f).l
+ff614f	00013fb4	READ	-	btst.b #0x0,(0x00ff614f).l
+ff614f	000140aa	READ	-	btst.b #0x0,(0x00ff614f).l
+ffe1f7	000043ca	READ	000043ca FUN_000043ca	tst.b (0x00ffe1f7).l
+ffe1f7	00007d72	READ_WRITE	00007d40 FUN_00007d40	addq.b #0x1,(0x00ffe1f7).l
+ffe1f7	00007d78	READ	00007d40 FUN_00007d40	cmpi.b #0x2,(0x00ffe1f7).l
+ffe1f7	00007d84	WRITE	00007d40 FUN_00007d40	move.b #0x0,(0x00ffe1f7).l
+ffe1f7	00007d90	READ	00007d40 FUN_00007d40	cmpi.b #0x2,(0x00ffe1f7).l
+ffe1f7	00007e04	WRITE	00007d40 FUN_00007d40	move.b #0x2,(0x00ffe1f7).l
+ffe1f7	00007ea4	READ	00007e98 FUN_00007e98	cmpi.b #0x2,(0x00ffe1f7).l
+ffe1f7	00009780	READ	00009778 FUN_00009778	cmpi.b #0x2,(0x00ffe1f7).l
+ffe1f7	0000980a	READ	000097dc FUN_000097dc	cmpi.b #0x2,(0x00ffe1f7).l
+ffe1f7	000098b6	READ	000098ae FUN_000098ae	cmpi.b #0x2,(0x00ffe1f7).l
+ffe1f7	00009960	READ	00009912 FUN_00009912	cmpi.b #0x2,(0x00ffe1f7).l
+ffe1f7	0000a798	READ	0000a718 FUN_0000a718	cmpi.b #0x2,(0x00ffe1f7).l
+ffe1f7	0000cbfe	READ	0000cbb0 FUN_0000cbb0	cmpi.b #0x2,(0x00ffe1f7).l
+ffe1f7	0000d504	READ	0000d48c FUN_0000d48c	cmpi.b #0x2,(0x00ffe1f7).l
+ffe1f7	0000d80c	READ	0000d78e FUN_0000d78e	cmpi.b #0x2,(0x00ffe1f7).l
+ffe1f7	0000d908	READ	0000d85c FUN_0000d85c	cmpi.b #0x2,(0x00ffe1f7).l
+ffe1f7	0000dbf0	READ	0000dbf0 FUN_0000dbf0	cmpi.b #0x1,(0x00ffe1f7).l
+ffe1f7	0000ee7c	READ	0000ee70 FUN_0000ee70	cmpi.b #0x1,(0x00ffe1f7).l
+ffe1f7	00012096	READ	00012074 FUN_00012074	cmpi.b #0x0,(0x00ffe1f7).l
+ffe1f7	00025136	WRITE	00024f06 FUN_00024f06	clr.b (0x00ffe1f7).l
+ffe1f7	0002622a	READ	0002622a FUN_0002622a	cmpi.b #0x0,(0x00ffe1f7).l
+ffe1f7	000122d0	READ	-	cmpi.b #0x2,(0x00ffe1f7).l
+ffe1f7	000126a4	READ	-	cmpi.b #0x2,(0x00ffe1f7).l
+ffe1f7	00012994	READ	-	cmpi.b #0x2,(0x00ffe1f7).l
+ffe1f7	00012ec8	READ	-	cmpi.b #0x2,(0x00ffe1f7).l
+ffe1f7	00013186	READ	-	cmpi.b #0x2,(0x00ffe1f7).l
+ffe1f7	00013292	READ	-	cmpi.b #0x2,(0x00ffe1f7).l
+ffe1f7	0001358c	READ	-	cmpi.b #0x2,(0x00ffe1f7).l
+ffe1f7	00013698	READ	-	cmpi.b #0x2,(0x00ffe1f7).l
+ffe1f7	00013866	READ	-	cmpi.b #0x2,(0x00ffe1f7).l
+ffe1f7	00013a28	READ	-	cmpi.b #0x2,(0x00ffe1f7).l
+ffe1f7	00013b8c	READ	-	cmpi.b #0x2,(0x00ffe1f7).l
+ffe1f7	00013c98	READ	-	cmpi.b #0x2,(0x00ffe1f7).l
+ffe1f7	00013dc4	READ	-	cmpi.b #0x2,(0x00ffe1f7).l
+ffe1f7	00013ed0	READ	-	cmpi.b #0x2,(0x00ffe1f7).l
+ffe1f7	00013fdc	READ	-	cmpi.b #0x2,(0x00ffe1f7).l
+ffe1f7	000140c4	READ	-	cmpi.b #0x2,(0x00ffe1f7).l
+ff6102	00007d40	READ	00007d40 FUN_00007d40	tst.b (0x00ff6102).l
+ff6102	00007d60	WRITE	00007d40 FUN_00007d40	clr.b (0x00ff6102).l
+ff6102	00008cda	WRITE	00008c8a FUN_00008c8a	move.b #0x1,(0x00ff6102).l
+ff6102	0000dbe6	WRITE	0000db8c FUN_0000db8c	move.b #0x1,(0x00ff6102).l
+ff6102	000120de	WRITE	00012074 FUN_00012074	move.b #0x1,(0x00ff6102).l
+ff6102	00025922	WRITE	0002582a FUN_0002582a	move.b #0x1,(0x00ff6102).l
+ff6102	000122dc	READ	-	cmpi.b #0x1,(0x00ff6102).l
+ff6102	000126b0	READ	-	cmpi.b #0x1,(0x00ff6102).l
+ff6102	000129a0	READ	-	cmpi.b #0x1,(0x00ff6102).l
+ff6102	00012ed4	READ	-	cmpi.b #0x1,(0x00ff6102).l
+ff6102	00013192	READ	-	cmpi.b #0x1,(0x00ff6102).l
+ff6102	0001329e	READ	-	cmpi.b #0x1,(0x00ff6102).l
+ff6102	00013598	READ	-	cmpi.b #0x1,(0x00ff6102).l
+ff6102	000136a4	READ	-	cmpi.b #0x1,(0x00ff6102).l
+ff6102	00013872	READ	-	cmpi.b #0x1,(0x00ff6102).l
+ff6102	00013a34	READ	-	cmpi.b #0x1,(0x00ff6102).l
+ff6102	00013b98	READ	-	cmpi.b #0x1,(0x00ff6102).l
+ff6102	00013ca4	READ	-	cmpi.b #0x1,(0x00ff6102).l
+ff6102	00013dd0	READ	-	cmpi.b #0x1,(0x00ff6102).l
+ff6102	00013edc	READ	-	cmpi.b #0x1,(0x00ff6102).l
+ff6102	00013fe8	READ	-	cmpi.b #0x1,(0x00ff6102).l
+ff6102	000140d0	READ	-	cmpi.b #0x1,(0x00ff6102).l
+ff6102	0001345e	READ	-	cmpi.b #0x1,(0x00ff6102).l
+ffe1d0	00012268	WRITE	-	move.b #0x0,(0x00ffe1d0).l
+ffe1d0	000122e8	READ	-	move.b (0x00ffe1d0).l,D1b
+ffe1d0	000122f8	READ_WRITE	-	addq.b #0x1,(0x00ffe1d0).l
+ffe1d0	00012634	WRITE	-	move.b #0x0,(0x00ffe1d0).l
+ffe1d0	000126bc	READ	-	move.b (0x00ffe1d0).l,D1b
+ffe1d0	000126cc	READ_WRITE	-	addq.b #0x1,(0x00ffe1d0).l
+ffe1d0	00012e54	WRITE	-	move.b #0x0,(0x00ffe1d0).l
+ffe1d0	00012ee0	READ	-	move.b (0x00ffe1d0).l,D1b
+ffe1d0	00012ef0	READ_WRITE	-	addq.b #0x1,(0x00ffe1d0).l
+ffe1d0	0001407e	WRITE	-	move.b #0x0,(0x00ffe1d0).l
+ffe1d0	000140dc	READ	-	move.b (0x00ffe1d0).l,D1b
+ffe1d0	000140ec	READ_WRITE	-	addq.b #0x1,(0x00ffe1d0).l
+ffe1d0	0001346a	READ	-	move.b (0x00ffe1d0).l,D1b
+ffe1d0	0001347a	READ_WRITE	-	addq.b #0x1,(0x00ffe1d0).l
+ff609a	0000487e	READ_WRITE	0000487e FUN_0000487e	subq.b #0x1,(0x00ff609a).l
+ff609a	00004976	READ_WRITE	00004976 FUN_00004976	subq.b #0x1,(0x00ff609a).l
+ff609a	00004b40	READ_WRITE	00004b40 FUN_00004b40	subq.b #0x1,(0x00ff609a).l
+ff609a	00004c80	WRITE	00004b8a FUN_00004b8a	move.b #0x60,(0x00ff609a).l
+ff609a	00005d70	WRITE	00005ce6 FUN_00005ce6	move.b #0x60,(0x00ff609a).l
+ff609a	00007fc4	WRITE	00007e98 FUN_00007e98	move.b #0x60,(0x00ff609a).l
+ff609a	000087e0	WRITE	00008784 FUN_00008784	move.b #0x60,(0x00ff609a).l
+ff609a	00008a2a	READ_WRITE	00008a2a FUN_00008a2a	subq.b #0x1,(0x00ff609a).l
+ff609a	00008acc	READ_WRITE	00008acc FUN_00008acc	subq.b #0x1,(0x00ff609a).l
+ff609a	00008c40	READ_WRITE	00008c40 FUN_00008c40	subq.b #0x1,(0x00ff609a).l
+ff609a	00009f2e	READ	00009f2e FUN_00009f2e	tst.b (0x00ff609a).l
+ff609a	0000a246	WRITE	0000a1d2 FUN_0000a1d2	move.b #0x60,(0x00ff609a).l
+ff609a	0000a630	WRITE	0000a5fe FUN_0000a5fe	move.b #0x60,(0x00ff609a).l
+ff609a	0000a81c	WRITE	0000a7f4 FUN_0000a7f4	move.b #0x60,(0x00ff609a).l
+ff609a	0000b504	WRITE	0000b4a8 FUN_0000b4a8	move.b #0x60,(0x00ff609a).l
+ff609a	0000c564	WRITE	0000c494 FUN_0000c494	move.b #0x60,(0x00ff609a).l
+ff609a	0000c60c	READ	0000c494 FUN_0000c494	tst.b (0x00ff609a).l
+ff609a	0000c616	READ_WRITE	0000c494 FUN_0000c494	subq.b #0x1,(0x00ff609a).l
+ff609a	0000c8bc	WRITE	0000c7ec FUN_0000c7ec	move.b #0x60,(0x00ff609a).l
+ff609a	0000c964	READ	0000c7ec FUN_0000c7ec	tst.b (0x00ff609a).l
+ff609a	0000c96e	READ_WRITE	0000c7ec FUN_0000c7ec	subq.b #0x1,(0x00ff609a).l
+ff609a	0000da32	WRITE	0000d962 FUN_0000d962	move.b #0x60,(0x00ff609a).l
+ff609a	0000dada	READ	0000d962 FUN_0000d962	tst.b (0x00ff609a).l
+ff609a	0000dae4	READ_WRITE	0000d962 FUN_0000d962	subq.b #0x1,(0x00ff609a).l
+ff609a	0000dd12	WRITE	0000dbf0 FUN_0000dbf0	move.b #0x60,(0x00ff609a).l
+ff609a	0000e8e2	WRITE	0000e8ba FUN_0000e8ba	move.b #0x60,(0x00ff609a).l
+ff609a	0000e9da	WRITE	0000e966 FUN_0000e966	move.b #0x60,(0x00ff609a).l
+ff609a	0000ea8c	READ_WRITE	0000ea8c FUN_0000ea8c	subq.b #0x1,(0x00ff609a).l
+ff609a	0000eb74	READ_WRITE	0000eb74 FUN_0000eb74	subq.b #0x1,(0x00ff609a).l
+ff609a	0000ebbe	READ_WRITE	0000ebbe FUN_0000ebbe	subq.b #0x1,(0x00ff609a).l
+ff609a	00015fd0	WRITE	00015f46 FUN_00015f46	move.b #0x60,(0x00ff609a).l
+ff609a	000125cc	READ	-	tst.b (0x00ff609a).l
+ff609a	00012b1c	READ	-	tst.b (0x00ff609a).l
+ff609a	00012c0e	READ	-	tst.b (0x00ff609a).l
+ff609a	00012cd8	READ	-	tst.b (0x00ff609a).l
+ff609a	00013abe	READ	-	tst.b (0x00ff609a).l
+ff6085	00004446	READ	000043ca FUN_000043ca	tst.b (0x00ff6085).l
+ff6085	00004458	READ	000043ca FUN_000043ca	cmpi.b #0x1,(0x00ff6085).l
+ff6085	0000446a	WRITE	000043ca FUN_000043ca	move.b #0x3,(0x00ff6085).l
+ff6085	00004474	READ	000043ca FUN_000043ca	cmpi.b #0x2,(0x00ff6085).l
+ff6085	00004488	READ	000043ca FUN_000043ca	cmpi.b #0x3,(0x00ff6085).l
+ff6085	0000449c	READ	000043ca FUN_000043ca	cmpi.b #0x4,(0x00ff6085).l
+ff6085	000044b0	READ	000043ca FUN_000043ca	cmpi.b #0x5,(0x00ff6085).l
+ff6085	000044c4	READ	000043ca FUN_000043ca	cmpi.b #0x6,(0x00ff6085).l
+ff6085	000044d8	READ	000043ca FUN_000043ca	cmpi.b #0x7,(0x00ff6085).l
+ff6085	000044ec	READ	000043ca FUN_000043ca	cmpi.b #0x8,(0x00ff6085).l
+ff6085	00004500	READ	000043ca FUN_000043ca	cmpi.b #0x9,(0x00ff6085).l
+ff6085	00004514	READ	000043ca FUN_000043ca	cmpi.b #0xa,(0x00ff6085).l
+ff6085	00004528	READ	000043ca FUN_000043ca	cmpi.b #0xb,(0x00ff6085).l
+ff6085	0000453c	READ	000043ca FUN_000043ca	cmpi.b #0xc,(0x00ff6085).l
+ff6085	000045e4	WRITE	000043ca FUN_000043ca	move.b #0xd,(0x00ff6085).l
+ff6085	000045f0	READ	000043ca FUN_000043ca	cmpi.b #0xd,(0x00ff6085).l
+ff6085	00004632	WRITE	000043ca FUN_000043ca	move.b #0x14,(0x00ff6085).l
+ff6085	0000468a	WRITE	000043ca FUN_000043ca	clr.b (0x00ff6085).l
+ff6085	00004694	READ	000043ca FUN_000043ca	cmpi.b #0xe,(0x00ff6085).l
+ff6085	0000473c	WRITE	000043ca FUN_000043ca	move.b #0xd,(0x00ff6085).l
+ff6085	00004748	READ	000043ca FUN_000043ca	cmpi.b #0xf,(0x00ff6085).l
+ff6085	00004774	WRITE	000043ca FUN_000043ca	clr.b (0x00ff6085).l
+ff6085	000047aa	READ	000043ca FUN_000043ca	cmpi.b #0x10,(0x00ff6085).l
+ff6085	000047be	READ	000043ca FUN_000043ca	cmpi.b #0x11,(0x00ff6085).l
+ff6085	00004806	WRITE	000043ca FUN_000043ca	move.b #0xf,(0x00ff6085).l
+ff6085	00004840	READ	000043ca FUN_000043ca	cmpi.b #0x12,(0x00ff6085).l
+ff6085	00004854	READ	000043ca FUN_000043ca	cmpi.b #0x13,(0x00ff6085).l
+ff6085	00004868	READ	000043ca FUN_000043ca	cmpi.b #0x14,(0x00ff6085).l
+ff6085	000048c2	WRITE	0000487e FUN_0000487e	move.b #0x14,(0x00ff6085).l
+ff6085	0000491a	WRITE	0000487e FUN_0000487e	clr.b (0x00ff6085).l
+ff6085	0000496c	WRITE	0000487e FUN_0000487e	move.b #0xe,(0x00ff6085).l
+ff6085	000049d8	WRITE	00004976 FUN_00004976	move.b #0xc,(0x00ff6085).l
+ff6085	00004a2a	WRITE	00004976 FUN_00004976	move.b #0x14,(0x00ff6085).l
+ff6085	00004a82	WRITE	00004976 FUN_00004976	clr.b (0x00ff6085).l
+ff6085	00004a92	WRITE	00004976 FUN_00004976	move.b #0x9,(0x00ff6085).l
+ff6085	00004aaa	WRITE	00004976 FUN_00004976	move.b #0x5,(0x00ff6085).l
+ff6085	00004b56	WRITE	00004b40 FUN_00004b40	clr.b (0x00ff6085).l
+ff6085	00004bb4	WRITE	00004b8a FUN_00004b8a	move.b #0xb,(0x00ff6085).l
+ff6085	00004bf4	WRITE	00004b8a FUN_00004b8a	move.b #0x2,(0x00ff6085).l
+ff6085	00004d0e	WRITE	00004b8a FUN_00004b8a	move.b #0x6,(0x00ff6085).l
+ff6085	00004d20	WRITE	00004b8a FUN_00004b8a	clr.b (0x00ff6085).l
+ff6085	00004d30	WRITE	00004b8a FUN_00004b8a	move.b #0x12,(0x00ff6085).l
+ff6085	00004da0	WRITE	00004b8a FUN_00004b8a	clr.b (0x00ff6085).l
+ff6085	00004f0a	WRITE	00004e26 FUN_00004e26	move.b #0x1,(0x00ff6085).l
+ff6085	00004f5a	WRITE	00004e26 FUN_00004e26	move.b #0x7,(0x00ff6085).l
+ff6085	000051f0	WRITE	00005162 FUN_00005162	move.b #0x1,(0x00ff6085).l
+ff6085	00005288	WRITE	00005162 FUN_00005162	move.b #0x1,(0x00ff6085).l
+ff6085	000056e8	WRITE	00005644 FUN_00005644	move.b #0x5,(0x00ff6085).l
+ff6085	00005706	WRITE	00005644 FUN_00005644	move.b #0x6,(0x00ff6085).l
+ff6085	00005796	WRITE	00005644 FUN_00005644	move.b #0xf,(0x00ff6085).l
+ff6085	0000582c	WRITE	00005644 FUN_00005644	move.b #0xf,(0x00ff6085).l
+ff6085	000058c2	WRITE	00005644 FUN_00005644	move.b #0xf,(0x00ff6085).l
+ff6085	00005958	WRITE	00005644 FUN_00005644	move.b #0xf,(0x00ff6085).l
+ff6085	000059ca	WRITE	00005644 FUN_00005644	move.b #0xf,(0x00ff6085).l
+ff6085	00005a3c	WRITE	00005644 FUN_00005644	move.b #0xf,(0x00ff6085).l
+ff6085	00005aae	WRITE	00005644 FUN_00005644	move.b #0xf,(0x00ff6085).l
+ff6085	00005b20	WRITE	00005644 FUN_00005644	move.b #0xf,(0x00ff6085).l
+ff6085	00005b96	WRITE	00005644 FUN_00005644	move.b #0xf,(0x00ff6085).l
+ff6085	00005bfa	WRITE	00005644 FUN_00005644	move.b #0xf,(0x00ff6085).l
+ff6085	00005cbc	WRITE	00005644 FUN_00005644	move.b #0x1,(0x00ff6085).l
+ff6085	00007ee2	READ	00007e98 FUN_00007e98	tst.b (0x00ff6085).l
+ff6085	00007ef4	READ	00007e98 FUN_00007e98	cmpi.b #0x1,(0x00ff6085).l
+ff6085	00007f26	WRITE	00007e98 FUN_00007e98	move.b #0xc,(0x00ff6085).l
+ff6085	0000805a	WRITE	00007e98 FUN_00007e98	move.b #0x8,(0x00ff6085).l
+ff6085	0000806e	READ	00007e98 FUN_00007e98	cmpi.b #0x2,(0x00ff6085).l
+ff6085	000080e4	WRITE	00007e98 FUN_00007e98	move.b #0x3,(0x00ff6085).l
+ff6085	000080f0	READ	00007e98 FUN_00007e98	cmpi.b #0x3,(0x00ff6085).l
+ff6085	0000818e	WRITE	00007e98 FUN_00007e98	move.b #0x4,(0x00ff6085).l
+ff6085	00008214	WRITE	00007e98 FUN_00007e98	move.b #0x4,(0x00ff6085).l
+ff6085	0000829a	WRITE	00007e98 FUN_00007e98	move.b #0x4,(0x00ff6085).l
+ff6085	000082be	WRITE	00007e98 FUN_00007e98	clr.b (0x00ff6085).l
+ff6085	00008334	WRITE	00007e98 FUN_00007e98	move.b #0x4,(0x00ff6085).l
+ff6085	00008340	READ	00007e98 FUN_00007e98	cmpi.b #0x4,(0x00ff6085).l
+ff6085	00008374	WRITE	00007e98 FUN_00007e98	move.b #0xd,(0x00ff6085).l
+ff6085	00008392	WRITE	00007e98 FUN_00007e98	move.b #0xd,(0x00ff6085).l
+ff6085	000083b0	WRITE	00007e98 FUN_00007e98	move.b #0x8,(0x00ff6085).l
+ff6085	000083d2	WRITE	00007e98 FUN_00007e98	move.b #0x5,(0x00ff6085).l
+ff6085	000083de	READ	00007e98 FUN_00007e98	cmpi.b #0x5,(0x00ff6085).l
+ff6085	000083f4	READ	00007e98 FUN_00007e98	cmpi.b #0x6,(0x00ff6085).l
+ff6085	0000849c	WRITE	00007e98 FUN_00007e98	move.b #0x7,(0x00ff6085).l
+ff6085	000084a8	READ	00007e98 FUN_00007e98	cmpi.b #0x7,(0x00ff6085).l
+ff6085	000084c0	WRITE	00007e98 FUN_00007e98	clr.b (0x00ff6085).l
+ff6085	000084f6	READ	00007e98 FUN_00007e98	cmpi.b #0x8,(0x00ff6085).l
+ff6085	0000850c	READ	00007e98 FUN_00007e98	cmpi.b #0x9,(0x00ff6085).l
+ff6085	00008522	READ	00007e98 FUN_00007e98	cmpi.b #0xa,(0x00ff6085).l
+ff6085	00008538	READ	00007e98 FUN_00007e98	cmpi.b #0xb,(0x00ff6085).l
+ff6085	000085e0	WRITE	00007e98 FUN_00007e98	move.b #0x7,(0x00ff6085).l
+ff6085	000085ec	READ	00007e98 FUN_00007e98	cmpi.b #0xc,(0x00ff6085).l
+ff6085	00008616	WRITE	00007e98 FUN_00007e98	clr.b (0x00ff6085).l
+ff6085	00008660	READ	00007e98 FUN_00007e98	cmpi.b #0xd,(0x00ff6085).l
+ff6085	0000868c	WRITE	00007e98 FUN_00007e98	clr.b (0x00ff6085).l
+ff6085	000086c2	READ	00007e98 FUN_00007e98	cmpi.b #0xe,(0x00ff6085).l
+ff6085	00008726	WRITE	00007e98 FUN_00007e98	move.b #0x2,(0x00ff6085).l
+ff6085	0000880e	WRITE	00008784 FUN_00008784	move.b #0xa,(0x00ff6085).l
+ff6085	0000887a	WRITE	00008784 FUN_00008784	move.b #0xa,(0x00ff6085).l
+ff6085	00008a3a	WRITE	00008a2a FUN_00008a2a	clr.b (0x00ff6085).l
+ff6085	00008ac2	WRITE	00008a2a FUN_00008a2a	move.b #0xb,(0x00ff6085).l
+ff6085	00008b2e	WRITE	00008acc FUN_00008acc	move.b #0x6,(0x00ff6085).l
+ff6085	00008b56	WRITE	00008acc FUN_00008acc	clr.b (0x00ff6085).l
+ff6085	00008b92	WRITE	00008acc FUN_00008acc	move.b #0x9,(0x00ff6085).l
+ff6085	00008baa	WRITE	00008acc FUN_00008acc	move.b #0x5,(0x00ff6085).l
+ff6085	00008c56	WRITE	00008c40 FUN_00008c40	clr.b (0x00ff6085).l
+ff6085	00008cc4	WRITE	00008c8a FUN_00008c8a	move.b #0x1,(0x00ff6085).l
+ff6085	00008d36	WRITE	00008ce4 FUN_00008ce4	move.b #0xe,(0x00ff6085).l
+ff6085	0000ab30	WRITE	0000aafe FUN_0000aafe	clr.b (0x00ff6085).l
+ff6085	0000b3e2	WRITE	0000b3c4 FUN_0000b3c4	move.b #0x1,(0x00ff6085).l
+ff6085	0000b582	WRITE	0000b4a8 FUN_0000b4a8	move.b #0xa,(0x00ff6085).l
+ff6085	0000bcae	WRITE	0000baec FUN_0000baec	move.b #0x4,(0x00ff6085).l
+ff6085	0000bcba	WRITE	0000baec FUN_0000baec	move.b #0x10,(0x00ff6085).l
+ff6085	0000bcfc	WRITE	0000baec FUN_0000baec	move.b #0x4,(0x00ff6085).l
+ff6085	0000bd10	WRITE	0000baec FUN_0000baec	move.b #0x4,(0x00ff6085).l
+ff6085	0000bd82	WRITE	0000baec FUN_0000baec	move.b #0x8,(0x00ff6085).l
+ff6085	0000bd96	WRITE	0000baec FUN_0000baec	move.b #0x4,(0x00ff6085).l
+ff6085	0000bdf2	WRITE	0000baec FUN_0000baec	move.b #0x1,(0x00ff6085).l
+ff6085	0000d0f4	WRITE	0000d0c6 FUN_0000d0c6	move.b #0x4,(0x00ff6085).l
+ff6085	0000d108	WRITE	0000d0c6 FUN_0000d0c6	move.b #0x4,(0x00ff6085).l
+ff6085	0000dbd0	WRITE	0000db8c FUN_0000db8c	move.b #0x1,(0x00ff6085).l
+ff6085	0000dc3a	READ	0000dbf0 FUN_0000dbf0	tst.b (0x00ff6085).l
+ff6085	0000dc4c	READ	0000dbf0 FUN_0000dbf0	cmpi.b #0x1,(0x00ff6085).l
+ff6085	0000dc7e	WRITE	0000dbf0 FUN_0000dbf0	move.b #0xc,(0x00ff6085).l
+ff6085	0000dda8	WRITE	0000dbf0 FUN_0000dbf0	move.b #0x8,(0x00ff6085).l
+ff6085	0000ddbc	READ	0000dbf0 FUN_0000dbf0	cmpi.b #0x2,(0x00ff6085).l
+ff6085	0000de32	WRITE	0000dbf0 FUN_0000dbf0	move.b #0x3,(0x00ff6085).l
+ff6085	0000de3e	READ	0000dbf0 FUN_0000dbf0	cmpi.b #0x3,(0x00ff6085).l
+ff6085	0000dedc	WRITE	0000dbf0 FUN_0000dbf0	move.b #0x4,(0x00ff6085).l
+ff6085	0000df62	WRITE	0000dbf0 FUN_0000dbf0	move.b #0x4,(0x00ff6085).l
+ff6085	0000dfe8	WRITE	0000dbf0 FUN_0000dbf0	move.b #0x4,(0x00ff6085).l
+ff6085	0000e022	WRITE	0000dbf0 FUN_0000dbf0	clr.b (0x00ff6085).l
+ff6085	0000e098	WRITE	0000e074 FUN_0000e074	move.b #0x4,(0x00ff6085).l
+ff6085	0000e0a4	READ	-	cmpi.b #0x4,(0x00ff6085).l
+ff6085	0000e0d8	WRITE	-	move.b #0xd,(0x00ff6085).l
+ff6085	0000e0f6	WRITE	-	move.b #0xd,(0x00ff6085).l
+ff6085	0000e114	WRITE	-	move.b #0x8,(0x00ff6085).l
+ff6085	0000e136	WRITE	-	move.b #0x5,(0x00ff6085).l
+ff6085	0000e142	READ	-	cmpi.b #0x5,(0x00ff6085).l
+ff6085	0000e158	READ	-	cmpi.b #0x6,(0x00ff6085).l
+ff6085	0000e200	WRITE	-	move.b #0x7,(0x00ff6085).l
+ff6085	0000e20c	READ	-	cmpi.b #0x7,(0x00ff6085).l
+ff6085	0000e224	WRITE	-	clr.b (0x00ff6085).l
+ff6085	0000e25a	READ	-	cmpi.b #0x8,(0x00ff6085).l
+ff6085	0000e270	READ	-	cmpi.b #0x9,(0x00ff6085).l
+ff6085	0000e286	READ	-	cmpi.b #0xa,(0x00ff6085).l
+ff6085	0000e29c	READ	-	cmpi.b #0xb,(0x00ff6085).l
+ff6085	0000e328	WRITE	-	move.b #0x7,(0x00ff6085).l
+ff6085	0000e334	READ	-	cmpi.b #0xc,(0x00ff6085).l
+ff6085	0000e35e	WRITE	-	clr.b (0x00ff6085).l
+ff6085	0000e3a8	READ	-	cmpi.b #0xd,(0x00ff6085).l
+ff6085	0000e3d4	WRITE	-	clr.b (0x00ff6085).l
+ff6085	0000e40a	READ	-	cmpi.b #0xe,(0x00ff6085).l
+ff6085	0000e46e	WRITE	-	move.b #0x2,(0x00ff6085).l
+ff6085	0000e4ce	WRITE	0000e47c FUN_0000e47c	move.b #0xe,(0x00ff6085).l
+ff6085	0000eaee	WRITE	0000ea8c FUN_0000ea8c	move.b #0x6,(0x00ff6085).l
+ff6085	0000eb16	WRITE	0000ea8c FUN_0000ea8c	clr.b (0x00ff6085).l
+ff6085	0000eb52	WRITE	0000ea8c FUN_0000ea8c	move.b #0x9,(0x00ff6085).l
+ff6085	0000eb6a	WRITE	0000ea8c FUN_0000ea8c	move.b #0x5,(0x00ff6085).l
+ff6085	0000eb8a	WRITE	0000eb74 FUN_0000eb74	clr.b (0x00ff6085).l
+ff6085	0000ebce	WRITE	0000ebbe FUN_0000ebbe	clr.b (0x00ff6085).l
+ff6085	0000ec56	WRITE	0000ebbe FUN_0000ebbe	move.b #0xb,(0x00ff6085).l
+ff6085	000120a2	READ	00012074 FUN_00012074	cmpi.b #0x0,(0x00ff6085).l
+ff6085	00014c1e	READ	00014c12 FUN_00014c12	tst.b (0x00ff6085).l
+ff6085	0001511c	WRITE	000150ee FUN_000150ee	move.b #0x4,(0x00ff6085).l
+ff6085	00015130	WRITE	000150ee FUN_000150ee	move.b #0x4,(0x00ff6085).l
+ff6085	0001527a	WRITE	0001524c FUN_0001524c	move.b #0x8,(0x00ff6085).l
+ff6085	0001528e	WRITE	0001524c FUN_0001524c	move.b #0x4,(0x00ff6085).l
+ff6085	000155c4	WRITE	000154f0 FUN_000154f0	move.b #0x11,(0x00ff6085).l
+ff6085	0001560c	WRITE	000154f0 FUN_000154f0	move.b #0x1,(0x00ff6085).l
+ff6085	0001571c	WRITE	00015616 FUN_00015616	move.b #0x8,(0x00ff6085).l
+ff6085	00015730	WRITE	00015616 FUN_00015616	move.b #0x13,(0x00ff6085).l
+ff6085	000157a4	WRITE	00015616 FUN_00015616	move.b #0x8,(0x00ff6085).l
+ff6085	000157b8	WRITE	00015616 FUN_00015616	move.b #0x13,(0x00ff6085).l
+ff6085	00015812	WRITE	00015616 FUN_00015616	move.b #0x1,(0x00ff6085).l
+ff6085	00015bbc	WRITE	00015aee FUN_00015aee	move.b #0x6,(0x00ff6085).l
+ff6085	00015c28	WRITE	00015aee FUN_00015aee	move.b #0xf,(0x00ff6085).l
+ff6085	00015c9a	WRITE	00015aee FUN_00015aee	move.b #0xf,(0x00ff6085).l
+ff6085	00015d0c	WRITE	00015aee FUN_00015aee	move.b #0xf,(0x00ff6085).l
+ff6085	00015d7e	WRITE	00015aee FUN_00015aee	move.b #0xf,(0x00ff6085).l
+ff6085	00015df0	WRITE	00015aee FUN_00015aee	move.b #0xf,(0x00ff6085).l
+ff6085	00015e62	WRITE	00015aee FUN_00015aee	move.b #0xf,(0x00ff6085).l
+ff6085	00015e8c	WRITE	00015aee FUN_00015aee	move.b #0x5,(0x00ff6085).l
+ff6085	00015f3c	WRITE	00015aee FUN_00015aee	move.b #0x1,(0x00ff6085).l
+ff6085	00016d04	WRITE	00016c68 FUN_00016c68	clr.b (0x00ff6085).l
+ff6085	0002513c	WRITE	00024f06 FUN_00024f06	clr.b (0x00ff6085).l
+ff6085	00026236	READ	0002622a FUN_0002622a	cmpi.b #0x4,(0x00ff6085).l
+ff6085	00026242	READ	0002622a FUN_0002622a	cmpi.b #0x13,(0x00ff6085).l
+ff6085	0001227e	READ	-	cmpi.b #0x0,(0x00ff6085).l
+ff6085	000124f8	READ	-	cmpi.b #0x0,(0x00ff6085).l
+ff6085	00012652	READ	-	cmpi.b #0x0,(0x00ff6085).l
+ff6085	00012e6a	READ	-	cmpi.b #0x0,(0x00ff6085).l
+ffe10e	000006c4	WRITE	000004ba ResetEntry	move.b #0x2,(0x00ffe10e).l
+ffe10e	0000079a	READ	000004ba ResetEntry	move.b (0x00ffe10e).l,D1b
+ffe10e	00000d84	READ	00000d30 FUN_00000d30	move.b (0x00ffe10e).l,D1b
+ffe10e	00000de6	READ	00000d92 FUN_00000d92	move.b (0x00ffe10e).l,D1b
+ffe10e	00000e32	READ	00000df4 FUN_00000df4	move.b (0x00ffe10e).l,D1b
+ffe10e	000037ac	READ	0000379e FUN_0000379e	move.b (0x00ffe10e).l,D1b
+ffe10e	0000623a	READ	0000622e FUN_0000622e	move.b (0x00ffe10e).l,D1b
+ffe10e	00006734	WRITE	00006588 FUN_00006588	move.b D1b,(0x00ffe10e).l
+ffe10e	0000682e	READ	0000682e FUN_0000682e	move.b (0x00ffe10e).l,D1b
+ffe10e	000068b0	WRITE	0000682e FUN_0000682e	move.b #0x8,(0x00ffe10e).l
+ffe10e	00007354	READ	00007348 FUN_00007348	move.b (0x00ffe10e).l,D1b
+ffe10e	00007c14	READ	00007c14 FUN_00007c14	move.b (0x00ffe10e).l,D1b
+ffe10e	00007c58	WRITE	00007c14 FUN_00007c14	move.b #0x8,(0x00ffe10e).l
+ffe10e	0000fcf6	WRITE	0000fca8 FUN_0000fca8	move.b D1b,(0x00ffe10e).l
+ffe10e	0000fd0e	WRITE	0000fca8 FUN_0000fca8	move.b #0x4,(0x00ffe10e).l
+ffe10e	0001c59e	READ	0001c552 FUN_0001c552	move.b (0x00ffe10e).l,D1b
+ffe10e	00025126	WRITE	00024f06 FUN_00024f06	move.b #0x4,(0x00ffe10e).l
+ffe10e	00025142	WRITE	00024f06 FUN_00024f06	move.b #0x4,(0x00ffe10e).l
+ffe10e	0000657e	WRITE	00006560 FUN_00006560	move.b #0x8,(0x00ffe10e).l
+ffe10e	00014176	READ	00014144 FUN_00014144	move.b (0x00ffe10e).l,D1b
+ffe10e	0001081c	WRITE	-	move.b D1b,(0x00ffe10e).l
+ffe10f	00012088	READ	00012074 FUN_00012074	move.b (0x00ffe10f).l,D1b
+ffe10f	000248ee	READ	000248e2 FUN_000248e2	move.b (0x00ffe10f).l,D1b
+ffe10f	0002493c	READ	000248e2 FUN_000248e2	move.b (0x00ffe10f).l,D1b
+ffe10f	0001c8a0	READ	0001c898 FUN_0001c898	move.b (0x00ffe10f).l,D1b
+ffe10f	00024b62	READ	00024b60 FUN_00024b60	move.b (0x00ffe10f).l,D1b
+ffe10f	00024b7c	READ	00024b60 FUN_00024b60	move.b (0x00ffe10f).l,D1b
+ffe10f	00025aa4	READ	00025a3c FUN_00025a3c	move.b (0x00ffe10f).l,D1b
+ffe10f	00027ec0	READ	00027ebe FUN_00027ebe	move.b (0x00ffe10f).l,D1b
+ffe10f	00011a64	READ	-	move.b (0x00ffe10f).l,D1b
+ffe10f	00011ab6	READ	-	move.b (0x00ffe10f).l,D1b
+ffe1f4	000120b6	READ	00012074 FUN_00012074	move.b (0x00ffe1f4).l,D0b
+ffe1f4	00010020	READ	0000ffc2 FUN_0000ffc2	move.b (0x00ffe1f4).l,D0b
+ffe1f4	00018676	WRITE	000184f4 FUN_000184f4	move.b #0x0,(0x00ffe1f4).l
+ffe1f4	00018688	READ_WRITE	000184f4 FUN_000184f4	addq.b #0x1,(0x00ffe1f4).l
+ffe1f4	00018696	READ	000184f4 FUN_000184f4	move.b (0x00ffe1f4).l,D1b
+ffe1f4	00018836	READ	000184f4 FUN_000184f4	move.b (0x00ffe1f4).l,D3b
+ffe1f4	0001885a	READ_WRITE	000184f4 FUN_000184f4	addq.b #0x1,(0x00ffe1f4).l
+ffe1f4	00018892	READ_WRITE	000184f4 FUN_000184f4	subq.b #0x1,(0x00ffe1f4).l
+ffe1f4	000188a8	READ	000184f4 FUN_000184f4	move.b (0x00ffe1f4).l,D1b
+ffe1f4	00018984	READ	000184f4 FUN_000184f4	move.b (0x00ffe1f4).l,D0b
+ffe1f4	00010b08	DATA	-	
+ffe1e0	00000726	WRITE	000004ba ResetEntry	move.l #0x3fffffff,(0x00ffe1e0).l
+ffe1e0	00004624	READ	000043ca FUN_000043ca	move.l (0x00ffe1e0).l,D2
+ffe1e0	0000462c	WRITE	000043ca FUN_000043ca	move.l D2,(0x00ffe1e0).l
+ffe1e0	000048b4	READ	0000487e FUN_0000487e	move.l (0x00ffe1e0).l,D2
+ffe1e0	000048bc	WRITE	0000487e FUN_0000487e	move.l D2,(0x00ffe1e0).l
+ffe1e0	00004a1c	READ	00004976 FUN_00004976	move.l (0x00ffe1e0).l,D2
+ffe1e0	00004a24	WRITE	00004976 FUN_00004976	move.l D2,(0x00ffe1e0).l
+ffe1e0	00004c12	READ	00004b8a FUN_00004b8a	move.l (0x00ffe1e0).l,D2
+ffe1e0	00004c1a	WRITE	00004b8a FUN_00004b8a	move.l D2,(0x00ffe1e0).l
+ffe1e0	00004e8e	READ	00004e26 FUN_00004e26	move.l (0x00ffe1e0).l,D3
+ffe1e0	00005668	READ	00005644 FUN_00005644	move.l (0x00ffe1e0).l,D2
+ffe1e0	00005670	WRITE	00005644 FUN_00005644	move.l D2,(0x00ffe1e0).l
+ffe1e0	00005b5c	READ	00005644 FUN_00005644	move.l (0x00ffe1e0).l,D1
+ffe1e0	00005b6a	WRITE	00005644 FUN_00005644	move.l D1,(0x00ffe1e0).l
+ffe1e0	00006792	READ	00006790 FUN_00006790	move.l (0x00ffe1e0).l,D2
+ffe1e0	00006840	READ	0000682e FUN_0000682e	move.l (0x00ffe1e0).l,D2
+ffe1e0	00007db6	WRITE	00007d40 FUN_00007d40	move.l D1,(0x00ffe1e0).l
+ffe1e0	00007e1a	WRITE	00007d40 FUN_00007d40	move.l D1,(0x00ffe1e0).l
+ffe1e0	00007e74	WRITE	00007d40 FUN_00007d40	move.l D1,(0x00ffe1e0).l
+ffe1e0	0000804c	READ	00007e98 FUN_00007e98	move.l (0x00ffe1e0).l,D2
+ffe1e0	00008054	WRITE	00007e98 FUN_00007e98	move.l D2,(0x00ffe1e0).l
+ffe1e0	0000808a	READ	00007e98 FUN_00007e98	move.l (0x00ffe1e0).l,D2
+ffe1e0	00008092	WRITE	00007e98 FUN_00007e98	move.l D2,(0x00ffe1e0).l
+ffe1e0	00008622	READ	00007e98 FUN_00007e98	move.l (0x00ffe1e0).l,D2
+ffe1e0	0000862a	WRITE	00007e98 FUN_00007e98	move.l D2,(0x00ffe1e0).l
+ffe1e0	00008c8a	READ	00008c8a FUN_00008c8a	move.l (0x00ffe1e0).l,D2
+ffe1e0	00008ca8	WRITE	00008c8a FUN_00008c8a	move.l D2,(0x00ffe1e0).l
+ffe1e0	0000db8c	READ	0000db8c FUN_0000db8c	move.l (0x00ffe1e0).l,D2
+ffe1e0	0000dbb4	WRITE	0000db8c FUN_0000db8c	move.l D2,(0x00ffe1e0).l
+ffe1e0	0000dd9a	READ	0000dbf0 FUN_0000dbf0	move.l (0x00ffe1e0).l,D2
+ffe1e0	0000dda2	WRITE	0000dbf0 FUN_0000dbf0	move.l D2,(0x00ffe1e0).l
+ffe1e0	0000ddd8	READ	0000dbf0 FUN_0000dbf0	move.l (0x00ffe1e0).l,D2
+ffe1e0	0000dde0	WRITE	0000dbf0 FUN_0000dbf0	move.l D2,(0x00ffe1e0).l
+ffe1e0	0000e36a	READ	-	move.l (0x00ffe1e0).l,D2
+ffe1e0	0000e372	WRITE	-	move.l D2,(0x00ffe1e0).l
+ffe1e0	000120c0	READ	00012074 FUN_00012074	move.l (0x00ffe1e0).l,D2
+ffe1e0	00015212	READ	00015172 FUN_00015172	move.l (0x00ffe1e0).l,D1
+ffe1e0	00015508	READ	000154f0 FUN_000154f0	move.l (0x00ffe1e0).l,D2
+ffe1e0	00015510	WRITE	000154f0 FUN_000154f0	move.l D2,(0x00ffe1e0).l
+ffe1e0	00015b12	READ	00015aee FUN_00015aee	move.l (0x00ffe1e0).l,D2
+ffe1e0	00015b1a	WRITE	00015aee FUN_00015aee	move.l D2,(0x00ffe1e0).l
+ffe1e0	00016cea	READ	00016c68 FUN_00016c68	move.l (0x00ffe1e0).l,D2
+ffe1e0	00016cf2	WRITE	00016c68 FUN_00016c68	move.l D2,(0x00ffe1e0).l
+ffe1e0	000258de	READ	0002582a FUN_0002582a	move.l (0x00ffe1e0).l,D2
+ffe1e0	000250f2	WRITE	00024f06 FUN_00024f06	move.l #0x3fffffff,(0x00ffe1e0).l
+ffe1f6	000007a0	WRITE	000004ba ResetEntry	move.b D1b,(0x00ffe1f6).l
+ffe1f6	00000d8a	WRITE	00000d30 FUN_00000d30	move.b D1b,(0x00ffe1f6).l
+ffe1f6	00000dec	WRITE	00000d92 FUN_00000d92	move.b D1b,(0x00ffe1f6).l
+ffe1f6	00000e38	WRITE	00000df4 FUN_00000df4	move.b D1b,(0x00ffe1f6).l
+ffe1f6	0000672e	READ	00006588 FUN_00006588	move.b (0x00ffe1f6).l,D1b
+ffe1f6	00006834	WRITE	0000682e FUN_0000682e	move.b D1b,(0x00ffe1f6).l
+ffe1f6	00007c1a	WRITE	00007c14 FUN_00007c14	move.b D1b,(0x00ffe1f6).l
+ffe1f6	0000fcf0	READ	0000fca8 FUN_0000fca8	move.b (0x00ffe1f6).l,D1b
+ffe1f6	0001c5a4	WRITE	0001c552 FUN_0001c552	move.b D1b,(0x00ffe1f6).l
+ffe1f6	0001417c	WRITE	00014144 FUN_00014144	move.b D1b,(0x00ffe1f6).l
+ff603d	00000786	READ_WRITE	000004ba ResetEntry	bset.b #0x0,(0x00ff603d).l
+ff603d	00000984	READ	0000097a FUN_0000097a	btst.b #0x0,(0x00ff603d).l
+ff603d	00000d46	READ	00000d30 FUN_00000d30	btst.b #0x0,(0x00ff603d).l
+ff603d	00000d68	READ_WRITE	00000d30 FUN_00000d30	bset.b #0x0,(0x00ff603d).l
+ff603d	00000d70	READ_WRITE	00000d30 FUN_00000d30	bset.b #0x1,(0x00ff603d).l
+ff603d	00000da8	READ	00000d92 FUN_00000d92	btst.b #0x0,(0x00ff603d).l
+ff603d	00000dca	READ_WRITE	00000d92 FUN_00000d92	bset.b #0x0,(0x00ff603d).l
+ff603d	00000dd2	READ_WRITE	00000d92 FUN_00000d92	bset.b #0x1,(0x00ff603d).l
+ff603d	00000df4	READ	00000df4 FUN_00000df4	btst.b #0x0,(0x00ff603d).l
+ff603d	00000e16	READ_WRITE	00000df4 FUN_00000df4	bset.b #0x0,(0x00ff603d).l
+ff603d	00000e1e	READ_WRITE	00000df4 FUN_00000df4	bset.b #0x1,(0x00ff603d).l
+ff603d	000028e2	READ_WRITE	000028c2 FUN_000028c2	bset.b #0x1,(0x00ff603d).l
+ff603d	000029aa	READ_WRITE	0000298a FUN_0000298a	bset.b #0x1,(0x00ff603d).l
+ff603d	00002a72	READ_WRITE	00002a52 FUN_00002a52	bset.b #0x1,(0x00ff603d).l
+ff603d	00003d64	READ_WRITE	00003cb0 FUN_00003cb0	bset.b #0x1,(0x00ff603d).l
+ff603d	00003f26	READ_WRITE	00003e44 FUN_00003e44	bset.b #0x1,(0x00ff603d).l
+ff603d	000063ee	READ_WRITE	00006290 FUN_00006290	bset.b #0x1,(0x00ff603d).l
+ff603d	0000643e	READ_WRITE	000063f8 FUN_000063f8	bset.b #0x1,(0x00ff603d).l
+ff603d	0000673a	READ_WRITE	00006588 FUN_00006588	bset.b #0x1,(0x00ff603d).l
+ff603d	00007d4a	READ	00007d40 FUN_00007d40	btst.b #0x0,(0x00ff603d).l
+ff603d	00007e98	READ	00007e98 FUN_00007e98	btst.b #0x0,(0x00ff603d).l
+ff603d	0000a8e6	READ	0000a8da FUN_0000a8da	btst.b #0x0,(0x00ff603d).l
+ff603d	0000dbfc	READ	0000dbf0 FUN_0000dbf0	btst.b #0x0,(0x00ff603d).l
+ff603d	0000f5a6	READ_WRITE	0000f440 FUN_0000f440	bset.b #0x1,(0x00ff603d).l
+ff603d	0000f5ae	READ	0000f440 FUN_0000f440	btst.b #0x0,(0x00ff603d).l
+ff603d	0000fcb2	READ	0000fca8 FUN_0000fca8	btst.b #0x0,(0x00ff603d).l
+ff603d	0000fcc4	READ	0000fca8 FUN_0000fca8	btst.b #0x1,(0x00ff603d).l
+ff603d	0000fce0	READ_WRITE	0000fca8 FUN_0000fca8	bclr.b #0x0,(0x00ff603d).l
+ff603d	00012074	READ	00012074 FUN_00012074	btst.b #0x0,(0x00ff603d).l
+ff603d	00014b9e	READ_WRITE	00014aea FUN_00014aea	bset.b #0x1,(0x00ff603d).l
+ff603d	00014c28	READ	00014c12 FUN_00014c12	btst.b #0x0,(0x00ff603d).l
+ff603d	00014c5c	READ_WRITE	00014c12 FUN_00014c12	bset.b #0x0,(0x00ff603d).l
+ff603d	00014c64	READ_WRITE	00014c12 FUN_00014c12	bset.b #0x1,(0x00ff603d).l
+ff603d	0001613c	READ_WRITE	0001611a FUN_0001611a	bset.b #0x1,(0x00ff603d).l
+ff603d	00016946	READ_WRITE	0001683e FUN_0001683e	bset.b #0x1,(0x00ff603d).l
+ff603d	000170ae	READ	000170ae FUN_000170ae	btst.b #0x0,(0x00ff603d).l
+ff603d	000170ba	READ_WRITE	000170ae FUN_000170ae	bset.b #0x0,(0x00ff603d).l
+ff603d	000170c2	READ_WRITE	000170ae FUN_000170ae	bset.b #0x1,(0x00ff603d).l
+ff603d	0001a5a6	READ_WRITE	0001a590 FUN_0001a590	bset.b #0x1,(0x00ff603d).l
+ff603d	0001a5ec	READ_WRITE	0001a5b0 FUN_0001a5b0	bset.b #0x1,(0x00ff603d).l
+ff603d	0001c560	READ	0001c552 FUN_0001c552	btst.b #0x0,(0x00ff603d).l
+ff603d	0001c582	READ_WRITE	0001c552 FUN_0001c552	bset.b #0x0,(0x00ff603d).l
+ff603d	0001c58a	READ_WRITE	0001c552 FUN_0001c552	bset.b #0x1,(0x00ff603d).l
+ff603d	00010084	WRITE	0000ffc2 FUN_0000ffc2	clr.b (0x00ff603d).l
+ff603d	00025b7c	READ_WRITE	00025b60 FUN_00025b60	bset.b #0x1,(0x00ff603d).l
+ff603d	00025c0a	READ_WRITE	00025bee FUN_00025bee	bset.b #0x1,(0x00ff603d).l
+ff603d	00025c96	READ_WRITE	00025c7a FUN_00025c7a	bset.b #0x1,(0x00ff603d).l
+ff603d	00026180	READ_WRITE	000260e8 FUN_000260e8	bset.b #0x1,(0x00ff603d).l
+ff603d	00026384	READ_WRITE	00026362 FUN_00026362	bset.b #0x1,(0x00ff603d).l
+ff603d	000264c8	READ_WRITE	000264a4 FUN_000264a4	bset.b #0x1,(0x00ff603d).l
+ff603d	000265ca	READ_WRITE	000265ac FUN_000265ac	bset.b #0x1,(0x00ff603d).l
+ff603d	0002666c	READ	0002666c FUN_0002666c	btst.b #0x0,(0x00ff603d).l
+ff603d	00026ce6	READ	00026ce6 FUN_00026ce6	btst.b #0x0,(0x00ff603d).l
+ff603d	0001060e	READ_WRITE	-	bclr.b #0x1,(0x00ff603d).l
+ff603d	00014160	READ_WRITE	00014144 FUN_00014144	bset.b #0x0,(0x00ff603d).l
+ff603d	00014168	READ_WRITE	00014144 FUN_00014144	bset.b #0x1,(0x00ff603d).l
+ff603d	00011d42	READ_WRITE	-	bclr.b #0x1,(0x00ff603d).l
+ff603d	00017104	READ_WRITE	-	bset.b #0x0,(0x00ff603d).l
+ff603d	0001710c	READ_WRITE	-	bset.b #0x1,(0x00ff603d).l
+ff603d	00016298	READ_WRITE	-	bclr.b #0x1,(0x00ff603d).l
+ff603d	00012046	READ	-	btst.b #0x0,(0x00ff603d).l
+ff603d	00012052	READ_WRITE	-	bset.b #0x0,(0x00ff603d).l
+ff603d	0001205a	READ_WRITE	-	bset.b #0x1,(0x00ff603d).l
+ff603d	0000ff22	READ_WRITE	-	bclr.b #0x1,(0x00ff603d).l
+ff6036	000006b4	WRITE	000004ba ResetEntry	move.b #0x1,(0x00ff6036).l
+ff6036	0000076e	WRITE	000004ba ResetEntry	clr.b (0x00ff6036).l
+ff6036	0000097a	READ	0000097a FUN_0000097a	tst.b (0x00ff6036).l
+ff6036	00000d52	WRITE	00000d30 FUN_00000d30	clr.b (0x00ff6036).l
+ff6036	00000db4	WRITE	00000d92 FUN_00000d92	clr.b (0x00ff6036).l
+ff6036	00000e00	WRITE	00000df4 FUN_00000df4	clr.b (0x00ff6036).l
+ff6036	000043d4	READ	000043ca FUN_000043ca	tst.b (0x00ff6036).l
+ff6036	00005c82	WRITE	00005644 FUN_00005644	clr.b (0x00ff6036).l
+ff6036	00006726	WRITE	00006588 FUN_00006588	move.b #0x1,(0x00ff6036).l
+ff6036	000068aa	WRITE	0000682e FUN_0000682e	clr.b (0x00ff6036).l
+ff6036	00007c52	WRITE	00007c14 FUN_00007c14	clr.b (0x00ff6036).l
+ff6036	00007da8	WRITE	00007d40 FUN_00007d40	move.b #0x0,(0x00ff6036).l
+ff6036	00007e0c	WRITE	00007d40 FUN_00007d40	move.b #0x0,(0x00ff6036).l
+ff6036	0000bd4a	WRITE	0000baec FUN_0000baec	clr.b (0x00ff6036).l
+ff6036	0000bdd0	WRITE	0000baec FUN_0000baec	clr.b (0x00ff6036).l
+ff6036	0000c7d4	WRITE	0000c74c FUN_0000c74c	move.b #0x1,(0x00ff6036).l
+ff6036	0000d140	WRITE	0000d0c6 FUN_0000d0c6	clr.b (0x00ff6036).l
+ff6036	0000f5ba	WRITE	0000f440 FUN_0000f440	st (0x00ff6036).l
+ff6036	0000fcbe	WRITE	0000fca8 FUN_0000fca8	clr.b (0x00ff6036).l
+ff6036	0000fce8	WRITE	0000fca8 FUN_0000fca8	move.b #0x1,(0x00ff6036).l
+ff6036	0001516a	WRITE	000150ee FUN_000150ee	clr.b (0x00ff6036).l
+ff6036	000152c6	WRITE	0001524c FUN_0001524c	clr.b (0x00ff6036).l
+ff6036	00015768	WRITE	00015616 FUN_00015616	clr.b (0x00ff6036).l
+ff6036	000157f0	WRITE	00015616 FUN_00015616	clr.b (0x00ff6036).l
+ff6036	00015f08	WRITE	00015aee FUN_00015aee	clr.b (0x00ff6036).l
+ff6036	00016ab6	WRITE	00016a28 FUN_00016a28	clr.b (0x00ff6036).l
+ff6036	00016c60	WRITE	00016bfa FUN_00016bfa	st (0x00ff6036).l
+ff6036	0001717e	WRITE	0001717e FUN_0001717e	clr.b (0x00ff6036).l
+ff6036	00017580	WRITE	0001717e FUN_0001717e	st (0x00ff6036).l
+ff6036	0001834a	WRITE	000182aa FUN_000182aa	clr.b (0x00ff6036).l
+ff6036	0001c56c	WRITE	0001c552 FUN_0001c552	clr.b (0x00ff6036).l
+ff6036	0002536c	WRITE	00025270 FUN_00025270	st (0x00ff6036).l
+ff6036	0001782a	WRITE	0001782a FUN_0001782a	clr.b (0x00ff6036).l
+ff6036	00017e5c	WRITE	0001782a FUN_0001782a	st (0x00ff6036).l
+ff6036	00018e2c	WRITE	00018e2c FUN_00018e2c	clr.b (0x00ff6036).l
+ff6036	000192c4	WRITE	00018e2c FUN_00018e2c	st (0x00ff6036).l
+ff6036	00025530	WRITE	000254ce FUN_000254ce	clr.b (0x00ff6036).l
+ff6036	0002559a	WRITE	00025538 FUN_00025538	clr.b (0x00ff6036).l
+ff6036	0001008a	WRITE	0000ffc2 FUN_0000ffc2	clr.b (0x00ff6036).l
+ff6036	0002599a	WRITE	0002582a FUN_0002582a	st (0x00ff6036).l
+ff6036	000184f8	WRITE	000184f4 FUN_000184f4	clr.b (0x00ff6036).l
+ff6036	0002625a	READ	0002622a FUN_0002622a	tst.b (0x00ff6036).l
+ff6036	00026678	WRITE	0002666c FUN_0002666c	clr.b (0x00ff6036).l
+ff6036	000268ea	WRITE	0002666c FUN_0002666c	st (0x00ff6036).l
+ff6036	00026cf2	WRITE	00026ce6 FUN_00026ce6	clr.b (0x00ff6036).l
+ff6036	00026f8a	WRITE	00026ce6 FUN_00026ce6	st (0x00ff6036).l
+ff6036	00027178	WRITE	00026ff2 FUN_00026ff2	move.b #0x1,(0x00ff6036).l
+ff6036	00006568	WRITE	00006560 FUN_00006560	clr.b (0x00ff6036).l
+ff6036	0001ab3e	WRITE	0001ab3e FUN_0001ab3e	clr.b (0x00ff6036).l
+ff6036	0001add0	WRITE	0001ab3e FUN_0001ab3e	st (0x00ff6036).l
+ff6036	00014170	WRITE	00014144 FUN_00014144	clr.b (0x00ff6036).l

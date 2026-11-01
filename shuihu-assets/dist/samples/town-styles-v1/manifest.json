@@ -1,0 +1,24 @@
+{
+  "mapId": "0100",
+  "sourceRoom": "0106",
+  "exitEvidence": "StoryVM event group 1 id 7 changes map to 0x100 with spawn 0x106",
+  "model": "gpt-image-2.5-sunburst",
+  "method": "Three complete-map style-transfer concepts using unmodified imagegen CLI and existing platform API key",
+  "variants": [
+    "pixel-hd",
+    "unreal",
+    "ghibli"
+  ],
+  "limitations": [
+    "Concepts only, not replacement tile atlases",
+    "Original logical map unchanged",
+    "Silhouettes, sign lettering and geometry vary; require registration before gameplay use"
+  ],
+  "files": {
+    "pixel-hd.png": "cb706b3d08dd5d9bce5c9114c409ddce307c39b44f30f4a775e296ad60dac8a7",
+    "original.png": "518469a8a400e48c39590c0d9c0fdb5802608e2f337b913ff13b42d6eb51caaa",
+    "reference.png": "0d50e7067211da9ba765ff4f5bbd2c2e461ae18a315e679df5175967feed0f3e",
+    "ghibli.png": "c801a71fbc3cea4059493bb276e2c3b0362d133b4707413d1bb7e83c42910998",
+    "unreal.png": "77ff3e3ac4f63c635ff975e4c2433c33c3f2e80944c81ec8aeceec82a44f0e21"
+  }
+}

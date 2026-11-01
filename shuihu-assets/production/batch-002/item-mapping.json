@@ -1,0 +1,79 @@
+{
+  "status": "names from existing Unicode mapping, proofreading pending",
+  "grid": [
+    4,
+    4
+  ],
+  "items": [
+    {
+      "cell": 0,
+      "id": 128,
+      "name": "傷藥"
+    },
+    {
+      "cell": 1,
+      "id": 129,
+      "name": "雪山參"
+    },
+    {
+      "cell": 2,
+      "id": 130,
+      "name": "千年靈芝"
+    },
+    {
+      "cell": 3,
+      "id": 131,
+      "name": "化毒草"
+    },
+    {
+      "cell": 4,
+      "id": 132,
+      "name": "清神草"
+    },
+    {
+      "cell": 5,
+      "id": 133,
+      "name": "去傷丸"
+    },
+    {
+      "cell": 6,
+      "id": 134,
+      "name": "九轉丹"
+    },
+    {
+      "cell": 7,
+      "id": 136,
+      "name": "勇氣書"
+    },
+    {
+      "cell": 8,
+      "id": 137,
+      "name": "疲倦草"
+    },
+    {
+      "cell": 9,
+      "id": 138,
+      "name": "大力丸"
+    },
+    {
+      "cell": 10,
+      "id": 139,
+      "name": "體弱香"
+    },
+    {
+      "cell": 11,
+      "id": 140,
+      "name": "刺客之書"
+    },
+    {
+      "cell": 12,
+      "id": 141,
+      "name": "海盗之書"
+    },
+    {
+      "cell": 13,
+      "id": 142,
+      "name": "少林拳譜"
+    }
+  ]
+}

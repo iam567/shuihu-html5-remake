@@ -1,0 +1,29 @@
+{
+  "status": "preview-text-correction-not-tile-approved",
+  "mapId": "0100",
+  "signs": [
+    {
+      "id": "general-store",
+      "text": "百貨",
+      "source": "User correction: 百货. Traditional display for original Traditional Chinese edition.",
+      "box": [
+        361,
+        282,
+        53,
+        28
+      ]
+    },
+    {
+      "id": "hotel",
+      "text": "酒店",
+      "source": "Original map crop visual transcription",
+      "box": [
+        614,
+        385,
+        55,
+        27
+      ]
+    }
+  ],
+  "policy": "Generated lettering is not authoritative. Exact text is maintained in a separate layer. Other maps remain pending review."
+}

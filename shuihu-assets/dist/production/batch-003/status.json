@@ -1,0 +1,354 @@
+{
+  "concurrency": 10,
+  "model": "gpt-image-2.5-sunburst",
+  "jobs": {
+    "bank-03d80a-077b8a-0dd9c8-pixel-hd": {
+      "state": "generated-awaiting-review",
+      "exitCode": 0
+    },
+    "bank-03d80a-077b8a-0dd9c8-unreal": {
+      "state": "generated-awaiting-review",
+      "exitCode": 0
+    },
+    "bank-03d80a-077b8a-0dd9c8-ghibli": {
+      "state": "generated-awaiting-review",
+      "exitCode": 0
+    },
+    "bank-037948-07852a-0dda08-pixel-hd": {
+      "state": "generated-awaiting-review",
+      "exitCode": 0
+    },
+    "bank-037948-07852a-0dda08-unreal": {
+      "state": "generated-awaiting-review",
+      "exitCode": 0
+    },
+    "bank-037948-07852a-0dda08-ghibli": {
+      "state": "generated-awaiting-review",
+      "exitCode": 0
+    },
+    "bank-0434ac-0799ea-0dda48-pixel-hd": {
+      "state": "generated-awaiting-review",
+      "exitCode": 0
+    },
+    "bank-0434ac-0799ea-0dda48-unreal": {
+      "state": "generated-awaiting-review",
+      "exitCode": 0
+    },
+    "bank-0434ac-0799ea-0dda48-ghibli": {
+      "state": "generated-awaiting-review",
+      "exitCode": 0
+    },
+    "bank-0471ae-079eea-0dda88-pixel-hd": {
+      "state": "generated-awaiting-review",
+      "exitCode": 0
+    },
+    "bank-0471ae-079eea-0dda88-unreal": {
+      "state": "generated-awaiting-review",
+      "exitCode": 0
+    },
+    "bank-0471ae-079eea-0dda88-ghibli": {
+      "state": "generated-awaiting-review",
+      "exitCode": 0
+    },
+    "bank-032386-0772aa-0ddac8-pixel-hd": {
+      "state": "generated-awaiting-review",
+      "exitCode": 0
+    },
+    "bank-032386-0772aa-0ddac8-unreal": {
+      "state": "generated-awaiting-review",
+      "exitCode": 0
+    },
+    "bank-032386-0772aa-0ddac8-ghibli": {
+      "state": "generated-awaiting-review",
+      "exitCode": 0
+    },
+    "bank-037948-07852a-0ddb08-pixel-hd": {
+      "state": "generated-awaiting-review",
+      "exitCode": 0
+    },
+    "bank-037948-07852a-0ddb08-unreal": {
+      "state": "generated-awaiting-review",
+      "exitCode": 0
+    },
+    "bank-037948-07852a-0ddb08-ghibli": {
+      "state": "generated-awaiting-review",
+      "exitCode": 0
+    },
+    "bank-04b710-07a56a-0ddb48-pixel-hd": {
+      "state": "generated-awaiting-review",
+      "exitCode": 0
+    },
+    "bank-04b710-07a56a-0ddb48-unreal": {
+      "state": "generated-awaiting-review",
+      "exitCode": 0
+    },
+    "bank-04b710-07a56a-0ddb48-ghibli": {
+      "state": "generated-awaiting-review",
+      "exitCode": 0
+    },
+    "bank-04ed72-07afaa-0ddb88-pixel-hd": {
+      "state": "generated-awaiting-review",
+      "exitCode": 0
+    },
+    "bank-04ed72-07afaa-0ddb88-unreal": {
+      "state": "generated-awaiting-review",
+      "exitCode": 0
+    },
+    "bank-04ed72-07afaa-0ddb88-ghibli": {
+      "state": "generated-awaiting-review",
+      "exitCode": 0
+    },
+    "bank-0471ae-079eea-0ddbc8-pixel-hd": {
+      "state": "generated-awaiting-review",
+      "exitCode": 0
+    },
+    "bank-0471ae-079eea-0ddbc8-unreal": {
+      "state": "generated-awaiting-review",
+      "exitCode": 0
+    },
+    "bank-0471ae-079eea-0ddbc8-ghibli": {
+      "state": "generated-awaiting-review",
+      "exitCode": 0
+    },
+    "bank-032386-0772aa-0ddc08-pixel-hd": {
+      "state": "generated-awaiting-review",
+      "exitCode": 0
+    },
+    "bank-032386-0772aa-0ddc08-unreal": {
+      "state": "generated-awaiting-review",
+      "exitCode": 0
+    },
+    "bank-032386-0772aa-0ddc08-ghibli": {
+      "state": "generated-awaiting-review",
+      "exitCode": 0
+    },
+    "bank-037948-07852a-0ddc48-pixel-hd": {
+      "state": "generated-awaiting-review",
+      "exitCode": 0
+    },
+    "bank-037948-07852a-0ddc48-unreal": {
+      "state": "generated-awaiting-review",
+      "exitCode": 0
+    },
+    "bank-037948-07852a-0ddc48-ghibli": {
+      "state": "generated-awaiting-review",
+      "exitCode": 0
+    },
+    "bank-037948-07bdaa-0ddc48-pixel-hd": {
+      "state": "generated-awaiting-review",
+      "exitCode": 0
+    },
+    "bank-037948-07bdaa-0ddc48-unreal": {
+      "state": "generated-awaiting-review",
+      "exitCode": 0
+    },
+    "bank-037948-07bdaa-0ddc48-ghibli": {
+      "state": "generated-awaiting-review",
+      "exitCode": 0
+    },
+    "bank-053fd4-07cbea-0ddc88-pixel-hd": {
+      "state": "generated-awaiting-review",
+      "exitCode": 0
+    },
+    "bank-053fd4-07cbea-0ddc88-unreal": {
+      "state": "generated-awaiting-review",
+      "exitCode": 0
+    },
+    "bank-053fd4-07cbea-0ddc88-ghibli": {
+      "state": "generated-awaiting-review",
+      "exitCode": 0
+    },
+    "bank-059976-07d64a-0ddcc8-pixel-hd": {
+      "state": "generated-awaiting-review",
+      "exitCode": 0
+    },
+    "bank-059976-07d64a-0ddcc8-unreal": {
+      "state": "generated-awaiting-review",
+      "exitCode": 0
+    },
+    "bank-059976-07d64a-0ddcc8-ghibli": {
+      "state": "generated-awaiting-review",
+      "exitCode": 0
+    },
+    "bank-04ed72-07afaa-0ddd08-pixel-hd": {
+      "state": "generated-awaiting-review",
+      "exitCode": 0
+    },
+    "bank-04ed72-07afaa-0ddd08-unreal": {
+      "state": "generated-awaiting-review",
+      "exitCode": 0
+    },
+    "bank-04ed72-07afaa-0ddd08-ghibli": {
+      "state": "generated-awaiting-review",
+      "exitCode": 0
+    },
+    "bank-0471ae-079eea-0ddd48-pixel-hd": {
+      "state": "generated-awaiting-review",
+      "exitCode": 0
+    },
+    "bank-0471ae-079eea-0ddd48-unreal": {
+      "state": "generated-awaiting-review",
+      "exitCode": 0
+    },
+    "bank-0471ae-079eea-0ddd48-ghibli": {
+      "state": "generated-awaiting-review",
+      "exitCode": 0
+    },
+    "bank-05f018-07e08a-0dd948-pixel-hd": {
+      "state": "generated-awaiting-review",
+      "exitCode": 0
+    },
+    "bank-05f018-07e08a-0dd948-unreal": {
+      "state": "generated-awaiting-review",
+      "exitCode": 0
+    },
+    "bank-05f018-07e08a-0dd948-ghibli": {
+      "state": "generated-awaiting-review",
+      "exitCode": 0
+    },
+    "bank-037948-07852a-0ddd88-pixel-hd": {
+      "state": "generated-awaiting-review",
+      "exitCode": 0
+    },
+    "bank-037948-07852a-0ddd88-unreal": {
+      "state": "generated-awaiting-review",
+      "exitCode": 0
+    },
+    "bank-037948-07852a-0ddd88-ghibli": {
+      "state": "generated-awaiting-review",
+      "exitCode": 0
+    },
+    "bank-059976-07d64a-0dddc8-pixel-hd": {
+      "state": "generated-awaiting-review",
+      "exitCode": 0
+    },
+    "bank-059976-07d64a-0dddc8-unreal": {
+      "state": "generated-awaiting-review",
+      "exitCode": 0
+    },
+    "bank-059976-07d64a-0dddc8-ghibli": {
+      "state": "generated-awaiting-review",
+      "exitCode": 0
+    },
+    "bank-053fd4-07cbea-0dde08-pixel-hd": {
+      "state": "generated-awaiting-review",
+      "exitCode": 0
+    },
+    "bank-053fd4-07cbea-0dde08-unreal": {
+      "state": "generated-awaiting-review",
+      "exitCode": 0
+    },
+    "bank-053fd4-07cbea-0dde08-ghibli": {
+      "state": "generated-awaiting-review",
+      "exitCode": 0
+    },
+    "bank-04b710-07a56a-0dde48-pixel-hd": {
+      "state": "generated-awaiting-review",
+      "exitCode": 0
+    },
+    "bank-04b710-07a56a-0dde48-unreal": {
+      "state": "generated-awaiting-review",
+      "exitCode": 0
+    },
+    "bank-04b710-07a56a-0dde48-ghibli": {
+      "state": "generated-awaiting-review",
+      "exitCode": 0
+    },
+    "bank-06111a-07e50a-0dde88-pixel-hd": {
+      "state": "generated-awaiting-review",
+      "exitCode": 0
+    },
+    "bank-06111a-07e50a-0dde88-unreal": {
+      "state": "generated-awaiting-review",
+      "exitCode": 0
+    },
+    "bank-06111a-07e50a-0dde88-ghibli": {
+      "state": "generated-awaiting-review",
+      "exitCode": 0
+    },
+    "bank-066d5c-07efea-0ddec8-pixel-hd": {
+      "state": "generated-awaiting-review",
+      "exitCode": 0
+    },
+    "bank-066d5c-07efea-0ddec8-unreal": {
+      "state": "generated-awaiting-review",
+      "exitCode": 0
+    },
+    "bank-066d5c-07efea-0ddec8-ghibli": {
+      "state": "generated-awaiting-review",
+      "exitCode": 0
+    },
+    "bank-0694fe-07f58a-0ddf08-pixel-hd": {
+      "state": "generated-awaiting-review",
+      "exitCode": 0
+    },
+    "bank-0694fe-07f58a-0ddf08-unreal": {
+      "state": "generated-awaiting-review",
+      "exitCode": 0
+    },
+    "bank-0694fe-07f58a-0ddf08-ghibli": {
+      "state": "generated-awaiting-review",
+      "exitCode": 0
+    },
+    "bank-0694fe-07f58a-0ddf48-pixel-hd": {
+      "state": "generated-awaiting-review",
+      "exitCode": 0
+    },
+    "bank-0694fe-07f58a-0ddf48-unreal": {
+      "state": "generated-awaiting-review",
+      "exitCode": 0
+    },
+    "bank-0694fe-07f58a-0ddf48-ghibli": {
+      "state": "generated-awaiting-review",
+      "exitCode": 0
+    },
+    "bank-06d4e0-07feca-0ddf88-pixel-hd": {
+      "state": "generated-awaiting-review",
+      "exitCode": 0
+    },
+    "bank-06d4e0-07feca-0ddf88-unreal": {
+      "state": "generated-awaiting-review",
+      "exitCode": 0
+    },
+    "bank-06d4e0-07feca-0ddf88-ghibli": {
+      "state": "generated-awaiting-review",
+      "exitCode": 0
+    },
+    "bank-06ff42-08084a-0ddfc8-pixel-hd": {
+      "state": "generated-awaiting-review",
+      "exitCode": 0
+    },
+    "bank-06ff42-08084a-0ddfc8-unreal": {
+      "state": "generated-awaiting-review",
+      "exitCode": 0
+    },
+    "bank-06ff42-08084a-0ddfc8-ghibli": {
+      "state": "generated-awaiting-review",
+      "exitCode": 0
+    },
+    "bank-073c64-080f6a-0de008-pixel-hd": {
+      "state": "generated-awaiting-review",
+      "exitCode": 0
+    },
+    "bank-073c64-080f6a-0de008-unreal": {
+      "state": "generated-awaiting-review",
+      "exitCode": 0
+    },
+    "bank-073c64-080f6a-0de008-ghibli": {
+      "state": "generated-awaiting-review",
+      "exitCode": 0
+    },
+    "bank-0694fe-07f58a-0de048-pixel-hd": {
+      "state": "generated-awaiting-review",
+      "exitCode": 0
+    },
+    "bank-0694fe-07f58a-0de048-unreal": {
+      "state": "generated-awaiting-review",
+      "exitCode": 0
+    },
+    "bank-0694fe-07f58a-0de048-ghibli": {
+      "state": "generated-awaiting-review",
+      "exitCode": 0
+    }
+  }
+}

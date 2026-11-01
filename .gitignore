@@ -1,0 +1,33 @@
+__pycache__/
+*.pyc
+.DS_Store
+.env
+.env.*
+!.env.example
+credentials.json
+config.local.json
+*.pem
+*.key
+node_modules/
+.venv/
+.openai/
+*.zip
+vault-receipt*.json
+*.submitted
+production/**/status.json
+production/**/*.log
+
+# iOS shell: the game is copied in by ios/Shuihu/sync_web.sh; build output is local
+ios/Shuihu/Shuihu/www/
+ios/Shuihu/build/
+ios/Shuihu/*.xcodeproj/xcuserdata/
+ios/Shuihu/*.xcodeproj/project.xcworkspace/xcuserdata/
+*.ipa
+
+# Raw image-generation candidates stay local / on the image server; prompts, job lists and checks are kept
+shuihu-assets/production/**/*.png
+shuihu-assets/production/**/*.webp
+shuihu-assets/production/**/*.jpg
+shuihu-assets/production/**/check/
+shuihu-assets/production/**/aligned/
+*.submitted

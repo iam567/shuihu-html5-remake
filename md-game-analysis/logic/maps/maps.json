@@ -1,0 +1,3161 @@
+[
+  {
+    "id": "0000",
+    "group": 0,
+    "index": 0,
+    "rom_start": 169458,
+    "rom_end": 169464,
+    "layers": [
+      {
+        "size": 0,
+        "file": "00_00_layer0.bin",
+        "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+      },
+      {
+        "size": 0,
+        "file": "00_00_layer1.bin",
+        "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+      },
+      {
+        "size": 0,
+        "file": "00_00_layer2.bin",
+        "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+      }
+    ],
+    "tiles": 205702,
+    "metatiles": 488106,
+    "palette": 907592
+  },
+  {
+    "id": "0100",
+    "group": 1,
+    "index": 0,
+    "rom_start": 169464,
+    "rom_end": 170048,
+    "layers": [
+      {
+        "size": 0,
+        "file": "01_00_layer0.bin",
+        "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+      },
+      {
+        "size": 480,
+        "file": "01_00_layer1.bin",
+        "sha256": "f205fc6856848a65da232caf3b376e0d1ed3725a4a794d1dad5d40ac41d4f913"
+      },
+      {
+        "size": 480,
+        "file": "01_00_layer2.bin",
+        "sha256": "f39697b92001f34822e90c69b7d5171363d49f64b56a01402a5e01a80e5efbb5"
+      }
+    ],
+    "tiles": 205702,
+    "metatiles": 488106,
+    "palette": 907592
+  },
+  {
+    "id": "0101",
+    "group": 1,
+    "index": 1,
+    "rom_start": 170048,
+    "rom_end": 170180,
+    "layers": [
+      {
+        "size": 0,
+        "file": "01_01_layer0.bin",
+        "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+      },
+      {
+        "size": 100,
+        "file": "01_01_layer1.bin",
+        "sha256": "17de85ac7374fcdad343973625797ec5bec4b51217be0d9a3ea272c693525aeb"
+      },
+      {
+        "size": 100,
+        "file": "01_01_layer2.bin",
+        "sha256": "71c89a01b55a4caa3b0a8599d81e13da2966e2a9767be9e3aae83fcc1474d595"
+      }
+    ],
+    "tiles": 227656,
+    "metatiles": 492842,
+    "palette": 907656
+  },
+  {
+    "id": "0102",
+    "group": 1,
+    "index": 2,
+    "rom_start": 170180,
+    "rom_end": 170397,
+    "layers": [
+      {
+        "size": 0,
+        "file": "01_02_layer0.bin",
+        "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+      },
+      {
+        "size": 150,
+        "file": "01_02_layer1.bin",
+        "sha256": "fea1b2c5b3a508c4495f6ba605f7a87fbc01ba3a04d4f8f0c8d12696cf9fc302"
+      },
+      {
+        "size": 150,
+        "file": "01_02_layer2.bin",
+        "sha256": "b370dbf410736a2efbb0e6989702339d353f65664a9fe8b6b60f811c65017506"
+      }
+    ],
+    "tiles": 227656,
+    "metatiles": 492842,
+    "palette": 907656
+  },
+  {
+    "id": "0103",
+    "group": 1,
+    "index": 3,
+    "rom_start": 170398,
+    "rom_end": 170542,
+    "layers": [
+      {
+        "size": 0,
+        "file": "01_03_layer0.bin",
+        "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+      },
+      {
+        "size": 100,
+        "file": "01_03_layer1.bin",
+        "sha256": "0ca7460b5e2d359729cc4377dd7ab38c548f2d23928389a0d56790d38c75cf1c"
+      },
+      {
+        "size": 100,
+        "file": "01_03_layer2.bin",
+        "sha256": "d4d04f94bfbe2274989299a187f23f558e649104a171746cb34ae6907f34d90f"
+      }
+    ],
+    "tiles": 227656,
+    "metatiles": 492842,
+    "palette": 907656
+  },
+  {
+    "id": "0104",
+    "group": 1,
+    "index": 4,
+    "rom_start": 170542,
+    "rom_end": 170677,
+    "layers": [
+      {
+        "size": 0,
+        "file": "01_04_layer0.bin",
+        "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+      },
+      {
+        "size": 100,
+        "file": "01_04_layer1.bin",
+        "sha256": "4b62deb7eea84f227857d671c3da755d885d7744e3c7b33a794820d345b631b8"
+      },
+      {
+        "size": 100,
+        "file": "01_04_layer2.bin",
+        "sha256": "ebe8fcc755dd7d337f04bd051e47190c2f4023f70054e27ca7b79676f0999784"
+      }
+    ],
+    "tiles": 227656,
+    "metatiles": 492842,
+    "palette": 907656
+  },
+  {
+    "id": "0105",
+    "group": 1,
+    "index": 5,
+    "rom_start": 170678,
+    "rom_end": 170815,
+    "layers": [
+      {
+        "size": 0,
+        "file": "01_05_layer0.bin",
+        "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+      },
+      {
+        "size": 100,
+        "file": "01_05_layer1.bin",
+        "sha256": "ac1c40053eb8dbce4cb1b49aeb5bb9d58235d5a3d194716ac370e90cf4b4aa7b"
+      },
+      {
+        "size": 100,
+        "file": "01_05_layer2.bin",
+        "sha256": "8a1e26d9328e9ed3fbf1e0c7cf66931a6e5cb16b9cfa5dafa6c74eb7328a5891"
+      }
+    ],
+    "tiles": 227656,
+    "metatiles": 492842,
+    "palette": 907656
+  },
+  {
+    "id": "0106",
+    "group": 1,
+    "index": 6,
+    "rom_start": 170816,
+    "rom_end": 170956,
+    "layers": [
+      {
+        "size": 0,
+        "file": "01_06_layer0.bin",
+        "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+      },
+      {
+        "size": 100,
+        "file": "01_06_layer1.bin",
+        "sha256": "5cb4521f7977251172ee659802affb4c7d082df357683bb2e2a97d30891c58fd"
+      },
+      {
+        "size": 100,
+        "file": "01_06_layer2.bin",
+        "sha256": "52bc961703c95887f17ad48c92c0b392953df4931810505396abb1873cb4aca2"
+      }
+    ],
+    "tiles": 227656,
+    "metatiles": 492842,
+    "palette": 907656
+  },
+  {
+    "id": "0107",
+    "group": 1,
+    "index": 7,
+    "rom_start": 170956,
+    "rom_end": 171096,
+    "layers": [
+      {
+        "size": 0,
+        "file": "01_07_layer0.bin",
+        "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+      },
+      {
+        "size": 100,
+        "file": "01_07_layer1.bin",
+        "sha256": "19f5bbabfe1424dcd1b843beb60840162511d14327ec2a5bd4faf976eda42b68"
+      },
+      {
+        "size": 100,
+        "file": "01_07_layer2.bin",
+        "sha256": "6cc23e56929909c750caa995ae416d6c55679a431815b00c3ff4a17cc27da79f"
+      }
+    ],
+    "tiles": 227656,
+    "metatiles": 492842,
+    "palette": 907656
+  },
+  {
+    "id": "0200",
+    "group": 2,
+    "index": 0,
+    "rom_start": 171096,
+    "rom_end": 171617,
+    "layers": [
+      {
+        "size": 0,
+        "file": "02_00_layer0.bin",
+        "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+      },
+      {
+        "size": 360,
+        "file": "02_00_layer1.bin",
+        "sha256": "e0e31465457e97cc0b05920b5c0b90a272252613f75d13bb58dfb65b848195a7"
+      },
+      {
+        "size": 360,
+        "file": "02_00_layer2.bin",
+        "sha256": "afa90dbdce2eebe04e8b71b9bf634ac6068c7d82259abdbc9023a981ee89e0c1"
+      }
+    ],
+    "tiles": 251914,
+    "metatiles": 490378,
+    "palette": 907720
+  },
+  {
+    "id": "0201",
+    "group": 2,
+    "index": 1,
+    "rom_start": 171618,
+    "rom_end": 171752,
+    "layers": [
+      {
+        "size": 0,
+        "file": "02_01_layer0.bin",
+        "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+      },
+      {
+        "size": 100,
+        "file": "02_01_layer1.bin",
+        "sha256": "a3c8a3f7274222832fe8054604c31c759f45f903e909bdf4005fc72ed1c8d33d"
+      },
+      {
+        "size": 100,
+        "file": "02_01_layer2.bin",
+        "sha256": "65c051f59705f709e077c70dc6df529caefcf0bf4c54f5e4f403b62f8f8c920f"
+      }
+    ],
+    "tiles": 227656,
+    "metatiles": 492842,
+    "palette": 907784
+  },
+  {
+    "id": "0202",
+    "group": 2,
+    "index": 2,
+    "rom_start": 171752,
+    "rom_end": 171884,
+    "layers": [
+      {
+        "size": 0,
+        "file": "02_02_layer0.bin",
+        "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+      },
+      {
+        "size": 100,
+        "file": "02_02_layer1.bin",
+        "sha256": "9e6d043b87eaa9887c52ca8b9ec7f087ae06906a481bffd38a48ebbf261ea1b1"
+      },
+      {
+        "size": 100,
+        "file": "02_02_layer2.bin",
+        "sha256": "79072c61e0f88b779157ba06991ffa1fe1c8688ca9556f675aba4d6520392994"
+      }
+    ],
+    "tiles": 227656,
+    "metatiles": 492842,
+    "palette": 907784
+  },
+  {
+    "id": "0203",
+    "group": 2,
+    "index": 3,
+    "rom_start": 171884,
+    "rom_end": 172014,
+    "layers": [
+      {
+        "size": 0,
+        "file": "02_03_layer0.bin",
+        "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+      },
+      {
+        "size": 100,
+        "file": "02_03_layer1.bin",
+        "sha256": "555f12dde7c96fd5b3b2d1935e33703d20150e0d129ccacf1e3f6c7a029a623d"
+      },
+      {
+        "size": 100,
+        "file": "02_03_layer2.bin",
+        "sha256": "ed6e91279c5d49982d4280d3c358657d5bf1c42dcae1a367b7aa3d2b69c00879"
+      }
+    ],
+    "tiles": 227656,
+    "metatiles": 492842,
+    "palette": 907784
+  },
+  {
+    "id": "0204",
+    "group": 2,
+    "index": 4,
+    "rom_start": 172014,
+    "rom_end": 172147,
+    "layers": [
+      {
+        "size": 0,
+        "file": "02_04_layer0.bin",
+        "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+      },
+      {
+        "size": 100,
+        "file": "02_04_layer1.bin",
+        "sha256": "bd0ca6293ee16227f3064ee6baa73eef67150fa7ad56a28753111bea27876f62"
+      },
+      {
+        "size": 100,
+        "file": "02_04_layer2.bin",
+        "sha256": "d9a641b3b3879a2242b4398ed367d0a0cc41b2b82d2648c74e304ab06f40c703"
+      }
+    ],
+    "tiles": 227656,
+    "metatiles": 492842,
+    "palette": 907784
+  },
+  {
+    "id": "0205",
+    "group": 2,
+    "index": 5,
+    "rom_start": 172148,
+    "rom_end": 172289,
+    "layers": [
+      {
+        "size": 0,
+        "file": "02_05_layer0.bin",
+        "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+      },
+      {
+        "size": 100,
+        "file": "02_05_layer1.bin",
+        "sha256": "0ba7a4f11df5523db3286f95686c5ce82aad97786eb3f3ad77dd26c1e779df18"
+      },
+      {
+        "size": 100,
+        "file": "02_05_layer2.bin",
+        "sha256": "c8b4913558c571f7164e262e0477653b1c50783f020a100a2e7c87c18ac108fe"
+      }
+    ],
+    "tiles": 227656,
+    "metatiles": 492842,
+    "palette": 907784
+  },
+  {
+    "id": "0206",
+    "group": 2,
+    "index": 6,
+    "rom_start": 172290,
+    "rom_end": 172752,
+    "layers": [
+      {
+        "size": 0,
+        "file": "02_06_layer0.bin",
+        "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+      },
+      {
+        "size": 360,
+        "file": "02_06_layer1.bin",
+        "sha256": "27c38ae71850a0c62cdb3523dc7609f5f1e8d19d012f89e3726986b733a8f073"
+      },
+      {
+        "size": 360,
+        "file": "02_06_layer2.bin",
+        "sha256": "7fa5e4b0944904a74b8ea74109912d0f18cebbceae9677cc66a6f48581b7b111"
+      }
+    ],
+    "tiles": 275628,
+    "metatiles": 498154,
+    "palette": 907848
+  },
+  {
+    "id": "0207",
+    "group": 2,
+    "index": 7,
+    "rom_start": 172752,
+    "rom_end": 173238,
+    "layers": [
+      {
+        "size": 0,
+        "file": "02_07_layer0.bin",
+        "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+      },
+      {
+        "size": 368,
+        "file": "02_07_layer1.bin",
+        "sha256": "a632f99c26c073f07374a77de5f77f19949c185c027471433a47851d3b5416e8"
+      },
+      {
+        "size": 368,
+        "file": "02_07_layer2.bin",
+        "sha256": "c9e6c0d3464587afcaf90ab2325bd6c0f6cf0be7bd899532e0eee7077483da6e"
+      }
+    ],
+    "tiles": 291246,
+    "metatiles": 499434,
+    "palette": 907912
+  },
+  {
+    "id": "0300",
+    "group": 3,
+    "index": 0,
+    "rom_start": 173238,
+    "rom_end": 173615,
+    "layers": [
+      {
+        "size": 0,
+        "file": "03_00_layer0.bin",
+        "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+      },
+      {
+        "size": 480,
+        "file": "03_00_layer1.bin",
+        "sha256": "5dc064caa0a93671ace3bba2fdf15a9344bd4b350dae57f28cad366d838ecfc4"
+      },
+      {
+        "size": 480,
+        "file": "03_00_layer2.bin",
+        "sha256": "7999da60b2547723803092964d6d6790ae3f0477cffefe0d69b0a9947b8a8d5b"
+      }
+    ],
+    "tiles": 205702,
+    "metatiles": 488106,
+    "palette": 907976
+  },
+  {
+    "id": "0301",
+    "group": 3,
+    "index": 1,
+    "rom_start": 173616,
+    "rom_end": 173761,
+    "layers": [
+      {
+        "size": 0,
+        "file": "03_01_layer0.bin",
+        "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+      },
+      {
+        "size": 100,
+        "file": "03_01_layer1.bin",
+        "sha256": "a16b246b9be6507dd7498e192c78edf63c03e1d4bb54cbe4f5cbacc1acd0734e"
+      },
+      {
+        "size": 100,
+        "file": "03_01_layer2.bin",
+        "sha256": "60214e9d6ade223bd168d1534a43671febe92ee0dfc49a9c3313184589437e4c"
+      }
+    ],
+    "tiles": 227656,
+    "metatiles": 492842,
+    "palette": 908040
+  },
+  {
+    "id": "0302",
+    "group": 3,
+    "index": 2,
+    "rom_start": 173762,
+    "rom_end": 173912,
+    "layers": [
+      {
+        "size": 0,
+        "file": "03_02_layer0.bin",
+        "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+      },
+      {
+        "size": 100,
+        "file": "03_02_layer1.bin",
+        "sha256": "b59cc659b24a56754e6a1c0f17f704de4835759bfc78eadb7ef33def15c7664b"
+      },
+      {
+        "size": 100,
+        "file": "03_02_layer2.bin",
+        "sha256": "6ba760a7d4711de1e6c3c0a097fa67a8f52b2e4fd4b500115c4ca3ebd44bb6fc"
+      }
+    ],
+    "tiles": 227656,
+    "metatiles": 492842,
+    "palette": 908040
+  },
+  {
+    "id": "0303",
+    "group": 3,
+    "index": 3,
+    "rom_start": 173912,
+    "rom_end": 174052,
+    "layers": [
+      {
+        "size": 0,
+        "file": "03_03_layer0.bin",
+        "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+      },
+      {
+        "size": 100,
+        "file": "03_03_layer1.bin",
+        "sha256": "e27aca4611ef61746f1feed389d7943e15f160558719a1ca7d5821acdc79cc51"
+      },
+      {
+        "size": 100,
+        "file": "03_03_layer2.bin",
+        "sha256": "54698ba50a516dff05894fb828b5ec30699e3812735a66203c58bea7e32e2cab"
+      }
+    ],
+    "tiles": 227656,
+    "metatiles": 492842,
+    "palette": 908040
+  },
+  {
+    "id": "0304",
+    "group": 3,
+    "index": 4,
+    "rom_start": 174052,
+    "rom_end": 174196,
+    "layers": [
+      {
+        "size": 0,
+        "file": "03_04_layer0.bin",
+        "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+      },
+      {
+        "size": 100,
+        "file": "03_04_layer1.bin",
+        "sha256": "bd72621b3c6ab36c27c947faa1f16c4ad4900511c41195119d5d0c6340eebb0c"
+      },
+      {
+        "size": 100,
+        "file": "03_04_layer2.bin",
+        "sha256": "c968cd9e4d027c695e35e809ea0bb1fba433b89a238f7e0ecacd046dfb077eba"
+      }
+    ],
+    "tiles": 227656,
+    "metatiles": 492842,
+    "palette": 908040
+  },
+  {
+    "id": "0305",
+    "group": 3,
+    "index": 5,
+    "rom_start": 174196,
+    "rom_end": 174348,
+    "layers": [
+      {
+        "size": 0,
+        "file": "03_05_layer0.bin",
+        "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+      },
+      {
+        "size": 100,
+        "file": "03_05_layer1.bin",
+        "sha256": "f0ce9725db24d7fc33d4000b55ae5a2880608cbe7cb0831d8ee4b2d44cc554a2"
+      },
+      {
+        "size": 100,
+        "file": "03_05_layer2.bin",
+        "sha256": "19ef8766c3e9cceaf93a3fe830613c2d7f1b351438d45abbc94dc9b592e360b9"
+      }
+    ],
+    "tiles": 227656,
+    "metatiles": 492842,
+    "palette": 908040
+  },
+  {
+    "id": "0306",
+    "group": 3,
+    "index": 6,
+    "rom_start": 174348,
+    "rom_end": 174489,
+    "layers": [
+      {
+        "size": 0,
+        "file": "03_06_layer0.bin",
+        "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+      },
+      {
+        "size": 100,
+        "file": "03_06_layer1.bin",
+        "sha256": "94fcf6d2013b5c0f5d66e678a2824564d82039a38931ad7a5a9d6f8a125553c8"
+      },
+      {
+        "size": 100,
+        "file": "03_06_layer2.bin",
+        "sha256": "09ee401e03bf7e02ebc5701f2bd550ad8703d372a68f808f564fbcecc0726735"
+      }
+    ],
+    "tiles": 227656,
+    "metatiles": 492842,
+    "palette": 908040
+  },
+  {
+    "id": "0307",
+    "group": 3,
+    "index": 7,
+    "rom_start": 174490,
+    "rom_end": 175324,
+    "layers": [
+      {
+        "size": 0,
+        "file": "03_07_layer0.bin",
+        "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+      },
+      {
+        "size": 600,
+        "file": "03_07_layer1.bin",
+        "sha256": "a3bf1fa587165ecedb7466565e4478de638cbbab80c227c13e3abd5b6bb8a5af"
+      },
+      {
+        "size": 600,
+        "file": "03_07_layer2.bin",
+        "sha256": "e966247206d8d0c9b794a13aaf3b5bb970a676f20cd5c9e08b409f51ada7ef0c"
+      }
+    ],
+    "tiles": 309008,
+    "metatiles": 501098,
+    "palette": 908104
+  },
+  {
+    "id": "0308",
+    "group": 3,
+    "index": 8,
+    "rom_start": 175324,
+    "rom_end": 175767,
+    "layers": [
+      {
+        "size": 0,
+        "file": "03_08_layer0.bin",
+        "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+      },
+      {
+        "size": 325,
+        "file": "03_08_layer1.bin",
+        "sha256": "753e38564bca0d0d585d3f9b4772d4523060c2e2f594d22ab4bf1229d281580c"
+      },
+      {
+        "size": 325,
+        "file": "03_08_layer2.bin",
+        "sha256": "98186a86b667015f1f50027f396539eff2f57b55bc9f74b1f2b113638076bc89"
+      }
+    ],
+    "tiles": 322930,
+    "metatiles": 503722,
+    "palette": 908168
+  },
+  {
+    "id": "0309",
+    "group": 3,
+    "index": 9,
+    "rom_start": 175768,
+    "rom_end": 176235,
+    "layers": [
+      {
+        "size": 0,
+        "file": "03_09_layer0.bin",
+        "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+      },
+      {
+        "size": 360,
+        "file": "03_09_layer1.bin",
+        "sha256": "821202e25fb03b13821b29cd99703250c5f81c2f9c3cc59d8d2c056f360d2bce"
+      },
+      {
+        "size": 360,
+        "file": "03_09_layer2.bin",
+        "sha256": "a156605efbb3083a960847ed439d3ec3fd85f6db18d5a087ecd82bb34d314ce0"
+      }
+    ],
+    "tiles": 291246,
+    "metatiles": 499434,
+    "palette": 908232
+  },
+  {
+    "id": "0400",
+    "group": 4,
+    "index": 0,
+    "rom_start": 176236,
+    "rom_end": 176811,
+    "layers": [
+      {
+        "size": 0,
+        "file": "04_00_layer0.bin",
+        "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+      },
+      {
+        "size": 448,
+        "file": "04_00_layer1.bin",
+        "sha256": "9877a205690a7badfc5adc43b4faae2eafd935b32a15aca4e62ef590dfd74c0b"
+      },
+      {
+        "size": 448,
+        "file": "04_00_layer2.bin",
+        "sha256": "5d3261fb6dd903043a93d3c0ee7890234f7e8d81f1656444a0ff0b206a08170d"
+      }
+    ],
+    "tiles": 205702,
+    "metatiles": 488106,
+    "palette": 908296
+  },
+  {
+    "id": "0401",
+    "group": 4,
+    "index": 1,
+    "rom_start": 176812,
+    "rom_end": 176940,
+    "layers": [
+      {
+        "size": 0,
+        "file": "04_01_layer0.bin",
+        "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+      },
+      {
+        "size": 100,
+        "file": "04_01_layer1.bin",
+        "sha256": "c657d6003950c25515616dd1ef158cdc6411a24edf40360d544403921b132995"
+      },
+      {
+        "size": 100,
+        "file": "04_01_layer2.bin",
+        "sha256": "9fbaab793047c0913431b0c1ce47228c7bccad3f43683e234afaa240dd39f770"
+      }
+    ],
+    "tiles": 227656,
+    "metatiles": 492842,
+    "palette": 908360
+  },
+  {
+    "id": "0402",
+    "group": 4,
+    "index": 2,
+    "rom_start": 176940,
+    "rom_end": 177078,
+    "layers": [
+      {
+        "size": 0,
+        "file": "04_02_layer0.bin",
+        "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+      },
+      {
+        "size": 100,
+        "file": "04_02_layer1.bin",
+        "sha256": "1f5addb5902b7e120864e2c0d5cc783b00f69675a51ae33831140877c5f32428"
+      },
+      {
+        "size": 100,
+        "file": "04_02_layer2.bin",
+        "sha256": "e766e36454f9cabc65d9fea237a33942a7e81959b21f67c8b125620d542b5884"
+      }
+    ],
+    "tiles": 227656,
+    "metatiles": 492842,
+    "palette": 908360
+  },
+  {
+    "id": "0403",
+    "group": 4,
+    "index": 3,
+    "rom_start": 177078,
+    "rom_end": 177213,
+    "layers": [
+      {
+        "size": 0,
+        "file": "04_03_layer0.bin",
+        "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+      },
+      {
+        "size": 100,
+        "file": "04_03_layer1.bin",
+        "sha256": "5f7c7d877d319b33510bd55ef2c94128ec7989fa33fa2bbb12c5921bf930d795"
+      },
+      {
+        "size": 100,
+        "file": "04_03_layer2.bin",
+        "sha256": "9fb459ba26e44c1c85096fb4d6e4d65701f201e089600f00f7e018530a3dab7e"
+      }
+    ],
+    "tiles": 227656,
+    "metatiles": 492842,
+    "palette": 908360
+  },
+  {
+    "id": "0404",
+    "group": 4,
+    "index": 4,
+    "rom_start": 177214,
+    "rom_end": 177378,
+    "layers": [
+      {
+        "size": 0,
+        "file": "04_04_layer0.bin",
+        "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+      },
+      {
+        "size": 144,
+        "file": "04_04_layer1.bin",
+        "sha256": "f9c7c1e8db6b962a1cb6c1259700e8ff94d18137ad1985cf8e03f8faad4e93fd"
+      },
+      {
+        "size": 144,
+        "file": "04_04_layer2.bin",
+        "sha256": "3f54b71172044e0acf9aa9fe0840cc74f83ff49f4cc7c46d4a74a00718936ed8"
+      }
+    ],
+    "tiles": 227656,
+    "metatiles": 492842,
+    "palette": 908360
+  },
+  {
+    "id": "0405",
+    "group": 4,
+    "index": 5,
+    "rom_start": 177378,
+    "rom_end": 177552,
+    "layers": [
+      {
+        "size": 0,
+        "file": "04_05_layer0.bin",
+        "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+      },
+      {
+        "size": 120,
+        "file": "04_05_layer1.bin",
+        "sha256": "e43367493f029e16bade6b83d221a22647e5e03502748af02e2e525aa6c82ba6"
+      },
+      {
+        "size": 120,
+        "file": "04_05_layer2.bin",
+        "sha256": "c32686e759cb7e94a7e513d7255d3b7511ac756af59be50d8e737ccf818e3f75"
+      }
+    ],
+    "tiles": 227656,
+    "metatiles": 492842,
+    "palette": 908360
+  },
+  {
+    "id": "0406",
+    "group": 4,
+    "index": 6,
+    "rom_start": 177552,
+    "rom_end": 177689,
+    "layers": [
+      {
+        "size": 0,
+        "file": "04_06_layer0.bin",
+        "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+      },
+      {
+        "size": 100,
+        "file": "04_06_layer1.bin",
+        "sha256": "0bf7b9d405f91237e89fbfc3289d2f6e9adbc535a4fc203e543c82bc33dc1af8"
+      },
+      {
+        "size": 100,
+        "file": "04_06_layer2.bin",
+        "sha256": "d04844b4cb89b1c7635a802750d1f0329482a7307a538e8764ec0b8af4fd028c"
+      }
+    ],
+    "tiles": 227656,
+    "metatiles": 492842,
+    "palette": 908360
+  },
+  {
+    "id": "0407",
+    "group": 4,
+    "index": 7,
+    "rom_start": 177690,
+    "rom_end": 177828,
+    "layers": [
+      {
+        "size": 0,
+        "file": "04_07_layer0.bin",
+        "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+      },
+      {
+        "size": 100,
+        "file": "04_07_layer1.bin",
+        "sha256": "82420fd36ae77d651b2a1634ab8160ce7b1c776007d5326318c4033946a840ea"
+      },
+      {
+        "size": 100,
+        "file": "04_07_layer2.bin",
+        "sha256": "925f7f72ae66b6016a8c68109bbd734eb987bb9e0373537019decb4fd8617e3d"
+      }
+    ],
+    "tiles": 227656,
+    "metatiles": 492842,
+    "palette": 908360
+  },
+  {
+    "id": "0408",
+    "group": 4,
+    "index": 8,
+    "rom_start": 177828,
+    "rom_end": 178199,
+    "layers": [
+      {
+        "size": 0,
+        "file": "04_08_layer0.bin",
+        "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+      },
+      {
+        "size": 360,
+        "file": "04_08_layer1.bin",
+        "sha256": "8b85dc912f9105d5e5d5f19f58ac90a3286a501895eaca751ec7ae1a3af167cf"
+      },
+      {
+        "size": 360,
+        "file": "04_08_layer2.bin",
+        "sha256": "ae19481ee38d1af998e6762314063b70583f830c50219de7bfb94b3a3f71a39c"
+      }
+    ],
+    "tiles": 227656,
+    "metatiles": 507306,
+    "palette": 908360
+  },
+  {
+    "id": "0409",
+    "group": 4,
+    "index": 9,
+    "rom_start": 178200,
+    "rom_end": 178861,
+    "layers": [
+      {
+        "size": 0,
+        "file": "04_09_layer0.bin",
+        "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+      },
+      {
+        "size": 480,
+        "file": "04_09_layer1.bin",
+        "sha256": "6aecc91aa7773f6133bff526e662597904ced40e61d4e58127e5fc7e0b794a1a"
+      },
+      {
+        "size": 480,
+        "file": "04_09_layer2.bin",
+        "sha256": "842206f8e54ad0a9a6ec6b8a4d4f43967e1aa389e9f01fa0bed1bb21e5adc50e"
+      }
+    ],
+    "tiles": 344020,
+    "metatiles": 510954,
+    "palette": 908424
+  },
+  {
+    "id": "0500",
+    "group": 5,
+    "index": 0,
+    "rom_start": 178862,
+    "rom_end": 179385,
+    "layers": [
+      {
+        "size": 0,
+        "file": "05_00_layer0.bin",
+        "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+      },
+      {
+        "size": 432,
+        "file": "05_00_layer1.bin",
+        "sha256": "6ee4e042ad0e580a5f49c33b2777c6b3827c16cff3e5a79a8e9240bc9abd3a30"
+      },
+      {
+        "size": 432,
+        "file": "05_00_layer2.bin",
+        "sha256": "7ed0912cd9e7b2b9e0b337f47bc3780d0ec87a8fce2170d9545729e05ffb7856"
+      }
+    ],
+    "tiles": 205702,
+    "metatiles": 488106,
+    "palette": 908296
+  },
+  {
+    "id": "0501",
+    "group": 5,
+    "index": 1,
+    "rom_start": 179386,
+    "rom_end": 179525,
+    "layers": [
+      {
+        "size": 0,
+        "file": "05_01_layer0.bin",
+        "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+      },
+      {
+        "size": 100,
+        "file": "05_01_layer1.bin",
+        "sha256": "c42dc228319488eeb3873b5216c6a38a6396acb6d3ec18be3c96f1c80c5c6dd2"
+      },
+      {
+        "size": 100,
+        "file": "05_01_layer2.bin",
+        "sha256": "58d12b3a9fee80211c555fd27a887f770b4a21053e09c4c1e768be8b4c79a3b4"
+      }
+    ],
+    "tiles": 227656,
+    "metatiles": 492842,
+    "palette": 908360
+  },
+  {
+    "id": "0502",
+    "group": 5,
+    "index": 2,
+    "rom_start": 179526,
+    "rom_end": 179662,
+    "layers": [
+      {
+        "size": 0,
+        "file": "05_02_layer0.bin",
+        "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+      },
+      {
+        "size": 100,
+        "file": "05_02_layer1.bin",
+        "sha256": "1b9eab2337f3bc25015cc4573a1bf6669760c7b2007c2c2e53089a7c71032699"
+      },
+      {
+        "size": 100,
+        "file": "05_02_layer2.bin",
+        "sha256": "1c990c1101b4d91cad3a9a3e5f84157dcb207c8c8b8c9158c514da33687dd738"
+      }
+    ],
+    "tiles": 227656,
+    "metatiles": 492842,
+    "palette": 908360
+  },
+  {
+    "id": "0503",
+    "group": 5,
+    "index": 3,
+    "rom_start": 179662,
+    "rom_end": 179807,
+    "layers": [
+      {
+        "size": 0,
+        "file": "05_03_layer0.bin",
+        "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+      },
+      {
+        "size": 100,
+        "file": "05_03_layer1.bin",
+        "sha256": "05111828d4fe30d1137486b423f70a01f8175bf14c089f08a2b219e513405500"
+      },
+      {
+        "size": 100,
+        "file": "05_03_layer2.bin",
+        "sha256": "4ebacfb2c5c2addb0df72e9ad791e4b7d061eb3303975ad9851395a1f62df9ae"
+      }
+    ],
+    "tiles": 227656,
+    "metatiles": 492842,
+    "palette": 908360
+  },
+  {
+    "id": "0504",
+    "group": 5,
+    "index": 4,
+    "rom_start": 179808,
+    "rom_end": 179944,
+    "layers": [
+      {
+        "size": 0,
+        "file": "05_04_layer0.bin",
+        "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+      },
+      {
+        "size": 100,
+        "file": "05_04_layer1.bin",
+        "sha256": "b01d4ef286119c7ea177a95c0950780802f93e95e8597e51449c746781f6d281"
+      },
+      {
+        "size": 100,
+        "file": "05_04_layer2.bin",
+        "sha256": "866cf287df458077f2c29d86b6e1cd2635e03cac12dd543e124a7e86e42ea8a9"
+      }
+    ],
+    "tiles": 227656,
+    "metatiles": 492842,
+    "palette": 908360
+  },
+  {
+    "id": "0505",
+    "group": 5,
+    "index": 5,
+    "rom_start": 179944,
+    "rom_end": 180071,
+    "layers": [
+      {
+        "size": 0,
+        "file": "05_05_layer0.bin",
+        "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+      },
+      {
+        "size": 100,
+        "file": "05_05_layer1.bin",
+        "sha256": "bab40750098f8c734731f665005577b38ea9fa03bec764d1fd3edb0e9c4a202c"
+      },
+      {
+        "size": 100,
+        "file": "05_05_layer2.bin",
+        "sha256": "fd6fa830ab4432dacd5f109dbbd926017c455f73e895531cda6acb989eb74d7e"
+      }
+    ],
+    "tiles": 227656,
+    "metatiles": 492842,
+    "palette": 908360
+  },
+  {
+    "id": "0506",
+    "group": 5,
+    "index": 6,
+    "rom_start": 180072,
+    "rom_end": 180212,
+    "layers": [
+      {
+        "size": 0,
+        "file": "05_06_layer0.bin",
+        "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+      },
+      {
+        "size": 100,
+        "file": "05_06_layer1.bin",
+        "sha256": "77d8b4d02bf1692bf73839beae411cdeb1eb0bd4ea791b19f4ffeab39822a7d4"
+      },
+      {
+        "size": 100,
+        "file": "05_06_layer2.bin",
+        "sha256": "92e016352046a99db057f64187e86cf0ba07ae0ece969f43b3f9b000696d1d32"
+      }
+    ],
+    "tiles": 227656,
+    "metatiles": 492842,
+    "palette": 908360
+  },
+  {
+    "id": "0507",
+    "group": 5,
+    "index": 7,
+    "rom_start": 175324,
+    "rom_end": 175767,
+    "layers": [
+      {
+        "size": 0,
+        "file": "05_07_layer0.bin",
+        "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+      },
+      {
+        "size": 325,
+        "file": "05_07_layer1.bin",
+        "sha256": "753e38564bca0d0d585d3f9b4772d4523060c2e2f594d22ab4bf1229d281580c"
+      },
+      {
+        "size": 325,
+        "file": "05_07_layer2.bin",
+        "sha256": "98186a86b667015f1f50027f396539eff2f57b55bc9f74b1f2b113638076bc89"
+      }
+    ],
+    "tiles": 322930,
+    "metatiles": 503722,
+    "palette": 908168
+  },
+  {
+    "id": "0508",
+    "group": 5,
+    "index": 8,
+    "rom_start": 182098,
+    "rom_end": 182785,
+    "layers": [
+      {
+        "size": 0,
+        "file": "05_08_layer0.bin",
+        "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+      },
+      {
+        "size": 552,
+        "file": "05_08_layer1.bin",
+        "sha256": "16b624a7d2768773a89bccf5d752049fda8b8adc434015a0123de469cd141241"
+      },
+      {
+        "size": 552,
+        "file": "05_08_layer2.bin",
+        "sha256": "cf0f2735e792ea15939e1168170c1545b4470e87c746c4953b996db7d74a02f8"
+      }
+    ],
+    "tiles": 366966,
+    "metatiles": 513610,
+    "palette": 908488
+  },
+  {
+    "id": "0509",
+    "group": 5,
+    "index": 9,
+    "rom_start": 182786,
+    "rom_end": 183014,
+    "layers": [
+      {
+        "size": 0,
+        "file": "05_09_layer0.bin",
+        "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+      },
+      {
+        "size": 165,
+        "file": "05_09_layer1.bin",
+        "sha256": "3f33e20df4291ebf46cf9ca66dfa907dd7296f23aabc551b8faa8328471b1662"
+      },
+      {
+        "size": 165,
+        "file": "05_09_layer2.bin",
+        "sha256": "3c2d26cef03d68d953d6705a136a842855bed91e51ee1a42dbf33b333083f972"
+      }
+    ],
+    "tiles": 322930,
+    "metatiles": 503722,
+    "palette": 908552
+  },
+  {
+    "id": "0600",
+    "group": 6,
+    "index": 0,
+    "rom_start": 180212,
+    "rom_end": 180593,
+    "layers": [
+      {
+        "size": 0,
+        "file": "06_00_layer0.bin",
+        "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+      },
+      {
+        "size": 360,
+        "file": "06_00_layer1.bin",
+        "sha256": "68d105fd2cf2c39c4fa925c5c71f71cd33a85a27925dd846e678fc93e9566c86"
+      },
+      {
+        "size": 360,
+        "file": "06_00_layer2.bin",
+        "sha256": "279a73707751d3465160c8801ef81261eb7a8ac66333b07cb9582bc713bfe861"
+      }
+    ],
+    "tiles": 205702,
+    "metatiles": 488106,
+    "palette": 908296
+  },
+  {
+    "id": "0601",
+    "group": 6,
+    "index": 1,
+    "rom_start": 180594,
+    "rom_end": 180730,
+    "layers": [
+      {
+        "size": 0,
+        "file": "06_01_layer0.bin",
+        "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+      },
+      {
+        "size": 100,
+        "file": "06_01_layer1.bin",
+        "sha256": "47731db00f230814de29c7c7b922b13c87ec5cfafcd339c135be8f5610cc155d"
+      },
+      {
+        "size": 100,
+        "file": "06_01_layer2.bin",
+        "sha256": "323c0cecb5941d2325d3b141f75bcdd13d864740a955740f01b9b876fc725d48"
+      }
+    ],
+    "tiles": 227656,
+    "metatiles": 492842,
+    "palette": 908360
+  },
+  {
+    "id": "0602",
+    "group": 6,
+    "index": 2,
+    "rom_start": 180730,
+    "rom_end": 180917,
+    "layers": [
+      {
+        "size": 0,
+        "file": "06_02_layer0.bin",
+        "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+      },
+      {
+        "size": 130,
+        "file": "06_02_layer1.bin",
+        "sha256": "4ac4d37ac46596de866e93f2477def411cde08244e7de4ff83c7032d04b3fe7e"
+      },
+      {
+        "size": 130,
+        "file": "06_02_layer2.bin",
+        "sha256": "1bd5c4b6cac5426bb7b32f77f6a3f61a017cd9009bbb3e16b11bdfccd7fe2472"
+      }
+    ],
+    "tiles": 227656,
+    "metatiles": 492842,
+    "palette": 908360
+  },
+  {
+    "id": "0603",
+    "group": 6,
+    "index": 3,
+    "rom_start": 180918,
+    "rom_end": 181045,
+    "layers": [
+      {
+        "size": 0,
+        "file": "06_03_layer0.bin",
+        "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+      },
+      {
+        "size": 100,
+        "file": "06_03_layer1.bin",
+        "sha256": "07c2a5d18bb4d51daac2057f05cf42c95a0e8820b8f401c4333b598eb88ee043"
+      },
+      {
+        "size": 100,
+        "file": "06_03_layer2.bin",
+        "sha256": "70bdd0c8d57821eb8f88f1fcf059b28e884381238276f46a4ab5e6062f6ddae1"
+      }
+    ],
+    "tiles": 227656,
+    "metatiles": 492842,
+    "palette": 908360
+  },
+  {
+    "id": "0604",
+    "group": 6,
+    "index": 4,
+    "rom_start": 181046,
+    "rom_end": 181184,
+    "layers": [
+      {
+        "size": 0,
+        "file": "06_04_layer0.bin",
+        "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+      },
+      {
+        "size": 100,
+        "file": "06_04_layer1.bin",
+        "sha256": "c33e2bfd0ee0094ead575466026ba266c9f712d2632fcf988c5cba663c96ca76"
+      },
+      {
+        "size": 100,
+        "file": "06_04_layer2.bin",
+        "sha256": "6f4ca34dbe71c5e968eb6052bc752b0e8fa0bea002759c13eac199b7fdb4a9f4"
+      }
+    ],
+    "tiles": 227656,
+    "metatiles": 492842,
+    "palette": 908360
+  },
+  {
+    "id": "0605",
+    "group": 6,
+    "index": 5,
+    "rom_start": 181184,
+    "rom_end": 181318,
+    "layers": [
+      {
+        "size": 0,
+        "file": "06_05_layer0.bin",
+        "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+      },
+      {
+        "size": 100,
+        "file": "06_05_layer1.bin",
+        "sha256": "8bcb1114f3333c1f979dcaab7681e9edbb74250c10728f63c7f75159780f041f"
+      },
+      {
+        "size": 100,
+        "file": "06_05_layer2.bin",
+        "sha256": "f17dd807b59e72ec469c6a60dc7d3b3e12d0ce408f59688881842eed7390c3b1"
+      }
+    ],
+    "tiles": 227656,
+    "metatiles": 492842,
+    "palette": 908360
+  },
+  {
+    "id": "0606",
+    "group": 6,
+    "index": 6,
+    "rom_start": 181318,
+    "rom_end": 181454,
+    "layers": [
+      {
+        "size": 0,
+        "file": "06_06_layer0.bin",
+        "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+      },
+      {
+        "size": 100,
+        "file": "06_06_layer1.bin",
+        "sha256": "7825bb443e6295a607b8c024b73ba7a88ac47fac0b8c15e82cb2584389f6e239"
+      },
+      {
+        "size": 100,
+        "file": "06_06_layer2.bin",
+        "sha256": "e8f924a0cf7c4ba0938b3d548e34375f8db29462f5c3b16546893261f74978db"
+      }
+    ],
+    "tiles": 227656,
+    "metatiles": 492842,
+    "palette": 908360
+  },
+  {
+    "id": "0607",
+    "group": 6,
+    "index": 7,
+    "rom_start": 181454,
+    "rom_end": 181588,
+    "layers": [
+      {
+        "size": 0,
+        "file": "06_07_layer0.bin",
+        "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+      },
+      {
+        "size": 100,
+        "file": "06_07_layer1.bin",
+        "sha256": "cd8427684f98aff606229ba4b9cc8e45f5f6c53c3447d68cf528f1a339443192"
+      },
+      {
+        "size": 100,
+        "file": "06_07_layer2.bin",
+        "sha256": "1eadb76cde9b90eaed94121a3ba4e66d37f27d831fa487ae53ced5c796953368"
+      }
+    ],
+    "tiles": 227656,
+    "metatiles": 492842,
+    "palette": 908360
+  },
+  {
+    "id": "0608",
+    "group": 6,
+    "index": 8,
+    "rom_start": 181588,
+    "rom_end": 181710,
+    "layers": [
+      {
+        "size": 0,
+        "file": "06_08_layer0.bin",
+        "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+      },
+      {
+        "size": 100,
+        "file": "06_08_layer1.bin",
+        "sha256": "1f7dd18e3da22207003c86d0a0b1adf99c090703aab56675ffc43663ac235300"
+      },
+      {
+        "size": 100,
+        "file": "06_08_layer2.bin",
+        "sha256": "36f02374f359ee6ecd0dc7b5eba4b147ec129395cdcdce774600b0cfd1674c81"
+      }
+    ],
+    "tiles": 227656,
+    "metatiles": 492842,
+    "palette": 908360
+  },
+  {
+    "id": "0609",
+    "group": 6,
+    "index": 9,
+    "rom_start": 181710,
+    "rom_end": 182098,
+    "layers": [
+      {
+        "size": 0,
+        "file": "06_09_layer0.bin",
+        "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+      },
+      {
+        "size": 408,
+        "file": "06_09_layer1.bin",
+        "sha256": "0a5558666c216e81d4fa294cd1c2a7a623660a692a09a0dea11c3593d3bff9ab"
+      },
+      {
+        "size": 408,
+        "file": "06_09_layer2.bin",
+        "sha256": "43b4ec8b24230cb8098ab63d07f53fe99ebeac2ef844f868b2f3aec943869cd9"
+      }
+    ],
+    "tiles": 227656,
+    "metatiles": 492842,
+    "palette": 908360
+  },
+  {
+    "id": "0700",
+    "group": 7,
+    "index": 0,
+    "rom_start": 183014,
+    "rom_end": 183513,
+    "layers": [
+      {
+        "size": 0,
+        "file": "07_00_layer0.bin",
+        "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+      },
+      {
+        "size": 368,
+        "file": "07_00_layer1.bin",
+        "sha256": "9f956e406555cafd362f3ec715a593d1fd8cd558bd828682d2cdc9c4c16c7057"
+      },
+      {
+        "size": 368,
+        "file": "07_00_layer2.bin",
+        "sha256": "485fb761f20defca68f4795360901aceee08b6a45f00e8b5d143eef05a79e6bf"
+      }
+    ],
+    "tiles": 251914,
+    "metatiles": 490378,
+    "palette": 907720
+  },
+  {
+    "id": "0701",
+    "group": 7,
+    "index": 1,
+    "rom_start": 183514,
+    "rom_end": 183687,
+    "layers": [
+      {
+        "size": 0,
+        "file": "07_01_layer0.bin",
+        "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+      },
+      {
+        "size": 143,
+        "file": "07_01_layer1.bin",
+        "sha256": "773b77b34fdaa13fe743fee7a751ef1320a6c1bab5ef3216b58f036a3922ef12"
+      },
+      {
+        "size": 143,
+        "file": "07_01_layer2.bin",
+        "sha256": "9f916f57addc8a06746279985d7b26239e0b7b7f09f153b5e7ed75ff5076a74a"
+      }
+    ],
+    "tiles": 322930,
+    "metatiles": 503722,
+    "palette": 908168
+  },
+  {
+    "id": "0702",
+    "group": 7,
+    "index": 2,
+    "rom_start": 183688,
+    "rom_end": 183813,
+    "layers": [
+      {
+        "size": 0,
+        "file": "07_02_layer0.bin",
+        "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+      },
+      {
+        "size": 100,
+        "file": "07_02_layer1.bin",
+        "sha256": "41bac1b39a821604adebf98d0f3e8e7a79e3e1853645200c1dcbcbd83eda9dcf"
+      },
+      {
+        "size": 100,
+        "file": "07_02_layer2.bin",
+        "sha256": "e4c727064544e6cee3d7725579b577d8d929c2ba6b84819fdb9b95b6121ced80"
+      }
+    ],
+    "tiles": 227656,
+    "metatiles": 492842,
+    "palette": 907784
+  },
+  {
+    "id": "0703",
+    "group": 7,
+    "index": 3,
+    "rom_start": 183814,
+    "rom_end": 183936,
+    "layers": [
+      {
+        "size": 0,
+        "file": "07_03_layer0.bin",
+        "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+      },
+      {
+        "size": 100,
+        "file": "07_03_layer1.bin",
+        "sha256": "66b64193b2a5aa4d76f0ac7b21137025a2631d1a4c2cb104f54f49006af0e0fb"
+      },
+      {
+        "size": 100,
+        "file": "07_03_layer2.bin",
+        "sha256": "99d046ea4a43f34f89a3ecf28e1459f6bb1b0ba121f8b93a313e9f4b051d5c16"
+      }
+    ],
+    "tiles": 227656,
+    "metatiles": 492842,
+    "palette": 907784
+  },
+  {
+    "id": "0704",
+    "group": 7,
+    "index": 4,
+    "rom_start": 183936,
+    "rom_end": 184058,
+    "layers": [
+      {
+        "size": 0,
+        "file": "07_04_layer0.bin",
+        "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+      },
+      {
+        "size": 100,
+        "file": "07_04_layer1.bin",
+        "sha256": "79e48b95f1a9b63560361c135f053df3f1b0a7f2c91ad027c717c14dd417905f"
+      },
+      {
+        "size": 100,
+        "file": "07_04_layer2.bin",
+        "sha256": "8075747142d8b8d1244be7622bfcb7445a10454bf349e44ed157e5021732acc2"
+      }
+    ],
+    "tiles": 227656,
+    "metatiles": 492842,
+    "palette": 907784
+  },
+  {
+    "id": "0705",
+    "group": 7,
+    "index": 5,
+    "rom_start": 184058,
+    "rom_end": 184184,
+    "layers": [
+      {
+        "size": 0,
+        "file": "07_05_layer0.bin",
+        "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+      },
+      {
+        "size": 100,
+        "file": "07_05_layer1.bin",
+        "sha256": "ee74cf030fca0e58fdf06c5d26e5248199e0149566d2f883ff9454963e627d72"
+      },
+      {
+        "size": 100,
+        "file": "07_05_layer2.bin",
+        "sha256": "4383e817622264644d15914b9e8b8ca0c205720d9ec153628b4ca380ee1f5c1b"
+      }
+    ],
+    "tiles": 227656,
+    "metatiles": 492842,
+    "palette": 907784
+  },
+  {
+    "id": "0706",
+    "group": 7,
+    "index": 6,
+    "rom_start": 184184,
+    "rom_end": 184312,
+    "layers": [
+      {
+        "size": 0,
+        "file": "07_06_layer0.bin",
+        "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+      },
+      {
+        "size": 100,
+        "file": "07_06_layer1.bin",
+        "sha256": "e320f653e86637eaf66a48b5dc445bd14c9f95ea4ca83feedfe2fb53f9caef22"
+      },
+      {
+        "size": 100,
+        "file": "07_06_layer2.bin",
+        "sha256": "8f543ad34d47e6d9659fc2767501e63ccb8819abb24346a98e01ce6a2a4fdf30"
+      }
+    ],
+    "tiles": 227656,
+    "metatiles": 492842,
+    "palette": 907784
+  },
+  {
+    "id": "0707",
+    "group": 7,
+    "index": 7,
+    "rom_start": 184312,
+    "rom_end": 184973,
+    "layers": [
+      {
+        "size": 0,
+        "file": "07_07_layer0.bin",
+        "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+      },
+      {
+        "size": 480,
+        "file": "07_07_layer1.bin",
+        "sha256": "60daef075ab8eeac93b54bb6efb0a51479f764f0d3bea498608377cfe5ca6d37"
+      },
+      {
+        "size": 480,
+        "file": "07_07_layer2.bin",
+        "sha256": "bb7cbb9102e078a65603f12585a3daae007350cfc119044fb686d5e974145e87"
+      }
+    ],
+    "tiles": 344020,
+    "metatiles": 510954,
+    "palette": 908424
+  },
+  {
+    "id": "0708",
+    "group": 7,
+    "index": 8,
+    "rom_start": 184974,
+    "rom_end": 185836,
+    "layers": [
+      {
+        "size": 0,
+        "file": "07_08_layer0.bin",
+        "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+      },
+      {
+        "size": 600,
+        "file": "07_08_layer1.bin",
+        "sha256": "42084a9f46d6cb9d82f4c356e3083614356f7bc85f6bfe02893d58ac2a8360a2"
+      },
+      {
+        "size": 600,
+        "file": "07_08_layer2.bin",
+        "sha256": "536d907d917b0b12e0d7b1fbdb605a7a58e0e649b3a60fad72f8f3bf8da5f982"
+      }
+    ],
+    "tiles": 309008,
+    "metatiles": 501098,
+    "palette": 908104
+  },
+  {
+    "id": "0709",
+    "group": 7,
+    "index": 9,
+    "rom_start": 185836,
+    "rom_end": 186509,
+    "layers": [
+      {
+        "size": 0,
+        "file": "07_09_layer0.bin",
+        "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+      },
+      {
+        "size": 480,
+        "file": "07_09_layer1.bin",
+        "sha256": "df996c309df2bbcac720d34dc1d77a1bbb8c9075d3c865f5a698d7dc84f9eea3"
+      },
+      {
+        "size": 480,
+        "file": "07_09_layer2.bin",
+        "sha256": "61bff4f8f7985a5329c587ad8e64085660ddea17bfae13107a67626eef7f2d59"
+      }
+    ],
+    "tiles": 291246,
+    "metatiles": 499434,
+    "palette": 908616
+  },
+  {
+    "id": "0800",
+    "group": 8,
+    "index": 0,
+    "rom_start": 186510,
+    "rom_end": 186918,
+    "layers": [
+      {
+        "size": 0,
+        "file": "08_00_layer0.bin",
+        "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+      },
+      {
+        "size": 360,
+        "file": "08_00_layer1.bin",
+        "sha256": "503b3bf9a181569ed60db003e91ada0f9c77bb613f2a79cbd2b43546e98b9b92"
+      },
+      {
+        "size": 360,
+        "file": "08_00_layer2.bin",
+        "sha256": "1d0050361ccf7e2380957d320346bd5aacd054ea2a229b4dcdfd4a422c98646f"
+      }
+    ],
+    "tiles": 205702,
+    "metatiles": 488106,
+    "palette": 907592
+  },
+  {
+    "id": "0801",
+    "group": 8,
+    "index": 1,
+    "rom_start": 186918,
+    "rom_end": 187052,
+    "layers": [
+      {
+        "size": 0,
+        "file": "08_01_layer0.bin",
+        "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+      },
+      {
+        "size": 100,
+        "file": "08_01_layer1.bin",
+        "sha256": "1de7f0230467f06ed57f499ac135b4f3da6c7f0886ea2ab345ae92a0288b4ffa"
+      },
+      {
+        "size": 100,
+        "file": "08_01_layer2.bin",
+        "sha256": "fcf30ddc2ee50f187c97c6c9a1ebc5626f4dc27537d1eb74f93e57959bba6517"
+      }
+    ],
+    "tiles": 227656,
+    "metatiles": 492842,
+    "palette": 907656
+  },
+  {
+    "id": "0802",
+    "group": 8,
+    "index": 2,
+    "rom_start": 187052,
+    "rom_end": 187228,
+    "layers": [
+      {
+        "size": 0,
+        "file": "08_02_layer0.bin",
+        "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+      },
+      {
+        "size": 120,
+        "file": "08_02_layer1.bin",
+        "sha256": "9a6336ac3c9f07d6d848e19aaffb85da89058424d34c5721c1941d0a9e8f57fa"
+      },
+      {
+        "size": 120,
+        "file": "08_02_layer2.bin",
+        "sha256": "71c370668df1b8ef6e6fe5969ec8efd0f2e0e14d6b82d29ee2f131e9e5663790"
+      }
+    ],
+    "tiles": 227656,
+    "metatiles": 492842,
+    "palette": 907656
+  },
+  {
+    "id": "0803",
+    "group": 8,
+    "index": 3,
+    "rom_start": 187228,
+    "rom_end": 187350,
+    "layers": [
+      {
+        "size": 0,
+        "file": "08_03_layer0.bin",
+        "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+      },
+      {
+        "size": 100,
+        "file": "08_03_layer1.bin",
+        "sha256": "9748de8097aa342e6d02a9becbff142cc37df698077ec92cede4ea403b0ea870"
+      },
+      {
+        "size": 100,
+        "file": "08_03_layer2.bin",
+        "sha256": "eb2b4ff29f636a525bde44187a9e7a80b5b70bf09ef7e3070a2dec487e3d53ea"
+      }
+    ],
+    "tiles": 227656,
+    "metatiles": 492842,
+    "palette": 907656
+  },
+  {
+    "id": "0804",
+    "group": 8,
+    "index": 4,
+    "rom_start": 187350,
+    "rom_end": 187480,
+    "layers": [
+      {
+        "size": 0,
+        "file": "08_04_layer0.bin",
+        "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+      },
+      {
+        "size": 100,
+        "file": "08_04_layer1.bin",
+        "sha256": "e819a0c70d6f06fb65a0de852ad49abc1ad7e280b1eefb80aa4bbd1849cc969d"
+      },
+      {
+        "size": 100,
+        "file": "08_04_layer2.bin",
+        "sha256": "69ac95094f9b3d3a357bf1603afb1d43c2f83992af92be355f858ccdd9cf2e09"
+      }
+    ],
+    "tiles": 227656,
+    "metatiles": 492842,
+    "palette": 907656
+  },
+  {
+    "id": "0805",
+    "group": 8,
+    "index": 5,
+    "rom_start": 187480,
+    "rom_end": 187612,
+    "layers": [
+      {
+        "size": 0,
+        "file": "08_05_layer0.bin",
+        "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+      },
+      {
+        "size": 100,
+        "file": "08_05_layer1.bin",
+        "sha256": "537698e4a2978f58096eda1bdfe22c7580be08c3f7697186c6cd910c862b41ba"
+      },
+      {
+        "size": 100,
+        "file": "08_05_layer2.bin",
+        "sha256": "0987c7614a8796f626623b0e4e9bf6d2ee60f59f23acb9919a4c1cc3063d345f"
+      }
+    ],
+    "tiles": 227656,
+    "metatiles": 492842,
+    "palette": 907656
+  },
+  {
+    "id": "0806",
+    "group": 8,
+    "index": 6,
+    "rom_start": 187612,
+    "rom_end": 187749,
+    "layers": [
+      {
+        "size": 0,
+        "file": "08_06_layer0.bin",
+        "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+      },
+      {
+        "size": 100,
+        "file": "08_06_layer1.bin",
+        "sha256": "61dec8fff1147abda72251cf20ae1a42371aeeacce68dca8ddf18e54be80cbd4"
+      },
+      {
+        "size": 100,
+        "file": "08_06_layer2.bin",
+        "sha256": "151fa503b8d8f114421fa6ca664f040d12b44af944c1a72d7a204c453dd938b6"
+      }
+    ],
+    "tiles": 227656,
+    "metatiles": 492842,
+    "palette": 907656
+  },
+  {
+    "id": "0807",
+    "group": 8,
+    "index": 7,
+    "rom_start": 187750,
+    "rom_end": 187884,
+    "layers": [
+      {
+        "size": 0,
+        "file": "08_07_layer0.bin",
+        "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+      },
+      {
+        "size": 100,
+        "file": "08_07_layer1.bin",
+        "sha256": "32b1a07b4d17503f6676fe83f4bd5275ed4dbafa466581bbf96d579d905666b2"
+      },
+      {
+        "size": 100,
+        "file": "08_07_layer2.bin",
+        "sha256": "11154de55bc185d56006aa5c94496f91bb35cb5bbfc5143294c8166f64aad087"
+      }
+    ],
+    "tiles": 227656,
+    "metatiles": 492842,
+    "palette": 907656
+  },
+  {
+    "id": "0808",
+    "group": 8,
+    "index": 8,
+    "rom_start": 187884,
+    "rom_end": 188144,
+    "layers": [
+      {
+        "size": 0,
+        "file": "08_08_layer0.bin",
+        "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+      },
+      {
+        "size": 300,
+        "file": "08_08_layer1.bin",
+        "sha256": "b384e10e39e0ad3181fbdbf01ab350c3adbbe7e45c31fb8f46d582d1b91dd65f"
+      },
+      {
+        "size": 300,
+        "file": "08_08_layer2.bin",
+        "sha256": "206ddca18052a339ca1e5a492c826d87566def618a46f63550e728872320c2b9"
+      }
+    ],
+    "tiles": 389144,
+    "metatiles": 516234,
+    "palette": 907592
+  },
+  {
+    "id": "0809",
+    "group": 8,
+    "index": 9,
+    "rom_start": 188144,
+    "rom_end": 188889,
+    "layers": [
+      {
+        "size": 0,
+        "file": "08_09_layer0.bin",
+        "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+      },
+      {
+        "size": 600,
+        "file": "08_09_layer1.bin",
+        "sha256": "c264e60ca606c17420226a1ca53690c43d27fa7e09f846550ff1521d86acb9b2"
+      },
+      {
+        "size": 600,
+        "file": "08_09_layer2.bin",
+        "sha256": "79ed6577b759f9995ab059d41f4b666a82e51c1ff72c91d436b0ac8eff2ad1e1"
+      }
+    ],
+    "tiles": 227656,
+    "metatiles": 492842,
+    "palette": 908680
+  },
+  {
+    "id": "080a",
+    "group": 8,
+    "index": 10,
+    "rom_start": 188890,
+    "rom_end": 188984,
+    "layers": [
+      {
+        "size": 0,
+        "file": "08_0a_layer0.bin",
+        "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+      },
+      {
+        "size": 100,
+        "file": "08_0a_layer1.bin",
+        "sha256": "6bd9ecc206226db615e18aa52cac5fa8774fd924d711a1c36ce9ce9ffe291ea5"
+      },
+      {
+        "size": 100,
+        "file": "08_0a_layer2.bin",
+        "sha256": "42b425b84ebda05976ff078c670a18a49f0b735f4b58f6f3bdb7ced5562b7f40"
+      }
+    ],
+    "tiles": 227656,
+    "metatiles": 492842,
+    "palette": 908680
+  },
+  {
+    "id": "080b",
+    "group": 8,
+    "index": 11,
+    "rom_start": 188984,
+    "rom_end": 189081,
+    "layers": [
+      {
+        "size": 0,
+        "file": "08_0b_layer0.bin",
+        "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+      },
+      {
+        "size": 100,
+        "file": "08_0b_layer1.bin",
+        "sha256": "b2d009a51fe24d68d05b476862617d18a44fa969ac16bf800ee1e607001c3d2e"
+      },
+      {
+        "size": 100,
+        "file": "08_0b_layer2.bin",
+        "sha256": "a11d97fa031ba73babf7b9ce4deeb6f4764ae40aa74d021f3b5c373207f0bfef"
+      }
+    ],
+    "tiles": 227656,
+    "metatiles": 492842,
+    "palette": 908680
+  },
+  {
+    "id": "0900",
+    "group": 9,
+    "index": 0,
+    "rom_start": 189082,
+    "rom_end": 189500,
+    "layers": [
+      {
+        "size": 0,
+        "file": "09_00_layer0.bin",
+        "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+      },
+      {
+        "size": 320,
+        "file": "09_00_layer1.bin",
+        "sha256": "bb613c820d6876fced4f451ccb3126bf30de406f2ab5c0b5d23cb025fdc995dd"
+      },
+      {
+        "size": 320,
+        "file": "09_00_layer2.bin",
+        "sha256": "f0822b482898265e043e36685057e0ee5c92d2d6d002e5fb8f5503b0316b88b9"
+      }
+    ],
+    "tiles": 251914,
+    "metatiles": 490378,
+    "palette": 907720
+  },
+  {
+    "id": "0901",
+    "group": 9,
+    "index": 1,
+    "rom_start": 189500,
+    "rom_end": 189684,
+    "layers": [
+      {
+        "size": 0,
+        "file": "09_01_layer0.bin",
+        "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+      },
+      {
+        "size": 130,
+        "file": "09_01_layer1.bin",
+        "sha256": "6920392b45c5e3c878a68de935f578ea64a00e5fa4cffa5ffc64037fbdb0d047"
+      },
+      {
+        "size": 130,
+        "file": "09_01_layer2.bin",
+        "sha256": "b2a58824ab0662890d391ce8fb3382f8d508f292975d978bb3639a6a74fe071c"
+      }
+    ],
+    "tiles": 227656,
+    "metatiles": 492842,
+    "palette": 907656
+  },
+  {
+    "id": "0902",
+    "group": 9,
+    "index": 2,
+    "rom_start": 189684,
+    "rom_end": 189818,
+    "layers": [
+      {
+        "size": 0,
+        "file": "09_02_layer0.bin",
+        "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+      },
+      {
+        "size": 100,
+        "file": "09_02_layer1.bin",
+        "sha256": "a3c8a3f7274222832fe8054604c31c759f45f903e909bdf4005fc72ed1c8d33d"
+      },
+      {
+        "size": 100,
+        "file": "09_02_layer2.bin",
+        "sha256": "c4cef8d5c092e5888da56207d46989c13dc3cefad8201057adc3b9f8e934b35f"
+      }
+    ],
+    "tiles": 227656,
+    "metatiles": 492842,
+    "palette": 907656
+  },
+  {
+    "id": "0903",
+    "group": 9,
+    "index": 3,
+    "rom_start": 189818,
+    "rom_end": 189954,
+    "layers": [
+      {
+        "size": 0,
+        "file": "09_03_layer0.bin",
+        "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+      },
+      {
+        "size": 100,
+        "file": "09_03_layer1.bin",
+        "sha256": "bd0ca6293ee16227f3064ee6baa73eef67150fa7ad56a28753111bea27876f62"
+      },
+      {
+        "size": 100,
+        "file": "09_03_layer2.bin",
+        "sha256": "359e8e1104e8c6680faae3707618b8987ecadcf36b00570a5054df2d8a7f6a74"
+      }
+    ],
+    "tiles": 227656,
+    "metatiles": 492842,
+    "palette": 907656
+  },
+  {
+    "id": "0904",
+    "group": 9,
+    "index": 4,
+    "rom_start": 189954,
+    "rom_end": 190078,
+    "layers": [
+      {
+        "size": 0,
+        "file": "09_04_layer0.bin",
+        "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+      },
+      {
+        "size": 100,
+        "file": "09_04_layer1.bin",
+        "sha256": "79c903bc667e6e3a526ae098af2d4b7eb023ac2b44ce8aa1f51ac6142200f070"
+      },
+      {
+        "size": 100,
+        "file": "09_04_layer2.bin",
+        "sha256": "8075747142d8b8d1244be7622bfcb7445a10454bf349e44ed157e5021732acc2"
+      }
+    ],
+    "tiles": 227656,
+    "metatiles": 492842,
+    "palette": 907656
+  },
+  {
+    "id": "0905",
+    "group": 9,
+    "index": 5,
+    "rom_start": 190078,
+    "rom_end": 190215,
+    "layers": [
+      {
+        "size": 0,
+        "file": "09_05_layer0.bin",
+        "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+      },
+      {
+        "size": 100,
+        "file": "09_05_layer1.bin",
+        "sha256": "92228e08dac4a6dd6cf099c4ab862ca20d3f5646c436fb14c34ae9130fbc1a35"
+      },
+      {
+        "size": 100,
+        "file": "09_05_layer2.bin",
+        "sha256": "61133823345170ad016cf38e2ec1965d698fd35fbeedbb73bd86dd9b161360be"
+      }
+    ],
+    "tiles": 227656,
+    "metatiles": 492842,
+    "palette": 907656
+  },
+  {
+    "id": "0906",
+    "group": 9,
+    "index": 6,
+    "rom_start": 190216,
+    "rom_end": 190933,
+    "layers": [
+      {
+        "size": 0,
+        "file": "09_06_layer0.bin",
+        "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+      },
+      {
+        "size": 480,
+        "file": "09_06_layer1.bin",
+        "sha256": "453be59d5ec2e4fe8ce56d010f713790f51337f4c4ad0d38915080f100c4caef"
+      },
+      {
+        "size": 480,
+        "file": "09_06_layer2.bin",
+        "sha256": "8b6cc8cb5af8c61a22499eec8da1392d31bd3813065c6213e2d22b6797085274"
+      }
+    ],
+    "tiles": 366966,
+    "metatiles": 513610,
+    "palette": 908744
+  },
+  {
+    "id": "0907",
+    "group": 9,
+    "index": 7,
+    "rom_start": 190934,
+    "rom_end": 191802,
+    "layers": [
+      {
+        "size": 0,
+        "file": "09_07_layer0.bin",
+        "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+      },
+      {
+        "size": 640,
+        "file": "09_07_layer1.bin",
+        "sha256": "ab28d4973cd9dca85888c808fe3a2204eedf09538df385165a36c9fabd986a88"
+      },
+      {
+        "size": 640,
+        "file": "09_07_layer2.bin",
+        "sha256": "51b517e74cff12961ac33de8b3d43c10c5709426a21065c1cda1bb22f5c1035b"
+      }
+    ],
+    "tiles": 344020,
+    "metatiles": 510954,
+    "palette": 908808
+  },
+  {
+    "id": "0908",
+    "group": 9,
+    "index": 8,
+    "rom_start": 191802,
+    "rom_end": 192568,
+    "layers": [
+      {
+        "size": 0,
+        "file": "09_08_layer0.bin",
+        "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+      },
+      {
+        "size": 600,
+        "file": "09_08_layer1.bin",
+        "sha256": "8a7b34be0bee3efdda0031dd5b67833660b5b67787aefb3b1757b782e5020e94"
+      },
+      {
+        "size": 600,
+        "file": "09_08_layer2.bin",
+        "sha256": "b5c5be74b4c8385f273d817aa719b4f7f1d51d75332d53030120f4a5c8713e6a"
+      }
+    ],
+    "tiles": 309008,
+    "metatiles": 501098,
+    "palette": 908872
+  },
+  {
+    "id": "0a00",
+    "group": 10,
+    "index": 0,
+    "rom_start": 192568,
+    "rom_end": 193013,
+    "layers": [
+      {
+        "size": 0,
+        "file": "0a_00_layer0.bin",
+        "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+      },
+      {
+        "size": 375,
+        "file": "0a_00_layer1.bin",
+        "sha256": "5d311ad36356824873183155aa3b812e744f2b9836b02fde8c5bb86e9a72bfde"
+      },
+      {
+        "size": 375,
+        "file": "0a_00_layer2.bin",
+        "sha256": "f693f4e3909e5b95246efecd33c2a53cd1e49124fbc137c5bf391ca0c5346d5d"
+      }
+    ],
+    "tiles": 397594,
+    "metatiles": 517386,
+    "palette": 908936
+  },
+  {
+    "id": "0a01",
+    "group": 10,
+    "index": 1,
+    "rom_start": 193014,
+    "rom_end": 193236,
+    "layers": [
+      {
+        "size": 0,
+        "file": "0a_01_layer0.bin",
+        "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+      },
+      {
+        "size": 150,
+        "file": "0a_01_layer1.bin",
+        "sha256": "684c60ca2eb410a458a4afe6c96268be719f65796f8fad4f892f2f3f0e211cbb"
+      },
+      {
+        "size": 150,
+        "file": "0a_01_layer2.bin",
+        "sha256": "58fd59367d72a4dd0393d3ede892a95b6f2f91f98fafbe95ee20c3fa5a0bfc77"
+      }
+    ],
+    "tiles": 421212,
+    "metatiles": 520170,
+    "palette": 909000
+  },
+  {
+    "id": "0a02",
+    "group": 10,
+    "index": 2,
+    "rom_start": 193236,
+    "rom_end": 193354,
+    "layers": [
+      {
+        "size": 0,
+        "file": "0a_02_layer0.bin",
+        "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+      },
+      {
+        "size": 100,
+        "file": "0a_02_layer1.bin",
+        "sha256": "c71889f8d55237fbc15381997bca42d437c7b074e0a982c88da1d41ad6116d96"
+      },
+      {
+        "size": 100,
+        "file": "0a_02_layer2.bin",
+        "sha256": "409e9a9d7b338a60f4603dc255c2638dd6de7e973f9ffc48caa05311da20a51b"
+      }
+    ],
+    "tiles": 227656,
+    "metatiles": 492842,
+    "palette": 907656
+  },
+  {
+    "id": "0a03",
+    "group": 10,
+    "index": 3,
+    "rom_start": 193354,
+    "rom_end": 193478,
+    "layers": [
+      {
+        "size": 0,
+        "file": "0a_03_layer0.bin",
+        "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+      },
+      {
+        "size": 100,
+        "file": "0a_03_layer1.bin",
+        "sha256": "0ee23c60d8405e2b5c9524db41a8477c13e3b64f60f23c375aa1a8cb479fff9e"
+      },
+      {
+        "size": 100,
+        "file": "0a_03_layer2.bin",
+        "sha256": "0be5a67129d866551acc10de6f5aea16170477ef6ab27d9e1ded327debe520bf"
+      }
+    ],
+    "tiles": 227656,
+    "metatiles": 492842,
+    "palette": 907656
+  },
+  {
+    "id": "0a04",
+    "group": 10,
+    "index": 4,
+    "rom_start": 193478,
+    "rom_end": 193602,
+    "layers": [
+      {
+        "size": 0,
+        "file": "0a_04_layer0.bin",
+        "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+      },
+      {
+        "size": 100,
+        "file": "0a_04_layer1.bin",
+        "sha256": "6e8b3ad13587b7916a0cc850d5c1bd039d73787aad0d512ce83b83123ee3180b"
+      },
+      {
+        "size": 100,
+        "file": "0a_04_layer2.bin",
+        "sha256": "ece5189c720cd6007772f731465a0468630ed3926214d7b2dc8e93150b8882c8"
+      }
+    ],
+    "tiles": 227656,
+    "metatiles": 492842,
+    "palette": 907656
+  },
+  {
+    "id": "0a05",
+    "group": 10,
+    "index": 5,
+    "rom_start": 193602,
+    "rom_end": 193714,
+    "layers": [
+      {
+        "size": 0,
+        "file": "0a_05_layer0.bin",
+        "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+      },
+      {
+        "size": 100,
+        "file": "0a_05_layer1.bin",
+        "sha256": "b170e9875fa25305c0a1d2c0651c2864c9a09157a0f44b38a577038bb5704dd6"
+      },
+      {
+        "size": 100,
+        "file": "0a_05_layer2.bin",
+        "sha256": "664f0e0488b5983cb0c981fc27c3e9b545414815ba200fc4156106300faa6b8e"
+      }
+    ],
+    "tiles": 227656,
+    "metatiles": 492842,
+    "palette": 907656
+  },
+  {
+    "id": "0a06",
+    "group": 10,
+    "index": 6,
+    "rom_start": 193714,
+    "rom_end": 194404,
+    "layers": [
+      {
+        "size": 0,
+        "file": "0a_06_layer0.bin",
+        "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+      },
+      {
+        "size": 600,
+        "file": "0a_06_layer1.bin",
+        "sha256": "b4d112136ba0af162b6c7db5e923c7d5b11883a0161ae4550e7b8ffbfa944506"
+      },
+      {
+        "size": 600,
+        "file": "0a_06_layer2.bin",
+        "sha256": "ad82c224e0df842be6c95e283832851294f9f4adb69cacc5bdb5d73d9d4b3ac4"
+      }
+    ],
+    "tiles": 431358,
+    "metatiles": 521610,
+    "palette": 909064
+  },
+  {
+    "id": "0a07",
+    "group": 10,
+    "index": 7,
+    "rom_start": 194404,
+    "rom_end": 194567,
+    "layers": [
+      {
+        "size": 0,
+        "file": "0a_07_layer0.bin",
+        "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+      },
+      {
+        "size": 132,
+        "file": "0a_07_layer1.bin",
+        "sha256": "6300b0bc828945df34dadb4a023e2850550fb1f8a991d49c9f0832ce6ccddbd7"
+      },
+      {
+        "size": 132,
+        "file": "0a_07_layer2.bin",
+        "sha256": "95565d81f920f47a0feb991004a32b84ad04bd4b418ff339080a3c3837e6bba9"
+      }
+    ],
+    "tiles": 431358,
+    "metatiles": 521610,
+    "palette": 909128
+  },
+  {
+    "id": "0a08",
+    "group": 10,
+    "index": 8,
+    "rom_start": 194568,
+    "rom_end": 195363,
+    "layers": [
+      {
+        "size": 0,
+        "file": "0a_08_layer0.bin",
+        "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+      },
+      {
+        "size": 720,
+        "file": "0a_08_layer1.bin",
+        "sha256": "c0dd92734d9bda937770ad43cfa7f411a2fbd0068d97b04a1c837bd8e8013831"
+      },
+      {
+        "size": 720,
+        "file": "0a_08_layer2.bin",
+        "sha256": "ae3037b77c8fbb0ee1e0d97393d7bbefbf933eac2c457fb777e6f57f2961f23b"
+      }
+    ],
+    "tiles": 431358,
+    "metatiles": 521610,
+    "palette": 909128
+  },
+  {
+    "id": "0b00",
+    "group": 11,
+    "index": 0,
+    "rom_start": 195364,
+    "rom_end": 195677,
+    "layers": [
+      {
+        "size": 0,
+        "file": "0b_00_layer0.bin",
+        "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+      },
+      {
+        "size": 240,
+        "file": "0b_00_layer1.bin",
+        "sha256": "a0ab20a0f5e7612373e46b2b6e5f542e9db3a88e8664ce91c03461d2f5c9c777"
+      },
+      {
+        "size": 240,
+        "file": "0b_00_layer2.bin",
+        "sha256": "983c14e176defdad50fe40a498cc1ffb3b29400e86a7c4308abdc7cd210fac8e"
+      }
+    ],
+    "tiles": 251914,
+    "metatiles": 490378,
+    "palette": 907720
+  },
+  {
+    "id": "0b01",
+    "group": 11,
+    "index": 1,
+    "rom_start": 195678,
+    "rom_end": 195812,
+    "layers": [
+      {
+        "size": 0,
+        "file": "0b_01_layer0.bin",
+        "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+      },
+      {
+        "size": 100,
+        "file": "0b_01_layer1.bin",
+        "sha256": "a3c8a3f7274222832fe8054604c31c759f45f903e909bdf4005fc72ed1c8d33d"
+      },
+      {
+        "size": 100,
+        "file": "0b_01_layer2.bin",
+        "sha256": "bee48d8f31bb237df0b14fadccac02764a68cc4e8e930bf283b3129fe66c3d59"
+      }
+    ],
+    "tiles": 227656,
+    "metatiles": 492842,
+    "palette": 907656
+  },
+  {
+    "id": "0b02",
+    "group": 11,
+    "index": 2,
+    "rom_start": 195812,
+    "rom_end": 195945,
+    "layers": [
+      {
+        "size": 0,
+        "file": "0b_02_layer0.bin",
+        "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+      },
+      {
+        "size": 100,
+        "file": "0b_02_layer1.bin",
+        "sha256": "bd0ca6293ee16227f3064ee6baa73eef67150fa7ad56a28753111bea27876f62"
+      },
+      {
+        "size": 100,
+        "file": "0b_02_layer2.bin",
+        "sha256": "f096f9a3a0948787dd9d0ca34073aef9e1037bd1fd874dff9f298874b266cceb"
+      }
+    ],
+    "tiles": 227656,
+    "metatiles": 492842,
+    "palette": 907656
+  },
+  {
+    "id": "0b03",
+    "group": 11,
+    "index": 3,
+    "rom_start": 195946,
+    "rom_end": 196086,
+    "layers": [
+      {
+        "size": 0,
+        "file": "0b_03_layer0.bin",
+        "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+      },
+      {
+        "size": 100,
+        "file": "0b_03_layer1.bin",
+        "sha256": "92228e08dac4a6dd6cf099c4ab862ca20d3f5646c436fb14c34ae9130fbc1a35"
+      },
+      {
+        "size": 100,
+        "file": "0b_03_layer2.bin",
+        "sha256": "3aa7d8282fc6d766e743db9267662534059d528781965583e789b97b37983a9c"
+      }
+    ],
+    "tiles": 227656,
+    "metatiles": 492842,
+    "palette": 907656
+  },
+  {
+    "id": "0b04",
+    "group": 11,
+    "index": 4,
+    "rom_start": 196086,
+    "rom_end": 196210,
+    "layers": [
+      {
+        "size": 0,
+        "file": "0b_04_layer0.bin",
+        "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+      },
+      {
+        "size": 100,
+        "file": "0b_04_layer1.bin",
+        "sha256": "79c903bc667e6e3a526ae098af2d4b7eb023ac2b44ce8aa1f51ac6142200f070"
+      },
+      {
+        "size": 100,
+        "file": "0b_04_layer2.bin",
+        "sha256": "8075747142d8b8d1244be7622bfcb7445a10454bf349e44ed157e5021732acc2"
+      }
+    ],
+    "tiles": 227656,
+    "metatiles": 492842,
+    "palette": 907656
+  },
+  {
+    "id": "0b05",
+    "group": 11,
+    "index": 5,
+    "rom_start": 196210,
+    "rom_end": 197092,
+    "layers": [
+      {
+        "size": 0,
+        "file": "0b_05_layer0.bin",
+        "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+      },
+      {
+        "size": 800,
+        "file": "0b_05_layer1.bin",
+        "sha256": "731caf73c829e2d7f1a5cddc195e24869523cb8f372353c51d7eea6c9bd8a054"
+      },
+      {
+        "size": 800,
+        "file": "0b_05_layer2.bin",
+        "sha256": "c0944706a6e00d5f2b1705d4614a98768e3dff030226b5618996650050b4ea35"
+      }
+    ],
+    "tiles": 447712,
+    "metatiles": 523978,
+    "palette": 909192
+  },
+  {
+    "id": "0b06",
+    "group": 11,
+    "index": 6,
+    "rom_start": 197092,
+    "rom_end": 197759,
+    "layers": [
+      {
+        "size": 0,
+        "file": "0b_06_layer0.bin",
+        "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+      },
+      {
+        "size": 720,
+        "file": "0b_06_layer1.bin",
+        "sha256": "7c0d08be8718722da943fb6286e9cd13f38cc16e3547ff13e71e9259a6ab46f1"
+      },
+      {
+        "size": 720,
+        "file": "0b_06_layer2.bin",
+        "sha256": "a62c3e05ed6983725e2de59437edcee64d6c9796166353a7c3aea274a9fba529"
+      }
+    ],
+    "tiles": 397594,
+    "metatiles": 517386,
+    "palette": 908936
+  },
+  {
+    "id": "0b07",
+    "group": 11,
+    "index": 7,
+    "rom_start": 197760,
+    "rom_end": 198557,
+    "layers": [
+      {
+        "size": 0,
+        "file": "0b_07_layer0.bin",
+        "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+      },
+      {
+        "size": 600,
+        "file": "0b_07_layer1.bin",
+        "sha256": "934e98c2a9a8d9e06e51343123547d65e687fe2e36a63ed0b9fede731eb66fab"
+      },
+      {
+        "size": 600,
+        "file": "0b_07_layer2.bin",
+        "sha256": "4dda9def4ddcb1d54636189ac7e38662a9c7c8cb80710ddd6690221f6a42dc84"
+      }
+    ],
+    "tiles": 344020,
+    "metatiles": 510954,
+    "palette": 908424
+  },
+  {
+    "id": "0b08",
+    "group": 11,
+    "index": 8,
+    "rom_start": 198558,
+    "rom_end": 199163,
+    "layers": [
+      {
+        "size": 0,
+        "file": "0b_08_layer0.bin",
+        "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+      },
+      {
+        "size": 640,
+        "file": "0b_08_layer1.bin",
+        "sha256": "4979889969b2ab0a2d81cb594637e17bb09e8d98f23362fca0085c12ff2cd135"
+      },
+      {
+        "size": 640,
+        "file": "0b_08_layer2.bin",
+        "sha256": "d563e287458196dbc5fb91a359c95c049a0ef38f975d399d75743267c8da8999"
+      }
+    ],
+    "tiles": 205702,
+    "metatiles": 488106,
+    "palette": 907592
+  },
+  {
+    "id": "0b09",
+    "group": 11,
+    "index": 9,
+    "rom_start": 199164,
+    "rom_end": 199759,
+    "layers": [
+      {
+        "size": 0,
+        "file": "0b_09_layer0.bin",
+        "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+      },
+      {
+        "size": 600,
+        "file": "0b_09_layer1.bin",
+        "sha256": "ca9f99ceda59ee0ad111ca76a93649b61110d94f79ee3d6669ea8782bcf7a43f"
+      },
+      {
+        "size": 600,
+        "file": "0b_09_layer2.bin",
+        "sha256": "db9740833ada3229e12800fcf90c63c060d56d58bae1ed544dd1813937a2c006"
+      }
+    ],
+    "tiles": 458562,
+    "metatiles": 526410,
+    "palette": 909256
+  },
+  {
+    "id": "0b0a",
+    "group": 11,
+    "index": 10,
+    "rom_start": 199760,
+    "rom_end": 200711,
+    "layers": [
+      {
+        "size": 0,
+        "file": "0b_0a_layer0.bin",
+        "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+      },
+      {
+        "size": 720,
+        "file": "0b_0a_layer1.bin",
+        "sha256": "10c23b03b5cb81256ddfe83fb8f4b2c1462c0e65bdcbe1230602955a780a5364"
+      },
+      {
+        "size": 720,
+        "file": "0b_0a_layer2.bin",
+        "sha256": "3fa86ef9db93904c85371c92b5434e27b51b9fbe2c8d769eaf70c4cb34f98409"
+      }
+    ],
+    "tiles": 309008,
+    "metatiles": 501098,
+    "palette": 908104
+  },
+  {
+    "id": "0c00",
+    "group": 12,
+    "index": 0,
+    "rom_start": 200712,
+    "rom_end": 200980,
+    "layers": [
+      {
+        "size": 0,
+        "file": "0c_00_layer0.bin",
+        "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+      },
+      {
+        "size": 208,
+        "file": "0c_00_layer1.bin",
+        "sha256": "a7c7309cf9e5b6b1300af0f97b7969be12d7626010fe9f08000915f3b609d913"
+      },
+      {
+        "size": 208,
+        "file": "0c_00_layer2.bin",
+        "sha256": "a7c0c45054702fb9be68e3c96cb260a6903d90d353edca0356fba920ff989e7d"
+      }
+    ],
+    "tiles": 251914,
+    "metatiles": 490378,
+    "palette": 907720
+  },
+  {
+    "id": "0c01",
+    "group": 12,
+    "index": 1,
+    "rom_start": 200980,
+    "rom_end": 201114,
+    "layers": [
+      {
+        "size": 0,
+        "file": "0c_01_layer0.bin",
+        "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+      },
+      {
+        "size": 100,
+        "file": "0c_01_layer1.bin",
+        "sha256": "bd0ca6293ee16227f3064ee6baa73eef67150fa7ad56a28753111bea27876f62"
+      },
+      {
+        "size": 100,
+        "file": "0c_01_layer2.bin",
+        "sha256": "c6e621cacbe9171e36b2bfffb2bdb7282eb077b40022dc77ad9361e664667901"
+      }
+    ],
+    "tiles": 227656,
+    "metatiles": 492842,
+    "palette": 907656
+  },
+  {
+    "id": "0c02",
+    "group": 12,
+    "index": 2,
+    "rom_start": 201114,
+    "rom_end": 201254,
+    "layers": [
+      {
+        "size": 0,
+        "file": "0c_02_layer0.bin",
+        "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+      },
+      {
+        "size": 100,
+        "file": "0c_02_layer1.bin",
+        "sha256": "92228e08dac4a6dd6cf099c4ab862ca20d3f5646c436fb14c34ae9130fbc1a35"
+      },
+      {
+        "size": 100,
+        "file": "0c_02_layer2.bin",
+        "sha256": "dc33fa53519aa3d4ddd2fd1110048e13efc48864700038e37eceb24c171ad39e"
+      }
+    ],
+    "tiles": 227656,
+    "metatiles": 492842,
+    "palette": 907656
+  },
+  {
+    "id": "0c03",
+    "group": 12,
+    "index": 3,
+    "rom_start": 201254,
+    "rom_end": 201378,
+    "layers": [
+      {
+        "size": 0,
+        "file": "0c_03_layer0.bin",
+        "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+      },
+      {
+        "size": 100,
+        "file": "0c_03_layer1.bin",
+        "sha256": "79c903bc667e6e3a526ae098af2d4b7eb023ac2b44ce8aa1f51ac6142200f070"
+      },
+      {
+        "size": 100,
+        "file": "0c_03_layer2.bin",
+        "sha256": "0752301345deec8cb116635d435cbc1fcfbcfafe24ac1d32f92f2a7f5f6af583"
+      }
+    ],
+    "tiles": 227656,
+    "metatiles": 492842,
+    "palette": 907656
+  },
+  {
+    "id": "0c04",
+    "group": 12,
+    "index": 4,
+    "rom_start": 201378,
+    "rom_end": 202136,
+    "layers": [
+      {
+        "size": 0,
+        "file": "0c_04_layer0.bin",
+        "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+      },
+      {
+        "size": 720,
+        "file": "0c_04_layer1.bin",
+        "sha256": "97687aed9869a87bac075830cefe446f97ee98ebe5f24b9e6406fa548bb8f119"
+      },
+      {
+        "size": 720,
+        "file": "0c_04_layer2.bin",
+        "sha256": "9303a473727324739af96a67eaf669e03a3b2a9235acd0aa9f0c0f0eb542a31d"
+      }
+    ],
+    "tiles": 474212,
+    "metatiles": 528234,
+    "palette": 909320
+  },
+  {
+    "id": "0c05",
+    "group": 12,
+    "index": 5,
+    "rom_start": 202136,
+    "rom_end": 203011,
+    "layers": [
+      {
+        "size": 0,
+        "file": "0c_05_layer0.bin",
+        "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+      },
+      {
+        "size": 640,
+        "file": "0c_05_layer1.bin",
+        "sha256": "493fce5caca61bf841203789ba950a5b1d8428dcdc91b37c94f00618ddf8cf50"
+      },
+      {
+        "size": 640,
+        "file": "0c_05_layer2.bin",
+        "sha256": "8f6a37916092fada58819c42f0d206b92de8265a285a8c1290bda152b6960584"
+      }
+    ],
+    "tiles": 366966,
+    "metatiles": 513610,
+    "palette": 908488
+  },
+  {
+    "id": "0c06",
+    "group": 12,
+    "index": 6,
+    "rom_start": 203012,
+    "rom_end": 203731,
+    "layers": [
+      {
+        "size": 0,
+        "file": "0c_06_layer0.bin",
+        "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+      },
+      {
+        "size": 600,
+        "file": "0c_06_layer1.bin",
+        "sha256": "3b387089acbefb807746c45e97943057d6108da971bd1e412ecd28e68b919b29"
+      },
+      {
+        "size": 600,
+        "file": "0c_06_layer2.bin",
+        "sha256": "2b668b17ea1d670413e23eaf84254105be0d08a6462d559db54f73758033787d"
+      }
+    ],
+    "tiles": 431358,
+    "metatiles": 521610,
+    "palette": 909384
+  },
+  {
+    "id": "0c07",
+    "group": 12,
+    "index": 7,
+    "rom_start": 203732,
+    "rom_end": 204575,
+    "layers": [
+      {
+        "size": 0,
+        "file": "0c_07_layer0.bin",
+        "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+      },
+      {
+        "size": 720,
+        "file": "0c_07_layer1.bin",
+        "sha256": "5e8f559b81fe1c17954209889ab32d7260639d3c2d2234f3255f57bd2f680231"
+      },
+      {
+        "size": 720,
+        "file": "0c_07_layer2.bin",
+        "sha256": "9f74e7cc931d5d925d749f06bd54ce65249388acefc1f30f8d53549ed9bc71ac"
+      }
+    ],
+    "tiles": 458562,
+    "metatiles": 526410,
+    "palette": 909256
+  },
+  {
+    "id": "0c08",
+    "group": 12,
+    "index": 8,
+    "rom_start": 204576,
+    "rom_end": 205185,
+    "layers": [
+      {
+        "size": 0,
+        "file": "0c_08_layer0.bin",
+        "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+      },
+      {
+        "size": 480,
+        "file": "0c_08_layer1.bin",
+        "sha256": "34353a02bc9f0fda818aef4a39dbcb3bf3f4463fac347702c645fed6d2fc2002"
+      },
+      {
+        "size": 480,
+        "file": "0c_08_layer2.bin",
+        "sha256": "24edf630392b5ca1fef6d7ac32ca6c9807a6d023a000fb206ba2d9b40b9bb49c"
+      }
+    ],
+    "tiles": 447712,
+    "metatiles": 523978,
+    "palette": 909192
+  }
+]

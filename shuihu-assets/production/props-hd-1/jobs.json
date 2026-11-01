@@ -1,0 +1,131 @@
+[
+  {
+    "id": "prop-00",
+    "kind": "prop-object",
+    "references": [
+      "prop-00-ref.png",
+      "prop-00-style.png"
+    ],
+    "size": "1536x1024",
+    "sourceId": 0
+  },
+  {
+    "id": "prop-01",
+    "kind": "prop-object",
+    "references": [
+      "prop-01-ref.png",
+      "prop-01-style.png"
+    ],
+    "size": "1536x1024",
+    "sourceId": 1
+  },
+  {
+    "id": "prop-02",
+    "kind": "prop-person",
+    "references": [
+      "prop-02-ref.png",
+      "style-ref.png"
+    ],
+    "size": "1024x1024",
+    "sourceId": 2
+  },
+  {
+    "id": "prop-04",
+    "kind": "prop-person",
+    "references": [
+      "prop-04-ref.png",
+      "style-ref.png"
+    ],
+    "size": "1024x1024",
+    "sourceId": 4
+  },
+  {
+    "id": "prop-05",
+    "kind": "prop-object",
+    "references": [
+      "prop-05-ref.png",
+      "prop-05-style.png"
+    ],
+    "size": "1024x1024",
+    "sourceId": 5
+  },
+  {
+    "id": "prop-06",
+    "kind": "prop-object",
+    "references": [
+      "prop-06-ref.png",
+      "prop-06-style.png"
+    ],
+    "size": "1536x1024",
+    "sourceId": 6
+  },
+  {
+    "id": "prop-07",
+    "kind": "prop-person",
+    "references": [
+      "prop-07-ref.png",
+      "style-ref.png"
+    ],
+    "size": "1024x1024",
+    "sourceId": 7
+  },
+  {
+    "id": "prop-08",
+    "kind": "prop-person",
+    "references": [
+      "prop-08-ref.png",
+      "style-ref.png"
+    ],
+    "size": "1024x1024",
+    "sourceId": 8
+  },
+  {
+    "id": "prop-09",
+    "kind": "prop-person",
+    "references": [
+      "prop-09-ref.png",
+      "style-ref.png"
+    ],
+    "size": "1536x1024",
+    "sourceId": 9
+  },
+  {
+    "id": "prop-11",
+    "kind": "prop-cave",
+    "references": [
+      "prop-11-ref.png"
+    ],
+    "size": "1024x1024",
+    "sourceId": 11
+  },
+  {
+    "id": "prop-12",
+    "kind": "prop-object",
+    "references": [
+      "prop-12-ref.png",
+      "prop-12-style.png"
+    ],
+    "size": "1024x1024",
+    "sourceId": 12
+  },
+  {
+    "id": "prop-15",
+    "kind": "prop-person",
+    "references": [
+      "prop-15-ref.png",
+      "style-ref.png"
+    ],
+    "size": "1024x1024",
+    "sourceId": 15
+  },
+  {
+    "id": "prop-16",
+    "kind": "prop-person",
+    "references": [
+      "prop-16-ref.png",
+      "style-ref.png"
+    ],
+    "size": "1536x1024",
+    "sourceId": 16
+  }
+]

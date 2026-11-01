@@ -1,0 +1,144 @@
+[
+ {
+  "id": "court-1",
+  "kind": "ending",
+  "references": [
+   "ref-21.png",
+   "ref-31.png",
+   "ref-2.png",
+   "ref-17.png",
+   "ref-11.png"
+  ],
+  "size": "1536x1024",
+  "sourceId": "court"
+ },
+ {
+  "id": "court-2",
+  "kind": "ending",
+  "references": [
+   "ref-21.png",
+   "ref-31.png",
+   "ref-2.png",
+   "ref-17.png",
+   "ref-11.png"
+  ],
+  "size": "1536x1024",
+  "sourceId": "court"
+ },
+ {
+  "id": "capital-1",
+  "kind": "ending",
+  "references": [],
+  "size": "1536x1024",
+  "sourceId": "capital"
+ },
+ {
+  "id": "capital-2",
+  "kind": "ending",
+  "references": [],
+  "size": "1536x1024",
+  "sourceId": "capital"
+ },
+ {
+  "id": "banquet-1",
+  "kind": "ending",
+  "references": [
+   "ref-21.png",
+   "ref-31.png",
+   "ref-2.png",
+   "ref-17.png",
+   "ref-18.png"
+  ],
+  "size": "1536x1024",
+  "sourceId": "banquet"
+ },
+ {
+  "id": "banquet-2",
+  "kind": "ending",
+  "references": [
+   "ref-21.png",
+   "ref-31.png",
+   "ref-2.png",
+   "ref-17.png",
+   "ref-18.png"
+  ],
+  "size": "1536x1024",
+  "sourceId": "banquet"
+ },
+ {
+  "id": "marsh-1",
+  "kind": "ending",
+  "references": [],
+  "size": "1536x1024",
+  "sourceId": "marsh"
+ },
+ {
+  "id": "marsh-2",
+  "kind": "ending",
+  "references": [],
+  "size": "1536x1024",
+  "sourceId": "marsh"
+ },
+ {
+  "id": "storyteller-1",
+  "kind": "ending",
+  "references": [],
+  "size": "1536x1024",
+  "sourceId": "storyteller"
+ },
+ {
+  "id": "storyteller-2",
+  "kind": "ending",
+  "references": [],
+  "size": "1536x1024",
+  "sourceId": "storyteller"
+ },
+ {
+  "id": "chase-1",
+  "kind": "ending",
+  "references": [
+   "ref-18.png",
+   "ref-10.png"
+  ],
+  "size": "1536x1024",
+  "sourceId": "chase"
+ },
+ {
+  "id": "chase-2",
+  "kind": "ending",
+  "references": [
+   "ref-18.png",
+   "ref-10.png"
+  ],
+  "size": "1536x1024",
+  "sourceId": "chase"
+ },
+ {
+  "id": "finale-1",
+  "kind": "ending",
+  "references": [
+   "ref-21.png",
+   "ref-2.png",
+   "ref-11.png",
+   "ref-17.png",
+   "ref-18.png",
+   "ref-10.png"
+  ],
+  "size": "1536x1024",
+  "sourceId": "finale"
+ },
+ {
+  "id": "finale-2",
+  "kind": "ending",
+  "references": [
+   "ref-21.png",
+   "ref-2.png",
+   "ref-11.png",
+   "ref-17.png",
+   "ref-18.png",
+   "ref-10.png"
+  ],
+  "size": "1536x1024",
+  "sourceId": "finale"
+ }
+]

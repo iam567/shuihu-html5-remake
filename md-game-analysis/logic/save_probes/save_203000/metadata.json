@@ -1,0 +1,9 @@
+{
+  "label": "save_203000",
+  "frame": 9,
+  "fps": 59.92274340431231,
+  "sample_rate": 44100.0,
+  "pixel_format": 2,
+  "rom_sha256": "0c97ad517c57cbb8f85e4d0250652e878e0506afb16e5b67440b2e983741279f",
+  "memory_byte_order": "core-native; 68000 work_ram/vram words may be byte-swapped on little endian host"
+}

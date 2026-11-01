@@ -1,0 +1,152 @@
+{
+  "output": "../logic/combat_probes",
+  "actions": [
+    {
+      "load_state": "/Users/taoo/Documents/ChatGPT/\u65e5\u5e38/md-game-analysis/runtime/captures/start_1264/state.bin",
+      "freeze": true,
+      "poke": {
+        "0x606b": 0,
+        "0x609f": 1,
+        "0x60bb": 0,
+        "0x60bc": 1,
+        "0xe794": 40,
+        "0xe795": 40,
+        "0xe7a1": 0,
+        "0xe78e": 0,
+        "0xe7d6": 10,
+        "0xe7d7": 10,
+        "0xe7e1": 0,
+        "0xe7cf": 0
+      },
+      "call": "0x6070",
+      "frames": 1,
+      "save": "damage_0"
+    },
+    {
+      "load_state": "/Users/taoo/Documents/ChatGPT/\u65e5\u5e38/md-game-analysis/runtime/captures/start_1264/state.bin",
+      "freeze": true,
+      "poke": {
+        "0x606b": 0,
+        "0x609f": 1,
+        "0x60bb": 0,
+        "0x60bc": 1,
+        "0xe794": 40,
+        "0xe795": 40,
+        "0xe7a1": 0,
+        "0xe78e": 0,
+        "0xe7d6": 10,
+        "0xe7d7": 10,
+        "0xe7e1": 1,
+        "0xe7cf": 0
+      },
+      "call": "0x6070",
+      "frames": 1,
+      "save": "damage_1"
+    },
+    {
+      "load_state": "/Users/taoo/Documents/ChatGPT/\u65e5\u5e38/md-game-analysis/runtime/captures/start_1264/state.bin",
+      "freeze": true,
+      "poke": {
+        "0x606b": 0,
+        "0x609f": 1,
+        "0x60bb": 0,
+        "0x60bc": 1,
+        "0xe794": 40,
+        "0xe795": 40,
+        "0xe7a1": 0,
+        "0xe78e": 0,
+        "0xe7d6": 10,
+        "0xe7d7": 10,
+        "0xe7e1": 4,
+        "0xe7cf": 0
+      },
+      "call": "0x6070",
+      "frames": 1,
+      "save": "damage_2"
+    },
+    {
+      "load_state": "/Users/taoo/Documents/ChatGPT/\u65e5\u5e38/md-game-analysis/runtime/captures/start_1264/state.bin",
+      "freeze": true,
+      "poke": {
+        "0x606b": 0,
+        "0x609f": 1,
+        "0x60bb": 0,
+        "0x60bc": 1,
+        "0xe794": 40,
+        "0xe795": 40,
+        "0xe7a1": 0,
+        "0xe78e": 1,
+        "0xe7d6": 10,
+        "0xe7d7": 10,
+        "0xe7e1": 4,
+        "0xe7cf": 0
+      },
+      "call": "0x6070",
+      "frames": 1,
+      "save": "damage_3"
+    },
+    {
+      "load_state": "/Users/taoo/Documents/ChatGPT/\u65e5\u5e38/md-game-analysis/runtime/captures/start_1264/state.bin",
+      "freeze": true,
+      "poke": {
+        "0x606b": 0,
+        "0x609f": 1,
+        "0x60bb": 0,
+        "0x60bc": 1,
+        "0xe794": 40,
+        "0xe795": 40,
+        "0xe7a1": 0,
+        "0xe78e": 0,
+        "0xe7d6": 10,
+        "0xe7d7": 10,
+        "0xe7e1": 4,
+        "0xe7cf": 1
+      },
+      "call": "0x6070",
+      "frames": 1,
+      "save": "damage_4"
+    },
+    {
+      "load_state": "/Users/taoo/Documents/ChatGPT/\u65e5\u5e38/md-game-analysis/runtime/captures/start_1264/state.bin",
+      "freeze": true,
+      "poke": {
+        "0x606b": 0,
+        "0x609f": 1,
+        "0x60bb": 0,
+        "0x60bc": 1,
+        "0xe794": 1,
+        "0xe795": 1,
+        "0xe7a1": 0,
+        "0xe78e": 0,
+        "0xe7d6": 200,
+        "0xe7d7": 200,
+        "0xe7e1": 0,
+        "0xe7cf": 0
+      },
+      "call": "0x6070",
+      "frames": 1,
+      "save": "damage_5"
+    },
+    {
+      "load_state": "/Users/taoo/Documents/ChatGPT/\u65e5\u5e38/md-game-analysis/runtime/captures/start_1264/state.bin",
+      "freeze": true,
+      "poke": {
+        "0x606b": 0,
+        "0x609f": 1,
+        "0x60bb": 1,
+        "0x60bc": 64,
+        "0xe794": 40,
+        "0xe795": 40,
+        "0xe7a1": 0,
+        "0xe78e": 0,
+        "0xe7d6": 10,
+        "0xe7d7": 10,
+        "0xe7e1": 4,
+        "0xe7cf": 0
+      },
+      "call": "0x6070",
+      "frames": 1,
+      "save": "damage_6"
+    }
+  ]
+}

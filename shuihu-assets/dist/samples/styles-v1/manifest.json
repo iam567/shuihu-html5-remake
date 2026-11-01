@@ -1,0 +1,17 @@
+{
+  "model": "gpt-image-2.5-sunburst",
+  "mode": "authorized API via unmodified imagegen CLI",
+  "input": "original map 0106",
+  "variants": {
+    "pixel-hd": "Existing partial tile redraw, known seams retained",
+    "unreal": "Whole-room generated concept, not Unreal engine implementation",
+    "ghibli": "Whole-room generated hand-painted style concept"
+  },
+  "limitations": "Visual concepts only. Object bounds and dimensions drift; not validated as replacement tiles. Game unchanged.",
+  "files": {
+    "pixel-hd.png": "28122e360ba6d2e15943f4348b70af505e28bcd24f5541eec4fa344c27e47ed8",
+    "original.png": "54d54aa7798e6264809174be928927b5a0b34bc621193fe2fc7f7e5d020d672d",
+    "ghibli.png": "eb0f5bf65eafcd9cfadbda400b85cb302e3cae0a7e49931aafe02315edc82e5a",
+    "unreal.png": "98a87a996b2a11e52160f690477b6dd5fc2918dc679dfba0d36c704fcb7fd17b"
+  }
+}

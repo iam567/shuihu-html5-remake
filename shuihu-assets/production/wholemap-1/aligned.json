@@ -1,0 +1,67 @@
+{
+ "0100-ghibli": {
+  "before": {
+   "trusted": 383,
+   "shifted": 155,
+   "boundaryShifted": 133
+  },
+  "after": {
+   "trusted": 385,
+   "shifted": 27,
+   "boundaryShifted": 26
+  },
+  "maxDisplacementPx": 63.8
+ },
+ "0102-hd2d": {
+  "before": {
+   "trusted": 88,
+   "shifted": 42,
+   "boundaryShifted": 37
+  },
+  "after": {
+   "trusted": 138,
+   "shifted": 13,
+   "boundaryShifted": 12
+  },
+  "maxDisplacementPx": 173.2
+ },
+ "0307-ghibli": {
+  "before": {
+   "trusted": 331,
+   "shifted": 262,
+   "boundaryShifted": 174
+  },
+  "after": {
+   "trusted": 523,
+   "shifted": 16,
+   "boundaryShifted": 12
+  },
+  "maxDisplacementPx": 92.2
+ },
+ "0400-hd2d": {
+  "before": {
+   "trusted": 438,
+   "shifted": 24,
+   "boundaryShifted": 23
+  },
+  "after": {
+   "trusted": 446,
+   "shifted": 22,
+   "boundaryShifted": 21
+  },
+  "maxDisplacementPx": 25.1
+ },
+ "0605-hd2d": {
+  "before": {
+   "trusted": 57,
+   "shifted": 42,
+   "boundaryShifted": 22
+  },
+  "after": {
+   "trusted": 90,
+   "shifted": 2,
+   "boundaryShifted": 1
+  },
+  "maxDisplacementPx": 160.6
+ }
+}

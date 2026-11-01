@@ -1,0 +1,38 @@
+{
+  "output": "../logic/save_probes",
+  "actions": [
+    {
+      "load_state": "/Users/taoo/Documents/ChatGPT/\u65e5\u5e38/md-game-analysis/runtime/captures/start_1264/state.bin",
+      "freeze": true,
+      "registers": {
+        "14": 2097152,
+        "17": 9984
+      },
+      "call": "0x26c10",
+      "frames": 3,
+      "save": "save_200000"
+    },
+    {
+      "load_state": "/Users/taoo/Documents/ChatGPT/\u65e5\u5e38/md-game-analysis/runtime/captures/start_1264/state.bin",
+      "freeze": true,
+      "registers": {
+        "14": 2105344,
+        "17": 9984
+      },
+      "call": "0x26c10",
+      "frames": 3,
+      "save": "save_202000"
+    },
+    {
+      "load_state": "/Users/taoo/Documents/ChatGPT/\u65e5\u5e38/md-game-analysis/runtime/captures/start_1264/state.bin",
+      "freeze": true,
+      "registers": {
+        "14": 2109440,
+        "17": 9984
+      },
+      "call": "0x26c10",
+      "frames": 3,
+      "save": "save_203000"
+    }
+  ]
+}

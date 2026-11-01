@@ -1,0 +1,242 @@
+[
+  {
+    "class": 0,
+    "rom": 24416,
+    "pairs": [
+      {
+        "subtype": 1,
+        "transition_at_level": 13,
+        "next_subtype": 2
+      },
+      {
+        "subtype": 2,
+        "transition_at_level": 25,
+        "next_subtype": 3
+      },
+      {
+        "subtype": 3,
+        "transition_at_level": 100,
+        "next_subtype": null
+      }
+    ]
+  },
+  {
+    "class": 1,
+    "rom": 24422,
+    "pairs": [
+      {
+        "subtype": 26,
+        "transition_at_level": 13,
+        "next_subtype": 27
+      },
+      {
+        "subtype": 27,
+        "transition_at_level": 25,
+        "next_subtype": 28
+      },
+      {
+        "subtype": 28,
+        "transition_at_level": 100,
+        "next_subtype": null
+      }
+    ]
+  },
+  {
+    "class": 2,
+    "rom": 24428,
+    "pairs": [
+      {
+        "subtype": 20,
+        "transition_at_level": 13,
+        "next_subtype": 21
+      },
+      {
+        "subtype": 21,
+        "transition_at_level": 25,
+        "next_subtype": 22
+      },
+      {
+        "subtype": 22,
+        "transition_at_level": 100,
+        "next_subtype": null
+      }
+    ]
+  },
+  {
+    "class": 3,
+    "rom": 24434,
+    "pairs": [
+      {
+        "subtype": 23,
+        "transition_at_level": 13,
+        "next_subtype": 24
+      },
+      {
+        "subtype": 24,
+        "transition_at_level": 25,
+        "next_subtype": 25
+      },
+      {
+        "subtype": 25,
+        "transition_at_level": 100,
+        "next_subtype": null
+      }
+    ]
+  },
+  {
+    "class": 4,
+    "rom": 24440,
+    "pairs": [
+      {
+        "subtype": 10,
+        "transition_at_level": 19,
+        "next_subtype": 11
+      },
+      {
+        "subtype": 11,
+        "transition_at_level": 100,
+        "next_subtype": null
+      }
+    ]
+  },
+  {
+    "class": 5,
+    "rom": 24444,
+    "pairs": [
+      {
+        "subtype": 5,
+        "transition_at_level": 19,
+        "next_subtype": 6
+      },
+      {
+        "subtype": 6,
+        "transition_at_level": 100,
+        "next_subtype": null
+      }
+    ]
+  },
+  {
+    "class": 6,
+    "rom": 24448,
+    "pairs": [
+      {
+        "subtype": 13,
+        "transition_at_level": 19,
+        "next_subtype": 14
+      },
+      {
+        "subtype": 14,
+        "transition_at_level": 100,
+        "next_subtype": null
+      }
+    ]
+  },
+  {
+    "class": 7,
+    "rom": 24452,
+    "pairs": [
+      {
+        "subtype": 15,
+        "transition_at_level": 19,
+        "next_subtype": 16
+      },
+      {
+        "subtype": 16,
+        "transition_at_level": 100,
+        "next_subtype": null
+      }
+    ]
+  },
+  {
+    "class": 8,
+    "rom": 24456,
+    "pairs": [
+      {
+        "subtype": 7,
+        "transition_at_level": 13,
+        "next_subtype": 8
+      },
+      {
+        "subtype": 8,
+        "transition_at_level": 25,
+        "next_subtype": 9
+      },
+      {
+        "subtype": 9,
+        "transition_at_level": 100,
+        "next_subtype": null
+      }
+    ]
+  },
+  {
+    "class": 9,
+    "rom": 24462,
+    "pairs": [
+      {
+        "subtype": 17,
+        "transition_at_level": 100,
+        "next_subtype": null
+      }
+    ]
+  },
+  {
+    "class": 10,
+    "rom": 24464,
+    "pairs": [
+      {
+        "subtype": 30,
+        "transition_at_level": 100,
+        "next_subtype": null
+      }
+    ]
+  },
+  {
+    "class": 11,
+    "rom": 24466,
+    "pairs": [
+      {
+        "subtype": 29,
+        "transition_at_level": 100,
+        "next_subtype": null
+      }
+    ]
+  },
+  {
+    "class": 12,
+    "rom": 24468,
+    "pairs": [
+      {
+        "subtype": 4,
+        "transition_at_level": 100,
+        "next_subtype": null
+      }
+    ]
+  },
+  {
+    "class": 13,
+    "rom": 24470,
+    "pairs": [
+      {
+        "subtype": 12,
+        "transition_at_level": 100,
+        "next_subtype": null
+      }
+    ]
+  },
+  {
+    "class": 14,
+    "rom": 24472,
+    "pairs": [
+      {
+        "subtype": 18,
+        "transition_at_level": 19,
+        "next_subtype": 19
+      },
+      {
+        "subtype": 19,
+        "transition_at_level": 100,
+        "next_subtype": null
+      }
+    ]
+  }
+]

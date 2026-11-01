@@ -1,0 +1,160 @@
+{
+ "0c04-ghibli": {
+  "judged": 720,
+  "flagged": 54,
+  "boundaryFlagged": 48,
+  "uncertain": 383,
+  "tileVersionFlagged": 0,
+  "tileVersionBoundaryFlagged": 0,
+  "mtime": 1793458831188418512,
+  "aligned": true,
+  "medianShiftPx": 20.0,
+  "medianScore": 0.279,
+  "size": [
+   2304,
+   2880
+  ]
+ },
+ "0c04-hd2d": {
+  "judged": 720,
+  "flagged": 4,
+  "boundaryFlagged": 4,
+  "uncertain": 256,
+  "tileVersionFlagged": 0,
+  "tileVersionBoundaryFlagged": 0,
+  "mtime": 1793458860644526704,
+  "aligned": true,
+  "medianShiftPx": 4.0,
+  "medianScore": 0.397,
+  "size": [
+   2304,
+   2880
+  ]
+ },
+ "0c05-ghibli": {
+  "judged": 640,
+  "flagged": 2,
+  "boundaryFlagged": 2,
+  "uncertain": 425,
+  "tileVersionFlagged": 0,
+  "tileVersionBoundaryFlagged": 0,
+  "mtime": 1793297748000000000,
+  "medianShiftPx": 4.0,
+  "medianScore": 0.265,
+  "size": [
+   3584,
+   2240
+  ]
+ },
+ "0c05-hd2d": {
+  "judged": 640,
+  "flagged": 3,
+  "boundaryFlagged": 3,
+  "uncertain": 231,
+  "tileVersionFlagged": 0,
+  "tileVersionBoundaryFlagged": 0,
+  "mtime": 1793297742000000000,
+  "medianShiftPx": 0.0,
+  "medianScore": 0.3995,
+  "size": [
+   3584,
+   2240
+  ]
+ },
+ "0c06-ghibli": {
+  "judged": 504,
+  "flagged": 3,
+  "boundaryFlagged": 1,
+  "uncertain": 121,
+  "tileVersionFlagged": 0,
+  "tileVersionBoundaryFlagged": 0,
+  "mtime": 1793458883645749640,
+  "aligned": true,
+  "medianShiftPx": 4.0,
+  "medianScore": 0.5245,
+  "size": [
+   2688,
+   2800
+  ]
+ },
+ "0c06-hd2d": {
+  "judged": 504,
+  "flagged": 26,
+  "boundaryFlagged": 13,
+  "uncertain": 284,
+  "tileVersionFlagged": 0,
+  "tileVersionBoundaryFlagged": 0,
+  "mtime": 1793458906274632906,
+  "aligned": true,
+  "medianShiftPx": 16.0,
+  "medianScore": 0.263,
+  "size": [
+   2688,
+   2800
+  ]
+ },
+ "0c07-ghibli": {
+  "judged": 720,
+  "flagged": 93,
+  "boundaryFlagged": 47,
+  "uncertain": 301,
+  "tileVersionFlagged": 2,
+  "tileVersionBoundaryFlagged": 0,
+  "mtime": 1793458936234131952,
+  "aligned": true,
+  "medianShiftPx": 16.0,
+  "medianScore": 0.332,
+  "size": [
+   2304,
+   2880
+  ]
+ },
+ "0c07-hd2d": {
+  "judged": 720,
+  "flagged": 8,
+  "boundaryFlagged": 4,
+  "uncertain": 158,
+  "tileVersionFlagged": 0,
+  "tileVersionBoundaryFlagged": 0,
+  "mtime": 1793458966174321625,
+  "aligned": true,
+  "medianShiftPx": 4.0,
+  "medianScore": 0.567,
+  "size": [
+   2304,
+   2880
+  ]
+ },
+ "0c08-hd2d": {
+  "judged": 480,
+  "flagged": 17,
+  "boundaryFlagged": 15,
+  "uncertain": 61,
+  "tileVersionFlagged": 0,
+  "tileVersionBoundaryFlagged": 0,
+  "mtime": 1793459009241898490,
+  "aligned": true,
+  "medianShiftPx": 8.0,
+  "medianScore": 0.473,
+  "size": [
+   3072,
+   2560
+  ]
+ },
+ "0c08-ghibli": {
+  "judged": 480,
+  "flagged": 37,
+  "boundaryFlagged": 9,
+  "uncertain": 43,
+  "tileVersionFlagged": 0,
+  "tileVersionBoundaryFlagged": 0,
+  "mtime": 1793458987463404515,
+  "aligned": true,
+  "medianShiftPx": 4.0,
+  "medianScore": 0.467,
+  "size": [
+   3072,
+   2560
+  ]
+ }
+}

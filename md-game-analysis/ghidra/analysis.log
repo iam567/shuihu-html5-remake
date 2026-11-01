@@ -1,0 +1,114 @@
+openjdk version "21.0.13" 2026-10-20 LTS
+OpenJDK Runtime Environment Temurin-21.0.13+9 (build 21.0.13+9-LTS)
+OpenJDK 64-Bit Server VM Temurin-21.0.13+9 (build 21.0.13+9-LTS, mixed mode)
+INFO  Using log config file: jar:file:/Users/taoo/.local/share/rea-engines/ghidra_12.1.4_PUBLIC/Ghidra/Framework/Generic/lib/Generic.jar!/generic.log4j.xml (LoggingInitialization)  
+INFO  Using log file: /Users/taoo/Library/ghidra/ghidra_12.1.4_PUBLIC/application.log (LoggingInitialization)  
+INFO  Loading user preferences: /Users/taoo/Library/ghidra/ghidra_12.1.4_PUBLIC/preferences (Preferences)  
+INFO  Searching for classes... (ClassSearcher)  
+INFO  Class search complete (873 ms) (ClassSearcher)  
+INFO  Initializing SSL Context (DefaultSSLContextInitializer)  
+INFO  Initializing Random Number Generator... (SecureRandomFactory)  
+INFO  Random Number Generator initialization complete: NativePRNGNonBlocking (SecureRandomFactory)  
+INFO  Trust manager disabled, cacerts have not been set (DefaultTrustManagerFactory)  
+INFO  Starting cache cleanup: /var/tmp/taoo-ghidra/fscache2 (FileCacheMaintenanceDaemon)  
+INFO  Finished cache cleanup, estimated storage used: 0 (FileCacheMaintenanceDaemon)  
+INFO  Headless startup complete (2494 ms) (AnalyzeHeadless)  
+INFO  Class searcher loaded 93 extension points (46 false positives) (ClassSearcher)  
+INFO  HEADLESS Script Paths:
+    /Users/taoo/.local/share/rea-engines/ghidra_12.1.4_PUBLIC/Ghidra/Features/BytePatterns/ghidra_scripts
+    /Users/taoo/.local/share/rea-engines/ghidra_12.1.4_PUBLIC/Ghidra/Processors/Atmel/ghidra_scripts
+    /Users/taoo/Documents/ChatGPT/日常/md-game-analysis/ghidra
+    /Users/taoo/.local/share/rea-engines/ghidra_12.1.4_PUBLIC/Ghidra/Features/GnuDemangler/ghidra_scripts
+    /Users/taoo/.local/share/rea-engines/ghidra_12.1.4_PUBLIC/Ghidra/Features/PyGhidra/ghidra_scripts
+    /Users/taoo/.local/share/rea-engines/ghidra_12.1.4_PUBLIC/Ghidra/Features/WildcardAssembler/ghidra_scripts
+    /Users/taoo/.local/share/rea-engines/ghidra_12.1.4_PUBLIC/Ghidra/Features/FileFormats/ghidra_scripts
+    /Users/taoo/.local/share/rea-engines/ghidra_12.1.4_PUBLIC/Ghidra/Debug/Debugger-rmi-trace/ghidra_scripts
+    /Users/taoo/.local/share/rea-engines/ghidra_12.1.4_PUBLIC/Ghidra/Features/FunctionID/ghidra_scripts
+    /Users/taoo/.local/share/rea-engines/ghidra_12.1.4_PUBLIC/Ghidra/Features/VersionTracking/ghidra_scripts
+    /Users/taoo/.local/share/rea-engines/ghidra_12.1.4_PUBLIC/Ghidra/Features/Decompiler/ghidra_scripts
+    /Users/taoo/.local/share/rea-engines/ghidra_12.1.4_PUBLIC/Ghidra/Processors/JVM/ghidra_scripts
+    /Users/taoo/.local/share/rea-engines/ghidra_12.1.4_PUBLIC/Ghidra/Features/MicrosoftCodeAnalyzer/ghidra_scripts
+    /Users/taoo/.local/share/rea-engines/ghidra_12.1.4_PUBLIC/Ghidra/Processors/8051/ghidra_scripts
+    /Users/taoo/.local/share/rea-engines/ghidra_12.1.4_PUBLIC/Ghidra/Features/Base/ghidra_scripts
+    /Users/taoo/.local/share/rea-engines/ghidra_12.1.4_PUBLIC/Ghidra/Features/SystemEmulation/ghidra_scripts
+    /Users/taoo/.local/share/rea-engines/ghidra_12.1.4_PUBLIC/Ghidra/Features/PDB/ghidra_scripts
+    /Users/taoo/.local/share/rea-engines/ghidra_12.1.4_PUBLIC/Ghidra/Features/BSim/ghidra_scripts
+    /Users/taoo/.local/share/rea-engines/ghidra_12.1.4_PUBLIC/Ghidra/Features/DecompilerDependent/ghidra_scripts
+    /Users/taoo/.local/share/rea-engines/ghidra_12.1.4_PUBLIC/Ghidra/Debug/Debugger/ghidra_scripts
+    /Users/taoo/.local/share/rea-engines/ghidra_12.1.4_PUBLIC/Ghidra/Processors/PIC/ghidra_scripts
+    /Users/taoo/.local/share/rea-engines/ghidra_12.1.4_PUBLIC/Ghidra/Processors/DATA/ghidra_scripts
+    /Users/taoo/.local/share/rea-engines/ghidra_12.1.4_PUBLIC/Ghidra/Features/SwiftDemangler/ghidra_scripts (HeadlessAnalyzer)  
+INFO  HEADLESS: execution starts (HeadlessAnalyzer)  
+INFO  Creating project: /Users/taoo/Documents/ChatGPT/日常/md-game-analysis/ghidra/project/Shuihu (HeadlessAnalyzer)  
+INFO  Creating project: /Users/taoo/Documents/ChatGPT/日常/md-game-analysis/ghidra/project/Shuihu (DefaultProject)  
+INFO  REPORT: Processing input files:  (HeadlessAnalyzer)  
+INFO       project: /Users/taoo/Documents/ChatGPT/日常/md-game-analysis/ghidra/project/Shuihu (HeadlessAnalyzer)  
+INFO  IMPORTING: file:///Users/taoo/Documents/ChatGPT/%E6%97%A5%E5%B8%B8/md-game-analysis/ghidra/shuihu-baseline.bin (HeadlessAnalyzer)  
+INFO  Successfully applied "-loader-baseAddr" to "Base Address" (old: "null", new: "0") (ProgramLoader)  
+INFO  Using Loader: Raw Binary (ProgramLoader)  
+INFO  Using Language/Compiler: 68000:BE:32:default:default (ProgramLoader)  
+INFO  Using Library Search Path: [., /System/Library/dyld/dyld_shared_cache_arm64e, /System/Library/dyld/dyld_shared_cache_x86_64, /System/Library/dyld/dyld_shared_cache_x86_64h, /System/Cryptexes/OS/System/Library/dyld/dyld_shared_cache_arm64e, /System/Cryptexes/OS/System/Library/dyld/dyld_shared_cache_x86_64, /System/Cryptexes/OS/System/Library/dyld/dyld_shared_cache_x86_64h, /Users/taoo/Library/Java/Extensions, /Library/Java/Extensions, /Network/Library/Java/Extensions, /System/Library/Java/Extensions, /usr/lib/java] (ProgramLoader)  
+INFO  IMPORTING: Loaded 0 additional files (HeadlessAnalyzer)  
+INFO  REPORT: Execute script: PrepareMegaDrive.java  (HeadlessAnalyzer)  
+INFO  SCRIPT: /Users/taoo/Documents/ChatGPT/日常/md-game-analysis/ghidra/PrepareMegaDrive.java (HeadlessAnalyzer)  
+INFO  PrepareMegaDrive.java> MEGADRIVE prepared base=0 reset=0x4ba; RAM aliases are independent modeled blocks; seed names are analyst assertions. (GhidraScript)  
+INFO  ANALYZING all memory and code: file:///Users/taoo/Documents/ChatGPT/%E6%97%A5%E5%B8%B8/md-game-analysis/ghidra/shuihu-baseline.bin (HeadlessAnalyzer)  
+INFO  Packed database cache: /var/tmp/taoo-ghidra/packed-db-cache (PackedDatabaseCache)  
+INFO  Applied data type archive: generic_clib (ApplyDataArchiveAnalyzer)  
+INFO  -----------------------------------------------------
+    68000 Constant Reference Analyzer          1.230 secs
+    ASCII Strings                              0.323 secs
+    Apply Data Archives                        0.847 secs
+    Call Convention ID                         0.005 secs
+    Call-Fixup Installer                       0.009 secs
+    Create Address Tables                      0.050 secs
+    Create Address Tables - One Time           2.086 secs
+    Create Function                            0.161 secs
+    Data Reference                             0.628 secs
+    Decompiler Switch Analysis                 0.510 secs
+    Demangler GNU                              0.016 secs
+    Disassemble                                0.043 secs
+    Disassemble Entry Points                   0.002 secs
+    Embedded Media                             0.040 secs
+    External Entry References                  0.000 secs
+    Function ID                                0.033 secs
+    Function Start Search                      0.016 secs
+    Non-Returning Functions - Discovered       0.113 secs
+    Reference                                  0.879 secs
+    Shared Return Calls                        0.094 secs
+    Stack                                      0.548 secs
+    Subroutine References                      0.185 secs
+-----------------------------------------------------
+     Total Time   7 secs
+-----------------------------------------------------
+ (AutoAnalysisManager)  
+INFO  REPORT: Analysis succeeded for file: file:///Users/taoo/Documents/ChatGPT/%E6%97%A5%E5%B8%B8/md-game-analysis/ghidra/shuihu-baseline.bin (HeadlessAnalyzer)  
+INFO  REPORT: Execute script: ExportMegaDrive.java '/Users/taoo/Documents/ChatGPT/日常/md-game-analysis/ghidra'  (HeadlessAnalyzer)  
+INFO  SCRIPT: /Users/taoo/Documents/ChatGPT/日常/md-game-analysis/ghidra/ExportMegaDrive.java (HeadlessAnalyzer)  
+INFO  ExportMegaDrive.java> Exported 100 functions (GhidraScript)  
+WARN  Decompiling 00006520, pcode error at 00006520: Unable to resolve constructor at 00006520 (DecompileCallback)  
+INFO  ExportMegaDrive.java> Exported 200 functions (GhidraScript)  
+WARN  Decompiling 00012fbc, pcode error at 00012fbc: Unable to resolve constructor at 00012fbc (DecompileCallback)  
+INFO  ExportMegaDrive.java> Exported 300 functions (GhidraScript)  
+INFO  ExportMegaDrive.java> Exported 400 functions (GhidraScript)  
+WARN  Decompiling 0001d3da, pcode error at 0001d3da: Unable to resolve constructor at 0001d3da (DecompileCallback)  
+WARN  Decompiling 0001d45a, pcode error at 0001d45a: Unable to resolve constructor at 0001d45a (DecompileCallback)  
+WARN  Decompiling 0001da54, pcode error at 0001da5c: Unable to resolve constructor at 0001da5c (DecompileCallback)  
+WARN  Decompiling 0001db70, pcode error at 0001db9e: Unable to resolve constructor at 0001db9e (DecompileCallback)  
+WARN  Decompiling 0001dfe4, pcode error at 0001dfe4: Unable to resolve constructor at 0001dfe4 (DecompileCallback)  
+WARN  Decompiling 00021090, pcode error at 000210b8: Unable to resolve constructor at 000210b8 (DecompileCallback)  
+WARN  Decompiling 0002117e, pcode error at 0002117e: Unable to resolve constructor at 0002117e (DecompileCallback)  
+WARN  Decompiling 000211c8, pcode error at 000211c8: Unable to resolve constructor at 000211c8 (DecompileCallback)  
+WARN  Decompiling 00022024, pcode error at 00022040: Unable to resolve constructor at 00022040 (DecompileCallback)  
+WARN  Decompiling 000faebe, pcode error at 000faec4: Unable to resolve constructor at 000faec4 (DecompileCallback)  
+INFO  ExportMegaDrive.java> Exported 500 functions (GhidraScript)  
+WARN  Decompiling 001f91fe, pcode error at 001f84f6: Unable to resolve constructor at 001f84f6 (DecompileCallback)  
+WARN  Decompiling 001f9244, pcode error at 001f84f6: Unable to resolve constructor at 001f84f6 (DecompileCallback)  
+WARN  Decompiling 001f9856, pcode error at 001f84f6: Unable to resolve constructor at 001f84f6 (DecompileCallback)  
+WARN  Decompiling 001fa164, pcode error at 001f84f6: Unable to resolve constructor at 001f84f6 (DecompileCallback)  
+INFO  ExportMegaDrive.java> MEGADRIVE exported 531 functions (GhidraScript)  
+INFO  ANALYZING changes made by post scripts: file:///Users/taoo/Documents/ChatGPT/%E6%97%A5%E5%B8%B8/md-game-analysis/ghidra/shuihu-baseline.bin (HeadlessAnalyzer)  
+INFO  REPORT: Post-analysis succeeded for file: file:///Users/taoo/Documents/ChatGPT/%E6%97%A5%E5%B8%B8/md-game-analysis/ghidra/shuihu-baseline.bin (HeadlessAnalyzer)  
+INFO  /shuihu-baseline.bin: file created (taoo) (LocalFileSystem)  
+INFO  REPORT: Save succeeded for: /shuihu-baseline.bin (Shuihu:/shuihu-baseline.bin) (HeadlessAnalyzer)  
+INFO  REPORT: Import succeeded (HeadlessAnalyzer)  

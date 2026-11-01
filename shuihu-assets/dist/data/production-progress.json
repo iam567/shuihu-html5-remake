@@ -1,0 +1,1038 @@
+{
+  "updatedAt": 1793236534.658806,
+  "batch": "batch-004",
+  "total": 112,
+  "counts": {
+    "character": {
+      "total": 60,
+      "generated": 60,
+      "failed": 0,
+      "running": 0
+    },
+    "item-icons": {
+      "total": 6,
+      "generated": 6,
+      "failed": 0,
+      "running": 0
+    },
+    "interface": {
+      "total": 8,
+      "generated": 8,
+      "failed": 0,
+      "running": 0
+    },
+    "portrait": {
+      "total": 38,
+      "generated": 37,
+      "failed": 1,
+      "running": 0
+    }
+  },
+  "jobs": [
+    {
+      "id": "character-100400-walk-v2",
+      "kind": "character",
+      "state": "generated-awaiting-review"
+    },
+    {
+      "id": "items-001-016-hd",
+      "kind": "item-icons",
+      "state": "generated-awaiting-review"
+    },
+    {
+      "id": "items-017-032-hd",
+      "kind": "item-icons",
+      "state": "generated-awaiting-review"
+    },
+    {
+      "id": "items-033-048-hd",
+      "kind": "item-icons",
+      "state": "generated-awaiting-review"
+    },
+    {
+      "id": "items-064-081-hd",
+      "kind": "item-icons",
+      "state": "generated-awaiting-review"
+    },
+    {
+      "id": "items-082-102-hd",
+      "kind": "item-icons",
+      "state": "generated-awaiting-review"
+    },
+    {
+      "id": "items-103-123-hd",
+      "kind": "item-icons",
+      "state": "generated-awaiting-review"
+    },
+    {
+      "id": "ui-battle-hd",
+      "kind": "interface",
+      "state": "generated-awaiting-review"
+    },
+    {
+      "id": "ui-buttons-hd",
+      "kind": "interface",
+      "state": "generated-awaiting-review"
+    },
+    {
+      "id": "ui-character-status-hd",
+      "kind": "interface",
+      "state": "generated-awaiting-review"
+    },
+    {
+      "id": "ui-dialogue-hd",
+      "kind": "interface",
+      "state": "generated-awaiting-review"
+    },
+    {
+      "id": "ui-inventory-hd",
+      "kind": "interface",
+      "state": "generated-awaiting-review"
+    },
+    {
+      "id": "ui-save-load-hd",
+      "kind": "interface",
+      "state": "generated-awaiting-review"
+    },
+    {
+      "id": "ui-settings-hd",
+      "kind": "interface",
+      "state": "generated-awaiting-review"
+    },
+    {
+      "id": "ui-shop-hd",
+      "kind": "interface",
+      "state": "generated-awaiting-review"
+    },
+    {
+      "id": "portrait-160a38-hd",
+      "kind": "portrait",
+      "state": "generated-awaiting-review"
+    },
+    {
+      "id": "portrait-160eb8-hd",
+      "kind": "portrait",
+      "state": "generated-awaiting-review"
+    },
+    {
+      "id": "portrait-161338-hd",
+      "kind": "portrait",
+      "state": "generated-awaiting-review"
+    },
+    {
+      "id": "portrait-1617b8-hd",
+      "kind": "portrait",
+      "state": "generated-awaiting-review"
+    },
+    {
+      "id": "portrait-161c38-hd",
+      "kind": "portrait",
+      "state": "generated-awaiting-review"
+    },
+    {
+      "id": "portrait-1620b8-hd",
+      "kind": "portrait",
+      "state": "generated-awaiting-review"
+    },
+    {
+      "id": "portrait-162538-hd",
+      "kind": "portrait",
+      "state": "generated-awaiting-review"
+    },
+    {
+      "id": "portrait-1629b8-hd",
+      "kind": "portrait",
+      "state": "generated-awaiting-review"
+    },
+    {
+      "id": "portrait-162e38-hd",
+      "kind": "portrait",
+      "state": "generated-awaiting-review"
+    },
+    {
+      "id": "portrait-1632b8-hd",
+      "kind": "portrait",
+      "state": "generated-awaiting-review"
+    },
+    {
+      "id": "portrait-163738-hd",
+      "kind": "portrait",
+      "state": "generated-awaiting-review"
+    },
+    {
+      "id": "portrait-163bb8-hd",
+      "kind": "portrait",
+      "state": "generated-awaiting-review"
+    },
+    {
+      "id": "portrait-164038-hd",
+      "kind": "portrait",
+      "state": "generated-awaiting-review"
+    },
+    {
+      "id": "portrait-1644b8-hd",
+      "kind": "portrait",
+      "state": "blocked-service"
+    },
+    {
+      "id": "portrait-164938-hd",
+      "kind": "portrait",
+      "state": "generated-awaiting-review"
+    },
+    {
+      "id": "portrait-164db8-hd",
+      "kind": "portrait",
+      "state": "generated-awaiting-review"
+    },
+    {
+      "id": "portrait-165238-hd",
+      "kind": "portrait",
+      "state": "generated-awaiting-review"
+    },
+    {
+      "id": "portrait-1656b8-hd",
+      "kind": "portrait",
+      "state": "generated-awaiting-review"
+    },
+    {
+      "id": "portrait-165b38-hd",
+      "kind": "portrait",
+      "state": "generated-awaiting-review"
+    },
+    {
+      "id": "portrait-165fb8-hd",
+      "kind": "portrait",
+      "state": "generated-awaiting-review"
+    },
+    {
+      "id": "portrait-166438-hd",
+      "kind": "portrait",
+      "state": "generated-awaiting-review"
+    },
+    {
+      "id": "portrait-1668b8-hd",
+      "kind": "portrait",
+      "state": "generated-awaiting-review"
+    },
+    {
+      "id": "portrait-166d38-hd",
+      "kind": "portrait",
+      "state": "generated-awaiting-review"
+    },
+    {
+      "id": "portrait-1671b8-hd",
+      "kind": "portrait",
+      "state": "generated-awaiting-review"
+    },
+    {
+      "id": "portrait-167638-hd",
+      "kind": "portrait",
+      "state": "generated-awaiting-review"
+    },
+    {
+      "id": "portrait-167ab8-hd",
+      "kind": "portrait",
+      "state": "generated-awaiting-review"
+    },
+    {
+      "id": "portrait-167f38-hd",
+      "kind": "portrait",
+      "state": "generated-awaiting-review"
+    },
+    {
+      "id": "portrait-1683b8-hd",
+      "kind": "portrait",
+      "state": "generated-awaiting-review"
+    },
+    {
+      "id": "portrait-168838-hd",
+      "kind": "portrait",
+      "state": "generated-awaiting-review"
+    },
+    {
+      "id": "portrait-168cb8-hd",
+      "kind": "portrait",
+      "state": "generated-awaiting-review"
+    },
+    {
+      "id": "portrait-169138-hd",
+      "kind": "portrait",
+      "state": "generated-awaiting-review"
+    },
+    {
+      "id": "portrait-1695b8-hd",
+      "kind": "portrait",
+      "state": "generated-awaiting-review"
+    },
+    {
+      "id": "portrait-169a38-hd",
+      "kind": "portrait",
+      "state": "generated-awaiting-review"
+    },
+    {
+      "id": "portrait-169eb8-hd",
+      "kind": "portrait",
+      "state": "generated-awaiting-review"
+    },
+    {
+      "id": "portrait-16a338-hd",
+      "kind": "portrait",
+      "state": "generated-awaiting-review"
+    },
+    {
+      "id": "portrait-16a7b8-hd",
+      "kind": "portrait",
+      "state": "generated-awaiting-review"
+    },
+    {
+      "id": "portrait-16ac38-hd",
+      "kind": "portrait",
+      "state": "generated-awaiting-review"
+    },
+    {
+      "id": "portrait-16b0b8-hd",
+      "kind": "portrait",
+      "state": "generated-awaiting-review"
+    },
+    {
+      "id": "character-101a00-walk-v2",
+      "kind": "character",
+      "state": "generated-awaiting-review"
+    },
+    {
+      "id": "character-103000-walk-v2",
+      "kind": "character",
+      "state": "generated-awaiting-review"
+    },
+    {
+      "id": "character-104600-walk-v2",
+      "kind": "character",
+      "state": "generated-awaiting-review"
+    },
+    {
+      "id": "character-105c00-walk-v2",
+      "kind": "character",
+      "state": "generated-awaiting-review"
+    },
+    {
+      "id": "character-107200-walk-v2",
+      "kind": "character",
+      "state": "generated-awaiting-review"
+    },
+    {
+      "id": "character-108800-walk-v2",
+      "kind": "character",
+      "state": "generated-awaiting-review"
+    },
+    {
+      "id": "character-109e00-walk-v2",
+      "kind": "character",
+      "state": "generated-awaiting-review"
+    },
+    {
+      "id": "character-10b400-walk-v2",
+      "kind": "character",
+      "state": "generated-awaiting-review"
+    },
+    {
+      "id": "character-10ca00-walk-v2",
+      "kind": "character",
+      "state": "generated-awaiting-review"
+    },
+    {
+      "id": "character-10e000-walk-v2",
+      "kind": "character",
+      "state": "generated-awaiting-review"
+    },
+    {
+      "id": "character-10f600-walk-v2",
+      "kind": "character",
+      "state": "generated-awaiting-review"
+    },
+    {
+      "id": "character-110c00-walk-v2",
+      "kind": "character",
+      "state": "generated-awaiting-review"
+    },
+    {
+      "id": "character-112200-walk-v2",
+      "kind": "character",
+      "state": "generated-awaiting-review"
+    },
+    {
+      "id": "character-113800-walk-v2",
+      "kind": "character",
+      "state": "generated-awaiting-review"
+    },
+    {
+      "id": "character-114e00-walk-v2",
+      "kind": "character",
+      "state": "generated-awaiting-review"
+    },
+    {
+      "id": "character-116400-walk-v2",
+      "kind": "character",
+      "state": "generated-awaiting-review"
+    },
+    {
+      "id": "character-117a00-walk-v2",
+      "kind": "character",
+      "state": "generated-awaiting-review"
+    },
+    {
+      "id": "character-119000-walk-v2",
+      "kind": "character",
+      "state": "generated-awaiting-review"
+    },
+    {
+      "id": "character-11a600-walk-v2",
+      "kind": "character",
+      "state": "generated-awaiting-review"
+    },
+    {
+      "id": "character-11bc00-walk-v2",
+      "kind": "character",
+      "state": "generated-awaiting-review"
+    },
+    {
+      "id": "character-11d200-walk-v2",
+      "kind": "character",
+      "state": "generated-awaiting-review"
+    },
+    {
+      "id": "character-11e800-walk-v2",
+      "kind": "character",
+      "state": "generated-awaiting-review"
+    },
+    {
+      "id": "character-120000-walk-v2",
+      "kind": "character",
+      "state": "generated-awaiting-review"
+    },
+    {
+      "id": "character-121600-walk-v2",
+      "kind": "character",
+      "state": "generated-awaiting-review"
+    },
+    {
+      "id": "character-122c00-walk-v2",
+      "kind": "character",
+      "state": "generated-awaiting-review"
+    },
+    {
+      "id": "character-124200-walk-v2",
+      "kind": "character",
+      "state": "generated-awaiting-review"
+    },
+    {
+      "id": "character-125800-walk-v2",
+      "kind": "character",
+      "state": "generated-awaiting-review"
+    },
+    {
+      "id": "character-126e00-walk-v2",
+      "kind": "character",
+      "state": "generated-awaiting-review"
+    },
+    {
+      "id": "character-128400-walk-v2",
+      "kind": "character",
+      "state": "generated-awaiting-review"
+    },
+    {
+      "id": "character-129a00-walk-v2",
+      "kind": "character",
+      "state": "generated-awaiting-review"
+    },
+    {
+      "id": "character-12b000-walk-v2",
+      "kind": "character",
+      "state": "generated-awaiting-review"
+    },
+    {
+      "id": "character-12c600-walk-v2",
+      "kind": "character",
+      "state": "generated-awaiting-review"
+    },
+    {
+      "id": "character-12dc00-walk-v2",
+      "kind": "character",
+      "state": "generated-awaiting-review"
+    },
+    {
+      "id": "character-12f200-walk-v2",
+      "kind": "character",
+      "state": "generated-awaiting-review"
+    },
+    {
+      "id": "character-130800-walk-v2",
+      "kind": "character",
+      "state": "generated-awaiting-review"
+    },
+    {
+      "id": "character-131e00-walk-v2",
+      "kind": "character",
+      "state": "generated-awaiting-review"
+    },
+    {
+      "id": "character-133400-walk-v2",
+      "kind": "character",
+      "state": "generated-awaiting-review"
+    },
+    {
+      "id": "character-134a00-walk-v2",
+      "kind": "character",
+      "state": "generated-awaiting-review"
+    },
+    {
+      "id": "character-136000-walk-v2",
+      "kind": "character",
+      "state": "generated-awaiting-review"
+    },
+    {
+      "id": "character-137600-walk-v2",
+      "kind": "character",
+      "state": "generated-awaiting-review"
+    },
+    {
+      "id": "character-138c00-walk-v2",
+      "kind": "character",
+      "state": "generated-awaiting-review"
+    },
+    {
+      "id": "character-13a200-walk-v2",
+      "kind": "character",
+      "state": "generated-awaiting-review"
+    },
+    {
+      "id": "character-13b800-walk-v2",
+      "kind": "character",
+      "state": "generated-awaiting-review"
+    },
+    {
+      "id": "character-13ce00-walk-v2",
+      "kind": "character",
+      "state": "generated-awaiting-review"
+    },
+    {
+      "id": "character-13e400-walk-v2",
+      "kind": "character",
+      "state": "generated-awaiting-review"
+    },
+    {
+      "id": "character-140000-walk-v2",
+      "kind": "character",
+      "state": "generated-awaiting-review"
+    },
+    {
+      "id": "character-141600-walk-v2",
+      "kind": "character",
+      "state": "generated-awaiting-review"
+    },
+    {
+      "id": "character-142c00-walk-v2",
+      "kind": "character",
+      "state": "generated-awaiting-review"
+    },
+    {
+      "id": "character-144200-walk-v2",
+      "kind": "character",
+      "state": "generated-awaiting-review"
+    },
+    {
+      "id": "character-145800-walk-v2",
+      "kind": "character",
+      "state": "generated-awaiting-review"
+    },
+    {
+      "id": "character-146e00-walk-v2",
+      "kind": "character",
+      "state": "generated-awaiting-review"
+    },
+    {
+      "id": "character-148400-walk-v2",
+      "kind": "character",
+      "state": "generated-awaiting-review"
+    },
+    {
+      "id": "character-149a00-walk-v2",
+      "kind": "character",
+      "state": "generated-awaiting-review"
+    },
+    {
+      "id": "character-14b000-walk-v2",
+      "kind": "character",
+      "state": "generated-awaiting-review"
+    },
+    {
+      "id": "character-14c600-walk-v2",
+      "kind": "character",
+      "state": "generated-awaiting-review"
+    },
+    {
+      "id": "character-14dc00-walk-v2",
+      "kind": "character",
+      "state": "generated-awaiting-review"
+    },
+    {
+      "id": "character-14f200-walk-v2",
+      "kind": "character",
+      "state": "generated-awaiting-review"
+    },
+    {
+      "id": "character-150800-walk-v2",
+      "kind": "character",
+      "state": "generated-awaiting-review"
+    },
+    {
+      "id": "character-151e00-walk-v2",
+      "kind": "character",
+      "state": "generated-awaiting-review"
+    }
+  ],
+  "items": {
+    "parameterSlots": 142,
+    "nonzeroRows": 109,
+    "namedItems": 108,
+    "items": [
+      {
+        "id": 1,
+        "name": "戒刀"
+      },
+      {
+        "id": 2,
+        "name": "青銅劍"
+      },
+      {
+        "id": 3,
+        "name": "玄鐵劍"
+      },
+      {
+        "id": 4,
+        "name": "八環刀"
+      },
+      {
+        "id": 5,
+        "name": "七星劍"
+      },
+      {
+        "id": 6,
+        "name": "斷日劍"
+      },
+      {
+        "id": 7,
+        "name": "無量刀"
+      },
+      {
+        "id": 8,
+        "name": "白虎長刀"
+      },
+      {
+        "id": 9,
+        "name": "倚天劍"
+      },
+      {
+        "id": 10,
+        "name": "千將神劍"
+      },
+      {
+        "id": 11,
+        "name": "莫邪戰刀"
+      },
+      {
+        "id": 12,
+        "name": "青釭神劍"
+      },
+      {
+        "id": 13,
+        "name": "巨闕神劍"
+      },
+      {
+        "id": 14,
+        "name": "鐵虎指"
+      },
+      {
+        "id": 15,
+        "name": "青龍爪"
+      },
+      {
+        "id": 16,
+        "name": "皮環手"
+      },
+      {
+        "id": 17,
+        "name": "毒爪"
+      },
+      {
+        "id": 18,
+        "name": "玄武鐵爪"
+      },
+      {
+        "id": 19,
+        "name": "金龍環手"
+      },
+      {
+        "id": 20,
+        "name": "仙霓護指"
+      },
+      {
+        "id": 21,
+        "name": "軒轅爪"
+      },
+      {
+        "id": 22,
+        "name": "柳木弓"
+      },
+      {
+        "id": 23,
+        "name": "大長弓"
+      },
+      {
+        "id": 24,
+        "name": "白鐵長弓"
+      },
+      {
+        "id": 25,
+        "name": "絕命弓"
+      },
+      {
+        "id": 26,
+        "name": "碧霞弓"
+      },
+      {
+        "id": 27,
+        "name": "穿天弓"
+      },
+      {
+        "id": 28,
+        "name": "黄金巨弓"
+      },
+      {
+        "id": 29,
+        "name": "后羿之弓"
+      },
+      {
+        "id": 30,
+        "name": "朱雀神弓"
+      },
+      {
+        "id": 31,
+        "name": "重鐵戢"
+      },
+      {
+        "id": 32,
+        "name": "秀花槍"
+      },
+      {
+        "id": 33,
+        "name": "蛇尖長矛"
+      },
+      {
+        "id": 34,
+        "name": "丈八長矛"
+      },
+      {
+        "id": 35,
+        "name": "七星槍"
+      },
+      {
+        "id": 36,
+        "name": "翻天戢"
+      },
+      {
+        "id": 37,
+        "name": "火尖槍"
+      },
+      {
+        "id": 38,
+        "name": "吼神矛"
+      },
+      {
+        "id": 39,
+        "name": "乾坤槍"
+      },
+      {
+        "id": 40,
+        "name": "風神戰矛"
+      },
+      {
+        "id": 41,
+        "name": "玄天戰戢"
+      },
+      {
+        "id": 42,
+        "name": "蚩尤神矛"
+      },
+      {
+        "id": 43,
+        "name": "燐火管"
+      },
+      {
+        "id": 44,
+        "name": "西來銃"
+      },
+      {
+        "id": 45,
+        "name": "金龍砲"
+      },
+      {
+        "id": 46,
+        "name": "南蠻火槍"
+      },
+      {
+        "id": 47,
+        "name": "掌中雷"
+      },
+      {
+        "id": 48,
+        "name": "雷公巨砲"
+      },
+      {
+        "id": 64,
+        "name": "洪水之書"
+      },
+      {
+        "id": 65,
+        "name": "烈火之書"
+      },
+      {
+        "id": 66,
+        "name": "落石之書"
+      },
+      {
+        "id": 67,
+        "name": "東風之書"
+      },
+      {
+        "id": 68,
+        "name": "紛雪之書"
+      },
+      {
+        "id": 69,
+        "name": "海嘯之書"
+      },
+      {
+        "id": 70,
+        "name": "落木之書"
+      },
+      {
+        "id": 71,
+        "name": "落雷之書"
+      },
+      {
+        "id": 72,
+        "name": "山崩計書"
+      },
+      {
+        "id": 73,
+        "name": "孫子兵法"
+      },
+      {
+        "id": 74,
+        "name": "鬼谷子書"
+      },
+      {
+        "id": 75,
+        "name": "臥龍兵書"
+      },
+      {
+        "id": 76,
+        "name": "劇毒草"
+      },
+      {
+        "id": 77,
+        "name": "金炙針"
+      },
+      {
+        "id": 80,
+        "name": "蠱毒咒"
+      },
+      {
+        "id": 81,
+        "name": "迷亂咒"
+      },
+      {
+        "id": 82,
+        "name": "虛弱咒"
+      },
+      {
+        "id": 83,
+        "name": "破甲咒"
+      },
+      {
+        "id": 84,
+        "name": "奇門遁甲"
+      },
+      {
+        "id": 85,
+        "name": "五行法帖"
+      },
+      {
+        "id": 86,
+        "name": "水降神"
+      },
+      {
+        "id": 87,
+        "name": "火降神"
+      },
+      {
+        "id": 88,
+        "name": "風降神"
+      },
+      {
+        "id": 89,
+        "name": "土降神"
+      },
+      {
+        "id": 90,
+        "name": "桃木劍"
+      },
+      {
+        "id": 96,
+        "name": "刀傷藥典"
+      },
+      {
+        "id": 97,
+        "name": "快癒藥引"
+      },
+      {
+        "id": 98,
+        "name": "金創藥方"
+      },
+      {
+        "id": 99,
+        "name": "化毒綱目"
+      },
+      {
+        "id": 100,
+        "name": "回神藥方"
+      },
+      {
+        "id": 101,
+        "name": "異常傷典"
+      },
+      {
+        "id": 102,
+        "name": "眾傷醫書"
+      },
+      {
+        "id": 103,
+        "name": "回生藥典"
+      },
+      {
+        "id": 104,
+        "name": "轉生之書"
+      },
+      {
+        "id": 112,
+        "name": "三略兵法"
+      },
+      {
+        "id": 113,
+        "name": "六韜兵法"
+      },
+      {
+        "id": 114,
+        "name": "吳子兵法"
+      },
+      {
+        "id": 115,
+        "name": "孟德新書"
+      },
+      {
+        "id": 116,
+        "name": "弓術指南"
+      },
+      {
+        "id": 117,
+        "name": "盗藝之書"
+      },
+      {
+        "id": 118,
+        "name": "戰國策"
+      },
+      {
+        "id": 119,
+        "name": "朱雀羽鞋"
+      },
+      {
+        "id": 120,
+        "name": "玄武水鞋"
+      },
+      {
+        "id": 121,
+        "name": "護身符"
+      },
+      {
+        "id": 122,
+        "name": "達摩草鞋"
+      },
+      {
+        "id": 123,
+        "name": "散體符"
+      },
+      {
+        "id": 128,
+        "name": "傷藥"
+      },
+      {
+        "id": 129,
+        "name": "雪山參"
+      },
+      {
+        "id": 130,
+        "name": "千年靈芝"
+      },
+      {
+        "id": 131,
+        "name": "化毒草"
+      },
+      {
+        "id": 132,
+        "name": "清神草"
+      },
+      {
+        "id": 133,
+        "name": "去傷丸"
+      },
+      {
+        "id": 134,
+        "name": "九轉丹"
+      },
+      {
+        "id": 136,
+        "name": "勇氣書"
+      },
+      {
+        "id": 137,
+        "name": "疲倦草"
+      },
+      {
+        "id": 138,
+        "name": "大力丸"
+      },
+      {
+        "id": 139,
+        "name": "體弱香"
+      },
+      {
+        "id": 140,
+        "name": "刺客之書"
+      },
+      {
+        "id": 141,
+        "name": "海盗之書"
+      },
+      {
+        "id": 142,
+        "name": "少林拳譜"
+      }
+    ],
+    "unnamedActiveIds": [
+      78,
+      79,
+      135
+    ]
+  },
+  "note": "生成成功不等于验收通过，旧错误人物图已退回；失败任务保留，其他任务继续。"
+}

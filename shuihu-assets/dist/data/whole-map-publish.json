@@ -1,0 +1,6320 @@
+{
+ "0600-ghibli": {
+  "stamp": "wholemap-styles-1:0600-ghibli.png:1793291764000000000:{\"boundaryFlagged\": 10, \"flagged\": 10, \"judged\": 360, \"medianScore\": 0.536, \"medianShiftPx\": 0.0, \"size\": [3072, 1920], \"tileVersionBoundaryFlagged\": 26, \"tileVersionFlagged\": 30, \"uncertain\": 29}",
+  "rel": "generated/maps-whole/ghibli/0600.webp",
+  "map": "0600",
+  "style": "ghibli",
+  "cell": 128,
+  "size": [
+   3072,
+   1920
+  ],
+  "check": {
+   "judged": 360,
+   "flagged": 10,
+   "boundaryFlagged": 10,
+   "uncertain": 29,
+   "tileVersionFlagged": 30,
+   "tileVersionBoundaryFlagged": 26,
+   "medianShiftPx": 0.0,
+   "medianScore": 0.536,
+   "size": [
+    3072,
+    1920
+   ]
+  },
+  "batch": "wholemap-styles-1"
+ },
+ "0600-hd2d": {
+  "stamp": "wholemap-styles-1:0600-hd2d.png:1793291764000000000:{\"boundaryFlagged\": 12, \"flagged\": 15, \"judged\": 360, \"medianScore\": 0.4815, \"medianShiftPx\": 8.0, \"size\": [3072, 1920], \"tileVersionBoundaryFlagged\": 11, \"tileVersionFlagged\": 13, \"uncertain\": 32}",
+  "rel": "generated/maps-whole/hd2d/0600.webp",
+  "map": "0600",
+  "style": "hd2d",
+  "cell": 128,
+  "size": [
+   3072,
+   1920
+  ],
+  "check": {
+   "judged": 360,
+   "flagged": 15,
+   "boundaryFlagged": 12,
+   "uncertain": 32,
+   "tileVersionFlagged": 13,
+   "tileVersionBoundaryFlagged": 11,
+   "medianShiftPx": 8.0,
+   "medianScore": 0.4815,
+   "size": [
+    3072,
+    1920
+   ]
+  },
+  "batch": "wholemap-styles-1"
+ },
+ "0206-ghibli": {
+  "stamp": "wholemap-v2-1:0206-ghibli.png:1793295803000000000:{\"boundaryFlagged\": 0, \"flagged\": 0, \"judged\": 360, \"medianScore\": 0.2215, \"medianShiftPx\": 4.0, \"mtime\": 1793295803000000000, \"size\": [3072, 1920], \"tileVersionBoundaryFlagged\": 0, \"tileVersionFlagged\": 0, \"uncertain\": 216}",
+  "rel": "generated/maps-whole/ghibli/0206.webp",
+  "map": "0206",
+  "style": "ghibli",
+  "cell": 128,
+  "size": [
+   3072,
+   1920
+  ],
+  "check": {
+   "judged": 360,
+   "flagged": 0,
+   "boundaryFlagged": 0,
+   "uncertain": 216,
+   "tileVersionFlagged": 0,
+   "tileVersionBoundaryFlagged": 0,
+   "mtime": 1793295803000000000,
+   "medianShiftPx": 4.0,
+   "medianScore": 0.2215,
+   "size": [
+    3072,
+    1920
+   ]
+  },
+  "batch": "wholemap-v2-1"
+ },
+ "0206-hd2d": {
+  "stamp": "wholemap-styles-1:0206-hd2d.png:1793291758000000000:{\"boundaryFlagged\": 0, \"flagged\": 0, \"judged\": 360, \"medianScore\": 0.272, \"medianShiftPx\": 0.0, \"size\": [3072, 1920], \"tileVersionBoundaryFlagged\": 0, \"tileVersionFlagged\": 0, \"uncertain\": 209}",
+  "rel": "generated/maps-whole/hd2d/0206.webp",
+  "map": "0206",
+  "style": "hd2d",
+  "cell": 128,
+  "size": [
+   3072,
+   1920
+  ],
+  "check": {
+   "judged": 360,
+   "flagged": 0,
+   "boundaryFlagged": 0,
+   "uncertain": 209,
+   "tileVersionFlagged": 0,
+   "tileVersionBoundaryFlagged": 0,
+   "medianShiftPx": 0.0,
+   "medianScore": 0.272,
+   "size": [
+    3072,
+    1920
+   ]
+  },
+  "batch": "wholemap-styles-1"
+ },
+ "0100-ghibli": {
+  "stamp": "wholemap-v2-1:0100-ghibli.png:1793298814309571216:{\"aligned\": true, \"boundaryFlagged\": 11, \"flagged\": 11, \"judged\": 480, \"medianScore\": 0.557, \"medianShiftPx\": 0.0, \"mtime\": 1793298814309571216, \"size\": [3072, 2560], \"tileVersionBoundaryFlagged\": 10, \"tileVersionFlagged\": 11, \"uncertain\": 48}",
+  "rel": "generated/maps-whole/ghibli/0100.webp",
+  "map": "0100",
+  "style": "ghibli",
+  "cell": 128,
+  "size": [
+   3072,
+   2560
+  ],
+  "check": {
+   "judged": 480,
+   "flagged": 11,
+   "boundaryFlagged": 11,
+   "uncertain": 48,
+   "tileVersionFlagged": 11,
+   "tileVersionBoundaryFlagged": 10,
+   "mtime": 1793298814309571216,
+   "aligned": true,
+   "medianShiftPx": 0.0,
+   "medianScore": 0.557,
+   "size": [
+    3072,
+    2560
+   ]
+  },
+  "batch": "wholemap-v2-1"
+ },
+ "0100-hd2d": {
+  "stamp": "wholemap-v2-1:0100-hd2d.png:1793298842965749725:{\"aligned\": true, \"boundaryFlagged\": 22, \"flagged\": 25, \"judged\": 480, \"medianScore\": 0.456, \"medianShiftPx\": 4.0, \"mtime\": 1793298842965749725, \"size\": [3072, 2560], \"tileVersionBoundaryFlagged\": 4, \"tileVersionFlagged\": 4, \"uncertain\": 86}",
+  "rel": "generated/maps-whole/hd2d/0100.webp",
+  "map": "0100",
+  "style": "hd2d",
+  "cell": 128,
+  "size": [
+   3072,
+   2560
+  ],
+  "check": {
+   "judged": 480,
+   "flagged": 25,
+   "boundaryFlagged": 22,
+   "uncertain": 86,
+   "tileVersionFlagged": 4,
+   "tileVersionBoundaryFlagged": 4,
+   "mtime": 1793298842965749725,
+   "aligned": true,
+   "medianShiftPx": 4.0,
+   "medianScore": 0.456,
+   "size": [
+    3072,
+    2560
+   ]
+  },
+  "batch": "wholemap-v2-1"
+ },
+ "0101-ghibli": {
+  "stamp": "wholemap-v2-1:0101-ghibli.png:1793295589000000000:{\"boundaryFlagged\": 0, \"flagged\": 0, \"judged\": 67, \"medianScore\": 0.859, \"medianShiftPx\": 0.0, \"mtime\": 1793295589000000000, \"size\": [1280, 1280], \"tileVersionBoundaryFlagged\": 1, \"tileVersionFlagged\": 1, \"uncertain\": 0}",
+  "rel": "generated/maps-whole/ghibli/0101.webp",
+  "map": "0101",
+  "style": "ghibli",
+  "cell": 128,
+  "size": [
+   1280,
+   1280
+  ],
+  "check": {
+   "judged": 67,
+   "flagged": 0,
+   "boundaryFlagged": 0,
+   "uncertain": 0,
+   "tileVersionFlagged": 1,
+   "tileVersionBoundaryFlagged": 1,
+   "mtime": 1793295589000000000,
+   "medianShiftPx": 0.0,
+   "medianScore": 0.859,
+   "size": [
+    1280,
+    1280
+   ]
+  },
+  "batch": "wholemap-v2-1"
+ },
+ "0101-hd2d": {
+  "stamp": "wholemap-v2-1:0101-hd2d.png:1793295591000000000:{\"boundaryFlagged\": 0, \"flagged\": 0, \"judged\": 67, \"medianScore\": 0.745, \"medianShiftPx\": 12.0, \"mtime\": 1793295591000000000, \"size\": [1280, 1280], \"tileVersionBoundaryFlagged\": 1, \"tileVersionFlagged\": 1, \"uncertain\": 0}",
+  "rel": "generated/maps-whole/hd2d/0101.webp",
+  "map": "0101",
+  "style": "hd2d",
+  "cell": 128,
+  "size": [
+   1280,
+   1280
+  ],
+  "check": {
+   "judged": 67,
+   "flagged": 0,
+   "boundaryFlagged": 0,
+   "uncertain": 0,
+   "tileVersionFlagged": 1,
+   "tileVersionBoundaryFlagged": 1,
+   "mtime": 1793295591000000000,
+   "medianShiftPx": 12.0,
+   "medianScore": 0.745,
+   "size": [
+    1280,
+    1280
+   ]
+  },
+  "batch": "wholemap-v2-1"
+ },
+ "0102-ghibli": {
+  "stamp": "wholemap-fixpilot:0102-ghibli.png:1793295384000000000:{\"boundaryFlagged\": 2, \"flagged\": 2, \"judged\": 139, \"medianScore\": 0.756, \"medianShiftPx\": 8.0, \"size\": [1280, 1920], \"tileVersionBoundaryFlagged\": 4, \"tileVersionFlagged\": 4, \"uncertain\": 0}",
+  "rel": "generated/maps-whole/ghibli/0102.webp",
+  "map": "0102",
+  "style": "ghibli",
+  "cell": 128,
+  "size": [
+   1280,
+   1920
+  ],
+  "check": {
+   "judged": 139,
+   "flagged": 2,
+   "boundaryFlagged": 2,
+   "uncertain": 0,
+   "tileVersionFlagged": 4,
+   "tileVersionBoundaryFlagged": 4,
+   "medianShiftPx": 8.0,
+   "medianScore": 0.756,
+   "size": [
+    1280,
+    1920
+   ]
+  },
+  "batch": "wholemap-fixpilot"
+ },
+ "0102-hd2d": {
+  "stamp": "wholemap-fixpilot:0102-hd2d.png:1793295386000000000:{\"boundaryFlagged\": 0, \"flagged\": 0, \"judged\": 139, \"medianScore\": 0.864, \"medianShiftPx\": 0.0, \"size\": [1280, 1920], \"tileVersionBoundaryFlagged\": 0, \"tileVersionFlagged\": 0, \"uncertain\": 0}",
+  "rel": "generated/maps-whole/hd2d/0102.webp",
+  "map": "0102",
+  "style": "hd2d",
+  "cell": 128,
+  "size": [
+   1280,
+   1920
+  ],
+  "check": {
+   "judged": 139,
+   "flagged": 0,
+   "boundaryFlagged": 0,
+   "uncertain": 0,
+   "tileVersionFlagged": 0,
+   "tileVersionBoundaryFlagged": 0,
+   "medianShiftPx": 0.0,
+   "medianScore": 0.864,
+   "size": [
+    1280,
+    1920
+   ]
+  },
+  "batch": "wholemap-fixpilot"
+ },
+ "0103-ghibli": {
+  "stamp": "wholemap-v2-1:0103-ghibli.png:1793298847878079264:{\"aligned\": true, \"boundaryFlagged\": 0, \"flagged\": 0, \"judged\": 88, \"medianScore\": 0.743, \"medianShiftPx\": 0.0, \"mtime\": 1793298847878079264, \"size\": [1280, 1280], \"tileVersionBoundaryFlagged\": 1, \"tileVersionFlagged\": 1, \"uncertain\": 0}",
+  "rel": "generated/maps-whole/ghibli/0103.webp",
+  "map": "0103",
+  "style": "ghibli",
+  "cell": 128,
+  "size": [
+   1280,
+   1280
+  ],
+  "check": {
+   "judged": 88,
+   "flagged": 0,
+   "boundaryFlagged": 0,
+   "uncertain": 0,
+   "tileVersionFlagged": 1,
+   "tileVersionBoundaryFlagged": 1,
+   "mtime": 1793298847878079264,
+   "aligned": true,
+   "medianShiftPx": 0.0,
+   "medianScore": 0.743,
+   "size": [
+    1280,
+    1280
+   ]
+  },
+  "batch": "wholemap-v2-1"
+ },
+ "0103-hd2d": {
+  "stamp": "wholemap-v2-1:0103-hd2d.png:1793295593000000000:{\"boundaryFlagged\": 2, \"flagged\": 2, \"judged\": 88, \"medianScore\": 0.779, \"medianShiftPx\": 0.0, \"mtime\": 1793295593000000000, \"size\": [1280, 1280], \"tileVersionBoundaryFlagged\": 0, \"tileVersionFlagged\": 0, \"uncertain\": 0}",
+  "rel": "generated/maps-whole/hd2d/0103.webp",
+  "map": "0103",
+  "style": "hd2d",
+  "cell": 128,
+  "size": [
+   1280,
+   1280
+  ],
+  "check": {
+   "judged": 88,
+   "flagged": 2,
+   "boundaryFlagged": 2,
+   "uncertain": 0,
+   "tileVersionFlagged": 0,
+   "tileVersionBoundaryFlagged": 0,
+   "mtime": 1793295593000000000,
+   "medianShiftPx": 0.0,
+   "medianScore": 0.779,
+   "size": [
+    1280,
+    1280
+   ]
+  },
+  "batch": "wholemap-v2-1"
+ },
+ "0104-ghibli": {
+  "stamp": "wholemap-v2-1:0104-ghibli.png:1793298852083044503:{\"aligned\": true, \"boundaryFlagged\": 0, \"flagged\": 0, \"judged\": 67, \"medianScore\": 0.791, \"medianShiftPx\": 0.0, \"mtime\": 1793298852083044503, \"size\": [1280, 1280], \"tileVersionBoundaryFlagged\": 0, \"tileVersionFlagged\": 0, \"uncertain\": 0}",
+  "rel": "generated/maps-whole/ghibli/0104.webp",
+  "map": "0104",
+  "style": "ghibli",
+  "cell": 128,
+  "size": [
+   1280,
+   1280
+  ],
+  "check": {
+   "judged": 67,
+   "flagged": 0,
+   "boundaryFlagged": 0,
+   "uncertain": 0,
+   "tileVersionFlagged": 0,
+   "tileVersionBoundaryFlagged": 0,
+   "mtime": 1793298852083044503,
+   "aligned": true,
+   "medianShiftPx": 0.0,
+   "medianScore": 0.791,
+   "size": [
+    1280,
+    1280
+   ]
+  },
+  "batch": "wholemap-v2-1"
+ },
+ "0104-hd2d": {
+  "stamp": "wholemap-v2-1:0104-hd2d.png:1793295590000000000:{\"boundaryFlagged\": 1, \"flagged\": 1, \"judged\": 67, \"medianScore\": 0.704, \"medianShiftPx\": 4.0, \"mtime\": 1793295590000000000, \"size\": [1280, 1280], \"tileVersionBoundaryFlagged\": 0, \"tileVersionFlagged\": 0, \"uncertain\": 0}",
+  "rel": "generated/maps-whole/hd2d/0104.webp",
+  "map": "0104",
+  "style": "hd2d",
+  "cell": 128,
+  "size": [
+   1280,
+   1280
+  ],
+  "check": {
+   "judged": 67,
+   "flagged": 1,
+   "boundaryFlagged": 1,
+   "uncertain": 0,
+   "tileVersionFlagged": 0,
+   "tileVersionBoundaryFlagged": 0,
+   "mtime": 1793295590000000000,
+   "medianShiftPx": 4.0,
+   "medianScore": 0.704,
+   "size": [
+    1280,
+    1280
+   ]
+  },
+  "batch": "wholemap-v2-1"
+ },
+ "0105-ghibli": {
+  "stamp": "wholemap-v2-1:0105-ghibli.png:1793295589000000000:{\"boundaryFlagged\": 0, \"flagged\": 0, \"judged\": 70, \"medianScore\": 0.8545, \"medianShiftPx\": 4.0, \"mtime\": 1793295589000000000, \"size\": [1280, 1280], \"tileVersionBoundaryFlagged\": 1, \"tileVersionFlagged\": 1, \"uncertain\": 0}",
+  "rel": "generated/maps-whole/ghibli/0105.webp",
+  "map": "0105",
+  "style": "ghibli",
+  "cell": 128,
+  "size": [
+   1280,
+   1280
+  ],
+  "check": {
+   "judged": 70,
+   "flagged": 0,
+   "boundaryFlagged": 0,
+   "uncertain": 0,
+   "tileVersionFlagged": 1,
+   "tileVersionBoundaryFlagged": 1,
+   "mtime": 1793295589000000000,
+   "medianShiftPx": 4.0,
+   "medianScore": 0.8545,
+   "size": [
+    1280,
+    1280
+   ]
+  },
+  "batch": "wholemap-v2-1"
+ },
+ "0105-hd2d": {
+  "stamp": "wholemap-v2-1:0105-hd2d.png:1793295591000000000:{\"boundaryFlagged\": 0, \"flagged\": 0, \"judged\": 70, \"medianScore\": 0.723, \"medianShiftPx\": 8.0, \"mtime\": 1793295591000000000, \"size\": [1280, 1280], \"tileVersionBoundaryFlagged\": 0, \"tileVersionFlagged\": 0, \"uncertain\": 0}",
+  "rel": "generated/maps-whole/hd2d/0105.webp",
+  "map": "0105",
+  "style": "hd2d",
+  "cell": 128,
+  "size": [
+   1280,
+   1280
+  ],
+  "check": {
+   "judged": 70,
+   "flagged": 0,
+   "boundaryFlagged": 0,
+   "uncertain": 0,
+   "tileVersionFlagged": 0,
+   "tileVersionBoundaryFlagged": 0,
+   "mtime": 1793295591000000000,
+   "medianShiftPx": 8.0,
+   "medianScore": 0.723,
+   "size": [
+    1280,
+    1280
+   ]
+  },
+  "batch": "wholemap-v2-1"
+ },
+ "0106-ghibli": {
+  "stamp": "wholemap-v2-1:0106-ghibli.png:1793298857080299358:{\"aligned\": true, \"boundaryFlagged\": 0, \"flagged\": 0, \"judged\": 88, \"medianScore\": 0.845, \"medianShiftPx\": 0.0, \"mtime\": 1793298857080299358, \"size\": [1280, 1280], \"tileVersionBoundaryFlagged\": 1, \"tileVersionFlagged\": 2, \"uncertain\": 0}",
+  "rel": "generated/maps-whole/ghibli/0106.webp",
+  "map": "0106",
+  "style": "ghibli",
+  "cell": 128,
+  "size": [
+   1280,
+   1280
+  ],
+  "check": {
+   "judged": 88,
+   "flagged": 0,
+   "boundaryFlagged": 0,
+   "uncertain": 0,
+   "tileVersionFlagged": 2,
+   "tileVersionBoundaryFlagged": 1,
+   "mtime": 1793298857080299358,
+   "aligned": true,
+   "medianShiftPx": 0.0,
+   "medianScore": 0.845,
+   "size": [
+    1280,
+    1280
+   ]
+  },
+  "batch": "wholemap-v2-1"
+ },
+ "0106-hd2d": {
+  "stamp": "wholemap-v2-1:0106-hd2d.png:1793295704000000000:{\"boundaryFlagged\": 0, \"flagged\": 0, \"judged\": 88, \"medianScore\": 0.8645, \"medianShiftPx\": 0.0, \"mtime\": 1793295704000000000, \"size\": [1280, 1280], \"tileVersionBoundaryFlagged\": 1, \"tileVersionFlagged\": 2, \"uncertain\": 0}",
+  "rel": "generated/maps-whole/hd2d/0106.webp",
+  "map": "0106",
+  "style": "hd2d",
+  "cell": 128,
+  "size": [
+   1280,
+   1280
+  ],
+  "check": {
+   "judged": 88,
+   "flagged": 0,
+   "boundaryFlagged": 0,
+   "uncertain": 0,
+   "tileVersionFlagged": 2,
+   "tileVersionBoundaryFlagged": 1,
+   "mtime": 1793295704000000000,
+   "medianShiftPx": 0.0,
+   "medianScore": 0.8645,
+   "size": [
+    1280,
+    1280
+   ]
+  },
+  "batch": "wholemap-v2-1"
+ },
+ "0107-ghibli": {
+  "stamp": "wholemap-v2-1:0107-ghibli.png:1793295700000000000:{\"boundaryFlagged\": 0, \"flagged\": 0, \"judged\": 66, \"medianScore\": 0.8045, \"medianShiftPx\": 8.0, \"mtime\": 1793295700000000000, \"size\": [1280, 1280], \"tileVersionBoundaryFlagged\": 0, \"tileVersionFlagged\": 1, \"uncertain\": 0}",
+  "rel": "generated/maps-whole/ghibli/0107.webp",
+  "map": "0107",
+  "style": "ghibli",
+  "cell": 128,
+  "size": [
+   1280,
+   1280
+  ],
+  "check": {
+   "judged": 66,
+   "flagged": 0,
+   "boundaryFlagged": 0,
+   "uncertain": 0,
+   "tileVersionFlagged": 1,
+   "tileVersionBoundaryFlagged": 0,
+   "mtime": 1793295700000000000,
+   "medianShiftPx": 8.0,
+   "medianScore": 0.8045,
+   "size": [
+    1280,
+    1280
+   ]
+  },
+  "batch": "wholemap-v2-1"
+ },
+ "0107-hd2d": {
+  "stamp": "wholemap-v2-1:0107-hd2d.png:1793295703000000000:{\"boundaryFlagged\": 0, \"flagged\": 0, \"judged\": 66, \"medianScore\": 0.835, \"medianShiftPx\": 0.0, \"mtime\": 1793295703000000000, \"size\": [1280, 1280], \"tileVersionBoundaryFlagged\": 0, \"tileVersionFlagged\": 0, \"uncertain\": 0}",
+  "rel": "generated/maps-whole/hd2d/0107.webp",
+  "map": "0107",
+  "style": "hd2d",
+  "cell": 128,
+  "size": [
+   1280,
+   1280
+  ],
+  "check": {
+   "judged": 66,
+   "flagged": 0,
+   "boundaryFlagged": 0,
+   "uncertain": 0,
+   "tileVersionFlagged": 0,
+   "tileVersionBoundaryFlagged": 0,
+   "mtime": 1793295703000000000,
+   "medianShiftPx": 0.0,
+   "medianScore": 0.835,
+   "size": [
+    1280,
+    1280
+   ]
+  },
+  "batch": "wholemap-v2-1"
+ },
+ "0200-ghibli": {
+  "stamp": "wholemap-v2-1:0200-ghibli.png:1793298878013997326:{\"aligned\": true, \"boundaryFlagged\": 4, \"flagged\": 4, \"judged\": 360, \"medianScore\": 0.473, \"medianShiftPx\": 0.0, \"mtime\": 1793298878013997326, \"size\": [3072, 1920], \"tileVersionBoundaryFlagged\": 0, \"tileVersionFlagged\": 0, \"uncertain\": 81}",
+  "rel": "generated/maps-whole/ghibli/0200.webp",
+  "map": "0200",
+  "style": "ghibli",
+  "cell": 128,
+  "size": [
+   3072,
+   1920
+  ],
+  "check": {
+   "judged": 360,
+   "flagged": 4,
+   "boundaryFlagged": 4,
+   "uncertain": 81,
+   "tileVersionFlagged": 0,
+   "tileVersionBoundaryFlagged": 0,
+   "mtime": 1793298878013997326,
+   "aligned": true,
+   "medianShiftPx": 0.0,
+   "medianScore": 0.473,
+   "size": [
+    3072,
+    1920
+   ]
+  },
+  "batch": "wholemap-v2-1"
+ },
+ "0200-hd2d": {
+  "stamp": "wholemap-1:0200-hd2d.png:1793293105000000000:{\"boundaryFlagged\": 1, \"flagged\": 3, \"judged\": 360, \"medianScore\": 0.4525, \"medianShiftPx\": 4.0, \"size\": [3072, 1920], \"tileVersionBoundaryFlagged\": 0, \"tileVersionFlagged\": 0, \"uncertain\": 85}",
+  "rel": "generated/maps-whole/hd2d/0200.webp",
+  "map": "0200",
+  "style": "hd2d",
+  "cell": 128,
+  "size": [
+   3072,
+   1920
+  ],
+  "check": {
+   "judged": 360,
+   "flagged": 3,
+   "boundaryFlagged": 1,
+   "uncertain": 85,
+   "tileVersionFlagged": 0,
+   "tileVersionBoundaryFlagged": 0,
+   "medianShiftPx": 4.0,
+   "medianScore": 0.4525,
+   "size": [
+    3072,
+    1920
+   ]
+  },
+  "batch": "wholemap-1"
+ },
+ "0201-ghibli": {
+  "stamp": "wholemap-v2-1:0201-ghibli.png:1793295705000000000:{\"boundaryFlagged\": 0, \"flagged\": 0, \"judged\": 88, \"medianScore\": 0.75, \"medianShiftPx\": 0.0, \"mtime\": 1793295705000000000, \"size\": [1280, 1280], \"tileVersionBoundaryFlagged\": 0, \"tileVersionFlagged\": 1, \"uncertain\": 0}",
+  "rel": "generated/maps-whole/ghibli/0201.webp",
+  "map": "0201",
+  "style": "ghibli",
+  "cell": 128,
+  "size": [
+   1280,
+   1280
+  ],
+  "check": {
+   "judged": 88,
+   "flagged": 0,
+   "boundaryFlagged": 0,
+   "uncertain": 0,
+   "tileVersionFlagged": 1,
+   "tileVersionBoundaryFlagged": 0,
+   "mtime": 1793295705000000000,
+   "medianShiftPx": 0.0,
+   "medianScore": 0.75,
+   "size": [
+    1280,
+    1280
+   ]
+  },
+  "batch": "wholemap-v2-1"
+ },
+ "0201-hd2d": {
+  "stamp": "wholemap-v2-1:0201-hd2d.png:1793295707000000000:{\"boundaryFlagged\": 0, \"flagged\": 1, \"judged\": 88, \"medianScore\": 0.813, \"medianShiftPx\": 0.0, \"mtime\": 1793295707000000000, \"size\": [1280, 1280], \"tileVersionBoundaryFlagged\": 0, \"tileVersionFlagged\": 0, \"uncertain\": 1}",
+  "rel": "generated/maps-whole/hd2d/0201.webp",
+  "map": "0201",
+  "style": "hd2d",
+  "cell": 128,
+  "size": [
+   1280,
+   1280
+  ],
+  "check": {
+   "judged": 88,
+   "flagged": 1,
+   "boundaryFlagged": 0,
+   "uncertain": 1,
+   "tileVersionFlagged": 0,
+   "tileVersionBoundaryFlagged": 0,
+   "mtime": 1793295707000000000,
+   "medianShiftPx": 0.0,
+   "medianScore": 0.813,
+   "size": [
+    1280,
+    1280
+   ]
+  },
+  "batch": "wholemap-v2-1"
+ },
+ "0202-ghibli": {
+  "stamp": "wholemap-v2-1:0202-ghibli.png:1793295707000000000:{\"boundaryFlagged\": 0, \"flagged\": 1, \"judged\": 78, \"medianScore\": 0.8165, \"medianShiftPx\": 8.0, \"mtime\": 1793295707000000000, \"size\": [1280, 1280], \"tileVersionBoundaryFlagged\": 0, \"tileVersionFlagged\": 1, \"uncertain\": 0}",
+  "rel": "generated/maps-whole/ghibli/0202.webp",
+  "map": "0202",
+  "style": "ghibli",
+  "cell": 128,
+  "size": [
+   1280,
+   1280
+  ],
+  "check": {
+   "judged": 78,
+   "flagged": 1,
+   "boundaryFlagged": 0,
+   "uncertain": 0,
+   "tileVersionFlagged": 1,
+   "tileVersionBoundaryFlagged": 0,
+   "mtime": 1793295707000000000,
+   "medianShiftPx": 8.0,
+   "medianScore": 0.8165,
+   "size": [
+    1280,
+    1280
+   ]
+  },
+  "batch": "wholemap-v2-1"
+ },
+ "0202-hd2d": {
+  "stamp": "wholemap-1:0202-hd2d.png:1793293208000000000:{\"boundaryFlagged\": 0, \"flagged\": 0, \"judged\": 78, \"medianScore\": 0.8065, \"medianShiftPx\": 0.0, \"size\": [1280, 1280], \"tileVersionBoundaryFlagged\": 0, \"tileVersionFlagged\": 0, \"uncertain\": 0}",
+  "rel": "generated/maps-whole/hd2d/0202.webp",
+  "map": "0202",
+  "style": "hd2d",
+  "cell": 128,
+  "size": [
+   1280,
+   1280
+  ],
+  "check": {
+   "judged": 78,
+   "flagged": 0,
+   "boundaryFlagged": 0,
+   "uncertain": 0,
+   "tileVersionFlagged": 0,
+   "tileVersionBoundaryFlagged": 0,
+   "medianShiftPx": 0.0,
+   "medianScore": 0.8065,
+   "size": [
+    1280,
+    1280
+   ]
+  },
+  "batch": "wholemap-1"
+ },
+ "0203-ghibli": {
+  "stamp": "wholemap-v2-1:0203-ghibli.png:1793295707000000000:{\"boundaryFlagged\": 1, \"flagged\": 1, \"judged\": 75, \"medianScore\": 0.757, \"medianShiftPx\": 0.0, \"mtime\": 1793295707000000000, \"size\": [1280, 1280], \"tileVersionBoundaryFlagged\": 0, \"tileVersionFlagged\": 0, \"uncertain\": 0}",
+  "rel": "generated/maps-whole/ghibli/0203.webp",
+  "map": "0203",
+  "style": "ghibli",
+  "cell": 128,
+  "size": [
+   1280,
+   1280
+  ],
+  "check": {
+   "judged": 75,
+   "flagged": 1,
+   "boundaryFlagged": 1,
+   "uncertain": 0,
+   "tileVersionFlagged": 0,
+   "tileVersionBoundaryFlagged": 0,
+   "mtime": 1793295707000000000,
+   "medianShiftPx": 0.0,
+   "medianScore": 0.757,
+   "size": [
+    1280,
+    1280
+   ]
+  },
+  "batch": "wholemap-v2-1"
+ },
+ "0203-hd2d": {
+  "stamp": "wholemap-v2-1:0203-hd2d.png:1793295708000000000:{\"boundaryFlagged\": 0, \"flagged\": 0, \"judged\": 75, \"medianScore\": 0.663, \"medianShiftPx\": 8.0, \"mtime\": 1793295708000000000, \"size\": [1280, 1280], \"tileVersionBoundaryFlagged\": 0, \"tileVersionFlagged\": 0, \"uncertain\": 3}",
+  "rel": "generated/maps-whole/hd2d/0203.webp",
+  "map": "0203",
+  "style": "hd2d",
+  "cell": 128,
+  "size": [
+   1280,
+   1280
+  ],
+  "check": {
+   "judged": 75,
+   "flagged": 0,
+   "boundaryFlagged": 0,
+   "uncertain": 3,
+   "tileVersionFlagged": 0,
+   "tileVersionBoundaryFlagged": 0,
+   "mtime": 1793295708000000000,
+   "medianShiftPx": 8.0,
+   "medianScore": 0.663,
+   "size": [
+    1280,
+    1280
+   ]
+  },
+  "batch": "wholemap-v2-1"
+ },
+ "0204-ghibli": {
+  "stamp": "wholemap-v2-1:0204-ghibli.png:1793295801000000000:{\"boundaryFlagged\": 0, \"flagged\": 0, \"judged\": 88, \"medianScore\": 0.837, \"medianShiftPx\": 4.0, \"mtime\": 1793295801000000000, \"size\": [1280, 1280], \"tileVersionBoundaryFlagged\": 0, \"tileVersionFlagged\": 1, \"uncertain\": 0}",
+  "rel": "generated/maps-whole/ghibli/0204.webp",
+  "map": "0204",
+  "style": "ghibli",
+  "cell": 128,
+  "size": [
+   1280,
+   1280
+  ],
+  "check": {
+   "judged": 88,
+   "flagged": 0,
+   "boundaryFlagged": 0,
+   "uncertain": 0,
+   "tileVersionFlagged": 1,
+   "tileVersionBoundaryFlagged": 0,
+   "mtime": 1793295801000000000,
+   "medianShiftPx": 4.0,
+   "medianScore": 0.837,
+   "size": [
+    1280,
+    1280
+   ]
+  },
+  "batch": "wholemap-v2-1"
+ },
+ "0204-hd2d": {
+  "stamp": "wholemap-v2-1:0204-hd2d.png:1793295803000000000:{\"boundaryFlagged\": 0, \"flagged\": 0, \"judged\": 88, \"medianScore\": 0.843, \"medianShiftPx\": 0.0, \"mtime\": 1793295803000000000, \"size\": [1280, 1280], \"tileVersionBoundaryFlagged\": 0, \"tileVersionFlagged\": 2, \"uncertain\": 0}",
+  "rel": "generated/maps-whole/hd2d/0204.webp",
+  "map": "0204",
+  "style": "hd2d",
+  "cell": 128,
+  "size": [
+   1280,
+   1280
+  ],
+  "check": {
+   "judged": 88,
+   "flagged": 0,
+   "boundaryFlagged": 0,
+   "uncertain": 0,
+   "tileVersionFlagged": 2,
+   "tileVersionBoundaryFlagged": 0,
+   "mtime": 1793295803000000000,
+   "medianShiftPx": 0.0,
+   "medianScore": 0.843,
+   "size": [
+    1280,
+    1280
+   ]
+  },
+  "batch": "wholemap-v2-1"
+ },
+ "0205-ghibli": {
+  "stamp": "wholemap-v2-1:0205-ghibli.png:1793295810000000000:{\"boundaryFlagged\": 0, \"flagged\": 0, \"judged\": 90, \"medianScore\": 0.843, \"medianShiftPx\": 4.0, \"mtime\": 1793295810000000000, \"size\": [1280, 1280], \"tileVersionBoundaryFlagged\": 0, \"tileVersionFlagged\": 0, \"uncertain\": 0}",
+  "rel": "generated/maps-whole/ghibli/0205.webp",
+  "map": "0205",
+  "style": "ghibli",
+  "cell": 128,
+  "size": [
+   1280,
+   1280
+  ],
+  "check": {
+   "judged": 90,
+   "flagged": 0,
+   "boundaryFlagged": 0,
+   "uncertain": 0,
+   "tileVersionFlagged": 0,
+   "tileVersionBoundaryFlagged": 0,
+   "mtime": 1793295810000000000,
+   "medianShiftPx": 4.0,
+   "medianScore": 0.843,
+   "size": [
+    1280,
+    1280
+   ]
+  },
+  "batch": "wholemap-v2-1"
+ },
+ "0205-hd2d": {
+  "stamp": "wholemap-v2-1:0205-hd2d.png:1793295811000000000:{\"boundaryFlagged\": 0, \"flagged\": 0, \"judged\": 90, \"medianScore\": 0.8685, \"medianShiftPx\": 0.0, \"mtime\": 1793295811000000000, \"size\": [1280, 1280], \"tileVersionBoundaryFlagged\": 0, \"tileVersionFlagged\": 0, \"uncertain\": 0}",
+  "rel": "generated/maps-whole/hd2d/0205.webp",
+  "map": "0205",
+  "style": "hd2d",
+  "cell": 128,
+  "size": [
+   1280,
+   1280
+  ],
+  "check": {
+   "judged": 90,
+   "flagged": 0,
+   "boundaryFlagged": 0,
+   "uncertain": 0,
+   "tileVersionFlagged": 0,
+   "tileVersionBoundaryFlagged": 0,
+   "mtime": 1793295811000000000,
+   "medianShiftPx": 0.0,
+   "medianScore": 0.8685,
+   "size": [
+    1280,
+    1280
+   ]
+  },
+  "batch": "wholemap-v2-1"
+ },
+ "0207-ghibli": {
+  "stamp": "wholemap-1:0207-ghibli.png:1793293240000000000:{\"boundaryFlagged\": 0, \"flagged\": 0, \"judged\": 368, \"medianScore\": 0.363, \"medianShiftPx\": 12.0, \"size\": [2048, 2944], \"tileVersionBoundaryFlagged\": 0, \"tileVersionFlagged\": 0, \"uncertain\": 131}",
+  "rel": "generated/maps-whole/ghibli/0207.webp",
+  "map": "0207",
+  "style": "ghibli",
+  "cell": 128,
+  "size": [
+   2048,
+   2944
+  ],
+  "check": {
+   "judged": 368,
+   "flagged": 0,
+   "boundaryFlagged": 0,
+   "uncertain": 131,
+   "tileVersionFlagged": 0,
+   "tileVersionBoundaryFlagged": 0,
+   "medianShiftPx": 12.0,
+   "medianScore": 0.363,
+   "size": [
+    2048,
+    2944
+   ]
+  },
+  "batch": "wholemap-1"
+ },
+ "0207-hd2d": {
+  "stamp": "wholemap-1:0207-hd2d.png:1793293234000000000:{\"boundaryFlagged\": 0, \"flagged\": 4, \"judged\": 368, \"medianScore\": 0.4455, \"medianShiftPx\": 4.0, \"size\": [2048, 2944], \"tileVersionBoundaryFlagged\": 0, \"tileVersionFlagged\": 0, \"uncertain\": 98}",
+  "rel": "generated/maps-whole/hd2d/0207.webp",
+  "map": "0207",
+  "style": "hd2d",
+  "cell": 128,
+  "size": [
+   2048,
+   2944
+  ],
+  "check": {
+   "judged": 368,
+   "flagged": 4,
+   "boundaryFlagged": 0,
+   "uncertain": 98,
+   "tileVersionFlagged": 0,
+   "tileVersionBoundaryFlagged": 0,
+   "medianShiftPx": 4.0,
+   "medianScore": 0.4455,
+   "size": [
+    2048,
+    2944
+   ]
+  },
+  "batch": "wholemap-1"
+ },
+ "0300-ghibli": {
+  "stamp": "wholemap-1:0300-ghibli.png:1793293296000000000:{\"boundaryFlagged\": 12, \"flagged\": 16, \"judged\": 480, \"medianScore\": 0.5015000000000001, \"medianShiftPx\": 4.0, \"size\": [3584, 1680], \"tileVersionBoundaryFlagged\": 35, \"tileVersionFlagged\": 179, \"uncertain\": 153}",
+  "rel": "generated/maps-whole/ghibli/0300.webp",
+  "map": "0300",
+  "style": "ghibli",
+  "cell": 112,
+  "size": [
+   3584,
+   1680
+  ],
+  "check": {
+   "judged": 480,
+   "flagged": 16,
+   "boundaryFlagged": 12,
+   "uncertain": 153,
+   "tileVersionFlagged": 179,
+   "tileVersionBoundaryFlagged": 35,
+   "medianShiftPx": 4.0,
+   "medianScore": 0.5015000000000001,
+   "size": [
+    3584,
+    1680
+   ]
+  },
+  "batch": "wholemap-1"
+ },
+ "0300-hd2d": {
+  "stamp": "wholemap-v2-1:0300-hd2d.png:1793295779000000000:{\"boundaryFlagged\": 0, \"flagged\": 0, \"judged\": 480, \"medianScore\": 0.595, \"medianShiftPx\": 4.0, \"mtime\": 1793295779000000000, \"size\": [3584, 1680], \"tileVersionBoundaryFlagged\": 26, \"tileVersionFlagged\": 26, \"uncertain\": 9}",
+  "rel": "generated/maps-whole/hd2d/0300.webp",
+  "map": "0300",
+  "style": "hd2d",
+  "cell": 112,
+  "size": [
+   3584,
+   1680
+  ],
+  "check": {
+   "judged": 480,
+   "flagged": 0,
+   "boundaryFlagged": 0,
+   "uncertain": 9,
+   "tileVersionFlagged": 26,
+   "tileVersionBoundaryFlagged": 26,
+   "mtime": 1793295779000000000,
+   "medianShiftPx": 4.0,
+   "medianScore": 0.595,
+   "size": [
+    3584,
+    1680
+   ]
+  },
+  "batch": "wholemap-v2-1"
+ },
+ "0301-ghibli": {
+  "stamp": "wholemap-v2-1:0301-ghibli.png:1793298882410428141:{\"aligned\": true, \"boundaryFlagged\": 0, \"flagged\": 0, \"judged\": 70, \"medianScore\": 0.7275, \"medianShiftPx\": 4.0, \"mtime\": 1793298882410428141, \"size\": [1280, 1280], \"tileVersionBoundaryFlagged\": 0, \"tileVersionFlagged\": 0, \"uncertain\": 0}",
+  "rel": "generated/maps-whole/ghibli/0301.webp",
+  "map": "0301",
+  "style": "ghibli",
+  "cell": 128,
+  "size": [
+   1280,
+   1280
+  ],
+  "check": {
+   "judged": 70,
+   "flagged": 0,
+   "boundaryFlagged": 0,
+   "uncertain": 0,
+   "tileVersionFlagged": 0,
+   "tileVersionBoundaryFlagged": 0,
+   "mtime": 1793298882410428141,
+   "aligned": true,
+   "medianShiftPx": 4.0,
+   "medianScore": 0.7275,
+   "size": [
+    1280,
+    1280
+   ]
+  },
+  "batch": "wholemap-v2-1"
+ },
+ "0301-hd2d": {
+  "stamp": "wholemap-v2-1:0301-hd2d.png:1793295813000000000:{\"boundaryFlagged\": 0, \"flagged\": 0, \"judged\": 70, \"medianScore\": 0.801, \"medianShiftPx\": 0.0, \"mtime\": 1793295813000000000, \"size\": [1280, 1280], \"tileVersionBoundaryFlagged\": 0, \"tileVersionFlagged\": 0, \"uncertain\": 0}",
+  "rel": "generated/maps-whole/hd2d/0301.webp",
+  "map": "0301",
+  "style": "hd2d",
+  "cell": 128,
+  "size": [
+   1280,
+   1280
+  ],
+  "check": {
+   "judged": 70,
+   "flagged": 0,
+   "boundaryFlagged": 0,
+   "uncertain": 0,
+   "tileVersionFlagged": 0,
+   "tileVersionBoundaryFlagged": 0,
+   "mtime": 1793295813000000000,
+   "medianShiftPx": 0.0,
+   "medianScore": 0.801,
+   "size": [
+    1280,
+    1280
+   ]
+  },
+  "batch": "wholemap-v2-1"
+ },
+ "0302-ghibli": {
+  "stamp": "wholemap-v2-1:0302-ghibli.png:1793298886809078996:{\"aligned\": true, \"boundaryFlagged\": 0, \"flagged\": 0, \"judged\": 71, \"medianScore\": 0.824, \"medianShiftPx\": 0.0, \"mtime\": 1793298886809078996, \"size\": [1280, 1280], \"tileVersionBoundaryFlagged\": 0, \"tileVersionFlagged\": 0, \"uncertain\": 0}",
+  "rel": "generated/maps-whole/ghibli/0302.webp",
+  "map": "0302",
+  "style": "ghibli",
+  "cell": 128,
+  "size": [
+   1280,
+   1280
+  ],
+  "check": {
+   "judged": 71,
+   "flagged": 0,
+   "boundaryFlagged": 0,
+   "uncertain": 0,
+   "tileVersionFlagged": 0,
+   "tileVersionBoundaryFlagged": 0,
+   "mtime": 1793298886809078996,
+   "aligned": true,
+   "medianShiftPx": 0.0,
+   "medianScore": 0.824,
+   "size": [
+    1280,
+    1280
+   ]
+  },
+  "batch": "wholemap-v2-1"
+ },
+ "0302-hd2d": {
+  "stamp": "wholemap-v2-1:0302-hd2d.png:1793295813000000000:{\"boundaryFlagged\": 0, \"flagged\": 1, \"judged\": 71, \"medianScore\": 0.754, \"medianShiftPx\": 0.0, \"mtime\": 1793295813000000000, \"size\": [1280, 1280], \"tileVersionBoundaryFlagged\": 0, \"tileVersionFlagged\": 0, \"uncertain\": 0}",
+  "rel": "generated/maps-whole/hd2d/0302.webp",
+  "map": "0302",
+  "style": "hd2d",
+  "cell": 128,
+  "size": [
+   1280,
+   1280
+  ],
+  "check": {
+   "judged": 71,
+   "flagged": 1,
+   "boundaryFlagged": 0,
+   "uncertain": 0,
+   "tileVersionFlagged": 0,
+   "tileVersionBoundaryFlagged": 0,
+   "mtime": 1793295813000000000,
+   "medianShiftPx": 0.0,
+   "medianScore": 0.754,
+   "size": [
+    1280,
+    1280
+   ]
+  },
+  "batch": "wholemap-v2-1"
+ },
+ "0303-ghibli": {
+  "stamp": "wholemap-1:0303-ghibli.png:1793293356000000000:{\"boundaryFlagged\": 3, \"flagged\": 8, \"judged\": 82, \"medianScore\": 0.701, \"medianShiftPx\": 16.0, \"size\": [1280, 1280], \"tileVersionBoundaryFlagged\": 0, \"tileVersionFlagged\": 0, \"uncertain\": 0}",
+  "rel": "generated/maps-whole/ghibli/0303.webp",
+  "map": "0303",
+  "style": "ghibli",
+  "cell": 128,
+  "size": [
+   1280,
+   1280
+  ],
+  "check": {
+   "judged": 82,
+   "flagged": 8,
+   "boundaryFlagged": 3,
+   "uncertain": 0,
+   "tileVersionFlagged": 0,
+   "tileVersionBoundaryFlagged": 0,
+   "medianShiftPx": 16.0,
+   "medianScore": 0.701,
+   "size": [
+    1280,
+    1280
+   ]
+  },
+  "batch": "wholemap-1"
+ },
+ "0303-hd2d": {
+  "stamp": "wholemap-1:0303-hd2d.png:1793293361000000000:{\"boundaryFlagged\": 0, \"flagged\": 0, \"judged\": 82, \"medianScore\": 0.667, \"medianShiftPx\": 4.0, \"size\": [1280, 1280], \"tileVersionBoundaryFlagged\": 0, \"tileVersionFlagged\": 0, \"uncertain\": 0}",
+  "rel": "generated/maps-whole/hd2d/0303.webp",
+  "map": "0303",
+  "style": "hd2d",
+  "cell": 128,
+  "size": [
+   1280,
+   1280
+  ],
+  "check": {
+   "judged": 82,
+   "flagged": 0,
+   "boundaryFlagged": 0,
+   "uncertain": 0,
+   "tileVersionFlagged": 0,
+   "tileVersionBoundaryFlagged": 0,
+   "medianShiftPx": 4.0,
+   "medianScore": 0.667,
+   "size": [
+    1280,
+    1280
+   ]
+  },
+  "batch": "wholemap-1"
+ },
+ "0304-ghibli": {
+  "stamp": "wholemap-v2-1:0304-ghibli.png:1793295881000000000:{\"boundaryFlagged\": 0, \"flagged\": 0, \"judged\": 79, \"medianScore\": 0.825, \"medianShiftPx\": 4.0, \"mtime\": 1793295881000000000, \"size\": [1280, 1280], \"tileVersionBoundaryFlagged\": 0, \"tileVersionFlagged\": 0, \"uncertain\": 0}",
+  "rel": "generated/maps-whole/ghibli/0304.webp",
+  "map": "0304",
+  "style": "ghibli",
+  "cell": 128,
+  "size": [
+   1280,
+   1280
+  ],
+  "check": {
+   "judged": 79,
+   "flagged": 0,
+   "boundaryFlagged": 0,
+   "uncertain": 0,
+   "tileVersionFlagged": 0,
+   "tileVersionBoundaryFlagged": 0,
+   "mtime": 1793295881000000000,
+   "medianShiftPx": 4.0,
+   "medianScore": 0.825,
+   "size": [
+    1280,
+    1280
+   ]
+  },
+  "batch": "wholemap-v2-1"
+ },
+ "0304-hd2d": {
+  "stamp": "wholemap-v2-1:0304-hd2d.png:1793295902000000000:{\"boundaryFlagged\": 0, \"flagged\": 0, \"judged\": 79, \"medianScore\": 0.751, \"medianShiftPx\": 0.0, \"mtime\": 1793295902000000000, \"size\": [1280, 1280], \"tileVersionBoundaryFlagged\": 0, \"tileVersionFlagged\": 0, \"uncertain\": 0}",
+  "rel": "generated/maps-whole/hd2d/0304.webp",
+  "map": "0304",
+  "style": "hd2d",
+  "cell": 128,
+  "size": [
+   1280,
+   1280
+  ],
+  "check": {
+   "judged": 79,
+   "flagged": 0,
+   "boundaryFlagged": 0,
+   "uncertain": 0,
+   "tileVersionFlagged": 0,
+   "tileVersionBoundaryFlagged": 0,
+   "mtime": 1793295902000000000,
+   "medianShiftPx": 0.0,
+   "medianScore": 0.751,
+   "size": [
+    1280,
+    1280
+   ]
+  },
+  "batch": "wholemap-v2-1"
+ },
+ "0305-ghibli": {
+  "stamp": "wholemap-v2-1:0305-ghibli.png:1793295912000000000:{\"boundaryFlagged\": 0, \"flagged\": 0, \"judged\": 83, \"medianScore\": 0.796, \"medianShiftPx\": 8.0, \"mtime\": 1793295912000000000, \"size\": [1280, 1280], \"tileVersionBoundaryFlagged\": 0, \"tileVersionFlagged\": 0, \"uncertain\": 0}",
+  "rel": "generated/maps-whole/ghibli/0305.webp",
+  "map": "0305",
+  "style": "ghibli",
+  "cell": 128,
+  "size": [
+   1280,
+   1280
+  ],
+  "check": {
+   "judged": 83,
+   "flagged": 0,
+   "boundaryFlagged": 0,
+   "uncertain": 0,
+   "tileVersionFlagged": 0,
+   "tileVersionBoundaryFlagged": 0,
+   "mtime": 1793295912000000000,
+   "medianShiftPx": 8.0,
+   "medianScore": 0.796,
+   "size": [
+    1280,
+    1280
+   ]
+  },
+  "batch": "wholemap-v2-1"
+ },
+ "0305-hd2d": {
+  "stamp": "wholemap-v2-1:0305-hd2d.png:1793295908000000000:{\"boundaryFlagged\": 0, \"flagged\": 0, \"judged\": 83, \"medianScore\": 0.708, \"medianShiftPx\": 4.0, \"mtime\": 1793295908000000000, \"size\": [1280, 1280], \"tileVersionBoundaryFlagged\": 0, \"tileVersionFlagged\": 0, \"uncertain\": 0}",
+  "rel": "generated/maps-whole/hd2d/0305.webp",
+  "map": "0305",
+  "style": "hd2d",
+  "cell": 128,
+  "size": [
+   1280,
+   1280
+  ],
+  "check": {
+   "judged": 83,
+   "flagged": 0,
+   "boundaryFlagged": 0,
+   "uncertain": 0,
+   "tileVersionFlagged": 0,
+   "tileVersionBoundaryFlagged": 0,
+   "mtime": 1793295908000000000,
+   "medianShiftPx": 4.0,
+   "medianScore": 0.708,
+   "size": [
+    1280,
+    1280
+   ]
+  },
+  "batch": "wholemap-v2-1"
+ },
+ "0306-ghibli": {
+  "stamp": "wholemap-v2-1:0306-ghibli.png:1793295908000000000:{\"boundaryFlagged\": 0, \"flagged\": 0, \"judged\": 71, \"medianScore\": 0.827, \"medianShiftPx\": 4.0, \"mtime\": 1793295908000000000, \"size\": [1280, 1280], \"tileVersionBoundaryFlagged\": 0, \"tileVersionFlagged\": 0, \"uncertain\": 0}",
+  "rel": "generated/maps-whole/ghibli/0306.webp",
+  "map": "0306",
+  "style": "ghibli",
+  "cell": 128,
+  "size": [
+   1280,
+   1280
+  ],
+  "check": {
+   "judged": 71,
+   "flagged": 0,
+   "boundaryFlagged": 0,
+   "uncertain": 0,
+   "tileVersionFlagged": 0,
+   "tileVersionBoundaryFlagged": 0,
+   "mtime": 1793295908000000000,
+   "medianShiftPx": 4.0,
+   "medianScore": 0.827,
+   "size": [
+    1280,
+    1280
+   ]
+  },
+  "batch": "wholemap-v2-1"
+ },
+ "0306-hd2d": {
+  "stamp": "wholemap-v2-1:0306-hd2d.png:1793295915000000000:{\"boundaryFlagged\": 0, \"flagged\": 0, \"judged\": 71, \"medianScore\": 0.741, \"medianShiftPx\": 0.0, \"mtime\": 1793295915000000000, \"size\": [1280, 1280], \"tileVersionBoundaryFlagged\": 0, \"tileVersionFlagged\": 0, \"uncertain\": 0}",
+  "rel": "generated/maps-whole/hd2d/0306.webp",
+  "map": "0306",
+  "style": "hd2d",
+  "cell": 128,
+  "size": [
+   1280,
+   1280
+  ],
+  "check": {
+   "judged": 71,
+   "flagged": 0,
+   "boundaryFlagged": 0,
+   "uncertain": 0,
+   "tileVersionFlagged": 0,
+   "tileVersionBoundaryFlagged": 0,
+   "mtime": 1793295915000000000,
+   "medianShiftPx": 0.0,
+   "medianScore": 0.741,
+   "size": [
+    1280,
+    1280
+   ]
+  },
+  "batch": "wholemap-v2-1"
+ },
+ "0307-ghibli": {
+  "stamp": "wholemap-v2-1:0307-ghibli.png:1793298921075690639:{\"aligned\": true, \"boundaryFlagged\": 8, \"flagged\": 15, \"judged\": 600, \"medianScore\": 0.398, \"medianShiftPx\": 4.0, \"mtime\": 1793298921075690639, \"size\": [2688, 2800], \"tileVersionBoundaryFlagged\": 1, \"tileVersionFlagged\": 2, \"uncertain\": 158}",
+  "rel": "generated/maps-whole/ghibli/0307.webp",
+  "map": "0307",
+  "style": "ghibli",
+  "cell": 112,
+  "size": [
+   2688,
+   2800
+  ],
+  "check": {
+   "judged": 600,
+   "flagged": 15,
+   "boundaryFlagged": 8,
+   "uncertain": 158,
+   "tileVersionFlagged": 2,
+   "tileVersionBoundaryFlagged": 1,
+   "mtime": 1793298921075690639,
+   "aligned": true,
+   "medianShiftPx": 4.0,
+   "medianScore": 0.398,
+   "size": [
+    2688,
+    2800
+   ]
+  },
+  "batch": "wholemap-v2-1"
+ },
+ "0307-hd2d": {
+  "stamp": "wholemap-v2-1:0307-hd2d.png:1793298956960811075:{\"aligned\": true, \"boundaryFlagged\": 4, \"flagged\": 8, \"judged\": 600, \"medianScore\": 0.5694999999999999, \"medianShiftPx\": 0.0, \"mtime\": 1793298956960811075, \"size\": [2688, 2800], \"tileVersionBoundaryFlagged\": 2, \"tileVersionFlagged\": 2, \"uncertain\": 58}",
+  "rel": "generated/maps-whole/hd2d/0307.webp",
+  "map": "0307",
+  "style": "hd2d",
+  "cell": 112,
+  "size": [
+   2688,
+   2800
+  ],
+  "check": {
+   "judged": 600,
+   "flagged": 8,
+   "boundaryFlagged": 4,
+   "uncertain": 58,
+   "tileVersionFlagged": 2,
+   "tileVersionBoundaryFlagged": 2,
+   "mtime": 1793298956960811075,
+   "aligned": true,
+   "medianShiftPx": 0.0,
+   "medianScore": 0.5694999999999999,
+   "size": [
+    2688,
+    2800
+   ]
+  },
+  "batch": "wholemap-v2-1"
+ },
+ "0308-ghibli": {
+  "stamp": "wholemap-v2-1:0308-ghibli.png:1793295886000000000:{\"boundaryFlagged\": 0, \"flagged\": 0, \"judged\": 290, \"medianScore\": 0.689, \"medianShiftPx\": 4.0, \"mtime\": 1793295886000000000, \"size\": [1664, 3200], \"tileVersionBoundaryFlagged\": 0, \"tileVersionFlagged\": 29, \"uncertain\": 0}",
+  "rel": "generated/maps-whole/ghibli/0308.webp",
+  "map": "0308",
+  "style": "ghibli",
+  "cell": 128,
+  "size": [
+   1664,
+   3200
+  ],
+  "check": {
+   "judged": 290,
+   "flagged": 0,
+   "boundaryFlagged": 0,
+   "uncertain": 0,
+   "tileVersionFlagged": 29,
+   "tileVersionBoundaryFlagged": 0,
+   "mtime": 1793295886000000000,
+   "medianShiftPx": 4.0,
+   "medianScore": 0.689,
+   "size": [
+    1664,
+    3200
+   ]
+  },
+  "batch": "wholemap-v2-1"
+ },
+ "0308-hd2d": {
+  "stamp": "wholemap-v2-1:0308-hd2d.png:1793295887000000000:{\"boundaryFlagged\": 0, \"flagged\": 4, \"judged\": 290, \"medianScore\": 0.683, \"medianShiftPx\": 4.0, \"mtime\": 1793295887000000000, \"size\": [1664, 3200], \"tileVersionBoundaryFlagged\": 2, \"tileVersionFlagged\": 2, \"uncertain\": 1}",
+  "rel": "generated/maps-whole/hd2d/0308.webp",
+  "map": "0308",
+  "style": "hd2d",
+  "cell": 128,
+  "size": [
+   1664,
+   3200
+  ],
+  "check": {
+   "judged": 290,
+   "flagged": 4,
+   "boundaryFlagged": 0,
+   "uncertain": 1,
+   "tileVersionFlagged": 2,
+   "tileVersionBoundaryFlagged": 2,
+   "mtime": 1793295887000000000,
+   "medianShiftPx": 4.0,
+   "medianScore": 0.683,
+   "size": [
+    1664,
+    3200
+   ]
+  },
+  "batch": "wholemap-v2-1"
+ },
+ "0309-ghibli": {
+  "stamp": "wholemap-1:0309-ghibli.png:1793293424000000000:{\"boundaryFlagged\": 0, \"flagged\": 1, \"judged\": 358, \"medianScore\": 0.358, \"medianShiftPx\": 4.0, \"size\": [1536, 3840], \"tileVersionBoundaryFlagged\": 0, \"tileVersionFlagged\": 0, \"uncertain\": 150}",
+  "rel": "generated/maps-whole/ghibli/0309.webp",
+  "map": "0309",
+  "style": "ghibli",
+  "cell": 128,
+  "size": [
+   1536,
+   3840
+  ],
+  "check": {
+   "judged": 358,
+   "flagged": 1,
+   "boundaryFlagged": 0,
+   "uncertain": 150,
+   "tileVersionFlagged": 0,
+   "tileVersionBoundaryFlagged": 0,
+   "medianShiftPx": 4.0,
+   "medianScore": 0.358,
+   "size": [
+    1536,
+    3840
+   ]
+  },
+  "batch": "wholemap-1"
+ },
+ "0309-hd2d": {
+  "stamp": "wholemap-1:0309-hd2d.png:1793293428000000000:{\"boundaryFlagged\": 1, \"flagged\": 4, \"judged\": 358, \"medianScore\": 0.4425, \"medianShiftPx\": 4.0, \"size\": [1536, 3840], \"tileVersionBoundaryFlagged\": 0, \"tileVersionFlagged\": 0, \"uncertain\": 105}",
+  "rel": "generated/maps-whole/hd2d/0309.webp",
+  "map": "0309",
+  "style": "hd2d",
+  "cell": 128,
+  "size": [
+   1536,
+   3840
+  ],
+  "check": {
+   "judged": 358,
+   "flagged": 4,
+   "boundaryFlagged": 1,
+   "uncertain": 105,
+   "tileVersionFlagged": 0,
+   "tileVersionBoundaryFlagged": 0,
+   "medianShiftPx": 4.0,
+   "medianScore": 0.4425,
+   "size": [
+    1536,
+    3840
+   ]
+  },
+  "batch": "wholemap-1"
+ },
+ "0400-ghibli": {
+  "stamp": "wholemap-v2-1:0400-ghibli.png:1793295962000000000:{\"boundaryFlagged\": 0, \"flagged\": 0, \"judged\": 448, \"medianScore\": 0.7075, \"medianShiftPx\": 12.0, \"mtime\": 1793295962000000000, \"size\": [2048, 3584], \"tileVersionBoundaryFlagged\": 25, \"tileVersionFlagged\": 26, \"uncertain\": 10}",
+  "rel": "generated/maps-whole/ghibli/0400.webp",
+  "map": "0400",
+  "style": "ghibli",
+  "cell": 128,
+  "size": [
+   2048,
+   3584
+  ],
+  "check": {
+   "judged": 448,
+   "flagged": 0,
+   "boundaryFlagged": 0,
+   "uncertain": 10,
+   "tileVersionFlagged": 26,
+   "tileVersionBoundaryFlagged": 25,
+   "mtime": 1793295962000000000,
+   "medianShiftPx": 12.0,
+   "medianScore": 0.7075,
+   "size": [
+    2048,
+    3584
+   ]
+  },
+  "batch": "wholemap-v2-1"
+ },
+ "0400-hd2d": {
+  "stamp": "wholemap-v2-1:0400-hd2d.png:1793298988594062057:{\"aligned\": true, \"boundaryFlagged\": 39, \"flagged\": 41, \"judged\": 448, \"medianScore\": 0.5914999999999999, \"medianShiftPx\": 0.0, \"mtime\": 1793298988594062057, \"size\": [2048, 3584], \"tileVersionBoundaryFlagged\": 9, \"tileVersionFlagged\": 10, \"uncertain\": 5}",
+  "rel": "generated/maps-whole/hd2d/0400.webp",
+  "map": "0400",
+  "style": "hd2d",
+  "cell": 128,
+  "size": [
+   2048,
+   3584
+  ],
+  "check": {
+   "judged": 448,
+   "flagged": 41,
+   "boundaryFlagged": 39,
+   "uncertain": 5,
+   "tileVersionFlagged": 10,
+   "tileVersionBoundaryFlagged": 9,
+   "mtime": 1793298988594062057,
+   "aligned": true,
+   "medianShiftPx": 0.0,
+   "medianScore": 0.5914999999999999,
+   "size": [
+    2048,
+    3584
+   ]
+  },
+  "batch": "wholemap-v2-1"
+ },
+ "0401-ghibli": {
+  "stamp": "wholemap-v2-1:0401-ghibli.png:1793295984000000000:{\"boundaryFlagged\": 0, \"flagged\": 0, \"judged\": 68, \"medianScore\": 0.837, \"medianShiftPx\": 10.0, \"mtime\": 1793295984000000000, \"size\": [1280, 1280], \"tileVersionBoundaryFlagged\": 0, \"tileVersionFlagged\": 0, \"uncertain\": 0}",
+  "rel": "generated/maps-whole/ghibli/0401.webp",
+  "map": "0401",
+  "style": "ghibli",
+  "cell": 128,
+  "size": [
+   1280,
+   1280
+  ],
+  "check": {
+   "judged": 68,
+   "flagged": 0,
+   "boundaryFlagged": 0,
+   "uncertain": 0,
+   "tileVersionFlagged": 0,
+   "tileVersionBoundaryFlagged": 0,
+   "mtime": 1793295984000000000,
+   "medianShiftPx": 10.0,
+   "medianScore": 0.837,
+   "size": [
+    1280,
+    1280
+   ]
+  },
+  "batch": "wholemap-v2-1"
+ },
+ "0401-hd2d": {
+  "stamp": "wholemap-v2-1:0401-hd2d.png:1793295999000000000:{\"boundaryFlagged\": 2, \"flagged\": 2, \"judged\": 68, \"medianScore\": 0.735, \"medianShiftPx\": 8.0, \"mtime\": 1793295999000000000, \"size\": [1280, 1280], \"tileVersionBoundaryFlagged\": 0, \"tileVersionFlagged\": 0, \"uncertain\": 0}",
+  "rel": "generated/maps-whole/hd2d/0401.webp",
+  "map": "0401",
+  "style": "hd2d",
+  "cell": 128,
+  "size": [
+   1280,
+   1280
+  ],
+  "check": {
+   "judged": 68,
+   "flagged": 2,
+   "boundaryFlagged": 2,
+   "uncertain": 0,
+   "tileVersionFlagged": 0,
+   "tileVersionBoundaryFlagged": 0,
+   "mtime": 1793295999000000000,
+   "medianShiftPx": 8.0,
+   "medianScore": 0.735,
+   "size": [
+    1280,
+    1280
+   ]
+  },
+  "batch": "wholemap-v2-1"
+ },
+ "0402-ghibli": {
+  "stamp": "wholemap-v2-1:0402-ghibli.png:1793298994497352781:{\"aligned\": true, \"boundaryFlagged\": 0, \"flagged\": 0, \"judged\": 67, \"medianScore\": 0.827, \"medianShiftPx\": 0.0, \"mtime\": 1793298994497352781, \"size\": [1280, 1280], \"tileVersionBoundaryFlagged\": 0, \"tileVersionFlagged\": 0, \"uncertain\": 0}",
+  "rel": "generated/maps-whole/ghibli/0402.webp",
+  "map": "0402",
+  "style": "ghibli",
+  "cell": 128,
+  "size": [
+   1280,
+   1280
+  ],
+  "check": {
+   "judged": 67,
+   "flagged": 0,
+   "boundaryFlagged": 0,
+   "uncertain": 0,
+   "tileVersionFlagged": 0,
+   "tileVersionBoundaryFlagged": 0,
+   "mtime": 1793298994497352781,
+   "aligned": true,
+   "medianShiftPx": 0.0,
+   "medianScore": 0.827,
+   "size": [
+    1280,
+    1280
+   ]
+  },
+  "batch": "wholemap-v2-1"
+ },
+ "0402-hd2d": {
+  "stamp": "wholemap-v2-1:0402-hd2d.png:1793299000605644569:{\"aligned\": true, \"boundaryFlagged\": 1, \"flagged\": 1, \"judged\": 67, \"medianScore\": 0.713, \"medianShiftPx\": 0.0, \"mtime\": 1793299000605644569, \"size\": [1280, 1280], \"tileVersionBoundaryFlagged\": 0, \"tileVersionFlagged\": 1, \"uncertain\": 0}",
+  "rel": "generated/maps-whole/hd2d/0402.webp",
+  "map": "0402",
+  "style": "hd2d",
+  "cell": 128,
+  "size": [
+   1280,
+   1280
+  ],
+  "check": {
+   "judged": 67,
+   "flagged": 1,
+   "boundaryFlagged": 1,
+   "uncertain": 0,
+   "tileVersionFlagged": 1,
+   "tileVersionBoundaryFlagged": 0,
+   "mtime": 1793299000605644569,
+   "aligned": true,
+   "medianShiftPx": 0.0,
+   "medianScore": 0.713,
+   "size": [
+    1280,
+    1280
+   ]
+  },
+  "batch": "wholemap-v2-1"
+ },
+ "0403-ghibli": {
+  "stamp": "wholemap-v2-1:0403-ghibli.png:1793296012000000000:{\"boundaryFlagged\": 0, \"flagged\": 0, \"judged\": 69, \"medianScore\": 0.802, \"medianShiftPx\": 0.0, \"mtime\": 1793296012000000000, \"size\": [1280, 1280], \"tileVersionBoundaryFlagged\": 3, \"tileVersionFlagged\": 3, \"uncertain\": 0}",
+  "rel": "generated/maps-whole/ghibli/0403.webp",
+  "map": "0403",
+  "style": "ghibli",
+  "cell": 128,
+  "size": [
+   1280,
+   1280
+  ],
+  "check": {
+   "judged": 69,
+   "flagged": 0,
+   "boundaryFlagged": 0,
+   "uncertain": 0,
+   "tileVersionFlagged": 3,
+   "tileVersionBoundaryFlagged": 3,
+   "mtime": 1793296012000000000,
+   "medianShiftPx": 0.0,
+   "medianScore": 0.802,
+   "size": [
+    1280,
+    1280
+   ]
+  },
+  "batch": "wholemap-v2-1"
+ },
+ "0403-hd2d": {
+  "stamp": "wholemap-v2-1:0403-hd2d.png:1793296016000000000:{\"boundaryFlagged\": 0, \"flagged\": 0, \"judged\": 69, \"medianScore\": 0.807, \"medianShiftPx\": 0.0, \"mtime\": 1793296016000000000, \"size\": [1280, 1280], \"tileVersionBoundaryFlagged\": 2, \"tileVersionFlagged\": 2, \"uncertain\": 0}",
+  "rel": "generated/maps-whole/hd2d/0403.webp",
+  "map": "0403",
+  "style": "hd2d",
+  "cell": 128,
+  "size": [
+   1280,
+   1280
+  ],
+  "check": {
+   "judged": 69,
+   "flagged": 0,
+   "boundaryFlagged": 0,
+   "uncertain": 0,
+   "tileVersionFlagged": 2,
+   "tileVersionBoundaryFlagged": 2,
+   "mtime": 1793296016000000000,
+   "medianShiftPx": 0.0,
+   "medianScore": 0.807,
+   "size": [
+    1280,
+    1280
+   ]
+  },
+  "batch": "wholemap-v2-1"
+ },
+ "0404-ghibli": {
+  "stamp": "wholemap-v2-1:0404-ghibli.png:1793299010508493968:{\"aligned\": true, \"boundaryFlagged\": 0, \"flagged\": 0, \"judged\": 117, \"medianScore\": 0.826, \"medianShiftPx\": 0.0, \"mtime\": 1793299010508493968, \"size\": [1536, 1536], \"tileVersionBoundaryFlagged\": 2, \"tileVersionFlagged\": 3, \"uncertain\": 0}",
+  "rel": "generated/maps-whole/ghibli/0404.webp",
+  "map": "0404",
+  "style": "ghibli",
+  "cell": 128,
+  "size": [
+   1536,
+   1536
+  ],
+  "check": {
+   "judged": 117,
+   "flagged": 0,
+   "boundaryFlagged": 0,
+   "uncertain": 0,
+   "tileVersionFlagged": 3,
+   "tileVersionBoundaryFlagged": 2,
+   "mtime": 1793299010508493968,
+   "aligned": true,
+   "medianShiftPx": 0.0,
+   "medianScore": 0.826,
+   "size": [
+    1536,
+    1536
+   ]
+  },
+  "batch": "wholemap-v2-1"
+ },
+ "0404-hd2d": {
+  "stamp": "wholemap-v2-1:0404-hd2d.png:1793299020179677611:{\"aligned\": true, \"boundaryFlagged\": 0, \"flagged\": 0, \"judged\": 117, \"medianScore\": 0.678, \"medianShiftPx\": 0.0, \"mtime\": 1793299020179677611, \"size\": [1536, 1536], \"tileVersionBoundaryFlagged\": 1, \"tileVersionFlagged\": 1, \"uncertain\": 0}",
+  "rel": "generated/maps-whole/hd2d/0404.webp",
+  "map": "0404",
+  "style": "hd2d",
+  "cell": 128,
+  "size": [
+   1536,
+   1536
+  ],
+  "check": {
+   "judged": 117,
+   "flagged": 0,
+   "boundaryFlagged": 0,
+   "uncertain": 0,
+   "tileVersionFlagged": 1,
+   "tileVersionBoundaryFlagged": 1,
+   "mtime": 1793299020179677611,
+   "aligned": true,
+   "medianShiftPx": 0.0,
+   "medianScore": 0.678,
+   "size": [
+    1536,
+    1536
+   ]
+  },
+  "batch": "wholemap-v2-1"
+ },
+ "0405-ghibli": {
+  "stamp": "wholemap-v2-1:0405-ghibli.png:1793299026528283900:{\"aligned\": true, \"boundaryFlagged\": 0, \"flagged\": 0, \"judged\": 109, \"medianScore\": 0.843, \"medianShiftPx\": 0.0, \"mtime\": 1793299026528283900, \"size\": [1280, 1536], \"tileVersionBoundaryFlagged\": 4, \"tileVersionFlagged\": 4, \"uncertain\": 0}",
+  "rel": "generated/maps-whole/ghibli/0405.webp",
+  "map": "0405",
+  "style": "ghibli",
+  "cell": 128,
+  "size": [
+   1280,
+   1536
+  ],
+  "check": {
+   "judged": 109,
+   "flagged": 0,
+   "boundaryFlagged": 0,
+   "uncertain": 0,
+   "tileVersionFlagged": 4,
+   "tileVersionBoundaryFlagged": 4,
+   "mtime": 1793299026528283900,
+   "aligned": true,
+   "medianShiftPx": 0.0,
+   "medianScore": 0.843,
+   "size": [
+    1280,
+    1536
+   ]
+  },
+  "batch": "wholemap-v2-1"
+ },
+ "0405-hd2d": {
+  "stamp": "wholemap-v2-1:0405-hd2d.png:1793296060000000000:{\"boundaryFlagged\": 0, \"flagged\": 0, \"judged\": 109, \"medianScore\": 0.8, \"medianShiftPx\": 4.0, \"mtime\": 1793296060000000000, \"size\": [1280, 1536], \"tileVersionBoundaryFlagged\": 3, \"tileVersionFlagged\": 3, \"uncertain\": 0}",
+  "rel": "generated/maps-whole/hd2d/0405.webp",
+  "map": "0405",
+  "style": "hd2d",
+  "cell": 128,
+  "size": [
+   1280,
+   1536
+  ],
+  "check": {
+   "judged": 109,
+   "flagged": 0,
+   "boundaryFlagged": 0,
+   "uncertain": 0,
+   "tileVersionFlagged": 3,
+   "tileVersionBoundaryFlagged": 3,
+   "mtime": 1793296060000000000,
+   "medianShiftPx": 4.0,
+   "medianScore": 0.8,
+   "size": [
+    1280,
+    1536
+   ]
+  },
+  "batch": "wholemap-v2-1"
+ },
+ "0406-ghibli": {
+  "stamp": "wholemap-v2-1:0406-ghibli.png:1793299031788511486:{\"aligned\": true, \"boundaryFlagged\": 1, \"flagged\": 1, \"judged\": 88, \"medianScore\": 0.801, \"medianShiftPx\": 0.0, \"mtime\": 1793299031788511486, \"size\": [1280, 1280], \"tileVersionBoundaryFlagged\": 0, \"tileVersionFlagged\": 0, \"uncertain\": 0}",
+  "rel": "generated/maps-whole/ghibli/0406.webp",
+  "map": "0406",
+  "style": "ghibli",
+  "cell": 128,
+  "size": [
+   1280,
+   1280
+  ],
+  "check": {
+   "judged": 88,
+   "flagged": 1,
+   "boundaryFlagged": 1,
+   "uncertain": 0,
+   "tileVersionFlagged": 0,
+   "tileVersionBoundaryFlagged": 0,
+   "mtime": 1793299031788511486,
+   "aligned": true,
+   "medianShiftPx": 0.0,
+   "medianScore": 0.801,
+   "size": [
+    1280,
+    1280
+   ]
+  },
+  "batch": "wholemap-v2-1"
+ },
+ "0406-hd2d": {
+  "stamp": "wholemap-v2-1:0406-hd2d.png:1793296101000000000:{\"boundaryFlagged\": 0, \"flagged\": 0, \"judged\": 88, \"medianScore\": 0.835, \"medianShiftPx\": 0.0, \"mtime\": 1793296101000000000, \"size\": [1280, 1280], \"tileVersionBoundaryFlagged\": 0, \"tileVersionFlagged\": 0, \"uncertain\": 0}",
+  "rel": "generated/maps-whole/hd2d/0406.webp",
+  "map": "0406",
+  "style": "hd2d",
+  "cell": 128,
+  "size": [
+   1280,
+   1280
+  ],
+  "check": {
+   "judged": 88,
+   "flagged": 0,
+   "boundaryFlagged": 0,
+   "uncertain": 0,
+   "tileVersionFlagged": 0,
+   "tileVersionBoundaryFlagged": 0,
+   "mtime": 1793296101000000000,
+   "medianShiftPx": 0.0,
+   "medianScore": 0.835,
+   "size": [
+    1280,
+    1280
+   ]
+  },
+  "batch": "wholemap-v2-1"
+ },
+ "0407-ghibli": {
+  "stamp": "wholemap-v2-1:0407-ghibli.png:1793296111000000000:{\"boundaryFlagged\": 0, \"flagged\": 0, \"judged\": 90, \"medianScore\": 0.863, \"medianShiftPx\": 0.0, \"mtime\": 1793296111000000000, \"size\": [1280, 1280], \"tileVersionBoundaryFlagged\": 1, \"tileVersionFlagged\": 1, \"uncertain\": 0}",
+  "rel": "generated/maps-whole/ghibli/0407.webp",
+  "map": "0407",
+  "style": "ghibli",
+  "cell": 128,
+  "size": [
+   1280,
+   1280
+  ],
+  "check": {
+   "judged": 90,
+   "flagged": 0,
+   "boundaryFlagged": 0,
+   "uncertain": 0,
+   "tileVersionFlagged": 1,
+   "tileVersionBoundaryFlagged": 1,
+   "mtime": 1793296111000000000,
+   "medianShiftPx": 0.0,
+   "medianScore": 0.863,
+   "size": [
+    1280,
+    1280
+   ]
+  },
+  "batch": "wholemap-v2-1"
+ },
+ "0407-hd2d": {
+  "stamp": "wholemap-v2-1:0407-hd2d.png:1793296119000000000:{\"boundaryFlagged\": 1, \"flagged\": 1, \"judged\": 90, \"medianScore\": 0.851, \"medianShiftPx\": 0.0, \"mtime\": 1793296119000000000, \"size\": [1280, 1280], \"tileVersionBoundaryFlagged\": 1, \"tileVersionFlagged\": 1, \"uncertain\": 0}",
+  "rel": "generated/maps-whole/hd2d/0407.webp",
+  "map": "0407",
+  "style": "hd2d",
+  "cell": 128,
+  "size": [
+   1280,
+   1280
+  ],
+  "check": {
+   "judged": 90,
+   "flagged": 1,
+   "boundaryFlagged": 1,
+   "uncertain": 0,
+   "tileVersionFlagged": 1,
+   "tileVersionBoundaryFlagged": 1,
+   "mtime": 1793296119000000000,
+   "medianShiftPx": 0.0,
+   "medianScore": 0.851,
+   "size": [
+    1280,
+    1280
+   ]
+  },
+  "batch": "wholemap-v2-1"
+ },
+ "0408-ghibli": {
+  "stamp": "wholemap-v2-1:0408-ghibli.png:1793296090000000000:{\"boundaryFlagged\": 2, \"flagged\": 2, \"judged\": 333, \"medianScore\": 0.737, \"medianShiftPx\": 4.0, \"mtime\": 1793296090000000000, \"size\": [3072, 1920], \"tileVersionBoundaryFlagged\": 0, \"tileVersionFlagged\": 0, \"uncertain\": 0}",
+  "rel": "generated/maps-whole/ghibli/0408.webp",
+  "map": "0408",
+  "style": "ghibli",
+  "cell": 128,
+  "size": [
+   3072,
+   1920
+  ],
+  "check": {
+   "judged": 333,
+   "flagged": 2,
+   "boundaryFlagged": 2,
+   "uncertain": 0,
+   "tileVersionFlagged": 0,
+   "tileVersionBoundaryFlagged": 0,
+   "mtime": 1793296090000000000,
+   "medianShiftPx": 4.0,
+   "medianScore": 0.737,
+   "size": [
+    3072,
+    1920
+   ]
+  },
+  "batch": "wholemap-v2-1"
+ },
+ "0408-hd2d": {
+  "stamp": "wholemap-v2-1:0408-hd2d.png:1793296095000000000:{\"boundaryFlagged\": 2, \"flagged\": 4, \"judged\": 333, \"medianScore\": 0.704, \"medianShiftPx\": 4.0, \"mtime\": 1793296095000000000, \"size\": [3072, 1920], \"tileVersionBoundaryFlagged\": 0, \"tileVersionFlagged\": 0, \"uncertain\": 0}",
+  "rel": "generated/maps-whole/hd2d/0408.webp",
+  "map": "0408",
+  "style": "hd2d",
+  "cell": 128,
+  "size": [
+   3072,
+   1920
+  ],
+  "check": {
+   "judged": 333,
+   "flagged": 4,
+   "boundaryFlagged": 2,
+   "uncertain": 0,
+   "tileVersionFlagged": 0,
+   "tileVersionBoundaryFlagged": 0,
+   "mtime": 1793296095000000000,
+   "medianShiftPx": 4.0,
+   "medianScore": 0.704,
+   "size": [
+    3072,
+    1920
+   ]
+  },
+  "batch": "wholemap-v2-1"
+ },
+ "0409-ghibli": {
+  "stamp": "wholemap-v2-1:0409-ghibli.png:1793299061709004617:{\"aligned\": true, \"boundaryFlagged\": 7, \"flagged\": 11, \"judged\": 480, \"medianScore\": 0.3225, \"medianShiftPx\": 4.0, \"mtime\": 1793299061709004617, \"size\": [3072, 2560], \"tileVersionBoundaryFlagged\": 3, \"tileVersionFlagged\": 3, \"uncertain\": 222}",
+  "rel": "generated/maps-whole/ghibli/0409.webp",
+  "map": "0409",
+  "style": "ghibli",
+  "cell": 128,
+  "size": [
+   3072,
+   2560
+  ],
+  "check": {
+   "judged": 480,
+   "flagged": 11,
+   "boundaryFlagged": 7,
+   "uncertain": 222,
+   "tileVersionFlagged": 3,
+   "tileVersionBoundaryFlagged": 3,
+   "mtime": 1793299061709004617,
+   "aligned": true,
+   "medianShiftPx": 4.0,
+   "medianScore": 0.3225,
+   "size": [
+    3072,
+    2560
+   ]
+  },
+  "batch": "wholemap-v2-1"
+ },
+ "0409-hd2d": {
+  "stamp": "wholemap-1:0409-hd2d.png:1793293700000000000:{\"boundaryFlagged\": 0, \"flagged\": 0, \"judged\": 480, \"medianScore\": 0.4515, \"medianShiftPx\": 4.0, \"size\": [3072, 2560], \"tileVersionBoundaryFlagged\": 2, \"tileVersionFlagged\": 2, \"uncertain\": 151}",
+  "rel": "generated/maps-whole/hd2d/0409.webp",
+  "map": "0409",
+  "style": "hd2d",
+  "cell": 128,
+  "size": [
+   3072,
+   2560
+  ],
+  "check": {
+   "judged": 480,
+   "flagged": 0,
+   "boundaryFlagged": 0,
+   "uncertain": 151,
+   "tileVersionFlagged": 2,
+   "tileVersionBoundaryFlagged": 2,
+   "medianShiftPx": 4.0,
+   "medianScore": 0.4515,
+   "size": [
+    3072,
+    2560
+   ]
+  },
+  "batch": "wholemap-1"
+ },
+ "0500-ghibli": {
+  "stamp": "wholemap-1:0500-ghibli.png:1793293695000000000:{\"boundaryFlagged\": 30, \"flagged\": 32, \"judged\": 432, \"medianScore\": 0.539, \"medianShiftPx\": 4.0, \"size\": [3072, 2304], \"tileVersionBoundaryFlagged\": 45, \"tileVersionFlagged\": 49, \"uncertain\": 8}",
+  "rel": "generated/maps-whole/ghibli/0500.webp",
+  "map": "0500",
+  "style": "ghibli",
+  "cell": 128,
+  "size": [
+   3072,
+   2304
+  ],
+  "check": {
+   "judged": 432,
+   "flagged": 32,
+   "boundaryFlagged": 30,
+   "uncertain": 8,
+   "tileVersionFlagged": 49,
+   "tileVersionBoundaryFlagged": 45,
+   "medianShiftPx": 4.0,
+   "medianScore": 0.539,
+   "size": [
+    3072,
+    2304
+   ]
+  },
+  "batch": "wholemap-1"
+ },
+ "0500-hd2d": {
+  "stamp": "wholemap-1:0500-hd2d.png:1793293694000000000:{\"boundaryFlagged\": 22, \"flagged\": 24, \"judged\": 432, \"medianScore\": 0.6385000000000001, \"medianShiftPx\": 0.0, \"size\": [3072, 2304], \"tileVersionBoundaryFlagged\": 22, \"tileVersionFlagged\": 31, \"uncertain\": 0}",
+  "rel": "generated/maps-whole/hd2d/0500.webp",
+  "map": "0500",
+  "style": "hd2d",
+  "cell": 128,
+  "size": [
+   3072,
+   2304
+  ],
+  "check": {
+   "judged": 432,
+   "flagged": 24,
+   "boundaryFlagged": 22,
+   "uncertain": 0,
+   "tileVersionFlagged": 31,
+   "tileVersionBoundaryFlagged": 22,
+   "medianShiftPx": 0.0,
+   "medianScore": 0.6385000000000001,
+   "size": [
+    3072,
+    2304
+   ]
+  },
+  "batch": "wholemap-1"
+ },
+ "0501-ghibli": {
+  "stamp": "wholemap-v2-1:0501-ghibli.png:1793296157000000000:{\"boundaryFlagged\": 0, \"flagged\": 0, \"judged\": 93, \"medianScore\": 0.83, \"medianShiftPx\": 0.0, \"mtime\": 1793296157000000000, \"size\": [1280, 1280], \"tileVersionBoundaryFlagged\": 0, \"tileVersionFlagged\": 0, \"uncertain\": 0}",
+  "rel": "generated/maps-whole/ghibli/0501.webp",
+  "map": "0501",
+  "style": "ghibli",
+  "cell": 128,
+  "size": [
+   1280,
+   1280
+  ],
+  "check": {
+   "judged": 93,
+   "flagged": 0,
+   "boundaryFlagged": 0,
+   "uncertain": 0,
+   "tileVersionFlagged": 0,
+   "tileVersionBoundaryFlagged": 0,
+   "mtime": 1793296157000000000,
+   "medianShiftPx": 0.0,
+   "medianScore": 0.83,
+   "size": [
+    1280,
+    1280
+   ]
+  },
+  "batch": "wholemap-v2-1"
+ },
+ "0501-hd2d": {
+  "stamp": "wholemap-v2-1:0501-hd2d.png:1793296161000000000:{\"boundaryFlagged\": 1, \"flagged\": 1, \"judged\": 93, \"medianScore\": 0.754, \"medianShiftPx\": 4.0, \"mtime\": 1793296161000000000, \"size\": [1280, 1280], \"tileVersionBoundaryFlagged\": 0, \"tileVersionFlagged\": 0, \"uncertain\": 0}",
+  "rel": "generated/maps-whole/hd2d/0501.webp",
+  "map": "0501",
+  "style": "hd2d",
+  "cell": 128,
+  "size": [
+   1280,
+   1280
+  ],
+  "check": {
+   "judged": 93,
+   "flagged": 1,
+   "boundaryFlagged": 1,
+   "uncertain": 0,
+   "tileVersionFlagged": 0,
+   "tileVersionBoundaryFlagged": 0,
+   "mtime": 1793296161000000000,
+   "medianShiftPx": 4.0,
+   "medianScore": 0.754,
+   "size": [
+    1280,
+    1280
+   ]
+  },
+  "batch": "wholemap-v2-1"
+ },
+ "0502-ghibli": {
+  "stamp": "wholemap-v2-1:0502-ghibli.png:1793296162000000000:{\"boundaryFlagged\": 0, \"flagged\": 0, \"judged\": 91, \"medianScore\": 0.784, \"medianShiftPx\": 8.0, \"mtime\": 1793296162000000000, \"size\": [1280, 1280], \"tileVersionBoundaryFlagged\": 0, \"tileVersionFlagged\": 1, \"uncertain\": 0}",
+  "rel": "generated/maps-whole/ghibli/0502.webp",
+  "map": "0502",
+  "style": "ghibli",
+  "cell": 128,
+  "size": [
+   1280,
+   1280
+  ],
+  "check": {
+   "judged": 91,
+   "flagged": 0,
+   "boundaryFlagged": 0,
+   "uncertain": 0,
+   "tileVersionFlagged": 1,
+   "tileVersionBoundaryFlagged": 0,
+   "mtime": 1793296162000000000,
+   "medianShiftPx": 8.0,
+   "medianScore": 0.784,
+   "size": [
+    1280,
+    1280
+   ]
+  },
+  "batch": "wholemap-v2-1"
+ },
+ "0502-hd2d": {
+  "stamp": "wholemap-v2-1:0502-hd2d.png:1793296190000000000:{\"boundaryFlagged\": 1, \"flagged\": 1, \"judged\": 91, \"medianScore\": 0.714, \"medianShiftPx\": 0.0, \"mtime\": 1793296190000000000, \"size\": [1280, 1280], \"tileVersionBoundaryFlagged\": 0, \"tileVersionFlagged\": 0, \"uncertain\": 0}",
+  "rel": "generated/maps-whole/hd2d/0502.webp",
+  "map": "0502",
+  "style": "hd2d",
+  "cell": 128,
+  "size": [
+   1280,
+   1280
+  ],
+  "check": {
+   "judged": 91,
+   "flagged": 1,
+   "boundaryFlagged": 1,
+   "uncertain": 0,
+   "tileVersionFlagged": 0,
+   "tileVersionBoundaryFlagged": 0,
+   "mtime": 1793296190000000000,
+   "medianShiftPx": 0.0,
+   "medianScore": 0.714,
+   "size": [
+    1280,
+    1280
+   ]
+  },
+  "batch": "wholemap-v2-1"
+ },
+ "0503-ghibli": {
+  "stamp": "wholemap-v2-1:0503-ghibli.png:1793296196000000000:{\"boundaryFlagged\": 0, \"flagged\": 0, \"judged\": 93, \"medianScore\": 0.765, \"medianShiftPx\": 8.0, \"mtime\": 1793296196000000000, \"size\": [1280, 1280], \"tileVersionBoundaryFlagged\": 0, \"tileVersionFlagged\": 1, \"uncertain\": 0}",
+  "rel": "generated/maps-whole/ghibli/0503.webp",
+  "map": "0503",
+  "style": "ghibli",
+  "cell": 128,
+  "size": [
+   1280,
+   1280
+  ],
+  "check": {
+   "judged": 93,
+   "flagged": 0,
+   "boundaryFlagged": 0,
+   "uncertain": 0,
+   "tileVersionFlagged": 1,
+   "tileVersionBoundaryFlagged": 0,
+   "mtime": 1793296196000000000,
+   "medianShiftPx": 8.0,
+   "medianScore": 0.765,
+   "size": [
+    1280,
+    1280
+   ]
+  },
+  "batch": "wholemap-v2-1"
+ },
+ "0503-hd2d": {
+  "stamp": "wholemap-v2-1:0503-hd2d.png:1793296201000000000:{\"boundaryFlagged\": 0, \"flagged\": 0, \"judged\": 93, \"medianScore\": 0.812, \"medianShiftPx\": 0.0, \"mtime\": 1793296201000000000, \"size\": [1280, 1280], \"tileVersionBoundaryFlagged\": 0, \"tileVersionFlagged\": 1, \"uncertain\": 0}",
+  "rel": "generated/maps-whole/hd2d/0503.webp",
+  "map": "0503",
+  "style": "hd2d",
+  "cell": 128,
+  "size": [
+   1280,
+   1280
+  ],
+  "check": {
+   "judged": 93,
+   "flagged": 0,
+   "boundaryFlagged": 0,
+   "uncertain": 0,
+   "tileVersionFlagged": 1,
+   "tileVersionBoundaryFlagged": 0,
+   "mtime": 1793296201000000000,
+   "medianShiftPx": 0.0,
+   "medianScore": 0.812,
+   "size": [
+    1280,
+    1280
+   ]
+  },
+  "batch": "wholemap-v2-1"
+ },
+ "0504-ghibli": {
+  "stamp": "wholemap-v2-1:0504-ghibli.png:1793299066555019369:{\"aligned\": true, \"boundaryFlagged\": 0, \"flagged\": 0, \"judged\": 90, \"medianScore\": 0.7575000000000001, \"medianShiftPx\": 0.0, \"mtime\": 1793299066555019369, \"size\": [1280, 1280], \"tileVersionBoundaryFlagged\": 0, \"tileVersionFlagged\": 0, \"uncertain\": 0}",
+  "rel": "generated/maps-whole/ghibli/0504.webp",
+  "map": "0504",
+  "style": "ghibli",
+  "cell": 128,
+  "size": [
+   1280,
+   1280
+  ],
+  "check": {
+   "judged": 90,
+   "flagged": 0,
+   "boundaryFlagged": 0,
+   "uncertain": 0,
+   "tileVersionFlagged": 0,
+   "tileVersionBoundaryFlagged": 0,
+   "mtime": 1793299066555019369,
+   "aligned": true,
+   "medianShiftPx": 0.0,
+   "medianScore": 0.7575000000000001,
+   "size": [
+    1280,
+    1280
+   ]
+  },
+  "batch": "wholemap-v2-1"
+ },
+ "0504-hd2d": {
+  "stamp": "wholemap-v2-1:0504-hd2d.png:1793296213000000000:{\"boundaryFlagged\": 0, \"flagged\": 0, \"judged\": 90, \"medianScore\": 0.817, \"medianShiftPx\": 0.0, \"mtime\": 1793296213000000000, \"size\": [1280, 1280], \"tileVersionBoundaryFlagged\": 0, \"tileVersionFlagged\": 0, \"uncertain\": 0}",
+  "rel": "generated/maps-whole/hd2d/0504.webp",
+  "map": "0504",
+  "style": "hd2d",
+  "cell": 128,
+  "size": [
+   1280,
+   1280
+  ],
+  "check": {
+   "judged": 90,
+   "flagged": 0,
+   "boundaryFlagged": 0,
+   "uncertain": 0,
+   "tileVersionFlagged": 0,
+   "tileVersionBoundaryFlagged": 0,
+   "mtime": 1793296213000000000,
+   "medianShiftPx": 0.0,
+   "medianScore": 0.817,
+   "size": [
+    1280,
+    1280
+   ]
+  },
+  "batch": "wholemap-v2-1"
+ },
+ "0505-ghibli": {
+  "stamp": "wholemap-v2-1:0505-ghibli.png:1793296220000000000:{\"boundaryFlagged\": 3, \"flagged\": 3, \"judged\": 70, \"medianScore\": 0.7295, \"medianShiftPx\": 16.0, \"mtime\": 1793296220000000000, \"size\": [1280, 1280], \"tileVersionBoundaryFlagged\": 1, \"tileVersionFlagged\": 2, \"uncertain\": 0}",
+  "rel": "generated/maps-whole/ghibli/0505.webp",
+  "map": "0505",
+  "style": "ghibli",
+  "cell": 128,
+  "size": [
+   1280,
+   1280
+  ],
+  "check": {
+   "judged": 70,
+   "flagged": 3,
+   "boundaryFlagged": 3,
+   "uncertain": 0,
+   "tileVersionFlagged": 2,
+   "tileVersionBoundaryFlagged": 1,
+   "mtime": 1793296220000000000,
+   "medianShiftPx": 16.0,
+   "medianScore": 0.7295,
+   "size": [
+    1280,
+    1280
+   ]
+  },
+  "batch": "wholemap-v2-1"
+ },
+ "0505-hd2d": {
+  "stamp": "wholemap-v2-1:0505-hd2d.png:1793296257000000000:{\"boundaryFlagged\": 0, \"flagged\": 0, \"judged\": 70, \"medianScore\": 0.745, \"medianShiftPx\": 4.0, \"mtime\": 1793296257000000000, \"size\": [1280, 1280], \"tileVersionBoundaryFlagged\": 1, \"tileVersionFlagged\": 1, \"uncertain\": 0}",
+  "rel": "generated/maps-whole/hd2d/0505.webp",
+  "map": "0505",
+  "style": "hd2d",
+  "cell": 128,
+  "size": [
+   1280,
+   1280
+  ],
+  "check": {
+   "judged": 70,
+   "flagged": 0,
+   "boundaryFlagged": 0,
+   "uncertain": 0,
+   "tileVersionFlagged": 1,
+   "tileVersionBoundaryFlagged": 1,
+   "mtime": 1793296257000000000,
+   "medianShiftPx": 4.0,
+   "medianScore": 0.745,
+   "size": [
+    1280,
+    1280
+   ]
+  },
+  "batch": "wholemap-v2-1"
+ },
+ "0506-ghibli": {
+  "stamp": "wholemap-v2-1:0506-ghibli.png:1793299071386263298:{\"aligned\": true, \"boundaryFlagged\": 1, \"flagged\": 1, \"judged\": 90, \"medianScore\": 0.822, \"medianShiftPx\": 0.0, \"mtime\": 1793299071386263298, \"size\": [1280, 1280], \"tileVersionBoundaryFlagged\": 0, \"tileVersionFlagged\": 0, \"uncertain\": 0}",
+  "rel": "generated/maps-whole/ghibli/0506.webp",
+  "map": "0506",
+  "style": "ghibli",
+  "cell": 128,
+  "size": [
+   1280,
+   1280
+  ],
+  "check": {
+   "judged": 90,
+   "flagged": 1,
+   "boundaryFlagged": 1,
+   "uncertain": 0,
+   "tileVersionFlagged": 0,
+   "tileVersionBoundaryFlagged": 0,
+   "mtime": 1793299071386263298,
+   "aligned": true,
+   "medianShiftPx": 0.0,
+   "medianScore": 0.822,
+   "size": [
+    1280,
+    1280
+   ]
+  },
+  "batch": "wholemap-v2-1"
+ },
+ "0506-hd2d": {
+  "stamp": "wholemap-v2-1:0506-hd2d.png:1793296266000000000:{\"boundaryFlagged\": 0, \"flagged\": 0, \"judged\": 90, \"medianScore\": 0.756, \"medianShiftPx\": 4.0, \"mtime\": 1793296266000000000, \"size\": [1280, 1280], \"tileVersionBoundaryFlagged\": 0, \"tileVersionFlagged\": 0, \"uncertain\": 0}",
+  "rel": "generated/maps-whole/hd2d/0506.webp",
+  "map": "0506",
+  "style": "hd2d",
+  "cell": 128,
+  "size": [
+   1280,
+   1280
+  ],
+  "check": {
+   "judged": 90,
+   "flagged": 0,
+   "boundaryFlagged": 0,
+   "uncertain": 0,
+   "tileVersionFlagged": 0,
+   "tileVersionBoundaryFlagged": 0,
+   "mtime": 1793296266000000000,
+   "medianShiftPx": 4.0,
+   "medianScore": 0.756,
+   "size": [
+    1280,
+    1280
+   ]
+  },
+  "batch": "wholemap-v2-1"
+ },
+ "0507-ghibli": {
+  "stamp": "wholemap-v2-1:0507-ghibli.png:1793296245000000000:{\"boundaryFlagged\": 0, \"flagged\": 0, \"judged\": 290, \"medianScore\": 0.781, \"medianShiftPx\": 4.0, \"mtime\": 1793296245000000000, \"size\": [1664, 3200], \"tileVersionBoundaryFlagged\": 0, \"tileVersionFlagged\": 29, \"uncertain\": 0}",
+  "rel": "generated/maps-whole/ghibli/0507.webp",
+  "map": "0507",
+  "style": "ghibli",
+  "cell": 128,
+  "size": [
+   1664,
+   3200
+  ],
+  "check": {
+   "judged": 290,
+   "flagged": 0,
+   "boundaryFlagged": 0,
+   "uncertain": 0,
+   "tileVersionFlagged": 29,
+   "tileVersionBoundaryFlagged": 0,
+   "mtime": 1793296245000000000,
+   "medianShiftPx": 4.0,
+   "medianScore": 0.781,
+   "size": [
+    1664,
+    3200
+   ]
+  },
+  "batch": "wholemap-v2-1"
+ },
+ "0507-hd2d": {
+  "stamp": "wholemap-v2-1:0507-hd2d.png:1793299090689435199:{\"aligned\": true, \"boundaryFlagged\": 1, \"flagged\": 3, \"judged\": 290, \"medianScore\": 0.694, \"medianShiftPx\": 0.0, \"mtime\": 1793299090689435199, \"size\": [1664, 3200], \"tileVersionBoundaryFlagged\": 2, \"tileVersionFlagged\": 2, \"uncertain\": 1}",
+  "rel": "generated/maps-whole/hd2d/0507.webp",
+  "map": "0507",
+  "style": "hd2d",
+  "cell": 128,
+  "size": [
+   1664,
+   3200
+  ],
+  "check": {
+   "judged": 290,
+   "flagged": 3,
+   "boundaryFlagged": 1,
+   "uncertain": 1,
+   "tileVersionFlagged": 2,
+   "tileVersionBoundaryFlagged": 2,
+   "mtime": 1793299090689435199,
+   "aligned": true,
+   "medianShiftPx": 0.0,
+   "medianScore": 0.694,
+   "size": [
+    1664,
+    3200
+   ]
+  },
+  "batch": "wholemap-v2-1"
+ },
+ "0508-ghibli": {
+  "stamp": "wholemap-v2-1:0508-ghibli.png:1793299123035272700:{\"aligned\": true, \"boundaryFlagged\": 0, \"flagged\": 0, \"judged\": 552, \"medianScore\": 0.1835, \"medianShiftPx\": 8.0, \"mtime\": 1793299123035272700, \"size\": [2688, 2576], \"tileVersionBoundaryFlagged\": 0, \"tileVersionFlagged\": 0, \"uncertain\": 479}",
+  "rel": "generated/maps-whole/ghibli/0508.webp",
+  "map": "0508",
+  "style": "ghibli",
+  "cell": 112,
+  "size": [
+   2688,
+   2576
+  ],
+  "check": {
+   "judged": 552,
+   "flagged": 0,
+   "boundaryFlagged": 0,
+   "uncertain": 479,
+   "tileVersionFlagged": 0,
+   "tileVersionBoundaryFlagged": 0,
+   "mtime": 1793299123035272700,
+   "aligned": true,
+   "medianShiftPx": 8.0,
+   "medianScore": 0.1835,
+   "size": [
+    2688,
+    2576
+   ]
+  },
+  "batch": "wholemap-v2-1"
+ },
+ "0508-hd2d": {
+  "stamp": "wholemap-1:0508-hd2d.png:1793293907000000000:{\"boundaryFlagged\": 0, \"flagged\": 0, \"judged\": 552, \"medianScore\": 0.3215, \"medianShiftPx\": 12.0, \"size\": [2688, 2576], \"tileVersionBoundaryFlagged\": 0, \"tileVersionFlagged\": 0, \"uncertain\": 264}",
+  "rel": "generated/maps-whole/hd2d/0508.webp",
+  "map": "0508",
+  "style": "hd2d",
+  "cell": 112,
+  "size": [
+   2688,
+   2576
+  ],
+  "check": {
+   "judged": 552,
+   "flagged": 0,
+   "boundaryFlagged": 0,
+   "uncertain": 264,
+   "tileVersionFlagged": 0,
+   "tileVersionBoundaryFlagged": 0,
+   "medianShiftPx": 12.0,
+   "medianScore": 0.3215,
+   "size": [
+    2688,
+    2576
+   ]
+  },
+  "batch": "wholemap-1"
+ },
+ "0509-ghibli": {
+  "stamp": "wholemap-v2-1:0509-ghibli.png:1793299132020263241:{\"aligned\": true, \"boundaryFlagged\": 1, \"flagged\": 2, \"judged\": 156, \"medianScore\": 0.7215, \"medianShiftPx\": 0.0, \"mtime\": 1793299132020263241, \"size\": [1408, 1920], \"tileVersionBoundaryFlagged\": 0, \"tileVersionFlagged\": 1, \"uncertain\": 0}",
+  "rel": "generated/maps-whole/ghibli/0509.webp",
+  "map": "0509",
+  "style": "ghibli",
+  "cell": 128,
+  "size": [
+   1408,
+   1920
+  ],
+  "check": {
+   "judged": 156,
+   "flagged": 2,
+   "boundaryFlagged": 1,
+   "uncertain": 0,
+   "tileVersionFlagged": 1,
+   "tileVersionBoundaryFlagged": 0,
+   "mtime": 1793299132020263241,
+   "aligned": true,
+   "medianShiftPx": 0.0,
+   "medianScore": 0.7215,
+   "size": [
+    1408,
+    1920
+   ]
+  },
+  "batch": "wholemap-v2-1"
+ },
+ "0509-hd2d": {
+  "stamp": "wholemap-v2-1:0509-hd2d.png:1793299141009501238:{\"aligned\": true, \"boundaryFlagged\": 0, \"flagged\": 1, \"judged\": 156, \"medianScore\": 0.7324999999999999, \"medianShiftPx\": 0.0, \"mtime\": 1793299141009501238, \"size\": [1408, 1920], \"tileVersionBoundaryFlagged\": 4, \"tileVersionFlagged\": 7, \"uncertain\": 0}",
+  "rel": "generated/maps-whole/hd2d/0509.webp",
+  "map": "0509",
+  "style": "hd2d",
+  "cell": 128,
+  "size": [
+   1408,
+   1920
+  ],
+  "check": {
+   "judged": 156,
+   "flagged": 1,
+   "boundaryFlagged": 0,
+   "uncertain": 0,
+   "tileVersionFlagged": 7,
+   "tileVersionBoundaryFlagged": 4,
+   "mtime": 1793299141009501238,
+   "aligned": true,
+   "medianShiftPx": 0.0,
+   "medianScore": 0.7324999999999999,
+   "size": [
+    1408,
+    1920
+   ]
+  },
+  "batch": "wholemap-v2-1"
+ },
+ "0601-ghibli": {
+  "stamp": "wholemap-v2-1:0601-ghibli.png:1793296318000000000:{\"boundaryFlagged\": 0, \"flagged\": 0, \"judged\": 93, \"medianScore\": 0.76, \"medianShiftPx\": 8.0, \"mtime\": 1793296318000000000, \"size\": [1280, 1280], \"tileVersionBoundaryFlagged\": 2, \"tileVersionFlagged\": 2, \"uncertain\": 0}",
+  "rel": "generated/maps-whole/ghibli/0601.webp",
+  "map": "0601",
+  "style": "ghibli",
+  "cell": 128,
+  "size": [
+   1280,
+   1280
+  ],
+  "check": {
+   "judged": 93,
+   "flagged": 0,
+   "boundaryFlagged": 0,
+   "uncertain": 0,
+   "tileVersionFlagged": 2,
+   "tileVersionBoundaryFlagged": 2,
+   "mtime": 1793296318000000000,
+   "medianShiftPx": 8.0,
+   "medianScore": 0.76,
+   "size": [
+    1280,
+    1280
+   ]
+  },
+  "batch": "wholemap-v2-1"
+ },
+ "0601-hd2d": {
+  "stamp": "wholemap-v2-1:0601-hd2d.png:1793299146538829725:{\"aligned\": true, \"boundaryFlagged\": 1, \"flagged\": 1, \"judged\": 93, \"medianScore\": 0.777, \"medianShiftPx\": 0.0, \"mtime\": 1793299146538829725, \"size\": [1280, 1280], \"tileVersionBoundaryFlagged\": 1, \"tileVersionFlagged\": 1, \"uncertain\": 0}",
+  "rel": "generated/maps-whole/hd2d/0601.webp",
+  "map": "0601",
+  "style": "hd2d",
+  "cell": 128,
+  "size": [
+   1280,
+   1280
+  ],
+  "check": {
+   "judged": 93,
+   "flagged": 1,
+   "boundaryFlagged": 1,
+   "uncertain": 0,
+   "tileVersionFlagged": 1,
+   "tileVersionBoundaryFlagged": 1,
+   "mtime": 1793299146538829725,
+   "aligned": true,
+   "medianShiftPx": 0.0,
+   "medianScore": 0.777,
+   "size": [
+    1280,
+    1280
+   ]
+  },
+  "batch": "wholemap-v2-1"
+ },
+ "0602-ghibli": {
+  "stamp": "wholemap-v2-1:0602-ghibli.png:1793299153616057802:{\"aligned\": true, \"boundaryFlagged\": 1, \"flagged\": 1, \"judged\": 121, \"medianScore\": 0.772, \"medianShiftPx\": 0.0, \"mtime\": 1793299153616057802, \"size\": [1280, 1664], \"tileVersionBoundaryFlagged\": 5, \"tileVersionFlagged\": 6, \"uncertain\": 0}",
+  "rel": "generated/maps-whole/ghibli/0602.webp",
+  "map": "0602",
+  "style": "ghibli",
+  "cell": 128,
+  "size": [
+   1280,
+   1664
+  ],
+  "check": {
+   "judged": 121,
+   "flagged": 1,
+   "boundaryFlagged": 1,
+   "uncertain": 0,
+   "tileVersionFlagged": 6,
+   "tileVersionBoundaryFlagged": 5,
+   "mtime": 1793299153616057802,
+   "aligned": true,
+   "medianShiftPx": 0.0,
+   "medianScore": 0.772,
+   "size": [
+    1280,
+    1664
+   ]
+  },
+  "batch": "wholemap-v2-1"
+ },
+ "0602-hd2d": {
+  "stamp": "wholemap-1:0602-hd2d.png:1793293934000000000:{\"boundaryFlagged\": 7, \"flagged\": 7, \"judged\": 121, \"medianScore\": 0.557, \"medianShiftPx\": 16.0, \"size\": [1280, 1664], \"tileVersionBoundaryFlagged\": 4, \"tileVersionFlagged\": 5, \"uncertain\": 12}",
+  "rel": "generated/maps-whole/hd2d/0602.webp",
+  "map": "0602",
+  "style": "hd2d",
+  "cell": 128,
+  "size": [
+   1280,
+   1664
+  ],
+  "check": {
+   "judged": 121,
+   "flagged": 7,
+   "boundaryFlagged": 7,
+   "uncertain": 12,
+   "tileVersionFlagged": 5,
+   "tileVersionBoundaryFlagged": 4,
+   "medianShiftPx": 16.0,
+   "medianScore": 0.557,
+   "size": [
+    1280,
+    1664
+   ]
+  },
+  "batch": "wholemap-1"
+ },
+ "0603-ghibli": {
+  "stamp": "wholemap-1:0603-ghibli.png:1793293994000000000:{\"boundaryFlagged\": 4, \"flagged\": 9, \"judged\": 70, \"medianScore\": 0.1815, \"medianShiftPx\": 48.0, \"size\": [1280, 1280], \"tileVersionBoundaryFlagged\": 1, \"tileVersionFlagged\": 1, \"uncertain\": 58}",
+  "rel": "generated/maps-whole/ghibli/0603.webp",
+  "map": "0603",
+  "style": "ghibli",
+  "cell": 128,
+  "size": [
+   1280,
+   1280
+  ],
+  "check": {
+   "judged": 70,
+   "flagged": 9,
+   "boundaryFlagged": 4,
+   "uncertain": 58,
+   "tileVersionFlagged": 1,
+   "tileVersionBoundaryFlagged": 1,
+   "medianShiftPx": 48.0,
+   "medianScore": 0.1815,
+   "size": [
+    1280,
+    1280
+   ]
+  },
+  "batch": "wholemap-1"
+ },
+ "0603-hd2d": {
+  "stamp": "wholemap-v2-1:0603-hd2d.png:1793296353000000000:{\"boundaryFlagged\": 0, \"flagged\": 0, \"judged\": 70, \"medianScore\": 0.8254999999999999, \"medianShiftPx\": 0.0, \"mtime\": 1793296353000000000, \"size\": [1280, 1280], \"tileVersionBoundaryFlagged\": 1, \"tileVersionFlagged\": 1, \"uncertain\": 0}",
+  "rel": "generated/maps-whole/hd2d/0603.webp",
+  "map": "0603",
+  "style": "hd2d",
+  "cell": 128,
+  "size": [
+   1280,
+   1280
+  ],
+  "check": {
+   "judged": 70,
+   "flagged": 0,
+   "boundaryFlagged": 0,
+   "uncertain": 0,
+   "tileVersionFlagged": 1,
+   "tileVersionBoundaryFlagged": 1,
+   "mtime": 1793296353000000000,
+   "medianShiftPx": 0.0,
+   "medianScore": 0.8254999999999999,
+   "size": [
+    1280,
+    1280
+   ]
+  },
+  "batch": "wholemap-v2-1"
+ },
+ "0604-ghibli": {
+  "stamp": "wholemap-v2-1:0604-ghibli.png:1793296362000000000:{\"boundaryFlagged\": 0, \"flagged\": 0, \"judged\": 93, \"medianScore\": 0.739, \"medianShiftPx\": 4.0, \"mtime\": 1793296362000000000, \"size\": [1280, 1280], \"tileVersionBoundaryFlagged\": 2, \"tileVersionFlagged\": 3, \"uncertain\": 0}",
+  "rel": "generated/maps-whole/ghibli/0604.webp",
+  "map": "0604",
+  "style": "ghibli",
+  "cell": 128,
+  "size": [
+   1280,
+   1280
+  ],
+  "check": {
+   "judged": 93,
+   "flagged": 0,
+   "boundaryFlagged": 0,
+   "uncertain": 0,
+   "tileVersionFlagged": 3,
+   "tileVersionBoundaryFlagged": 2,
+   "mtime": 1793296362000000000,
+   "medianShiftPx": 4.0,
+   "medianScore": 0.739,
+   "size": [
+    1280,
+    1280
+   ]
+  },
+  "batch": "wholemap-v2-1"
+ },
+ "0604-hd2d": {
+  "stamp": "wholemap-v2-1:0604-hd2d.png:1793299158894425881:{\"aligned\": true, \"boundaryFlagged\": 0, \"flagged\": 0, \"judged\": 93, \"medianScore\": 0.679, \"medianShiftPx\": 0.0, \"mtime\": 1793299158894425881, \"size\": [1280, 1280], \"tileVersionBoundaryFlagged\": 0, \"tileVersionFlagged\": 0, \"uncertain\": 0}",
+  "rel": "generated/maps-whole/hd2d/0604.webp",
+  "map": "0604",
+  "style": "hd2d",
+  "cell": 128,
+  "size": [
+   1280,
+   1280
+  ],
+  "check": {
+   "judged": 93,
+   "flagged": 0,
+   "boundaryFlagged": 0,
+   "uncertain": 0,
+   "tileVersionFlagged": 0,
+   "tileVersionBoundaryFlagged": 0,
+   "mtime": 1793299158894425881,
+   "aligned": true,
+   "medianShiftPx": 0.0,
+   "medianScore": 0.679,
+   "size": [
+    1280,
+    1280
+   ]
+  },
+  "batch": "wholemap-v2-1"
+ },
+ "0605-ghibli": {
+  "stamp": "wholemap-fixpilot:0605-ghibli.png:1793295409000000000:{\"boundaryFlagged\": 0, \"flagged\": 0, \"judged\": 91, \"medianScore\": 0.828, \"medianShiftPx\": 4.0, \"size\": [1280, 1280], \"tileVersionBoundaryFlagged\": 0, \"tileVersionFlagged\": 1, \"uncertain\": 0}",
+  "rel": "generated/maps-whole/ghibli/0605.webp",
+  "map": "0605",
+  "style": "ghibli",
+  "cell": 128,
+  "size": [
+   1280,
+   1280
+  ],
+  "check": {
+   "judged": 91,
+   "flagged": 0,
+   "boundaryFlagged": 0,
+   "uncertain": 0,
+   "tileVersionFlagged": 1,
+   "tileVersionBoundaryFlagged": 0,
+   "medianShiftPx": 4.0,
+   "medianScore": 0.828,
+   "size": [
+    1280,
+    1280
+   ]
+  },
+  "batch": "wholemap-fixpilot"
+ },
+ "0605-hd2d": {
+  "stamp": "wholemap-fixpilot:0605-hd2d.png:1793295409000000000:{\"boundaryFlagged\": 0, \"flagged\": 1, \"judged\": 91, \"medianScore\": 0.715, \"medianShiftPx\": 0.0, \"size\": [1280, 1280], \"tileVersionBoundaryFlagged\": 0, \"tileVersionFlagged\": 0, \"uncertain\": 0}",
+  "rel": "generated/maps-whole/hd2d/0605.webp",
+  "map": "0605",
+  "style": "hd2d",
+  "cell": 128,
+  "size": [
+   1280,
+   1280
+  ],
+  "check": {
+   "judged": 91,
+   "flagged": 1,
+   "boundaryFlagged": 0,
+   "uncertain": 0,
+   "tileVersionFlagged": 0,
+   "tileVersionBoundaryFlagged": 0,
+   "medianShiftPx": 0.0,
+   "medianScore": 0.715,
+   "size": [
+    1280,
+    1280
+   ]
+  },
+  "batch": "wholemap-fixpilot"
+ },
+ "0606-ghibli": {
+  "stamp": "wholemap-v2-1:0606-ghibli.png:1793296370000000000:{\"boundaryFlagged\": 0, \"flagged\": 0, \"judged\": 84, \"medianScore\": 0.8274999999999999, \"medianShiftPx\": 4.0, \"mtime\": 1793296370000000000, \"size\": [1280, 1280], \"tileVersionBoundaryFlagged\": 0, \"tileVersionFlagged\": 0, \"uncertain\": 0}",
+  "rel": "generated/maps-whole/ghibli/0606.webp",
+  "map": "0606",
+  "style": "ghibli",
+  "cell": 128,
+  "size": [
+   1280,
+   1280
+  ],
+  "check": {
+   "judged": 84,
+   "flagged": 0,
+   "boundaryFlagged": 0,
+   "uncertain": 0,
+   "tileVersionFlagged": 0,
+   "tileVersionBoundaryFlagged": 0,
+   "mtime": 1793296370000000000,
+   "medianShiftPx": 4.0,
+   "medianScore": 0.8274999999999999,
+   "size": [
+    1280,
+    1280
+   ]
+  },
+  "batch": "wholemap-v2-1"
+ },
+ "0606-hd2d": {
+  "stamp": "wholemap-v2-1:0606-hd2d.png:1793296389000000000:{\"boundaryFlagged\": 0, \"flagged\": 0, \"judged\": 84, \"medianScore\": 0.771, \"medianShiftPx\": 4.0, \"mtime\": 1793296389000000000, \"size\": [1280, 1280], \"tileVersionBoundaryFlagged\": 0, \"tileVersionFlagged\": 0, \"uncertain\": 0}",
+  "rel": "generated/maps-whole/hd2d/0606.webp",
+  "map": "0606",
+  "style": "hd2d",
+  "cell": 128,
+  "size": [
+   1280,
+   1280
+  ],
+  "check": {
+   "judged": 84,
+   "flagged": 0,
+   "boundaryFlagged": 0,
+   "uncertain": 0,
+   "tileVersionFlagged": 0,
+   "tileVersionBoundaryFlagged": 0,
+   "mtime": 1793296389000000000,
+   "medianShiftPx": 4.0,
+   "medianScore": 0.771,
+   "size": [
+    1280,
+    1280
+   ]
+  },
+  "batch": "wholemap-v2-1"
+ },
+ "0607-ghibli": {
+  "stamp": "wholemap-v2-1:0607-ghibli.png:1793296389000000000:{\"boundaryFlagged\": 0, \"flagged\": 0, \"judged\": 83, \"medianScore\": 0.757, \"medianShiftPx\": 4.0, \"mtime\": 1793296389000000000, \"size\": [1280, 1280], \"tileVersionBoundaryFlagged\": 1, \"tileVersionFlagged\": 1, \"uncertain\": 0}",
+  "rel": "generated/maps-whole/ghibli/0607.webp",
+  "map": "0607",
+  "style": "ghibli",
+  "cell": 128,
+  "size": [
+   1280,
+   1280
+  ],
+  "check": {
+   "judged": 83,
+   "flagged": 0,
+   "boundaryFlagged": 0,
+   "uncertain": 0,
+   "tileVersionFlagged": 1,
+   "tileVersionBoundaryFlagged": 1,
+   "mtime": 1793296389000000000,
+   "medianShiftPx": 4.0,
+   "medianScore": 0.757,
+   "size": [
+    1280,
+    1280
+   ]
+  },
+  "batch": "wholemap-v2-1"
+ },
+ "0607-hd2d": {
+  "stamp": "wholemap-v2-1:0607-hd2d.png:1793296422000000000:{\"boundaryFlagged\": 0, \"flagged\": 0, \"judged\": 83, \"medianScore\": 0.765, \"medianShiftPx\": 0.0, \"mtime\": 1793296422000000000, \"size\": [1280, 1280], \"tileVersionBoundaryFlagged\": 0, \"tileVersionFlagged\": 0, \"uncertain\": 0}",
+  "rel": "generated/maps-whole/hd2d/0607.webp",
+  "map": "0607",
+  "style": "hd2d",
+  "cell": 128,
+  "size": [
+   1280,
+   1280
+  ],
+  "check": {
+   "judged": 83,
+   "flagged": 0,
+   "boundaryFlagged": 0,
+   "uncertain": 0,
+   "tileVersionFlagged": 0,
+   "tileVersionBoundaryFlagged": 0,
+   "mtime": 1793296422000000000,
+   "medianShiftPx": 0.0,
+   "medianScore": 0.765,
+   "size": [
+    1280,
+    1280
+   ]
+  },
+  "batch": "wholemap-v2-1"
+ },
+ "0608-ghibli": {
+  "stamp": "wholemap-v2-1:0608-ghibli.png:1793296428000000000:{\"boundaryFlagged\": 0, \"flagged\": 0, \"judged\": 84, \"medianScore\": 0.826, \"medianShiftPx\": 0.0, \"mtime\": 1793296428000000000, \"size\": [1280, 1280], \"tileVersionBoundaryFlagged\": 0, \"tileVersionFlagged\": 0, \"uncertain\": 0}",
+  "rel": "generated/maps-whole/ghibli/0608.webp",
+  "map": "0608",
+  "style": "ghibli",
+  "cell": 128,
+  "size": [
+   1280,
+   1280
+  ],
+  "check": {
+   "judged": 84,
+   "flagged": 0,
+   "boundaryFlagged": 0,
+   "uncertain": 0,
+   "tileVersionFlagged": 0,
+   "tileVersionBoundaryFlagged": 0,
+   "mtime": 1793296428000000000,
+   "medianShiftPx": 0.0,
+   "medianScore": 0.826,
+   "size": [
+    1280,
+    1280
+   ]
+  },
+  "batch": "wholemap-v2-1"
+ },
+ "0608-hd2d": {
+  "stamp": "wholemap-v2-1:0608-hd2d.png:1793296436000000000:{\"boundaryFlagged\": 0, \"flagged\": 0, \"judged\": 84, \"medianScore\": 0.769, \"medianShiftPx\": 0.0, \"mtime\": 1793296436000000000, \"size\": [1280, 1280], \"tileVersionBoundaryFlagged\": 0, \"tileVersionFlagged\": 1, \"uncertain\": 0}",
+  "rel": "generated/maps-whole/hd2d/0608.webp",
+  "map": "0608",
+  "style": "hd2d",
+  "cell": 128,
+  "size": [
+   1280,
+   1280
+  ],
+  "check": {
+   "judged": 84,
+   "flagged": 0,
+   "boundaryFlagged": 0,
+   "uncertain": 0,
+   "tileVersionFlagged": 1,
+   "tileVersionBoundaryFlagged": 0,
+   "mtime": 1793296436000000000,
+   "medianShiftPx": 0.0,
+   "medianScore": 0.769,
+   "size": [
+    1280,
+    1280
+   ]
+  },
+  "batch": "wholemap-v2-1"
+ },
+ "0609-ghibli": {
+  "stamp": "wholemap-v2-1:0609-ghibli.png:1793296440000000000:{\"boundaryFlagged\": 2, \"flagged\": 4, \"judged\": 376, \"medianScore\": 0.737, \"medianShiftPx\": 8.0, \"mtime\": 1793296440000000000, \"size\": [3072, 2176], \"tileVersionBoundaryFlagged\": 9, \"tileVersionFlagged\": 17, \"uncertain\": 0}",
+  "rel": "generated/maps-whole/ghibli/0609.webp",
+  "map": "0609",
+  "style": "ghibli",
+  "cell": 128,
+  "size": [
+   3072,
+   2176
+  ],
+  "check": {
+   "judged": 376,
+   "flagged": 4,
+   "boundaryFlagged": 2,
+   "uncertain": 0,
+   "tileVersionFlagged": 17,
+   "tileVersionBoundaryFlagged": 9,
+   "mtime": 1793296440000000000,
+   "medianShiftPx": 8.0,
+   "medianScore": 0.737,
+   "size": [
+    3072,
+    2176
+   ]
+  },
+  "batch": "wholemap-v2-1"
+ },
+ "0609-hd2d": {
+  "stamp": "wholemap-v2-1:0609-hd2d.png:1793296441000000000:{\"boundaryFlagged\": 0, \"flagged\": 0, \"judged\": 376, \"medianScore\": 0.8634999999999999, \"medianShiftPx\": 4.0, \"mtime\": 1793296441000000000, \"size\": [3072, 2176], \"tileVersionBoundaryFlagged\": 7, \"tileVersionFlagged\": 10, \"uncertain\": 0}",
+  "rel": "generated/maps-whole/hd2d/0609.webp",
+  "map": "0609",
+  "style": "hd2d",
+  "cell": 128,
+  "size": [
+   3072,
+   2176
+  ],
+  "check": {
+   "judged": 376,
+   "flagged": 0,
+   "boundaryFlagged": 0,
+   "uncertain": 0,
+   "tileVersionFlagged": 10,
+   "tileVersionBoundaryFlagged": 7,
+   "mtime": 1793296441000000000,
+   "medianShiftPx": 4.0,
+   "medianScore": 0.8634999999999999,
+   "size": [
+    3072,
+    2176
+   ]
+  },
+  "batch": "wholemap-v2-1"
+ },
+ "0700-ghibli": {
+  "stamp": "wholemap-v2-1:0700-ghibli.png:1793299180064384478:{\"aligned\": true, \"boundaryFlagged\": 4, \"flagged\": 4, \"judged\": 368, \"medianScore\": 0.446, \"medianShiftPx\": 0.0, \"mtime\": 1793299180064384478, \"size\": [2048, 2944], \"tileVersionBoundaryFlagged\": 1, \"tileVersionFlagged\": 1, \"uncertain\": 66}",
+  "rel": "generated/maps-whole/ghibli/0700.webp",
+  "map": "0700",
+  "style": "ghibli",
+  "cell": 128,
+  "size": [
+   2048,
+   2944
+  ],
+  "check": {
+   "judged": 368,
+   "flagged": 4,
+   "boundaryFlagged": 4,
+   "uncertain": 66,
+   "tileVersionFlagged": 1,
+   "tileVersionBoundaryFlagged": 1,
+   "mtime": 1793299180064384478,
+   "aligned": true,
+   "medianShiftPx": 0.0,
+   "medianScore": 0.446,
+   "size": [
+    2048,
+    2944
+   ]
+  },
+  "batch": "wholemap-v2-1"
+ },
+ "0700-hd2d": {
+  "stamp": "wholemap-v2-1:0700-hd2d.png:1793299201452169421:{\"aligned\": true, \"boundaryFlagged\": 7, \"flagged\": 8, \"judged\": 368, \"medianScore\": 0.435, \"medianShiftPx\": 0.0, \"mtime\": 1793299201452169421, \"size\": [2048, 2944], \"tileVersionBoundaryFlagged\": 0, \"tileVersionFlagged\": 0, \"uncertain\": 74}",
+  "rel": "generated/maps-whole/hd2d/0700.webp",
+  "map": "0700",
+  "style": "hd2d",
+  "cell": 128,
+  "size": [
+   2048,
+   2944
+  ],
+  "check": {
+   "judged": 368,
+   "flagged": 8,
+   "boundaryFlagged": 7,
+   "uncertain": 74,
+   "tileVersionFlagged": 0,
+   "tileVersionBoundaryFlagged": 0,
+   "mtime": 1793299201452169421,
+   "aligned": true,
+   "medianShiftPx": 0.0,
+   "medianScore": 0.435,
+   "size": [
+    2048,
+    2944
+   ]
+  },
+  "batch": "wholemap-v2-1"
+ },
+ "0701-ghibli": {
+  "stamp": "wholemap-v2-1:0701-ghibli.png:1793299207721551563:{\"aligned\": true, \"boundaryFlagged\": 1, \"flagged\": 3, \"judged\": 98, \"medianScore\": 0.83, \"medianShiftPx\": 0.0, \"mtime\": 1793299207721551563, \"size\": [1408, 1664], \"tileVersionBoundaryFlagged\": 0, \"tileVersionFlagged\": 8, \"uncertain\": 0}",
+  "rel": "generated/maps-whole/ghibli/0701.webp",
+  "map": "0701",
+  "style": "ghibli",
+  "cell": 128,
+  "size": [
+   1408,
+   1664
+  ],
+  "check": {
+   "judged": 98,
+   "flagged": 3,
+   "boundaryFlagged": 1,
+   "uncertain": 0,
+   "tileVersionFlagged": 8,
+   "tileVersionBoundaryFlagged": 0,
+   "mtime": 1793299207721551563,
+   "aligned": true,
+   "medianShiftPx": 0.0,
+   "medianScore": 0.83,
+   "size": [
+    1408,
+    1664
+   ]
+  },
+  "batch": "wholemap-v2-1"
+ },
+ "0701-hd2d": {
+  "stamp": "wholemap-v2-1:0701-hd2d.png:1793296476000000000:{\"boundaryFlagged\": 0, \"flagged\": 0, \"judged\": 98, \"medianScore\": 0.847, \"medianShiftPx\": 4.0, \"mtime\": 1793296476000000000, \"size\": [1408, 1664], \"tileVersionBoundaryFlagged\": 0, \"tileVersionFlagged\": 0, \"uncertain\": 0}",
+  "rel": "generated/maps-whole/hd2d/0701.webp",
+  "map": "0701",
+  "style": "hd2d",
+  "cell": 128,
+  "size": [
+   1408,
+   1664
+  ],
+  "check": {
+   "judged": 98,
+   "flagged": 0,
+   "boundaryFlagged": 0,
+   "uncertain": 0,
+   "tileVersionFlagged": 0,
+   "tileVersionBoundaryFlagged": 0,
+   "mtime": 1793296476000000000,
+   "medianShiftPx": 4.0,
+   "medianScore": 0.847,
+   "size": [
+    1408,
+    1664
+   ]
+  },
+  "batch": "wholemap-v2-1"
+ },
+ "0702-ghibli": {
+  "stamp": "wholemap-v2-1:0702-ghibli.png:1793296488000000000:{\"boundaryFlagged\": 2, \"flagged\": 4, \"judged\": 87, \"medianScore\": 0.757, \"medianShiftPx\": 0.0, \"mtime\": 1793296488000000000, \"size\": [1280, 1280], \"tileVersionBoundaryFlagged\": 0, \"tileVersionFlagged\": 1, \"uncertain\": 0}",
+  "rel": "generated/maps-whole/ghibli/0702.webp",
+  "map": "0702",
+  "style": "ghibli",
+  "cell": 128,
+  "size": [
+   1280,
+   1280
+  ],
+  "check": {
+   "judged": 87,
+   "flagged": 4,
+   "boundaryFlagged": 2,
+   "uncertain": 0,
+   "tileVersionFlagged": 1,
+   "tileVersionBoundaryFlagged": 0,
+   "mtime": 1793296488000000000,
+   "medianShiftPx": 0.0,
+   "medianScore": 0.757,
+   "size": [
+    1280,
+    1280
+   ]
+  },
+  "batch": "wholemap-v2-1"
+ },
+ "0702-hd2d": {
+  "stamp": "wholemap-v2-1:0702-hd2d.png:1793296522000000000:{\"boundaryFlagged\": 3, \"flagged\": 5, \"judged\": 87, \"medianScore\": 0.721, \"medianShiftPx\": 0.0, \"mtime\": 1793296522000000000, \"size\": [1280, 1280], \"tileVersionBoundaryFlagged\": 0, \"tileVersionFlagged\": 0, \"uncertain\": 0}",
+  "rel": "generated/maps-whole/hd2d/0702.webp",
+  "map": "0702",
+  "style": "hd2d",
+  "cell": 128,
+  "size": [
+   1280,
+   1280
+  ],
+  "check": {
+   "judged": 87,
+   "flagged": 5,
+   "boundaryFlagged": 3,
+   "uncertain": 0,
+   "tileVersionFlagged": 0,
+   "tileVersionBoundaryFlagged": 0,
+   "mtime": 1793296522000000000,
+   "medianShiftPx": 0.0,
+   "medianScore": 0.721,
+   "size": [
+    1280,
+    1280
+   ]
+  },
+  "batch": "wholemap-v2-1"
+ },
+ "0703-ghibli": {
+  "stamp": "wholemap-v2-1:0703-ghibli.png:1793296529000000000:{\"boundaryFlagged\": 0, \"flagged\": 2, \"judged\": 87, \"medianScore\": 0.74, \"medianShiftPx\": 4.0, \"mtime\": 1793296529000000000, \"size\": [1280, 1280], \"tileVersionBoundaryFlagged\": 0, \"tileVersionFlagged\": 1, \"uncertain\": 0}",
+  "rel": "generated/maps-whole/ghibli/0703.webp",
+  "map": "0703",
+  "style": "ghibli",
+  "cell": 128,
+  "size": [
+   1280,
+   1280
+  ],
+  "check": {
+   "judged": 87,
+   "flagged": 2,
+   "boundaryFlagged": 0,
+   "uncertain": 0,
+   "tileVersionFlagged": 1,
+   "tileVersionBoundaryFlagged": 0,
+   "mtime": 1793296529000000000,
+   "medianShiftPx": 4.0,
+   "medianScore": 0.74,
+   "size": [
+    1280,
+    1280
+   ]
+  },
+  "batch": "wholemap-v2-1"
+ },
+ "0703-hd2d": {
+  "stamp": "wholemap-v2-1:0703-hd2d.png:1793296540000000000:{\"boundaryFlagged\": 1, \"flagged\": 1, \"judged\": 87, \"medianScore\": 0.782, \"medianShiftPx\": 4.0, \"mtime\": 1793296540000000000, \"size\": [1280, 1280], \"tileVersionBoundaryFlagged\": 0, \"tileVersionFlagged\": 0, \"uncertain\": 0}",
+  "rel": "generated/maps-whole/hd2d/0703.webp",
+  "map": "0703",
+  "style": "hd2d",
+  "cell": 128,
+  "size": [
+   1280,
+   1280
+  ],
+  "check": {
+   "judged": 87,
+   "flagged": 1,
+   "boundaryFlagged": 1,
+   "uncertain": 0,
+   "tileVersionFlagged": 0,
+   "tileVersionBoundaryFlagged": 0,
+   "mtime": 1793296540000000000,
+   "medianShiftPx": 4.0,
+   "medianScore": 0.782,
+   "size": [
+    1280,
+    1280
+   ]
+  },
+  "batch": "wholemap-v2-1"
+ },
+ "0704-ghibli": {
+  "stamp": "wholemap-v2-1:0704-ghibli.png:1793296542000000000:{\"boundaryFlagged\": 0, \"flagged\": 0, \"judged\": 68, \"medianScore\": 0.8325, \"medianShiftPx\": 0.0, \"mtime\": 1793296542000000000, \"size\": [1280, 1280], \"tileVersionBoundaryFlagged\": 0, \"tileVersionFlagged\": 0, \"uncertain\": 0}",
+  "rel": "generated/maps-whole/ghibli/0704.webp",
+  "map": "0704",
+  "style": "ghibli",
+  "cell": 128,
+  "size": [
+   1280,
+   1280
+  ],
+  "check": {
+   "judged": 68,
+   "flagged": 0,
+   "boundaryFlagged": 0,
+   "uncertain": 0,
+   "tileVersionFlagged": 0,
+   "tileVersionBoundaryFlagged": 0,
+   "mtime": 1793296542000000000,
+   "medianShiftPx": 0.0,
+   "medianScore": 0.8325,
+   "size": [
+    1280,
+    1280
+   ]
+  },
+  "batch": "wholemap-v2-1"
+ },
+ "0704-hd2d": {
+  "stamp": "wholemap-v2-1:0704-hd2d.png:1793296539000000000:{\"boundaryFlagged\": 0, \"flagged\": 0, \"judged\": 68, \"medianScore\": 0.8354999999999999, \"medianShiftPx\": 0.0, \"mtime\": 1793296539000000000, \"size\": [1280, 1280], \"tileVersionBoundaryFlagged\": 0, \"tileVersionFlagged\": 0, \"uncertain\": 0}",
+  "rel": "generated/maps-whole/hd2d/0704.webp",
+  "map": "0704",
+  "style": "hd2d",
+  "cell": 128,
+  "size": [
+   1280,
+   1280
+  ],
+  "check": {
+   "judged": 68,
+   "flagged": 0,
+   "boundaryFlagged": 0,
+   "uncertain": 0,
+   "tileVersionFlagged": 0,
+   "tileVersionBoundaryFlagged": 0,
+   "mtime": 1793296539000000000,
+   "medianShiftPx": 0.0,
+   "medianScore": 0.8354999999999999,
+   "size": [
+    1280,
+    1280
+   ]
+  },
+  "batch": "wholemap-v2-1"
+ },
+ "0705-ghibli": {
+  "stamp": "wholemap-v2-2:0705-ghibli.png:1793296651000000000:{\"boundaryFlagged\": 3, \"flagged\": 5, \"judged\": 87, \"medianScore\": 0.627, \"medianShiftPx\": 8.0, \"mtime\": 1793296651000000000, \"size\": [1280, 1280], \"tileVersionBoundaryFlagged\": 0, \"tileVersionFlagged\": 0, \"uncertain\": 8}",
+  "rel": "generated/maps-whole/ghibli/0705.webp",
+  "map": "0705",
+  "style": "ghibli",
+  "cell": 128,
+  "size": [
+   1280,
+   1280
+  ],
+  "check": {
+   "judged": 87,
+   "flagged": 5,
+   "boundaryFlagged": 3,
+   "uncertain": 8,
+   "tileVersionFlagged": 0,
+   "tileVersionBoundaryFlagged": 0,
+   "mtime": 1793296651000000000,
+   "medianShiftPx": 8.0,
+   "medianScore": 0.627,
+   "size": [
+    1280,
+    1280
+   ]
+  },
+  "batch": "wholemap-v2-2"
+ },
+ "0705-hd2d": {
+  "stamp": "wholemap-v2-2:0705-hd2d.png:1793296653000000000:{\"boundaryFlagged\": 0, \"flagged\": 3, \"judged\": 87, \"medianScore\": 0.721, \"medianShiftPx\": 8.0, \"mtime\": 1793296653000000000, \"size\": [1280, 1280], \"tileVersionBoundaryFlagged\": 0, \"tileVersionFlagged\": 0, \"uncertain\": 0}",
+  "rel": "generated/maps-whole/hd2d/0705.webp",
+  "map": "0705",
+  "style": "hd2d",
+  "cell": 128,
+  "size": [
+   1280,
+   1280
+  ],
+  "check": {
+   "judged": 87,
+   "flagged": 3,
+   "boundaryFlagged": 0,
+   "uncertain": 0,
+   "tileVersionFlagged": 0,
+   "tileVersionBoundaryFlagged": 0,
+   "mtime": 1793296653000000000,
+   "medianShiftPx": 8.0,
+   "medianScore": 0.721,
+   "size": [
+    1280,
+    1280
+   ]
+  },
+  "batch": "wholemap-v2-2"
+ },
+ "0706-ghibli": {
+  "stamp": "wholemap-v2-2:0706-ghibli.png:1793296652000000000:{\"boundaryFlagged\": 0, \"flagged\": 1, \"judged\": 87, \"medianScore\": 0.762, \"medianShiftPx\": 0.0, \"mtime\": 1793296652000000000, \"size\": [1280, 1280], \"tileVersionBoundaryFlagged\": 0, \"tileVersionFlagged\": 0, \"uncertain\": 0}",
+  "rel": "generated/maps-whole/ghibli/0706.webp",
+  "map": "0706",
+  "style": "ghibli",
+  "cell": 128,
+  "size": [
+   1280,
+   1280
+  ],
+  "check": {
+   "judged": 87,
+   "flagged": 1,
+   "boundaryFlagged": 0,
+   "uncertain": 0,
+   "tileVersionFlagged": 0,
+   "tileVersionBoundaryFlagged": 0,
+   "mtime": 1793296652000000000,
+   "medianShiftPx": 0.0,
+   "medianScore": 0.762,
+   "size": [
+    1280,
+    1280
+   ]
+  },
+  "batch": "wholemap-v2-2"
+ },
+ "0706-hd2d": {
+  "stamp": "wholemap-v2-2:0706-hd2d.png:1793296653000000000:{\"boundaryFlagged\": 0, \"flagged\": 0, \"judged\": 87, \"medianScore\": 0.888, \"medianShiftPx\": 0.0, \"mtime\": 1793296653000000000, \"size\": [1280, 1280], \"tileVersionBoundaryFlagged\": 0, \"tileVersionFlagged\": 0, \"uncertain\": 0}",
+  "rel": "generated/maps-whole/hd2d/0706.webp",
+  "map": "0706",
+  "style": "hd2d",
+  "cell": 128,
+  "size": [
+   1280,
+   1280
+  ],
+  "check": {
+   "judged": 87,
+   "flagged": 0,
+   "boundaryFlagged": 0,
+   "uncertain": 0,
+   "tileVersionFlagged": 0,
+   "tileVersionBoundaryFlagged": 0,
+   "mtime": 1793296653000000000,
+   "medianShiftPx": 0.0,
+   "medianScore": 0.888,
+   "size": [
+    1280,
+    1280
+   ]
+  },
+  "batch": "wholemap-v2-2"
+ },
+ "0707-ghibli": {
+  "stamp": "wholemap-v2-2:0707-ghibli.png:1793296683000000000:{\"boundaryFlagged\": 4, \"flagged\": 6, \"judged\": 480, \"medianScore\": 0.3125, \"medianShiftPx\": 20.0, \"mtime\": 1793296683000000000, \"size\": [3072, 2560], \"tileVersionBoundaryFlagged\": 9, \"tileVersionFlagged\": 11, \"uncertain\": 221}",
+  "rel": "generated/maps-whole/ghibli/0707.webp",
+  "map": "0707",
+  "style": "ghibli",
+  "cell": 128,
+  "size": [
+   3072,
+   2560
+  ],
+  "check": {
+   "judged": 480,
+   "flagged": 6,
+   "boundaryFlagged": 4,
+   "uncertain": 221,
+   "tileVersionFlagged": 11,
+   "tileVersionBoundaryFlagged": 9,
+   "mtime": 1793296683000000000,
+   "medianShiftPx": 20.0,
+   "medianScore": 0.3125,
+   "size": [
+    3072,
+    2560
+   ]
+  },
+  "batch": "wholemap-v2-2"
+ },
+ "0707-hd2d": {
+  "stamp": "wholemap-v2-2:0707-hd2d.png:1793299343739253281:{\"aligned\": true, \"boundaryFlagged\": 7, \"flagged\": 7, \"judged\": 480, \"medianScore\": 0.3635, \"medianShiftPx\": 0.0, \"mtime\": 1793299343739253281, \"size\": [3072, 2560], \"tileVersionBoundaryFlagged\": 3, \"tileVersionFlagged\": 4, \"uncertain\": 196}",
+  "rel": "generated/maps-whole/hd2d/0707.webp",
+  "map": "0707",
+  "style": "hd2d",
+  "cell": 128,
+  "size": [
+   3072,
+   2560
+  ],
+  "check": {
+   "judged": 480,
+   "flagged": 7,
+   "boundaryFlagged": 7,
+   "uncertain": 196,
+   "tileVersionFlagged": 4,
+   "tileVersionBoundaryFlagged": 3,
+   "mtime": 1793299343739253281,
+   "aligned": true,
+   "medianShiftPx": 0.0,
+   "medianScore": 0.3635,
+   "size": [
+    3072,
+    2560
+   ]
+  },
+  "batch": "wholemap-v2-2"
+ },
+ "0708-ghibli": {
+  "stamp": "wholemap-v2-2:0708-ghibli.png:1793299379863327383:{\"aligned\": true, \"boundaryFlagged\": 26, \"flagged\": 33, \"judged\": 600, \"medianScore\": 0.4075, \"medianShiftPx\": 4.0, \"mtime\": 1793299379863327383, \"size\": [2688, 2800], \"tileVersionBoundaryFlagged\": 4, \"tileVersionFlagged\": 4, \"uncertain\": 150}",
+  "rel": "generated/maps-whole/ghibli/0708.webp",
+  "map": "0708",
+  "style": "ghibli",
+  "cell": 112,
+  "size": [
+   2688,
+   2800
+  ],
+  "check": {
+   "judged": 600,
+   "flagged": 33,
+   "boundaryFlagged": 26,
+   "uncertain": 150,
+   "tileVersionFlagged": 4,
+   "tileVersionBoundaryFlagged": 4,
+   "mtime": 1793299379863327383,
+   "aligned": true,
+   "medianShiftPx": 4.0,
+   "medianScore": 0.4075,
+   "size": [
+    2688,
+    2800
+   ]
+  },
+  "batch": "wholemap-v2-2"
+ },
+ "0708-hd2d": {
+  "stamp": "wholemap-v2-2:0708-hd2d.png:1793296675000000000:{\"boundaryFlagged\": 1, \"flagged\": 1, \"judged\": 600, \"medianScore\": 0.773, \"medianShiftPx\": 16.0, \"mtime\": 1793296675000000000, \"size\": [2688, 2800], \"tileVersionBoundaryFlagged\": 20, \"tileVersionFlagged\": 27, \"uncertain\": 23}",
+  "rel": "generated/maps-whole/hd2d/0708.webp",
+  "map": "0708",
+  "style": "hd2d",
+  "cell": 112,
+  "size": [
+   2688,
+   2800
+  ],
+  "check": {
+   "judged": 600,
+   "flagged": 1,
+   "boundaryFlagged": 1,
+   "uncertain": 23,
+   "tileVersionFlagged": 27,
+   "tileVersionBoundaryFlagged": 20,
+   "mtime": 1793296675000000000,
+   "medianShiftPx": 16.0,
+   "medianScore": 0.773,
+   "size": [
+    2688,
+    2800
+   ]
+  },
+  "batch": "wholemap-v2-2"
+ },
+ "0709-ghibli": {
+  "stamp": "wholemap-v2-2:0709-ghibli.png:1793299406627402419:{\"aligned\": true, \"boundaryFlagged\": 1, \"flagged\": 1, \"judged\": 480, \"medianScore\": 0.472, \"medianShiftPx\": 0.0, \"mtime\": 1793299406627402419, \"size\": [3584, 1680], \"tileVersionBoundaryFlagged\": 10, \"tileVersionFlagged\": 10, \"uncertain\": 132}",
+  "rel": "generated/maps-whole/ghibli/0709.webp",
+  "map": "0709",
+  "style": "ghibli",
+  "cell": 112,
+  "size": [
+   3584,
+   1680
+  ],
+  "check": {
+   "judged": 480,
+   "flagged": 1,
+   "boundaryFlagged": 1,
+   "uncertain": 132,
+   "tileVersionFlagged": 10,
+   "tileVersionBoundaryFlagged": 10,
+   "mtime": 1793299406627402419,
+   "aligned": true,
+   "medianShiftPx": 0.0,
+   "medianScore": 0.472,
+   "size": [
+    3584,
+    1680
+   ]
+  },
+  "batch": "wholemap-v2-2"
+ },
+ "0709-hd2d": {
+  "stamp": "wholemap-v2-2:0709-hd2d.png:1793296625000000000:{\"boundaryFlagged\": 1, \"flagged\": 1, \"judged\": 480, \"medianScore\": 0.545, \"medianShiftPx\": 4.0, \"mtime\": 1793296625000000000, \"size\": [3584, 1680], \"tileVersionBoundaryFlagged\": 8, \"tileVersionFlagged\": 8, \"uncertain\": 95}",
+  "rel": "generated/maps-whole/hd2d/0709.webp",
+  "map": "0709",
+  "style": "hd2d",
+  "cell": 112,
+  "size": [
+   3584,
+   1680
+  ],
+  "check": {
+   "judged": 480,
+   "flagged": 1,
+   "boundaryFlagged": 1,
+   "uncertain": 95,
+   "tileVersionFlagged": 8,
+   "tileVersionBoundaryFlagged": 8,
+   "mtime": 1793296625000000000,
+   "medianShiftPx": 4.0,
+   "medianScore": 0.545,
+   "size": [
+    3584,
+    1680
+   ]
+  },
+  "batch": "wholemap-v2-2"
+ },
+ "0800-ghibli": {
+  "stamp": "wholemap-v2-2:0800-ghibli.png:1793296712000000000:{\"boundaryFlagged\": 1, \"flagged\": 2, \"judged\": 360, \"medianScore\": 0.6395, \"medianShiftPx\": 0.0, \"mtime\": 1793296712000000000, \"size\": [3072, 1920], \"tileVersionBoundaryFlagged\": 9, \"tileVersionFlagged\": 11, \"uncertain\": 12}",
+  "rel": "generated/maps-whole/ghibli/0800.webp",
+  "map": "0800",
+  "style": "ghibli",
+  "cell": 128,
+  "size": [
+   3072,
+   1920
+  ],
+  "check": {
+   "judged": 360,
+   "flagged": 2,
+   "boundaryFlagged": 1,
+   "uncertain": 12,
+   "tileVersionFlagged": 11,
+   "tileVersionBoundaryFlagged": 9,
+   "mtime": 1793296712000000000,
+   "medianShiftPx": 0.0,
+   "medianScore": 0.6395,
+   "size": [
+    3072,
+    1920
+   ]
+  },
+  "batch": "wholemap-v2-2"
+ },
+ "0800-hd2d": {
+  "stamp": "wholemap-v2-2:0800-hd2d.png:1793299426907345551:{\"aligned\": true, \"boundaryFlagged\": 7, \"flagged\": 8, \"judged\": 360, \"medianScore\": 0.587, \"medianShiftPx\": 0.0, \"mtime\": 1793299426907345551, \"size\": [3072, 1920], \"tileVersionBoundaryFlagged\": 4, \"tileVersionFlagged\": 5, \"uncertain\": 19}",
+  "rel": "generated/maps-whole/hd2d/0800.webp",
+  "map": "0800",
+  "style": "hd2d",
+  "cell": 128,
+  "size": [
+   3072,
+   1920
+  ],
+  "check": {
+   "judged": 360,
+   "flagged": 8,
+   "boundaryFlagged": 7,
+   "uncertain": 19,
+   "tileVersionFlagged": 5,
+   "tileVersionBoundaryFlagged": 4,
+   "mtime": 1793299426907345551,
+   "aligned": true,
+   "medianShiftPx": 0.0,
+   "medianScore": 0.587,
+   "size": [
+    3072,
+    1920
+   ]
+  },
+  "batch": "wholemap-v2-2"
+ },
+ "0801-ghibli": {
+  "stamp": "wholemap-v2-2:0801-ghibli.png:1793296755000000000:{\"boundaryFlagged\": 0, \"flagged\": 0, \"judged\": 92, \"medianScore\": 0.7295, \"medianShiftPx\": 4.0, \"mtime\": 1793296755000000000, \"size\": [1280, 1280], \"tileVersionBoundaryFlagged\": 2, \"tileVersionFlagged\": 4, \"uncertain\": 0}",
+  "rel": "generated/maps-whole/ghibli/0801.webp",
+  "map": "0801",
+  "style": "ghibli",
+  "cell": 128,
+  "size": [
+   1280,
+   1280
+  ],
+  "check": {
+   "judged": 92,
+   "flagged": 0,
+   "boundaryFlagged": 0,
+   "uncertain": 0,
+   "tileVersionFlagged": 4,
+   "tileVersionBoundaryFlagged": 2,
+   "mtime": 1793296755000000000,
+   "medianShiftPx": 4.0,
+   "medianScore": 0.7295,
+   "size": [
+    1280,
+    1280
+   ]
+  },
+  "batch": "wholemap-v2-2"
+ },
+ "0801-hd2d": {
+  "stamp": "wholemap-v2-2:0801-hd2d.png:1793296758000000000:{\"boundaryFlagged\": 0, \"flagged\": 0, \"judged\": 92, \"medianScore\": 0.8035000000000001, \"medianShiftPx\": 0.0, \"mtime\": 1793296758000000000, \"size\": [1280, 1280], \"tileVersionBoundaryFlagged\": 1, \"tileVersionFlagged\": 1, \"uncertain\": 0}",
+  "rel": "generated/maps-whole/hd2d/0801.webp",
+  "map": "0801",
+  "style": "hd2d",
+  "cell": 128,
+  "size": [
+   1280,
+   1280
+  ],
+  "check": {
+   "judged": 92,
+   "flagged": 0,
+   "boundaryFlagged": 0,
+   "uncertain": 0,
+   "tileVersionFlagged": 1,
+   "tileVersionBoundaryFlagged": 1,
+   "mtime": 1793296758000000000,
+   "medianShiftPx": 0.0,
+   "medianScore": 0.8035000000000001,
+   "size": [
+    1280,
+    1280
+   ]
+  },
+  "batch": "wholemap-v2-2"
+ },
+ "0802-ghibli": {
+  "stamp": "wholemap-v2-2:0802-ghibli.png:1793299432932162191:{\"aligned\": true, \"boundaryFlagged\": 0, \"flagged\": 0, \"judged\": 108, \"medianScore\": 0.796, \"medianShiftPx\": 0.0, \"mtime\": 1793299432932162191, \"size\": [1280, 1536], \"tileVersionBoundaryFlagged\": 4, \"tileVersionFlagged\": 4, \"uncertain\": 0}",
+  "rel": "generated/maps-whole/ghibli/0802.webp",
+  "map": "0802",
+  "style": "ghibli",
+  "cell": 128,
+  "size": [
+   1280,
+   1536
+  ],
+  "check": {
+   "judged": 108,
+   "flagged": 0,
+   "boundaryFlagged": 0,
+   "uncertain": 0,
+   "tileVersionFlagged": 4,
+   "tileVersionBoundaryFlagged": 4,
+   "mtime": 1793299432932162191,
+   "aligned": true,
+   "medianShiftPx": 0.0,
+   "medianScore": 0.796,
+   "size": [
+    1280,
+    1536
+   ]
+  },
+  "batch": "wholemap-v2-2"
+ },
+ "0802-hd2d": {
+  "stamp": "wholemap-v2-2:0802-hd2d.png:1793296744000000000:{\"boundaryFlagged\": 1, \"flagged\": 1, \"judged\": 108, \"medianScore\": 0.7765, \"medianShiftPx\": 8.0, \"mtime\": 1793296744000000000, \"size\": [1280, 1536], \"tileVersionBoundaryFlagged\": 1, \"tileVersionFlagged\": 1, \"uncertain\": 0}",
+  "rel": "generated/maps-whole/hd2d/0802.webp",
+  "map": "0802",
+  "style": "hd2d",
+  "cell": 128,
+  "size": [
+   1280,
+   1536
+  ],
+  "check": {
+   "judged": 108,
+   "flagged": 1,
+   "boundaryFlagged": 1,
+   "uncertain": 0,
+   "tileVersionFlagged": 1,
+   "tileVersionBoundaryFlagged": 1,
+   "mtime": 1793296744000000000,
+   "medianShiftPx": 8.0,
+   "medianScore": 0.7765,
+   "size": [
+    1280,
+    1536
+   ]
+  },
+  "batch": "wholemap-v2-2"
+ },
+ "0803-ghibli": {
+  "stamp": "wholemap-v2-2:0803-ghibli.png:1793296758000000000:{\"boundaryFlagged\": 0, \"flagged\": 0, \"judged\": 68, \"medianScore\": 0.8115000000000001, \"medianShiftPx\": 8.0, \"mtime\": 1793296758000000000, \"size\": [1280, 1280], \"tileVersionBoundaryFlagged\": 4, \"tileVersionFlagged\": 4, \"uncertain\": 0}",
+  "rel": "generated/maps-whole/ghibli/0803.webp",
+  "map": "0803",
+  "style": "ghibli",
+  "cell": 128,
+  "size": [
+   1280,
+   1280
+  ],
+  "check": {
+   "judged": 68,
+   "flagged": 0,
+   "boundaryFlagged": 0,
+   "uncertain": 0,
+   "tileVersionFlagged": 4,
+   "tileVersionBoundaryFlagged": 4,
+   "mtime": 1793296758000000000,
+   "medianShiftPx": 8.0,
+   "medianScore": 0.8115000000000001,
+   "size": [
+    1280,
+    1280
+   ]
+  },
+  "batch": "wholemap-v2-2"
+ },
+ "0803-hd2d": {
+  "stamp": "wholemap-v2-2:0803-hd2d.png:1793296772000000000:{\"boundaryFlagged\": 0, \"flagged\": 0, \"judged\": 68, \"medianScore\": 0.7825, \"medianShiftPx\": 0.0, \"mtime\": 1793296772000000000, \"size\": [1280, 1280], \"tileVersionBoundaryFlagged\": 1, \"tileVersionFlagged\": 1, \"uncertain\": 0}",
+  "rel": "generated/maps-whole/hd2d/0803.webp",
+  "map": "0803",
+  "style": "hd2d",
+  "cell": 128,
+  "size": [
+   1280,
+   1280
+  ],
+  "check": {
+   "judged": 68,
+   "flagged": 0,
+   "boundaryFlagged": 0,
+   "uncertain": 0,
+   "tileVersionFlagged": 1,
+   "tileVersionBoundaryFlagged": 1,
+   "mtime": 1793296772000000000,
+   "medianShiftPx": 0.0,
+   "medianScore": 0.7825,
+   "size": [
+    1280,
+    1280
+   ]
+  },
+  "batch": "wholemap-v2-2"
+ },
+ "0804-ghibli": {
+  "stamp": "wholemap-v2-2:0804-ghibli.png:1793296786000000000:{\"boundaryFlagged\": 0, \"flagged\": 0, \"judged\": 90, \"medianScore\": 0.817, \"medianShiftPx\": 6.0, \"mtime\": 1793296786000000000, \"size\": [1280, 1280], \"tileVersionBoundaryFlagged\": 0, \"tileVersionFlagged\": 0, \"uncertain\": 0}",
+  "rel": "generated/maps-whole/ghibli/0804.webp",
+  "map": "0804",
+  "style": "ghibli",
+  "cell": 128,
+  "size": [
+   1280,
+   1280
+  ],
+  "check": {
+   "judged": 90,
+   "flagged": 0,
+   "boundaryFlagged": 0,
+   "uncertain": 0,
+   "tileVersionFlagged": 0,
+   "tileVersionBoundaryFlagged": 0,
+   "mtime": 1793296786000000000,
+   "medianShiftPx": 6.0,
+   "medianScore": 0.817,
+   "size": [
+    1280,
+    1280
+   ]
+  },
+  "batch": "wholemap-v2-2"
+ },
+ "0804-hd2d": {
+  "stamp": "wholemap-v2-2:0804-hd2d.png:1793296798000000000:{\"boundaryFlagged\": 1, \"flagged\": 1, \"judged\": 90, \"medianScore\": 0.774, \"medianShiftPx\": 4.0, \"mtime\": 1793296798000000000, \"size\": [1280, 1280], \"tileVersionBoundaryFlagged\": 0, \"tileVersionFlagged\": 0, \"uncertain\": 0}",
+  "rel": "generated/maps-whole/hd2d/0804.webp",
+  "map": "0804",
+  "style": "hd2d",
+  "cell": 128,
+  "size": [
+   1280,
+   1280
+  ],
+  "check": {
+   "judged": 90,
+   "flagged": 1,
+   "boundaryFlagged": 1,
+   "uncertain": 0,
+   "tileVersionFlagged": 0,
+   "tileVersionBoundaryFlagged": 0,
+   "mtime": 1793296798000000000,
+   "medianShiftPx": 4.0,
+   "medianScore": 0.774,
+   "size": [
+    1280,
+    1280
+   ]
+  },
+  "batch": "wholemap-v2-2"
+ },
+ "0805-ghibli": {
+  "stamp": "wholemap-v2-2:0805-ghibli.png:1793299437647109408:{\"aligned\": true, \"boundaryFlagged\": 3, \"flagged\": 3, \"judged\": 88, \"medianScore\": 0.7064999999999999, \"medianShiftPx\": 0.0, \"mtime\": 1793299437647109408, \"size\": [1280, 1280], \"tileVersionBoundaryFlagged\": 3, \"tileVersionFlagged\": 3, \"uncertain\": 0}",
+  "rel": "generated/maps-whole/ghibli/0805.webp",
+  "map": "0805",
+  "style": "ghibli",
+  "cell": 128,
+  "size": [
+   1280,
+   1280
+  ],
+  "check": {
+   "judged": 88,
+   "flagged": 3,
+   "boundaryFlagged": 3,
+   "uncertain": 0,
+   "tileVersionFlagged": 3,
+   "tileVersionBoundaryFlagged": 3,
+   "mtime": 1793299437647109408,
+   "aligned": true,
+   "medianShiftPx": 0.0,
+   "medianScore": 0.7064999999999999,
+   "size": [
+    1280,
+    1280
+   ]
+  },
+  "batch": "wholemap-v2-2"
+ },
+ "0805-hd2d": {
+  "stamp": "wholemap-v2-2:0805-hd2d.png:1793296827000000000:{\"boundaryFlagged\": 0, \"flagged\": 0, \"judged\": 88, \"medianScore\": 0.8494999999999999, \"medianShiftPx\": 0.0, \"mtime\": 1793296827000000000, \"size\": [1280, 1280], \"tileVersionBoundaryFlagged\": 2, \"tileVersionFlagged\": 2, \"uncertain\": 0}",
+  "rel": "generated/maps-whole/hd2d/0805.webp",
+  "map": "0805",
+  "style": "hd2d",
+  "cell": 128,
+  "size": [
+   1280,
+   1280
+  ],
+  "check": {
+   "judged": 88,
+   "flagged": 0,
+   "boundaryFlagged": 0,
+   "uncertain": 0,
+   "tileVersionFlagged": 2,
+   "tileVersionBoundaryFlagged": 2,
+   "mtime": 1793296827000000000,
+   "medianShiftPx": 0.0,
+   "medianScore": 0.8494999999999999,
+   "size": [
+    1280,
+    1280
+   ]
+  },
+  "batch": "wholemap-v2-2"
+ },
+ "0806-ghibli": {
+  "stamp": "wholemap-v2-2:0806-ghibli.png:1793299442470626467:{\"aligned\": true, \"boundaryFlagged\": 0, \"flagged\": 0, \"judged\": 92, \"medianScore\": 0.734, \"medianShiftPx\": 0.0, \"mtime\": 1793299442470626467, \"size\": [1280, 1280], \"tileVersionBoundaryFlagged\": 0, \"tileVersionFlagged\": 1, \"uncertain\": 0}",
+  "rel": "generated/maps-whole/ghibli/0806.webp",
+  "map": "0806",
+  "style": "ghibli",
+  "cell": 128,
+  "size": [
+   1280,
+   1280
+  ],
+  "check": {
+   "judged": 92,
+   "flagged": 0,
+   "boundaryFlagged": 0,
+   "uncertain": 0,
+   "tileVersionFlagged": 1,
+   "tileVersionBoundaryFlagged": 0,
+   "mtime": 1793299442470626467,
+   "aligned": true,
+   "medianShiftPx": 0.0,
+   "medianScore": 0.734,
+   "size": [
+    1280,
+    1280
+   ]
+  },
+  "batch": "wholemap-v2-2"
+ },
+ "0806-hd2d": {
+  "stamp": "wholemap-v2-2:0806-hd2d.png:1793296848000000000:{\"boundaryFlagged\": 1, \"flagged\": 1, \"judged\": 92, \"medianScore\": 0.7575000000000001, \"medianShiftPx\": 0.0, \"mtime\": 1793296848000000000, \"size\": [1280, 1280], \"tileVersionBoundaryFlagged\": 0, \"tileVersionFlagged\": 1, \"uncertain\": 0}",
+  "rel": "generated/maps-whole/hd2d/0806.webp",
+  "map": "0806",
+  "style": "hd2d",
+  "cell": 128,
+  "size": [
+   1280,
+   1280
+  ],
+  "check": {
+   "judged": 92,
+   "flagged": 1,
+   "boundaryFlagged": 1,
+   "uncertain": 0,
+   "tileVersionFlagged": 1,
+   "tileVersionBoundaryFlagged": 0,
+   "mtime": 1793296848000000000,
+   "medianShiftPx": 0.0,
+   "medianScore": 0.7575000000000001,
+   "size": [
+    1280,
+    1280
+   ]
+  },
+  "batch": "wholemap-v2-2"
+ },
+ "0807-ghibli": {
+  "stamp": "wholemap-v2-2:0807-ghibli.png:1793296858000000000:{\"boundaryFlagged\": 0, \"flagged\": 0, \"judged\": 91, \"medianScore\": 0.798, \"medianShiftPx\": 4.0, \"mtime\": 1793296858000000000, \"size\": [1280, 1280], \"tileVersionBoundaryFlagged\": 3, \"tileVersionFlagged\": 6, \"uncertain\": 0}",
+  "rel": "generated/maps-whole/ghibli/0807.webp",
+  "map": "0807",
+  "style": "ghibli",
+  "cell": 128,
+  "size": [
+   1280,
+   1280
+  ],
+  "check": {
+   "judged": 91,
+   "flagged": 0,
+   "boundaryFlagged": 0,
+   "uncertain": 0,
+   "tileVersionFlagged": 6,
+   "tileVersionBoundaryFlagged": 3,
+   "mtime": 1793296858000000000,
+   "medianShiftPx": 4.0,
+   "medianScore": 0.798,
+   "size": [
+    1280,
+    1280
+   ]
+  },
+  "batch": "wholemap-v2-2"
+ },
+ "0807-hd2d": {
+  "stamp": "wholemap-v2-2:0807-hd2d.png:1793296861000000000:{\"boundaryFlagged\": 0, \"flagged\": 0, \"judged\": 91, \"medianScore\": 0.771, \"medianShiftPx\": 4.0, \"mtime\": 1793296861000000000, \"size\": [1280, 1280], \"tileVersionBoundaryFlagged\": 0, \"tileVersionFlagged\": 0, \"uncertain\": 0}",
+  "rel": "generated/maps-whole/hd2d/0807.webp",
+  "map": "0807",
+  "style": "hd2d",
+  "cell": 128,
+  "size": [
+   1280,
+   1280
+  ],
+  "check": {
+   "judged": 91,
+   "flagged": 0,
+   "boundaryFlagged": 0,
+   "uncertain": 0,
+   "tileVersionFlagged": 0,
+   "tileVersionBoundaryFlagged": 0,
+   "mtime": 1793296861000000000,
+   "medianShiftPx": 4.0,
+   "medianScore": 0.771,
+   "size": [
+    1280,
+    1280
+   ]
+  },
+  "batch": "wholemap-v2-2"
+ },
+ "0808-ghibli": {
+  "stamp": "wholemap-v2-2:0808-ghibli.png:1793299459159133349:{\"aligned\": true, \"boundaryFlagged\": 8, \"flagged\": 12, \"judged\": 300, \"medianScore\": 0.35, \"medianShiftPx\": 8.0, \"mtime\": 1793299459159133349, \"size\": [1920, 2560], \"tileVersionBoundaryFlagged\": 0, \"tileVersionFlagged\": 11, \"uncertain\": 131}",
+  "rel": "generated/maps-whole/ghibli/0808.webp",
+  "map": "0808",
+  "style": "ghibli",
+  "cell": 128,
+  "size": [
+   1920,
+   2560
+  ],
+  "check": {
+   "judged": 300,
+   "flagged": 12,
+   "boundaryFlagged": 8,
+   "uncertain": 131,
+   "tileVersionFlagged": 11,
+   "tileVersionBoundaryFlagged": 0,
+   "mtime": 1793299459159133349,
+   "aligned": true,
+   "medianShiftPx": 8.0,
+   "medianScore": 0.35,
+   "size": [
+    1920,
+    2560
+   ]
+  },
+  "batch": "wholemap-v2-2"
+ },
+ "0808-hd2d": {
+  "stamp": "wholemap-v2-2:0808-hd2d.png:1793296870000000000:{\"boundaryFlagged\": 0, \"flagged\": 0, \"judged\": 300, \"medianScore\": 0.7725, \"medianShiftPx\": 0.0, \"mtime\": 1793296870000000000, \"size\": [1920, 2560], \"tileVersionBoundaryFlagged\": 10, \"tileVersionFlagged\": 102, \"uncertain\": 0}",
+  "rel": "generated/maps-whole/hd2d/0808.webp",
+  "map": "0808",
+  "style": "hd2d",
+  "cell": 128,
+  "size": [
+   1920,
+   2560
+  ],
+  "check": {
+   "judged": 300,
+   "flagged": 0,
+   "boundaryFlagged": 0,
+   "uncertain": 0,
+   "tileVersionFlagged": 102,
+   "tileVersionBoundaryFlagged": 10,
+   "mtime": 1793296870000000000,
+   "medianShiftPx": 0.0,
+   "medianScore": 0.7725,
+   "size": [
+    1920,
+    2560
+   ]
+  },
+  "batch": "wholemap-v2-2"
+ },
+ "0809-ghibli": {
+  "stamp": "wholemap-v2-2:0809-ghibli.png:1793299488354279359:{\"aligned\": true, \"boundaryFlagged\": 35, \"flagged\": 47, \"judged\": 496, \"medianScore\": 0.59, \"medianShiftPx\": 4.0, \"mtime\": 1793299488354279359, \"size\": [2688, 2800], \"tileVersionBoundaryFlagged\": 7, \"tileVersionFlagged\": 17, \"uncertain\": 80}",
+  "rel": "generated/maps-whole/ghibli/0809.webp",
+  "map": "0809",
+  "style": "ghibli",
+  "cell": 112,
+  "size": [
+   2688,
+   2800
+  ],
+  "check": {
+   "judged": 496,
+   "flagged": 47,
+   "boundaryFlagged": 35,
+   "uncertain": 80,
+   "tileVersionFlagged": 17,
+   "tileVersionBoundaryFlagged": 7,
+   "mtime": 1793299488354279359,
+   "aligned": true,
+   "medianShiftPx": 4.0,
+   "medianScore": 0.59,
+   "size": [
+    2688,
+    2800
+   ]
+  },
+  "batch": "wholemap-v2-2"
+ },
+ "0809-hd2d": {
+  "stamp": "wholemap-v2-2:0809-hd2d.png:1793299516521555375:{\"aligned\": true, \"boundaryFlagged\": 29, \"flagged\": 65, \"judged\": 496, \"medianScore\": 0.64, \"medianShiftPx\": 0.0, \"mtime\": 1793299516521555375, \"size\": [2688, 2800], \"tileVersionBoundaryFlagged\": 4, \"tileVersionFlagged\": 39, \"uncertain\": 33}",
+  "rel": "generated/maps-whole/hd2d/0809.webp",
+  "map": "0809",
+  "style": "hd2d",
+  "cell": 112,
+  "size": [
+   2688,
+   2800
+  ],
+  "check": {
+   "judged": 496,
+   "flagged": 65,
+   "boundaryFlagged": 29,
+   "uncertain": 33,
+   "tileVersionFlagged": 39,
+   "tileVersionBoundaryFlagged": 4,
+   "mtime": 1793299516521555375,
+   "aligned": true,
+   "medianShiftPx": 0.0,
+   "medianScore": 0.64,
+   "size": [
+    2688,
+    2800
+   ]
+  },
+  "batch": "wholemap-v2-2"
+ },
+ "080a-ghibli": {
+  "stamp": "wholemap-v2-2:080a-ghibli.png:1793296915000000000:{\"boundaryFlagged\": 2, \"flagged\": 3, \"judged\": 89, \"medianScore\": 0.727, \"medianShiftPx\": 12.0, \"mtime\": 1793296915000000000, \"size\": [1280, 1280], \"tileVersionBoundaryFlagged\": 0, \"tileVersionFlagged\": 0, \"uncertain\": 0}",
+  "rel": "generated/maps-whole/ghibli/080a.webp",
+  "map": "080a",
+  "style": "ghibli",
+  "cell": 128,
+  "size": [
+   1280,
+   1280
+  ],
+  "check": {
+   "judged": 89,
+   "flagged": 3,
+   "boundaryFlagged": 2,
+   "uncertain": 0,
+   "tileVersionFlagged": 0,
+   "tileVersionBoundaryFlagged": 0,
+   "mtime": 1793296915000000000,
+   "medianShiftPx": 12.0,
+   "medianScore": 0.727,
+   "size": [
+    1280,
+    1280
+   ]
+  },
+  "batch": "wholemap-v2-2"
+ },
+ "080a-hd2d": {
+  "stamp": "wholemap-v2-2:080a-hd2d.png:1793296926000000000:{\"boundaryFlagged\": 1, \"flagged\": 1, \"judged\": 89, \"medianScore\": 0.675, \"medianShiftPx\": 4.0, \"mtime\": 1793296926000000000, \"size\": [1280, 1280], \"tileVersionBoundaryFlagged\": 0, \"tileVersionFlagged\": 0, \"uncertain\": 2}",
+  "rel": "generated/maps-whole/hd2d/080a.webp",
+  "map": "080a",
+  "style": "hd2d",
+  "cell": 128,
+  "size": [
+   1280,
+   1280
+  ],
+  "check": {
+   "judged": 89,
+   "flagged": 1,
+   "boundaryFlagged": 1,
+   "uncertain": 2,
+   "tileVersionFlagged": 0,
+   "tileVersionBoundaryFlagged": 0,
+   "mtime": 1793296926000000000,
+   "medianShiftPx": 4.0,
+   "medianScore": 0.675,
+   "size": [
+    1280,
+    1280
+   ]
+  },
+  "batch": "wholemap-v2-2"
+ },
+ "080b-ghibli": {
+  "stamp": "wholemap-v2-2:080b-ghibli.png:1793296946000000000:{\"boundaryFlagged\": 0, \"flagged\": 0, \"judged\": 89, \"medianScore\": 0.808, \"medianShiftPx\": 0.0, \"mtime\": 1793296946000000000, \"size\": [1280, 1280], \"tileVersionBoundaryFlagged\": 0, \"tileVersionFlagged\": 0, \"uncertain\": 0}",
+  "rel": "generated/maps-whole/ghibli/080b.webp",
+  "map": "080b",
+  "style": "ghibli",
+  "cell": 128,
+  "size": [
+   1280,
+   1280
+  ],
+  "check": {
+   "judged": 89,
+   "flagged": 0,
+   "boundaryFlagged": 0,
+   "uncertain": 0,
+   "tileVersionFlagged": 0,
+   "tileVersionBoundaryFlagged": 0,
+   "mtime": 1793296946000000000,
+   "medianShiftPx": 0.0,
+   "medianScore": 0.808,
+   "size": [
+    1280,
+    1280
+   ]
+  },
+  "batch": "wholemap-v2-2"
+ },
+ "080b-hd2d": {
+  "stamp": "wholemap-v2-2:080b-hd2d.png:1793296948000000000:{\"boundaryFlagged\": 0, \"flagged\": 0, \"judged\": 89, \"medianScore\": 0.833, \"medianShiftPx\": 0.0, \"mtime\": 1793296948000000000, \"size\": [1280, 1280], \"tileVersionBoundaryFlagged\": 0, \"tileVersionFlagged\": 0, \"uncertain\": 0}",
+  "rel": "generated/maps-whole/hd2d/080b.webp",
+  "map": "080b",
+  "style": "hd2d",
+  "cell": 128,
+  "size": [
+   1280,
+   1280
+  ],
+  "check": {
+   "judged": 89,
+   "flagged": 0,
+   "boundaryFlagged": 0,
+   "uncertain": 0,
+   "tileVersionFlagged": 0,
+   "tileVersionBoundaryFlagged": 0,
+   "mtime": 1793296948000000000,
+   "medianShiftPx": 0.0,
+   "medianScore": 0.833,
+   "size": [
+    1280,
+    1280
+   ]
+  },
+  "batch": "wholemap-v2-2"
+ },
+ "0900-ghibli": {
+  "stamp": "wholemap-v2-2:0900-ghibli.png:1793299534289282714:{\"aligned\": true, \"boundaryFlagged\": 3, \"flagged\": 3, \"judged\": 320, \"medianScore\": 0.549, \"medianShiftPx\": 0.0, \"mtime\": 1793299534289282714, \"size\": [2048, 2560], \"tileVersionBoundaryFlagged\": 1, \"tileVersionFlagged\": 2, \"uncertain\": 30}",
+  "rel": "generated/maps-whole/ghibli/0900.webp",
+  "map": "0900",
+  "style": "ghibli",
+  "cell": 128,
+  "size": [
+   2048,
+   2560
+  ],
+  "check": {
+   "judged": 320,
+   "flagged": 3,
+   "boundaryFlagged": 3,
+   "uncertain": 30,
+   "tileVersionFlagged": 2,
+   "tileVersionBoundaryFlagged": 1,
+   "mtime": 1793299534289282714,
+   "aligned": true,
+   "medianShiftPx": 0.0,
+   "medianScore": 0.549,
+   "size": [
+    2048,
+    2560
+   ]
+  },
+  "batch": "wholemap-v2-2"
+ },
+ "0900-hd2d": {
+  "stamp": "wholemap-v2-2:0900-hd2d.png:1793299552586916851:{\"aligned\": true, \"boundaryFlagged\": 1, \"flagged\": 2, \"judged\": 320, \"medianScore\": 0.4525, \"medianShiftPx\": 0.0, \"mtime\": 1793299552586916851, \"size\": [2048, 2560], \"tileVersionBoundaryFlagged\": 0, \"tileVersionFlagged\": 0, \"uncertain\": 55}",
+  "rel": "generated/maps-whole/hd2d/0900.webp",
+  "map": "0900",
+  "style": "hd2d",
+  "cell": 128,
+  "size": [
+   2048,
+   2560
+  ],
+  "check": {
+   "judged": 320,
+   "flagged": 2,
+   "boundaryFlagged": 1,
+   "uncertain": 55,
+   "tileVersionFlagged": 0,
+   "tileVersionBoundaryFlagged": 0,
+   "mtime": 1793299552586916851,
+   "aligned": true,
+   "medianShiftPx": 0.0,
+   "medianScore": 0.4525,
+   "size": [
+    2048,
+    2560
+   ]
+  },
+  "batch": "wholemap-v2-2"
+ },
+ "0901-ghibli": {
+  "stamp": "wholemap-v2-2:0901-ghibli.png:1793296952000000000:{\"boundaryFlagged\": 0, \"flagged\": 0, \"judged\": 122, \"medianScore\": 0.7675000000000001, \"medianShiftPx\": 4.0, \"mtime\": 1793296952000000000, \"size\": [1280, 1664], \"tileVersionBoundaryFlagged\": 3, \"tileVersionFlagged\": 3, \"uncertain\": 0}",
+  "rel": "generated/maps-whole/ghibli/0901.webp",
+  "map": "0901",
+  "style": "ghibli",
+  "cell": 128,
+  "size": [
+   1280,
+   1664
+  ],
+  "check": {
+   "judged": 122,
+   "flagged": 0,
+   "boundaryFlagged": 0,
+   "uncertain": 0,
+   "tileVersionFlagged": 3,
+   "tileVersionBoundaryFlagged": 3,
+   "mtime": 1793296952000000000,
+   "medianShiftPx": 4.0,
+   "medianScore": 0.7675000000000001,
+   "size": [
+    1280,
+    1664
+   ]
+  },
+  "batch": "wholemap-v2-2"
+ },
+ "0901-hd2d": {
+  "stamp": "wholemap-v2-2:0901-hd2d.png:1793296960000000000:{\"boundaryFlagged\": 0, \"flagged\": 0, \"judged\": 122, \"medianScore\": 0.8085, \"medianShiftPx\": 4.0, \"mtime\": 1793296960000000000, \"size\": [1280, 1664], \"tileVersionBoundaryFlagged\": 0, \"tileVersionFlagged\": 0, \"uncertain\": 0}",
+  "rel": "generated/maps-whole/hd2d/0901.webp",
+  "map": "0901",
+  "style": "hd2d",
+  "cell": 128,
+  "size": [
+   1280,
+   1664
+  ],
+  "check": {
+   "judged": 122,
+   "flagged": 0,
+   "boundaryFlagged": 0,
+   "uncertain": 0,
+   "tileVersionFlagged": 0,
+   "tileVersionBoundaryFlagged": 0,
+   "mtime": 1793296960000000000,
+   "medianShiftPx": 4.0,
+   "medianScore": 0.8085,
+   "size": [
+    1280,
+    1664
+   ]
+  },
+  "batch": "wholemap-v2-2"
+ },
+ "0902-ghibli": {
+  "stamp": "wholemap-v2-2:0902-ghibli.png:1793296997000000000:{\"boundaryFlagged\": 0, \"flagged\": 0, \"judged\": 88, \"medianScore\": 0.8434999999999999, \"medianShiftPx\": 0.0, \"mtime\": 1793296997000000000, \"size\": [1280, 1280], \"tileVersionBoundaryFlagged\": 0, \"tileVersionFlagged\": 2, \"uncertain\": 0}",
+  "rel": "generated/maps-whole/ghibli/0902.webp",
+  "map": "0902",
+  "style": "ghibli",
+  "cell": 128,
+  "size": [
+   1280,
+   1280
+  ],
+  "check": {
+   "judged": 88,
+   "flagged": 0,
+   "boundaryFlagged": 0,
+   "uncertain": 0,
+   "tileVersionFlagged": 2,
+   "tileVersionBoundaryFlagged": 0,
+   "mtime": 1793296997000000000,
+   "medianShiftPx": 0.0,
+   "medianScore": 0.8434999999999999,
+   "size": [
+    1280,
+    1280
+   ]
+  },
+  "batch": "wholemap-v2-2"
+ },
+ "0902-hd2d": {
+  "stamp": "wholemap-v2-2:0902-hd2d.png:1793297010000000000:{\"boundaryFlagged\": 1, \"flagged\": 1, \"judged\": 88, \"medianScore\": 0.7685, \"medianShiftPx\": 0.0, \"mtime\": 1793297010000000000, \"size\": [1280, 1280], \"tileVersionBoundaryFlagged\": 1, \"tileVersionFlagged\": 2, \"uncertain\": 0}",
+  "rel": "generated/maps-whole/hd2d/0902.webp",
+  "map": "0902",
+  "style": "hd2d",
+  "cell": 128,
+  "size": [
+   1280,
+   1280
+  ],
+  "check": {
+   "judged": 88,
+   "flagged": 1,
+   "boundaryFlagged": 1,
+   "uncertain": 0,
+   "tileVersionFlagged": 2,
+   "tileVersionBoundaryFlagged": 1,
+   "mtime": 1793297010000000000,
+   "medianShiftPx": 0.0,
+   "medianScore": 0.7685,
+   "size": [
+    1280,
+    1280
+   ]
+  },
+  "batch": "wholemap-v2-2"
+ },
+ "0903-ghibli": {
+  "stamp": "wholemap-v2-2:0903-ghibli.png:1793297017000000000:{\"boundaryFlagged\": 0, \"flagged\": 0, \"judged\": 88, \"medianScore\": 0.824, \"medianShiftPx\": 4.0, \"mtime\": 1793297017000000000, \"size\": [1280, 1280], \"tileVersionBoundaryFlagged\": 0, \"tileVersionFlagged\": 1, \"uncertain\": 0}",
+  "rel": "generated/maps-whole/ghibli/0903.webp",
+  "map": "0903",
+  "style": "ghibli",
+  "cell": 128,
+  "size": [
+   1280,
+   1280
+  ],
+  "check": {
+   "judged": 88,
+   "flagged": 0,
+   "boundaryFlagged": 0,
+   "uncertain": 0,
+   "tileVersionFlagged": 1,
+   "tileVersionBoundaryFlagged": 0,
+   "mtime": 1793297017000000000,
+   "medianShiftPx": 4.0,
+   "medianScore": 0.824,
+   "size": [
+    1280,
+    1280
+   ]
+  },
+  "batch": "wholemap-v2-2"
+ },
+ "0903-hd2d": {
+  "stamp": "wholemap-v2-2:0903-hd2d.png:1793297028000000000:{\"boundaryFlagged\": 0, \"flagged\": 0, \"judged\": 88, \"medianScore\": 0.859, \"medianShiftPx\": 0.0, \"mtime\": 1793297028000000000, \"size\": [1280, 1280], \"tileVersionBoundaryFlagged\": 0, \"tileVersionFlagged\": 1, \"uncertain\": 0}",
+  "rel": "generated/maps-whole/hd2d/0903.webp",
+  "map": "0903",
+  "style": "hd2d",
+  "cell": 128,
+  "size": [
+   1280,
+   1280
+  ],
+  "check": {
+   "judged": 88,
+   "flagged": 0,
+   "boundaryFlagged": 0,
+   "uncertain": 0,
+   "tileVersionFlagged": 1,
+   "tileVersionBoundaryFlagged": 0,
+   "mtime": 1793297028000000000,
+   "medianShiftPx": 0.0,
+   "medianScore": 0.859,
+   "size": [
+    1280,
+    1280
+   ]
+  },
+  "batch": "wholemap-v2-2"
+ },
+ "0904-ghibli": {
+  "stamp": "wholemap-v2-2:0904-ghibli.png:1793297042000000000:{\"boundaryFlagged\": 0, \"flagged\": 0, \"judged\": 62, \"medianScore\": 0.8895, \"medianShiftPx\": 0.0, \"mtime\": 1793297042000000000, \"size\": [1280, 1280], \"tileVersionBoundaryFlagged\": 0, \"tileVersionFlagged\": 0, \"uncertain\": 0}",
+  "rel": "generated/maps-whole/ghibli/0904.webp",
+  "map": "0904",
+  "style": "ghibli",
+  "cell": 128,
+  "size": [
+   1280,
+   1280
+  ],
+  "check": {
+   "judged": 62,
+   "flagged": 0,
+   "boundaryFlagged": 0,
+   "uncertain": 0,
+   "tileVersionFlagged": 0,
+   "tileVersionBoundaryFlagged": 0,
+   "mtime": 1793297042000000000,
+   "medianShiftPx": 0.0,
+   "medianScore": 0.8895,
+   "size": [
+    1280,
+    1280
+   ]
+  },
+  "batch": "wholemap-v2-2"
+ },
+ "0904-hd2d": {
+  "stamp": "wholemap-v2-2:0904-hd2d.png:1793297044000000000:{\"boundaryFlagged\": 0, \"flagged\": 0, \"judged\": 62, \"medianScore\": 0.809, \"medianShiftPx\": 0.0, \"mtime\": 1793297044000000000, \"size\": [1280, 1280], \"tileVersionBoundaryFlagged\": 0, \"tileVersionFlagged\": 0, \"uncertain\": 0}",
+  "rel": "generated/maps-whole/hd2d/0904.webp",
+  "map": "0904",
+  "style": "hd2d",
+  "cell": 128,
+  "size": [
+   1280,
+   1280
+  ],
+  "check": {
+   "judged": 62,
+   "flagged": 0,
+   "boundaryFlagged": 0,
+   "uncertain": 0,
+   "tileVersionFlagged": 0,
+   "tileVersionBoundaryFlagged": 0,
+   "mtime": 1793297044000000000,
+   "medianShiftPx": 0.0,
+   "medianScore": 0.809,
+   "size": [
+    1280,
+    1280
+   ]
+  },
+  "batch": "wholemap-v2-2"
+ },
+ "0905-ghibli": {
+  "stamp": "wholemap-v2-2:0905-ghibli.png:1793297056000000000:{\"boundaryFlagged\": 0, \"flagged\": 0, \"judged\": 88, \"medianScore\": 0.8165, \"medianShiftPx\": 4.0, \"mtime\": 1793297056000000000, \"size\": [1280, 1280], \"tileVersionBoundaryFlagged\": 0, \"tileVersionFlagged\": 1, \"uncertain\": 0}",
+  "rel": "generated/maps-whole/ghibli/0905.webp",
+  "map": "0905",
+  "style": "ghibli",
+  "cell": 128,
+  "size": [
+   1280,
+   1280
+  ],
+  "check": {
+   "judged": 88,
+   "flagged": 0,
+   "boundaryFlagged": 0,
+   "uncertain": 0,
+   "tileVersionFlagged": 1,
+   "tileVersionBoundaryFlagged": 0,
+   "mtime": 1793297056000000000,
+   "medianShiftPx": 4.0,
+   "medianScore": 0.8165,
+   "size": [
+    1280,
+    1280
+   ]
+  },
+  "batch": "wholemap-v2-2"
+ },
+ "0905-hd2d": {
+  "stamp": "wholemap-v2-2:0905-hd2d.png:1793297060000000000:{\"boundaryFlagged\": 0, \"flagged\": 0, \"judged\": 88, \"medianScore\": 0.784, \"medianShiftPx\": 4.0, \"mtime\": 1793297060000000000, \"size\": [1280, 1280], \"tileVersionBoundaryFlagged\": 0, \"tileVersionFlagged\": 0, \"uncertain\": 0}",
+  "rel": "generated/maps-whole/hd2d/0905.webp",
+  "map": "0905",
+  "style": "hd2d",
+  "cell": 128,
+  "size": [
+   1280,
+   1280
+  ],
+  "check": {
+   "judged": 88,
+   "flagged": 0,
+   "boundaryFlagged": 0,
+   "uncertain": 0,
+   "tileVersionFlagged": 0,
+   "tileVersionBoundaryFlagged": 0,
+   "mtime": 1793297060000000000,
+   "medianShiftPx": 4.0,
+   "medianScore": 0.784,
+   "size": [
+    1280,
+    1280
+   ]
+  },
+  "batch": "wholemap-v2-2"
+ },
+ "0906-ghibli": {
+  "stamp": "wholemap-v2-2:0906-ghibli.png:1793299579125109002:{\"aligned\": true, \"boundaryFlagged\": 30, \"flagged\": 47, \"judged\": 430, \"medianScore\": 0.464, \"medianShiftPx\": 4.0, \"mtime\": 1793299579125109002, \"size\": [2048, 3840], \"tileVersionBoundaryFlagged\": 6, \"tileVersionFlagged\": 8, \"uncertain\": 75}",
+  "rel": "generated/maps-whole/ghibli/0906.webp",
+  "map": "0906",
+  "style": "ghibli",
+  "cell": 128,
+  "size": [
+   2048,
+   3840
+  ],
+  "check": {
+   "judged": 430,
+   "flagged": 47,
+   "boundaryFlagged": 30,
+   "uncertain": 75,
+   "tileVersionFlagged": 8,
+   "tileVersionBoundaryFlagged": 6,
+   "mtime": 1793299579125109002,
+   "aligned": true,
+   "medianShiftPx": 4.0,
+   "medianScore": 0.464,
+   "size": [
+    2048,
+    3840
+   ]
+  },
+  "batch": "wholemap-v2-2"
+ },
+ "0906-hd2d": {
+  "stamp": "wholemap-v2-2:0906-hd2d.png:1793299605989917009:{\"aligned\": true, \"boundaryFlagged\": 30, \"flagged\": 52, \"judged\": 430, \"medianScore\": 0.454, \"medianShiftPx\": 16.0, \"mtime\": 1793299605989917009, \"size\": [2048, 3840], \"tileVersionBoundaryFlagged\": 10, \"tileVersionFlagged\": 11, \"uncertain\": 140}",
+  "rel": "generated/maps-whole/hd2d/0906.webp",
+  "map": "0906",
+  "style": "hd2d",
+  "cell": 128,
+  "size": [
+   2048,
+   3840
+  ],
+  "check": {
+   "judged": 430,
+   "flagged": 52,
+   "boundaryFlagged": 30,
+   "uncertain": 140,
+   "tileVersionFlagged": 11,
+   "tileVersionBoundaryFlagged": 10,
+   "mtime": 1793299605989917009,
+   "aligned": true,
+   "medianShiftPx": 16.0,
+   "medianScore": 0.454,
+   "size": [
+    2048,
+    3840
+   ]
+  },
+  "batch": "wholemap-v2-2"
+ },
+ "0907-ghibli": {
+  "stamp": "wholemap-v2-2:0907-ghibli.png:1793297095000000000:{\"boundaryFlagged\": 1, \"flagged\": 4, \"judged\": 640, \"medianScore\": 0.484, \"medianShiftPx\": 4.0, \"mtime\": 1793297095000000000, \"size\": [3584, 2240], \"tileVersionBoundaryFlagged\": 0, \"tileVersionFlagged\": 0, \"uncertain\": 236}",
+  "rel": "generated/maps-whole/ghibli/0907.webp",
+  "map": "0907",
+  "style": "ghibli",
+  "cell": 112,
+  "size": [
+   3584,
+   2240
+  ],
+  "check": {
+   "judged": 640,
+   "flagged": 4,
+   "boundaryFlagged": 1,
+   "uncertain": 236,
+   "tileVersionFlagged": 0,
+   "tileVersionBoundaryFlagged": 0,
+   "mtime": 1793297095000000000,
+   "medianShiftPx": 4.0,
+   "medianScore": 0.484,
+   "size": [
+    3584,
+    2240
+   ]
+  },
+  "batch": "wholemap-v2-2"
+ },
+ "0907-hd2d": {
+  "stamp": "wholemap-v2-2:0907-hd2d.png:1793297102000000000:{\"boundaryFlagged\": 1, \"flagged\": 5, \"judged\": 640, \"medianScore\": 0.481, \"medianShiftPx\": 4.0, \"mtime\": 1793297102000000000, \"size\": [3584, 2240], \"tileVersionBoundaryFlagged\": 0, \"tileVersionFlagged\": 0, \"uncertain\": 232}",
+  "rel": "generated/maps-whole/hd2d/0907.webp",
+  "map": "0907",
+  "style": "hd2d",
+  "cell": 112,
+  "size": [
+   3584,
+   2240
+  ],
+  "check": {
+   "judged": 640,
+   "flagged": 5,
+   "boundaryFlagged": 1,
+   "uncertain": 232,
+   "tileVersionFlagged": 0,
+   "tileVersionBoundaryFlagged": 0,
+   "mtime": 1793297102000000000,
+   "medianShiftPx": 4.0,
+   "medianScore": 0.481,
+   "size": [
+    3584,
+    2240
+   ]
+  },
+  "batch": "wholemap-v2-2"
+ },
+ "0908-ghibli": {
+  "stamp": "wholemap-v2-2:0908-ghibli.png:1793299642468190003:{\"aligned\": true, \"boundaryFlagged\": 80, \"flagged\": 100, \"judged\": 600, \"medianScore\": 0.373, \"medianShiftPx\": 20.0, \"mtime\": 1793299642468190003, \"size\": [2688, 2800], \"tileVersionBoundaryFlagged\": 0, \"tileVersionFlagged\": 0, \"uncertain\": 207}",
+  "rel": "generated/maps-whole/ghibli/0908.webp",
+  "map": "0908",
+  "style": "ghibli",
+  "cell": 112,
+  "size": [
+   2688,
+   2800
+  ],
+  "check": {
+   "judged": 600,
+   "flagged": 100,
+   "boundaryFlagged": 80,
+   "uncertain": 207,
+   "tileVersionFlagged": 0,
+   "tileVersionBoundaryFlagged": 0,
+   "mtime": 1793299642468190003,
+   "aligned": true,
+   "medianShiftPx": 20.0,
+   "medianScore": 0.373,
+   "size": [
+    2688,
+    2800
+   ]
+  },
+  "batch": "wholemap-v2-2"
+ },
+ "0908-hd2d": {
+  "stamp": "wholemap-v2-2:0908-hd2d.png:1793299675518716512:{\"aligned\": true, \"boundaryFlagged\": 0, \"flagged\": 1, \"judged\": 600, \"medianScore\": 0.75, \"medianShiftPx\": 0.0, \"mtime\": 1793299675518716512, \"size\": [2688, 2800], \"tileVersionBoundaryFlagged\": 0, \"tileVersionFlagged\": 0, \"uncertain\": 60}",
+  "rel": "generated/maps-whole/hd2d/0908.webp",
+  "map": "0908",
+  "style": "hd2d",
+  "cell": 112,
+  "size": [
+   2688,
+   2800
+  ],
+  "check": {
+   "judged": 600,
+   "flagged": 1,
+   "boundaryFlagged": 0,
+   "uncertain": 60,
+   "tileVersionFlagged": 0,
+   "tileVersionBoundaryFlagged": 0,
+   "mtime": 1793299675518716512,
+   "aligned": true,
+   "medianShiftPx": 0.0,
+   "medianScore": 0.75,
+   "size": [
+    2688,
+    2800
+   ]
+  },
+  "batch": "wholemap-v2-2"
+ },
+ "0a00-ghibli": {
+  "stamp": "wholemap-v2-2:0a00-ghibli.png:1793299696369593633:{\"aligned\": true, \"boundaryFlagged\": 5, \"flagged\": 7, \"judged\": 375, \"medianScore\": 0.605, \"medianShiftPx\": 0.0, \"mtime\": 1793299696369593633, \"size\": [1920, 3200], \"tileVersionBoundaryFlagged\": 4, \"tileVersionFlagged\": 10, \"uncertain\": 34}",
+  "rel": "generated/maps-whole/ghibli/0a00.webp",
+  "map": "0a00",
+  "style": "ghibli",
+  "cell": 128,
+  "size": [
+   1920,
+   3200
+  ],
+  "check": {
+   "judged": 375,
+   "flagged": 7,
+   "boundaryFlagged": 5,
+   "uncertain": 34,
+   "tileVersionFlagged": 10,
+   "tileVersionBoundaryFlagged": 4,
+   "mtime": 1793299696369593633,
+   "aligned": true,
+   "medianShiftPx": 0.0,
+   "medianScore": 0.605,
+   "size": [
+    1920,
+    3200
+   ]
+  },
+  "batch": "wholemap-v2-2"
+ },
+ "0a00-hd2d": {
+  "stamp": "wholemap-v2-2:0a00-hd2d.png:1793299717845408819:{\"aligned\": true, \"boundaryFlagged\": 14, \"flagged\": 16, \"judged\": 375, \"medianScore\": 0.549, \"medianShiftPx\": 0.0, \"mtime\": 1793299717845408819, \"size\": [1920, 3200], \"tileVersionBoundaryFlagged\": 0, \"tileVersionFlagged\": 0, \"uncertain\": 11}",
+  "rel": "generated/maps-whole/hd2d/0a00.webp",
+  "map": "0a00",
+  "style": "hd2d",
+  "cell": 128,
+  "size": [
+   1920,
+   3200
+  ],
+  "check": {
+   "judged": 375,
+   "flagged": 16,
+   "boundaryFlagged": 14,
+   "uncertain": 11,
+   "tileVersionFlagged": 0,
+   "tileVersionBoundaryFlagged": 0,
+   "mtime": 1793299717845408819,
+   "aligned": true,
+   "medianShiftPx": 0.0,
+   "medianScore": 0.549,
+   "size": [
+    1920,
+    3200
+   ]
+  },
+  "batch": "wholemap-v2-2"
+ },
+ "0a01-ghibli": {
+  "stamp": "wholemap-v2-2:0a01-ghibli.png:1793299725970613459:{\"aligned\": true, \"boundaryFlagged\": 0, \"flagged\": 0, \"judged\": 142, \"medianScore\": 0.7525, \"medianShiftPx\": 0.0, \"mtime\": 1793299725970613459, \"size\": [1280, 1920], \"tileVersionBoundaryFlagged\": 0, \"tileVersionFlagged\": 0, \"uncertain\": 0}",
+  "rel": "generated/maps-whole/ghibli/0a01.webp",
+  "map": "0a01",
+  "style": "ghibli",
+  "cell": 128,
+  "size": [
+   1280,
+   1920
+  ],
+  "check": {
+   "judged": 142,
+   "flagged": 0,
+   "boundaryFlagged": 0,
+   "uncertain": 0,
+   "tileVersionFlagged": 0,
+   "tileVersionBoundaryFlagged": 0,
+   "mtime": 1793299725970613459,
+   "aligned": true,
+   "medianShiftPx": 0.0,
+   "medianScore": 0.7525,
+   "size": [
+    1280,
+    1920
+   ]
+  },
+  "batch": "wholemap-v2-2"
+ },
+ "0a01-hd2d": {
+  "stamp": "wholemap-v2-2:0a01-hd2d.png:1793297140000000000:{\"boundaryFlagged\": 0, \"flagged\": 0, \"judged\": 142, \"medianScore\": 0.822, \"medianShiftPx\": 4.0, \"mtime\": 1793297140000000000, \"size\": [1280, 1920], \"tileVersionBoundaryFlagged\": 0, \"tileVersionFlagged\": 0, \"uncertain\": 0}",
+  "rel": "generated/maps-whole/hd2d/0a01.webp",
+  "map": "0a01",
+  "style": "hd2d",
+  "cell": 128,
+  "size": [
+   1280,
+   1920
+  ],
+  "check": {
+   "judged": 142,
+   "flagged": 0,
+   "boundaryFlagged": 0,
+   "uncertain": 0,
+   "tileVersionFlagged": 0,
+   "tileVersionBoundaryFlagged": 0,
+   "mtime": 1793297140000000000,
+   "medianShiftPx": 4.0,
+   "medianScore": 0.822,
+   "size": [
+    1280,
+    1920
+   ]
+  },
+  "batch": "wholemap-v2-2"
+ },
+ "0a02-ghibli": {
+  "stamp": "wholemap-v2-2:0a02-ghibli.png:1793299730452272383:{\"aligned\": true, \"boundaryFlagged\": 0, \"flagged\": 0, \"judged\": 72, \"medianScore\": 0.778, \"medianShiftPx\": 0.0, \"mtime\": 1793299730452272383, \"size\": [1280, 1280], \"tileVersionBoundaryFlagged\": 3, \"tileVersionFlagged\": 5, \"uncertain\": 0}",
+  "rel": "generated/maps-whole/ghibli/0a02.webp",
+  "map": "0a02",
+  "style": "ghibli",
+  "cell": 128,
+  "size": [
+   1280,
+   1280
+  ],
+  "check": {
+   "judged": 72,
+   "flagged": 0,
+   "boundaryFlagged": 0,
+   "uncertain": 0,
+   "tileVersionFlagged": 5,
+   "tileVersionBoundaryFlagged": 3,
+   "mtime": 1793299730452272383,
+   "aligned": true,
+   "medianShiftPx": 0.0,
+   "medianScore": 0.778,
+   "size": [
+    1280,
+    1280
+   ]
+  },
+  "batch": "wholemap-v2-2"
+ },
+ "0a02-hd2d": {
+  "stamp": "wholemap-v2-2:0a02-hd2d.png:1793297163000000000:{\"boundaryFlagged\": 0, \"flagged\": 11, \"judged\": 72, \"medianScore\": 0.796, \"medianShiftPx\": 28.0, \"mtime\": 1793297163000000000, \"size\": [1280, 1280], \"tileVersionBoundaryFlagged\": 0, \"tileVersionFlagged\": 0, \"uncertain\": 0}",
+  "rel": "generated/maps-whole/hd2d/0a02.webp",
+  "map": "0a02",
+  "style": "hd2d",
+  "cell": 128,
+  "size": [
+   1280,
+   1280
+  ],
+  "check": {
+   "judged": 72,
+   "flagged": 11,
+   "boundaryFlagged": 0,
+   "uncertain": 0,
+   "tileVersionFlagged": 0,
+   "tileVersionBoundaryFlagged": 0,
+   "mtime": 1793297163000000000,
+   "medianShiftPx": 28.0,
+   "medianScore": 0.796,
+   "size": [
+    1280,
+    1280
+   ]
+  },
+  "batch": "wholemap-v2-2"
+ },
+ "0a03-ghibli": {
+  "stamp": "wholemap-v2-2:0a03-ghibli.png:1793297192000000000:{\"boundaryFlagged\": 0, \"flagged\": 0, \"judged\": 80, \"medianScore\": 0.845, \"medianShiftPx\": 0.0, \"mtime\": 1793297192000000000, \"size\": [1280, 1280], \"tileVersionBoundaryFlagged\": 0, \"tileVersionFlagged\": 0, \"uncertain\": 0}",
+  "rel": "generated/maps-whole/ghibli/0a03.webp",
+  "map": "0a03",
+  "style": "ghibli",
+  "cell": 128,
+  "size": [
+   1280,
+   1280
+  ],
+  "check": {
+   "judged": 80,
+   "flagged": 0,
+   "boundaryFlagged": 0,
+   "uncertain": 0,
+   "tileVersionFlagged": 0,
+   "tileVersionBoundaryFlagged": 0,
+   "mtime": 1793297192000000000,
+   "medianShiftPx": 0.0,
+   "medianScore": 0.845,
+   "size": [
+    1280,
+    1280
+   ]
+  },
+  "batch": "wholemap-v2-2"
+ },
+ "0a03-hd2d": {
+  "stamp": "wholemap-v2-2:0a03-hd2d.png:1793297203000000000:{\"boundaryFlagged\": 2, \"flagged\": 2, \"judged\": 80, \"medianScore\": 0.7424999999999999, \"medianShiftPx\": 12.0, \"mtime\": 1793297203000000000, \"size\": [1280, 1280], \"tileVersionBoundaryFlagged\": 0, \"tileVersionFlagged\": 0, \"uncertain\": 0}",
+  "rel": "generated/maps-whole/hd2d/0a03.webp",
+  "map": "0a03",
+  "style": "hd2d",
+  "cell": 128,
+  "size": [
+   1280,
+   1280
+  ],
+  "check": {
+   "judged": 80,
+   "flagged": 2,
+   "boundaryFlagged": 2,
+   "uncertain": 0,
+   "tileVersionFlagged": 0,
+   "tileVersionBoundaryFlagged": 0,
+   "mtime": 1793297203000000000,
+   "medianShiftPx": 12.0,
+   "medianScore": 0.7424999999999999,
+   "size": [
+    1280,
+    1280
+   ]
+  },
+  "batch": "wholemap-v2-2"
+ },
+ "0a04-ghibli": {
+  "stamp": "wholemap-v2-2:0a04-ghibli.png:1793297228000000000:{\"boundaryFlagged\": 0, \"flagged\": 0, \"judged\": 81, \"medianScore\": 0.837, \"medianShiftPx\": 4.0, \"mtime\": 1793297228000000000, \"size\": [1280, 1280], \"tileVersionBoundaryFlagged\": 3, \"tileVersionFlagged\": 4, \"uncertain\": 0}",
+  "rel": "generated/maps-whole/ghibli/0a04.webp",
+  "map": "0a04",
+  "style": "ghibli",
+  "cell": 128,
+  "size": [
+   1280,
+   1280
+  ],
+  "check": {
+   "judged": 81,
+   "flagged": 0,
+   "boundaryFlagged": 0,
+   "uncertain": 0,
+   "tileVersionFlagged": 4,
+   "tileVersionBoundaryFlagged": 3,
+   "mtime": 1793297228000000000,
+   "medianShiftPx": 4.0,
+   "medianScore": 0.837,
+   "size": [
+    1280,
+    1280
+   ]
+  },
+  "batch": "wholemap-v2-2"
+ },
+ "0a04-hd2d": {
+  "stamp": "wholemap-v2-2:0a04-hd2d.png:1793297227000000000:{\"boundaryFlagged\": 0, \"flagged\": 2, \"judged\": 81, \"medianScore\": 0.711, \"medianShiftPx\": 12.0, \"mtime\": 1793297227000000000, \"size\": [1280, 1280], \"tileVersionBoundaryFlagged\": 3, \"tileVersionFlagged\": 3, \"uncertain\": 0}",
+  "rel": "generated/maps-whole/hd2d/0a04.webp",
+  "map": "0a04",
+  "style": "hd2d",
+  "cell": 128,
+  "size": [
+   1280,
+   1280
+  ],
+  "check": {
+   "judged": 81,
+   "flagged": 2,
+   "boundaryFlagged": 0,
+   "uncertain": 0,
+   "tileVersionFlagged": 3,
+   "tileVersionBoundaryFlagged": 3,
+   "mtime": 1793297227000000000,
+   "medianShiftPx": 12.0,
+   "medianScore": 0.711,
+   "size": [
+    1280,
+    1280
+   ]
+  },
+  "batch": "wholemap-v2-2"
+ },
+ "0a05-ghibli": {
+  "stamp": "wholemap-v2-2:0a05-ghibli.png:1793297233000000000:{\"boundaryFlagged\": 0, \"flagged\": 0, \"judged\": 74, \"medianScore\": 0.8585, \"medianShiftPx\": 0.0, \"mtime\": 1793297233000000000, \"size\": [1280, 1280], \"tileVersionBoundaryFlagged\": 1, \"tileVersionFlagged\": 1, \"uncertain\": 0}",
+  "rel": "generated/maps-whole/ghibli/0a05.webp",
+  "map": "0a05",
+  "style": "ghibli",
+  "cell": 128,
+  "size": [
+   1280,
+   1280
+  ],
+  "check": {
+   "judged": 74,
+   "flagged": 0,
+   "boundaryFlagged": 0,
+   "uncertain": 0,
+   "tileVersionFlagged": 1,
+   "tileVersionBoundaryFlagged": 1,
+   "mtime": 1793297233000000000,
+   "medianShiftPx": 0.0,
+   "medianScore": 0.8585,
+   "size": [
+    1280,
+    1280
+   ]
+  },
+  "batch": "wholemap-v2-2"
+ },
+ "0a05-hd2d": {
+  "stamp": "wholemap-v2-2:0a05-hd2d.png:1793297238000000000:{\"boundaryFlagged\": 1, \"flagged\": 5, \"judged\": 74, \"medianScore\": 0.695, \"medianShiftPx\": 20.0, \"mtime\": 1793297238000000000, \"size\": [1280, 1280], \"tileVersionBoundaryFlagged\": 0, \"tileVersionFlagged\": 0, \"uncertain\": 0}",
+  "rel": "generated/maps-whole/hd2d/0a05.webp",
+  "map": "0a05",
+  "style": "hd2d",
+  "cell": 128,
+  "size": [
+   1280,
+   1280
+  ],
+  "check": {
+   "judged": 74,
+   "flagged": 5,
+   "boundaryFlagged": 1,
+   "uncertain": 0,
+   "tileVersionFlagged": 0,
+   "tileVersionBoundaryFlagged": 0,
+   "mtime": 1793297238000000000,
+   "medianShiftPx": 20.0,
+   "medianScore": 0.695,
+   "size": [
+    1280,
+    1280
+   ]
+  },
+  "batch": "wholemap-v2-2"
+ },
+ "0a06-ghibli": {
+  "stamp": "wholemap-v2-2:0a06-ghibli.png:1793299760247582281:{\"aligned\": true, \"boundaryFlagged\": 0, \"flagged\": 0, \"judged\": 487, \"medianScore\": 0.55, \"medianShiftPx\": 0.0, \"mtime\": 1793299760247582281, \"size\": [2688, 2800], \"tileVersionBoundaryFlagged\": 0, \"tileVersionFlagged\": 0, \"uncertain\": 78}",
+  "rel": "generated/maps-whole/ghibli/0a06.webp",
+  "map": "0a06",
+  "style": "ghibli",
+  "cell": 112,
+  "size": [
+   2688,
+   2800
+  ],
+  "check": {
+   "judged": 487,
+   "flagged": 0,
+   "boundaryFlagged": 0,
+   "uncertain": 78,
+   "tileVersionFlagged": 0,
+   "tileVersionBoundaryFlagged": 0,
+   "mtime": 1793299760247582281,
+   "aligned": true,
+   "medianShiftPx": 0.0,
+   "medianScore": 0.55,
+   "size": [
+    2688,
+    2800
+   ]
+  },
+  "batch": "wholemap-v2-2"
+ },
+ "0a06-hd2d": {
+  "stamp": "wholemap-v2-2:0a06-hd2d.png:1793299788922887478:{\"aligned\": true, \"boundaryFlagged\": 0, \"flagged\": 0, \"judged\": 487, \"medianScore\": 0.655, \"medianShiftPx\": 0.0, \"mtime\": 1793299788922887478, \"size\": [2688, 2800], \"tileVersionBoundaryFlagged\": 0, \"tileVersionFlagged\": 0, \"uncertain\": 76}",
+  "rel": "generated/maps-whole/hd2d/0a06.webp",
+  "map": "0a06",
+  "style": "hd2d",
+  "cell": 112,
+  "size": [
+   2688,
+   2800
+  ],
+  "check": {
+   "judged": 487,
+   "flagged": 0,
+   "boundaryFlagged": 0,
+   "uncertain": 76,
+   "tileVersionFlagged": 0,
+   "tileVersionBoundaryFlagged": 0,
+   "mtime": 1793299788922887478,
+   "aligned": true,
+   "medianShiftPx": 0.0,
+   "medianScore": 0.655,
+   "size": [
+    2688,
+    2800
+   ]
+  },
+  "batch": "wholemap-v2-2"
+ },
+ "0a07-ghibli": {
+  "stamp": "wholemap-v2-2:0a07-ghibli.png:1793297255000000000:{\"boundaryFlagged\": 0, \"flagged\": 1, \"judged\": 113, \"medianScore\": 0.835, \"medianShiftPx\": 8.0, \"mtime\": 1793297255000000000, \"size\": [1408, 1536], \"tileVersionBoundaryFlagged\": 0, \"tileVersionFlagged\": 0, \"uncertain\": 1}",
+  "rel": "generated/maps-whole/ghibli/0a07.webp",
+  "map": "0a07",
+  "style": "ghibli",
+  "cell": 128,
+  "size": [
+   1408,
+   1536
+  ],
+  "check": {
+   "judged": 113,
+   "flagged": 1,
+   "boundaryFlagged": 0,
+   "uncertain": 1,
+   "tileVersionFlagged": 0,
+   "tileVersionBoundaryFlagged": 0,
+   "mtime": 1793297255000000000,
+   "medianShiftPx": 8.0,
+   "medianScore": 0.835,
+   "size": [
+    1408,
+    1536
+   ]
+  },
+  "batch": "wholemap-v2-2"
+ },
+ "0a07-hd2d": {
+  "stamp": "wholemap-v2-2:0a07-hd2d.png:1793297262000000000:{\"boundaryFlagged\": 0, \"flagged\": 1, \"judged\": 113, \"medianScore\": 0.708, \"medianShiftPx\": 12.0, \"mtime\": 1793297262000000000, \"size\": [1408, 1536], \"tileVersionBoundaryFlagged\": 0, \"tileVersionFlagged\": 0, \"uncertain\": 0}",
+  "rel": "generated/maps-whole/hd2d/0a07.webp",
+  "map": "0a07",
+  "style": "hd2d",
+  "cell": 128,
+  "size": [
+   1408,
+   1536
+  ],
+  "check": {
+   "judged": 113,
+   "flagged": 1,
+   "boundaryFlagged": 0,
+   "uncertain": 0,
+   "tileVersionFlagged": 0,
+   "tileVersionBoundaryFlagged": 0,
+   "mtime": 1793297262000000000,
+   "medianShiftPx": 12.0,
+   "medianScore": 0.708,
+   "size": [
+    1408,
+    1536
+   ]
+  },
+  "batch": "wholemap-v2-2"
+ },
+ "0a08-ghibli": {
+  "stamp": "wholemap-v2-2:0a08-ghibli.png:1793297291000000000:{\"boundaryFlagged\": 0, \"flagged\": 0, \"judged\": 490, \"medianScore\": 0.5794999999999999, \"medianShiftPx\": 8.0, \"mtime\": 1793297291000000000, \"size\": [2304, 2880], \"tileVersionBoundaryFlagged\": 0, \"tileVersionFlagged\": 0, \"uncertain\": 21}",
+  "rel": "generated/maps-whole/ghibli/0a08.webp",
+  "map": "0a08",
+  "style": "ghibli",
+  "cell": 96,
+  "size": [
+   2304,
+   2880
+  ],
+  "check": {
+   "judged": 490,
+   "flagged": 0,
+   "boundaryFlagged": 0,
+   "uncertain": 21,
+   "tileVersionFlagged": 0,
+   "tileVersionBoundaryFlagged": 0,
+   "mtime": 1793297291000000000,
+   "medianShiftPx": 8.0,
+   "medianScore": 0.5794999999999999,
+   "size": [
+    2304,
+    2880
+   ]
+  },
+  "batch": "wholemap-v2-2"
+ },
+ "0a08-hd2d": {
+  "stamp": "wholemap-v2-2:0a08-hd2d.png:1793297308000000000:{\"boundaryFlagged\": 0, \"flagged\": 0, \"judged\": 490, \"medianScore\": 0.6025, \"medianShiftPx\": 12.0, \"mtime\": 1793297308000000000, \"size\": [2304, 2880], \"tileVersionBoundaryFlagged\": 0, \"tileVersionFlagged\": 0, \"uncertain\": 106}",
+  "rel": "generated/maps-whole/hd2d/0a08.webp",
+  "map": "0a08",
+  "style": "hd2d",
+  "cell": 96,
+  "size": [
+   2304,
+   2880
+  ],
+  "check": {
+   "judged": 490,
+   "flagged": 0,
+   "boundaryFlagged": 0,
+   "uncertain": 106,
+   "tileVersionFlagged": 0,
+   "tileVersionBoundaryFlagged": 0,
+   "mtime": 1793297308000000000,
+   "medianShiftPx": 12.0,
+   "medianScore": 0.6025,
+   "size": [
+    2304,
+    2880
+   ]
+  },
+  "batch": "wholemap-v2-2"
+ },
+ "0b00-ghibli": {
+  "stamp": "wholemap-v2-2:0b00-ghibli.png:1793299801902836326:{\"aligned\": true, \"boundaryFlagged\": 1, \"flagged\": 1, \"judged\": 240, \"medianScore\": 0.5115000000000001, \"medianShiftPx\": 0.0, \"mtime\": 1793299801902836326, \"size\": [2048, 1920], \"tileVersionBoundaryFlagged\": 2, \"tileVersionFlagged\": 2, \"uncertain\": 31}",
+  "rel": "generated/maps-whole/ghibli/0b00.webp",
+  "map": "0b00",
+  "style": "ghibli",
+  "cell": 128,
+  "size": [
+   2048,
+   1920
+  ],
+  "check": {
+   "judged": 240,
+   "flagged": 1,
+   "boundaryFlagged": 1,
+   "uncertain": 31,
+   "tileVersionFlagged": 2,
+   "tileVersionBoundaryFlagged": 2,
+   "mtime": 1793299801902836326,
+   "aligned": true,
+   "medianShiftPx": 0.0,
+   "medianScore": 0.5115000000000001,
+   "size": [
+    2048,
+    1920
+   ]
+  },
+  "batch": "wholemap-v2-2"
+ },
+ "0b00-hd2d": {
+  "stamp": "wholemap-v2-2:0b00-hd2d.png:1793299814841565222:{\"aligned\": true, \"boundaryFlagged\": 6, \"flagged\": 6, \"judged\": 240, \"medianScore\": 0.4735, \"medianShiftPx\": 0.0, \"mtime\": 1793299814841565222, \"size\": [2048, 1920], \"tileVersionBoundaryFlagged\": 0, \"tileVersionFlagged\": 0, \"uncertain\": 32}",
+  "rel": "generated/maps-whole/hd2d/0b00.webp",
+  "map": "0b00",
+  "style": "hd2d",
+  "cell": 128,
+  "size": [
+   2048,
+   1920
+  ],
+  "check": {
+   "judged": 240,
+   "flagged": 6,
+   "boundaryFlagged": 6,
+   "uncertain": 32,
+   "tileVersionFlagged": 0,
+   "tileVersionBoundaryFlagged": 0,
+   "mtime": 1793299814841565222,
+   "aligned": true,
+   "medianShiftPx": 0.0,
+   "medianScore": 0.4735,
+   "size": [
+    2048,
+    1920
+   ]
+  },
+  "batch": "wholemap-v2-2"
+ },
+ "0b01-ghibli": {
+  "stamp": "wholemap-v2-2:0b01-ghibli.png:1793297334000000000:{\"boundaryFlagged\": 0, \"flagged\": 1, \"judged\": 88, \"medianScore\": 0.805, \"medianShiftPx\": 0.0, \"mtime\": 1793297334000000000, \"size\": [1280, 1280], \"tileVersionBoundaryFlagged\": 0, \"tileVersionFlagged\": 2, \"uncertain\": 0}",
+  "rel": "generated/maps-whole/ghibli/0b01.webp",
+  "map": "0b01",
+  "style": "ghibli",
+  "cell": 128,
+  "size": [
+   1280,
+   1280
+  ],
+  "check": {
+   "judged": 88,
+   "flagged": 1,
+   "boundaryFlagged": 0,
+   "uncertain": 0,
+   "tileVersionFlagged": 2,
+   "tileVersionBoundaryFlagged": 0,
+   "mtime": 1793297334000000000,
+   "medianShiftPx": 0.0,
+   "medianScore": 0.805,
+   "size": [
+    1280,
+    1280
+   ]
+  },
+  "batch": "wholemap-v2-2"
+ },
+ "0b01-hd2d": {
+  "stamp": "wholemap-v2-2:0b01-hd2d.png:1793297335000000000:{\"boundaryFlagged\": 0, \"flagged\": 0, \"judged\": 88, \"medianScore\": 0.8294999999999999, \"medianShiftPx\": 0.0, \"mtime\": 1793297335000000000, \"size\": [1280, 1280], \"tileVersionBoundaryFlagged\": 1, \"tileVersionFlagged\": 2, \"uncertain\": 0}",
+  "rel": "generated/maps-whole/hd2d/0b01.webp",
+  "map": "0b01",
+  "style": "hd2d",
+  "cell": 128,
+  "size": [
+   1280,
+   1280
+  ],
+  "check": {
+   "judged": 88,
+   "flagged": 0,
+   "boundaryFlagged": 0,
+   "uncertain": 0,
+   "tileVersionFlagged": 2,
+   "tileVersionBoundaryFlagged": 1,
+   "mtime": 1793297335000000000,
+   "medianShiftPx": 0.0,
+   "medianScore": 0.8294999999999999,
+   "size": [
+    1280,
+    1280
+   ]
+  },
+  "batch": "wholemap-v2-2"
+ },
+ "0b02-ghibli": {
+  "stamp": "wholemap-v2-2:0b02-ghibli.png:1793297356000000000:{\"boundaryFlagged\": 0, \"flagged\": 0, \"judged\": 88, \"medianScore\": 0.804, \"medianShiftPx\": 0.0, \"mtime\": 1793297356000000000, \"size\": [1280, 1280], \"tileVersionBoundaryFlagged\": 0, \"tileVersionFlagged\": 1, \"uncertain\": 0}",
+  "rel": "generated/maps-whole/ghibli/0b02.webp",
+  "map": "0b02",
+  "style": "ghibli",
+  "cell": 128,
+  "size": [
+   1280,
+   1280
+  ],
+  "check": {
+   "judged": 88,
+   "flagged": 0,
+   "boundaryFlagged": 0,
+   "uncertain": 0,
+   "tileVersionFlagged": 1,
+   "tileVersionBoundaryFlagged": 0,
+   "mtime": 1793297356000000000,
+   "medianShiftPx": 0.0,
+   "medianScore": 0.804,
+   "size": [
+    1280,
+    1280
+   ]
+  },
+  "batch": "wholemap-v2-2"
+ },
+ "0b02-hd2d": {
+  "stamp": "wholemap-v2-2:0b02-hd2d.png:1793297366000000000:{\"boundaryFlagged\": 1, \"flagged\": 14, \"judged\": 88, \"medianScore\": 0.649, \"medianShiftPx\": 24.0, \"mtime\": 1793297366000000000, \"size\": [1280, 1280], \"tileVersionBoundaryFlagged\": 0, \"tileVersionFlagged\": 1, \"uncertain\": 9}",
+  "rel": "generated/maps-whole/hd2d/0b02.webp",
+  "map": "0b02",
+  "style": "hd2d",
+  "cell": 128,
+  "size": [
+   1280,
+   1280
+  ],
+  "check": {
+   "judged": 88,
+   "flagged": 14,
+   "boundaryFlagged": 1,
+   "uncertain": 9,
+   "tileVersionFlagged": 1,
+   "tileVersionBoundaryFlagged": 0,
+   "mtime": 1793297366000000000,
+   "medianShiftPx": 24.0,
+   "medianScore": 0.649,
+   "size": [
+    1280,
+    1280
+   ]
+  },
+  "batch": "wholemap-v2-2"
+ },
+ "0b03-ghibli": {
+  "stamp": "wholemap-v2-2:0b03-ghibli.png:1793297386000000000:{\"boundaryFlagged\": 0, \"flagged\": 2, \"judged\": 88, \"medianScore\": 0.8045, \"medianShiftPx\": 4.0, \"mtime\": 1793297386000000000, \"size\": [1280, 1280], \"tileVersionBoundaryFlagged\": 0, \"tileVersionFlagged\": 1, \"uncertain\": 0}",
+  "rel": "generated/maps-whole/ghibli/0b03.webp",
+  "map": "0b03",
+  "style": "ghibli",
+  "cell": 128,
+  "size": [
+   1280,
+   1280
+  ],
+  "check": {
+   "judged": 88,
+   "flagged": 2,
+   "boundaryFlagged": 0,
+   "uncertain": 0,
+   "tileVersionFlagged": 1,
+   "tileVersionBoundaryFlagged": 0,
+   "mtime": 1793297386000000000,
+   "medianShiftPx": 4.0,
+   "medianScore": 0.8045,
+   "size": [
+    1280,
+    1280
+   ]
+  },
+  "batch": "wholemap-v2-2"
+ },
+ "0b03-hd2d": {
+  "stamp": "wholemap-v2-2:0b03-hd2d.png:1793297388000000000:{\"boundaryFlagged\": 0, \"flagged\": 0, \"judged\": 88, \"medianScore\": 0.8845000000000001, \"medianShiftPx\": 0.0, \"mtime\": 1793297388000000000, \"size\": [1280, 1280], \"tileVersionBoundaryFlagged\": 0, \"tileVersionFlagged\": 0, \"uncertain\": 0}",
+  "rel": "generated/maps-whole/hd2d/0b03.webp",
+  "map": "0b03",
+  "style": "hd2d",
+  "cell": 128,
+  "size": [
+   1280,
+   1280
+  ],
+  "check": {
+   "judged": 88,
+   "flagged": 0,
+   "boundaryFlagged": 0,
+   "uncertain": 0,
+   "tileVersionFlagged": 0,
+   "tileVersionBoundaryFlagged": 0,
+   "mtime": 1793297388000000000,
+   "medianShiftPx": 0.0,
+   "medianScore": 0.8845000000000001,
+   "size": [
+    1280,
+    1280
+   ]
+  },
+  "batch": "wholemap-v2-2"
+ },
+ "0b04-ghibli": {
+  "stamp": "wholemap-v2-2:0b04-ghibli.png:1793297385000000000:{\"boundaryFlagged\": 2, \"flagged\": 2, \"judged\": 62, \"medianScore\": 0.7955000000000001, \"medianShiftPx\": 4.0, \"mtime\": 1793297385000000000, \"size\": [1280, 1280], \"tileVersionBoundaryFlagged\": 0, \"tileVersionFlagged\": 0, \"uncertain\": 0}",
+  "rel": "generated/maps-whole/ghibli/0b04.webp",
+  "map": "0b04",
+  "style": "ghibli",
+  "cell": 128,
+  "size": [
+   1280,
+   1280
+  ],
+  "check": {
+   "judged": 62,
+   "flagged": 2,
+   "boundaryFlagged": 2,
+   "uncertain": 0,
+   "tileVersionFlagged": 0,
+   "tileVersionBoundaryFlagged": 0,
+   "mtime": 1793297385000000000,
+   "medianShiftPx": 4.0,
+   "medianScore": 0.7955000000000001,
+   "size": [
+    1280,
+    1280
+   ]
+  },
+  "batch": "wholemap-v2-2"
+ },
+ "0b04-hd2d": {
+  "stamp": "wholemap-v2-2:0b04-hd2d.png:1793297404000000000:{\"boundaryFlagged\": 0, \"flagged\": 0, \"judged\": 62, \"medianScore\": 0.8254999999999999, \"medianShiftPx\": 4.0, \"mtime\": 1793297404000000000, \"size\": [1280, 1280], \"tileVersionBoundaryFlagged\": 0, \"tileVersionFlagged\": 0, \"uncertain\": 0}",
+  "rel": "generated/maps-whole/hd2d/0b04.webp",
+  "map": "0b04",
+  "style": "hd2d",
+  "cell": 128,
+  "size": [
+   1280,
+   1280
+  ],
+  "check": {
+   "judged": 62,
+   "flagged": 0,
+   "boundaryFlagged": 0,
+   "uncertain": 0,
+   "tileVersionFlagged": 0,
+   "tileVersionBoundaryFlagged": 0,
+   "mtime": 1793297404000000000,
+   "medianShiftPx": 4.0,
+   "medianScore": 0.8254999999999999,
+   "size": [
+    1280,
+    1280
+   ]
+  },
+  "batch": "wholemap-v2-2"
+ },
+ "0b05-ghibli": {
+  "stamp": "wholemap-v2-2:0b05-ghibli.png:1793299857921826377:{\"aligned\": true, \"boundaryFlagged\": 8, \"flagged\": 9, \"judged\": 800, \"medianScore\": 0.558, \"medianShiftPx\": 0.0, \"mtime\": 1793299857921826377, \"size\": [3072, 2400], \"tileVersionBoundaryFlagged\": 0, \"tileVersionFlagged\": 18, \"uncertain\": 192}",
+  "rel": "generated/maps-whole/ghibli/0b05.webp",
+  "map": "0b05",
+  "style": "ghibli",
+  "cell": 96,
+  "size": [
+   3072,
+   2400
+  ],
+  "check": {
+   "judged": 800,
+   "flagged": 9,
+   "boundaryFlagged": 8,
+   "uncertain": 192,
+   "tileVersionFlagged": 18,
+   "tileVersionBoundaryFlagged": 0,
+   "mtime": 1793299857921826377,
+   "aligned": true,
+   "medianShiftPx": 0.0,
+   "medianScore": 0.558,
+   "size": [
+    3072,
+    2400
+   ]
+  },
+  "batch": "wholemap-v2-2"
+ },
+ "0b05-hd2d": {
+  "stamp": "wholemap-v2-2:0b05-hd2d.png:1793299901777407387:{\"aligned\": true, \"boundaryFlagged\": 15, \"flagged\": 24, \"judged\": 800, \"medianScore\": 0.5725, \"medianShiftPx\": 0.0, \"mtime\": 1793299901777407387, \"size\": [3072, 2400], \"tileVersionBoundaryFlagged\": 0, \"tileVersionFlagged\": 0, \"uncertain\": 197}",
+  "rel": "generated/maps-whole/hd2d/0b05.webp",
+  "map": "0b05",
+  "style": "hd2d",
+  "cell": 96,
+  "size": [
+   3072,
+   2400
+  ],
+  "check": {
+   "judged": 800,
+   "flagged": 24,
+   "boundaryFlagged": 15,
+   "uncertain": 197,
+   "tileVersionFlagged": 0,
+   "tileVersionBoundaryFlagged": 0,
+   "mtime": 1793299901777407387,
+   "aligned": true,
+   "medianShiftPx": 0.0,
+   "medianScore": 0.5725,
+   "size": [
+    3072,
+    2400
+   ]
+  },
+  "batch": "wholemap-v2-2"
+ },
+ "0b06-ghibli": {
+  "stamp": "wholemap-v2-2:0b06-ghibli.png:1793299942562026615:{\"aligned\": true, \"boundaryFlagged\": 58, \"flagged\": 62, \"judged\": 720, \"medianScore\": 0.4425, \"medianShiftPx\": 4.0, \"mtime\": 1793299942562026615, \"size\": [2304, 2880], \"tileVersionBoundaryFlagged\": 31, \"tileVersionFlagged\": 42, \"uncertain\": 233}",
+  "rel": "generated/maps-whole/ghibli/0b06.webp",
+  "map": "0b06",
+  "style": "ghibli",
+  "cell": 96,
+  "size": [
+   2304,
+   2880
+  ],
+  "check": {
+   "judged": 720,
+   "flagged": 62,
+   "boundaryFlagged": 58,
+   "uncertain": 233,
+   "tileVersionFlagged": 42,
+   "tileVersionBoundaryFlagged": 31,
+   "mtime": 1793299942562026615,
+   "aligned": true,
+   "medianShiftPx": 4.0,
+   "medianScore": 0.4425,
+   "size": [
+    2304,
+    2880
+   ]
+  },
+  "batch": "wholemap-v2-2"
+ },
+ "0b06-hd2d": {
+  "stamp": "wholemap-v2-2:0b06-hd2d.png:1793299984507752042:{\"aligned\": true, \"boundaryFlagged\": 21, \"flagged\": 23, \"judged\": 720, \"medianScore\": 0.49, \"medianShiftPx\": 0.0, \"mtime\": 1793299984507752042, \"size\": [2304, 2880], \"tileVersionBoundaryFlagged\": 0, \"tileVersionFlagged\": 0, \"uncertain\": 81}",
+  "rel": "generated/maps-whole/hd2d/0b06.webp",
+  "map": "0b06",
+  "style": "hd2d",
+  "cell": 96,
+  "size": [
+   2304,
+   2880
+  ],
+  "check": {
+   "judged": 720,
+   "flagged": 23,
+   "boundaryFlagged": 21,
+   "uncertain": 81,
+   "tileVersionFlagged": 0,
+   "tileVersionBoundaryFlagged": 0,
+   "mtime": 1793299984507752042,
+   "aligned": true,
+   "medianShiftPx": 0.0,
+   "medianScore": 0.49,
+   "size": [
+    2304,
+    2880
+   ]
+  },
+  "batch": "wholemap-v2-2"
+ },
+ "0b07-ghibli": {
+  "stamp": "wholemap-v2-2:0b07-ghibli.png:1793300018788897591:{\"aligned\": true, \"boundaryFlagged\": 6, \"flagged\": 7, \"judged\": 600, \"medianScore\": 0.316, \"medianShiftPx\": 4.0, \"mtime\": 1793300018788897591, \"size\": [2688, 2800], \"tileVersionBoundaryFlagged\": 2, \"tileVersionFlagged\": 8, \"uncertain\": 293}",
+  "rel": "generated/maps-whole/ghibli/0b07.webp",
+  "map": "0b07",
+  "style": "ghibli",
+  "cell": 112,
+  "size": [
+   2688,
+   2800
+  ],
+  "check": {
+   "judged": 600,
+   "flagged": 7,
+   "boundaryFlagged": 6,
+   "uncertain": 293,
+   "tileVersionFlagged": 8,
+   "tileVersionBoundaryFlagged": 2,
+   "mtime": 1793300018788897591,
+   "aligned": true,
+   "medianShiftPx": 4.0,
+   "medianScore": 0.316,
+   "size": [
+    2688,
+    2800
+   ]
+  },
+  "batch": "wholemap-v2-2"
+ },
+ "0b07-hd2d": {
+  "stamp": "wholemap-v2-2:0b07-hd2d.png:1793297491000000000:{\"boundaryFlagged\": 4, \"flagged\": 5, \"judged\": 600, \"medianScore\": 0.33, \"medianShiftPx\": 16.0, \"mtime\": 1793297491000000000, \"size\": [2688, 2800], \"tileVersionBoundaryFlagged\": 4, \"tileVersionFlagged\": 7, \"uncertain\": 281}",
+  "rel": "generated/maps-whole/hd2d/0b07.webp",
+  "map": "0b07",
+  "style": "hd2d",
+  "cell": 112,
+  "size": [
+   2688,
+   2800
+  ],
+  "check": {
+   "judged": 600,
+   "flagged": 5,
+   "boundaryFlagged": 4,
+   "uncertain": 281,
+   "tileVersionFlagged": 7,
+   "tileVersionBoundaryFlagged": 4,
+   "mtime": 1793297491000000000,
+   "medianShiftPx": 16.0,
+   "medianScore": 0.33,
+   "size": [
+    2688,
+    2800
+   ]
+  },
+  "batch": "wholemap-v2-2"
+ },
+ "0b08-ghibli": {
+  "stamp": "wholemap-v2-2:0b08-ghibli.png:1793300056911681178:{\"aligned\": true, \"boundaryFlagged\": 30, \"flagged\": 30, \"judged\": 640, \"medianScore\": 0.594, \"medianShiftPx\": 0.0, \"mtime\": 1793300056911681178, \"size\": [3584, 2240], \"tileVersionBoundaryFlagged\": 29, \"tileVersionFlagged\": 32, \"uncertain\": 106}",
+  "rel": "generated/maps-whole/ghibli/0b08.webp",
+  "map": "0b08",
+  "style": "ghibli",
+  "cell": 112,
+  "size": [
+   3584,
+   2240
+  ],
+  "check": {
+   "judged": 640,
+   "flagged": 30,
+   "boundaryFlagged": 30,
+   "uncertain": 106,
+   "tileVersionFlagged": 32,
+   "tileVersionBoundaryFlagged": 29,
+   "mtime": 1793300056911681178,
+   "aligned": true,
+   "medianShiftPx": 0.0,
+   "medianScore": 0.594,
+   "size": [
+    3584,
+    2240
+   ]
+  },
+  "batch": "wholemap-v2-2"
+ },
+ "0b08-hd2d": {
+  "stamp": "wholemap-v2-2:0b08-hd2d.png:1793300095415274999:{\"aligned\": true, \"boundaryFlagged\": 42, \"flagged\": 45, \"judged\": 640, \"medianScore\": 0.4705, \"medianShiftPx\": 4.0, \"mtime\": 1793300095415274999, \"size\": [3584, 2240], \"tileVersionBoundaryFlagged\": 30, \"tileVersionFlagged\": 33, \"uncertain\": 116}",
+  "rel": "generated/maps-whole/hd2d/0b08.webp",
+  "map": "0b08",
+  "style": "hd2d",
+  "cell": 112,
+  "size": [
+   3584,
+   2240
+  ],
+  "check": {
+   "judged": 640,
+   "flagged": 45,
+   "boundaryFlagged": 42,
+   "uncertain": 116,
+   "tileVersionFlagged": 33,
+   "tileVersionBoundaryFlagged": 30,
+   "mtime": 1793300095415274999,
+   "aligned": true,
+   "medianShiftPx": 4.0,
+   "medianScore": 0.4705,
+   "size": [
+    3584,
+    2240
+   ]
+  },
+  "batch": "wholemap-v2-2"
+ },
+ "0b09-ghibli": {
+  "stamp": "wholemap-v2-2:0b09-ghibli.png:1793300129491160178:{\"aligned\": true, \"boundaryFlagged\": 4, \"flagged\": 9, \"judged\": 600, \"medianScore\": 0.4405, \"medianShiftPx\": 0.0, \"mtime\": 1793300129491160178, \"size\": [2688, 2800], \"tileVersionBoundaryFlagged\": 0, \"tileVersionFlagged\": 1, \"uncertain\": 126}",
+  "rel": "generated/maps-whole/ghibli/0b09.webp",
+  "map": "0b09",
+  "style": "ghibli",
+  "cell": 112,
+  "size": [
+   2688,
+   2800
+  ],
+  "check": {
+   "judged": 600,
+   "flagged": 9,
+   "boundaryFlagged": 4,
+   "uncertain": 126,
+   "tileVersionFlagged": 1,
+   "tileVersionBoundaryFlagged": 0,
+   "mtime": 1793300129491160178,
+   "aligned": true,
+   "medianShiftPx": 0.0,
+   "medianScore": 0.4405,
+   "size": [
+    2688,
+    2800
+   ]
+  },
+  "batch": "wholemap-v2-2"
+ },
+ "0b09-hd2d": {
+  "stamp": "wholemap-v2-2:0b09-hd2d.png:1793300164104184127:{\"aligned\": true, \"boundaryFlagged\": 0, \"flagged\": 5, \"judged\": 600, \"medianScore\": 0.5395000000000001, \"medianShiftPx\": 0.0, \"mtime\": 1793300164104184127, \"size\": [2688, 2800], \"tileVersionBoundaryFlagged\": 0, \"tileVersionFlagged\": 0, \"uncertain\": 133}",
+  "rel": "generated/maps-whole/hd2d/0b09.webp",
+  "map": "0b09",
+  "style": "hd2d",
+  "cell": 112,
+  "size": [
+   2688,
+   2800
+  ],
+  "check": {
+   "judged": 600,
+   "flagged": 5,
+   "boundaryFlagged": 0,
+   "uncertain": 133,
+   "tileVersionFlagged": 0,
+   "tileVersionBoundaryFlagged": 0,
+   "mtime": 1793300164104184127,
+   "aligned": true,
+   "medianShiftPx": 0.0,
+   "medianScore": 0.5395000000000001,
+   "size": [
+    2688,
+    2800
+   ]
+  },
+  "batch": "wholemap-v2-2"
+ },
+ "0b0a-ghibli": {
+  "stamp": "wholemap-v2-2:0b0a-ghibli.png:1793300203040850812:{\"aligned\": true, \"boundaryFlagged\": 54, \"flagged\": 65, \"judged\": 720, \"medianScore\": 0.356, \"medianShiftPx\": 8.0, \"mtime\": 1793300203040850812, \"size\": [2304, 2880], \"tileVersionBoundaryFlagged\": 8, \"tileVersionFlagged\": 11, \"uncertain\": 261}",
+  "rel": "generated/maps-whole/ghibli/0b0a.webp",
+  "map": "0b0a",
+  "style": "ghibli",
+  "cell": 96,
+  "size": [
+   2304,
+   2880
+  ],
+  "check": {
+   "judged": 720,
+   "flagged": 65,
+   "boundaryFlagged": 54,
+   "uncertain": 261,
+   "tileVersionFlagged": 11,
+   "tileVersionBoundaryFlagged": 8,
+   "mtime": 1793300203040850812,
+   "aligned": true,
+   "medianShiftPx": 8.0,
+   "medianScore": 0.356,
+   "size": [
+    2304,
+    2880
+   ]
+  },
+  "batch": "wholemap-v2-2"
+ },
+ "0b0a-hd2d": {
+  "stamp": "wholemap-v2-2:0b0a-hd2d.png:1793300241230960571:{\"aligned\": true, \"boundaryFlagged\": 1, \"flagged\": 1, \"judged\": 720, \"medianScore\": 0.577, \"medianShiftPx\": 0.0, \"mtime\": 1793300241230960571, \"size\": [2304, 2880], \"tileVersionBoundaryFlagged\": 39, \"tileVersionFlagged\": 41, \"uncertain\": 31}",
+  "rel": "generated/maps-whole/hd2d/0b0a.webp",
+  "map": "0b0a",
+  "style": "hd2d",
+  "cell": 96,
+  "size": [
+   2304,
+   2880
+  ],
+  "check": {
+   "judged": 720,
+   "flagged": 1,
+   "boundaryFlagged": 1,
+   "uncertain": 31,
+   "tileVersionFlagged": 41,
+   "tileVersionBoundaryFlagged": 39,
+   "mtime": 1793300241230960571,
+   "aligned": true,
+   "medianShiftPx": 0.0,
+   "medianScore": 0.577,
+   "size": [
+    2304,
+    2880
+   ]
+  },
+  "batch": "wholemap-v2-2"
+ },
+ "0c00-ghibli": {
+  "stamp": "wholemap-v2-2:0c00-ghibli.png:1793300252203402388:{\"aligned\": true, \"boundaryFlagged\": 5, \"flagged\": 5, \"judged\": 208, \"medianScore\": 0.527, \"medianShiftPx\": 0.0, \"mtime\": 1793300252203402388, \"size\": [2048, 1664], \"tileVersionBoundaryFlagged\": 0, \"tileVersionFlagged\": 1, \"uncertain\": 18}",
+  "rel": "generated/maps-whole/ghibli/0c00.webp",
+  "map": "0c00",
+  "style": "ghibli",
+  "cell": 128,
+  "size": [
+   2048,
+   1664
+  ],
+  "check": {
+   "judged": 208,
+   "flagged": 5,
+   "boundaryFlagged": 5,
+   "uncertain": 18,
+   "tileVersionFlagged": 1,
+   "tileVersionBoundaryFlagged": 0,
+   "mtime": 1793300252203402388,
+   "aligned": true,
+   "medianShiftPx": 0.0,
+   "medianScore": 0.527,
+   "size": [
+    2048,
+    1664
+   ]
+  },
+  "batch": "wholemap-v2-2"
+ },
+ "0c00-hd2d": {
+  "stamp": "wholemap-v2-2:0c00-hd2d.png:1793300263260692979:{\"aligned\": true, \"boundaryFlagged\": 1, \"flagged\": 4, \"judged\": 208, \"medianScore\": 0.534, \"medianShiftPx\": 0.0, \"mtime\": 1793300263260692979, \"size\": [2048, 1664], \"tileVersionBoundaryFlagged\": 0, \"tileVersionFlagged\": 0, \"uncertain\": 23}",
+  "rel": "generated/maps-whole/hd2d/0c00.webp",
+  "map": "0c00",
+  "style": "hd2d",
+  "cell": 128,
+  "size": [
+   2048,
+   1664
+  ],
+  "check": {
+   "judged": 208,
+   "flagged": 4,
+   "boundaryFlagged": 1,
+   "uncertain": 23,
+   "tileVersionFlagged": 0,
+   "tileVersionBoundaryFlagged": 0,
+   "mtime": 1793300263260692979,
+   "aligned": true,
+   "medianShiftPx": 0.0,
+   "medianScore": 0.534,
+   "size": [
+    2048,
+    1664
+   ]
+  },
+  "batch": "wholemap-v2-2"
+ },
+ "0c01-ghibli": {
+  "stamp": "wholemap-v2-2:0c01-ghibli.png:1793300267874424725:{\"aligned\": true, \"boundaryFlagged\": 0, \"flagged\": 0, \"judged\": 88, \"medianScore\": 0.7895000000000001, \"medianShiftPx\": 0.0, \"mtime\": 1793300267874424725, \"size\": [1280, 1280], \"tileVersionBoundaryFlagged\": 0, \"tileVersionFlagged\": 1, \"uncertain\": 1}",
+  "rel": "generated/maps-whole/ghibli/0c01.webp",
+  "map": "0c01",
+  "style": "ghibli",
+  "cell": 128,
+  "size": [
+   1280,
+   1280
+  ],
+  "check": {
+   "judged": 88,
+   "flagged": 0,
+   "boundaryFlagged": 0,
+   "uncertain": 1,
+   "tileVersionFlagged": 1,
+   "tileVersionBoundaryFlagged": 0,
+   "mtime": 1793300267874424725,
+   "aligned": true,
+   "medianShiftPx": 0.0,
+   "medianScore": 0.7895000000000001,
+   "size": [
+    1280,
+    1280
+   ]
+  },
+  "batch": "wholemap-v2-2"
+ },
+ "0c01-hd2d": {
+  "stamp": "wholemap-v2-2:0c01-hd2d.png:1793297583000000000:{\"boundaryFlagged\": 0, \"flagged\": 0, \"judged\": 88, \"medianScore\": 0.808, \"medianShiftPx\": 4.0, \"mtime\": 1793297583000000000, \"size\": [1280, 1280], \"tileVersionBoundaryFlagged\": 0, \"tileVersionFlagged\": 1, \"uncertain\": 0}",
+  "rel": "generated/maps-whole/hd2d/0c01.webp",
+  "map": "0c01",
+  "style": "hd2d",
+  "cell": 128,
+  "size": [
+   1280,
+   1280
+  ],
+  "check": {
+   "judged": 88,
+   "flagged": 0,
+   "boundaryFlagged": 0,
+   "uncertain": 0,
+   "tileVersionFlagged": 1,
+   "tileVersionBoundaryFlagged": 0,
+   "mtime": 1793297583000000000,
+   "medianShiftPx": 4.0,
+   "medianScore": 0.808,
+   "size": [
+    1280,
+    1280
+   ]
+  },
+  "batch": "wholemap-v2-2"
+ },
+ "0c02-ghibli": {
+  "stamp": "wholemap-v2-2:0c02-ghibli.png:1793297592000000000:{\"boundaryFlagged\": 0, \"flagged\": 0, \"judged\": 88, \"medianScore\": 0.8534999999999999, \"medianShiftPx\": 0.0, \"mtime\": 1793297592000000000, \"size\": [1280, 1280], \"tileVersionBoundaryFlagged\": 0, \"tileVersionFlagged\": 1, \"uncertain\": 0}",
+  "rel": "generated/maps-whole/ghibli/0c02.webp",
+  "map": "0c02",
+  "style": "ghibli",
+  "cell": 128,
+  "size": [
+   1280,
+   1280
+  ],
+  "check": {
+   "judged": 88,
+   "flagged": 0,
+   "boundaryFlagged": 0,
+   "uncertain": 0,
+   "tileVersionFlagged": 1,
+   "tileVersionBoundaryFlagged": 0,
+   "mtime": 1793297592000000000,
+   "medianShiftPx": 0.0,
+   "medianScore": 0.8534999999999999,
+   "size": [
+    1280,
+    1280
+   ]
+  },
+  "batch": "wholemap-v2-2"
+ },
+ "0c02-hd2d": {
+  "stamp": "wholemap-v2-2:0c02-hd2d.png:1793297594000000000:{\"boundaryFlagged\": 0, \"flagged\": 0, \"judged\": 88, \"medianScore\": 0.6815, \"medianShiftPx\": 8.0, \"mtime\": 1793297594000000000, \"size\": [1280, 1280], \"tileVersionBoundaryFlagged\": 0, \"tileVersionFlagged\": 0, \"uncertain\": 0}",
+  "rel": "generated/maps-whole/hd2d/0c02.webp",
+  "map": "0c02",
+  "style": "hd2d",
+  "cell": 128,
+  "size": [
+   1280,
+   1280
+  ],
+  "check": {
+   "judged": 88,
+   "flagged": 0,
+   "boundaryFlagged": 0,
+   "uncertain": 0,
+   "tileVersionFlagged": 0,
+   "tileVersionBoundaryFlagged": 0,
+   "mtime": 1793297594000000000,
+   "medianShiftPx": 8.0,
+   "medianScore": 0.6815,
+   "size": [
+    1280,
+    1280
+   ]
+  },
+  "batch": "wholemap-v2-2"
+ },
+ "0c03-ghibli": {
+  "stamp": "wholemap-v2-2:0c03-ghibli.png:1793297635000000000:{\"boundaryFlagged\": 0, \"flagged\": 2, \"judged\": 62, \"medianScore\": 0.773, \"medianShiftPx\": 2.0, \"mtime\": 1793297635000000000, \"size\": [1280, 1280], \"tileVersionBoundaryFlagged\": 0, \"tileVersionFlagged\": 0, \"uncertain\": 0}",
+  "rel": "generated/maps-whole/ghibli/0c03.webp",
+  "map": "0c03",
+  "style": "ghibli",
+  "cell": 128,
+  "size": [
+   1280,
+   1280
+  ],
+  "check": {
+   "judged": 62,
+   "flagged": 2,
+   "boundaryFlagged": 0,
+   "uncertain": 0,
+   "tileVersionFlagged": 0,
+   "tileVersionBoundaryFlagged": 0,
+   "mtime": 1793297635000000000,
+   "medianShiftPx": 2.0,
+   "medianScore": 0.773,
+   "size": [
+    1280,
+    1280
+   ]
+  },
+  "batch": "wholemap-v2-2"
+ },
+ "0c03-hd2d": {
+  "stamp": "wholemap-v2-2:0c03-hd2d.png:1793297636000000000:{\"boundaryFlagged\": 0, \"flagged\": 0, \"judged\": 62, \"medianScore\": 0.824, \"medianShiftPx\": 0.0, \"mtime\": 1793297636000000000, \"size\": [1280, 1280], \"tileVersionBoundaryFlagged\": 0, \"tileVersionFlagged\": 0, \"uncertain\": 0}",
+  "rel": "generated/maps-whole/hd2d/0c03.webp",
+  "map": "0c03",
+  "style": "hd2d",
+  "cell": 128,
+  "size": [
+   1280,
+   1280
+  ],
+  "check": {
+   "judged": 62,
+   "flagged": 0,
+   "boundaryFlagged": 0,
+   "uncertain": 0,
+   "tileVersionFlagged": 0,
+   "tileVersionBoundaryFlagged": 0,
+   "mtime": 1793297636000000000,
+   "medianShiftPx": 0.0,
+   "medianScore": 0.824,
+   "size": [
+    1280,
+    1280
+   ]
+  },
+  "batch": "wholemap-v2-2"
+ },
+ "0c04-ghibli": {
+  "stamp": "wholemap-v2-3:0c04-ghibli.png:1793300553555294010:{\"aligned\": true, \"boundaryFlagged\": 6, \"flagged\": 12, \"judged\": 720, \"medianScore\": 0.2885, \"medianShiftPx\": 8.0, \"mtime\": 1793300553555294010, \"size\": [2304, 2880], \"tileVersionBoundaryFlagged\": 0, \"tileVersionFlagged\": 0, \"uncertain\": 379}",
+  "rel": "generated/maps-whole/ghibli/0c04.webp",
+  "map": "0c04",
+  "style": "ghibli",
+  "cell": 96,
+  "size": [
+   2304,
+   2880
+  ],
+  "check": {
+   "judged": 720,
+   "flagged": 12,
+   "boundaryFlagged": 6,
+   "uncertain": 379,
+   "tileVersionFlagged": 0,
+   "tileVersionBoundaryFlagged": 0,
+   "mtime": 1793300553555294010,
+   "aligned": true,
+   "medianShiftPx": 8.0,
+   "medianScore": 0.2885,
+   "size": [
+    2304,
+    2880
+   ]
+  },
+  "batch": "wholemap-v2-3"
+ },
+ "0c04-hd2d": {
+  "stamp": "wholemap-v2-3:0c04-hd2d.png:1793300594037802132:{\"aligned\": true, \"boundaryFlagged\": 2, \"flagged\": 2, \"judged\": 720, \"medianScore\": 0.411, \"medianShiftPx\": 0.0, \"mtime\": 1793300594037802132, \"size\": [2304, 2880], \"tileVersionBoundaryFlagged\": 0, \"tileVersionFlagged\": 0, \"uncertain\": 252}",
+  "rel": "generated/maps-whole/hd2d/0c04.webp",
+  "map": "0c04",
+  "style": "hd2d",
+  "cell": 96,
+  "size": [
+   2304,
+   2880
+  ],
+  "check": {
+   "judged": 720,
+   "flagged": 2,
+   "boundaryFlagged": 2,
+   "uncertain": 252,
+   "tileVersionFlagged": 0,
+   "tileVersionBoundaryFlagged": 0,
+   "mtime": 1793300594037802132,
+   "aligned": true,
+   "medianShiftPx": 0.0,
+   "medianScore": 0.411,
+   "size": [
+    2304,
+    2880
+   ]
+  },
+  "batch": "wholemap-v2-3"
+ },
+ "0c05-ghibli": {
+  "stamp": "wholemap-v2-3:0c05-ghibli.png:1793297748000000000:{\"boundaryFlagged\": 2, \"flagged\": 2, \"judged\": 640, \"medianScore\": 0.265, \"medianShiftPx\": 4.0, \"mtime\": 1793297748000000000, \"size\": [3584, 2240], \"tileVersionBoundaryFlagged\": 0, \"tileVersionFlagged\": 0, \"uncertain\": 425}",
+  "rel": "generated/maps-whole/ghibli/0c05.webp",
+  "map": "0c05",
+  "style": "ghibli",
+  "cell": 112,
+  "size": [
+   3584,
+   2240
+  ],
+  "check": {
+   "judged": 640,
+   "flagged": 2,
+   "boundaryFlagged": 2,
+   "uncertain": 425,
+   "tileVersionFlagged": 0,
+   "tileVersionBoundaryFlagged": 0,
+   "mtime": 1793297748000000000,
+   "medianShiftPx": 4.0,
+   "medianScore": 0.265,
+   "size": [
+    3584,
+    2240
+   ]
+  },
+  "batch": "wholemap-v2-3"
+ },
+ "0c05-hd2d": {
+  "stamp": "wholemap-v2-3:0c05-hd2d.png:1793297742000000000:{\"boundaryFlagged\": 3, \"flagged\": 3, \"judged\": 640, \"medianScore\": 0.3995, \"medianShiftPx\": 0.0, \"mtime\": 1793297742000000000, \"size\": [3584, 2240], \"tileVersionBoundaryFlagged\": 0, \"tileVersionFlagged\": 0, \"uncertain\": 231}",
+  "rel": "generated/maps-whole/hd2d/0c05.webp",
+  "map": "0c05",
+  "style": "hd2d",
+  "cell": 112,
+  "size": [
+   3584,
+   2240
+  ],
+  "check": {
+   "judged": 640,
+   "flagged": 3,
+   "boundaryFlagged": 3,
+   "uncertain": 231,
+   "tileVersionFlagged": 0,
+   "tileVersionBoundaryFlagged": 0,
+   "mtime": 1793297742000000000,
+   "medianShiftPx": 0.0,
+   "medianScore": 0.3995,
+   "size": [
+    3584,
+    2240
+   ]
+  },
+  "batch": "wholemap-v2-3"
+ },
+ "0c06-ghibli": {
+  "stamp": "wholemap-v2-3:0c06-ghibli.png:1793300626734543219:{\"aligned\": true, \"boundaryFlagged\": 2, \"flagged\": 3, \"judged\": 504, \"medianScore\": 0.5335000000000001, \"medianShiftPx\": 0.0, \"mtime\": 1793300626734543219, \"size\": [2688, 2800], \"tileVersionBoundaryFlagged\": 0, \"tileVersionFlagged\": 0, \"uncertain\": 120}",
+  "rel": "generated/maps-whole/ghibli/0c06.webp",
+  "map": "0c06",
+  "style": "ghibli",
+  "cell": 112,
+  "size": [
+   2688,
+   2800
+  ],
+  "check": {
+   "judged": 504,
+   "flagged": 3,
+   "boundaryFlagged": 2,
+   "uncertain": 120,
+   "tileVersionFlagged": 0,
+   "tileVersionBoundaryFlagged": 0,
+   "mtime": 1793300626734543219,
+   "aligned": true,
+   "medianShiftPx": 0.0,
+   "medianScore": 0.5335000000000001,
+   "size": [
+    2688,
+    2800
+   ]
+  },
+  "batch": "wholemap-v2-3"
+ },
+ "0c06-hd2d": {
+  "stamp": "wholemap-v2-3:0c06-hd2d.png:1793300657807806353:{\"aligned\": true, \"boundaryFlagged\": 9, \"flagged\": 18, \"judged\": 504, \"medianScore\": 0.2655, \"medianShiftPx\": 12.0, \"mtime\": 1793300657807806353, \"size\": [2688, 2800], \"tileVersionBoundaryFlagged\": 0, \"tileVersionFlagged\": 0, \"uncertain\": 288}",
+  "rel": "generated/maps-whole/hd2d/0c06.webp",
+  "map": "0c06",
+  "style": "hd2d",
+  "cell": 112,
+  "size": [
+   2688,
+   2800
+  ],
+  "check": {
+   "judged": 504,
+   "flagged": 18,
+   "boundaryFlagged": 9,
+   "uncertain": 288,
+   "tileVersionFlagged": 0,
+   "tileVersionBoundaryFlagged": 0,
+   "mtime": 1793300657807806353,
+   "aligned": true,
+   "medianShiftPx": 12.0,
+   "medianScore": 0.2655,
+   "size": [
+    2688,
+    2800
+   ]
+  },
+  "batch": "wholemap-v2-3"
+ },
+ "0c07-ghibli": {
+  "stamp": "wholemap-v2-3:0c07-ghibli.png:1793300698454544202:{\"aligned\": true, \"boundaryFlagged\": 34, \"flagged\": 72, \"judged\": 720, \"medianScore\": 0.342, \"medianShiftPx\": 8.0, \"mtime\": 1793300698454544202, \"size\": [2304, 2880], \"tileVersionBoundaryFlagged\": 0, \"tileVersionFlagged\": 2, \"uncertain\": 294}",
+  "rel": "generated/maps-whole/ghibli/0c07.webp",
+  "map": "0c07",
+  "style": "ghibli",
+  "cell": 96,
+  "size": [
+   2304,
+   2880
+  ],
+  "check": {
+   "judged": 720,
+   "flagged": 72,
+   "boundaryFlagged": 34,
+   "uncertain": 294,
+   "tileVersionFlagged": 2,
+   "tileVersionBoundaryFlagged": 0,
+   "mtime": 1793300698454544202,
+   "aligned": true,
+   "medianShiftPx": 8.0,
+   "medianScore": 0.342,
+   "size": [
+    2304,
+    2880
+   ]
+  },
+  "batch": "wholemap-v2-3"
+ },
+ "0c07-hd2d": {
+  "stamp": "wholemap-v2-3:0c07-hd2d.png:1793300739075708069:{\"aligned\": true, \"boundaryFlagged\": 1, \"flagged\": 8, \"judged\": 720, \"medianScore\": 0.583, \"medianShiftPx\": 0.0, \"mtime\": 1793300739075708069, \"size\": [2304, 2880], \"tileVersionBoundaryFlagged\": 0, \"tileVersionFlagged\": 0, \"uncertain\": 155}",
+  "rel": "generated/maps-whole/hd2d/0c07.webp",
+  "map": "0c07",
+  "style": "hd2d",
+  "cell": 96,
+  "size": [
+   2304,
+   2880
+  ],
+  "check": {
+   "judged": 720,
+   "flagged": 8,
+   "boundaryFlagged": 1,
+   "uncertain": 155,
+   "tileVersionFlagged": 0,
+   "tileVersionBoundaryFlagged": 0,
+   "mtime": 1793300739075708069,
+   "aligned": true,
+   "medianShiftPx": 0.0,
+   "medianScore": 0.583,
+   "size": [
+    2304,
+    2880
+   ]
+  },
+  "batch": "wholemap-v2-3"
+ },
+ "0c08-ghibli": {
+  "stamp": "wholemap-v2-3:0c08-ghibli.png:1793300767861781448:{\"aligned\": true, \"boundaryFlagged\": 9, \"flagged\": 18, \"judged\": 480, \"medianScore\": 0.4585, \"medianShiftPx\": 0.0, \"mtime\": 1793300767861781448, \"size\": [3072, 2560], \"tileVersionBoundaryFlagged\": 0, \"tileVersionFlagged\": 0, \"uncertain\": 104}",
+  "rel": "generated/maps-whole/ghibli/0c08.webp",
+  "map": "0c08",
+  "style": "ghibli",
+  "cell": 128,
+  "size": [
+   3072,
+   2560
+  ],
+  "check": {
+   "judged": 480,
+   "flagged": 18,
+   "boundaryFlagged": 9,
+   "uncertain": 104,
+   "tileVersionFlagged": 0,
+   "tileVersionBoundaryFlagged": 0,
+   "mtime": 1793300767861781448,
+   "aligned": true,
+   "medianShiftPx": 0.0,
+   "medianScore": 0.4585,
+   "size": [
+    3072,
+    2560
+   ]
+  },
+  "batch": "wholemap-v2-3"
+ },
+ "0c08-hd2d": {
+  "stamp": "wholemap-v2-3:0c08-hd2d.png:1793300796863921882:{\"aligned\": true, \"boundaryFlagged\": 14, \"flagged\": 17, \"judged\": 480, \"medianScore\": 0.493, \"medianShiftPx\": 0.0, \"mtime\": 1793300796863921882, \"size\": [3072, 2560], \"tileVersionBoundaryFlagged\": 0, \"tileVersionFlagged\": 0, \"uncertain\": 63}",
+  "rel": "generated/maps-whole/hd2d/0c08.webp",
+  "map": "0c08",
+  "style": "hd2d",
+  "cell": 128,
+  "size": [
+   3072,
+   2560
+  ],
+  "check": {
+   "judged": 480,
+   "flagged": 17,
+   "boundaryFlagged": 14,
+   "uncertain": 63,
+   "tileVersionFlagged": 0,
+   "tileVersionBoundaryFlagged": 0,
+   "mtime": 1793300796863921882,
+   "aligned": true,
+   "medianShiftPx": 0.0,
+   "medianScore": 0.493,
+   "size": [
+    3072,
+    2560
+   ]
+  },
+  "batch": "wholemap-v2-3"
+ }
+}

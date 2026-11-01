@@ -1,0 +1,328 @@
+{
+  "candidate_functions": 531,
+  "decompile_completed": 531,
+  "functions_with_warning_comments": 50,
+  "functions_at_or_above_0x29400": 42,
+  "functions_with_halt_baddata": 16,
+  "call_records": 1907,
+  "warnings": [
+    {
+      "address": "00000e40",
+      "warnings": [
+        "Removing unreachable block (ram,0x00000e4e) ",
+        "Do nothing block with infinite loop "
+      ]
+    },
+    {
+      "address": "0000329e",
+      "warnings": [
+        "Globals starting with '_' overlap smaller symbols at the same address "
+      ]
+    },
+    {
+      "address": "00005162",
+      "warnings": [
+        "Globals starting with '_' overlap smaller symbols at the same address "
+      ]
+    },
+    {
+      "address": "00006200",
+      "warnings": [
+        "Globals starting with '_' overlap smaller symbols at the same address "
+      ]
+    },
+    {
+      "address": "00006520",
+      "warnings": [
+        "Control flow encountered bad instruction data ",
+        "Bad instruction - Truncating control flow here "
+      ]
+    },
+    {
+      "address": "00006986",
+      "warnings": [
+        "Globals starting with '_' overlap smaller symbols at the same address "
+      ]
+    },
+    {
+      "address": "00006a08",
+      "warnings": [
+        "Globals starting with '_' overlap smaller symbols at the same address "
+      ]
+    },
+    {
+      "address": "00008d92",
+      "warnings": [
+        "Globals starting with '_' overlap smaller symbols at the same address "
+      ]
+    },
+    {
+      "address": "00009334",
+      "warnings": [
+        "Globals starting with '_' overlap smaller symbols at the same address "
+      ]
+    },
+    {
+      "address": "0000972e",
+      "warnings": [
+        "Globals starting with '_' overlap smaller symbols at the same address "
+      ]
+    },
+    {
+      "address": "000099fa",
+      "warnings": [
+        "Globals starting with '_' overlap smaller symbols at the same address "
+      ]
+    },
+    {
+      "address": "0000a8da",
+      "warnings": [
+        "Globals starting with '_' overlap smaller symbols at the same address "
+      ]
+    },
+    {
+      "address": "0000ca16",
+      "warnings": [
+        "Globals starting with '_' overlap smaller symbols at the same address "
+      ]
+    },
+    {
+      "address": "0000d59c",
+      "warnings": [
+        "Globals starting with '_' overlap smaller symbols at the same address "
+      ]
+    },
+    {
+      "address": "0000e4e0",
+      "warnings": [
+        "Globals starting with '_' overlap smaller symbols at the same address "
+      ]
+    },
+    {
+      "address": "0000ffc2",
+      "warnings": [
+        "This function may have set the stack pointer ",
+        "Globals starting with '_' overlap smaller symbols at the same address "
+      ]
+    },
+    {
+      "address": "00012fbc",
+      "warnings": [
+        "Control flow encountered bad instruction data ",
+        "Bad instruction - Truncating control flow here "
+      ]
+    },
+    {
+      "address": "000148e2",
+      "warnings": [
+        "Globals starting with '_' overlap smaller symbols at the same address "
+      ]
+    },
+    {
+      "address": "00016316",
+      "warnings": [
+        "Globals starting with '_' overlap smaller symbols at the same address "
+      ]
+    },
+    {
+      "address": "0001665a",
+      "warnings": [
+        "Globals starting with '_' overlap smaller symbols at the same address "
+      ]
+    },
+    {
+      "address": "00016a28",
+      "warnings": [
+        "Globals starting with '_' overlap smaller symbols at the same address "
+      ]
+    },
+    {
+      "address": "00016ac6",
+      "warnings": [
+        "Globals starting with '_' overlap smaller symbols at the same address "
+      ]
+    },
+    {
+      "address": "00016c68",
+      "warnings": [
+        "Globals starting with '_' overlap smaller symbols at the same address "
+      ]
+    },
+    {
+      "address": "00017140",
+      "warnings": [
+        "Globals starting with '_' overlap smaller symbols at the same address "
+      ]
+    },
+    {
+      "address": "00017698",
+      "warnings": [
+        "Globals starting with '_' overlap smaller symbols at the same address "
+      ]
+    },
+    {
+      "address": "00017e64",
+      "warnings": [
+        "Globals starting with '_' overlap smaller symbols at the same address "
+      ]
+    },
+    {
+      "address": "000192cc",
+      "warnings": [
+        "Globals starting with '_' overlap smaller symbols at the same address "
+      ]
+    },
+    {
+      "address": "0001d3da",
+      "warnings": [
+        "Control flow encountered bad instruction data ",
+        "Bad instruction - Truncating control flow here "
+      ]
+    },
+    {
+      "address": "0001d45a",
+      "warnings": [
+        "Control flow encountered bad instruction data ",
+        "Bad instruction - Truncating control flow here "
+      ]
+    },
+    {
+      "address": "0001da54",
+      "warnings": [
+        "Control flow encountered bad instruction data ",
+        "Bad instruction - Truncating control flow here "
+      ]
+    },
+    {
+      "address": "0001db70",
+      "warnings": [
+        "Control flow encountered bad instruction data ",
+        "Bad instruction - Truncating control flow here "
+      ]
+    },
+    {
+      "address": "0001dfe4",
+      "warnings": [
+        "Control flow encountered bad instruction data ",
+        "Bad instruction - Truncating control flow here "
+      ]
+    },
+    {
+      "address": "00021090",
+      "warnings": [
+        "Control flow encountered bad instruction data ",
+        "Bad instruction - Truncating control flow here "
+      ]
+    },
+    {
+      "address": "0002117e",
+      "warnings": [
+        "Control flow encountered bad instruction data ",
+        "Bad instruction - Truncating control flow here "
+      ]
+    },
+    {
+      "address": "000211c8",
+      "warnings": [
+        "Control flow encountered bad instruction data ",
+        "Bad instruction - Truncating control flow here "
+      ]
+    },
+    {
+      "address": "00022024",
+      "warnings": [
+        "Control flow encountered bad instruction data ",
+        "Bad instruction - Truncating control flow here "
+      ]
+    },
+    {
+      "address": "00025a3c",
+      "warnings": [
+        "Globals starting with '_' overlap smaller symbols at the same address "
+      ]
+    },
+    {
+      "address": "00026ff2",
+      "warnings": [
+        "This function may have set the stack pointer "
+      ]
+    },
+    {
+      "address": "000faebe",
+      "warnings": [
+        "Control flow encountered bad instruction data ",
+        "Bad instruction - Truncating control flow here "
+      ]
+    },
+    {
+      "address": "001e42bc",
+      "warnings": [
+        "Globals starting with '_' overlap smaller symbols at the same address "
+      ]
+    },
+    {
+      "address": "001e76a6",
+      "warnings": [
+        "Globals starting with '_' overlap smaller symbols at the same address "
+      ]
+    },
+    {
+      "address": "001f91fe",
+      "warnings": [
+        "Control flow encountered bad instruction data ",
+        "Bad instruction - Truncating control flow here "
+      ]
+    },
+    {
+      "address": "001f9244",
+      "warnings": [
+        "Control flow encountered bad instruction data ",
+        "Bad instruction - Truncating control flow here "
+      ]
+    },
+    {
+      "address": "001f9856",
+      "warnings": [
+        "Control flow encountered bad instruction data ",
+        "Bad instruction - Truncating control flow here "
+      ]
+    },
+    {
+      "address": "001f9f02",
+      "warnings": [
+        "Globals starting with '_' overlap smaller symbols at the same address "
+      ]
+    },
+    {
+      "address": "001f9fb0",
+      "warnings": [
+        "Globals starting with '_' overlap smaller symbols at the same address "
+      ]
+    },
+    {
+      "address": "001fa120",
+      "warnings": [
+        "Globals starting with '_' overlap smaller symbols at the same address "
+      ]
+    },
+    {
+      "address": "001fa164",
+      "warnings": [
+        "Control flow encountered bad instruction data ",
+        "Bad instruction - Truncating control flow here "
+      ]
+    },
+    {
+      "address": "001fadec",
+      "warnings": [
+        "Globals starting with '_' overlap smaller symbols at the same address "
+      ]
+    },
+    {
+      "address": "001fed46",
+      "warnings": [
+        "Globals starting with '_' overlap smaller symbols at the same address "
+      ]
+    }
+  ]
+}

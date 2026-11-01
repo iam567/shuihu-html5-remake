@@ -1,0 +1,80 @@
+[
+  {
+    "id": "bank-053fd4-07cbea-0dde08-pixel-hd-repair",
+    "kind": "map-bank-repair",
+    "style": "pixel-hd",
+    "reference": "bank-053fd4-07cbea-0dde08-gutter-reference.png",
+    "size": "auto",
+    "sourceId": "bank-053fd4-07cbea-0dde08",
+    "columns": 8,
+    "rows": 10,
+    "cellSize": 160,
+    "innerSize": 128,
+    "gutter": 16
+  },
+  {
+    "id": "bank-053fd4-07cbea-0dde08-unreal-repair",
+    "kind": "map-bank-repair",
+    "style": "unreal",
+    "reference": "bank-053fd4-07cbea-0dde08-gutter-reference.png",
+    "size": "auto",
+    "sourceId": "bank-053fd4-07cbea-0dde08",
+    "columns": 8,
+    "rows": 10,
+    "cellSize": 160,
+    "innerSize": 128,
+    "gutter": 16
+  },
+  {
+    "id": "bank-053fd4-07cbea-0dde08-ghibli-repair",
+    "kind": "map-bank-repair",
+    "style": "ghibli",
+    "reference": "bank-053fd4-07cbea-0dde08-gutter-reference.png",
+    "size": "auto",
+    "sourceId": "bank-053fd4-07cbea-0dde08",
+    "columns": 8,
+    "rows": 10,
+    "cellSize": 160,
+    "innerSize": 128,
+    "gutter": 16
+  },
+  {
+    "id": "bank-04b710-07a56a-0dde48-pixel-hd-repair",
+    "kind": "map-bank-repair",
+    "style": "pixel-hd",
+    "reference": "bank-04b710-07a56a-0dde48-gutter-reference.png",
+    "size": "auto",
+    "sourceId": "bank-04b710-07a56a-0dde48",
+    "columns": 8,
+    "rows": 10,
+    "cellSize": 160,
+    "innerSize": 128,
+    "gutter": 16
+  },
+  {
+    "id": "bank-04b710-07a56a-0dde48-unreal-repair",
+    "kind": "map-bank-repair",
+    "style": "unreal",
+    "reference": "bank-04b710-07a56a-0dde48-gutter-reference.png",
+    "size": "auto",
+    "sourceId": "bank-04b710-07a56a-0dde48",
+    "columns": 8,
+    "rows": 10,
+    "cellSize": 160,
+    "innerSize": 128,
+    "gutter": 16
+  },
+  {
+    "id": "bank-04b710-07a56a-0dde48-ghibli-repair",
+    "kind": "map-bank-repair",
+    "style": "ghibli",
+    "reference": "bank-04b710-07a56a-0dde48-gutter-reference.png",
+    "size": "auto",
+    "sourceId": "bank-04b710-07a56a-0dde48",
+    "columns": 8,
+    "rows": 10,
+    "cellSize": 160,
+    "innerSize": 128,
+    "gutter": 16
+  }
+]

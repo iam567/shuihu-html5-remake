@@ -1,0 +1,344 @@
+[
+  {
+    "bank": "bank-053fd4-07cbea-0dde08",
+    "style": "pixel-hd",
+    "tile": 71,
+    "originalBox": [
+      896,
+      512,
+      1024,
+      640
+    ],
+    "contentBox": [
+      896,
+      512,
+      1024,
+      639
+    ],
+    "reason": "generated black padding on originally fully painted tile"
+  },
+  {
+    "bank": "bank-053fd4-07cbea-0dde08",
+    "style": "pixel-hd",
+    "tile": 64,
+    "originalBox": [
+      0,
+      512,
+      128,
+      640
+    ],
+    "contentBox": [
+      0,
+      512,
+      128,
+      639
+    ],
+    "reason": "generated black padding on originally fully painted tile"
+  },
+  {
+    "bank": "bank-04b710-07a56a-0dde48",
+    "style": "pixel-hd",
+    "tile": 71,
+    "originalBox": [
+      896,
+      512,
+      1024,
+      640
+    ],
+    "contentBox": [
+      896,
+      512,
+      1024,
+      639
+    ],
+    "reason": "generated black padding on originally fully painted tile"
+  },
+  {
+    "bank": "bank-04b710-07a56a-0dde48",
+    "style": "pixel-hd",
+    "tile": 72,
+    "originalBox": [
+      1024,
+      512,
+      1152,
+      640
+    ],
+    "contentBox": [
+      1024,
+      512,
+      1152,
+      639
+    ],
+    "reason": "generated black padding on originally fully painted tile"
+  },
+  {
+    "bank": "bank-04b710-07a56a-0dde48",
+    "style": "pixel-hd",
+    "tile": 73,
+    "originalBox": [
+      1152,
+      512,
+      1280,
+      640
+    ],
+    "contentBox": [
+      1152,
+      512,
+      1280,
+      639
+    ],
+    "reason": "generated black padding on originally fully painted tile"
+  },
+  {
+    "bank": "bank-04b710-07a56a-0dde48",
+    "style": "pixel-hd",
+    "tile": 67,
+    "originalBox": [
+      384,
+      512,
+      512,
+      640
+    ],
+    "contentBox": [
+      384,
+      512,
+      512,
+      639
+    ],
+    "reason": "generated black padding on originally fully painted tile"
+  },
+  {
+    "bank": "bank-04b710-07a56a-0dde48",
+    "style": "pixel-hd",
+    "tile": 70,
+    "originalBox": [
+      768,
+      512,
+      896,
+      640
+    ],
+    "contentBox": [
+      768,
+      512,
+      896,
+      639
+    ],
+    "reason": "generated black padding on originally fully painted tile"
+  },
+  {
+    "bank": "bank-04b710-07a56a-0dde48",
+    "style": "pixel-hd",
+    "tile": 68,
+    "originalBox": [
+      512,
+      512,
+      640,
+      640
+    ],
+    "contentBox": [
+      512,
+      512,
+      640,
+      639
+    ],
+    "reason": "generated black padding on originally fully painted tile"
+  },
+  {
+    "bank": "bank-04b710-07a56a-0dde48",
+    "style": "ghibli",
+    "tile": 46,
+    "originalBox": [
+      1792,
+      256,
+      1920,
+      384
+    ],
+    "contentBox": [
+      1792,
+      256,
+      1920,
+      383
+    ],
+    "reason": "generated black padding on originally fully painted tile"
+  },
+  {
+    "bank": "bank-04b710-07a56a-0dde48",
+    "style": "ghibli",
+    "tile": 12,
+    "originalBox": [
+      1536,
+      0,
+      1664,
+      128
+    ],
+    "contentBox": [
+      1536,
+      0,
+      1663,
+      128
+    ],
+    "reason": "generated black padding on originally fully painted tile"
+  },
+  {
+    "bank": "bank-04b710-07a56a-0dde48",
+    "style": "ghibli",
+    "tile": 40,
+    "originalBox": [
+      1024,
+      256,
+      1152,
+      384
+    ],
+    "contentBox": [
+      1024,
+      256,
+      1152,
+      383
+    ],
+    "reason": "generated black padding on originally fully painted tile"
+  },
+  {
+    "bank": "bank-04b710-07a56a-0dde48",
+    "style": "ghibli",
+    "tile": 71,
+    "originalBox": [
+      896,
+      512,
+      1024,
+      640
+    ],
+    "contentBox": [
+      896,
+      512,
+      1024,
+      639
+    ],
+    "reason": "generated black padding on originally fully painted tile"
+  },
+  {
+    "bank": "bank-04b710-07a56a-0dde48",
+    "style": "ghibli",
+    "tile": 64,
+    "originalBox": [
+      0,
+      512,
+      128,
+      640
+    ],
+    "contentBox": [
+      0,
+      512,
+      128,
+      639
+    ],
+    "reason": "generated black padding on originally fully painted tile"
+  },
+  {
+    "bank": "bank-04b710-07a56a-0dde48",
+    "style": "ghibli",
+    "tile": 44,
+    "originalBox": [
+      1536,
+      256,
+      1664,
+      384
+    ],
+    "contentBox": [
+      1536,
+      256,
+      1663,
+      383
+    ],
+    "reason": "generated black padding on originally fully painted tile"
+  },
+  {
+    "bank": "bank-04b710-07a56a-0dde48",
+    "style": "ghibli",
+    "tile": 36,
+    "originalBox": [
+      512,
+      256,
+      640,
+      384
+    ],
+    "contentBox": [
+      512,
+      256,
+      639,
+      384
+    ],
+    "reason": "generated black padding on originally fully painted tile"
+  },
+  {
+    "bank": "bank-04b710-07a56a-0dde48",
+    "style": "ghibli",
+    "tile": 67,
+    "originalBox": [
+      384,
+      512,
+      512,
+      640
+    ],
+    "contentBox": [
+      384,
+      512,
+      512,
+      639
+    ],
+    "reason": "generated black padding on originally fully painted tile"
+  },
+  {
+    "bank": "bank-04b710-07a56a-0dde48",
+    "style": "ghibli",
+    "tile": 61,
+    "originalBox": [
+      1664,
+      384,
+      1792,
+      512
+    ],
+    "contentBox": [
+      1664,
+      384,
+      1792,
+      511
+    ],
+    "reason": "generated black padding on originally fully painted tile"
+  },
+  {
+    "bank": "bank-04b710-07a56a-0dde48",
+    "style": "ghibli",
+    "tile": 70,
+    "originalBox": [
+      768,
+      512,
+      896,
+      640
+    ],
+    "contentBox": [
+      768,
+      512,
+      896,
+      639
+    ],
+    "reason": "generated black padding on originally fully painted tile"
+  },
+  {
+    "bank": "bank-04b710-07a56a-0dde48",
+    "style": "ghibli",
+    "tile": 68,
+    "originalBox": [
+      512,
+      512,
+      640,
+      640
+    ],
+    "contentBox": [
+      512,
+      512,
+      639,
+      639
+    ],
+    "reason": "generated black padding on originally fully painted tile"
+  }
+]

@@ -1,0 +1,1343 @@
+Makefile:398: ghi_opt/depend: No such file or directory
+mkdir -p ghi_opt 
+g++ -std=c++11 -arch arm64 -c -O2 -Wall -Wno-sign-compare -mmacosx-version-min=11.0         xml.cc -o ghi_opt/xml.o
+g++ -std=c++11 -arch arm64 -c -O2 -Wall -Wno-sign-compare -mmacosx-version-min=11.0         marshal.cc -o ghi_opt/marshal.o
+g++ -std=c++11 -arch arm64 -c -O2 -Wall -Wno-sign-compare -mmacosx-version-min=11.0         space.cc -o ghi_opt/space.o
+g++ -std=c++11 -arch arm64 -c -O2 -Wall -Wno-sign-compare -mmacosx-version-min=11.0         float.cc -o ghi_opt/float.o
+g++ -std=c++11 -arch arm64 -c -O2 -Wall -Wno-sign-compare -mmacosx-version-min=11.0         address.cc -o ghi_opt/address.o
+g++ -std=c++11 -arch arm64 -c -O2 -Wall -Wno-sign-compare -mmacosx-version-min=11.0         pcoderaw.cc -o ghi_opt/pcoderaw.o
+space.cc:543:9: warning: variable 'sizesum' set but not used [-Wunused-but-set-variable]
+  543 |   uint4 sizesum = 0;
+      |         ^
+g++ -std=c++11 -arch arm64 -c -O2 -Wall -Wno-sign-compare -mmacosx-version-min=11.0         translate.cc -o ghi_opt/translate.o
+g++ -std=c++11 -arch arm64 -c -O2 -Wall -Wno-sign-compare -mmacosx-version-min=11.0         opcodes.cc -o ghi_opt/opcodes.o
+g++ -std=c++11 -arch arm64 -c -O2 -Wall -Wno-sign-compare -mmacosx-version-min=11.0         globalcontext.cc -o ghi_opt/globalcontext.o
+1 warning generated.
+g++ -std=c++11 -arch arm64 -c -O2 -Wall -Wno-sign-compare -mmacosx-version-min=11.0         capability.cc -o ghi_opt/capability.o
+g++ -std=c++11 -arch arm64 -c -O2 -Wall -Wno-sign-compare -mmacosx-version-min=11.0         architecture.cc -o ghi_opt/architecture.o
+g++ -std=c++11 -arch arm64 -c -O2 -Wall -Wno-sign-compare -mmacosx-version-min=11.0         options.cc -o ghi_opt/options.o
+g++ -std=c++11 -arch arm64 -c -O2 -Wall -Wno-sign-compare -mmacosx-version-min=11.0         graph.cc -o ghi_opt/graph.o
+g++ -std=c++11 -arch arm64 -c -O2 -Wall -Wno-sign-compare -mmacosx-version-min=11.0         cover.cc -o ghi_opt/cover.o
+g++ -std=c++11 -arch arm64 -c -O2 -Wall -Wno-sign-compare -mmacosx-version-min=11.0         block.cc -o ghi_opt/block.o
+In file included from architecture.cc:18:
+In file included from ./coreaction.hh:29:
+In file included from ./funcdata.hh:22:
+In file included from ./architecture.hh:26:
+./fspec.hh:360:1: warning: 'ParameterPieces' defined as a struct here but previously declared as a class; this is valid, but may result in linker errors under the Microsoft C++ ABI [-Wmismatched-tags]
+  360 | struct ParameterPieces {
+      | ^
+./modelrules.hh:26:1: note: did you mean struct here?
+   26 | class ParameterPieces;
+      | ^~~~~
+      | struct
+In file included from architecture.cc:18:
+In file included from ./coreaction.hh:29:
+In file included from ./funcdata.hh:22:
+In file included from ./architecture.hh:26:
+./fspec.hh:377:1: warning: 'PrototypePieces' defined as a struct here but previously declared as a class; this is valid, but may result in linker errors under the Microsoft C++ ABI [-Wmismatched-tags]
+  377 | struct PrototypePieces {
+      | ^
+./type.hh:754:1: note: did you mean struct here?
+  754 | class PrototypePieces;
+      | ^~~~~
+      | struct
+g++ -std=c++11 -arch arm64 -c -O2 -Wall -Wno-sign-compare -mmacosx-version-min=11.0         cast.cc -o ghi_opt/cast.o
+In file included from options.cc:17:
+In file included from ./funcdata.hh:22:
+In file included from ./architecture.hh:26:
+./fspec.hh:360:1: warning: 'ParameterPieces' defined as a struct here but previously declared as a class; this is valid, but may result in linker errors under the Microsoft C++ ABI [-Wmismatched-tags]
+  360 | struct ParameterPieces {
+      | ^
+./modelrules.hh:26:1: note: did you mean struct here?
+   26 | class ParameterPieces;
+      | ^~~~~
+      | struct
+In file included from options.cc:17:
+In file included from ./funcdata.hh:22:
+In file included from ./architecture.hh:26:
+./fspec.hh:377:1: warning: 'PrototypePieces' defined as a struct here but previously declared as a class; this is valid, but may result in linker errors under the Microsoft C++ ABI [-Wmismatched-tags]
+  377 | struct PrototypePieces {
+      | ^
+./type.hh:754:1: note: did you mean struct here?
+  754 | class PrototypePieces;
+      | ^~~~~
+      | struct
+In file included from graph.cc:17:
+In file included from ./graph.hh:19:
+In file included from ./funcdata.hh:22:
+In file included from ./architecture.hh:26:
+./fspec.hh:360:1: warning: 'ParameterPieces' defined as a struct here but previously declared as a class; this is valid, but may result in linker errors under the Microsoft C++ ABI [-Wmismatched-tags]
+  360 | struct ParameterPieces {
+      | ^
+./modelrules.hh:26:1: note: did you mean struct here?
+   26 | class ParameterPieces;
+      | ^~~~~
+      | struct
+In file included from graph.cc:17:
+In file included from ./graph.hh:19:
+In file included from ./funcdata.hh:22:
+In file included from ./architecture.hh:26:
+./fspec.hh:377:1: warning: 'PrototypePieces' defined as a struct here but previously declared as a class; this is valid, but may result in linker errors under the Microsoft C++ ABI [-Wmismatched-tags]
+  377 | struct PrototypePieces {
+      | ^
+./type.hh:754:1: note: did you mean struct here?
+  754 | class PrototypePieces;
+      | ^~~~~
+      | struct
+g++ -std=c++11 -arch arm64 -c -O2 -Wall -Wno-sign-compare -mmacosx-version-min=11.0         typeop.cc -o ghi_opt/typeop.o
+2 warnings generated.
+g++ -std=c++11 -arch arm64 -c -O2 -Wall -Wno-sign-compare -mmacosx-version-min=11.0         database.cc -o ghi_opt/database.o
+In file included from block.cc:18:
+In file included from ./funcdata.hh:22:
+In file included from ./architecture.hh:26:
+./fspec.hh:360:1: warning: 'ParameterPieces' defined as a struct here but previously declared as a class; this is valid, but may result in linker errors under the Microsoft C++ ABI [-Wmismatched-tags]
+  360 | struct ParameterPieces {
+      | ^
+./modelrules.hh:26:1: note: did you mean struct here?
+   26 | class ParameterPieces;
+      | ^~~~~
+      | struct
+In file included from block.cc:18:
+In file included from ./funcdata.hh:22:
+In file included from ./architecture.hh:26:
+./fspec.hh:377:1: warning: 'PrototypePieces' defined as a struct here but previously declared as a class; this is valid, but may result in linker errors under the Microsoft C++ ABI [-Wmismatched-tags]
+  377 | struct PrototypePieces {
+      | ^
+./type.hh:754:1: note: did you mean struct here?
+  754 | class PrototypePieces;
+      | ^~~~~
+      | struct
+g++ -std=c++11 -arch arm64 -c -O2 -Wall -Wno-sign-compare -mmacosx-version-min=11.0         cpool.cc -o ghi_opt/cpool.o
+2 warnings generated.
+g++ -std=c++11 -arch arm64 -c -O2 -Wall -Wno-sign-compare -mmacosx-version-min=11.0         comment.cc -o ghi_opt/comment.o
+2 warnings generated.
+g++ -std=c++11 -arch arm64 -c -O2 -Wall -Wno-sign-compare -mmacosx-version-min=11.0         stringmanage.cc -o ghi_opt/stringmanage.o
+In file included from typeop.cc:17:
+In file included from ./funcdata.hh:22:
+In file included from ./architecture.hh:26:
+./fspec.hh:360:1: warning: 'ParameterPieces' defined as a struct here but previously declared as a class; this is valid, but may result in linker errors under the Microsoft C++ ABI [-Wmismatched-tags]
+  360 | struct ParameterPieces {
+      | ^
+./modelrules.hh:26:1: note: did you mean struct here?
+   26 | class ParameterPieces;
+      | ^~~~~
+      | struct
+In file included from typeop.cc:17:
+In file included from ./funcdata.hh:22:
+In file included from ./architecture.hh:26:
+./fspec.hh:377:1: warning: 'PrototypePieces' defined as a struct here but previously declared as a class; this is valid, but may result in linker errors under the Microsoft C++ ABI [-Wmismatched-tags]
+  377 | struct PrototypePieces {
+      | ^
+./type.hh:754:1: note: did you mean struct here?
+  754 | class PrototypePieces;
+      | ^~~~~
+      | struct
+In file included from database.cc:17:
+In file included from ./funcdata.hh:22:
+In file included from ./architecture.hh:26:
+./fspec.hh:360:1: warning: 'ParameterPieces' defined as a struct here but previously declared as a class; this is valid, but may result in linker errors under the Microsoft C++ ABI [-Wmismatched-tags]
+  360 | struct ParameterPieces {
+      | ^
+./modelrules.hh:26:1: note: did you mean struct here?
+   26 | class ParameterPieces;
+      | ^~~~~
+      | struct
+In file included from database.cc:17:
+In file included from ./funcdata.hh:22:
+In file included from ./architecture.hh:26:
+./fspec.hh:377:1: warning: 'PrototypePieces' defined as a struct here but previously declared as a class; this is valid, but may result in linker errors under the Microsoft C++ ABI [-Wmismatched-tags]
+  377 | struct PrototypePieces {
+      | ^
+./type.hh:754:1: note: did you mean struct here?
+  754 | class PrototypePieces;
+      | ^~~~~
+      | struct
+g++ -std=c++11 -arch arm64 -c -O2 -Wall -Wno-sign-compare -mmacosx-version-min=11.0         modelrules.cc -o ghi_opt/modelrules.o
+In file included from comment.cc:17:
+In file included from ./funcdata.hh:22:
+In file included from ./architecture.hh:26:
+./fspec.hh:360:1: warning: 'ParameterPieces' defined as a struct here but previously declared as a class; this is valid, but may result in linker errors under the Microsoft C++ ABI [-Wmismatched-tags]
+  360 | struct ParameterPieces {
+      | ^
+./modelrules.hh:26:1: note: did you mean struct here?
+   26 | class ParameterPieces;
+      | ^~~~~
+      | struct
+In file included from comment.cc:17:
+In file included from ./funcdata.hh:22:
+In file included from ./architecture.hh:26:
+./fspec.hh:377:1: warning: 'PrototypePieces' defined as a struct here but previously declared as a class; this is valid, but may result in linker errors under the Microsoft C++ ABI [-Wmismatched-tags]
+  377 | struct PrototypePieces {
+      | ^
+./type.hh:754:1: note: did you mean struct here?
+  754 | class PrototypePieces;
+      | ^~~~~
+      | struct
+In file included from stringmanage.cc:17:
+In file included from ./architecture.hh:26:
+./fspec.hh:360:1: warning: 'ParameterPieces' defined as a struct here but previously declared as a class; this is valid, but may result in linker errors under the Microsoft C++ ABI [-Wmismatched-tags]
+  360 | struct ParameterPieces {
+      | ^
+./modelrules.hh:26:1: note: did you mean struct here?
+   26 | class ParameterPieces;
+      | ^~~~~
+      | struct
+In file included from stringmanage.cc:17:
+In file included from ./architecture.hh:26:
+./fspec.hh:377:1: warning: 'PrototypePieces' defined as a struct here but previously declared as a class; this is valid, but may result in linker errors under the Microsoft C++ ABI [-Wmismatched-tags]
+  377 | struct PrototypePieces {
+      | ^
+./type.hh:754:1: note: did you mean struct here?
+  754 | class PrototypePieces;
+      | ^~~~~
+      | struct
+2 warnings generated.
+g++ -std=c++11 -arch arm64 -c -O2 -Wall -Wno-sign-compare -mmacosx-version-min=11.0         fspec.cc -o ghi_opt/fspec.o
+2 warnings generated.
+In file included from modelrules.cc:17:
+In file included from ./funcdata.hh:22:
+In file included from ./architecture.hh:26:
+./fspec.hh:360:1: warning: 'ParameterPieces' defined as a struct here but previously declared as a class; this is valid, but may result in linker errors under the Microsoft C++ ABI [-Wmismatched-tags]
+  360 | struct ParameterPieces {
+      | ^
+./modelrules.hh:26:1: note: did you mean struct here?
+   26 | class ParameterPieces;
+      | ^~~~~
+      | struct
+In file included from modelrules.cc:17:
+In file included from ./funcdata.hh:22:
+In file included from ./architecture.hh:26:
+./fspec.hh:377:1: warning: 'PrototypePieces' defined as a struct here but previously declared as a class; this is valid, but may result in linker errors under the Microsoft C++ ABI [-Wmismatched-tags]
+  377 | struct PrototypePieces {
+      | ^
+./type.hh:754:1: note: did you mean struct here?
+  754 | class PrototypePieces;
+      | ^~~~~
+      | struct
+g++ -std=c++11 -arch arm64 -c -O2 -Wall -Wno-sign-compare -mmacosx-version-min=11.0         action.cc -o ghi_opt/action.o
+2 warnings generated.
+g++ -std=c++11 -arch arm64 -c -O2 -Wall -Wno-sign-compare -mmacosx-version-min=11.0         loadimage.cc -o ghi_opt/loadimage.o
+2 warnings generated.
+g++ -std=c++11 -arch arm64 -c -O2 -Wall -Wno-sign-compare -mmacosx-version-min=11.0         grammar.cc -o ghi_opt/grammar.o
+In file included from fspec.cc:16:
+./fspec.hh:360:1: warning: 'ParameterPieces' defined as a struct here but previously declared as a class; this is valid, but may result in linker errors under the Microsoft C++ ABI [-Wmismatched-tags]
+  360 | struct ParameterPieces {
+      | ^
+./modelrules.hh:26:1: note: did you mean struct here?
+   26 | class ParameterPieces;
+      | ^~~~~
+      | struct
+In file included from fspec.cc:16:
+./fspec.hh:377:1: warning: 'PrototypePieces' defined as a struct here but previously declared as a class; this is valid, but may result in linker errors under the Microsoft C++ ABI [-Wmismatched-tags]
+  377 | struct PrototypePieces {
+      | ^
+./type.hh:754:1: note: did you mean struct here?
+  754 | class PrototypePieces;
+      | ^~~~~
+      | struct
+g++ -std=c++11 -arch arm64 -c -O2 -Wall -Wno-sign-compare -mmacosx-version-min=11.0         varnode.cc -o ghi_opt/varnode.o
+In file included from action.cc:17:
+In file included from ./funcdata.hh:22:
+In file included from ./architecture.hh:26:
+./fspec.hh:360:1: warning: 'ParameterPieces' defined as a struct here but previously declared as a class; this is valid, but may result in linker errors under the Microsoft C++ ABI [-Wmismatched-tags]
+  360 | struct ParameterPieces {
+      | ^
+./modelrules.hh:26:1: note: did you mean struct here?
+   26 | class ParameterPieces;
+      | ^~~~~
+      | struct
+In file included from action.cc:17:
+In file included from ./funcdata.hh:22:
+In file included from ./architecture.hh:26:
+./fspec.hh:377:1: warning: 'PrototypePieces' defined as a struct here but previously declared as a class; this is valid, but may result in linker errors under the Microsoft C++ ABI [-Wmismatched-tags]
+  377 | struct PrototypePieces {
+      | ^
+./type.hh:754:1: note: did you mean struct here?
+  754 | class PrototypePieces;
+      | ^~~~~
+      | struct
+2 warnings generated.
+g++ -std=c++11 -arch arm64 -c -O2 -Wall -Wno-sign-compare -mmacosx-version-min=11.0         op.cc -o ghi_opt/op.o
+In file included from grammar.cc:94:
+In file included from ./grammar.hh:19:
+In file included from ./funcdata.hh:22:
+In file included from ./architecture.hh:26:
+./fspec.hh:360:1: warning: 'ParameterPieces' defined as a struct here but previously declared as a class; this is valid, but may result in linker errors under the Microsoft C++ ABI [-Wmismatched-tags]
+  360 | struct ParameterPieces {
+      | ^
+./modelrules.hh:26:1: note: did you mean struct here?
+   26 | class ParameterPieces;
+      | ^~~~~
+      | struct
+In file included from grammar.cc:94:
+In file included from ./grammar.hh:19:
+In file included from ./funcdata.hh:22:
+In file included from ./architecture.hh:26:
+./fspec.hh:377:1: warning: 'PrototypePieces' defined as a struct here but previously declared as a class; this is valid, but may result in linker errors under the Microsoft C++ ABI [-Wmismatched-tags]
+  377 | struct PrototypePieces {
+      | ^
+./type.hh:754:1: note: did you mean struct here?
+  754 | class PrototypePieces;
+      | ^~~~~
+      | struct
+2 warnings generated.
+g++ -std=c++11 -arch arm64 -c -O2 -Wall -Wno-sign-compare -mmacosx-version-min=11.0         type.cc -o ghi_opt/type.o
+In file included from varnode.cc:17:
+In file included from ./funcdata.hh:22:
+In file included from ./architecture.hh:26:
+./fspec.hh:360:1: warning: 'ParameterPieces' defined as a struct here but previously declared as a class; this is valid, but may result in linker errors under the Microsoft C++ ABI [-Wmismatched-tags]
+  360 | struct ParameterPieces {
+      | ^
+./modelrules.hh:26:1: note: did you mean struct here?
+   26 | class ParameterPieces;
+      | ^~~~~
+      | struct
+In file included from varnode.cc:17:
+In file included from ./funcdata.hh:22:
+In file included from ./architecture.hh:26:
+./fspec.hh:377:1: warning: 'PrototypePieces' defined as a struct here but previously declared as a class; this is valid, but may result in linker errors under the Microsoft C++ ABI [-Wmismatched-tags]
+  377 | struct PrototypePieces {
+      | ^
+./type.hh:754:1: note: did you mean struct here?
+  754 | class PrototypePieces;
+      | ^~~~~
+      | struct
+In file included from op.cc:17:
+In file included from ./funcdata.hh:22:
+In file included from ./architecture.hh:26:
+./fspec.hh:360:1: warning: 'ParameterPieces' defined as a struct here but previously declared as a class; this is valid, but may result in linker errors under the Microsoft C++ ABI [-Wmismatched-tags]
+  360 | struct ParameterPieces {
+      | ^
+./modelrules.hh:26:1: note: did you mean struct here?
+   26 | class ParameterPieces;
+      | ^~~~~
+      | struct
+In file included from op.cc:17:
+In file included from ./funcdata.hh:22:
+In file included from ./architecture.hh:26:
+./fspec.hh:377:1: warning: 'PrototypePieces' defined as a struct here but previously declared as a class; this is valid, but may result in linker errors under the Microsoft C++ ABI [-Wmismatched-tags]
+  377 | struct PrototypePieces {
+      | ^
+./type.hh:754:1: note: did you mean struct here?
+  754 | class PrototypePieces;
+      | ^~~~~
+      | struct
+2 warnings generated.
+g++ -std=c++11 -arch arm64 -c -O2 -Wall -Wno-sign-compare -mmacosx-version-min=11.0         variable.cc -o ghi_opt/variable.o
+In file included from type.cc:17:
+In file included from ./funcdata.hh:22:
+In file included from ./architecture.hh:26:
+./fspec.hh:360:1: warning: 'ParameterPieces' defined as a struct here but previously declared as a class; this is valid, but may result in linker errors under the Microsoft C++ ABI [-Wmismatched-tags]
+  360 | struct ParameterPieces {
+      | ^
+./modelrules.hh:26:1: note: did you mean struct here?
+   26 | class ParameterPieces;
+      | ^~~~~
+      | struct
+In file included from type.cc:17:
+In file included from ./funcdata.hh:22:
+In file included from ./architecture.hh:26:
+./fspec.hh:377:1: warning: 'PrototypePieces' defined as a struct here but previously declared as a class; this is valid, but may result in linker errors under the Microsoft C++ ABI [-Wmismatched-tags]
+  377 | struct PrototypePieces {
+      | ^
+./type.hh:754:1: note: did you mean struct here?
+  754 | class PrototypePieces;
+      | ^~~~~
+      | struct
+2 warnings generated.
+g++ -std=c++11 -arch arm64 -c -O2 -Wall -Wno-sign-compare -mmacosx-version-min=11.0         varmap.cc -o ghi_opt/varmap.o
+2 warnings generated.
+g++ -std=c++11 -arch arm64 -c -O2 -Wall -Wno-sign-compare -mmacosx-version-min=11.0         jumptable.cc -o ghi_opt/jumptable.o
+2 warnings generated.
+g++ -std=c++11 -arch arm64 -c -O2 -Wall -Wno-sign-compare -mmacosx-version-min=11.0         emulate.cc -o ghi_opt/emulate.o
+g++ -std=c++11 -arch arm64 -c -O2 -Wall -Wno-sign-compare -mmacosx-version-min=11.0         emulateutil.cc -o ghi_opt/emulateutil.o
+In file included from jumptable.cc:18:
+In file included from ./flow.hh:22:
+In file included from ./funcdata.hh:22:
+In file included from ./architecture.hh:26:
+./fspec.hh:360:1: warning: 'ParameterPieces' defined as a struct here but previously declared as a class; this is valid, but may result in linker errors under the Microsoft C++ ABI [-Wmismatched-tags]
+  360 | struct ParameterPieces {
+      | ^
+./modelrules.hh:26:1: note: did you mean struct here?
+   26 | class ParameterPieces;
+      | ^~~~~
+      | struct
+In file included from jumptable.cc:18:
+In file included from ./flow.hh:22:
+In file included from ./funcdata.hh:22:
+In file included from ./architecture.hh:26:
+./fspec.hh:377:1: warning: 'PrototypePieces' defined as a struct here but previously declared as a class; this is valid, but may result in linker errors under the Microsoft C++ ABI [-Wmismatched-tags]
+  377 | struct PrototypePieces {
+      | ^
+./type.hh:754:1: note: did you mean struct here?
+  754 | class PrototypePieces;
+      | ^~~~~
+      | struct
+In file included from varmap.cc:17:
+In file included from ./funcdata.hh:22:
+In file included from ./architecture.hh:26:
+./fspec.hh:360:1: warning: 'ParameterPieces' defined as a struct here but previously declared as a class; this is valid, but may result in linker errors under the Microsoft C++ ABI [-Wmismatched-tags]
+  360 | struct ParameterPieces {
+      | ^
+./modelrules.hh:26:1: note: did you mean struct here?
+   26 | class ParameterPieces;
+      | ^~~~~
+      | struct
+In file included from varmap.cc:17:
+In file included from ./funcdata.hh:22:
+In file included from ./architecture.hh:26:
+./fspec.hh:377:1: warning: 'PrototypePieces' defined as a struct here but previously declared as a class; this is valid, but may result in linker errors under the Microsoft C++ ABI [-Wmismatched-tags]
+  377 | struct PrototypePieces {
+      | ^
+./type.hh:754:1: note: did you mean struct here?
+  754 | class PrototypePieces;
+      | ^~~~~
+      | struct
+g++ -std=c++11 -arch arm64 -c -O2 -Wall -Wno-sign-compare -mmacosx-version-min=11.0         flow.cc -o ghi_opt/flow.o
+2 warnings generated.
+g++ -std=c++11 -arch arm64 -c -O2 -Wall -Wno-sign-compare -mmacosx-version-min=11.0         userop.cc -o ghi_opt/userop.o
+2 warnings generated.
+g++ -std=c++11 -arch arm64 -c -O2 -Wall -Wno-sign-compare -mmacosx-version-min=11.0         expression.cc -o ghi_opt/expression.o
+In file included from emulateutil.cc:16:
+In file included from ./architecture.hh:26:
+./fspec.hh:360:1: warning: 'ParameterPieces' defined as a struct here but previously declared as a class; this is valid, but may result in linker errors under the Microsoft C++ ABI [-Wmismatched-tags]
+  360 | struct ParameterPieces {
+      | ^
+./modelrules.hh:26:1: note: did you mean struct here?
+   26 | class ParameterPieces;
+      | ^~~~~
+      | struct
+In file included from emulateutil.cc:16:
+In file included from ./architecture.hh:26:
+./fspec.hh:377:1: warning: 'PrototypePieces' defined as a struct here but previously declared as a class; this is valid, but may result in linker errors under the Microsoft C++ ABI [-Wmismatched-tags]
+  377 | struct PrototypePieces {
+      | ^
+./type.hh:754:1: note: did you mean struct here?
+  754 | class PrototypePieces;
+      | ^~~~~
+      | struct
+In file included from flow.cc:16:
+In file included from ./flow.hh:22:
+In file included from ./funcdata.hh:22:
+In file included from ./architecture.hh:26:
+./fspec.hh:360:1: warning: 'ParameterPieces' defined as a struct here but previously declared as a class; this is valid, but may result in linker errors under the Microsoft C++ ABI [-Wmismatched-tags]
+  360 | struct ParameterPieces {
+      | ^
+./modelrules.hh:26:1: note: did you mean struct here?
+   26 | class ParameterPieces;
+      | ^~~~~
+      | struct
+In file included from flow.cc:16:
+In file included from ./flow.hh:22:
+In file included from ./funcdata.hh:22:
+In file included from ./architecture.hh:26:
+./fspec.hh:377:1: warning: 'PrototypePieces' defined as a struct here but previously declared as a class; this is valid, but may result in linker errors under the Microsoft C++ ABI [-Wmismatched-tags]
+  377 | struct PrototypePieces {
+      | ^
+./type.hh:754:1: note: did you mean struct here?
+  754 | class PrototypePieces;
+      | ^~~~~
+      | struct
+2 warnings generated.
+g++ -std=c++11 -arch arm64 -c -O2 -Wall -Wno-sign-compare -mmacosx-version-min=11.0         multiprecision.cc -o ghi_opt/multiprecision.o
+In file included from userop.cc:17:
+In file included from ./funcdata.hh:22:
+In file included from ./architecture.hh:26:
+./fspec.hh:360:1: warning: 'ParameterPieces' defined as a struct here but previously declared as a class; this is valid, but may result in linker errors under the Microsoft C++ ABI [-Wmismatched-tags]
+  360 | struct ParameterPieces {
+      | ^
+./modelrules.hh:26:1: note: did you mean struct here?
+   26 | class ParameterPieces;
+      | ^~~~~
+      | struct
+In file included from userop.cc:17:
+In file included from ./funcdata.hh:22:
+In file included from ./architecture.hh:26:
+./fspec.hh:377:1: warning: 'PrototypePieces' defined as a struct here but previously declared as a class; this is valid, but may result in linker errors under the Microsoft C++ ABI [-Wmismatched-tags]
+  377 | struct PrototypePieces {
+      | ^
+./type.hh:754:1: note: did you mean struct here?
+  754 | class PrototypePieces;
+      | ^~~~~
+      | struct
+2 warnings generated.
+g++ -std=c++11 -arch arm64 -c -O2 -Wall -Wno-sign-compare -mmacosx-version-min=11.0         funcdata.cc -o ghi_opt/funcdata.o
+g++ -std=c++11 -arch arm64 -c -O2 -Wall -Wno-sign-compare -mmacosx-version-min=11.0         funcdata_block.cc -o ghi_opt/funcdata_block.o
+g++ -std=c++11 -arch arm64 -c -O2 -Wall -Wno-sign-compare -mmacosx-version-min=11.0         funcdata_op.cc -o ghi_opt/funcdata_op.o
+2 warnings generated.
+g++ -std=c++11 -arch arm64 -c -O2 -Wall -Wno-sign-compare -mmacosx-version-min=11.0         funcdata_varnode.cc -o ghi_opt/funcdata_varnode.o
+2 warnings generated.
+g++ -std=c++11 -arch arm64 -c -O2 -Wall -Wno-sign-compare -mmacosx-version-min=11.0         unionresolve.cc -o ghi_opt/unionresolve.o
+In file included from funcdata.cc:16:
+In file included from ./funcdata.hh:22:
+In file included from ./architecture.hh:26:
+./fspec.hh:360:1: warning: 'ParameterPieces' defined as a struct here but previously declared as a class; this is valid, but may result in linker errors under the Microsoft C++ ABI [-Wmismatched-tags]
+  360 | struct ParameterPieces {
+      | ^
+./modelrules.hh:26:1: note: did you mean struct here?
+   26 | class ParameterPieces;
+      | ^~~~~
+      | struct
+In file included from funcdata.cc:16:
+In file included from ./funcdata.hh:22:
+In file included from ./architecture.hh:26:
+./fspec.hh:377:1: warning: 'PrototypePieces' defined as a struct here but previously declared as a class; this is valid, but may result in linker errors under the Microsoft C++ ABI [-Wmismatched-tags]
+  377 | struct PrototypePieces {
+      | ^
+./type.hh:754:1: note: did you mean struct here?
+  754 | class PrototypePieces;
+      | ^~~~~
+      | struct
+2 warnings generated.
+g++ -std=c++11 -arch arm64 -c -O2 -Wall -Wno-sign-compare -mmacosx-version-min=11.0         pcodeinject.cc -o ghi_opt/pcodeinject.o
+In file included from funcdata_block.cc:16:
+In file included from ./funcdata.hh:22:
+In file included from ./architecture.hh:26:
+./fspec.hh:360:1: warning: 'ParameterPieces' defined as a struct here but previously declared as a class; this is valid, but may result in linker errors under the Microsoft C++ ABI [-Wmismatched-tags]
+  360 | struct ParameterPieces {
+      | ^
+./modelrules.hh:26:1: note: did you mean struct here?
+   26 | class ParameterPieces;
+      | ^~~~~
+      | struct
+In file included from funcdata_block.cc:16:
+In file included from ./funcdata.hh:22:
+In file included from ./architecture.hh:26:
+./fspec.hh:377:1: warning: 'PrototypePieces' defined as a struct here but previously declared as a class; this is valid, but may result in linker errors under the Microsoft C++ ABI [-Wmismatched-tags]
+  377 | struct PrototypePieces {
+      | ^
+./type.hh:754:1: note: did you mean struct here?
+  754 | class PrototypePieces;
+      | ^~~~~
+      | struct
+In file included from funcdata_op.cc:16:
+In file included from ./funcdata.hh:22:
+In file included from ./architecture.hh:26:
+./fspec.hh:360:1: warning: 'ParameterPieces' defined as a struct here but previously declared as a class; this is valid, but may result in linker errors under the Microsoft C++ ABI [-Wmismatched-tags]
+  360 | struct ParameterPieces {
+      | ^
+./modelrules.hh:26:1: note: did you mean struct here?
+   26 | class ParameterPieces;
+      | ^~~~~
+      | struct
+In file included from funcdata_op.cc:16:
+In file included from ./funcdata.hh:22:
+In file included from ./architecture.hh:26:
+./fspec.hh:377:1: warning: 'PrototypePieces' defined as a struct here but previously declared as a class; this is valid, but may result in linker errors under the Microsoft C++ ABI [-Wmismatched-tags]
+  377 | struct PrototypePieces {
+      | ^
+./type.hh:754:1: note: did you mean struct here?
+  754 | class PrototypePieces;
+      | ^~~~~
+      | struct
+In file included from funcdata_varnode.cc:16:
+In file included from ./funcdata.hh:22:
+In file included from ./architecture.hh:26:
+./fspec.hh:360:1: warning: 'ParameterPieces' defined as a struct here but previously declared as a class; this is valid, but may result in linker errors under the Microsoft C++ ABI [-Wmismatched-tags]
+  360 | struct ParameterPieces {
+      | ^
+./modelrules.hh:26:1: note: did you mean struct here?
+   26 | class ParameterPieces;
+      | ^~~~~
+      | struct
+In file included from funcdata_varnode.cc:16:
+In file included from ./funcdata.hh:22:
+In file included from ./architecture.hh:26:
+./fspec.hh:377:1: warning: 'PrototypePieces' defined as a struct here but previously declared as a class; this is valid, but may result in linker errors under the Microsoft C++ ABI [-Wmismatched-tags]
+  377 | struct PrototypePieces {
+      | ^
+./type.hh:754:1: note: did you mean struct here?
+  754 | class PrototypePieces;
+      | ^~~~~
+      | struct
+In file included from unionresolve.cc:17:
+In file included from ./funcdata.hh:22:
+In file included from ./architecture.hh:26:
+./fspec.hh:360:1: warning: 'ParameterPieces' defined as a struct here but previously declared as a class; this is valid, but may result in linker errors under the Microsoft C++ ABI [-Wmismatched-tags]
+  360 | struct ParameterPieces {
+      | ^
+./modelrules.hh:26:1: note: did you mean struct here?
+   26 | class ParameterPieces;
+      | ^~~~~
+      | struct
+In file included from unionresolve.cc:17:
+In file included from ./funcdata.hh:22:
+In file included from ./architecture.hh:26:
+./fspec.hh:377:1: warning: 'PrototypePieces' defined as a struct here but previously declared as a class; this is valid, but may result in linker errors under the Microsoft C++ ABI [-Wmismatched-tags]
+  377 | struct PrototypePieces {
+      | ^
+./type.hh:754:1: note: did you mean struct here?
+  754 | class PrototypePieces;
+      | ^~~~~
+      | struct
+2 warnings generated.
+g++ -std=c++11 -arch arm64 -c -O2 -Wall -Wno-sign-compare -mmacosx-version-min=11.0         heritage.cc -o ghi_opt/heritage.o
+In file included from pcodeinject.cc:17:
+In file included from ./architecture.hh:26:
+./fspec.hh:360:1: warning: 'ParameterPieces' defined as a struct here but previously declared as a class; this is valid, but may result in linker errors under the Microsoft C++ ABI [-Wmismatched-tags]
+  360 | struct ParameterPieces {
+      | ^
+./modelrules.hh:26:1: note: did you mean struct here?
+   26 | class ParameterPieces;
+      | ^~~~~
+      | struct
+In file included from pcodeinject.cc:17:
+In file included from ./architecture.hh:26:
+./fspec.hh:377:1: warning: 'PrototypePieces' defined as a struct here but previously declared as a class; this is valid, but may result in linker errors under the Microsoft C++ ABI [-Wmismatched-tags]
+  377 | struct PrototypePieces {
+      | ^
+./type.hh:754:1: note: did you mean struct here?
+  754 | class PrototypePieces;
+      | ^~~~~
+      | struct
+2 warnings generated.
+g++ -std=c++11 -arch arm64 -c -O2 -Wall -Wno-sign-compare -mmacosx-version-min=11.0         prefersplit.cc -o ghi_opt/prefersplit.o
+2 warnings generated.
+g++ -std=c++11 -arch arm64 -c -O2 -Wall -Wno-sign-compare -mmacosx-version-min=11.0         rangeutil.cc -o ghi_opt/rangeutil.o
+2 warnings generated.
+g++ -std=c++11 -arch arm64 -c -O2 -Wall -Wno-sign-compare -mmacosx-version-min=11.0         ruleaction.cc -o ghi_opt/ruleaction.o
+2 warnings generated.
+g++ -std=c++11 -arch arm64 -c -O2 -Wall -Wno-sign-compare -mmacosx-version-min=11.0         subflow.cc -o ghi_opt/subflow.o
+2 warnings generated.
+In file included from heritage.cc:17:
+In file included from ./funcdata.hh:22:
+In file included from ./architecture.hh:26:
+./fspec.hh:360:1: warning: 'ParameterPieces' defined as a struct here but previously declared as a class; this is valid, but may result in linker errors under the Microsoft C++ ABI [-Wmismatched-tags]
+g++ -std=c++11 -arch arm64 -c -O2 -Wall -Wno-sign-compare -mmacosx-version-min=11.0         blockaction.cc -o ghi_opt/blockaction.o
+  360 | struct ParameterPieces {
+      | ^
+./modelrules.hh:26:1: note: did you mean struct here?
+   26 | class ParameterPieces;
+      | ^~~~~
+      | struct
+In file included from heritage.cc:17:
+In file included from ./funcdata.hh:22:
+In file included from ./architecture.hh:26:
+./fspec.hh:377:1: warning: 'PrototypePieces' defined as a struct here but previously declared as a class; this is valid, but may result in linker errors under the Microsoft C++ ABI [-Wmismatched-tags]
+  377 | struct PrototypePieces {
+      | ^
+./type.hh:754:1: note: did you mean struct here?
+  754 | class PrototypePieces;
+      | ^~~~~
+      | struct
+In file included from prefersplit.cc:17:
+In file included from ./funcdata.hh:22:
+In file included from ./architecture.hh:26:
+./fspec.hh:360:1: warning: 'ParameterPieces' defined as a struct here but previously declared as a class; this is valid, but may result in linker errors under the Microsoft C++ ABI [-Wmismatched-tags]
+  360 | struct ParameterPieces {
+      | ^
+./modelrules.hh:26:1: note: did you mean struct here?
+   26 | class ParameterPieces;
+      | ^~~~~
+      | struct
+In file included from prefersplit.cc:17:
+In file included from ./funcdata.hh:22:
+In file included from ./architecture.hh:26:
+./fspec.hh:377:1: warning: 'PrototypePieces' defined as a struct here but previously declared as a class; this is valid, but may result in linker errors under the Microsoft C++ ABI [-Wmismatched-tags]
+  377 | struct PrototypePieces {
+      | ^
+./type.hh:754:1: note: did you mean struct here?
+  754 | class PrototypePieces;
+      | ^~~~~
+      | struct
+In file included from ruleaction.cc:17:
+In file included from ./coreaction.hh:29:
+In file included from ./funcdata.hh:22:
+In file included from ./architecture.hh:26:
+./fspec.hh:360:1: warning: 'ParameterPieces' defined as a struct here but previously declared as a class; this is valid, but may result in linker errors under the Microsoft C++ ABI [-Wmismatched-tags]
+  360 | struct ParameterPieces {
+      | ^
+./modelrules.hh:26:1: note: did you mean struct here?
+   26 | class ParameterPieces;
+      | ^~~~~
+      | struct
+In file included from ruleaction.cc:17:
+In file included from ./coreaction.hh:29:
+In file included from ./funcdata.hh:22:
+In file included from ./architecture.hh:26:
+./fspec.hh:377:1: warning: 'PrototypePieces' defined as a struct here but previously declared as a class; this is valid, but may result in linker errors under the Microsoft C++ ABI [-Wmismatched-tags]
+  377 | struct PrototypePieces {
+      | ^
+./type.hh:754:1: note: did you mean struct here?
+  754 | class PrototypePieces;
+      | ^~~~~
+      | struct
+In file included from subflow.cc:17:
+In file included from ./funcdata.hh:22:
+In file included from ./architecture.hh:26:
+./fspec.hh:360:1: warning: 'ParameterPieces' defined as a struct here but previously declared as a class; this is valid, but may result in linker errors under the Microsoft C++ ABI [-Wmismatched-tags]
+  360 | struct ParameterPieces {
+      | ^
+./modelrules.hh:26:1: note: did you mean struct here?
+   26 | class ParameterPieces;
+      | ^~~~~
+      | struct
+In file included from subflow.cc:17:
+In file included from ./funcdata.hh:22:
+In file included from ./architecture.hh:26:
+./fspec.hh:377:1: warning: 'PrototypePieces' defined as a struct here but previously declared as a class; this is valid, but may result in linker errors under the Microsoft C++ ABI [-Wmismatched-tags]
+  377 | struct PrototypePieces {
+      | ^
+./type.hh:754:1: note: did you mean struct here?
+  754 | class PrototypePieces;
+      | ^~~~~
+      | struct
+In file included from blockaction.cc:17:
+In file included from ./funcdata.hh:22:
+In file included from ./architecture.hh:26:
+./fspec.hh:360:1: warning: 'ParameterPieces' defined as a struct here but previously declared as a class; this is valid, but may result in linker errors under the Microsoft C++ ABI [-Wmismatched-tags]
+  360 | struct ParameterPieces {
+      | ^
+./modelrules.hh:26:1: note: did you mean struct here?
+   26 | class ParameterPieces;
+      | ^~~~~
+      | struct
+In file included from blockaction.cc:17:
+In file included from ./funcdata.hh:22:
+In file included from ./architecture.hh:26:
+./fspec.hh:377:1: warning: 'PrototypePieces' defined as a struct here but previously declared as a class; this is valid, but may result in linker errors under the Microsoft C++ ABI [-Wmismatched-tags]
+  377 | struct PrototypePieces {
+      | ^
+./type.hh:754:1: note: did you mean struct here?
+  754 | class PrototypePieces;
+      | ^~~~~
+      | struct
+2 warnings generated.
+g++ -std=c++11 -arch arm64 -c -O2 -Wall -Wno-sign-compare -mmacosx-version-min=11.0         merge.cc -o ghi_opt/merge.o
+g++ -std=c++11 -arch arm64 -c -O2 -Wall -Wno-sign-compare -mmacosx-version-min=11.0         double.cc -o ghi_opt/double.o
+2 warnings generated.
+g++ -std=c++11 -arch arm64 -c -O2 -Wall -Wno-sign-compare -mmacosx-version-min=11.0         transform.cc -o ghi_opt/transform.o
+In file included from merge.cc:17:
+In file included from ./funcdata.hh:22:
+In file included from ./architecture.hh:26:
+./fspec.hh:360:1: warning: 'ParameterPieces' defined as a struct here but previously declared as a class; this is valid, but may result in linker errors under the Microsoft C++ ABI [-Wmismatched-tags]
+  360 | struct ParameterPieces {
+      | ^
+./modelrules.hh:26:1: note: did you mean struct here?
+   26 | class ParameterPieces;
+      | ^~~~~
+      | struct
+In file included from merge.cc:17:
+In file included from ./funcdata.hh:22:
+In file included from ./architecture.hh:26:
+./fspec.hh:377:1: warning: 'PrototypePieces' defined as a struct here but previously declared as a class; this is valid, but may result in linker errors under the Microsoft C++ ABI [-Wmismatched-tags]
+  377 | struct PrototypePieces {
+      | ^
+./type.hh:754:1: note: did you mean struct here?
+  754 | class PrototypePieces;
+      | ^~~~~
+      | struct
+In file included from double.cc:16:
+In file included from ./double.hh:20:
+In file included from ./funcdata.hh:22:
+In file included from ./architecture.hh:26:
+./fspec.hh:360:1: warning: 'ParameterPieces' defined as a struct here but previously declared as a class; this is valid, but may result in linker errors under the Microsoft C++ ABI [-Wmismatched-tags]
+  360 | struct ParameterPieces {
+      | ^
+./modelrules.hh:26:1: note: did you mean struct here?
+   26 | class ParameterPieces;
+      | ^~~~~
+      | struct
+In file included from double.cc:16:
+In file included from ./double.hh:20:
+In file included from ./funcdata.hh:22:
+In file included from ./architecture.hh:26:
+./fspec.hh:377:1: warning: 'PrototypePieces' defined as a struct here but previously declared as a class; this is valid, but may result in linker errors under the Microsoft C++ ABI [-Wmismatched-tags]
+  377 | struct PrototypePieces {
+      | ^
+./type.hh:754:1: note: did you mean struct here?
+  754 | class PrototypePieces;
+      | ^~~~~
+      | struct
+2 warnings generated.
+g++ -std=c++11 -arch arm64 -c -O2 -Wall -Wno-sign-compare -mmacosx-version-min=11.0         constseq.cc -o ghi_opt/constseq.o
+2 warnings generated.
+g++ -std=c++11 -arch arm64 -c -O2 -Wall -Wno-sign-compare -mmacosx-version-min=11.0         bitfield.cc -o ghi_opt/bitfield.o
+In file included from transform.cc:17:
+In file included from ./funcdata.hh:22:
+In file included from ./architecture.hh:26:
+./fspec.hh:360:1: warning: 'ParameterPieces' defined as a struct here but previously declared as a class; this is valid, but may result in linker errors under the Microsoft C++ ABI [-Wmismatched-tags]
+  360 | struct ParameterPieces {
+      | ^
+./modelrules.hh:26:1: note: did you mean struct here?
+   26 | class ParameterPieces;
+      | ^~~~~
+      | struct
+In file included from transform.cc:17:
+In file included from ./funcdata.hh:22:
+In file included from ./architecture.hh:26:
+./fspec.hh:377:1: warning: 'PrototypePieces' defined as a struct here but previously declared as a class; this is valid, but may result in linker errors under the Microsoft C++ ABI [-Wmismatched-tags]
+  377 | struct PrototypePieces {
+      | ^
+./type.hh:754:1: note: did you mean struct here?
+  754 | class PrototypePieces;
+      | ^~~~~
+      | struct
+2 warnings generated.
+g++ -std=c++11 -arch arm64 -c -O2 -Wall -Wno-sign-compare -mmacosx-version-min=11.0         coreaction.cc -o ghi_opt/coreaction.o
+2 warnings generated.
+g++ -std=c++11 -arch arm64 -c -O2 -Wall -Wno-sign-compare -mmacosx-version-min=11.0         condexe.cc -o ghi_opt/condexe.o
+In file included from constseq.cc:17:
+In file included from ./funcdata.hh:22:
+In file included from ./architecture.hh:26:
+./fspec.hh:360:1: warning: 'ParameterPieces' defined as a struct here but previously declared as a class; this is valid, but may result in linker errors under the Microsoft C++ ABI [-Wmismatched-tags]
+  360 | struct ParameterPieces {
+      | ^
+./modelrules.hh:26:1: note: did you mean struct here?
+   26 | class ParameterPieces;
+      | ^~~~~
+      | struct
+In file included from constseq.cc:17:
+In file included from ./funcdata.hh:22:
+In file included from ./architecture.hh:26:
+./fspec.hh:377:1: warning: 'PrototypePieces' defined as a struct here but previously declared as a class; this is valid, but may result in linker errors under the Microsoft C++ ABI [-Wmismatched-tags]
+  377 | struct PrototypePieces {
+      | ^
+./type.hh:754:1: note: did you mean struct here?
+  754 | class PrototypePieces;
+      | ^~~~~
+      | struct
+In file included from bitfield.cc:17:
+In file included from ./funcdata.hh:22:
+In file included from ./architecture.hh:26:
+./fspec.hh:360:1: warning: 'ParameterPieces' defined as a struct here but previously declared as a class; this is valid, but may result in linker errors under the Microsoft C++ ABI [-Wmismatched-tags]
+  360 | struct ParameterPieces {
+      | ^
+./modelrules.hh:26:1: note: did you mean struct here?
+   26 | class ParameterPieces;
+      | ^~~~~
+      | struct
+In file included from bitfield.cc:17:
+In file included from ./funcdata.hh:22:
+In file included from ./architecture.hh:26:
+./fspec.hh:377:1: warning: 'PrototypePieces' defined as a struct here but previously declared as a class; this is valid, but may result in linker errors under the Microsoft C++ ABI [-Wmismatched-tags]
+  377 | struct PrototypePieces {
+      | ^
+./type.hh:754:1: note: did you mean struct here?
+  754 | class PrototypePieces;
+      | ^~~~~
+      | struct
+2 warnings generated.
+g++ -std=c++11 -arch arm64 -c -O2 -Wall -Wno-sign-compare -mmacosx-version-min=11.0         override.cc -o ghi_opt/override.o
+2 warnings generated.
+g++ -std=c++11 -arch arm64 -c -O2 -Wall -Wno-sign-compare -mmacosx-version-min=11.0         dynamic.cc -o ghi_opt/dynamic.o
+In file included from coreaction.cc:16:
+In file included from ./coreaction.hh:29:
+In file included from ./funcdata.hh:22:
+In file included from ./architecture.hh:26:
+./fspec.hh:360:1: warning: 'ParameterPieces' defined as a struct here but previously declared as a class; this is valid, but may result in linker errors under the Microsoft C++ ABI [-Wmismatched-tags]
+  360 | struct ParameterPieces {
+      | ^
+./modelrules.hh:26:1: note: did you mean struct here?
+   26 | class ParameterPieces;
+      | ^~~~~
+      | struct
+In file included from coreaction.cc:16:
+In file included from ./coreaction.hh:29:
+In file included from ./funcdata.hh:22:
+In file included from ./architecture.hh:26:
+./fspec.hh:377:1: warning: 'PrototypePieces' defined as a struct here but previously declared as a class; this is valid, but may result in linker errors under the Microsoft C++ ABI [-Wmismatched-tags]
+  377 | struct PrototypePieces {
+      | ^
+./type.hh:754:1: note: did you mean struct here?
+  754 | class PrototypePieces;
+      | ^~~~~
+      | struct
+In file included from condexe.cc:16:
+In file included from ./condexe.hh:21:
+In file included from ./funcdata.hh:22:
+In file included from ./architecture.hh:26:
+./fspec.hh:360:1: warning: 'ParameterPieces' defined as a struct here but previously declared as a class; this is valid, but may result in linker errors under the Microsoft C++ ABI [-Wmismatched-tags]
+  360 | struct ParameterPieces {
+      | ^
+./modelrules.hh:26:1: note: did you mean struct here?
+   26 | class ParameterPieces;
+      | ^~~~~
+      | struct
+In file included from condexe.cc:16:
+In file included from ./condexe.hh:21:
+In file included from ./funcdata.hh:22:
+In file included from ./architecture.hh:26:
+./fspec.hh:377:1: warning: 'PrototypePieces' defined as a struct here but previously declared as a class; this is valid, but may result in linker errors under the Microsoft C++ ABI [-Wmismatched-tags]
+  377 | struct PrototypePieces {
+      | ^
+./type.hh:754:1: note: did you mean struct here?
+  754 | class PrototypePieces;
+      | ^~~~~
+      | struct
+In file included from override.cc:17:
+In file included from ./funcdata.hh:22:
+In file included from ./architecture.hh:26:
+./fspec.hh:360:1: warning: 'ParameterPieces' defined as a struct here but previously declared as a class; this is valid, but may result in linker errors under the Microsoft C++ ABI [-Wmismatched-tags]
+  360 | struct ParameterPieces {
+      | ^
+./modelrules.hh:26:1: note: did you mean struct here?
+   26 | class ParameterPieces;
+      | ^~~~~
+      | struct
+In file included from override.cc:17:
+In file included from ./funcdata.hh:22:
+In file included from ./architecture.hh:26:
+./fspec.hh:377:1: warning: 'PrototypePieces' defined as a struct here but previously declared as a class; this is valid, but may result in linker errors under the Microsoft C++ ABI [-Wmismatched-tags]
+  377 | struct PrototypePieces {
+      | ^
+./type.hh:754:1: note: did you mean struct here?
+  754 | class PrototypePieces;
+      | ^~~~~
+      | struct
+2 warnings generated.
+g++ -std=c++11 -arch arm64 -c -O2 -Wall -Wno-sign-compare -mmacosx-version-min=11.0         crc32.cc -o ghi_opt/crc32.o
+In file included from dynamic.cc:17:
+In file included from ./funcdata.hh:22:
+In file included from ./architecture.hh:26:
+./fspec.hh:360:1: warning: 'ParameterPieces' defined as a struct here but previously declared as a class; this is valid, but may result in linker errors under the Microsoft C++ ABI [-Wmismatched-tags]
+  360 | struct ParameterPieces {
+      | ^
+./modelrules.hh:26:1: note: did you mean struct here?
+   26 | class ParameterPieces;
+      | ^~~~~
+      | struct
+In file included from dynamic.cc:17:
+In file included from ./funcdata.hh:22:
+In file included from ./architecture.hh:26:
+./fspec.hh:377:1: warning: 'PrototypePieces' defined as a struct here but previously declared as a class; this is valid, but may result in linker errors under the Microsoft C++ ABI [-Wmismatched-tags]
+  377 | struct PrototypePieces {
+      | ^
+./type.hh:754:1: note: did you mean struct here?
+  754 | class PrototypePieces;
+      | ^~~~~
+      | struct
+g++ -std=c++11 -arch arm64 -c -O2 -Wall -Wno-sign-compare -mmacosx-version-min=11.0         prettyprint.cc -o ghi_opt/prettyprint.o
+2 warnings generated.
+g++ -std=c++11 -arch arm64 -c -O2 -Wall -Wno-sign-compare -mmacosx-version-min=11.0         printlanguage.cc -o ghi_opt/printlanguage.o
+2 warnings generated.
+g++ -std=c++11 -arch arm64 -c -O2 -Wall -Wno-sign-compare -mmacosx-version-min=11.0         printc.cc -o ghi_opt/printc.o
+2 warnings generated.
+g++ -std=c++11 -arch arm64 -c -O2 -Wall -Wno-sign-compare -mmacosx-version-min=11.0         printjava.cc -o ghi_opt/printjava.o
+In file included from prettyprint.cc:17:
+In file included from ./funcdata.hh:22:
+In file included from ./architecture.hh:26:
+./fspec.hh:360:1: warning: 'ParameterPieces' defined as a struct here but previously declared as a class; this is valid, but may result in linker errors under the Microsoft C++ ABI [-Wmismatched-tags]
+  360 | struct ParameterPieces {
+      | ^
+./modelrules.hh:26:1: note: did you mean struct here?
+   26 | class ParameterPieces;
+      | ^~~~~
+      | struct
+In file included from prettyprint.cc:17:
+In file included from ./funcdata.hh:22:
+In file included from ./architecture.hh:26:
+./fspec.hh:377:1: warning: 'PrototypePieces' defined as a struct here but previously declared as a class; this is valid, but may result in linker errors under the Microsoft C++ ABI [-Wmismatched-tags]
+  377 | struct PrototypePieces {
+      | ^
+./type.hh:754:1: note: did you mean struct here?
+  754 | class PrototypePieces;
+      | ^~~~~
+      | struct
+2 warnings generated.
+g++ -std=c++11 -arch arm64 -c -O2 -Wall -Wno-sign-compare -mmacosx-version-min=11.0         memstate.cc -o ghi_opt/memstate.o
+In file included from printlanguage.cc:18:
+In file included from ./funcdata.hh:22:
+In file included from ./architecture.hh:26:
+./fspec.hh:360:1: warning: 'ParameterPieces' defined as a struct here but previously declared as a class; this is valid, but may result in linker errors under the Microsoft C++ ABI [-Wmismatched-tags]
+  360 | struct ParameterPieces {
+      | ^
+./modelrules.hh:26:1: note: did you mean struct here?
+   26 | class ParameterPieces;
+      | ^~~~~
+      | struct
+In file included from printlanguage.cc:18:
+In file included from ./funcdata.hh:22:
+In file included from ./architecture.hh:26:
+./fspec.hh:377:1: warning: 'PrototypePieces' defined as a struct here but previously declared as a class; this is valid, but may result in linker errors under the Microsoft C++ ABI [-Wmismatched-tags]
+  377 | struct PrototypePieces {
+      | ^
+./type.hh:754:1: note: did you mean struct here?
+  754 | class PrototypePieces;
+      | ^~~~~
+      | struct
+In file included from printc.cc:17:
+In file included from ./funcdata.hh:22:
+In file included from ./architecture.hh:26:
+./fspec.hh:360:1: warning: 'ParameterPieces' defined as a struct here but previously declared as a class; this is valid, but may result in linker errors under the Microsoft C++ ABI [-Wmismatched-tags]
+  360 | struct ParameterPieces {
+      | ^
+./modelrules.hh:26:1: note: did you mean struct here?
+   26 | class ParameterPieces;
+      | ^~~~~
+      | struct
+In file included from printc.cc:17:
+In file included from ./funcdata.hh:22:
+In file included from ./architecture.hh:26:
+./fspec.hh:377:1: warning: 'PrototypePieces' defined as a struct here but previously declared as a class; this is valid, but may result in linker errors under the Microsoft C++ ABI [-Wmismatched-tags]
+  377 | struct PrototypePieces {
+      | ^
+./type.hh:754:1: note: did you mean struct here?
+  754 | class PrototypePieces;
+      | ^~~~~
+      | struct
+In file included from printjava.cc:17:
+In file included from ./funcdata.hh:22:
+In file included from ./architecture.hh:26:
+./fspec.hh:360:1: warning: 'ParameterPieces' defined as a struct here but previously declared as a class; this is valid, but may result in linker errors under the Microsoft C++ ABI [-Wmismatched-tags]
+  360 | struct ParameterPieces {
+      | ^
+./modelrules.hh:26:1: note: did you mean struct here?
+   26 | class ParameterPieces;
+      | ^~~~~
+      | struct
+In file included from printjava.cc:17:
+In file included from ./funcdata.hh:22:
+In file included from ./architecture.hh:26:
+./fspec.hh:377:1: warning: 'PrototypePieces' defined as a struct here but previously declared as a class; this is valid, but may result in linker errors under the Microsoft C++ ABI [-Wmismatched-tags]
+  377 | struct PrototypePieces {
+      | ^
+./type.hh:754:1: note: did you mean struct here?
+  754 | class PrototypePieces;
+      | ^~~~~
+      | struct
+2 warnings generated.
+g++ -std=c++11 -arch arm64 -c -O2 -Wall -Wno-sign-compare -mmacosx-version-min=11.0         opbehavior.cc -o ghi_opt/opbehavior.o
+2 warnings generated.
+g++ -std=c++11 -arch arm64 -c -O2 -Wall -Wno-sign-compare -mmacosx-version-min=11.0         paramid.cc -o ghi_opt/paramid.o
+g++ -std=c++11 -arch arm64 -c -O2 -Wall -Wno-sign-compare -mmacosx-version-min=11.0         signature.cc -o ghi_opt/signature.o
+2 warnings generated.
+g++ -std=c++11 -arch arm64 -c -O2 -Wall -Wno-sign-compare -mmacosx-version-min=11.0         ghidra_arch.cc -o ghi_opt/ghidra_arch.o
+g++ -std=c++11 -arch arm64 -c -O2 -Wall -Wno-sign-compare -mmacosx-version-min=11.0         inject_ghidra.cc -o ghi_opt/inject_ghidra.o
+2 warnings generated.
+g++ -std=c++11 -arch arm64 -c -O2 -Wall -Wno-sign-compare -mmacosx-version-min=11.0         ghidra_translate.cc -o ghi_opt/ghidra_translate.o
+In file included from paramid.cc:16:
+In file included from ./paramid.hh:19:
+In file included from ./funcdata.hh:22:
+In file included from ./architecture.hh:26:
+./fspec.hh:360:1: warning: 'ParameterPieces' defined as a struct here but previously declared as a class; this is valid, but may result in linker errors under the Microsoft C++ ABI [-Wmismatched-tags]
+  360 | struct ParameterPieces {
+      | ^
+./modelrules.hh:26:1: note: did you mean struct here?
+   26 | class ParameterPieces;
+      | ^~~~~
+      | struct
+In file included from paramid.cc:16:
+In file included from ./paramid.hh:19:
+In file included from ./funcdata.hh:22:
+In file included from ./architecture.hh:26:
+./fspec.hh:377:1: warning: 'PrototypePieces' defined as a struct here but previously declared as a class; this is valid, but may result in linker errors under the Microsoft C++ ABI [-Wmismatched-tags]
+  377 | struct PrototypePieces {
+      | ^
+./type.hh:754:1: note: did you mean struct here?
+  754 | class PrototypePieces;
+      | ^~~~~
+      | struct
+In file included from signature.cc:16:
+In file included from ./signature.hh:21:
+In file included from ./funcdata.hh:22:
+In file included from ./architecture.hh:26:
+./fspec.hh:360:1: warning: 'ParameterPieces' defined as a struct here but previously declared as a class; this is valid, but may result in linker errors under the Microsoft C++ ABI [-Wmismatched-tags]
+  360 | struct ParameterPieces {
+      | ^
+./modelrules.hh:26:1: note: did you mean struct here?
+   26 | class ParameterPieces;
+      | ^~~~~
+      | struct
+In file included from signature.cc:16:
+In file included from ./signature.hh:21:
+In file included from ./funcdata.hh:22:
+In file included from ./architecture.hh:26:
+./fspec.hh:377:1: warning: 'PrototypePieces' defined as a struct here but previously declared as a class; this is valid, but may result in linker errors under the Microsoft C++ ABI [-Wmismatched-tags]
+  377 | struct PrototypePieces {
+      | ^
+./type.hh:754:1: note: did you mean struct here?
+  754 | class PrototypePieces;
+      | ^~~~~
+      | struct
+In file included from ghidra_arch.cc:16:
+In file included from ./ghidra_context.hh:23:
+In file included from ./ghidra_arch.hh:22:
+In file included from ./architecture.hh:26:
+./fspec.hh:360:1: warning: 'ParameterPieces' defined as a struct here but previously declared as a class; this is valid, but may result in linker errors under the Microsoft C++ ABI [-Wmismatched-tags]
+  360 | struct ParameterPieces {
+      | ^
+./modelrules.hh:26:1: note: did you mean struct here?
+   26 | class ParameterPieces;
+      | ^~~~~
+      | struct
+In file included from ghidra_arch.cc:16:
+In file included from ./ghidra_context.hh:23:
+In file included from ./ghidra_arch.hh:22:
+In file included from ./architecture.hh:26:
+./fspec.hh:377:1: warning: 'PrototypePieces' defined as a struct here but previously declared as a class; this is valid, but may result in linker errors under the Microsoft C++ ABI [-Wmismatched-tags]
+  377 | struct PrototypePieces {
+      | ^
+./type.hh:754:1: note: did you mean struct here?
+  754 | class PrototypePieces;
+      | ^~~~~
+      | struct
+2 warnings generated.
+g++ -std=c++11 -arch arm64 -c -O2 -Wall -Wno-sign-compare -mmacosx-version-min=11.0         loadimage_ghidra.cc -o ghi_opt/loadimage_ghidra.o
+2 warnings generated.
+g++ -std=c++11 -arch arm64 -c -O2 -Wall -Wno-sign-compare -mmacosx-version-min=11.0         typegrp_ghidra.cc -o ghi_opt/typegrp_ghidra.o
+In file included from inject_ghidra.cc:16:
+In file included from ./inject_ghidra.hh:23:
+In file included from ./ghidra_arch.hh:22:
+In file included from ./architecture.hh:26:
+./fspec.hh:360:1: warning: 'ParameterPieces' defined as a struct here but previously declared as a class; this is valid, but may result in linker errors under the Microsoft C++ ABI [-Wmismatched-tags]
+  360 | struct ParameterPieces {
+      | ^
+./modelrules.hh:26:1: note: did you mean struct here?
+   26 | class ParameterPieces;
+      | ^~~~~
+      | struct
+In file included from inject_ghidra.cc:16:
+In file included from ./inject_ghidra.hh:23:
+In file included from ./ghidra_arch.hh:22:
+In file included from ./architecture.hh:26:
+./fspec.hh:377:1: warning: 'PrototypePieces' defined as a struct here but previously declared as a class; this is valid, but may result in linker errors under the Microsoft C++ ABI [-Wmismatched-tags]
+  377 | struct PrototypePieces {
+      | ^
+./type.hh:754:1: note: did you mean struct here?
+  754 | class PrototypePieces;
+      | ^~~~~
+      | struct
+In file included from ghidra_translate.cc:16:
+In file included from ./ghidra_translate.hh:23:
+In file included from ./ghidra_arch.hh:22:
+In file included from ./architecture.hh:26:
+./fspec.hh:360:1: warning: 'ParameterPieces' defined as a struct here but previously declared as a class; this is valid, but may result in linker errors under the Microsoft C++ ABI [-Wmismatched-tags]
+  360 | struct ParameterPieces {
+      | ^
+./modelrules.hh:26:1: note: did you mean struct here?
+   26 | class ParameterPieces;
+      | ^~~~~
+      | struct
+In file included from ghidra_translate.cc:16:
+In file included from ./ghidra_translate.hh:23:
+In file included from ./ghidra_arch.hh:22:
+In file included from ./architecture.hh:26:
+./fspec.hh:377:1: warning: 'PrototypePieces' defined as a struct here but previously declared as a class; this is valid, but may result in linker errors under the Microsoft C++ ABI [-Wmismatched-tags]
+  377 | struct PrototypePieces {
+      | ^
+./type.hh:754:1: note: did you mean struct here?
+  754 | class PrototypePieces;
+      | ^~~~~
+      | struct
+2 warnings generated.
+g++ -std=c++11 -arch arm64 -c -O2 -Wall -Wno-sign-compare -mmacosx-version-min=11.0         database_ghidra.cc -o ghi_opt/database_ghidra.o
+2 warnings generated.
+g++ -std=c++11 -arch arm64 -c -O2 -Wall -Wno-sign-compare -mmacosx-version-min=11.0         ghidra_context.cc -o ghi_opt/ghidra_context.o
+2 warnings generated.
+g++ -std=c++11 -arch arm64 -c -O2 -Wall -Wno-sign-compare -mmacosx-version-min=11.0         cpool_ghidra.cc -o ghi_opt/cpool_ghidra.o
+In file included from loadimage_ghidra.cc:16:
+In file included from ./loadimage_ghidra.hh:22:
+In file included from ./ghidra_arch.hh:22:
+In file included from ./architecture.hh:26:
+./fspec.hh:360:1: warning: 'ParameterPieces' defined as a struct here but previously declared as a class; this is valid, but may result in linker errors under the Microsoft C++ ABI [-Wmismatched-tags]
+  360 | struct ParameterPieces {
+      | ^
+./modelrules.hh:26:1: note: did you mean struct here?
+   26 | class ParameterPieces;
+      | ^~~~~
+      | struct
+In file included from loadimage_ghidra.cc:16:
+In file included from ./loadimage_ghidra.hh:22:
+In file included from ./ghidra_arch.hh:22:
+In file included from ./architecture.hh:26:
+./fspec.hh:377:1: warning: 'PrototypePieces' defined as a struct here but previously declared as a class; this is valid, but may result in linker errors under the Microsoft C++ ABI [-Wmismatched-tags]
+  377 | struct PrototypePieces {
+      | ^
+./type.hh:754:1: note: did you mean struct here?
+  754 | class PrototypePieces;
+      | ^~~~~
+      | struct
+In file included from typegrp_ghidra.cc:16:
+In file included from ./typegrp_ghidra.hh:23:
+In file included from ./ghidra_arch.hh:22:
+In file included from ./architecture.hh:26:
+./fspec.hh:360:1: warning: 'ParameterPieces' defined as a struct here but previously declared as a class; this is valid, but may result in linker errors under the Microsoft C++ ABI [-Wmismatched-tags]
+  360 | struct ParameterPieces {
+      | ^
+./modelrules.hh:26:1: note: did you mean struct here?
+   26 | class ParameterPieces;
+      | ^~~~~
+      | struct
+In file included from typegrp_ghidra.cc:16:
+In file included from ./typegrp_ghidra.hh:23:
+In file included from ./ghidra_arch.hh:22:
+In file included from ./architecture.hh:26:
+./fspec.hh:377:1: warning: 'PrototypePieces' defined as a struct here but previously declared as a class; this is valid, but may result in linker errors under the Microsoft C++ ABI [-Wmismatched-tags]
+  377 | struct PrototypePieces {
+      | ^
+./type.hh:754:1: note: did you mean struct here?
+  754 | class PrototypePieces;
+      | ^~~~~
+      | struct
+2 warnings generated.
+g++ -std=c++11 -arch arm64 -c -O2 -Wall -Wno-sign-compare -mmacosx-version-min=11.0         ghidra_process.cc -o ghi_opt/ghidra_process.o
+2 warnings generated.
+g++ -std=c++11 -arch arm64 -c -O2 -Wall -Wno-sign-compare -mmacosx-version-min=11.0         comment_ghidra.cc -o ghi_opt/comment_ghidra.o
+2 warnings generated.
+g++ -std=c++11 -arch arm64 -c -O2 -Wall -Wno-sign-compare -mmacosx-version-min=11.0         string_ghidra.cc -o ghi_opt/string_ghidra.o
+In file included from database_ghidra.cc:16:
+In file included from ./database_ghidra.hh:23:
+In file included from ./ghidra_arch.hh:22:
+In file included from ./architecture.hh:26:
+./fspec.hh:360:1: warning: 'ParameterPieces' defined as a struct here but previously declared as a class; this is valid, but may result in linker errors under the Microsoft C++ ABI [-Wmismatched-tags]
+  360 | struct ParameterPieces {
+      | ^
+./modelrules.hh:26:1: note: did you mean struct here?
+   26 | class ParameterPieces;
+      | ^~~~~
+      | struct
+In file included from database_ghidra.cc:16:
+In file included from ./database_ghidra.hh:23:
+In file included from ./ghidra_arch.hh:22:
+In file included from ./architecture.hh:26:
+./fspec.hh:377:1: warning: 'PrototypePieces' defined as a struct here but previously declared as a class; this is valid, but may result in linker errors under the Microsoft C++ ABI [-Wmismatched-tags]
+  377 | struct PrototypePieces {
+      | ^
+./type.hh:754:1: note: did you mean struct here?
+  754 | class PrototypePieces;
+      | ^~~~~
+      | struct
+In file included from ghidra_context.cc:16:
+In file included from ./ghidra_context.hh:23:
+In file included from ./ghidra_arch.hh:22:
+In file included from ./architecture.hh:26:
+./fspec.hh:360:1: warning: 'ParameterPieces' defined as a struct here but previously declared as a class; this is valid, but may result in linker errors under the Microsoft C++ ABI [-Wmismatched-tags]
+  360 | struct ParameterPieces {
+      | ^
+./modelrules.hh:26:1: note: did you mean struct here?
+   26 | class ParameterPieces;
+      | ^~~~~
+      | struct
+In file included from ghidra_context.cc:16:
+In file included from ./ghidra_context.hh:23:
+In file included from ./ghidra_arch.hh:22:
+In file included from ./architecture.hh:26:
+./fspec.hh:377:1: warning: 'PrototypePieces' defined as a struct here but previously declared as a class; this is valid, but may result in linker errors under the Microsoft C++ ABI [-Wmismatched-tags]
+  377 | struct PrototypePieces {
+      | ^
+./type.hh:754:1: note: did you mean struct here?
+  754 | class PrototypePieces;
+      | ^~~~~
+      | struct
+In file included from cpool_ghidra.cc:16:
+In file included from ./cpool_ghidra.hh:22:
+In file included from ./ghidra_arch.hh:22:
+In file included from ./architecture.hh:26:
+./fspec.hh:360:1: warning: 'ParameterPieces' defined as a struct here but previously declared as a class; this is valid, but may result in linker errors under the Microsoft C++ ABI [-Wmismatched-tags]
+  360 | struct ParameterPieces {
+      | ^
+./modelrules.hh:26:1: note: did you mean struct here?
+   26 | class ParameterPieces;
+      | ^~~~~
+      | struct
+In file included from cpool_ghidra.cc:16:
+In file included from ./cpool_ghidra.hh:22:
+In file included from ./ghidra_arch.hh:22:
+In file included from ./architecture.hh:26:
+./fspec.hh:377:1: warning: 'PrototypePieces' defined as a struct here but previously declared as a class; this is valid, but may result in linker errors under the Microsoft C++ ABI [-Wmismatched-tags]
+  377 | struct PrototypePieces {
+      | ^
+./type.hh:754:1: note: did you mean struct here?
+  754 | class PrototypePieces;
+      | ^~~~~
+      | struct
+2 warnings generated.
+g++ -std=c++11 -arch arm64 -c -O2 -Wall -Wno-sign-compare -mmacosx-version-min=11.0         signature_ghidra.cc -o ghi_opt/signature_ghidra.o
+In file included from ghidra_process.cc:16:
+In file included from ./ghidra_process.hh:23:
+In file included from ./ghidra_arch.hh:22:
+In file included from ./architecture.hh:26:
+./fspec.hh:360:1: warning: 'ParameterPieces' defined as a struct here but previously declared as a class; this is valid, but may result in linker errors under the Microsoft C++ ABI [-Wmismatched-tags]
+  360 | struct ParameterPieces {
+      | ^
+./modelrules.hh:26:1: note: did you mean struct here?
+   26 | class ParameterPieces;
+      | ^~~~~
+      | struct
+In file included from ghidra_process.cc:16:
+In file included from ./ghidra_process.hh:23:
+In file included from ./ghidra_arch.hh:22:
+In file included from ./architecture.hh:26:
+./fspec.hh:377:1: warning: 'PrototypePieces' defined as a struct here but previously declared as a class; this is valid, but may result in linker errors under the Microsoft C++ ABI [-Wmismatched-tags]
+  377 | struct PrototypePieces {
+      | ^
+./type.hh:754:1: note: did you mean struct here?
+  754 | class PrototypePieces;
+      | ^~~~~
+      | struct
+In file included from comment_ghidra.cc:16:
+In file included from ./comment_ghidra.hh:22:
+In file included from ./ghidra_arch.hh:22:
+In file included from ./architecture.hh:26:
+./fspec.hh:360:1: warning: 'ParameterPieces' defined as a struct here but previously declared as a class; this is valid, but may result in linker errors under the Microsoft C++ ABI [-Wmismatched-tags]
+  360 | struct ParameterPieces {
+      | ^
+./modelrules.hh:26:1: note: did you mean struct here?
+   26 | class ParameterPieces;
+      | ^~~~~
+      | struct
+In file included from comment_ghidra.cc:16:
+In file included from ./comment_ghidra.hh:22:
+In file included from ./ghidra_arch.hh:22:
+In file included from ./architecture.hh:26:
+./fspec.hh:377:1: warning: 'PrototypePieces' defined as a struct here but previously declared as a class; this is valid, but may result in linker errors under the Microsoft C++ ABI [-Wmismatched-tags]
+  377 | struct PrototypePieces {
+      | ^
+./type.hh:754:1: note: did you mean struct here?
+  754 | class PrototypePieces;
+      | ^~~~~
+      | struct
+2 warnings generated.
+2 warnings generated.
+In file included from string_ghidra.cc:16:
+In file included from ./string_ghidra.hh:22:
+In file included from ./ghidra_arch.hh:22:
+In file included from ./architecture.hh:26:
+./fspec.hh:360:1: warning: 'ParameterPieces' defined as a struct here but previously declared as a class; this is valid, but may result in linker errors under the Microsoft C++ ABI [-Wmismatched-tags]
+  360 | struct ParameterPieces {
+      | ^
+./modelrules.hh:26:1: note: did you mean struct here?
+   26 | class ParameterPieces;
+      | ^~~~~
+      | struct
+In file included from string_ghidra.cc:16:
+In file included from ./string_ghidra.hh:22:
+In file included from ./ghidra_arch.hh:22:
+In file included from ./architecture.hh:26:
+./fspec.hh:377:1: warning: 'PrototypePieces' defined as a struct here but previously declared as a class; this is valid, but may result in linker errors under the Microsoft C++ ABI [-Wmismatched-tags]
+  377 | struct PrototypePieces {
+      | ^
+./type.hh:754:1: note: did you mean struct here?
+  754 | class PrototypePieces;
+      | ^~~~~
+      | struct
+2 warnings generated.
+2 warnings generated.
+In file included from signature_ghidra.cc:16:
+In file included from ./signature_ghidra.hh:21:
+In file included from ./ghidra_process.hh:23:
+In file included from ./ghidra_arch.hh:22:
+In file included from ./architecture.hh:26:
+./fspec.hh:360:1: warning: 'ParameterPieces' defined as a struct here but previously declared as a class; this is valid, but may result in linker errors under the Microsoft C++ ABI [-Wmismatched-tags]
+  360 | struct ParameterPieces {
+      | ^
+./modelrules.hh:26:1: note: did you mean struct here?
+   26 | class ParameterPieces;
+      | ^~~~~
+      | struct
+In file included from signature_ghidra.cc:16:
+In file included from ./signature_ghidra.hh:21:
+In file included from ./ghidra_process.hh:23:
+In file included from ./ghidra_arch.hh:22:
+In file included from ./architecture.hh:26:
+./fspec.hh:377:1: warning: 'PrototypePieces' defined as a struct here but previously declared as a class; this is valid, but may result in linker errors under the Microsoft C++ ABI [-Wmismatched-tags]
+  377 | struct PrototypePieces {
+      | ^
+./type.hh:754:1: note: did you mean struct here?
+  754 | class PrototypePieces;
+      | ^~~~~
+      | struct
+2 warnings generated.
+2 warnings generated.
+g++ -std=c++11 -O2 -Wall -Wno-sign-compare -mmacosx-version-min=11.0  -arch arm64  -o ghidra_opt ghi_opt/xml.o ghi_opt/marshal.o ghi_opt/space.o ghi_opt/float.o ghi_opt/address.o ghi_opt/pcoderaw.o ghi_opt/translate.o ghi_opt/opcodes.o ghi_opt/globalcontext.o ghi_opt/capability.o ghi_opt/architecture.o ghi_opt/options.o ghi_opt/graph.o ghi_opt/cover.o ghi_opt/block.o ghi_opt/cast.o ghi_opt/typeop.o ghi_opt/database.o ghi_opt/cpool.o ghi_opt/comment.o ghi_opt/stringmanage.o ghi_opt/modelrules.o ghi_opt/fspec.o ghi_opt/action.o ghi_opt/loadimage.o ghi_opt/grammar.o ghi_opt/varnode.o ghi_opt/op.o ghi_opt/type.o ghi_opt/variable.o ghi_opt/varmap.o ghi_opt/jumptable.o ghi_opt/emulate.o ghi_opt/emulateutil.o ghi_opt/flow.o ghi_opt/userop.o ghi_opt/expression.o ghi_opt/multiprecision.o ghi_opt/funcdata.o ghi_opt/funcdata_block.o ghi_opt/funcdata_op.o ghi_opt/funcdata_varnode.o ghi_opt/unionresolve.o ghi_opt/pcodeinject.o ghi_opt/heritage.o ghi_opt/prefersplit.o ghi_opt/rangeutil.o ghi_opt/ruleaction.o ghi_opt/subflow.o ghi_opt/blockaction.o ghi_opt/merge.o ghi_opt/double.o ghi_opt/transform.o ghi_opt/constseq.o ghi_opt/bitfield.o ghi_opt/coreaction.o ghi_opt/condexe.o ghi_opt/override.o ghi_opt/dynamic.o ghi_opt/crc32.o ghi_opt/prettyprint.o ghi_opt/printlanguage.o ghi_opt/printc.o ghi_opt/printjava.o ghi_opt/memstate.o ghi_opt/opbehavior.o ghi_opt/paramid.o ghi_opt/signature.o ghi_opt/ghidra_arch.o ghi_opt/inject_ghidra.o ghi_opt/ghidra_translate.o ghi_opt/loadimage_ghidra.o ghi_opt/typegrp_ghidra.o ghi_opt/database_ghidra.o ghi_opt/ghidra_context.o ghi_opt/cpool_ghidra.o ghi_opt/ghidra_process.o ghi_opt/comment_ghidra.o ghi_opt/string_ghidra.o ghi_opt/signature_ghidra.o

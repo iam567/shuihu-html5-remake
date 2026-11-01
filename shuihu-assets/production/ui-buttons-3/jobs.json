@@ -1,0 +1,32 @@
+[
+  {
+    "id": "shop-save",
+    "kind": "ui-sheet",
+    "references": [
+      "ref-normal.png",
+      "ref-selected.png"
+    ],
+    "size": "1536x1024",
+    "sourceId": "ui-buttons"
+  },
+  {
+    "id": "title-bar",
+    "kind": "ui-sheet",
+    "references": [
+      "ref-normal.png",
+      "ref-selected.png"
+    ],
+    "size": "1536x1024",
+    "sourceId": "ui-buttons"
+  },
+  {
+    "id": "status-labels",
+    "kind": "ui-sheet",
+    "references": [
+      "ref-normal.png",
+      "ref-selected.png"
+    ],
+    "size": "1536x1024",
+    "sourceId": "ui-buttons"
+  }
+]

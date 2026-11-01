@@ -1,0 +1,51 @@
+[
+  {
+    "id": "0",
+    "kind": "worldmap",
+    "reference": "ref-0.png",
+    "size": "1536x960",
+    "sourceId": "region-0"
+  },
+  {
+    "id": "1",
+    "kind": "worldmap",
+    "reference": "ref-1.png",
+    "size": "1536x960",
+    "sourceId": "region-1"
+  },
+  {
+    "id": "2",
+    "kind": "worldmap",
+    "reference": "ref-2.png",
+    "size": "1536x960",
+    "sourceId": "region-2"
+  },
+  {
+    "id": "3",
+    "kind": "worldmap",
+    "reference": "ref-3.png",
+    "size": "1536x960",
+    "sourceId": "region-3"
+  },
+  {
+    "id": "4",
+    "kind": "worldmap",
+    "reference": "ref-4.png",
+    "size": "1536x960",
+    "sourceId": "region-4"
+  },
+  {
+    "id": "5",
+    "kind": "worldmap",
+    "reference": "ref-5.png",
+    "size": "1536x960",
+    "sourceId": "region-5"
+  },
+  {
+    "id": "6",
+    "kind": "worldmap",
+    "reference": "ref-6.png",
+    "size": "1536x960",
+    "sourceId": "region-6"
+  }
+]

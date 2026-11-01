@@ -1,0 +1,26 @@
+{
+  "concurrency": 10,
+  "model": "gpt-image-2",
+  "jobs": {
+    "0605-ghibli": {
+      "state": "generated-awaiting-review",
+      "updatedAt": 1793295409.8459458,
+      "exitCode": 0
+    },
+    "0605-hd2d": {
+      "state": "generated-awaiting-review",
+      "updatedAt": 1793295409.8961198,
+      "exitCode": 0
+    },
+    "0102-ghibli": {
+      "state": "generated-awaiting-review",
+      "updatedAt": 1793295384.993217,
+      "exitCode": 0
+    },
+    "0102-hd2d": {
+      "state": "generated-awaiting-review",
+      "updatedAt": 1793295386.4508328,
+      "exitCode": 0
+    }
+  }
+}

@@ -1,0 +1,1532 @@
+[
+  {
+    "rom": 5430,
+    "sprite_type": 1,
+    "animation": 4,
+    "x": 320,
+    "y": 320,
+    "direction": 1,
+    "portrait_or_identity": 0,
+    "skill_slots_08_0b": [
+      128,
+      0,
+      0,
+      0
+    ],
+    "status_0c_0f": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "level": 1,
+    "experience": 0,
+    "hp": 33,
+    "stats_14_1a": [
+      13,
+      13,
+      10,
+      9,
+      2,
+      12,
+      15
+    ],
+    "movement_1b": 5,
+    "max_hp": 33,
+    "class": 0,
+    "subtype": 1,
+    "equipment_ids": [
+      1,
+      0,
+      0,
+      0
+    ],
+    "passive_item": 0,
+    "uses": [
+      99,
+      0,
+      0,
+      0
+    ],
+    "raw": "01040140014001008000000000000000010000210d0d0a09020c0f05000000210000000001000100000000630000000000000000000000000000000000000000"
+  },
+  {
+    "rom": 5494,
+    "sprite_type": 2,
+    "animation": 4,
+    "x": 352,
+    "y": 352,
+    "direction": 1,
+    "portrait_or_identity": 1,
+    "skill_slots_08_0b": [
+      128,
+      0,
+      0,
+      0
+    ],
+    "status_0c_0f": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "level": 1,
+    "experience": 0,
+    "hp": 30,
+    "stats_14_1a": [
+      17,
+      17,
+      8,
+      20,
+      1,
+      30,
+      25
+    ],
+    "movement_1b": 5,
+    "max_hp": 30,
+    "class": 2,
+    "subtype": 20,
+    "equipment_ids": [
+      64,
+      0,
+      0,
+      0
+    ],
+    "passive_item": 0,
+    "uses": [
+      99,
+      0,
+      0,
+      0
+    ],
+    "raw": "020401600160010180000000000000000100001e11110814011e19050000001e0002000014004000000000630000000000000000000000000000000000000000"
+  },
+  {
+    "rom": 5558,
+    "sprite_type": 3,
+    "animation": 4,
+    "x": 416,
+    "y": 256,
+    "direction": 1,
+    "portrait_or_identity": 2,
+    "skill_slots_08_0b": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "status_0c_0f": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "level": 1,
+    "experience": 0,
+    "hp": 27,
+    "stats_14_1a": [
+      10,
+      10,
+      9,
+      15,
+      10,
+      30,
+      25
+    ],
+    "movement_1b": 4,
+    "max_hp": 27,
+    "class": 3,
+    "subtype": 23,
+    "equipment_ids": [
+      77,
+      96,
+      0,
+      0
+    ],
+    "passive_item": 0,
+    "uses": [
+      99,
+      15,
+      0,
+      0
+    ],
+    "raw": "030401a00100010200000000000000000100001b0a0a090f0a1e19040000001b0003000017004d60000000630f00000000000000000000000000000000000000"
+  },
+  {
+    "rom": 5622,
+    "sprite_type": 0,
+    "animation": 4,
+    "x": 256,
+    "y": 64,
+    "direction": 1,
+    "portrait_or_identity": 0,
+    "skill_slots_08_0b": [
+      128,
+      140,
+      0,
+      0
+    ],
+    "status_0c_0f": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "level": 1,
+    "experience": 0,
+    "hp": 30,
+    "stats_14_1a": [
+      17,
+      17,
+      8,
+      20,
+      1,
+      30,
+      25
+    ],
+    "movement_1b": 5,
+    "max_hp": 30,
+    "class": 2,
+    "subtype": 20,
+    "equipment_ids": [
+      64,
+      65,
+      0,
+      0
+    ],
+    "passive_item": 0,
+    "uses": [
+      99,
+      0,
+      0,
+      0
+    ],
+    "raw": "0004010000400100808c0000000000000100001e11110814011e19050000001e0002000014004041000000630000000000000000000000000000000000000000"
+  },
+  {
+    "rom": 5686,
+    "sprite_type": 0,
+    "animation": 4,
+    "x": 224,
+    "y": 64,
+    "direction": 1,
+    "portrait_or_identity": 0,
+    "skill_slots_08_0b": [
+      131,
+      141,
+      0,
+      0
+    ],
+    "status_0c_0f": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "level": 1,
+    "experience": 0,
+    "hp": 27,
+    "stats_14_1a": [
+      10,
+      10,
+      9,
+      15,
+      10,
+      30,
+      25
+    ],
+    "movement_1b": 4,
+    "max_hp": 27,
+    "class": 3,
+    "subtype": 23,
+    "equipment_ids": [
+      77,
+      96,
+      102,
+      101
+    ],
+    "passive_item": 122,
+    "uses": [
+      99,
+      15,
+      3,
+      10
+    ],
+    "raw": "000400e000400100838d0000000000000100001b0a0a090f0a1e19040000001b0003000017004d6066657a630f030a0000000000000000000000000000000000"
+  },
+  {
+    "rom": 5750,
+    "sprite_type": 0,
+    "animation": 4,
+    "x": 224,
+    "y": 96,
+    "direction": 1,
+    "portrait_or_identity": 0,
+    "skill_slots_08_0b": [
+      132,
+      0,
+      0,
+      0
+    ],
+    "status_0c_0f": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "level": 1,
+    "experience": 0,
+    "hp": 26,
+    "stats_14_1a": [
+      12,
+      12,
+      8,
+      12,
+      2,
+      30,
+      25
+    ],
+    "movement_1b": 5,
+    "max_hp": 26,
+    "class": 1,
+    "subtype": 26,
+    "equipment_ids": [
+      90,
+      82,
+      83,
+      84
+    ],
+    "passive_item": 123,
+    "uses": [
+      99,
+      10,
+      10,
+      3
+    ],
+    "raw": "000400e00060010084000000000000000100001a0c0c080c021e19050000001a000100001a005a5253547b630a0a030000000000000000000000000000000000"
+  },
+  {
+    "rom": 5814,
+    "sprite_type": 0,
+    "animation": 4,
+    "x": 160,
+    "y": 96,
+    "direction": 1,
+    "portrait_or_identity": 0,
+    "skill_slots_08_0b": [
+      138,
+      0,
+      0,
+      0
+    ],
+    "status_0c_0f": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "level": 1,
+    "experience": 0,
+    "hp": 27,
+    "stats_14_1a": [
+      10,
+      10,
+      9,
+      15,
+      10,
+      30,
+      25
+    ],
+    "movement_1b": 4,
+    "max_hp": 27,
+    "class": 3,
+    "subtype": 23,
+    "equipment_ids": [
+      77,
+      99,
+      100,
+      101
+    ],
+    "passive_item": 123,
+    "uses": [
+      99,
+      10,
+      10,
+      10
+    ],
+    "raw": "000400a0006001008a000000000000000100001b0a0a090f0a1e19040000001b0003000017004d6364657b630a0a0a0000000000000000000000000000000000"
+  },
+  {
+    "rom": 5878,
+    "sprite_type": 0,
+    "animation": 4,
+    "x": 256,
+    "y": 96,
+    "direction": 1,
+    "portrait_or_identity": 0,
+    "skill_slots_08_0b": [
+      136,
+      0,
+      0,
+      0
+    ],
+    "status_0c_0f": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "level": 1,
+    "experience": 0,
+    "hp": 40,
+    "stats_14_1a": [
+      21,
+      21,
+      5,
+      3,
+      2,
+      16,
+      30
+    ],
+    "movement_1b": 4,
+    "max_hp": 40,
+    "class": 5,
+    "subtype": 5,
+    "equipment_ids": [
+      14,
+      17,
+      0,
+      0
+    ],
+    "passive_item": 123,
+    "uses": [
+      99,
+      10,
+      0,
+      0
+    ],
+    "raw": "00040100006001008800000000000000010000281515050302101e04000000280005000005000e1100007b630a00000000000000000000000000000000000000"
+  },
+  {
+    "rom": 5942,
+    "sprite_type": 0,
+    "animation": 4,
+    "x": 384,
+    "y": 416,
+    "direction": 1,
+    "portrait_or_identity": 2,
+    "skill_slots_08_0b": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "status_0c_0f": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "level": 1,
+    "experience": 0,
+    "hp": 32,
+    "stats_14_1a": [
+      12,
+      12,
+      11,
+      7,
+      40,
+      15,
+      15
+    ],
+    "movement_1b": 4,
+    "max_hp": 32,
+    "class": 7,
+    "subtype": 15,
+    "equipment_ids": [
+      23,
+      22,
+      0,
+      0
+    ],
+    "passive_item": 123,
+    "uses": [
+      99,
+      30,
+      0,
+      0
+    ],
+    "raw": "0004018001a001020000000000000000010000200c0c0b07280f0f040000002003070c0d0f00171600007b631e0000000cffffffffffffffffffffffffffffff"
+  },
+  {
+    "rom": 6006,
+    "sprite_type": 0,
+    "animation": 4,
+    "x": 416,
+    "y": 448,
+    "direction": 1,
+    "portrait_or_identity": 0,
+    "skill_slots_08_0b": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "status_0c_0f": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "level": 1,
+    "experience": 0,
+    "hp": 27,
+    "stats_14_1a": [
+      10,
+      10,
+      9,
+      15,
+      10,
+      30,
+      25
+    ],
+    "movement_1b": 4,
+    "max_hp": 27,
+    "class": 3,
+    "subtype": 23,
+    "equipment_ids": [
+      77,
+      96,
+      0,
+      0
+    ],
+    "passive_item": 123,
+    "uses": [
+      99,
+      15,
+      0,
+      0
+    ],
+    "raw": "000401a001c0010000000000000000000100001b0a0a090f0a1e19040000001b05030c0d17004d6000007b630f0000000cffffffffffffffffffffffffffffff"
+  },
+  {
+    "rom": 6070,
+    "sprite_type": 0,
+    "animation": 4,
+    "x": 384,
+    "y": 448,
+    "direction": 1,
+    "portrait_or_identity": 0,
+    "skill_slots_08_0b": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "status_0c_0f": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "level": 1,
+    "experience": 0,
+    "hp": 26,
+    "stats_14_1a": [
+      12,
+      12,
+      8,
+      12,
+      2,
+      30,
+      25
+    ],
+    "movement_1b": 5,
+    "max_hp": 26,
+    "class": 1,
+    "subtype": 26,
+    "equipment_ids": [
+      90,
+      81,
+      0,
+      0
+    ],
+    "passive_item": 123,
+    "uses": [
+      99,
+      15,
+      0,
+      0
+    ],
+    "raw": "0004018001c0010000000000000000000100001a0c0c080c021e19050000001a09010c0d1a005a5100007b630f0000000cffffffffffffffffffffffffffffff"
+  },
+  {
+    "rom": 6134,
+    "sprite_type": 0,
+    "animation": 4,
+    "x": 416,
+    "y": 416,
+    "direction": 1,
+    "portrait_or_identity": 0,
+    "skill_slots_08_0b": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "status_0c_0f": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "level": 1,
+    "experience": 0,
+    "hp": 27,
+    "stats_14_1a": [
+      10,
+      10,
+      9,
+      15,
+      10,
+      30,
+      25
+    ],
+    "movement_1b": 4,
+    "max_hp": 27,
+    "class": 3,
+    "subtype": 23,
+    "equipment_ids": [
+      77,
+      99,
+      100,
+      101
+    ],
+    "passive_item": 123,
+    "uses": [
+      99,
+      10,
+      10,
+      10
+    ],
+    "raw": "000401a001a0010000000000000000000100001b0a0a090f0a1e19040000001b07030c0d17004d6364657b630a0a0a000cffffffffffffffffffffffffffffff"
+  },
+  {
+    "rom": 6198,
+    "sprite_type": 55,
+    "animation": 4,
+    "x": 384,
+    "y": 64,
+    "direction": 1,
+    "portrait_or_identity": 22,
+    "skill_slots_08_0b": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "status_0c_0f": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "level": 1,
+    "experience": 0,
+    "hp": 25,
+    "stats_14_1a": [
+      17,
+      17,
+      13,
+      10,
+      1,
+      10,
+      10
+    ],
+    "movement_1b": 3,
+    "max_hp": 25,
+    "class": 8,
+    "subtype": 7,
+    "equipment_ids": [
+      31,
+      0,
+      0,
+      0
+    ],
+    "passive_item": 0,
+    "uses": [
+      99,
+      0,
+      0,
+      0
+    ],
+    "raw": "370401800040011600000000000000000100001911110d0a010a0a03000000190308000007001f00000000630000000000ffffffffffffffffffffffffffffff"
+  },
+  {
+    "rom": 6262,
+    "sprite_type": 58,
+    "animation": 4,
+    "x": 448,
+    "y": 160,
+    "direction": 1,
+    "portrait_or_identity": 22,
+    "skill_slots_08_0b": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "status_0c_0f": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "level": 1,
+    "experience": 0,
+    "hp": 28,
+    "stats_14_1a": [
+      11,
+      11,
+      10,
+      12,
+      5,
+      18,
+      35
+    ],
+    "movement_1b": 6,
+    "max_hp": 28,
+    "class": 4,
+    "subtype": 10,
+    "equipment_ids": [
+      1,
+      0,
+      0,
+      0
+    ],
+    "passive_item": 0,
+    "uses": [
+      99,
+      0,
+      0,
+      0
+    ],
+    "raw": "3a0401c000a0011600000000000000000100001c0b0b0a0c051223060000001c030400000a000100000000630000000000ffffffffffffffffffffffffffffff"
+  },
+  {
+    "rom": 6326,
+    "sprite_type": 58,
+    "animation": 4,
+    "x": 480,
+    "y": 192,
+    "direction": 1,
+    "portrait_or_identity": 22,
+    "skill_slots_08_0b": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "status_0c_0f": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "level": 1,
+    "experience": 0,
+    "hp": 28,
+    "stats_14_1a": [
+      11,
+      11,
+      10,
+      12,
+      5,
+      18,
+      35
+    ],
+    "movement_1b": 6,
+    "max_hp": 28,
+    "class": 4,
+    "subtype": 10,
+    "equipment_ids": [
+      1,
+      0,
+      0,
+      0
+    ],
+    "passive_item": 0,
+    "uses": [
+      99,
+      0,
+      0,
+      0
+    ],
+    "raw": "3a0401e000c0011600000000000000000100001c0b0b0a0c051223060000001c030400000a000100000000630000000000ffffffffffffffffffffffffffffff"
+  },
+  {
+    "rom": 6390,
+    "sprite_type": 58,
+    "animation": 4,
+    "x": 384,
+    "y": 32,
+    "direction": 1,
+    "portrait_or_identity": 22,
+    "skill_slots_08_0b": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "status_0c_0f": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "level": 1,
+    "experience": 0,
+    "hp": 28,
+    "stats_14_1a": [
+      11,
+      11,
+      10,
+      12,
+      5,
+      18,
+      35
+    ],
+    "movement_1b": 6,
+    "max_hp": 28,
+    "class": 4,
+    "subtype": 10,
+    "equipment_ids": [
+      1,
+      0,
+      0,
+      0
+    ],
+    "passive_item": 0,
+    "uses": [
+      99,
+      0,
+      0,
+      0
+    ],
+    "raw": "3a0401800020011600000000000000000100001c0b0b0a0c051223060000001c030400000a00010000000063000000000c00ffffffffffffffffffffffffffff"
+  },
+  {
+    "rom": 6454,
+    "sprite_type": 0,
+    "animation": 4,
+    "x": 96,
+    "y": 480,
+    "direction": 1,
+    "portrait_or_identity": 0,
+    "skill_slots_08_0b": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "status_0c_0f": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "level": 15,
+    "experience": 0,
+    "hp": 27,
+    "stats_14_1a": [
+      10,
+      10,
+      9,
+      15,
+      10,
+      30,
+      25
+    ],
+    "movement_1b": 4,
+    "max_hp": 27,
+    "class": 3,
+    "subtype": 23,
+    "equipment_ids": [
+      77,
+      96,
+      97,
+      98
+    ],
+    "passive_item": 0,
+    "uses": [
+      99,
+      15,
+      10,
+      5
+    ],
+    "raw": "0004006001e0010000000000000000000f00001b0a0a090f0a1e19040000001b0503000017004d60616200630f0a050000ffffffffffffffffffffffffffffff"
+  },
+  {
+    "rom": 6518,
+    "sprite_type": 0,
+    "animation": 4,
+    "x": 160,
+    "y": 480,
+    "direction": 1,
+    "portrait_or_identity": 0,
+    "skill_slots_08_0b": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "status_0c_0f": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "level": 15,
+    "experience": 0,
+    "hp": 26,
+    "stats_14_1a": [
+      12,
+      12,
+      8,
+      12,
+      2,
+      30,
+      25
+    ],
+    "movement_1b": 5,
+    "max_hp": 26,
+    "class": 1,
+    "subtype": 26,
+    "equipment_ids": [
+      90,
+      80,
+      81,
+      82
+    ],
+    "passive_item": 0,
+    "uses": [
+      99,
+      15,
+      15,
+      10
+    ],
+    "raw": "000400a001e0010000000000000000000f00001a0c0c080c021e19050000001a090100001a005a50515200630f0f0a0000ffffffffffffffffffffffffffffff"
+  },
+  {
+    "rom": 6582,
+    "sprite_type": 0,
+    "animation": 4,
+    "x": 128,
+    "y": 480,
+    "direction": 1,
+    "portrait_or_identity": 0,
+    "skill_slots_08_0b": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "status_0c_0f": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "level": 15,
+    "experience": 0,
+    "hp": 27,
+    "stats_14_1a": [
+      10,
+      10,
+      9,
+      15,
+      10,
+      30,
+      25
+    ],
+    "movement_1b": 4,
+    "max_hp": 27,
+    "class": 3,
+    "subtype": 23,
+    "equipment_ids": [
+      77,
+      96,
+      97,
+      98
+    ],
+    "passive_item": 0,
+    "uses": [
+      99,
+      15,
+      10,
+      5
+    ],
+    "raw": "0004008001e0010000000000000000000f00001b0a0a090f0a1e19040000001b0703000017004d60616200630f0a050000ffffffffffffffffffffffffffffff"
+  },
+  {
+    "rom": 6646,
+    "sprite_type": 0,
+    "animation": 4,
+    "x": 128,
+    "y": 480,
+    "direction": 1,
+    "portrait_or_identity": 0,
+    "skill_slots_08_0b": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "status_0c_0f": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "level": 0,
+    "experience": 0,
+    "hp": 27,
+    "stats_14_1a": [
+      10,
+      10,
+      9,
+      15,
+      10,
+      30,
+      25
+    ],
+    "movement_1b": 4,
+    "max_hp": 27,
+    "class": 3,
+    "subtype": 23,
+    "equipment_ids": [
+      20,
+      24,
+      25,
+      0
+    ],
+    "passive_item": 0,
+    "uses": [
+      1,
+      2,
+      3,
+      0
+    ],
+    "raw": "0004008001e0010000000000000000000000001b0a0a090f0a1e19040000001b07030b0817001418190000010203000008090a0b00ffffffffffffffffffffff"
+  },
+  {
+    "rom": 6710,
+    "sprite_type": 0,
+    "animation": 4,
+    "x": 864,
+    "y": 224,
+    "direction": 3,
+    "portrait_or_identity": 0,
+    "skill_slots_08_0b": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "status_0c_0f": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "level": 0,
+    "experience": 0,
+    "hp": 32,
+    "stats_14_1a": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "movement_1b": 0,
+    "max_hp": 32,
+    "class": 0,
+    "subtype": 0,
+    "equipment_ids": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "passive_item": 0,
+    "uses": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "raw": "0004036000e003000000000000000000000000200000000000000000000000200000080100000000000000000000000000000000000000000000000000000000"
+  },
+  {
+    "rom": 6774,
+    "sprite_type": 0,
+    "animation": 4,
+    "x": 608,
+    "y": 256,
+    "direction": 1,
+    "portrait_or_identity": 0,
+    "skill_slots_08_0b": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "status_0c_0f": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "level": 0,
+    "experience": 0,
+    "hp": 32,
+    "stats_14_1a": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "movement_1b": 0,
+    "max_hp": 32,
+    "class": 0,
+    "subtype": 0,
+    "equipment_ids": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "passive_item": 0,
+    "uses": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "raw": "00040260010001000000000000000000000000200000000000000000000000200000080100000000000000000000000000000000000000000000000000000000"
+  },
+  {
+    "rom": 6838,
+    "sprite_type": 0,
+    "animation": 4,
+    "x": 640,
+    "y": 256,
+    "direction": 2,
+    "portrait_or_identity": 0,
+    "skill_slots_08_0b": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "status_0c_0f": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "level": 0,
+    "experience": 0,
+    "hp": 32,
+    "stats_14_1a": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "movement_1b": 0,
+    "max_hp": 32,
+    "class": 0,
+    "subtype": 0,
+    "equipment_ids": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "passive_item": 0,
+    "uses": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "raw": "00040280010002000000000000000000000000200000000000000000000000200000080100000000000000000000000000000000000000000000000000000000"
+  },
+  {
+    "rom": 6902,
+    "sprite_type": 0,
+    "animation": 4,
+    "x": 672,
+    "y": 256,
+    "direction": 3,
+    "portrait_or_identity": 0,
+    "skill_slots_08_0b": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "status_0c_0f": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "level": 0,
+    "experience": 0,
+    "hp": 32,
+    "stats_14_1a": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "movement_1b": 0,
+    "max_hp": 32,
+    "class": 0,
+    "subtype": 0,
+    "equipment_ids": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "passive_item": 0,
+    "uses": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "raw": "000402a0010003000000000000000000000000200000000000000000000000200000080100000000000000000000000000000000000000000000000000000000"
+  },
+  {
+    "rom": 6966,
+    "sprite_type": 0,
+    "animation": 4,
+    "x": 704,
+    "y": 256,
+    "direction": 0,
+    "portrait_or_identity": 0,
+    "skill_slots_08_0b": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "status_0c_0f": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "level": 0,
+    "experience": 0,
+    "hp": 32,
+    "stats_14_1a": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "movement_1b": 0,
+    "max_hp": 32,
+    "class": 0,
+    "subtype": 0,
+    "equipment_ids": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "passive_item": 0,
+    "uses": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "raw": "000402c0010000000000000000000000000000200000000000000000000000200000080100000000000000000000000000000000000000000000000000000000"
+  },
+  {
+    "rom": 7030,
+    "sprite_type": 0,
+    "animation": 4,
+    "x": 736,
+    "y": 256,
+    "direction": 1,
+    "portrait_or_identity": 0,
+    "skill_slots_08_0b": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "status_0c_0f": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "level": 0,
+    "experience": 0,
+    "hp": 32,
+    "stats_14_1a": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "movement_1b": 0,
+    "max_hp": 32,
+    "class": 0,
+    "subtype": 0,
+    "equipment_ids": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "passive_item": 0,
+    "uses": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "raw": "000402e0010001000000000000000000000000200000000000000000000000200000080100000000000000000000000000000000000000000000000000000000"
+  },
+  {
+    "rom": 7094,
+    "sprite_type": 0,
+    "animation": 4,
+    "x": 768,
+    "y": 256,
+    "direction": 2,
+    "portrait_or_identity": 0,
+    "skill_slots_08_0b": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "status_0c_0f": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "level": 0,
+    "experience": 0,
+    "hp": 32,
+    "stats_14_1a": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "movement_1b": 0,
+    "max_hp": 32,
+    "class": 0,
+    "subtype": 0,
+    "equipment_ids": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "passive_item": 0,
+    "uses": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "raw": "00040300010002000000000000000000000000200000000000000000000000200000080100000000000000000000000000000000000000000000000000000000"
+  },
+  {
+    "rom": 7158,
+    "sprite_type": 0,
+    "animation": 4,
+    "x": 800,
+    "y": 256,
+    "direction": 3,
+    "portrait_or_identity": 0,
+    "skill_slots_08_0b": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "status_0c_0f": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "level": 0,
+    "experience": 0,
+    "hp": 32,
+    "stats_14_1a": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "movement_1b": 0,
+    "max_hp": 32,
+    "class": 0,
+    "subtype": 0,
+    "equipment_ids": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "passive_item": 0,
+    "uses": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "raw": "00040320010003000000000000000000000000200000000000000000000000200000080100000000000000000000000000000000000000000000000000000000"
+  },
+  {
+    "rom": 7222,
+    "sprite_type": 0,
+    "animation": 4,
+    "x": 832,
+    "y": 256,
+    "direction": 0,
+    "portrait_or_identity": 0,
+    "skill_slots_08_0b": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "status_0c_0f": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "level": 0,
+    "experience": 0,
+    "hp": 32,
+    "stats_14_1a": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "movement_1b": 0,
+    "max_hp": 32,
+    "class": 0,
+    "subtype": 0,
+    "equipment_ids": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "passive_item": 0,
+    "uses": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "raw": "00040340010000000000000000000000000000200000000000000000000000200000080100000000000000000000000000000000000000000000000000000000"
+  },
+  {
+    "rom": 7286,
+    "sprite_type": 0,
+    "animation": 4,
+    "x": 864,
+    "y": 256,
+    "direction": 1,
+    "portrait_or_identity": 0,
+    "skill_slots_08_0b": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "status_0c_0f": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "level": 0,
+    "experience": 0,
+    "hp": 32,
+    "stats_14_1a": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "movement_1b": 0,
+    "max_hp": 32,
+    "class": 0,
+    "subtype": 0,
+    "equipment_ids": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "passive_item": 0,
+    "uses": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "raw": "00040360010001000000000000000000000000200000000000000000000000200000080100000000000000000000000000000000000000000000000000000000"
+  }
+]

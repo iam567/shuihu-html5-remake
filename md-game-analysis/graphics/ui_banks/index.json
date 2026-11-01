@@ -1,0 +1,410 @@
+[
+  {
+    "rom": "0x8196a",
+    "end": "0x8216a",
+    "tiles": 64,
+    "call_sites": [
+      "0x664"
+    ],
+    "palette": "index grayscale; actual scene palette not assigned"
+  },
+  {
+    "rom": "0x835d2",
+    "end": "0x83672",
+    "tiles": 5,
+    "call_sites": [
+      "0x45ce",
+      "0x4726",
+      "0x8486",
+      "0x85ca",
+      "0xc704",
+      "0xe1ea",
+      "0xe312",
+      "0x102f8",
+      "0x104b8",
+      "0x14a10",
+      "0x167fa"
+    ],
+    "palette": "index grayscale; actual scene palette not assigned"
+  },
+  {
+    "rom": "0x82a6e",
+    "end": "0x8300e",
+    "tiles": 45,
+    "call_sites": [
+      "0x4ce4",
+      "0x5efa",
+      "0x8028",
+      "0xa30a",
+      "0xa6f2",
+      "0xa87a",
+      "0xc5e4",
+      "0xc93c",
+      "0xdab2",
+      "0xdd76",
+      "0xe940",
+      "0xea7e",
+      "0x11ce6",
+      "0x1610c"
+    ],
+    "palette": "index grayscale; actual scene palette not assigned"
+  },
+  {
+    "rom": "0x83010",
+    "end": "0x835d0",
+    "tiles": 46,
+    "call_sites": [
+      "0xa92c",
+      "0x17260",
+      "0x17920",
+      "0x185d0",
+      "0x18f16",
+      "0x1ac6e"
+    ],
+    "palette": "index grayscale; actual scene palette not assigned"
+  },
+  {
+    "rom": "0x8216c",
+    "end": "0x82a6c",
+    "tiles": 72,
+    "call_sites": [
+      "0xbffe"
+    ],
+    "palette": "index grayscale; actual scene palette not assigned"
+  },
+  {
+    "rom": "0x83d78",
+    "end": "0x84518",
+    "tiles": 61,
+    "call_sites": [
+      "0xec80"
+    ],
+    "palette": "index grayscale; actual scene palette not assigned"
+  },
+  {
+    "rom": "0x8451a",
+    "end": "0x84e7a",
+    "tiles": 75,
+    "call_sites": [
+      "0xee94",
+      "0xeeb0"
+    ],
+    "palette": "index grayscale; actual scene palette not assigned"
+  },
+  {
+    "rom": "0x84e7c",
+    "end": "0x85bbc",
+    "tiles": 106,
+    "call_sites": [
+      "0xf02a"
+    ],
+    "palette": "index grayscale; actual scene palette not assigned"
+  },
+  {
+    "rom": "0x83674",
+    "end": "0x83774",
+    "tiles": 8,
+    "call_sites": [
+      "0xff14",
+      "0x10636",
+      "0x108e6",
+      "0x1839a"
+    ],
+    "palette": "index grayscale; actual scene palette not assigned"
+  },
+  {
+    "rom": "0x86480",
+    "end": "0x86ac0",
+    "tiles": 50,
+    "call_sites": [
+      "0x1031c"
+    ],
+    "palette": "index grayscale; actual scene palette not assigned"
+  },
+  {
+    "rom": "0x891ce",
+    "end": "0x892ee",
+    "tiles": 9,
+    "call_sites": [
+      "0x10596",
+      "0x11da0"
+    ],
+    "palette": "index grayscale; actual scene palette not assigned"
+  },
+  {
+    "rom": "0x892f0",
+    "end": "0x89450",
+    "tiles": 11,
+    "call_sites": [
+      "0x1072e"
+    ],
+    "palette": "index grayscale; actual scene palette not assigned"
+  },
+  {
+    "rom": "0x89cd6",
+    "end": "0x904f6",
+    "tiles": 833,
+    "call_sites": [
+      "0x10c2a"
+    ],
+    "palette": "index grayscale; actual scene palette not assigned"
+  },
+  {
+    "rom": "0x904f8",
+    "end": "0x90878",
+    "tiles": 28,
+    "call_sites": [
+      "0x11560"
+    ],
+    "palette": "index grayscale; actual scene palette not assigned"
+  },
+  {
+    "rom": "0x9087a",
+    "end": "0x90cfa",
+    "tiles": 36,
+    "call_sites": [
+      "0x115fa",
+      "0x11662",
+      "0x116ca"
+    ],
+    "palette": "index grayscale; actual scene palette not assigned"
+  },
+  {
+    "rom": "0x9155e",
+    "end": "0x91c5e",
+    "tiles": 56,
+    "call_sites": [
+      "0x11744"
+    ],
+    "palette": "index grayscale; actual scene palette not assigned"
+  },
+  {
+    "rom": "0x91c60",
+    "end": "0x91de0",
+    "tiles": 12,
+    "call_sites": [
+      "0x1197a"
+    ],
+    "palette": "index grayscale; actual scene palette not assigned"
+  },
+  {
+    "rom": "0x91de2",
+    "end": "0x92442",
+    "tiles": 51,
+    "call_sites": [
+      "0x11d3c"
+    ],
+    "palette": "index grayscale; actual scene palette not assigned"
+  },
+  {
+    "rom": "0x89452",
+    "end": "0x89532",
+    "tiles": 7,
+    "call_sites": [
+      "0x11ef6"
+    ],
+    "palette": "index grayscale; actual scene palette not assigned"
+  },
+  {
+    "rom": "0x85e3e",
+    "end": "0x8647e",
+    "tiles": 50,
+    "call_sites": [
+      "0x14a22"
+    ],
+    "palette": "index grayscale; actual scene palette not assigned"
+  },
+  {
+    "rom": "0x86ac2",
+    "end": "0x86cc2",
+    "tiles": 16,
+    "call_sites": [
+      "0x162ac"
+    ],
+    "palette": "index grayscale; actual scene palette not assigned"
+  },
+  {
+    "rom": "0x86cc4",
+    "end": "0x870c4",
+    "tiles": 32,
+    "call_sites": [
+      "0x16a58"
+    ],
+    "palette": "index grayscale; actual scene palette not assigned"
+  },
+  {
+    "rom": "0x870c6",
+    "end": "0x88186",
+    "tiles": 134,
+    "call_sites": [
+      "0x1724e",
+      "0x1790e",
+      "0x185be",
+      "0x18f04",
+      "0x1abe2"
+    ],
+    "palette": "index grayscale; actual scene palette not assigned"
+  },
+  {
+    "rom": "0x88188",
+    "end": "0x88408",
+    "tiles": 20,
+    "call_sites": [
+      "0x17932",
+      "0x18f28",
+      "0x1ac80"
+    ],
+    "palette": "index grayscale; actual scene palette not assigned"
+  },
+  {
+    "rom": "0x8840a",
+    "end": "0x888ca",
+    "tiles": 38,
+    "call_sites": [
+      "0x185e2"
+    ],
+    "palette": "index grayscale; actual scene palette not assigned"
+  },
+  {
+    "rom": "0x888cc",
+    "end": "0x891cc",
+    "tiles": 72,
+    "call_sites": [
+      "0x18f3a"
+    ],
+    "palette": "index grayscale; actual scene palette not assigned"
+  },
+  {
+    "rom": "0x89534",
+    "end": "0x89cd4",
+    "tiles": 61,
+    "call_sites": [
+      "0x1abf4"
+    ],
+    "palette": "index grayscale; actual scene palette not assigned"
+  },
+  {
+    "rom": "0x90cfc",
+    "end": "0x9155c",
+    "tiles": 67,
+    "call_sites": [
+      "0x25d5e"
+    ],
+    "palette": "index grayscale; actual scene palette not assigned"
+  },
+  {
+    "rom": "0x92444",
+    "end": "0x925c4",
+    "tiles": 12,
+    "call_sites": [
+      "0x25d80",
+      "0x25ef6"
+    ],
+    "palette": "index grayscale; actual scene palette not assigned"
+  },
+  {
+    "rom": "0x925c6",
+    "end": "0x92846",
+    "tiles": 20,
+    "call_sites": [
+      "0x25da2",
+      "0x25e2a",
+      "0x25e4c"
+    ],
+    "palette": "index grayscale; actual scene palette not assigned"
+  },
+  {
+    "rom": "0x92848",
+    "end": "0x92b48",
+    "tiles": 24,
+    "call_sites": [
+      "0x25dc4"
+    ],
+    "palette": "index grayscale; actual scene palette not assigned"
+  },
+  {
+    "rom": "0x92b4a",
+    "end": "0x92fca",
+    "tiles": 36,
+    "call_sites": [
+      "0x25de6"
+    ],
+    "palette": "index grayscale; actual scene palette not assigned"
+  },
+  {
+    "rom": "0x92fcc",
+    "end": "0x9324c",
+    "tiles": 20,
+    "call_sites": [
+      "0x25e08"
+    ],
+    "palette": "index grayscale; actual scene palette not assigned"
+  },
+  {
+    "rom": "0x9324e",
+    "end": "0x939ce",
+    "tiles": 60,
+    "call_sites": [
+      "0x25e6e",
+      "0x25e90"
+    ],
+    "palette": "index grayscale; actual scene palette not assigned"
+  },
+  {
+    "rom": "0x939d0",
+    "end": "0x93dd0",
+    "tiles": 32,
+    "call_sites": [
+      "0x25eb2"
+    ],
+    "palette": "index grayscale; actual scene palette not assigned"
+  },
+  {
+    "rom": "0x93dd2",
+    "end": "0x94152",
+    "tiles": 28,
+    "call_sites": [
+      "0x25ed4"
+    ],
+    "palette": "index grayscale; actual scene palette not assigned"
+  },
+  {
+    "rom": "0x94154",
+    "end": "0x94834",
+    "tiles": 55,
+    "call_sites": [
+      "0x26714",
+      "0x26d8e"
+    ],
+    "palette": "index grayscale; actual scene palette not assigned"
+  },
+  {
+    "rom": "0x94836",
+    "end": "0x9fe36",
+    "tiles": 1456,
+    "call_sites": [
+      "0x271e2",
+      "0x27396"
+    ],
+    "palette": "index grayscale; actual scene palette not assigned"
+  },
+  {
+    "rom": "0x9fe38",
+    "end": "0xab8f8",
+    "tiles": 1494,
+    "call_sites": [
+      "0x273fe",
+      "0x27b36"
+    ],
+    "palette": "index grayscale; actual scene palette not assigned"
+  },
+  {
+    "rom": "0xab8fa",
+    "end": "0xad17a",
+    "tiles": 196,
+    "call_sites": [
+      "0x277d2"
+    ],
+    "palette": "index grayscale; actual scene palette not assigned"
+  }
+]

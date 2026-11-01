@@ -1,0 +1,981 @@
+[
+  {
+    "start": "0x100400",
+    "end": "0x101a00",
+    "character_ids": [
+      0,
+      1
+    ],
+    "frame_count_by_pointer_boundary": 11,
+    "frame_size_bytes": 512,
+    "frame_size_pixels": [
+      32,
+      32
+    ],
+    "layout": "4x4 tiles column-major",
+    "palette_evidence": "runtime start_1264 palette2; other contexts unverified",
+    "boundary_note": "last bank endpoint 0x153400 inferred from 0xFF padding"
+  },
+  {
+    "start": "0x101a00",
+    "end": "0x103000",
+    "character_ids": [
+      2
+    ],
+    "frame_count_by_pointer_boundary": 11,
+    "frame_size_bytes": 512,
+    "frame_size_pixels": [
+      32,
+      32
+    ],
+    "layout": "4x4 tiles column-major",
+    "palette_evidence": "runtime start_1264 palette2; other contexts unverified",
+    "boundary_note": "last bank endpoint 0x153400 inferred from 0xFF padding"
+  },
+  {
+    "start": "0x103000",
+    "end": "0x104600",
+    "character_ids": [
+      3
+    ],
+    "frame_count_by_pointer_boundary": 11,
+    "frame_size_bytes": 512,
+    "frame_size_pixels": [
+      32,
+      32
+    ],
+    "layout": "4x4 tiles column-major",
+    "palette_evidence": "runtime start_1264 palette2; other contexts unverified",
+    "boundary_note": "last bank endpoint 0x153400 inferred from 0xFF padding"
+  },
+  {
+    "start": "0x104600",
+    "end": "0x105c00",
+    "character_ids": [
+      4
+    ],
+    "frame_count_by_pointer_boundary": 11,
+    "frame_size_bytes": 512,
+    "frame_size_pixels": [
+      32,
+      32
+    ],
+    "layout": "4x4 tiles column-major",
+    "palette_evidence": "runtime start_1264 palette2; other contexts unverified",
+    "boundary_note": "last bank endpoint 0x153400 inferred from 0xFF padding"
+  },
+  {
+    "start": "0x105c00",
+    "end": "0x107200",
+    "character_ids": [
+      5
+    ],
+    "frame_count_by_pointer_boundary": 11,
+    "frame_size_bytes": 512,
+    "frame_size_pixels": [
+      32,
+      32
+    ],
+    "layout": "4x4 tiles column-major",
+    "palette_evidence": "runtime start_1264 palette2; other contexts unverified",
+    "boundary_note": "last bank endpoint 0x153400 inferred from 0xFF padding"
+  },
+  {
+    "start": "0x107200",
+    "end": "0x108800",
+    "character_ids": [
+      6
+    ],
+    "frame_count_by_pointer_boundary": 11,
+    "frame_size_bytes": 512,
+    "frame_size_pixels": [
+      32,
+      32
+    ],
+    "layout": "4x4 tiles column-major",
+    "palette_evidence": "runtime start_1264 palette2; other contexts unverified",
+    "boundary_note": "last bank endpoint 0x153400 inferred from 0xFF padding"
+  },
+  {
+    "start": "0x108800",
+    "end": "0x109e00",
+    "character_ids": [
+      7
+    ],
+    "frame_count_by_pointer_boundary": 11,
+    "frame_size_bytes": 512,
+    "frame_size_pixels": [
+      32,
+      32
+    ],
+    "layout": "4x4 tiles column-major",
+    "palette_evidence": "runtime start_1264 palette2; other contexts unverified",
+    "boundary_note": "last bank endpoint 0x153400 inferred from 0xFF padding"
+  },
+  {
+    "start": "0x109e00",
+    "end": "0x10b400",
+    "character_ids": [
+      8
+    ],
+    "frame_count_by_pointer_boundary": 11,
+    "frame_size_bytes": 512,
+    "frame_size_pixels": [
+      32,
+      32
+    ],
+    "layout": "4x4 tiles column-major",
+    "palette_evidence": "runtime start_1264 palette2; other contexts unverified",
+    "boundary_note": "last bank endpoint 0x153400 inferred from 0xFF padding"
+  },
+  {
+    "start": "0x10b400",
+    "end": "0x10ca00",
+    "character_ids": [
+      9
+    ],
+    "frame_count_by_pointer_boundary": 11,
+    "frame_size_bytes": 512,
+    "frame_size_pixels": [
+      32,
+      32
+    ],
+    "layout": "4x4 tiles column-major",
+    "palette_evidence": "runtime start_1264 palette2; other contexts unverified",
+    "boundary_note": "last bank endpoint 0x153400 inferred from 0xFF padding"
+  },
+  {
+    "start": "0x10ca00",
+    "end": "0x10e000",
+    "character_ids": [
+      10
+    ],
+    "frame_count_by_pointer_boundary": 11,
+    "frame_size_bytes": 512,
+    "frame_size_pixels": [
+      32,
+      32
+    ],
+    "layout": "4x4 tiles column-major",
+    "palette_evidence": "runtime start_1264 palette2; other contexts unverified",
+    "boundary_note": "last bank endpoint 0x153400 inferred from 0xFF padding"
+  },
+  {
+    "start": "0x10e000",
+    "end": "0x10f600",
+    "character_ids": [
+      11
+    ],
+    "frame_count_by_pointer_boundary": 11,
+    "frame_size_bytes": 512,
+    "frame_size_pixels": [
+      32,
+      32
+    ],
+    "layout": "4x4 tiles column-major",
+    "palette_evidence": "runtime start_1264 palette2; other contexts unverified",
+    "boundary_note": "last bank endpoint 0x153400 inferred from 0xFF padding"
+  },
+  {
+    "start": "0x10f600",
+    "end": "0x110c00",
+    "character_ids": [
+      12
+    ],
+    "frame_count_by_pointer_boundary": 11,
+    "frame_size_bytes": 512,
+    "frame_size_pixels": [
+      32,
+      32
+    ],
+    "layout": "4x4 tiles column-major",
+    "palette_evidence": "runtime start_1264 palette2; other contexts unverified",
+    "boundary_note": "last bank endpoint 0x153400 inferred from 0xFF padding"
+  },
+  {
+    "start": "0x110c00",
+    "end": "0x112200",
+    "character_ids": [
+      13
+    ],
+    "frame_count_by_pointer_boundary": 11,
+    "frame_size_bytes": 512,
+    "frame_size_pixels": [
+      32,
+      32
+    ],
+    "layout": "4x4 tiles column-major",
+    "palette_evidence": "runtime start_1264 palette2; other contexts unverified",
+    "boundary_note": "last bank endpoint 0x153400 inferred from 0xFF padding"
+  },
+  {
+    "start": "0x112200",
+    "end": "0x113800",
+    "character_ids": [
+      14
+    ],
+    "frame_count_by_pointer_boundary": 11,
+    "frame_size_bytes": 512,
+    "frame_size_pixels": [
+      32,
+      32
+    ],
+    "layout": "4x4 tiles column-major",
+    "palette_evidence": "runtime start_1264 palette2; other contexts unverified",
+    "boundary_note": "last bank endpoint 0x153400 inferred from 0xFF padding"
+  },
+  {
+    "start": "0x113800",
+    "end": "0x114e00",
+    "character_ids": [
+      15
+    ],
+    "frame_count_by_pointer_boundary": 11,
+    "frame_size_bytes": 512,
+    "frame_size_pixels": [
+      32,
+      32
+    ],
+    "layout": "4x4 tiles column-major",
+    "palette_evidence": "runtime start_1264 palette2; other contexts unverified",
+    "boundary_note": "last bank endpoint 0x153400 inferred from 0xFF padding"
+  },
+  {
+    "start": "0x114e00",
+    "end": "0x116400",
+    "character_ids": [
+      16
+    ],
+    "frame_count_by_pointer_boundary": 11,
+    "frame_size_bytes": 512,
+    "frame_size_pixels": [
+      32,
+      32
+    ],
+    "layout": "4x4 tiles column-major",
+    "palette_evidence": "runtime start_1264 palette2; other contexts unverified",
+    "boundary_note": "last bank endpoint 0x153400 inferred from 0xFF padding"
+  },
+  {
+    "start": "0x116400",
+    "end": "0x117a00",
+    "character_ids": [
+      17
+    ],
+    "frame_count_by_pointer_boundary": 11,
+    "frame_size_bytes": 512,
+    "frame_size_pixels": [
+      32,
+      32
+    ],
+    "layout": "4x4 tiles column-major",
+    "palette_evidence": "runtime start_1264 palette2; other contexts unverified",
+    "boundary_note": "last bank endpoint 0x153400 inferred from 0xFF padding"
+  },
+  {
+    "start": "0x117a00",
+    "end": "0x119000",
+    "character_ids": [
+      18
+    ],
+    "frame_count_by_pointer_boundary": 11,
+    "frame_size_bytes": 512,
+    "frame_size_pixels": [
+      32,
+      32
+    ],
+    "layout": "4x4 tiles column-major",
+    "palette_evidence": "runtime start_1264 palette2; other contexts unverified",
+    "boundary_note": "last bank endpoint 0x153400 inferred from 0xFF padding"
+  },
+  {
+    "start": "0x119000",
+    "end": "0x11a600",
+    "character_ids": [
+      19
+    ],
+    "frame_count_by_pointer_boundary": 11,
+    "frame_size_bytes": 512,
+    "frame_size_pixels": [
+      32,
+      32
+    ],
+    "layout": "4x4 tiles column-major",
+    "palette_evidence": "runtime start_1264 palette2; other contexts unverified",
+    "boundary_note": "last bank endpoint 0x153400 inferred from 0xFF padding"
+  },
+  {
+    "start": "0x11a600",
+    "end": "0x11bc00",
+    "character_ids": [
+      20
+    ],
+    "frame_count_by_pointer_boundary": 11,
+    "frame_size_bytes": 512,
+    "frame_size_pixels": [
+      32,
+      32
+    ],
+    "layout": "4x4 tiles column-major",
+    "palette_evidence": "runtime start_1264 palette2; other contexts unverified",
+    "boundary_note": "last bank endpoint 0x153400 inferred from 0xFF padding"
+  },
+  {
+    "start": "0x11bc00",
+    "end": "0x11d200",
+    "character_ids": [
+      21
+    ],
+    "frame_count_by_pointer_boundary": 11,
+    "frame_size_bytes": 512,
+    "frame_size_pixels": [
+      32,
+      32
+    ],
+    "layout": "4x4 tiles column-major",
+    "palette_evidence": "runtime start_1264 palette2; other contexts unverified",
+    "boundary_note": "last bank endpoint 0x153400 inferred from 0xFF padding"
+  },
+  {
+    "start": "0x11d200",
+    "end": "0x11e800",
+    "character_ids": [
+      22
+    ],
+    "frame_count_by_pointer_boundary": 11,
+    "frame_size_bytes": 512,
+    "frame_size_pixels": [
+      32,
+      32
+    ],
+    "layout": "4x4 tiles column-major",
+    "palette_evidence": "runtime start_1264 palette2; other contexts unverified",
+    "boundary_note": "last bank endpoint 0x153400 inferred from 0xFF padding"
+  },
+  {
+    "start": "0x11e800",
+    "end": "0x120000",
+    "character_ids": [
+      23
+    ],
+    "frame_count_by_pointer_boundary": 12,
+    "frame_size_bytes": 512,
+    "frame_size_pixels": [
+      32,
+      32
+    ],
+    "layout": "4x4 tiles column-major",
+    "palette_evidence": "runtime start_1264 palette2; other contexts unverified",
+    "boundary_note": "last bank endpoint 0x153400 inferred from 0xFF padding"
+  },
+  {
+    "start": "0x120000",
+    "end": "0x121600",
+    "character_ids": [
+      24
+    ],
+    "frame_count_by_pointer_boundary": 11,
+    "frame_size_bytes": 512,
+    "frame_size_pixels": [
+      32,
+      32
+    ],
+    "layout": "4x4 tiles column-major",
+    "palette_evidence": "runtime start_1264 palette2; other contexts unverified",
+    "boundary_note": "last bank endpoint 0x153400 inferred from 0xFF padding"
+  },
+  {
+    "start": "0x121600",
+    "end": "0x122c00",
+    "character_ids": [
+      25
+    ],
+    "frame_count_by_pointer_boundary": 11,
+    "frame_size_bytes": 512,
+    "frame_size_pixels": [
+      32,
+      32
+    ],
+    "layout": "4x4 tiles column-major",
+    "palette_evidence": "runtime start_1264 palette2; other contexts unverified",
+    "boundary_note": "last bank endpoint 0x153400 inferred from 0xFF padding"
+  },
+  {
+    "start": "0x122c00",
+    "end": "0x124200",
+    "character_ids": [
+      26
+    ],
+    "frame_count_by_pointer_boundary": 11,
+    "frame_size_bytes": 512,
+    "frame_size_pixels": [
+      32,
+      32
+    ],
+    "layout": "4x4 tiles column-major",
+    "palette_evidence": "runtime start_1264 palette2; other contexts unverified",
+    "boundary_note": "last bank endpoint 0x153400 inferred from 0xFF padding"
+  },
+  {
+    "start": "0x124200",
+    "end": "0x125800",
+    "character_ids": [
+      27
+    ],
+    "frame_count_by_pointer_boundary": 11,
+    "frame_size_bytes": 512,
+    "frame_size_pixels": [
+      32,
+      32
+    ],
+    "layout": "4x4 tiles column-major",
+    "palette_evidence": "runtime start_1264 palette2; other contexts unverified",
+    "boundary_note": "last bank endpoint 0x153400 inferred from 0xFF padding"
+  },
+  {
+    "start": "0x125800",
+    "end": "0x126e00",
+    "character_ids": [
+      28
+    ],
+    "frame_count_by_pointer_boundary": 11,
+    "frame_size_bytes": 512,
+    "frame_size_pixels": [
+      32,
+      32
+    ],
+    "layout": "4x4 tiles column-major",
+    "palette_evidence": "runtime start_1264 palette2; other contexts unverified",
+    "boundary_note": "last bank endpoint 0x153400 inferred from 0xFF padding"
+  },
+  {
+    "start": "0x126e00",
+    "end": "0x128400",
+    "character_ids": [
+      29
+    ],
+    "frame_count_by_pointer_boundary": 11,
+    "frame_size_bytes": 512,
+    "frame_size_pixels": [
+      32,
+      32
+    ],
+    "layout": "4x4 tiles column-major",
+    "palette_evidence": "runtime start_1264 palette2; other contexts unverified",
+    "boundary_note": "last bank endpoint 0x153400 inferred from 0xFF padding"
+  },
+  {
+    "start": "0x128400",
+    "end": "0x129a00",
+    "character_ids": [
+      30
+    ],
+    "frame_count_by_pointer_boundary": 11,
+    "frame_size_bytes": 512,
+    "frame_size_pixels": [
+      32,
+      32
+    ],
+    "layout": "4x4 tiles column-major",
+    "palette_evidence": "runtime start_1264 palette2; other contexts unverified",
+    "boundary_note": "last bank endpoint 0x153400 inferred from 0xFF padding"
+  },
+  {
+    "start": "0x129a00",
+    "end": "0x12b000",
+    "character_ids": [
+      31
+    ],
+    "frame_count_by_pointer_boundary": 11,
+    "frame_size_bytes": 512,
+    "frame_size_pixels": [
+      32,
+      32
+    ],
+    "layout": "4x4 tiles column-major",
+    "palette_evidence": "runtime start_1264 palette2; other contexts unverified",
+    "boundary_note": "last bank endpoint 0x153400 inferred from 0xFF padding"
+  },
+  {
+    "start": "0x12b000",
+    "end": "0x12c600",
+    "character_ids": [
+      32
+    ],
+    "frame_count_by_pointer_boundary": 11,
+    "frame_size_bytes": 512,
+    "frame_size_pixels": [
+      32,
+      32
+    ],
+    "layout": "4x4 tiles column-major",
+    "palette_evidence": "runtime start_1264 palette2; other contexts unverified",
+    "boundary_note": "last bank endpoint 0x153400 inferred from 0xFF padding"
+  },
+  {
+    "start": "0x12c600",
+    "end": "0x12dc00",
+    "character_ids": [
+      33
+    ],
+    "frame_count_by_pointer_boundary": 11,
+    "frame_size_bytes": 512,
+    "frame_size_pixels": [
+      32,
+      32
+    ],
+    "layout": "4x4 tiles column-major",
+    "palette_evidence": "runtime start_1264 palette2; other contexts unverified",
+    "boundary_note": "last bank endpoint 0x153400 inferred from 0xFF padding"
+  },
+  {
+    "start": "0x12dc00",
+    "end": "0x12f200",
+    "character_ids": [
+      34
+    ],
+    "frame_count_by_pointer_boundary": 11,
+    "frame_size_bytes": 512,
+    "frame_size_pixels": [
+      32,
+      32
+    ],
+    "layout": "4x4 tiles column-major",
+    "palette_evidence": "runtime start_1264 palette2; other contexts unverified",
+    "boundary_note": "last bank endpoint 0x153400 inferred from 0xFF padding"
+  },
+  {
+    "start": "0x12f200",
+    "end": "0x130800",
+    "character_ids": [
+      35
+    ],
+    "frame_count_by_pointer_boundary": 11,
+    "frame_size_bytes": 512,
+    "frame_size_pixels": [
+      32,
+      32
+    ],
+    "layout": "4x4 tiles column-major",
+    "palette_evidence": "runtime start_1264 palette2; other contexts unverified",
+    "boundary_note": "last bank endpoint 0x153400 inferred from 0xFF padding"
+  },
+  {
+    "start": "0x130800",
+    "end": "0x131e00",
+    "character_ids": [
+      36
+    ],
+    "frame_count_by_pointer_boundary": 11,
+    "frame_size_bytes": 512,
+    "frame_size_pixels": [
+      32,
+      32
+    ],
+    "layout": "4x4 tiles column-major",
+    "palette_evidence": "runtime start_1264 palette2; other contexts unverified",
+    "boundary_note": "last bank endpoint 0x153400 inferred from 0xFF padding"
+  },
+  {
+    "start": "0x131e00",
+    "end": "0x133400",
+    "character_ids": [
+      37
+    ],
+    "frame_count_by_pointer_boundary": 11,
+    "frame_size_bytes": 512,
+    "frame_size_pixels": [
+      32,
+      32
+    ],
+    "layout": "4x4 tiles column-major",
+    "palette_evidence": "runtime start_1264 palette2; other contexts unverified",
+    "boundary_note": "last bank endpoint 0x153400 inferred from 0xFF padding"
+  },
+  {
+    "start": "0x133400",
+    "end": "0x134a00",
+    "character_ids": [
+      38
+    ],
+    "frame_count_by_pointer_boundary": 11,
+    "frame_size_bytes": 512,
+    "frame_size_pixels": [
+      32,
+      32
+    ],
+    "layout": "4x4 tiles column-major",
+    "palette_evidence": "runtime start_1264 palette2; other contexts unverified",
+    "boundary_note": "last bank endpoint 0x153400 inferred from 0xFF padding"
+  },
+  {
+    "start": "0x134a00",
+    "end": "0x136000",
+    "character_ids": [
+      39
+    ],
+    "frame_count_by_pointer_boundary": 11,
+    "frame_size_bytes": 512,
+    "frame_size_pixels": [
+      32,
+      32
+    ],
+    "layout": "4x4 tiles column-major",
+    "palette_evidence": "runtime start_1264 palette2; other contexts unverified",
+    "boundary_note": "last bank endpoint 0x153400 inferred from 0xFF padding"
+  },
+  {
+    "start": "0x136000",
+    "end": "0x137600",
+    "character_ids": [
+      40
+    ],
+    "frame_count_by_pointer_boundary": 11,
+    "frame_size_bytes": 512,
+    "frame_size_pixels": [
+      32,
+      32
+    ],
+    "layout": "4x4 tiles column-major",
+    "palette_evidence": "runtime start_1264 palette2; other contexts unverified",
+    "boundary_note": "last bank endpoint 0x153400 inferred from 0xFF padding"
+  },
+  {
+    "start": "0x137600",
+    "end": "0x138c00",
+    "character_ids": [
+      41,
+      42,
+      43,
+      44,
+      45,
+      46,
+      47,
+      48,
+      49,
+      50
+    ],
+    "frame_count_by_pointer_boundary": 11,
+    "frame_size_bytes": 512,
+    "frame_size_pixels": [
+      32,
+      32
+    ],
+    "layout": "4x4 tiles column-major",
+    "palette_evidence": "runtime start_1264 palette2; other contexts unverified",
+    "boundary_note": "last bank endpoint 0x153400 inferred from 0xFF padding"
+  },
+  {
+    "start": "0x138c00",
+    "end": "0x13a200",
+    "character_ids": [
+      51
+    ],
+    "frame_count_by_pointer_boundary": 11,
+    "frame_size_bytes": 512,
+    "frame_size_pixels": [
+      32,
+      32
+    ],
+    "layout": "4x4 tiles column-major",
+    "palette_evidence": "runtime start_1264 palette2; other contexts unverified",
+    "boundary_note": "last bank endpoint 0x153400 inferred from 0xFF padding"
+  },
+  {
+    "start": "0x13a200",
+    "end": "0x13b800",
+    "character_ids": [
+      52
+    ],
+    "frame_count_by_pointer_boundary": 11,
+    "frame_size_bytes": 512,
+    "frame_size_pixels": [
+      32,
+      32
+    ],
+    "layout": "4x4 tiles column-major",
+    "palette_evidence": "runtime start_1264 palette2; other contexts unverified",
+    "boundary_note": "last bank endpoint 0x153400 inferred from 0xFF padding"
+  },
+  {
+    "start": "0x13b800",
+    "end": "0x13ce00",
+    "character_ids": [
+      53,
+      54
+    ],
+    "frame_count_by_pointer_boundary": 11,
+    "frame_size_bytes": 512,
+    "frame_size_pixels": [
+      32,
+      32
+    ],
+    "layout": "4x4 tiles column-major",
+    "palette_evidence": "runtime start_1264 palette2; other contexts unverified",
+    "boundary_note": "last bank endpoint 0x153400 inferred from 0xFF padding"
+  },
+  {
+    "start": "0x13ce00",
+    "end": "0x13e400",
+    "character_ids": [
+      55,
+      56
+    ],
+    "frame_count_by_pointer_boundary": 11,
+    "frame_size_bytes": 512,
+    "frame_size_pixels": [
+      32,
+      32
+    ],
+    "layout": "4x4 tiles column-major",
+    "palette_evidence": "runtime start_1264 palette2; other contexts unverified",
+    "boundary_note": "last bank endpoint 0x153400 inferred from 0xFF padding"
+  },
+  {
+    "start": "0x13e400",
+    "end": "0x140000",
+    "character_ids": [
+      57
+    ],
+    "frame_count_by_pointer_boundary": 14,
+    "frame_size_bytes": 512,
+    "frame_size_pixels": [
+      32,
+      32
+    ],
+    "layout": "4x4 tiles column-major",
+    "palette_evidence": "runtime start_1264 palette2; other contexts unverified",
+    "boundary_note": "last bank endpoint 0x153400 inferred from 0xFF padding"
+  },
+  {
+    "start": "0x140000",
+    "end": "0x141600",
+    "character_ids": [
+      58,
+      59
+    ],
+    "frame_count_by_pointer_boundary": 11,
+    "frame_size_bytes": 512,
+    "frame_size_pixels": [
+      32,
+      32
+    ],
+    "layout": "4x4 tiles column-major",
+    "palette_evidence": "runtime start_1264 palette2; other contexts unverified",
+    "boundary_note": "last bank endpoint 0x153400 inferred from 0xFF padding"
+  },
+  {
+    "start": "0x141600",
+    "end": "0x142c00",
+    "character_ids": [
+      60
+    ],
+    "frame_count_by_pointer_boundary": 11,
+    "frame_size_bytes": 512,
+    "frame_size_pixels": [
+      32,
+      32
+    ],
+    "layout": "4x4 tiles column-major",
+    "palette_evidence": "runtime start_1264 palette2; other contexts unverified",
+    "boundary_note": "last bank endpoint 0x153400 inferred from 0xFF padding"
+  },
+  {
+    "start": "0x142c00",
+    "end": "0x144200",
+    "character_ids": [
+      61,
+      62
+    ],
+    "frame_count_by_pointer_boundary": 11,
+    "frame_size_bytes": 512,
+    "frame_size_pixels": [
+      32,
+      32
+    ],
+    "layout": "4x4 tiles column-major",
+    "palette_evidence": "runtime start_1264 palette2; other contexts unverified",
+    "boundary_note": "last bank endpoint 0x153400 inferred from 0xFF padding"
+  },
+  {
+    "start": "0x144200",
+    "end": "0x145800",
+    "character_ids": [
+      63,
+      64
+    ],
+    "frame_count_by_pointer_boundary": 11,
+    "frame_size_bytes": 512,
+    "frame_size_pixels": [
+      32,
+      32
+    ],
+    "layout": "4x4 tiles column-major",
+    "palette_evidence": "runtime start_1264 palette2; other contexts unverified",
+    "boundary_note": "last bank endpoint 0x153400 inferred from 0xFF padding"
+  },
+  {
+    "start": "0x145800",
+    "end": "0x146e00",
+    "character_ids": [
+      65
+    ],
+    "frame_count_by_pointer_boundary": 11,
+    "frame_size_bytes": 512,
+    "frame_size_pixels": [
+      32,
+      32
+    ],
+    "layout": "4x4 tiles column-major",
+    "palette_evidence": "runtime start_1264 palette2; other contexts unverified",
+    "boundary_note": "last bank endpoint 0x153400 inferred from 0xFF padding"
+  },
+  {
+    "start": "0x146e00",
+    "end": "0x148400",
+    "character_ids": [
+      66,
+      67
+    ],
+    "frame_count_by_pointer_boundary": 11,
+    "frame_size_bytes": 512,
+    "frame_size_pixels": [
+      32,
+      32
+    ],
+    "layout": "4x4 tiles column-major",
+    "palette_evidence": "runtime start_1264 palette2; other contexts unverified",
+    "boundary_note": "last bank endpoint 0x153400 inferred from 0xFF padding"
+  },
+  {
+    "start": "0x148400",
+    "end": "0x149a00",
+    "character_ids": [
+      68,
+      69
+    ],
+    "frame_count_by_pointer_boundary": 11,
+    "frame_size_bytes": 512,
+    "frame_size_pixels": [
+      32,
+      32
+    ],
+    "layout": "4x4 tiles column-major",
+    "palette_evidence": "runtime start_1264 palette2; other contexts unverified",
+    "boundary_note": "last bank endpoint 0x153400 inferred from 0xFF padding"
+  },
+  {
+    "start": "0x149a00",
+    "end": "0x14b000",
+    "character_ids": [
+      70
+    ],
+    "frame_count_by_pointer_boundary": 11,
+    "frame_size_bytes": 512,
+    "frame_size_pixels": [
+      32,
+      32
+    ],
+    "layout": "4x4 tiles column-major",
+    "palette_evidence": "runtime start_1264 palette2; other contexts unverified",
+    "boundary_note": "last bank endpoint 0x153400 inferred from 0xFF padding"
+  },
+  {
+    "start": "0x14b000",
+    "end": "0x14c600",
+    "character_ids": [
+      71,
+      72
+    ],
+    "frame_count_by_pointer_boundary": 11,
+    "frame_size_bytes": 512,
+    "frame_size_pixels": [
+      32,
+      32
+    ],
+    "layout": "4x4 tiles column-major",
+    "palette_evidence": "runtime start_1264 palette2; other contexts unverified",
+    "boundary_note": "last bank endpoint 0x153400 inferred from 0xFF padding"
+  },
+  {
+    "start": "0x14c600",
+    "end": "0x14dc00",
+    "character_ids": [
+      73
+    ],
+    "frame_count_by_pointer_boundary": 11,
+    "frame_size_bytes": 512,
+    "frame_size_pixels": [
+      32,
+      32
+    ],
+    "layout": "4x4 tiles column-major",
+    "palette_evidence": "runtime start_1264 palette2; other contexts unverified",
+    "boundary_note": "last bank endpoint 0x153400 inferred from 0xFF padding"
+  },
+  {
+    "start": "0x14dc00",
+    "end": "0x14f200",
+    "character_ids": [
+      74,
+      75
+    ],
+    "frame_count_by_pointer_boundary": 11,
+    "frame_size_bytes": 512,
+    "frame_size_pixels": [
+      32,
+      32
+    ],
+    "layout": "4x4 tiles column-major",
+    "palette_evidence": "runtime start_1264 palette2; other contexts unverified",
+    "boundary_note": "last bank endpoint 0x153400 inferred from 0xFF padding"
+  },
+  {
+    "start": "0x14f200",
+    "end": "0x150800",
+    "character_ids": [
+      76
+    ],
+    "frame_count_by_pointer_boundary": 11,
+    "frame_size_bytes": 512,
+    "frame_size_pixels": [
+      32,
+      32
+    ],
+    "layout": "4x4 tiles column-major",
+    "palette_evidence": "runtime start_1264 palette2; other contexts unverified",
+    "boundary_note": "last bank endpoint 0x153400 inferred from 0xFF padding"
+  },
+  {
+    "start": "0x150800",
+    "end": "0x151e00",
+    "character_ids": [
+      77
+    ],
+    "frame_count_by_pointer_boundary": 11,
+    "frame_size_bytes": 512,
+    "frame_size_pixels": [
+      32,
+      32
+    ],
+    "layout": "4x4 tiles column-major",
+    "palette_evidence": "runtime start_1264 palette2; other contexts unverified",
+    "boundary_note": "last bank endpoint 0x153400 inferred from 0xFF padding"
+  },
+  {
+    "start": "0x151e00",
+    "end": "0x153400",
+    "character_ids": [
+      78
+    ],
+    "frame_count_by_pointer_boundary": 11,
+    "frame_size_bytes": 512,
+    "frame_size_pixels": [
+      32,
+      32
+    ],
+    "layout": "4x4 tiles column-major",
+    "palette_evidence": "runtime start_1264 palette2; other contexts unverified",
+    "boundary_note": "last bank endpoint 0x153400 inferred from 0xFF padding"
+  }
+]

@@ -1,0 +1,4943 @@
+[
+  {
+    "id": "objects-bank-032386-0772aa-0dd948-1-pixel-hd",
+    "kind": "object-sheet",
+    "style": "pixel-hd",
+    "reference": "objects-bank-032386-0772aa-0dd948-1-reference.png",
+    "size": "1536x1024",
+    "sourceId": "bank-032386-0772aa-0dd948",
+    "sheet": "objects-bank-032386-0772aa-0dd948-1"
+  },
+  {
+    "id": "objects-bank-032386-0772aa-0dd948-1-unreal",
+    "kind": "object-sheet",
+    "style": "unreal",
+    "reference": "objects-bank-032386-0772aa-0dd948-1-reference.png",
+    "size": "1536x1024",
+    "sourceId": "bank-032386-0772aa-0dd948",
+    "sheet": "objects-bank-032386-0772aa-0dd948-1"
+  },
+  {
+    "id": "objects-bank-032386-0772aa-0dd948-1-ghibli",
+    "kind": "object-sheet",
+    "style": "ghibli",
+    "reference": "objects-bank-032386-0772aa-0dd948-1-reference.png",
+    "size": "1536x1024",
+    "sourceId": "bank-032386-0772aa-0dd948",
+    "sheet": "objects-bank-032386-0772aa-0dd948-1"
+  },
+  {
+    "id": "objects-bank-032386-0772aa-0dd948-2-pixel-hd",
+    "kind": "object-sheet",
+    "style": "pixel-hd",
+    "reference": "objects-bank-032386-0772aa-0dd948-2-reference.png",
+    "size": "1536x1024",
+    "sourceId": "bank-032386-0772aa-0dd948",
+    "sheet": "objects-bank-032386-0772aa-0dd948-2"
+  },
+  {
+    "id": "objects-bank-032386-0772aa-0dd948-2-unreal",
+    "kind": "object-sheet",
+    "style": "unreal",
+    "reference": "objects-bank-032386-0772aa-0dd948-2-reference.png",
+    "size": "1536x1024",
+    "sourceId": "bank-032386-0772aa-0dd948",
+    "sheet": "objects-bank-032386-0772aa-0dd948-2"
+  },
+  {
+    "id": "objects-bank-032386-0772aa-0dd948-2-ghibli",
+    "kind": "object-sheet",
+    "style": "ghibli",
+    "reference": "objects-bank-032386-0772aa-0dd948-2-reference.png",
+    "size": "1536x1024",
+    "sourceId": "bank-032386-0772aa-0dd948",
+    "sheet": "objects-bank-032386-0772aa-0dd948-2"
+  },
+  {
+    "id": "objects-bank-032386-0772aa-0dd948-3-pixel-hd",
+    "kind": "object-sheet",
+    "style": "pixel-hd",
+    "reference": "objects-bank-032386-0772aa-0dd948-3-reference.png",
+    "size": "1536x1024",
+    "sourceId": "bank-032386-0772aa-0dd948",
+    "sheet": "objects-bank-032386-0772aa-0dd948-3"
+  },
+  {
+    "id": "objects-bank-032386-0772aa-0dd948-3-unreal",
+    "kind": "object-sheet",
+    "style": "unreal",
+    "reference": "objects-bank-032386-0772aa-0dd948-3-reference.png",
+    "size": "1536x1024",
+    "sourceId": "bank-032386-0772aa-0dd948",
+    "sheet": "objects-bank-032386-0772aa-0dd948-3"
+  },
+  {
+    "id": "objects-bank-032386-0772aa-0dd948-3-ghibli",
+    "kind": "object-sheet",
+    "style": "ghibli",
+    "reference": "objects-bank-032386-0772aa-0dd948-3-reference.png",
+    "size": "1536x1024",
+    "sourceId": "bank-032386-0772aa-0dd948",
+    "sheet": "objects-bank-032386-0772aa-0dd948-3"
+  },
+  {
+    "id": "objects-bank-032386-0772aa-0dd948-4-pixel-hd",
+    "kind": "object-sheet",
+    "style": "pixel-hd",
+    "reference": "objects-bank-032386-0772aa-0dd948-4-reference.png",
+    "size": "1536x1024",
+    "sourceId": "bank-032386-0772aa-0dd948",
+    "sheet": "objects-bank-032386-0772aa-0dd948-4"
+  },
+  {
+    "id": "objects-bank-032386-0772aa-0dd948-4-unreal",
+    "kind": "object-sheet",
+    "style": "unreal",
+    "reference": "objects-bank-032386-0772aa-0dd948-4-reference.png",
+    "size": "1536x1024",
+    "sourceId": "bank-032386-0772aa-0dd948",
+    "sheet": "objects-bank-032386-0772aa-0dd948-4"
+  },
+  {
+    "id": "objects-bank-032386-0772aa-0dd948-4-ghibli",
+    "kind": "object-sheet",
+    "style": "ghibli",
+    "reference": "objects-bank-032386-0772aa-0dd948-4-reference.png",
+    "size": "1536x1024",
+    "sourceId": "bank-032386-0772aa-0dd948",
+    "sheet": "objects-bank-032386-0772aa-0dd948-4"
+  },
+  {
+    "id": "objects-bank-032386-0772aa-0dd948-5-pixel-hd",
+    "kind": "object-sheet",
+    "style": "pixel-hd",
+    "reference": "objects-bank-032386-0772aa-0dd948-5-reference.png",
+    "size": "1536x1024",
+    "sourceId": "bank-032386-0772aa-0dd948",
+    "sheet": "objects-bank-032386-0772aa-0dd948-5"
+  },
+  {
+    "id": "objects-bank-032386-0772aa-0dd948-5-unreal",
+    "kind": "object-sheet",
+    "style": "unreal",
+    "reference": "objects-bank-032386-0772aa-0dd948-5-reference.png",
+    "size": "1536x1024",
+    "sourceId": "bank-032386-0772aa-0dd948",
+    "sheet": "objects-bank-032386-0772aa-0dd948-5"
+  },
+  {
+    "id": "objects-bank-032386-0772aa-0dd948-5-ghibli",
+    "kind": "object-sheet",
+    "style": "ghibli",
+    "reference": "objects-bank-032386-0772aa-0dd948-5-reference.png",
+    "size": "1536x1024",
+    "sourceId": "bank-032386-0772aa-0dd948",
+    "sheet": "objects-bank-032386-0772aa-0dd948-5"
+  },
+  {
+    "id": "objects-bank-032386-0772aa-0dd948-6-pixel-hd",
+    "kind": "object-sheet",
+    "style": "pixel-hd",
+    "reference": "objects-bank-032386-0772aa-0dd948-6-reference.png",
+    "size": "1536x1024",
+    "sourceId": "bank-032386-0772aa-0dd948",
+    "sheet": "objects-bank-032386-0772aa-0dd948-6"
+  },
+  {
+    "id": "objects-bank-032386-0772aa-0dd948-6-unreal",
+    "kind": "object-sheet",
+    "style": "unreal",
+    "reference": "objects-bank-032386-0772aa-0dd948-6-reference.png",
+    "size": "1536x1024",
+    "sourceId": "bank-032386-0772aa-0dd948",
+    "sheet": "objects-bank-032386-0772aa-0dd948-6"
+  },
+  {
+    "id": "objects-bank-032386-0772aa-0dd948-6-ghibli",
+    "kind": "object-sheet",
+    "style": "ghibli",
+    "reference": "objects-bank-032386-0772aa-0dd948-6-reference.png",
+    "size": "1536x1024",
+    "sourceId": "bank-032386-0772aa-0dd948",
+    "sheet": "objects-bank-032386-0772aa-0dd948-6"
+  },
+  {
+    "id": "objects-bank-032386-0772aa-0dd948-7-pixel-hd",
+    "kind": "object-sheet",
+    "style": "pixel-hd",
+    "reference": "objects-bank-032386-0772aa-0dd948-7-reference.png",
+    "size": "1536x1024",
+    "sourceId": "bank-032386-0772aa-0dd948",
+    "sheet": "objects-bank-032386-0772aa-0dd948-7"
+  },
+  {
+    "id": "objects-bank-032386-0772aa-0dd948-7-unreal",
+    "kind": "object-sheet",
+    "style": "unreal",
+    "reference": "objects-bank-032386-0772aa-0dd948-7-reference.png",
+    "size": "1536x1024",
+    "sourceId": "bank-032386-0772aa-0dd948",
+    "sheet": "objects-bank-032386-0772aa-0dd948-7"
+  },
+  {
+    "id": "objects-bank-032386-0772aa-0dd948-7-ghibli",
+    "kind": "object-sheet",
+    "style": "ghibli",
+    "reference": "objects-bank-032386-0772aa-0dd948-7-reference.png",
+    "size": "1536x1024",
+    "sourceId": "bank-032386-0772aa-0dd948",
+    "sheet": "objects-bank-032386-0772aa-0dd948-7"
+  },
+  {
+    "id": "objects-bank-032386-0772aa-0dd948-8-pixel-hd",
+    "kind": "object-sheet",
+    "style": "pixel-hd",
+    "reference": "objects-bank-032386-0772aa-0dd948-8-reference.png",
+    "size": "1536x1024",
+    "sourceId": "bank-032386-0772aa-0dd948",
+    "sheet": "objects-bank-032386-0772aa-0dd948-8"
+  },
+  {
+    "id": "objects-bank-032386-0772aa-0dd948-8-unreal",
+    "kind": "object-sheet",
+    "style": "unreal",
+    "reference": "objects-bank-032386-0772aa-0dd948-8-reference.png",
+    "size": "1536x1024",
+    "sourceId": "bank-032386-0772aa-0dd948",
+    "sheet": "objects-bank-032386-0772aa-0dd948-8"
+  },
+  {
+    "id": "objects-bank-032386-0772aa-0dd948-8-ghibli",
+    "kind": "object-sheet",
+    "style": "ghibli",
+    "reference": "objects-bank-032386-0772aa-0dd948-8-reference.png",
+    "size": "1536x1024",
+    "sourceId": "bank-032386-0772aa-0dd948",
+    "sheet": "objects-bank-032386-0772aa-0dd948-8"
+  },
+  {
+    "id": "objects-bank-032386-0772aa-0dd948-9-pixel-hd",
+    "kind": "object-sheet",
+    "style": "pixel-hd",
+    "reference": "objects-bank-032386-0772aa-0dd948-9-reference.png",
+    "size": "1536x1024",
+    "sourceId": "bank-032386-0772aa-0dd948",
+    "sheet": "objects-bank-032386-0772aa-0dd948-9"
+  },
+  {
+    "id": "objects-bank-032386-0772aa-0dd948-9-unreal",
+    "kind": "object-sheet",
+    "style": "unreal",
+    "reference": "objects-bank-032386-0772aa-0dd948-9-reference.png",
+    "size": "1536x1024",
+    "sourceId": "bank-032386-0772aa-0dd948",
+    "sheet": "objects-bank-032386-0772aa-0dd948-9"
+  },
+  {
+    "id": "objects-bank-032386-0772aa-0dd948-9-ghibli",
+    "kind": "object-sheet",
+    "style": "ghibli",
+    "reference": "objects-bank-032386-0772aa-0dd948-9-reference.png",
+    "size": "1536x1024",
+    "sourceId": "bank-032386-0772aa-0dd948",
+    "sheet": "objects-bank-032386-0772aa-0dd948-9"
+  },
+  {
+    "id": "objects-bank-032386-0772aa-0dd948-10-pixel-hd",
+    "kind": "object-sheet",
+    "style": "pixel-hd",
+    "reference": "objects-bank-032386-0772aa-0dd948-10-reference.png",
+    "size": "1536x1024",
+    "sourceId": "bank-032386-0772aa-0dd948",
+    "sheet": "objects-bank-032386-0772aa-0dd948-10"
+  },
+  {
+    "id": "objects-bank-032386-0772aa-0dd948-10-unreal",
+    "kind": "object-sheet",
+    "style": "unreal",
+    "reference": "objects-bank-032386-0772aa-0dd948-10-reference.png",
+    "size": "1536x1024",
+    "sourceId": "bank-032386-0772aa-0dd948",
+    "sheet": "objects-bank-032386-0772aa-0dd948-10"
+  },
+  {
+    "id": "objects-bank-032386-0772aa-0dd948-10-ghibli",
+    "kind": "object-sheet",
+    "style": "ghibli",
+    "reference": "objects-bank-032386-0772aa-0dd948-10-reference.png",
+    "size": "1536x1024",
+    "sourceId": "bank-032386-0772aa-0dd948",
+    "sheet": "objects-bank-032386-0772aa-0dd948-10"
+  },
+  {
+    "id": "objects-bank-032386-0772aa-0dd948-11-pixel-hd",
+    "kind": "object-sheet",
+    "style": "pixel-hd",
+    "reference": "objects-bank-032386-0772aa-0dd948-11-reference.png",
+    "size": "1536x1024",
+    "sourceId": "bank-032386-0772aa-0dd948",
+    "sheet": "objects-bank-032386-0772aa-0dd948-11"
+  },
+  {
+    "id": "objects-bank-032386-0772aa-0dd948-11-unreal",
+    "kind": "object-sheet",
+    "style": "unreal",
+    "reference": "objects-bank-032386-0772aa-0dd948-11-reference.png",
+    "size": "1536x1024",
+    "sourceId": "bank-032386-0772aa-0dd948",
+    "sheet": "objects-bank-032386-0772aa-0dd948-11"
+  },
+  {
+    "id": "objects-bank-032386-0772aa-0dd948-11-ghibli",
+    "kind": "object-sheet",
+    "style": "ghibli",
+    "reference": "objects-bank-032386-0772aa-0dd948-11-reference.png",
+    "size": "1536x1024",
+    "sourceId": "bank-032386-0772aa-0dd948",
+    "sheet": "objects-bank-032386-0772aa-0dd948-11"
+  },
+  {
+    "id": "objects-bank-032386-0772aa-0dd948-12-pixel-hd",
+    "kind": "object-sheet",
+    "style": "pixel-hd",
+    "reference": "objects-bank-032386-0772aa-0dd948-12-reference.png",
+    "size": "1536x1024",
+    "sourceId": "bank-032386-0772aa-0dd948",
+    "sheet": "objects-bank-032386-0772aa-0dd948-12"
+  },
+  {
+    "id": "objects-bank-032386-0772aa-0dd948-12-unreal",
+    "kind": "object-sheet",
+    "style": "unreal",
+    "reference": "objects-bank-032386-0772aa-0dd948-12-reference.png",
+    "size": "1536x1024",
+    "sourceId": "bank-032386-0772aa-0dd948",
+    "sheet": "objects-bank-032386-0772aa-0dd948-12"
+  },
+  {
+    "id": "objects-bank-032386-0772aa-0dd948-12-ghibli",
+    "kind": "object-sheet",
+    "style": "ghibli",
+    "reference": "objects-bank-032386-0772aa-0dd948-12-reference.png",
+    "size": "1536x1024",
+    "sourceId": "bank-032386-0772aa-0dd948",
+    "sheet": "objects-bank-032386-0772aa-0dd948-12"
+  },
+  {
+    "id": "objects-bank-032386-0772aa-0dd948-13-pixel-hd",
+    "kind": "object-sheet",
+    "style": "pixel-hd",
+    "reference": "objects-bank-032386-0772aa-0dd948-13-reference.png",
+    "size": "1536x1024",
+    "sourceId": "bank-032386-0772aa-0dd948",
+    "sheet": "objects-bank-032386-0772aa-0dd948-13"
+  },
+  {
+    "id": "objects-bank-032386-0772aa-0dd948-13-unreal",
+    "kind": "object-sheet",
+    "style": "unreal",
+    "reference": "objects-bank-032386-0772aa-0dd948-13-reference.png",
+    "size": "1536x1024",
+    "sourceId": "bank-032386-0772aa-0dd948",
+    "sheet": "objects-bank-032386-0772aa-0dd948-13"
+  },
+  {
+    "id": "objects-bank-032386-0772aa-0dd948-13-ghibli",
+    "kind": "object-sheet",
+    "style": "ghibli",
+    "reference": "objects-bank-032386-0772aa-0dd948-13-reference.png",
+    "size": "1536x1024",
+    "sourceId": "bank-032386-0772aa-0dd948",
+    "sheet": "objects-bank-032386-0772aa-0dd948-13"
+  },
+  {
+    "id": "objects-bank-032386-0772aa-0dd948-14-pixel-hd",
+    "kind": "object-sheet",
+    "style": "pixel-hd",
+    "reference": "objects-bank-032386-0772aa-0dd948-14-reference.png",
+    "size": "1536x1024",
+    "sourceId": "bank-032386-0772aa-0dd948",
+    "sheet": "objects-bank-032386-0772aa-0dd948-14"
+  },
+  {
+    "id": "objects-bank-032386-0772aa-0dd948-14-unreal",
+    "kind": "object-sheet",
+    "style": "unreal",
+    "reference": "objects-bank-032386-0772aa-0dd948-14-reference.png",
+    "size": "1536x1024",
+    "sourceId": "bank-032386-0772aa-0dd948",
+    "sheet": "objects-bank-032386-0772aa-0dd948-14"
+  },
+  {
+    "id": "objects-bank-032386-0772aa-0dd948-14-ghibli",
+    "kind": "object-sheet",
+    "style": "ghibli",
+    "reference": "objects-bank-032386-0772aa-0dd948-14-reference.png",
+    "size": "1536x1024",
+    "sourceId": "bank-032386-0772aa-0dd948",
+    "sheet": "objects-bank-032386-0772aa-0dd948-14"
+  },
+  {
+    "id": "objects-bank-037948-07852a-0dd988-1-pixel-hd",
+    "kind": "object-sheet",
+    "style": "pixel-hd",
+    "reference": "objects-bank-037948-07852a-0dd988-1-reference.png",
+    "size": "1536x1024",
+    "sourceId": "bank-037948-07852a-0dd988",
+    "sheet": "objects-bank-037948-07852a-0dd988-1"
+  },
+  {
+    "id": "objects-bank-037948-07852a-0dd988-1-unreal",
+    "kind": "object-sheet",
+    "style": "unreal",
+    "reference": "objects-bank-037948-07852a-0dd988-1-reference.png",
+    "size": "1536x1024",
+    "sourceId": "bank-037948-07852a-0dd988",
+    "sheet": "objects-bank-037948-07852a-0dd988-1"
+  },
+  {
+    "id": "objects-bank-037948-07852a-0dd988-1-ghibli",
+    "kind": "object-sheet",
+    "style": "ghibli",
+    "reference": "objects-bank-037948-07852a-0dd988-1-reference.png",
+    "size": "1536x1024",
+    "sourceId": "bank-037948-07852a-0dd988",
+    "sheet": "objects-bank-037948-07852a-0dd988-1"
+  },
+  {
+    "id": "objects-bank-037948-07852a-0dd988-2-pixel-hd",
+    "kind": "object-sheet",
+    "style": "pixel-hd",
+    "reference": "objects-bank-037948-07852a-0dd988-2-reference.png",
+    "size": "1536x1024",
+    "sourceId": "bank-037948-07852a-0dd988",
+    "sheet": "objects-bank-037948-07852a-0dd988-2"
+  },
+  {
+    "id": "objects-bank-037948-07852a-0dd988-2-unreal",
+    "kind": "object-sheet",
+    "style": "unreal",
+    "reference": "objects-bank-037948-07852a-0dd988-2-reference.png",
+    "size": "1536x1024",
+    "sourceId": "bank-037948-07852a-0dd988",
+    "sheet": "objects-bank-037948-07852a-0dd988-2"
+  },
+  {
+    "id": "objects-bank-037948-07852a-0dd988-2-ghibli",
+    "kind": "object-sheet",
+    "style": "ghibli",
+    "reference": "objects-bank-037948-07852a-0dd988-2-reference.png",
+    "size": "1536x1024",
+    "sourceId": "bank-037948-07852a-0dd988",
+    "sheet": "objects-bank-037948-07852a-0dd988-2"
+  },
+  {
+    "id": "objects-bank-037948-07852a-0dd988-3-pixel-hd",
+    "kind": "object-sheet",
+    "style": "pixel-hd",
+    "reference": "objects-bank-037948-07852a-0dd988-3-reference.png",
+    "size": "1536x1024",
+    "sourceId": "bank-037948-07852a-0dd988",
+    "sheet": "objects-bank-037948-07852a-0dd988-3"
+  },
+  {
+    "id": "objects-bank-037948-07852a-0dd988-3-unreal",
+    "kind": "object-sheet",
+    "style": "unreal",
+    "reference": "objects-bank-037948-07852a-0dd988-3-reference.png",
+    "size": "1536x1024",
+    "sourceId": "bank-037948-07852a-0dd988",
+    "sheet": "objects-bank-037948-07852a-0dd988-3"
+  },
+  {
+    "id": "objects-bank-037948-07852a-0dd988-3-ghibli",
+    "kind": "object-sheet",
+    "style": "ghibli",
+    "reference": "objects-bank-037948-07852a-0dd988-3-reference.png",
+    "size": "1536x1024",
+    "sourceId": "bank-037948-07852a-0dd988",
+    "sheet": "objects-bank-037948-07852a-0dd988-3"
+  },
+  {
+    "id": "objects-bank-037948-07852a-0dd988-4-pixel-hd",
+    "kind": "object-sheet",
+    "style": "pixel-hd",
+    "reference": "objects-bank-037948-07852a-0dd988-4-reference.png",
+    "size": "1536x1024",
+    "sourceId": "bank-037948-07852a-0dd988",
+    "sheet": "objects-bank-037948-07852a-0dd988-4"
+  },
+  {
+    "id": "objects-bank-037948-07852a-0dd988-4-unreal",
+    "kind": "object-sheet",
+    "style": "unreal",
+    "reference": "objects-bank-037948-07852a-0dd988-4-reference.png",
+    "size": "1536x1024",
+    "sourceId": "bank-037948-07852a-0dd988",
+    "sheet": "objects-bank-037948-07852a-0dd988-4"
+  },
+  {
+    "id": "objects-bank-037948-07852a-0dd988-4-ghibli",
+    "kind": "object-sheet",
+    "style": "ghibli",
+    "reference": "objects-bank-037948-07852a-0dd988-4-reference.png",
+    "size": "1536x1024",
+    "sourceId": "bank-037948-07852a-0dd988",
+    "sheet": "objects-bank-037948-07852a-0dd988-4"
+  },
+  {
+    "id": "objects-bank-037948-07852a-0dd988-5-pixel-hd",
+    "kind": "object-sheet",
+    "style": "pixel-hd",
+    "reference": "objects-bank-037948-07852a-0dd988-5-reference.png",
+    "size": "1536x1024",
+    "sourceId": "bank-037948-07852a-0dd988",
+    "sheet": "objects-bank-037948-07852a-0dd988-5"
+  },
+  {
+    "id": "objects-bank-037948-07852a-0dd988-5-unreal",
+    "kind": "object-sheet",
+    "style": "unreal",
+    "reference": "objects-bank-037948-07852a-0dd988-5-reference.png",
+    "size": "1536x1024",
+    "sourceId": "bank-037948-07852a-0dd988",
+    "sheet": "objects-bank-037948-07852a-0dd988-5"
+  },
+  {
+    "id": "objects-bank-037948-07852a-0dd988-5-ghibli",
+    "kind": "object-sheet",
+    "style": "ghibli",
+    "reference": "objects-bank-037948-07852a-0dd988-5-reference.png",
+    "size": "1536x1024",
+    "sourceId": "bank-037948-07852a-0dd988",
+    "sheet": "objects-bank-037948-07852a-0dd988-5"
+  },
+  {
+    "id": "objects-bank-037948-07852a-0dd988-6-pixel-hd",
+    "kind": "object-sheet",
+    "style": "pixel-hd",
+    "reference": "objects-bank-037948-07852a-0dd988-6-reference.png",
+    "size": "1536x1024",
+    "sourceId": "bank-037948-07852a-0dd988",
+    "sheet": "objects-bank-037948-07852a-0dd988-6"
+  },
+  {
+    "id": "objects-bank-037948-07852a-0dd988-6-unreal",
+    "kind": "object-sheet",
+    "style": "unreal",
+    "reference": "objects-bank-037948-07852a-0dd988-6-reference.png",
+    "size": "1536x1024",
+    "sourceId": "bank-037948-07852a-0dd988",
+    "sheet": "objects-bank-037948-07852a-0dd988-6"
+  },
+  {
+    "id": "objects-bank-037948-07852a-0dd988-6-ghibli",
+    "kind": "object-sheet",
+    "style": "ghibli",
+    "reference": "objects-bank-037948-07852a-0dd988-6-reference.png",
+    "size": "1536x1024",
+    "sourceId": "bank-037948-07852a-0dd988",
+    "sheet": "objects-bank-037948-07852a-0dd988-6"
+  },
+  {
+    "id": "objects-bank-037948-07852a-0dd988-7-pixel-hd",
+    "kind": "object-sheet",
+    "style": "pixel-hd",
+    "reference": "objects-bank-037948-07852a-0dd988-7-reference.png",
+    "size": "1536x1024",
+    "sourceId": "bank-037948-07852a-0dd988",
+    "sheet": "objects-bank-037948-07852a-0dd988-7"
+  },
+  {
+    "id": "objects-bank-037948-07852a-0dd988-7-unreal",
+    "kind": "object-sheet",
+    "style": "unreal",
+    "reference": "objects-bank-037948-07852a-0dd988-7-reference.png",
+    "size": "1536x1024",
+    "sourceId": "bank-037948-07852a-0dd988",
+    "sheet": "objects-bank-037948-07852a-0dd988-7"
+  },
+  {
+    "id": "objects-bank-037948-07852a-0dd988-7-ghibli",
+    "kind": "object-sheet",
+    "style": "ghibli",
+    "reference": "objects-bank-037948-07852a-0dd988-7-reference.png",
+    "size": "1536x1024",
+    "sourceId": "bank-037948-07852a-0dd988",
+    "sheet": "objects-bank-037948-07852a-0dd988-7"
+  },
+  {
+    "id": "objects-bank-037948-07852a-0dd988-8-pixel-hd",
+    "kind": "object-sheet",
+    "style": "pixel-hd",
+    "reference": "objects-bank-037948-07852a-0dd988-8-reference.png",
+    "size": "1536x1024",
+    "sourceId": "bank-037948-07852a-0dd988",
+    "sheet": "objects-bank-037948-07852a-0dd988-8"
+  },
+  {
+    "id": "objects-bank-037948-07852a-0dd988-8-unreal",
+    "kind": "object-sheet",
+    "style": "unreal",
+    "reference": "objects-bank-037948-07852a-0dd988-8-reference.png",
+    "size": "1536x1024",
+    "sourceId": "bank-037948-07852a-0dd988",
+    "sheet": "objects-bank-037948-07852a-0dd988-8"
+  },
+  {
+    "id": "objects-bank-037948-07852a-0dd988-8-ghibli",
+    "kind": "object-sheet",
+    "style": "ghibli",
+    "reference": "objects-bank-037948-07852a-0dd988-8-reference.png",
+    "size": "1536x1024",
+    "sourceId": "bank-037948-07852a-0dd988",
+    "sheet": "objects-bank-037948-07852a-0dd988-8"
+  },
+  {
+    "id": "objects-bank-037948-07852a-0dd988-9-pixel-hd",
+    "kind": "object-sheet",
+    "style": "pixel-hd",
+    "reference": "objects-bank-037948-07852a-0dd988-9-reference.png",
+    "size": "1536x1024",
+    "sourceId": "bank-037948-07852a-0dd988",
+    "sheet": "objects-bank-037948-07852a-0dd988-9"
+  },
+  {
+    "id": "objects-bank-037948-07852a-0dd988-9-unreal",
+    "kind": "object-sheet",
+    "style": "unreal",
+    "reference": "objects-bank-037948-07852a-0dd988-9-reference.png",
+    "size": "1536x1024",
+    "sourceId": "bank-037948-07852a-0dd988",
+    "sheet": "objects-bank-037948-07852a-0dd988-9"
+  },
+  {
+    "id": "objects-bank-037948-07852a-0dd988-9-ghibli",
+    "kind": "object-sheet",
+    "style": "ghibli",
+    "reference": "objects-bank-037948-07852a-0dd988-9-reference.png",
+    "size": "1536x1024",
+    "sourceId": "bank-037948-07852a-0dd988",
+    "sheet": "objects-bank-037948-07852a-0dd988-9"
+  },
+  {
+    "id": "objects-bank-03d80a-077b8a-0dd9c8-1-pixel-hd",
+    "kind": "object-sheet",
+    "style": "pixel-hd",
+    "reference": "objects-bank-03d80a-077b8a-0dd9c8-1-reference.png",
+    "size": "1536x1024",
+    "sourceId": "bank-03d80a-077b8a-0dd9c8",
+    "sheet": "objects-bank-03d80a-077b8a-0dd9c8-1"
+  },
+  {
+    "id": "objects-bank-03d80a-077b8a-0dd9c8-1-unreal",
+    "kind": "object-sheet",
+    "style": "unreal",
+    "reference": "objects-bank-03d80a-077b8a-0dd9c8-1-reference.png",
+    "size": "1536x1024",
+    "sourceId": "bank-03d80a-077b8a-0dd9c8",
+    "sheet": "objects-bank-03d80a-077b8a-0dd9c8-1"
+  },
+  {
+    "id": "objects-bank-03d80a-077b8a-0dd9c8-1-ghibli",
+    "kind": "object-sheet",
+    "style": "ghibli",
+    "reference": "objects-bank-03d80a-077b8a-0dd9c8-1-reference.png",
+    "size": "1536x1024",
+    "sourceId": "bank-03d80a-077b8a-0dd9c8",
+    "sheet": "objects-bank-03d80a-077b8a-0dd9c8-1"
+  },
+  {
+    "id": "objects-bank-03d80a-077b8a-0dd9c8-2-pixel-hd",
+    "kind": "object-sheet",
+    "style": "pixel-hd",
+    "reference": "objects-bank-03d80a-077b8a-0dd9c8-2-reference.png",
+    "size": "1536x1024",
+    "sourceId": "bank-03d80a-077b8a-0dd9c8",
+    "sheet": "objects-bank-03d80a-077b8a-0dd9c8-2"
+  },
+  {
+    "id": "objects-bank-03d80a-077b8a-0dd9c8-2-unreal",
+    "kind": "object-sheet",
+    "style": "unreal",
+    "reference": "objects-bank-03d80a-077b8a-0dd9c8-2-reference.png",
+    "size": "1536x1024",
+    "sourceId": "bank-03d80a-077b8a-0dd9c8",
+    "sheet": "objects-bank-03d80a-077b8a-0dd9c8-2"
+  },
+  {
+    "id": "objects-bank-03d80a-077b8a-0dd9c8-2-ghibli",
+    "kind": "object-sheet",
+    "style": "ghibli",
+    "reference": "objects-bank-03d80a-077b8a-0dd9c8-2-reference.png",
+    "size": "1536x1024",
+    "sourceId": "bank-03d80a-077b8a-0dd9c8",
+    "sheet": "objects-bank-03d80a-077b8a-0dd9c8-2"
+  },
+  {
+    "id": "objects-bank-03d80a-077b8a-0dd9c8-3-pixel-hd",
+    "kind": "object-sheet",
+    "style": "pixel-hd",
+    "reference": "objects-bank-03d80a-077b8a-0dd9c8-3-reference.png",
+    "size": "1536x1024",
+    "sourceId": "bank-03d80a-077b8a-0dd9c8",
+    "sheet": "objects-bank-03d80a-077b8a-0dd9c8-3"
+  },
+  {
+    "id": "objects-bank-03d80a-077b8a-0dd9c8-3-unreal",
+    "kind": "object-sheet",
+    "style": "unreal",
+    "reference": "objects-bank-03d80a-077b8a-0dd9c8-3-reference.png",
+    "size": "1536x1024",
+    "sourceId": "bank-03d80a-077b8a-0dd9c8",
+    "sheet": "objects-bank-03d80a-077b8a-0dd9c8-3"
+  },
+  {
+    "id": "objects-bank-03d80a-077b8a-0dd9c8-3-ghibli",
+    "kind": "object-sheet",
+    "style": "ghibli",
+    "reference": "objects-bank-03d80a-077b8a-0dd9c8-3-reference.png",
+    "size": "1536x1024",
+    "sourceId": "bank-03d80a-077b8a-0dd9c8",
+    "sheet": "objects-bank-03d80a-077b8a-0dd9c8-3"
+  },
+  {
+    "id": "objects-bank-03d80a-077b8a-0dd9c8-4-pixel-hd",
+    "kind": "object-sheet",
+    "style": "pixel-hd",
+    "reference": "objects-bank-03d80a-077b8a-0dd9c8-4-reference.png",
+    "size": "1536x1024",
+    "sourceId": "bank-03d80a-077b8a-0dd9c8",
+    "sheet": "objects-bank-03d80a-077b8a-0dd9c8-4"
+  },
+  {
+    "id": "objects-bank-03d80a-077b8a-0dd9c8-4-unreal",
+    "kind": "object-sheet",
+    "style": "unreal",
+    "reference": "objects-bank-03d80a-077b8a-0dd9c8-4-reference.png",
+    "size": "1536x1024",
+    "sourceId": "bank-03d80a-077b8a-0dd9c8",
+    "sheet": "objects-bank-03d80a-077b8a-0dd9c8-4"
+  },
+  {
+    "id": "objects-bank-03d80a-077b8a-0dd9c8-4-ghibli",
+    "kind": "object-sheet",
+    "style": "ghibli",
+    "reference": "objects-bank-03d80a-077b8a-0dd9c8-4-reference.png",
+    "size": "1536x1024",
+    "sourceId": "bank-03d80a-077b8a-0dd9c8",
+    "sheet": "objects-bank-03d80a-077b8a-0dd9c8-4"
+  },
+  {
+    "id": "objects-bank-03d80a-077b8a-0dd9c8-5-pixel-hd",
+    "kind": "object-sheet",
+    "style": "pixel-hd",
+    "reference": "objects-bank-03d80a-077b8a-0dd9c8-5-reference.png",
+    "size": "1536x1024",
+    "sourceId": "bank-03d80a-077b8a-0dd9c8",
+    "sheet": "objects-bank-03d80a-077b8a-0dd9c8-5"
+  },
+  {
+    "id": "objects-bank-03d80a-077b8a-0dd9c8-5-unreal",
+    "kind": "object-sheet",
+    "style": "unreal",
+    "reference": "objects-bank-03d80a-077b8a-0dd9c8-5-reference.png",
+    "size": "1536x1024",
+    "sourceId": "bank-03d80a-077b8a-0dd9c8",
+    "sheet": "objects-bank-03d80a-077b8a-0dd9c8-5"
+  },
+  {
+    "id": "objects-bank-03d80a-077b8a-0dd9c8-5-ghibli",
+    "kind": "object-sheet",
+    "style": "ghibli",
+    "reference": "objects-bank-03d80a-077b8a-0dd9c8-5-reference.png",
+    "size": "1536x1024",
+    "sourceId": "bank-03d80a-077b8a-0dd9c8",
+    "sheet": "objects-bank-03d80a-077b8a-0dd9c8-5"
+  },
+  {
+    "id": "objects-bank-03d80a-077b8a-0dd9c8-6-pixel-hd",
+    "kind": "object-sheet",
+    "style": "pixel-hd",
+    "reference": "objects-bank-03d80a-077b8a-0dd9c8-6-reference.png",
+    "size": "1536x1024",
+    "sourceId": "bank-03d80a-077b8a-0dd9c8",
+    "sheet": "objects-bank-03d80a-077b8a-0dd9c8-6"
+  },
+  {
+    "id": "objects-bank-03d80a-077b8a-0dd9c8-6-unreal",
+    "kind": "object-sheet",
+    "style": "unreal",
+    "reference": "objects-bank-03d80a-077b8a-0dd9c8-6-reference.png",
+    "size": "1536x1024",
+    "sourceId": "bank-03d80a-077b8a-0dd9c8",
+    "sheet": "objects-bank-03d80a-077b8a-0dd9c8-6"
+  },
+  {
+    "id": "objects-bank-03d80a-077b8a-0dd9c8-6-ghibli",
+    "kind": "object-sheet",
+    "style": "ghibli",
+    "reference": "objects-bank-03d80a-077b8a-0dd9c8-6-reference.png",
+    "size": "1536x1024",
+    "sourceId": "bank-03d80a-077b8a-0dd9c8",
+    "sheet": "objects-bank-03d80a-077b8a-0dd9c8-6"
+  },
+  {
+    "id": "objects-bank-03d80a-077b8a-0dd9c8-7-pixel-hd",
+    "kind": "object-sheet",
+    "style": "pixel-hd",
+    "reference": "objects-bank-03d80a-077b8a-0dd9c8-7-reference.png",
+    "size": "1536x1024",
+    "sourceId": "bank-03d80a-077b8a-0dd9c8",
+    "sheet": "objects-bank-03d80a-077b8a-0dd9c8-7"
+  },
+  {
+    "id": "objects-bank-03d80a-077b8a-0dd9c8-7-unreal",
+    "kind": "object-sheet",
+    "style": "unreal",
+    "reference": "objects-bank-03d80a-077b8a-0dd9c8-7-reference.png",
+    "size": "1536x1024",
+    "sourceId": "bank-03d80a-077b8a-0dd9c8",
+    "sheet": "objects-bank-03d80a-077b8a-0dd9c8-7"
+  },
+  {
+    "id": "objects-bank-03d80a-077b8a-0dd9c8-7-ghibli",
+    "kind": "object-sheet",
+    "style": "ghibli",
+    "reference": "objects-bank-03d80a-077b8a-0dd9c8-7-reference.png",
+    "size": "1536x1024",
+    "sourceId": "bank-03d80a-077b8a-0dd9c8",
+    "sheet": "objects-bank-03d80a-077b8a-0dd9c8-7"
+  },
+  {
+    "id": "objects-bank-03d80a-077b8a-0dd9c8-8-pixel-hd",
+    "kind": "object-sheet",
+    "style": "pixel-hd",
+    "reference": "objects-bank-03d80a-077b8a-0dd9c8-8-reference.png",
+    "size": "1536x1024",
+    "sourceId": "bank-03d80a-077b8a-0dd9c8",
+    "sheet": "objects-bank-03d80a-077b8a-0dd9c8-8"
+  },
+  {
+    "id": "objects-bank-03d80a-077b8a-0dd9c8-8-unreal",
+    "kind": "object-sheet",
+    "style": "unreal",
+    "reference": "objects-bank-03d80a-077b8a-0dd9c8-8-reference.png",
+    "size": "1536x1024",
+    "sourceId": "bank-03d80a-077b8a-0dd9c8",
+    "sheet": "objects-bank-03d80a-077b8a-0dd9c8-8"
+  },
+  {
+    "id": "objects-bank-03d80a-077b8a-0dd9c8-8-ghibli",
+    "kind": "object-sheet",
+    "style": "ghibli",
+    "reference": "objects-bank-03d80a-077b8a-0dd9c8-8-reference.png",
+    "size": "1536x1024",
+    "sourceId": "bank-03d80a-077b8a-0dd9c8",
+    "sheet": "objects-bank-03d80a-077b8a-0dd9c8-8"
+  },
+  {
+    "id": "objects-bank-03d80a-077b8a-0dd9c8-9-pixel-hd",
+    "kind": "object-sheet",
+    "style": "pixel-hd",
+    "reference": "objects-bank-03d80a-077b8a-0dd9c8-9-reference.png",
+    "size": "1536x1024",
+    "sourceId": "bank-03d80a-077b8a-0dd9c8",
+    "sheet": "objects-bank-03d80a-077b8a-0dd9c8-9"
+  },
+  {
+    "id": "objects-bank-03d80a-077b8a-0dd9c8-9-unreal",
+    "kind": "object-sheet",
+    "style": "unreal",
+    "reference": "objects-bank-03d80a-077b8a-0dd9c8-9-reference.png",
+    "size": "1536x1024",
+    "sourceId": "bank-03d80a-077b8a-0dd9c8",
+    "sheet": "objects-bank-03d80a-077b8a-0dd9c8-9"
+  },
+  {
+    "id": "objects-bank-03d80a-077b8a-0dd9c8-9-ghibli",
+    "kind": "object-sheet",
+    "style": "ghibli",
+    "reference": "objects-bank-03d80a-077b8a-0dd9c8-9-reference.png",
+    "size": "1536x1024",
+    "sourceId": "bank-03d80a-077b8a-0dd9c8",
+    "sheet": "objects-bank-03d80a-077b8a-0dd9c8-9"
+  },
+  {
+    "id": "objects-bank-037948-07852a-0dda08-1-pixel-hd",
+    "kind": "object-sheet",
+    "style": "pixel-hd",
+    "reference": "objects-bank-037948-07852a-0dda08-1-reference.png",
+    "size": "1536x1024",
+    "sourceId": "bank-037948-07852a-0dda08",
+    "sheet": "objects-bank-037948-07852a-0dda08-1"
+  },
+  {
+    "id": "objects-bank-037948-07852a-0dda08-1-unreal",
+    "kind": "object-sheet",
+    "style": "unreal",
+    "reference": "objects-bank-037948-07852a-0dda08-1-reference.png",
+    "size": "1536x1024",
+    "sourceId": "bank-037948-07852a-0dda08",
+    "sheet": "objects-bank-037948-07852a-0dda08-1"
+  },
+  {
+    "id": "objects-bank-037948-07852a-0dda08-1-ghibli",
+    "kind": "object-sheet",
+    "style": "ghibli",
+    "reference": "objects-bank-037948-07852a-0dda08-1-reference.png",
+    "size": "1536x1024",
+    "sourceId": "bank-037948-07852a-0dda08",
+    "sheet": "objects-bank-037948-07852a-0dda08-1"
+  },
+  {
+    "id": "objects-bank-037948-07852a-0dda08-2-pixel-hd",
+    "kind": "object-sheet",
+    "style": "pixel-hd",
+    "reference": "objects-bank-037948-07852a-0dda08-2-reference.png",
+    "size": "1536x1024",
+    "sourceId": "bank-037948-07852a-0dda08",
+    "sheet": "objects-bank-037948-07852a-0dda08-2"
+  },
+  {
+    "id": "objects-bank-037948-07852a-0dda08-2-unreal",
+    "kind": "object-sheet",
+    "style": "unreal",
+    "reference": "objects-bank-037948-07852a-0dda08-2-reference.png",
+    "size": "1536x1024",
+    "sourceId": "bank-037948-07852a-0dda08",
+    "sheet": "objects-bank-037948-07852a-0dda08-2"
+  },
+  {
+    "id": "objects-bank-037948-07852a-0dda08-2-ghibli",
+    "kind": "object-sheet",
+    "style": "ghibli",
+    "reference": "objects-bank-037948-07852a-0dda08-2-reference.png",
+    "size": "1536x1024",
+    "sourceId": "bank-037948-07852a-0dda08",
+    "sheet": "objects-bank-037948-07852a-0dda08-2"
+  },
+  {
+    "id": "objects-bank-037948-07852a-0dda08-3-pixel-hd",
+    "kind": "object-sheet",
+    "style": "pixel-hd",
+    "reference": "objects-bank-037948-07852a-0dda08-3-reference.png",
+    "size": "1536x1024",
+    "sourceId": "bank-037948-07852a-0dda08",
+    "sheet": "objects-bank-037948-07852a-0dda08-3"
+  },
+  {
+    "id": "objects-bank-037948-07852a-0dda08-3-unreal",
+    "kind": "object-sheet",
+    "style": "unreal",
+    "reference": "objects-bank-037948-07852a-0dda08-3-reference.png",
+    "size": "1536x1024",
+    "sourceId": "bank-037948-07852a-0dda08",
+    "sheet": "objects-bank-037948-07852a-0dda08-3"
+  },
+  {
+    "id": "objects-bank-037948-07852a-0dda08-3-ghibli",
+    "kind": "object-sheet",
+    "style": "ghibli",
+    "reference": "objects-bank-037948-07852a-0dda08-3-reference.png",
+    "size": "1536x1024",
+    "sourceId": "bank-037948-07852a-0dda08",
+    "sheet": "objects-bank-037948-07852a-0dda08-3"
+  },
+  {
+    "id": "objects-bank-037948-07852a-0dda08-4-pixel-hd",
+    "kind": "object-sheet",
+    "style": "pixel-hd",
+    "reference": "objects-bank-037948-07852a-0dda08-4-reference.png",
+    "size": "1536x1024",
+    "sourceId": "bank-037948-07852a-0dda08",
+    "sheet": "objects-bank-037948-07852a-0dda08-4"
+  },
+  {
+    "id": "objects-bank-037948-07852a-0dda08-4-unreal",
+    "kind": "object-sheet",
+    "style": "unreal",
+    "reference": "objects-bank-037948-07852a-0dda08-4-reference.png",
+    "size": "1536x1024",
+    "sourceId": "bank-037948-07852a-0dda08",
+    "sheet": "objects-bank-037948-07852a-0dda08-4"
+  },
+  {
+    "id": "objects-bank-037948-07852a-0dda08-4-ghibli",
+    "kind": "object-sheet",
+    "style": "ghibli",
+    "reference": "objects-bank-037948-07852a-0dda08-4-reference.png",
+    "size": "1536x1024",
+    "sourceId": "bank-037948-07852a-0dda08",
+    "sheet": "objects-bank-037948-07852a-0dda08-4"
+  },
+  {
+    "id": "objects-bank-037948-07852a-0dda08-5-pixel-hd",
+    "kind": "object-sheet",
+    "style": "pixel-hd",
+    "reference": "objects-bank-037948-07852a-0dda08-5-reference.png",
+    "size": "1536x1024",
+    "sourceId": "bank-037948-07852a-0dda08",
+    "sheet": "objects-bank-037948-07852a-0dda08-5"
+  },
+  {
+    "id": "objects-bank-037948-07852a-0dda08-5-unreal",
+    "kind": "object-sheet",
+    "style": "unreal",
+    "reference": "objects-bank-037948-07852a-0dda08-5-reference.png",
+    "size": "1536x1024",
+    "sourceId": "bank-037948-07852a-0dda08",
+    "sheet": "objects-bank-037948-07852a-0dda08-5"
+  },
+  {
+    "id": "objects-bank-037948-07852a-0dda08-5-ghibli",
+    "kind": "object-sheet",
+    "style": "ghibli",
+    "reference": "objects-bank-037948-07852a-0dda08-5-reference.png",
+    "size": "1536x1024",
+    "sourceId": "bank-037948-07852a-0dda08",
+    "sheet": "objects-bank-037948-07852a-0dda08-5"
+  },
+  {
+    "id": "objects-bank-037948-07852a-0dda08-6-pixel-hd",
+    "kind": "object-sheet",
+    "style": "pixel-hd",
+    "reference": "objects-bank-037948-07852a-0dda08-6-reference.png",
+    "size": "1536x1024",
+    "sourceId": "bank-037948-07852a-0dda08",
+    "sheet": "objects-bank-037948-07852a-0dda08-6"
+  },
+  {
+    "id": "objects-bank-037948-07852a-0dda08-6-unreal",
+    "kind": "object-sheet",
+    "style": "unreal",
+    "reference": "objects-bank-037948-07852a-0dda08-6-reference.png",
+    "size": "1536x1024",
+    "sourceId": "bank-037948-07852a-0dda08",
+    "sheet": "objects-bank-037948-07852a-0dda08-6"
+  },
+  {
+    "id": "objects-bank-037948-07852a-0dda08-6-ghibli",
+    "kind": "object-sheet",
+    "style": "ghibli",
+    "reference": "objects-bank-037948-07852a-0dda08-6-reference.png",
+    "size": "1536x1024",
+    "sourceId": "bank-037948-07852a-0dda08",
+    "sheet": "objects-bank-037948-07852a-0dda08-6"
+  },
+  {
+    "id": "objects-bank-037948-07852a-0dda08-7-pixel-hd",
+    "kind": "object-sheet",
+    "style": "pixel-hd",
+    "reference": "objects-bank-037948-07852a-0dda08-7-reference.png",
+    "size": "1536x1024",
+    "sourceId": "bank-037948-07852a-0dda08",
+    "sheet": "objects-bank-037948-07852a-0dda08-7"
+  },
+  {
+    "id": "objects-bank-037948-07852a-0dda08-7-unreal",
+    "kind": "object-sheet",
+    "style": "unreal",
+    "reference": "objects-bank-037948-07852a-0dda08-7-reference.png",
+    "size": "1536x1024",
+    "sourceId": "bank-037948-07852a-0dda08",
+    "sheet": "objects-bank-037948-07852a-0dda08-7"
+  },
+  {
+    "id": "objects-bank-037948-07852a-0dda08-7-ghibli",
+    "kind": "object-sheet",
+    "style": "ghibli",
+    "reference": "objects-bank-037948-07852a-0dda08-7-reference.png",
+    "size": "1536x1024",
+    "sourceId": "bank-037948-07852a-0dda08",
+    "sheet": "objects-bank-037948-07852a-0dda08-7"
+  },
+  {
+    "id": "objects-bank-0434ac-0799ea-0dda48-1-pixel-hd",
+    "kind": "object-sheet",
+    "style": "pixel-hd",
+    "reference": "objects-bank-0434ac-0799ea-0dda48-1-reference.png",
+    "size": "1536x1024",
+    "sourceId": "bank-0434ac-0799ea-0dda48",
+    "sheet": "objects-bank-0434ac-0799ea-0dda48-1"
+  },
+  {
+    "id": "objects-bank-0434ac-0799ea-0dda48-1-unreal",
+    "kind": "object-sheet",
+    "style": "unreal",
+    "reference": "objects-bank-0434ac-0799ea-0dda48-1-reference.png",
+    "size": "1536x1024",
+    "sourceId": "bank-0434ac-0799ea-0dda48",
+    "sheet": "objects-bank-0434ac-0799ea-0dda48-1"
+  },
+  {
+    "id": "objects-bank-0434ac-0799ea-0dda48-1-ghibli",
+    "kind": "object-sheet",
+    "style": "ghibli",
+    "reference": "objects-bank-0434ac-0799ea-0dda48-1-reference.png",
+    "size": "1536x1024",
+    "sourceId": "bank-0434ac-0799ea-0dda48",
+    "sheet": "objects-bank-0434ac-0799ea-0dda48-1"
+  },
+  {
+    "id": "objects-bank-0434ac-0799ea-0dda48-2-pixel-hd",
+    "kind": "object-sheet",
+    "style": "pixel-hd",
+    "reference": "objects-bank-0434ac-0799ea-0dda48-2-reference.png",
+    "size": "1536x1024",
+    "sourceId": "bank-0434ac-0799ea-0dda48",
+    "sheet": "objects-bank-0434ac-0799ea-0dda48-2"
+  },
+  {
+    "id": "objects-bank-0434ac-0799ea-0dda48-2-unreal",
+    "kind": "object-sheet",
+    "style": "unreal",
+    "reference": "objects-bank-0434ac-0799ea-0dda48-2-reference.png",
+    "size": "1536x1024",
+    "sourceId": "bank-0434ac-0799ea-0dda48",
+    "sheet": "objects-bank-0434ac-0799ea-0dda48-2"
+  },
+  {
+    "id": "objects-bank-0434ac-0799ea-0dda48-2-ghibli",
+    "kind": "object-sheet",
+    "style": "ghibli",
+    "reference": "objects-bank-0434ac-0799ea-0dda48-2-reference.png",
+    "size": "1536x1024",
+    "sourceId": "bank-0434ac-0799ea-0dda48",
+    "sheet": "objects-bank-0434ac-0799ea-0dda48-2"
+  },
+  {
+    "id": "objects-bank-0434ac-0799ea-0dda48-3-pixel-hd",
+    "kind": "object-sheet",
+    "style": "pixel-hd",
+    "reference": "objects-bank-0434ac-0799ea-0dda48-3-reference.png",
+    "size": "1536x1024",
+    "sourceId": "bank-0434ac-0799ea-0dda48",
+    "sheet": "objects-bank-0434ac-0799ea-0dda48-3"
+  },
+  {
+    "id": "objects-bank-0434ac-0799ea-0dda48-3-unreal",
+    "kind": "object-sheet",
+    "style": "unreal",
+    "reference": "objects-bank-0434ac-0799ea-0dda48-3-reference.png",
+    "size": "1536x1024",
+    "sourceId": "bank-0434ac-0799ea-0dda48",
+    "sheet": "objects-bank-0434ac-0799ea-0dda48-3"
+  },
+  {
+    "id": "objects-bank-0434ac-0799ea-0dda48-3-ghibli",
+    "kind": "object-sheet",
+    "style": "ghibli",
+    "reference": "objects-bank-0434ac-0799ea-0dda48-3-reference.png",
+    "size": "1536x1024",
+    "sourceId": "bank-0434ac-0799ea-0dda48",
+    "sheet": "objects-bank-0434ac-0799ea-0dda48-3"
+  },
+  {
+    "id": "objects-bank-0434ac-0799ea-0dda48-4-pixel-hd",
+    "kind": "object-sheet",
+    "style": "pixel-hd",
+    "reference": "objects-bank-0434ac-0799ea-0dda48-4-reference.png",
+    "size": "1536x1024",
+    "sourceId": "bank-0434ac-0799ea-0dda48",
+    "sheet": "objects-bank-0434ac-0799ea-0dda48-4"
+  },
+  {
+    "id": "objects-bank-0434ac-0799ea-0dda48-4-unreal",
+    "kind": "object-sheet",
+    "style": "unreal",
+    "reference": "objects-bank-0434ac-0799ea-0dda48-4-reference.png",
+    "size": "1536x1024",
+    "sourceId": "bank-0434ac-0799ea-0dda48",
+    "sheet": "objects-bank-0434ac-0799ea-0dda48-4"
+  },
+  {
+    "id": "objects-bank-0434ac-0799ea-0dda48-4-ghibli",
+    "kind": "object-sheet",
+    "style": "ghibli",
+    "reference": "objects-bank-0434ac-0799ea-0dda48-4-reference.png",
+    "size": "1536x1024",
+    "sourceId": "bank-0434ac-0799ea-0dda48",
+    "sheet": "objects-bank-0434ac-0799ea-0dda48-4"
+  },
+  {
+    "id": "objects-bank-0434ac-0799ea-0dda48-5-pixel-hd",
+    "kind": "object-sheet",
+    "style": "pixel-hd",
+    "reference": "objects-bank-0434ac-0799ea-0dda48-5-reference.png",
+    "size": "1536x1024",
+    "sourceId": "bank-0434ac-0799ea-0dda48",
+    "sheet": "objects-bank-0434ac-0799ea-0dda48-5"
+  },
+  {
+    "id": "objects-bank-0434ac-0799ea-0dda48-5-unreal",
+    "kind": "object-sheet",
+    "style": "unreal",
+    "reference": "objects-bank-0434ac-0799ea-0dda48-5-reference.png",
+    "size": "1536x1024",
+    "sourceId": "bank-0434ac-0799ea-0dda48",
+    "sheet": "objects-bank-0434ac-0799ea-0dda48-5"
+  },
+  {
+    "id": "objects-bank-0434ac-0799ea-0dda48-5-ghibli",
+    "kind": "object-sheet",
+    "style": "ghibli",
+    "reference": "objects-bank-0434ac-0799ea-0dda48-5-reference.png",
+    "size": "1536x1024",
+    "sourceId": "bank-0434ac-0799ea-0dda48",
+    "sheet": "objects-bank-0434ac-0799ea-0dda48-5"
+  },
+  {
+    "id": "objects-bank-0434ac-0799ea-0dda48-6-pixel-hd",
+    "kind": "object-sheet",
+    "style": "pixel-hd",
+    "reference": "objects-bank-0434ac-0799ea-0dda48-6-reference.png",
+    "size": "1536x1024",
+    "sourceId": "bank-0434ac-0799ea-0dda48",
+    "sheet": "objects-bank-0434ac-0799ea-0dda48-6"
+  },
+  {
+    "id": "objects-bank-0434ac-0799ea-0dda48-6-unreal",
+    "kind": "object-sheet",
+    "style": "unreal",
+    "reference": "objects-bank-0434ac-0799ea-0dda48-6-reference.png",
+    "size": "1536x1024",
+    "sourceId": "bank-0434ac-0799ea-0dda48",
+    "sheet": "objects-bank-0434ac-0799ea-0dda48-6"
+  },
+  {
+    "id": "objects-bank-0434ac-0799ea-0dda48-6-ghibli",
+    "kind": "object-sheet",
+    "style": "ghibli",
+    "reference": "objects-bank-0434ac-0799ea-0dda48-6-reference.png",
+    "size": "1536x1024",
+    "sourceId": "bank-0434ac-0799ea-0dda48",
+    "sheet": "objects-bank-0434ac-0799ea-0dda48-6"
+  },
+  {
+    "id": "objects-bank-0471ae-079eea-0dda88-1-pixel-hd",
+    "kind": "object-sheet",
+    "style": "pixel-hd",
+    "reference": "objects-bank-0471ae-079eea-0dda88-1-reference.png",
+    "size": "1536x1024",
+    "sourceId": "bank-0471ae-079eea-0dda88",
+    "sheet": "objects-bank-0471ae-079eea-0dda88-1"
+  },
+  {
+    "id": "objects-bank-0471ae-079eea-0dda88-1-unreal",
+    "kind": "object-sheet",
+    "style": "unreal",
+    "reference": "objects-bank-0471ae-079eea-0dda88-1-reference.png",
+    "size": "1536x1024",
+    "sourceId": "bank-0471ae-079eea-0dda88",
+    "sheet": "objects-bank-0471ae-079eea-0dda88-1"
+  },
+  {
+    "id": "objects-bank-0471ae-079eea-0dda88-1-ghibli",
+    "kind": "object-sheet",
+    "style": "ghibli",
+    "reference": "objects-bank-0471ae-079eea-0dda88-1-reference.png",
+    "size": "1536x1024",
+    "sourceId": "bank-0471ae-079eea-0dda88",
+    "sheet": "objects-bank-0471ae-079eea-0dda88-1"
+  },
+  {
+    "id": "objects-bank-0471ae-079eea-0dda88-2-pixel-hd",
+    "kind": "object-sheet",
+    "style": "pixel-hd",
+    "reference": "objects-bank-0471ae-079eea-0dda88-2-reference.png",
+    "size": "1536x1024",
+    "sourceId": "bank-0471ae-079eea-0dda88",
+    "sheet": "objects-bank-0471ae-079eea-0dda88-2"
+  },
+  {
+    "id": "objects-bank-0471ae-079eea-0dda88-2-unreal",
+    "kind": "object-sheet",
+    "style": "unreal",
+    "reference": "objects-bank-0471ae-079eea-0dda88-2-reference.png",
+    "size": "1536x1024",
+    "sourceId": "bank-0471ae-079eea-0dda88",
+    "sheet": "objects-bank-0471ae-079eea-0dda88-2"
+  },
+  {
+    "id": "objects-bank-0471ae-079eea-0dda88-2-ghibli",
+    "kind": "object-sheet",
+    "style": "ghibli",
+    "reference": "objects-bank-0471ae-079eea-0dda88-2-reference.png",
+    "size": "1536x1024",
+    "sourceId": "bank-0471ae-079eea-0dda88",
+    "sheet": "objects-bank-0471ae-079eea-0dda88-2"
+  },
+  {
+    "id": "objects-bank-0471ae-079eea-0dda88-3-pixel-hd",
+    "kind": "object-sheet",
+    "style": "pixel-hd",
+    "reference": "objects-bank-0471ae-079eea-0dda88-3-reference.png",
+    "size": "1536x1024",
+    "sourceId": "bank-0471ae-079eea-0dda88",
+    "sheet": "objects-bank-0471ae-079eea-0dda88-3"
+  },
+  {
+    "id": "objects-bank-0471ae-079eea-0dda88-3-unreal",
+    "kind": "object-sheet",
+    "style": "unreal",
+    "reference": "objects-bank-0471ae-079eea-0dda88-3-reference.png",
+    "size": "1536x1024",
+    "sourceId": "bank-0471ae-079eea-0dda88",
+    "sheet": "objects-bank-0471ae-079eea-0dda88-3"
+  },
+  {
+    "id": "objects-bank-0471ae-079eea-0dda88-3-ghibli",
+    "kind": "object-sheet",
+    "style": "ghibli",
+    "reference": "objects-bank-0471ae-079eea-0dda88-3-reference.png",
+    "size": "1536x1024",
+    "sourceId": "bank-0471ae-079eea-0dda88",
+    "sheet": "objects-bank-0471ae-079eea-0dda88-3"
+  },
+  {
+    "id": "objects-bank-0471ae-079eea-0dda88-4-pixel-hd",
+    "kind": "object-sheet",
+    "style": "pixel-hd",
+    "reference": "objects-bank-0471ae-079eea-0dda88-4-reference.png",
+    "size": "1536x1024",
+    "sourceId": "bank-0471ae-079eea-0dda88",
+    "sheet": "objects-bank-0471ae-079eea-0dda88-4"
+  },
+  {
+    "id": "objects-bank-0471ae-079eea-0dda88-4-unreal",
+    "kind": "object-sheet",
+    "style": "unreal",
+    "reference": "objects-bank-0471ae-079eea-0dda88-4-reference.png",
+    "size": "1536x1024",
+    "sourceId": "bank-0471ae-079eea-0dda88",
+    "sheet": "objects-bank-0471ae-079eea-0dda88-4"
+  },
+  {
+    "id": "objects-bank-0471ae-079eea-0dda88-4-ghibli",
+    "kind": "object-sheet",
+    "style": "ghibli",
+    "reference": "objects-bank-0471ae-079eea-0dda88-4-reference.png",
+    "size": "1536x1024",
+    "sourceId": "bank-0471ae-079eea-0dda88",
+    "sheet": "objects-bank-0471ae-079eea-0dda88-4"
+  },
+  {
+    "id": "objects-bank-032386-0772aa-0ddac8-1-pixel-hd",
+    "kind": "object-sheet",
+    "style": "pixel-hd",
+    "reference": "objects-bank-032386-0772aa-0ddac8-1-reference.png",
+    "size": "1536x1024",
+    "sourceId": "bank-032386-0772aa-0ddac8",
+    "sheet": "objects-bank-032386-0772aa-0ddac8-1"
+  },
+  {
+    "id": "objects-bank-032386-0772aa-0ddac8-1-unreal",
+    "kind": "object-sheet",
+    "style": "unreal",
+    "reference": "objects-bank-032386-0772aa-0ddac8-1-reference.png",
+    "size": "1536x1024",
+    "sourceId": "bank-032386-0772aa-0ddac8",
+    "sheet": "objects-bank-032386-0772aa-0ddac8-1"
+  },
+  {
+    "id": "objects-bank-032386-0772aa-0ddac8-1-ghibli",
+    "kind": "object-sheet",
+    "style": "ghibli",
+    "reference": "objects-bank-032386-0772aa-0ddac8-1-reference.png",
+    "size": "1536x1024",
+    "sourceId": "bank-032386-0772aa-0ddac8",
+    "sheet": "objects-bank-032386-0772aa-0ddac8-1"
+  },
+  {
+    "id": "objects-bank-032386-0772aa-0ddac8-2-pixel-hd",
+    "kind": "object-sheet",
+    "style": "pixel-hd",
+    "reference": "objects-bank-032386-0772aa-0ddac8-2-reference.png",
+    "size": "1536x1024",
+    "sourceId": "bank-032386-0772aa-0ddac8",
+    "sheet": "objects-bank-032386-0772aa-0ddac8-2"
+  },
+  {
+    "id": "objects-bank-032386-0772aa-0ddac8-2-unreal",
+    "kind": "object-sheet",
+    "style": "unreal",
+    "reference": "objects-bank-032386-0772aa-0ddac8-2-reference.png",
+    "size": "1536x1024",
+    "sourceId": "bank-032386-0772aa-0ddac8",
+    "sheet": "objects-bank-032386-0772aa-0ddac8-2"
+  },
+  {
+    "id": "objects-bank-032386-0772aa-0ddac8-2-ghibli",
+    "kind": "object-sheet",
+    "style": "ghibli",
+    "reference": "objects-bank-032386-0772aa-0ddac8-2-reference.png",
+    "size": "1536x1024",
+    "sourceId": "bank-032386-0772aa-0ddac8",
+    "sheet": "objects-bank-032386-0772aa-0ddac8-2"
+  },
+  {
+    "id": "objects-bank-032386-0772aa-0ddac8-3-pixel-hd",
+    "kind": "object-sheet",
+    "style": "pixel-hd",
+    "reference": "objects-bank-032386-0772aa-0ddac8-3-reference.png",
+    "size": "1536x1024",
+    "sourceId": "bank-032386-0772aa-0ddac8",
+    "sheet": "objects-bank-032386-0772aa-0ddac8-3"
+  },
+  {
+    "id": "objects-bank-032386-0772aa-0ddac8-3-unreal",
+    "kind": "object-sheet",
+    "style": "unreal",
+    "reference": "objects-bank-032386-0772aa-0ddac8-3-reference.png",
+    "size": "1536x1024",
+    "sourceId": "bank-032386-0772aa-0ddac8",
+    "sheet": "objects-bank-032386-0772aa-0ddac8-3"
+  },
+  {
+    "id": "objects-bank-032386-0772aa-0ddac8-3-ghibli",
+    "kind": "object-sheet",
+    "style": "ghibli",
+    "reference": "objects-bank-032386-0772aa-0ddac8-3-reference.png",
+    "size": "1536x1024",
+    "sourceId": "bank-032386-0772aa-0ddac8",
+    "sheet": "objects-bank-032386-0772aa-0ddac8-3"
+  },
+  {
+    "id": "objects-bank-037948-07852a-0ddb08-1-pixel-hd",
+    "kind": "object-sheet",
+    "style": "pixel-hd",
+    "reference": "objects-bank-037948-07852a-0ddb08-1-reference.png",
+    "size": "1536x1024",
+    "sourceId": "bank-037948-07852a-0ddb08",
+    "sheet": "objects-bank-037948-07852a-0ddb08-1"
+  },
+  {
+    "id": "objects-bank-037948-07852a-0ddb08-1-unreal",
+    "kind": "object-sheet",
+    "style": "unreal",
+    "reference": "objects-bank-037948-07852a-0ddb08-1-reference.png",
+    "size": "1536x1024",
+    "sourceId": "bank-037948-07852a-0ddb08",
+    "sheet": "objects-bank-037948-07852a-0ddb08-1"
+  },
+  {
+    "id": "objects-bank-037948-07852a-0ddb08-1-ghibli",
+    "kind": "object-sheet",
+    "style": "ghibli",
+    "reference": "objects-bank-037948-07852a-0ddb08-1-reference.png",
+    "size": "1536x1024",
+    "sourceId": "bank-037948-07852a-0ddb08",
+    "sheet": "objects-bank-037948-07852a-0ddb08-1"
+  },
+  {
+    "id": "objects-bank-037948-07852a-0ddb08-2-pixel-hd",
+    "kind": "object-sheet",
+    "style": "pixel-hd",
+    "reference": "objects-bank-037948-07852a-0ddb08-2-reference.png",
+    "size": "1536x1024",
+    "sourceId": "bank-037948-07852a-0ddb08",
+    "sheet": "objects-bank-037948-07852a-0ddb08-2"
+  },
+  {
+    "id": "objects-bank-037948-07852a-0ddb08-2-unreal",
+    "kind": "object-sheet",
+    "style": "unreal",
+    "reference": "objects-bank-037948-07852a-0ddb08-2-reference.png",
+    "size": "1536x1024",
+    "sourceId": "bank-037948-07852a-0ddb08",
+    "sheet": "objects-bank-037948-07852a-0ddb08-2"
+  },
+  {
+    "id": "objects-bank-037948-07852a-0ddb08-2-ghibli",
+    "kind": "object-sheet",
+    "style": "ghibli",
+    "reference": "objects-bank-037948-07852a-0ddb08-2-reference.png",
+    "size": "1536x1024",
+    "sourceId": "bank-037948-07852a-0ddb08",
+    "sheet": "objects-bank-037948-07852a-0ddb08-2"
+  },
+  {
+    "id": "objects-bank-037948-07852a-0ddb08-3-pixel-hd",
+    "kind": "object-sheet",
+    "style": "pixel-hd",
+    "reference": "objects-bank-037948-07852a-0ddb08-3-reference.png",
+    "size": "1536x1024",
+    "sourceId": "bank-037948-07852a-0ddb08",
+    "sheet": "objects-bank-037948-07852a-0ddb08-3"
+  },
+  {
+    "id": "objects-bank-037948-07852a-0ddb08-3-unreal",
+    "kind": "object-sheet",
+    "style": "unreal",
+    "reference": "objects-bank-037948-07852a-0ddb08-3-reference.png",
+    "size": "1536x1024",
+    "sourceId": "bank-037948-07852a-0ddb08",
+    "sheet": "objects-bank-037948-07852a-0ddb08-3"
+  },
+  {
+    "id": "objects-bank-037948-07852a-0ddb08-3-ghibli",
+    "kind": "object-sheet",
+    "style": "ghibli",
+    "reference": "objects-bank-037948-07852a-0ddb08-3-reference.png",
+    "size": "1536x1024",
+    "sourceId": "bank-037948-07852a-0ddb08",
+    "sheet": "objects-bank-037948-07852a-0ddb08-3"
+  },
+  {
+    "id": "objects-bank-04b710-07a56a-0ddb48-1-pixel-hd",
+    "kind": "object-sheet",
+    "style": "pixel-hd",
+    "reference": "objects-bank-04b710-07a56a-0ddb48-1-reference.png",
+    "size": "1536x1024",
+    "sourceId": "bank-04b710-07a56a-0ddb48",
+    "sheet": "objects-bank-04b710-07a56a-0ddb48-1"
+  },
+  {
+    "id": "objects-bank-04b710-07a56a-0ddb48-1-unreal",
+    "kind": "object-sheet",
+    "style": "unreal",
+    "reference": "objects-bank-04b710-07a56a-0ddb48-1-reference.png",
+    "size": "1536x1024",
+    "sourceId": "bank-04b710-07a56a-0ddb48",
+    "sheet": "objects-bank-04b710-07a56a-0ddb48-1"
+  },
+  {
+    "id": "objects-bank-04b710-07a56a-0ddb48-1-ghibli",
+    "kind": "object-sheet",
+    "style": "ghibli",
+    "reference": "objects-bank-04b710-07a56a-0ddb48-1-reference.png",
+    "size": "1536x1024",
+    "sourceId": "bank-04b710-07a56a-0ddb48",
+    "sheet": "objects-bank-04b710-07a56a-0ddb48-1"
+  },
+  {
+    "id": "objects-bank-04b710-07a56a-0ddb48-2-pixel-hd",
+    "kind": "object-sheet",
+    "style": "pixel-hd",
+    "reference": "objects-bank-04b710-07a56a-0ddb48-2-reference.png",
+    "size": "1536x1024",
+    "sourceId": "bank-04b710-07a56a-0ddb48",
+    "sheet": "objects-bank-04b710-07a56a-0ddb48-2"
+  },
+  {
+    "id": "objects-bank-04b710-07a56a-0ddb48-2-unreal",
+    "kind": "object-sheet",
+    "style": "unreal",
+    "reference": "objects-bank-04b710-07a56a-0ddb48-2-reference.png",
+    "size": "1536x1024",
+    "sourceId": "bank-04b710-07a56a-0ddb48",
+    "sheet": "objects-bank-04b710-07a56a-0ddb48-2"
+  },
+  {
+    "id": "objects-bank-04b710-07a56a-0ddb48-2-ghibli",
+    "kind": "object-sheet",
+    "style": "ghibli",
+    "reference": "objects-bank-04b710-07a56a-0ddb48-2-reference.png",
+    "size": "1536x1024",
+    "sourceId": "bank-04b710-07a56a-0ddb48",
+    "sheet": "objects-bank-04b710-07a56a-0ddb48-2"
+  },
+  {
+    "id": "objects-bank-04b710-07a56a-0ddb48-3-pixel-hd",
+    "kind": "object-sheet",
+    "style": "pixel-hd",
+    "reference": "objects-bank-04b710-07a56a-0ddb48-3-reference.png",
+    "size": "1536x1024",
+    "sourceId": "bank-04b710-07a56a-0ddb48",
+    "sheet": "objects-bank-04b710-07a56a-0ddb48-3"
+  },
+  {
+    "id": "objects-bank-04b710-07a56a-0ddb48-3-unreal",
+    "kind": "object-sheet",
+    "style": "unreal",
+    "reference": "objects-bank-04b710-07a56a-0ddb48-3-reference.png",
+    "size": "1536x1024",
+    "sourceId": "bank-04b710-07a56a-0ddb48",
+    "sheet": "objects-bank-04b710-07a56a-0ddb48-3"
+  },
+  {
+    "id": "objects-bank-04b710-07a56a-0ddb48-3-ghibli",
+    "kind": "object-sheet",
+    "style": "ghibli",
+    "reference": "objects-bank-04b710-07a56a-0ddb48-3-reference.png",
+    "size": "1536x1024",
+    "sourceId": "bank-04b710-07a56a-0ddb48",
+    "sheet": "objects-bank-04b710-07a56a-0ddb48-3"
+  },
+  {
+    "id": "objects-bank-04b710-07a56a-0ddb48-4-pixel-hd",
+    "kind": "object-sheet",
+    "style": "pixel-hd",
+    "reference": "objects-bank-04b710-07a56a-0ddb48-4-reference.png",
+    "size": "1536x1024",
+    "sourceId": "bank-04b710-07a56a-0ddb48",
+    "sheet": "objects-bank-04b710-07a56a-0ddb48-4"
+  },
+  {
+    "id": "objects-bank-04b710-07a56a-0ddb48-4-unreal",
+    "kind": "object-sheet",
+    "style": "unreal",
+    "reference": "objects-bank-04b710-07a56a-0ddb48-4-reference.png",
+    "size": "1536x1024",
+    "sourceId": "bank-04b710-07a56a-0ddb48",
+    "sheet": "objects-bank-04b710-07a56a-0ddb48-4"
+  },
+  {
+    "id": "objects-bank-04b710-07a56a-0ddb48-4-ghibli",
+    "kind": "object-sheet",
+    "style": "ghibli",
+    "reference": "objects-bank-04b710-07a56a-0ddb48-4-reference.png",
+    "size": "1536x1024",
+    "sourceId": "bank-04b710-07a56a-0ddb48",
+    "sheet": "objects-bank-04b710-07a56a-0ddb48-4"
+  },
+  {
+    "id": "objects-bank-04ed72-07afaa-0ddb88-1-pixel-hd",
+    "kind": "object-sheet",
+    "style": "pixel-hd",
+    "reference": "objects-bank-04ed72-07afaa-0ddb88-1-reference.png",
+    "size": "1536x1024",
+    "sourceId": "bank-04ed72-07afaa-0ddb88",
+    "sheet": "objects-bank-04ed72-07afaa-0ddb88-1"
+  },
+  {
+    "id": "objects-bank-04ed72-07afaa-0ddb88-1-unreal",
+    "kind": "object-sheet",
+    "style": "unreal",
+    "reference": "objects-bank-04ed72-07afaa-0ddb88-1-reference.png",
+    "size": "1536x1024",
+    "sourceId": "bank-04ed72-07afaa-0ddb88",
+    "sheet": "objects-bank-04ed72-07afaa-0ddb88-1"
+  },
+  {
+    "id": "objects-bank-04ed72-07afaa-0ddb88-1-ghibli",
+    "kind": "object-sheet",
+    "style": "ghibli",
+    "reference": "objects-bank-04ed72-07afaa-0ddb88-1-reference.png",
+    "size": "1536x1024",
+    "sourceId": "bank-04ed72-07afaa-0ddb88",
+    "sheet": "objects-bank-04ed72-07afaa-0ddb88-1"
+  },
+  {
+    "id": "objects-bank-04ed72-07afaa-0ddb88-2-pixel-hd",
+    "kind": "object-sheet",
+    "style": "pixel-hd",
+    "reference": "objects-bank-04ed72-07afaa-0ddb88-2-reference.png",
+    "size": "1536x1024",
+    "sourceId": "bank-04ed72-07afaa-0ddb88",
+    "sheet": "objects-bank-04ed72-07afaa-0ddb88-2"
+  },
+  {
+    "id": "objects-bank-04ed72-07afaa-0ddb88-2-unreal",
+    "kind": "object-sheet",
+    "style": "unreal",
+    "reference": "objects-bank-04ed72-07afaa-0ddb88-2-reference.png",
+    "size": "1536x1024",
+    "sourceId": "bank-04ed72-07afaa-0ddb88",
+    "sheet": "objects-bank-04ed72-07afaa-0ddb88-2"
+  },
+  {
+    "id": "objects-bank-04ed72-07afaa-0ddb88-2-ghibli",
+    "kind": "object-sheet",
+    "style": "ghibli",
+    "reference": "objects-bank-04ed72-07afaa-0ddb88-2-reference.png",
+    "size": "1536x1024",
+    "sourceId": "bank-04ed72-07afaa-0ddb88",
+    "sheet": "objects-bank-04ed72-07afaa-0ddb88-2"
+  },
+  {
+    "id": "objects-bank-04ed72-07afaa-0ddb88-3-pixel-hd",
+    "kind": "object-sheet",
+    "style": "pixel-hd",
+    "reference": "objects-bank-04ed72-07afaa-0ddb88-3-reference.png",
+    "size": "1536x1024",
+    "sourceId": "bank-04ed72-07afaa-0ddb88",
+    "sheet": "objects-bank-04ed72-07afaa-0ddb88-3"
+  },
+  {
+    "id": "objects-bank-04ed72-07afaa-0ddb88-3-unreal",
+    "kind": "object-sheet",
+    "style": "unreal",
+    "reference": "objects-bank-04ed72-07afaa-0ddb88-3-reference.png",
+    "size": "1536x1024",
+    "sourceId": "bank-04ed72-07afaa-0ddb88",
+    "sheet": "objects-bank-04ed72-07afaa-0ddb88-3"
+  },
+  {
+    "id": "objects-bank-04ed72-07afaa-0ddb88-3-ghibli",
+    "kind": "object-sheet",
+    "style": "ghibli",
+    "reference": "objects-bank-04ed72-07afaa-0ddb88-3-reference.png",
+    "size": "1536x1024",
+    "sourceId": "bank-04ed72-07afaa-0ddb88",
+    "sheet": "objects-bank-04ed72-07afaa-0ddb88-3"
+  },
+  {
+    "id": "objects-bank-04ed72-07afaa-0ddb88-4-pixel-hd",
+    "kind": "object-sheet",
+    "style": "pixel-hd",
+    "reference": "objects-bank-04ed72-07afaa-0ddb88-4-reference.png",
+    "size": "1536x1024",
+    "sourceId": "bank-04ed72-07afaa-0ddb88",
+    "sheet": "objects-bank-04ed72-07afaa-0ddb88-4"
+  },
+  {
+    "id": "objects-bank-04ed72-07afaa-0ddb88-4-unreal",
+    "kind": "object-sheet",
+    "style": "unreal",
+    "reference": "objects-bank-04ed72-07afaa-0ddb88-4-reference.png",
+    "size": "1536x1024",
+    "sourceId": "bank-04ed72-07afaa-0ddb88",
+    "sheet": "objects-bank-04ed72-07afaa-0ddb88-4"
+  },
+  {
+    "id": "objects-bank-04ed72-07afaa-0ddb88-4-ghibli",
+    "kind": "object-sheet",
+    "style": "ghibli",
+    "reference": "objects-bank-04ed72-07afaa-0ddb88-4-reference.png",
+    "size": "1536x1024",
+    "sourceId": "bank-04ed72-07afaa-0ddb88",
+    "sheet": "objects-bank-04ed72-07afaa-0ddb88-4"
+  },
+  {
+    "id": "objects-bank-04ed72-07afaa-0ddb88-5-pixel-hd",
+    "kind": "object-sheet",
+    "style": "pixel-hd",
+    "reference": "objects-bank-04ed72-07afaa-0ddb88-5-reference.png",
+    "size": "1536x1024",
+    "sourceId": "bank-04ed72-07afaa-0ddb88",
+    "sheet": "objects-bank-04ed72-07afaa-0ddb88-5"
+  },
+  {
+    "id": "objects-bank-04ed72-07afaa-0ddb88-5-unreal",
+    "kind": "object-sheet",
+    "style": "unreal",
+    "reference": "objects-bank-04ed72-07afaa-0ddb88-5-reference.png",
+    "size": "1536x1024",
+    "sourceId": "bank-04ed72-07afaa-0ddb88",
+    "sheet": "objects-bank-04ed72-07afaa-0ddb88-5"
+  },
+  {
+    "id": "objects-bank-04ed72-07afaa-0ddb88-5-ghibli",
+    "kind": "object-sheet",
+    "style": "ghibli",
+    "reference": "objects-bank-04ed72-07afaa-0ddb88-5-reference.png",
+    "size": "1536x1024",
+    "sourceId": "bank-04ed72-07afaa-0ddb88",
+    "sheet": "objects-bank-04ed72-07afaa-0ddb88-5"
+  },
+  {
+    "id": "objects-bank-04ed72-07afaa-0ddb88-6-pixel-hd",
+    "kind": "object-sheet",
+    "style": "pixel-hd",
+    "reference": "objects-bank-04ed72-07afaa-0ddb88-6-reference.png",
+    "size": "1536x1024",
+    "sourceId": "bank-04ed72-07afaa-0ddb88",
+    "sheet": "objects-bank-04ed72-07afaa-0ddb88-6"
+  },
+  {
+    "id": "objects-bank-04ed72-07afaa-0ddb88-6-unreal",
+    "kind": "object-sheet",
+    "style": "unreal",
+    "reference": "objects-bank-04ed72-07afaa-0ddb88-6-reference.png",
+    "size": "1536x1024",
+    "sourceId": "bank-04ed72-07afaa-0ddb88",
+    "sheet": "objects-bank-04ed72-07afaa-0ddb88-6"
+  },
+  {
+    "id": "objects-bank-04ed72-07afaa-0ddb88-6-ghibli",
+    "kind": "object-sheet",
+    "style": "ghibli",
+    "reference": "objects-bank-04ed72-07afaa-0ddb88-6-reference.png",
+    "size": "1536x1024",
+    "sourceId": "bank-04ed72-07afaa-0ddb88",
+    "sheet": "objects-bank-04ed72-07afaa-0ddb88-6"
+  },
+  {
+    "id": "objects-bank-0471ae-079eea-0ddbc8-1-pixel-hd",
+    "kind": "object-sheet",
+    "style": "pixel-hd",
+    "reference": "objects-bank-0471ae-079eea-0ddbc8-1-reference.png",
+    "size": "1536x1024",
+    "sourceId": "bank-0471ae-079eea-0ddbc8",
+    "sheet": "objects-bank-0471ae-079eea-0ddbc8-1"
+  },
+  {
+    "id": "objects-bank-0471ae-079eea-0ddbc8-1-unreal",
+    "kind": "object-sheet",
+    "style": "unreal",
+    "reference": "objects-bank-0471ae-079eea-0ddbc8-1-reference.png",
+    "size": "1536x1024",
+    "sourceId": "bank-0471ae-079eea-0ddbc8",
+    "sheet": "objects-bank-0471ae-079eea-0ddbc8-1"
+  },
+  {
+    "id": "objects-bank-0471ae-079eea-0ddbc8-1-ghibli",
+    "kind": "object-sheet",
+    "style": "ghibli",
+    "reference": "objects-bank-0471ae-079eea-0ddbc8-1-reference.png",
+    "size": "1536x1024",
+    "sourceId": "bank-0471ae-079eea-0ddbc8",
+    "sheet": "objects-bank-0471ae-079eea-0ddbc8-1"
+  },
+  {
+    "id": "objects-bank-0471ae-079eea-0ddbc8-2-pixel-hd",
+    "kind": "object-sheet",
+    "style": "pixel-hd",
+    "reference": "objects-bank-0471ae-079eea-0ddbc8-2-reference.png",
+    "size": "1536x1024",
+    "sourceId": "bank-0471ae-079eea-0ddbc8",
+    "sheet": "objects-bank-0471ae-079eea-0ddbc8-2"
+  },
+  {
+    "id": "objects-bank-0471ae-079eea-0ddbc8-2-unreal",
+    "kind": "object-sheet",
+    "style": "unreal",
+    "reference": "objects-bank-0471ae-079eea-0ddbc8-2-reference.png",
+    "size": "1536x1024",
+    "sourceId": "bank-0471ae-079eea-0ddbc8",
+    "sheet": "objects-bank-0471ae-079eea-0ddbc8-2"
+  },
+  {
+    "id": "objects-bank-0471ae-079eea-0ddbc8-2-ghibli",
+    "kind": "object-sheet",
+    "style": "ghibli",
+    "reference": "objects-bank-0471ae-079eea-0ddbc8-2-reference.png",
+    "size": "1536x1024",
+    "sourceId": "bank-0471ae-079eea-0ddbc8",
+    "sheet": "objects-bank-0471ae-079eea-0ddbc8-2"
+  },
+  {
+    "id": "objects-bank-0471ae-079eea-0ddbc8-3-pixel-hd",
+    "kind": "object-sheet",
+    "style": "pixel-hd",
+    "reference": "objects-bank-0471ae-079eea-0ddbc8-3-reference.png",
+    "size": "1536x1024",
+    "sourceId": "bank-0471ae-079eea-0ddbc8",
+    "sheet": "objects-bank-0471ae-079eea-0ddbc8-3"
+  },
+  {
+    "id": "objects-bank-0471ae-079eea-0ddbc8-3-unreal",
+    "kind": "object-sheet",
+    "style": "unreal",
+    "reference": "objects-bank-0471ae-079eea-0ddbc8-3-reference.png",
+    "size": "1536x1024",
+    "sourceId": "bank-0471ae-079eea-0ddbc8",
+    "sheet": "objects-bank-0471ae-079eea-0ddbc8-3"
+  },
+  {
+    "id": "objects-bank-0471ae-079eea-0ddbc8-3-ghibli",
+    "kind": "object-sheet",
+    "style": "ghibli",
+    "reference": "objects-bank-0471ae-079eea-0ddbc8-3-reference.png",
+    "size": "1536x1024",
+    "sourceId": "bank-0471ae-079eea-0ddbc8",
+    "sheet": "objects-bank-0471ae-079eea-0ddbc8-3"
+  },
+  {
+    "id": "objects-bank-0471ae-079eea-0ddbc8-4-pixel-hd",
+    "kind": "object-sheet",
+    "style": "pixel-hd",
+    "reference": "objects-bank-0471ae-079eea-0ddbc8-4-reference.png",
+    "size": "1536x1024",
+    "sourceId": "bank-0471ae-079eea-0ddbc8",
+    "sheet": "objects-bank-0471ae-079eea-0ddbc8-4"
+  },
+  {
+    "id": "objects-bank-0471ae-079eea-0ddbc8-4-unreal",
+    "kind": "object-sheet",
+    "style": "unreal",
+    "reference": "objects-bank-0471ae-079eea-0ddbc8-4-reference.png",
+    "size": "1536x1024",
+    "sourceId": "bank-0471ae-079eea-0ddbc8",
+    "sheet": "objects-bank-0471ae-079eea-0ddbc8-4"
+  },
+  {
+    "id": "objects-bank-0471ae-079eea-0ddbc8-4-ghibli",
+    "kind": "object-sheet",
+    "style": "ghibli",
+    "reference": "objects-bank-0471ae-079eea-0ddbc8-4-reference.png",
+    "size": "1536x1024",
+    "sourceId": "bank-0471ae-079eea-0ddbc8",
+    "sheet": "objects-bank-0471ae-079eea-0ddbc8-4"
+  },
+  {
+    "id": "objects-bank-032386-0772aa-0ddc08-1-pixel-hd",
+    "kind": "object-sheet",
+    "style": "pixel-hd",
+    "reference": "objects-bank-032386-0772aa-0ddc08-1-reference.png",
+    "size": "1536x1024",
+    "sourceId": "bank-032386-0772aa-0ddc08",
+    "sheet": "objects-bank-032386-0772aa-0ddc08-1"
+  },
+  {
+    "id": "objects-bank-032386-0772aa-0ddc08-1-unreal",
+    "kind": "object-sheet",
+    "style": "unreal",
+    "reference": "objects-bank-032386-0772aa-0ddc08-1-reference.png",
+    "size": "1536x1024",
+    "sourceId": "bank-032386-0772aa-0ddc08",
+    "sheet": "objects-bank-032386-0772aa-0ddc08-1"
+  },
+  {
+    "id": "objects-bank-032386-0772aa-0ddc08-1-ghibli",
+    "kind": "object-sheet",
+    "style": "ghibli",
+    "reference": "objects-bank-032386-0772aa-0ddc08-1-reference.png",
+    "size": "1536x1024",
+    "sourceId": "bank-032386-0772aa-0ddc08",
+    "sheet": "objects-bank-032386-0772aa-0ddc08-1"
+  },
+  {
+    "id": "objects-bank-032386-0772aa-0ddc08-2-pixel-hd",
+    "kind": "object-sheet",
+    "style": "pixel-hd",
+    "reference": "objects-bank-032386-0772aa-0ddc08-2-reference.png",
+    "size": "1536x1024",
+    "sourceId": "bank-032386-0772aa-0ddc08",
+    "sheet": "objects-bank-032386-0772aa-0ddc08-2"
+  },
+  {
+    "id": "objects-bank-032386-0772aa-0ddc08-2-unreal",
+    "kind": "object-sheet",
+    "style": "unreal",
+    "reference": "objects-bank-032386-0772aa-0ddc08-2-reference.png",
+    "size": "1536x1024",
+    "sourceId": "bank-032386-0772aa-0ddc08",
+    "sheet": "objects-bank-032386-0772aa-0ddc08-2"
+  },
+  {
+    "id": "objects-bank-032386-0772aa-0ddc08-2-ghibli",
+    "kind": "object-sheet",
+    "style": "ghibli",
+    "reference": "objects-bank-032386-0772aa-0ddc08-2-reference.png",
+    "size": "1536x1024",
+    "sourceId": "bank-032386-0772aa-0ddc08",
+    "sheet": "objects-bank-032386-0772aa-0ddc08-2"
+  },
+  {
+    "id": "objects-bank-032386-0772aa-0ddc08-3-pixel-hd",
+    "kind": "object-sheet",
+    "style": "pixel-hd",
+    "reference": "objects-bank-032386-0772aa-0ddc08-3-reference.png",
+    "size": "1536x1024",
+    "sourceId": "bank-032386-0772aa-0ddc08",
+    "sheet": "objects-bank-032386-0772aa-0ddc08-3"
+  },
+  {
+    "id": "objects-bank-032386-0772aa-0ddc08-3-unreal",
+    "kind": "object-sheet",
+    "style": "unreal",
+    "reference": "objects-bank-032386-0772aa-0ddc08-3-reference.png",
+    "size": "1536x1024",
+    "sourceId": "bank-032386-0772aa-0ddc08",
+    "sheet": "objects-bank-032386-0772aa-0ddc08-3"
+  },
+  {
+    "id": "objects-bank-032386-0772aa-0ddc08-3-ghibli",
+    "kind": "object-sheet",
+    "style": "ghibli",
+    "reference": "objects-bank-032386-0772aa-0ddc08-3-reference.png",
+    "size": "1536x1024",
+    "sourceId": "bank-032386-0772aa-0ddc08",
+    "sheet": "objects-bank-032386-0772aa-0ddc08-3"
+  },
+  {
+    "id": "objects-bank-032386-0772aa-0ddc08-4-pixel-hd",
+    "kind": "object-sheet",
+    "style": "pixel-hd",
+    "reference": "objects-bank-032386-0772aa-0ddc08-4-reference.png",
+    "size": "1536x1024",
+    "sourceId": "bank-032386-0772aa-0ddc08",
+    "sheet": "objects-bank-032386-0772aa-0ddc08-4"
+  },
+  {
+    "id": "objects-bank-032386-0772aa-0ddc08-4-unreal",
+    "kind": "object-sheet",
+    "style": "unreal",
+    "reference": "objects-bank-032386-0772aa-0ddc08-4-reference.png",
+    "size": "1536x1024",
+    "sourceId": "bank-032386-0772aa-0ddc08",
+    "sheet": "objects-bank-032386-0772aa-0ddc08-4"
+  },
+  {
+    "id": "objects-bank-032386-0772aa-0ddc08-4-ghibli",
+    "kind": "object-sheet",
+    "style": "ghibli",
+    "reference": "objects-bank-032386-0772aa-0ddc08-4-reference.png",
+    "size": "1536x1024",
+    "sourceId": "bank-032386-0772aa-0ddc08",
+    "sheet": "objects-bank-032386-0772aa-0ddc08-4"
+  },
+  {
+    "id": "objects-bank-032386-0772aa-0ddc08-5-pixel-hd",
+    "kind": "object-sheet",
+    "style": "pixel-hd",
+    "reference": "objects-bank-032386-0772aa-0ddc08-5-reference.png",
+    "size": "1536x1024",
+    "sourceId": "bank-032386-0772aa-0ddc08",
+    "sheet": "objects-bank-032386-0772aa-0ddc08-5"
+  },
+  {
+    "id": "objects-bank-032386-0772aa-0ddc08-5-unreal",
+    "kind": "object-sheet",
+    "style": "unreal",
+    "reference": "objects-bank-032386-0772aa-0ddc08-5-reference.png",
+    "size": "1536x1024",
+    "sourceId": "bank-032386-0772aa-0ddc08",
+    "sheet": "objects-bank-032386-0772aa-0ddc08-5"
+  },
+  {
+    "id": "objects-bank-032386-0772aa-0ddc08-5-ghibli",
+    "kind": "object-sheet",
+    "style": "ghibli",
+    "reference": "objects-bank-032386-0772aa-0ddc08-5-reference.png",
+    "size": "1536x1024",
+    "sourceId": "bank-032386-0772aa-0ddc08",
+    "sheet": "objects-bank-032386-0772aa-0ddc08-5"
+  },
+  {
+    "id": "objects-bank-032386-0772aa-0ddc08-6-pixel-hd",
+    "kind": "object-sheet",
+    "style": "pixel-hd",
+    "reference": "objects-bank-032386-0772aa-0ddc08-6-reference.png",
+    "size": "1536x1024",
+    "sourceId": "bank-032386-0772aa-0ddc08",
+    "sheet": "objects-bank-032386-0772aa-0ddc08-6"
+  },
+  {
+    "id": "objects-bank-032386-0772aa-0ddc08-6-unreal",
+    "kind": "object-sheet",
+    "style": "unreal",
+    "reference": "objects-bank-032386-0772aa-0ddc08-6-reference.png",
+    "size": "1536x1024",
+    "sourceId": "bank-032386-0772aa-0ddc08",
+    "sheet": "objects-bank-032386-0772aa-0ddc08-6"
+  },
+  {
+    "id": "objects-bank-032386-0772aa-0ddc08-6-ghibli",
+    "kind": "object-sheet",
+    "style": "ghibli",
+    "reference": "objects-bank-032386-0772aa-0ddc08-6-reference.png",
+    "size": "1536x1024",
+    "sourceId": "bank-032386-0772aa-0ddc08",
+    "sheet": "objects-bank-032386-0772aa-0ddc08-6"
+  },
+  {
+    "id": "objects-bank-032386-0772aa-0ddc08-7-pixel-hd",
+    "kind": "object-sheet",
+    "style": "pixel-hd",
+    "reference": "objects-bank-032386-0772aa-0ddc08-7-reference.png",
+    "size": "1536x1024",
+    "sourceId": "bank-032386-0772aa-0ddc08",
+    "sheet": "objects-bank-032386-0772aa-0ddc08-7"
+  },
+  {
+    "id": "objects-bank-032386-0772aa-0ddc08-7-unreal",
+    "kind": "object-sheet",
+    "style": "unreal",
+    "reference": "objects-bank-032386-0772aa-0ddc08-7-reference.png",
+    "size": "1536x1024",
+    "sourceId": "bank-032386-0772aa-0ddc08",
+    "sheet": "objects-bank-032386-0772aa-0ddc08-7"
+  },
+  {
+    "id": "objects-bank-032386-0772aa-0ddc08-7-ghibli",
+    "kind": "object-sheet",
+    "style": "ghibli",
+    "reference": "objects-bank-032386-0772aa-0ddc08-7-reference.png",
+    "size": "1536x1024",
+    "sourceId": "bank-032386-0772aa-0ddc08",
+    "sheet": "objects-bank-032386-0772aa-0ddc08-7"
+  },
+  {
+    "id": "objects-bank-032386-0772aa-0ddc08-8-pixel-hd",
+    "kind": "object-sheet",
+    "style": "pixel-hd",
+    "reference": "objects-bank-032386-0772aa-0ddc08-8-reference.png",
+    "size": "1536x1024",
+    "sourceId": "bank-032386-0772aa-0ddc08",
+    "sheet": "objects-bank-032386-0772aa-0ddc08-8"
+  },
+  {
+    "id": "objects-bank-032386-0772aa-0ddc08-8-unreal",
+    "kind": "object-sheet",
+    "style": "unreal",
+    "reference": "objects-bank-032386-0772aa-0ddc08-8-reference.png",
+    "size": "1536x1024",
+    "sourceId": "bank-032386-0772aa-0ddc08",
+    "sheet": "objects-bank-032386-0772aa-0ddc08-8"
+  },
+  {
+    "id": "objects-bank-032386-0772aa-0ddc08-8-ghibli",
+    "kind": "object-sheet",
+    "style": "ghibli",
+    "reference": "objects-bank-032386-0772aa-0ddc08-8-reference.png",
+    "size": "1536x1024",
+    "sourceId": "bank-032386-0772aa-0ddc08",
+    "sheet": "objects-bank-032386-0772aa-0ddc08-8"
+  },
+  {
+    "id": "objects-bank-032386-0772aa-0ddc08-9-pixel-hd",
+    "kind": "object-sheet",
+    "style": "pixel-hd",
+    "reference": "objects-bank-032386-0772aa-0ddc08-9-reference.png",
+    "size": "1536x1024",
+    "sourceId": "bank-032386-0772aa-0ddc08",
+    "sheet": "objects-bank-032386-0772aa-0ddc08-9"
+  },
+  {
+    "id": "objects-bank-032386-0772aa-0ddc08-9-unreal",
+    "kind": "object-sheet",
+    "style": "unreal",
+    "reference": "objects-bank-032386-0772aa-0ddc08-9-reference.png",
+    "size": "1536x1024",
+    "sourceId": "bank-032386-0772aa-0ddc08",
+    "sheet": "objects-bank-032386-0772aa-0ddc08-9"
+  },
+  {
+    "id": "objects-bank-032386-0772aa-0ddc08-9-ghibli",
+    "kind": "object-sheet",
+    "style": "ghibli",
+    "reference": "objects-bank-032386-0772aa-0ddc08-9-reference.png",
+    "size": "1536x1024",
+    "sourceId": "bank-032386-0772aa-0ddc08",
+    "sheet": "objects-bank-032386-0772aa-0ddc08-9"
+  },
+  {
+    "id": "objects-bank-032386-0772aa-0ddc08-10-pixel-hd",
+    "kind": "object-sheet",
+    "style": "pixel-hd",
+    "reference": "objects-bank-032386-0772aa-0ddc08-10-reference.png",
+    "size": "1536x1024",
+    "sourceId": "bank-032386-0772aa-0ddc08",
+    "sheet": "objects-bank-032386-0772aa-0ddc08-10"
+  },
+  {
+    "id": "objects-bank-032386-0772aa-0ddc08-10-unreal",
+    "kind": "object-sheet",
+    "style": "unreal",
+    "reference": "objects-bank-032386-0772aa-0ddc08-10-reference.png",
+    "size": "1536x1024",
+    "sourceId": "bank-032386-0772aa-0ddc08",
+    "sheet": "objects-bank-032386-0772aa-0ddc08-10"
+  },
+  {
+    "id": "objects-bank-032386-0772aa-0ddc08-10-ghibli",
+    "kind": "object-sheet",
+    "style": "ghibli",
+    "reference": "objects-bank-032386-0772aa-0ddc08-10-reference.png",
+    "size": "1536x1024",
+    "sourceId": "bank-032386-0772aa-0ddc08",
+    "sheet": "objects-bank-032386-0772aa-0ddc08-10"
+  },
+  {
+    "id": "objects-bank-037948-07852a-0ddc48-1-pixel-hd",
+    "kind": "object-sheet",
+    "style": "pixel-hd",
+    "reference": "objects-bank-037948-07852a-0ddc48-1-reference.png",
+    "size": "1536x1024",
+    "sourceId": "bank-037948-07852a-0ddc48",
+    "sheet": "objects-bank-037948-07852a-0ddc48-1"
+  },
+  {
+    "id": "objects-bank-037948-07852a-0ddc48-1-unreal",
+    "kind": "object-sheet",
+    "style": "unreal",
+    "reference": "objects-bank-037948-07852a-0ddc48-1-reference.png",
+    "size": "1536x1024",
+    "sourceId": "bank-037948-07852a-0ddc48",
+    "sheet": "objects-bank-037948-07852a-0ddc48-1"
+  },
+  {
+    "id": "objects-bank-037948-07852a-0ddc48-1-ghibli",
+    "kind": "object-sheet",
+    "style": "ghibli",
+    "reference": "objects-bank-037948-07852a-0ddc48-1-reference.png",
+    "size": "1536x1024",
+    "sourceId": "bank-037948-07852a-0ddc48",
+    "sheet": "objects-bank-037948-07852a-0ddc48-1"
+  },
+  {
+    "id": "objects-bank-037948-07852a-0ddc48-2-pixel-hd",
+    "kind": "object-sheet",
+    "style": "pixel-hd",
+    "reference": "objects-bank-037948-07852a-0ddc48-2-reference.png",
+    "size": "1536x1024",
+    "sourceId": "bank-037948-07852a-0ddc48",
+    "sheet": "objects-bank-037948-07852a-0ddc48-2"
+  },
+  {
+    "id": "objects-bank-037948-07852a-0ddc48-2-unreal",
+    "kind": "object-sheet",
+    "style": "unreal",
+    "reference": "objects-bank-037948-07852a-0ddc48-2-reference.png",
+    "size": "1536x1024",
+    "sourceId": "bank-037948-07852a-0ddc48",
+    "sheet": "objects-bank-037948-07852a-0ddc48-2"
+  },
+  {
+    "id": "objects-bank-037948-07852a-0ddc48-2-ghibli",
+    "kind": "object-sheet",
+    "style": "ghibli",
+    "reference": "objects-bank-037948-07852a-0ddc48-2-reference.png",
+    "size": "1536x1024",
+    "sourceId": "bank-037948-07852a-0ddc48",
+    "sheet": "objects-bank-037948-07852a-0ddc48-2"
+  },
+  {
+    "id": "objects-bank-037948-07852a-0ddc48-3-pixel-hd",
+    "kind": "object-sheet",
+    "style": "pixel-hd",
+    "reference": "objects-bank-037948-07852a-0ddc48-3-reference.png",
+    "size": "1536x1024",
+    "sourceId": "bank-037948-07852a-0ddc48",
+    "sheet": "objects-bank-037948-07852a-0ddc48-3"
+  },
+  {
+    "id": "objects-bank-037948-07852a-0ddc48-3-unreal",
+    "kind": "object-sheet",
+    "style": "unreal",
+    "reference": "objects-bank-037948-07852a-0ddc48-3-reference.png",
+    "size": "1536x1024",
+    "sourceId": "bank-037948-07852a-0ddc48",
+    "sheet": "objects-bank-037948-07852a-0ddc48-3"
+  },
+  {
+    "id": "objects-bank-037948-07852a-0ddc48-3-ghibli",
+    "kind": "object-sheet",
+    "style": "ghibli",
+    "reference": "objects-bank-037948-07852a-0ddc48-3-reference.png",
+    "size": "1536x1024",
+    "sourceId": "bank-037948-07852a-0ddc48",
+    "sheet": "objects-bank-037948-07852a-0ddc48-3"
+  },
+  {
+    "id": "objects-bank-037948-07852a-0ddc48-4-pixel-hd",
+    "kind": "object-sheet",
+    "style": "pixel-hd",
+    "reference": "objects-bank-037948-07852a-0ddc48-4-reference.png",
+    "size": "1536x1024",
+    "sourceId": "bank-037948-07852a-0ddc48",
+    "sheet": "objects-bank-037948-07852a-0ddc48-4"
+  },
+  {
+    "id": "objects-bank-037948-07852a-0ddc48-4-unreal",
+    "kind": "object-sheet",
+    "style": "unreal",
+    "reference": "objects-bank-037948-07852a-0ddc48-4-reference.png",
+    "size": "1536x1024",
+    "sourceId": "bank-037948-07852a-0ddc48",
+    "sheet": "objects-bank-037948-07852a-0ddc48-4"
+  },
+  {
+    "id": "objects-bank-037948-07852a-0ddc48-4-ghibli",
+    "kind": "object-sheet",
+    "style": "ghibli",
+    "reference": "objects-bank-037948-07852a-0ddc48-4-reference.png",
+    "size": "1536x1024",
+    "sourceId": "bank-037948-07852a-0ddc48",
+    "sheet": "objects-bank-037948-07852a-0ddc48-4"
+  },
+  {
+    "id": "objects-bank-037948-07bdaa-0ddc48-1-pixel-hd",
+    "kind": "object-sheet",
+    "style": "pixel-hd",
+    "reference": "objects-bank-037948-07bdaa-0ddc48-1-reference.png",
+    "size": "1536x1024",
+    "sourceId": "bank-037948-07bdaa-0ddc48",
+    "sheet": "objects-bank-037948-07bdaa-0ddc48-1"
+  },
+  {
+    "id": "objects-bank-037948-07bdaa-0ddc48-1-unreal",
+    "kind": "object-sheet",
+    "style": "unreal",
+    "reference": "objects-bank-037948-07bdaa-0ddc48-1-reference.png",
+    "size": "1536x1024",
+    "sourceId": "bank-037948-07bdaa-0ddc48",
+    "sheet": "objects-bank-037948-07bdaa-0ddc48-1"
+  },
+  {
+    "id": "objects-bank-037948-07bdaa-0ddc48-1-ghibli",
+    "kind": "object-sheet",
+    "style": "ghibli",
+    "reference": "objects-bank-037948-07bdaa-0ddc48-1-reference.png",
+    "size": "1536x1024",
+    "sourceId": "bank-037948-07bdaa-0ddc48",
+    "sheet": "objects-bank-037948-07bdaa-0ddc48-1"
+  },
+  {
+    "id": "objects-bank-037948-07bdaa-0ddc48-2-pixel-hd",
+    "kind": "object-sheet",
+    "style": "pixel-hd",
+    "reference": "objects-bank-037948-07bdaa-0ddc48-2-reference.png",
+    "size": "1536x1024",
+    "sourceId": "bank-037948-07bdaa-0ddc48",
+    "sheet": "objects-bank-037948-07bdaa-0ddc48-2"
+  },
+  {
+    "id": "objects-bank-037948-07bdaa-0ddc48-2-unreal",
+    "kind": "object-sheet",
+    "style": "unreal",
+    "reference": "objects-bank-037948-07bdaa-0ddc48-2-reference.png",
+    "size": "1536x1024",
+    "sourceId": "bank-037948-07bdaa-0ddc48",
+    "sheet": "objects-bank-037948-07bdaa-0ddc48-2"
+  },
+  {
+    "id": "objects-bank-037948-07bdaa-0ddc48-2-ghibli",
+    "kind": "object-sheet",
+    "style": "ghibli",
+    "reference": "objects-bank-037948-07bdaa-0ddc48-2-reference.png",
+    "size": "1536x1024",
+    "sourceId": "bank-037948-07bdaa-0ddc48",
+    "sheet": "objects-bank-037948-07bdaa-0ddc48-2"
+  },
+  {
+    "id": "objects-bank-037948-07bdaa-0ddc48-3-pixel-hd",
+    "kind": "object-sheet",
+    "style": "pixel-hd",
+    "reference": "objects-bank-037948-07bdaa-0ddc48-3-reference.png",
+    "size": "1536x1024",
+    "sourceId": "bank-037948-07bdaa-0ddc48",
+    "sheet": "objects-bank-037948-07bdaa-0ddc48-3"
+  },
+  {
+    "id": "objects-bank-037948-07bdaa-0ddc48-3-unreal",
+    "kind": "object-sheet",
+    "style": "unreal",
+    "reference": "objects-bank-037948-07bdaa-0ddc48-3-reference.png",
+    "size": "1536x1024",
+    "sourceId": "bank-037948-07bdaa-0ddc48",
+    "sheet": "objects-bank-037948-07bdaa-0ddc48-3"
+  },
+  {
+    "id": "objects-bank-037948-07bdaa-0ddc48-3-ghibli",
+    "kind": "object-sheet",
+    "style": "ghibli",
+    "reference": "objects-bank-037948-07bdaa-0ddc48-3-reference.png",
+    "size": "1536x1024",
+    "sourceId": "bank-037948-07bdaa-0ddc48",
+    "sheet": "objects-bank-037948-07bdaa-0ddc48-3"
+  },
+  {
+    "id": "objects-bank-053fd4-07cbea-0ddc88-1-pixel-hd",
+    "kind": "object-sheet",
+    "style": "pixel-hd",
+    "reference": "objects-bank-053fd4-07cbea-0ddc88-1-reference.png",
+    "size": "1536x1024",
+    "sourceId": "bank-053fd4-07cbea-0ddc88",
+    "sheet": "objects-bank-053fd4-07cbea-0ddc88-1"
+  },
+  {
+    "id": "objects-bank-053fd4-07cbea-0ddc88-1-unreal",
+    "kind": "object-sheet",
+    "style": "unreal",
+    "reference": "objects-bank-053fd4-07cbea-0ddc88-1-reference.png",
+    "size": "1536x1024",
+    "sourceId": "bank-053fd4-07cbea-0ddc88",
+    "sheet": "objects-bank-053fd4-07cbea-0ddc88-1"
+  },
+  {
+    "id": "objects-bank-053fd4-07cbea-0ddc88-1-ghibli",
+    "kind": "object-sheet",
+    "style": "ghibli",
+    "reference": "objects-bank-053fd4-07cbea-0ddc88-1-reference.png",
+    "size": "1536x1024",
+    "sourceId": "bank-053fd4-07cbea-0ddc88",
+    "sheet": "objects-bank-053fd4-07cbea-0ddc88-1"
+  },
+  {
+    "id": "objects-bank-053fd4-07cbea-0ddc88-2-pixel-hd",
+    "kind": "object-sheet",
+    "style": "pixel-hd",
+    "reference": "objects-bank-053fd4-07cbea-0ddc88-2-reference.png",
+    "size": "1536x1024",
+    "sourceId": "bank-053fd4-07cbea-0ddc88",
+    "sheet": "objects-bank-053fd4-07cbea-0ddc88-2"
+  },
+  {
+    "id": "objects-bank-053fd4-07cbea-0ddc88-2-unreal",
+    "kind": "object-sheet",
+    "style": "unreal",
+    "reference": "objects-bank-053fd4-07cbea-0ddc88-2-reference.png",
+    "size": "1536x1024",
+    "sourceId": "bank-053fd4-07cbea-0ddc88",
+    "sheet": "objects-bank-053fd4-07cbea-0ddc88-2"
+  },
+  {
+    "id": "objects-bank-053fd4-07cbea-0ddc88-2-ghibli",
+    "kind": "object-sheet",
+    "style": "ghibli",
+    "reference": "objects-bank-053fd4-07cbea-0ddc88-2-reference.png",
+    "size": "1536x1024",
+    "sourceId": "bank-053fd4-07cbea-0ddc88",
+    "sheet": "objects-bank-053fd4-07cbea-0ddc88-2"
+  },
+  {
+    "id": "objects-bank-053fd4-07cbea-0ddc88-3-pixel-hd",
+    "kind": "object-sheet",
+    "style": "pixel-hd",
+    "reference": "objects-bank-053fd4-07cbea-0ddc88-3-reference.png",
+    "size": "1536x1024",
+    "sourceId": "bank-053fd4-07cbea-0ddc88",
+    "sheet": "objects-bank-053fd4-07cbea-0ddc88-3"
+  },
+  {
+    "id": "objects-bank-053fd4-07cbea-0ddc88-3-unreal",
+    "kind": "object-sheet",
+    "style": "unreal",
+    "reference": "objects-bank-053fd4-07cbea-0ddc88-3-reference.png",
+    "size": "1536x1024",
+    "sourceId": "bank-053fd4-07cbea-0ddc88",
+    "sheet": "objects-bank-053fd4-07cbea-0ddc88-3"
+  },
+  {
+    "id": "objects-bank-053fd4-07cbea-0ddc88-3-ghibli",
+    "kind": "object-sheet",
+    "style": "ghibli",
+    "reference": "objects-bank-053fd4-07cbea-0ddc88-3-reference.png",
+    "size": "1536x1024",
+    "sourceId": "bank-053fd4-07cbea-0ddc88",
+    "sheet": "objects-bank-053fd4-07cbea-0ddc88-3"
+  },
+  {
+    "id": "objects-bank-053fd4-07cbea-0ddc88-4-pixel-hd",
+    "kind": "object-sheet",
+    "style": "pixel-hd",
+    "reference": "objects-bank-053fd4-07cbea-0ddc88-4-reference.png",
+    "size": "1536x1024",
+    "sourceId": "bank-053fd4-07cbea-0ddc88",
+    "sheet": "objects-bank-053fd4-07cbea-0ddc88-4"
+  },
+  {
+    "id": "objects-bank-053fd4-07cbea-0ddc88-4-unreal",
+    "kind": "object-sheet",
+    "style": "unreal",
+    "reference": "objects-bank-053fd4-07cbea-0ddc88-4-reference.png",
+    "size": "1536x1024",
+    "sourceId": "bank-053fd4-07cbea-0ddc88",
+    "sheet": "objects-bank-053fd4-07cbea-0ddc88-4"
+  },
+  {
+    "id": "objects-bank-053fd4-07cbea-0ddc88-4-ghibli",
+    "kind": "object-sheet",
+    "style": "ghibli",
+    "reference": "objects-bank-053fd4-07cbea-0ddc88-4-reference.png",
+    "size": "1536x1024",
+    "sourceId": "bank-053fd4-07cbea-0ddc88",
+    "sheet": "objects-bank-053fd4-07cbea-0ddc88-4"
+  },
+  {
+    "id": "objects-bank-053fd4-07cbea-0ddc88-5-pixel-hd",
+    "kind": "object-sheet",
+    "style": "pixel-hd",
+    "reference": "objects-bank-053fd4-07cbea-0ddc88-5-reference.png",
+    "size": "1536x1024",
+    "sourceId": "bank-053fd4-07cbea-0ddc88",
+    "sheet": "objects-bank-053fd4-07cbea-0ddc88-5"
+  },
+  {
+    "id": "objects-bank-053fd4-07cbea-0ddc88-5-unreal",
+    "kind": "object-sheet",
+    "style": "unreal",
+    "reference": "objects-bank-053fd4-07cbea-0ddc88-5-reference.png",
+    "size": "1536x1024",
+    "sourceId": "bank-053fd4-07cbea-0ddc88",
+    "sheet": "objects-bank-053fd4-07cbea-0ddc88-5"
+  },
+  {
+    "id": "objects-bank-053fd4-07cbea-0ddc88-5-ghibli",
+    "kind": "object-sheet",
+    "style": "ghibli",
+    "reference": "objects-bank-053fd4-07cbea-0ddc88-5-reference.png",
+    "size": "1536x1024",
+    "sourceId": "bank-053fd4-07cbea-0ddc88",
+    "sheet": "objects-bank-053fd4-07cbea-0ddc88-5"
+  },
+  {
+    "id": "objects-bank-053fd4-07cbea-0ddc88-6-pixel-hd",
+    "kind": "object-sheet",
+    "style": "pixel-hd",
+    "reference": "objects-bank-053fd4-07cbea-0ddc88-6-reference.png",
+    "size": "1536x1024",
+    "sourceId": "bank-053fd4-07cbea-0ddc88",
+    "sheet": "objects-bank-053fd4-07cbea-0ddc88-6"
+  },
+  {
+    "id": "objects-bank-053fd4-07cbea-0ddc88-6-unreal",
+    "kind": "object-sheet",
+    "style": "unreal",
+    "reference": "objects-bank-053fd4-07cbea-0ddc88-6-reference.png",
+    "size": "1536x1024",
+    "sourceId": "bank-053fd4-07cbea-0ddc88",
+    "sheet": "objects-bank-053fd4-07cbea-0ddc88-6"
+  },
+  {
+    "id": "objects-bank-053fd4-07cbea-0ddc88-6-ghibli",
+    "kind": "object-sheet",
+    "style": "ghibli",
+    "reference": "objects-bank-053fd4-07cbea-0ddc88-6-reference.png",
+    "size": "1536x1024",
+    "sourceId": "bank-053fd4-07cbea-0ddc88",
+    "sheet": "objects-bank-053fd4-07cbea-0ddc88-6"
+  },
+  {
+    "id": "objects-bank-053fd4-07cbea-0ddc88-7-pixel-hd",
+    "kind": "object-sheet",
+    "style": "pixel-hd",
+    "reference": "objects-bank-053fd4-07cbea-0ddc88-7-reference.png",
+    "size": "1536x1024",
+    "sourceId": "bank-053fd4-07cbea-0ddc88",
+    "sheet": "objects-bank-053fd4-07cbea-0ddc88-7"
+  },
+  {
+    "id": "objects-bank-053fd4-07cbea-0ddc88-7-unreal",
+    "kind": "object-sheet",
+    "style": "unreal",
+    "reference": "objects-bank-053fd4-07cbea-0ddc88-7-reference.png",
+    "size": "1536x1024",
+    "sourceId": "bank-053fd4-07cbea-0ddc88",
+    "sheet": "objects-bank-053fd4-07cbea-0ddc88-7"
+  },
+  {
+    "id": "objects-bank-053fd4-07cbea-0ddc88-7-ghibli",
+    "kind": "object-sheet",
+    "style": "ghibli",
+    "reference": "objects-bank-053fd4-07cbea-0ddc88-7-reference.png",
+    "size": "1536x1024",
+    "sourceId": "bank-053fd4-07cbea-0ddc88",
+    "sheet": "objects-bank-053fd4-07cbea-0ddc88-7"
+  },
+  {
+    "id": "objects-bank-053fd4-07cbea-0ddc88-8-pixel-hd",
+    "kind": "object-sheet",
+    "style": "pixel-hd",
+    "reference": "objects-bank-053fd4-07cbea-0ddc88-8-reference.png",
+    "size": "1536x1024",
+    "sourceId": "bank-053fd4-07cbea-0ddc88",
+    "sheet": "objects-bank-053fd4-07cbea-0ddc88-8"
+  },
+  {
+    "id": "objects-bank-053fd4-07cbea-0ddc88-8-unreal",
+    "kind": "object-sheet",
+    "style": "unreal",
+    "reference": "objects-bank-053fd4-07cbea-0ddc88-8-reference.png",
+    "size": "1536x1024",
+    "sourceId": "bank-053fd4-07cbea-0ddc88",
+    "sheet": "objects-bank-053fd4-07cbea-0ddc88-8"
+  },
+  {
+    "id": "objects-bank-053fd4-07cbea-0ddc88-8-ghibli",
+    "kind": "object-sheet",
+    "style": "ghibli",
+    "reference": "objects-bank-053fd4-07cbea-0ddc88-8-reference.png",
+    "size": "1536x1024",
+    "sourceId": "bank-053fd4-07cbea-0ddc88",
+    "sheet": "objects-bank-053fd4-07cbea-0ddc88-8"
+  },
+  {
+    "id": "objects-bank-053fd4-07cbea-0ddc88-9-pixel-hd",
+    "kind": "object-sheet",
+    "style": "pixel-hd",
+    "reference": "objects-bank-053fd4-07cbea-0ddc88-9-reference.png",
+    "size": "1536x1024",
+    "sourceId": "bank-053fd4-07cbea-0ddc88",
+    "sheet": "objects-bank-053fd4-07cbea-0ddc88-9"
+  },
+  {
+    "id": "objects-bank-053fd4-07cbea-0ddc88-9-unreal",
+    "kind": "object-sheet",
+    "style": "unreal",
+    "reference": "objects-bank-053fd4-07cbea-0ddc88-9-reference.png",
+    "size": "1536x1024",
+    "sourceId": "bank-053fd4-07cbea-0ddc88",
+    "sheet": "objects-bank-053fd4-07cbea-0ddc88-9"
+  },
+  {
+    "id": "objects-bank-053fd4-07cbea-0ddc88-9-ghibli",
+    "kind": "object-sheet",
+    "style": "ghibli",
+    "reference": "objects-bank-053fd4-07cbea-0ddc88-9-reference.png",
+    "size": "1536x1024",
+    "sourceId": "bank-053fd4-07cbea-0ddc88",
+    "sheet": "objects-bank-053fd4-07cbea-0ddc88-9"
+  },
+  {
+    "id": "objects-bank-059976-07d64a-0ddcc8-1-pixel-hd",
+    "kind": "object-sheet",
+    "style": "pixel-hd",
+    "reference": "objects-bank-059976-07d64a-0ddcc8-1-reference.png",
+    "size": "1536x1024",
+    "sourceId": "bank-059976-07d64a-0ddcc8",
+    "sheet": "objects-bank-059976-07d64a-0ddcc8-1"
+  },
+  {
+    "id": "objects-bank-059976-07d64a-0ddcc8-1-unreal",
+    "kind": "object-sheet",
+    "style": "unreal",
+    "reference": "objects-bank-059976-07d64a-0ddcc8-1-reference.png",
+    "size": "1536x1024",
+    "sourceId": "bank-059976-07d64a-0ddcc8",
+    "sheet": "objects-bank-059976-07d64a-0ddcc8-1"
+  },
+  {
+    "id": "objects-bank-059976-07d64a-0ddcc8-1-ghibli",
+    "kind": "object-sheet",
+    "style": "ghibli",
+    "reference": "objects-bank-059976-07d64a-0ddcc8-1-reference.png",
+    "size": "1536x1024",
+    "sourceId": "bank-059976-07d64a-0ddcc8",
+    "sheet": "objects-bank-059976-07d64a-0ddcc8-1"
+  },
+  {
+    "id": "objects-bank-059976-07d64a-0ddcc8-2-pixel-hd",
+    "kind": "object-sheet",
+    "style": "pixel-hd",
+    "reference": "objects-bank-059976-07d64a-0ddcc8-2-reference.png",
+    "size": "1536x1024",
+    "sourceId": "bank-059976-07d64a-0ddcc8",
+    "sheet": "objects-bank-059976-07d64a-0ddcc8-2"
+  },
+  {
+    "id": "objects-bank-059976-07d64a-0ddcc8-2-unreal",
+    "kind": "object-sheet",
+    "style": "unreal",
+    "reference": "objects-bank-059976-07d64a-0ddcc8-2-reference.png",
+    "size": "1536x1024",
+    "sourceId": "bank-059976-07d64a-0ddcc8",
+    "sheet": "objects-bank-059976-07d64a-0ddcc8-2"
+  },
+  {
+    "id": "objects-bank-059976-07d64a-0ddcc8-2-ghibli",
+    "kind": "object-sheet",
+    "style": "ghibli",
+    "reference": "objects-bank-059976-07d64a-0ddcc8-2-reference.png",
+    "size": "1536x1024",
+    "sourceId": "bank-059976-07d64a-0ddcc8",
+    "sheet": "objects-bank-059976-07d64a-0ddcc8-2"
+  },
+  {
+    "id": "objects-bank-059976-07d64a-0ddcc8-3-pixel-hd",
+    "kind": "object-sheet",
+    "style": "pixel-hd",
+    "reference": "objects-bank-059976-07d64a-0ddcc8-3-reference.png",
+    "size": "1536x1024",
+    "sourceId": "bank-059976-07d64a-0ddcc8",
+    "sheet": "objects-bank-059976-07d64a-0ddcc8-3"
+  },
+  {
+    "id": "objects-bank-059976-07d64a-0ddcc8-3-unreal",
+    "kind": "object-sheet",
+    "style": "unreal",
+    "reference": "objects-bank-059976-07d64a-0ddcc8-3-reference.png",
+    "size": "1536x1024",
+    "sourceId": "bank-059976-07d64a-0ddcc8",
+    "sheet": "objects-bank-059976-07d64a-0ddcc8-3"
+  },
+  {
+    "id": "objects-bank-059976-07d64a-0ddcc8-3-ghibli",
+    "kind": "object-sheet",
+    "style": "ghibli",
+    "reference": "objects-bank-059976-07d64a-0ddcc8-3-reference.png",
+    "size": "1536x1024",
+    "sourceId": "bank-059976-07d64a-0ddcc8",
+    "sheet": "objects-bank-059976-07d64a-0ddcc8-3"
+  },
+  {
+    "id": "objects-bank-059976-07d64a-0ddcc8-4-pixel-hd",
+    "kind": "object-sheet",
+    "style": "pixel-hd",
+    "reference": "objects-bank-059976-07d64a-0ddcc8-4-reference.png",
+    "size": "1536x1024",
+    "sourceId": "bank-059976-07d64a-0ddcc8",
+    "sheet": "objects-bank-059976-07d64a-0ddcc8-4"
+  },
+  {
+    "id": "objects-bank-059976-07d64a-0ddcc8-4-unreal",
+    "kind": "object-sheet",
+    "style": "unreal",
+    "reference": "objects-bank-059976-07d64a-0ddcc8-4-reference.png",
+    "size": "1536x1024",
+    "sourceId": "bank-059976-07d64a-0ddcc8",
+    "sheet": "objects-bank-059976-07d64a-0ddcc8-4"
+  },
+  {
+    "id": "objects-bank-059976-07d64a-0ddcc8-4-ghibli",
+    "kind": "object-sheet",
+    "style": "ghibli",
+    "reference": "objects-bank-059976-07d64a-0ddcc8-4-reference.png",
+    "size": "1536x1024",
+    "sourceId": "bank-059976-07d64a-0ddcc8",
+    "sheet": "objects-bank-059976-07d64a-0ddcc8-4"
+  },
+  {
+    "id": "objects-bank-059976-07d64a-0ddcc8-5-pixel-hd",
+    "kind": "object-sheet",
+    "style": "pixel-hd",
+    "reference": "objects-bank-059976-07d64a-0ddcc8-5-reference.png",
+    "size": "1536x1024",
+    "sourceId": "bank-059976-07d64a-0ddcc8",
+    "sheet": "objects-bank-059976-07d64a-0ddcc8-5"
+  },
+  {
+    "id": "objects-bank-059976-07d64a-0ddcc8-5-unreal",
+    "kind": "object-sheet",
+    "style": "unreal",
+    "reference": "objects-bank-059976-07d64a-0ddcc8-5-reference.png",
+    "size": "1536x1024",
+    "sourceId": "bank-059976-07d64a-0ddcc8",
+    "sheet": "objects-bank-059976-07d64a-0ddcc8-5"
+  },
+  {
+    "id": "objects-bank-059976-07d64a-0ddcc8-5-ghibli",
+    "kind": "object-sheet",
+    "style": "ghibli",
+    "reference": "objects-bank-059976-07d64a-0ddcc8-5-reference.png",
+    "size": "1536x1024",
+    "sourceId": "bank-059976-07d64a-0ddcc8",
+    "sheet": "objects-bank-059976-07d64a-0ddcc8-5"
+  },
+  {
+    "id": "objects-bank-059976-07d64a-0ddcc8-6-pixel-hd",
+    "kind": "object-sheet",
+    "style": "pixel-hd",
+    "reference": "objects-bank-059976-07d64a-0ddcc8-6-reference.png",
+    "size": "1536x1024",
+    "sourceId": "bank-059976-07d64a-0ddcc8",
+    "sheet": "objects-bank-059976-07d64a-0ddcc8-6"
+  },
+  {
+    "id": "objects-bank-059976-07d64a-0ddcc8-6-unreal",
+    "kind": "object-sheet",
+    "style": "unreal",
+    "reference": "objects-bank-059976-07d64a-0ddcc8-6-reference.png",
+    "size": "1536x1024",
+    "sourceId": "bank-059976-07d64a-0ddcc8",
+    "sheet": "objects-bank-059976-07d64a-0ddcc8-6"
+  },
+  {
+    "id": "objects-bank-059976-07d64a-0ddcc8-6-ghibli",
+    "kind": "object-sheet",
+    "style": "ghibli",
+    "reference": "objects-bank-059976-07d64a-0ddcc8-6-reference.png",
+    "size": "1536x1024",
+    "sourceId": "bank-059976-07d64a-0ddcc8",
+    "sheet": "objects-bank-059976-07d64a-0ddcc8-6"
+  },
+  {
+    "id": "objects-bank-059976-07d64a-0ddcc8-7-pixel-hd",
+    "kind": "object-sheet",
+    "style": "pixel-hd",
+    "reference": "objects-bank-059976-07d64a-0ddcc8-7-reference.png",
+    "size": "1536x1024",
+    "sourceId": "bank-059976-07d64a-0ddcc8",
+    "sheet": "objects-bank-059976-07d64a-0ddcc8-7"
+  },
+  {
+    "id": "objects-bank-059976-07d64a-0ddcc8-7-unreal",
+    "kind": "object-sheet",
+    "style": "unreal",
+    "reference": "objects-bank-059976-07d64a-0ddcc8-7-reference.png",
+    "size": "1536x1024",
+    "sourceId": "bank-059976-07d64a-0ddcc8",
+    "sheet": "objects-bank-059976-07d64a-0ddcc8-7"
+  },
+  {
+    "id": "objects-bank-059976-07d64a-0ddcc8-7-ghibli",
+    "kind": "object-sheet",
+    "style": "ghibli",
+    "reference": "objects-bank-059976-07d64a-0ddcc8-7-reference.png",
+    "size": "1536x1024",
+    "sourceId": "bank-059976-07d64a-0ddcc8",
+    "sheet": "objects-bank-059976-07d64a-0ddcc8-7"
+  },
+  {
+    "id": "objects-bank-059976-07d64a-0ddcc8-8-pixel-hd",
+    "kind": "object-sheet",
+    "style": "pixel-hd",
+    "reference": "objects-bank-059976-07d64a-0ddcc8-8-reference.png",
+    "size": "1536x1024",
+    "sourceId": "bank-059976-07d64a-0ddcc8",
+    "sheet": "objects-bank-059976-07d64a-0ddcc8-8"
+  },
+  {
+    "id": "objects-bank-059976-07d64a-0ddcc8-8-unreal",
+    "kind": "object-sheet",
+    "style": "unreal",
+    "reference": "objects-bank-059976-07d64a-0ddcc8-8-reference.png",
+    "size": "1536x1024",
+    "sourceId": "bank-059976-07d64a-0ddcc8",
+    "sheet": "objects-bank-059976-07d64a-0ddcc8-8"
+  },
+  {
+    "id": "objects-bank-059976-07d64a-0ddcc8-8-ghibli",
+    "kind": "object-sheet",
+    "style": "ghibli",
+    "reference": "objects-bank-059976-07d64a-0ddcc8-8-reference.png",
+    "size": "1536x1024",
+    "sourceId": "bank-059976-07d64a-0ddcc8",
+    "sheet": "objects-bank-059976-07d64a-0ddcc8-8"
+  },
+  {
+    "id": "objects-bank-059976-07d64a-0ddcc8-9-pixel-hd",
+    "kind": "object-sheet",
+    "style": "pixel-hd",
+    "reference": "objects-bank-059976-07d64a-0ddcc8-9-reference.png",
+    "size": "1536x1024",
+    "sourceId": "bank-059976-07d64a-0ddcc8",
+    "sheet": "objects-bank-059976-07d64a-0ddcc8-9"
+  },
+  {
+    "id": "objects-bank-059976-07d64a-0ddcc8-9-unreal",
+    "kind": "object-sheet",
+    "style": "unreal",
+    "reference": "objects-bank-059976-07d64a-0ddcc8-9-reference.png",
+    "size": "1536x1024",
+    "sourceId": "bank-059976-07d64a-0ddcc8",
+    "sheet": "objects-bank-059976-07d64a-0ddcc8-9"
+  },
+  {
+    "id": "objects-bank-059976-07d64a-0ddcc8-9-ghibli",
+    "kind": "object-sheet",
+    "style": "ghibli",
+    "reference": "objects-bank-059976-07d64a-0ddcc8-9-reference.png",
+    "size": "1536x1024",
+    "sourceId": "bank-059976-07d64a-0ddcc8",
+    "sheet": "objects-bank-059976-07d64a-0ddcc8-9"
+  },
+  {
+    "id": "objects-bank-04ed72-07afaa-0ddd08-1-pixel-hd",
+    "kind": "object-sheet",
+    "style": "pixel-hd",
+    "reference": "objects-bank-04ed72-07afaa-0ddd08-1-reference.png",
+    "size": "1536x1024",
+    "sourceId": "bank-04ed72-07afaa-0ddd08",
+    "sheet": "objects-bank-04ed72-07afaa-0ddd08-1"
+  },
+  {
+    "id": "objects-bank-04ed72-07afaa-0ddd08-1-unreal",
+    "kind": "object-sheet",
+    "style": "unreal",
+    "reference": "objects-bank-04ed72-07afaa-0ddd08-1-reference.png",
+    "size": "1536x1024",
+    "sourceId": "bank-04ed72-07afaa-0ddd08",
+    "sheet": "objects-bank-04ed72-07afaa-0ddd08-1"
+  },
+  {
+    "id": "objects-bank-04ed72-07afaa-0ddd08-1-ghibli",
+    "kind": "object-sheet",
+    "style": "ghibli",
+    "reference": "objects-bank-04ed72-07afaa-0ddd08-1-reference.png",
+    "size": "1536x1024",
+    "sourceId": "bank-04ed72-07afaa-0ddd08",
+    "sheet": "objects-bank-04ed72-07afaa-0ddd08-1"
+  },
+  {
+    "id": "objects-bank-04ed72-07afaa-0ddd08-2-pixel-hd",
+    "kind": "object-sheet",
+    "style": "pixel-hd",
+    "reference": "objects-bank-04ed72-07afaa-0ddd08-2-reference.png",
+    "size": "1536x1024",
+    "sourceId": "bank-04ed72-07afaa-0ddd08",
+    "sheet": "objects-bank-04ed72-07afaa-0ddd08-2"
+  },
+  {
+    "id": "objects-bank-04ed72-07afaa-0ddd08-2-unreal",
+    "kind": "object-sheet",
+    "style": "unreal",
+    "reference": "objects-bank-04ed72-07afaa-0ddd08-2-reference.png",
+    "size": "1536x1024",
+    "sourceId": "bank-04ed72-07afaa-0ddd08",
+    "sheet": "objects-bank-04ed72-07afaa-0ddd08-2"
+  },
+  {
+    "id": "objects-bank-04ed72-07afaa-0ddd08-2-ghibli",
+    "kind": "object-sheet",
+    "style": "ghibli",
+    "reference": "objects-bank-04ed72-07afaa-0ddd08-2-reference.png",
+    "size": "1536x1024",
+    "sourceId": "bank-04ed72-07afaa-0ddd08",
+    "sheet": "objects-bank-04ed72-07afaa-0ddd08-2"
+  },
+  {
+    "id": "objects-bank-04ed72-07afaa-0ddd08-3-pixel-hd",
+    "kind": "object-sheet",
+    "style": "pixel-hd",
+    "reference": "objects-bank-04ed72-07afaa-0ddd08-3-reference.png",
+    "size": "1536x1024",
+    "sourceId": "bank-04ed72-07afaa-0ddd08",
+    "sheet": "objects-bank-04ed72-07afaa-0ddd08-3"
+  },
+  {
+    "id": "objects-bank-04ed72-07afaa-0ddd08-3-unreal",
+    "kind": "object-sheet",
+    "style": "unreal",
+    "reference": "objects-bank-04ed72-07afaa-0ddd08-3-reference.png",
+    "size": "1536x1024",
+    "sourceId": "bank-04ed72-07afaa-0ddd08",
+    "sheet": "objects-bank-04ed72-07afaa-0ddd08-3"
+  },
+  {
+    "id": "objects-bank-04ed72-07afaa-0ddd08-3-ghibli",
+    "kind": "object-sheet",
+    "style": "ghibli",
+    "reference": "objects-bank-04ed72-07afaa-0ddd08-3-reference.png",
+    "size": "1536x1024",
+    "sourceId": "bank-04ed72-07afaa-0ddd08",
+    "sheet": "objects-bank-04ed72-07afaa-0ddd08-3"
+  },
+  {
+    "id": "objects-bank-0471ae-079eea-0ddd48-1-pixel-hd",
+    "kind": "object-sheet",
+    "style": "pixel-hd",
+    "reference": "objects-bank-0471ae-079eea-0ddd48-1-reference.png",
+    "size": "1536x1024",
+    "sourceId": "bank-0471ae-079eea-0ddd48",
+    "sheet": "objects-bank-0471ae-079eea-0ddd48-1"
+  },
+  {
+    "id": "objects-bank-0471ae-079eea-0ddd48-1-unreal",
+    "kind": "object-sheet",
+    "style": "unreal",
+    "reference": "objects-bank-0471ae-079eea-0ddd48-1-reference.png",
+    "size": "1536x1024",
+    "sourceId": "bank-0471ae-079eea-0ddd48",
+    "sheet": "objects-bank-0471ae-079eea-0ddd48-1"
+  },
+  {
+    "id": "objects-bank-0471ae-079eea-0ddd48-1-ghibli",
+    "kind": "object-sheet",
+    "style": "ghibli",
+    "reference": "objects-bank-0471ae-079eea-0ddd48-1-reference.png",
+    "size": "1536x1024",
+    "sourceId": "bank-0471ae-079eea-0ddd48",
+    "sheet": "objects-bank-0471ae-079eea-0ddd48-1"
+  },
+  {
+    "id": "objects-bank-0471ae-079eea-0ddd48-2-pixel-hd",
+    "kind": "object-sheet",
+    "style": "pixel-hd",
+    "reference": "objects-bank-0471ae-079eea-0ddd48-2-reference.png",
+    "size": "1536x1024",
+    "sourceId": "bank-0471ae-079eea-0ddd48",
+    "sheet": "objects-bank-0471ae-079eea-0ddd48-2"
+  },
+  {
+    "id": "objects-bank-0471ae-079eea-0ddd48-2-unreal",
+    "kind": "object-sheet",
+    "style": "unreal",
+    "reference": "objects-bank-0471ae-079eea-0ddd48-2-reference.png",
+    "size": "1536x1024",
+    "sourceId": "bank-0471ae-079eea-0ddd48",
+    "sheet": "objects-bank-0471ae-079eea-0ddd48-2"
+  },
+  {
+    "id": "objects-bank-0471ae-079eea-0ddd48-2-ghibli",
+    "kind": "object-sheet",
+    "style": "ghibli",
+    "reference": "objects-bank-0471ae-079eea-0ddd48-2-reference.png",
+    "size": "1536x1024",
+    "sourceId": "bank-0471ae-079eea-0ddd48",
+    "sheet": "objects-bank-0471ae-079eea-0ddd48-2"
+  },
+  {
+    "id": "objects-bank-0471ae-079eea-0ddd48-3-pixel-hd",
+    "kind": "object-sheet",
+    "style": "pixel-hd",
+    "reference": "objects-bank-0471ae-079eea-0ddd48-3-reference.png",
+    "size": "1536x1024",
+    "sourceId": "bank-0471ae-079eea-0ddd48",
+    "sheet": "objects-bank-0471ae-079eea-0ddd48-3"
+  },
+  {
+    "id": "objects-bank-0471ae-079eea-0ddd48-3-unreal",
+    "kind": "object-sheet",
+    "style": "unreal",
+    "reference": "objects-bank-0471ae-079eea-0ddd48-3-reference.png",
+    "size": "1536x1024",
+    "sourceId": "bank-0471ae-079eea-0ddd48",
+    "sheet": "objects-bank-0471ae-079eea-0ddd48-3"
+  },
+  {
+    "id": "objects-bank-0471ae-079eea-0ddd48-3-ghibli",
+    "kind": "object-sheet",
+    "style": "ghibli",
+    "reference": "objects-bank-0471ae-079eea-0ddd48-3-reference.png",
+    "size": "1536x1024",
+    "sourceId": "bank-0471ae-079eea-0ddd48",
+    "sheet": "objects-bank-0471ae-079eea-0ddd48-3"
+  },
+  {
+    "id": "objects-bank-05f018-07e08a-0dd948-1-pixel-hd",
+    "kind": "object-sheet",
+    "style": "pixel-hd",
+    "reference": "objects-bank-05f018-07e08a-0dd948-1-reference.png",
+    "size": "1536x1024",
+    "sourceId": "bank-05f018-07e08a-0dd948",
+    "sheet": "objects-bank-05f018-07e08a-0dd948-1"
+  },
+  {
+    "id": "objects-bank-05f018-07e08a-0dd948-1-unreal",
+    "kind": "object-sheet",
+    "style": "unreal",
+    "reference": "objects-bank-05f018-07e08a-0dd948-1-reference.png",
+    "size": "1536x1024",
+    "sourceId": "bank-05f018-07e08a-0dd948",
+    "sheet": "objects-bank-05f018-07e08a-0dd948-1"
+  },
+  {
+    "id": "objects-bank-05f018-07e08a-0dd948-1-ghibli",
+    "kind": "object-sheet",
+    "style": "ghibli",
+    "reference": "objects-bank-05f018-07e08a-0dd948-1-reference.png",
+    "size": "1536x1024",
+    "sourceId": "bank-05f018-07e08a-0dd948",
+    "sheet": "objects-bank-05f018-07e08a-0dd948-1"
+  },
+  {
+    "id": "objects-bank-05f018-07e08a-0dd948-2-pixel-hd",
+    "kind": "object-sheet",
+    "style": "pixel-hd",
+    "reference": "objects-bank-05f018-07e08a-0dd948-2-reference.png",
+    "size": "1536x1024",
+    "sourceId": "bank-05f018-07e08a-0dd948",
+    "sheet": "objects-bank-05f018-07e08a-0dd948-2"
+  },
+  {
+    "id": "objects-bank-05f018-07e08a-0dd948-2-unreal",
+    "kind": "object-sheet",
+    "style": "unreal",
+    "reference": "objects-bank-05f018-07e08a-0dd948-2-reference.png",
+    "size": "1536x1024",
+    "sourceId": "bank-05f018-07e08a-0dd948",
+    "sheet": "objects-bank-05f018-07e08a-0dd948-2"
+  },
+  {
+    "id": "objects-bank-05f018-07e08a-0dd948-2-ghibli",
+    "kind": "object-sheet",
+    "style": "ghibli",
+    "reference": "objects-bank-05f018-07e08a-0dd948-2-reference.png",
+    "size": "1536x1024",
+    "sourceId": "bank-05f018-07e08a-0dd948",
+    "sheet": "objects-bank-05f018-07e08a-0dd948-2"
+  },
+  {
+    "id": "objects-bank-05f018-07e08a-0dd948-3-pixel-hd",
+    "kind": "object-sheet",
+    "style": "pixel-hd",
+    "reference": "objects-bank-05f018-07e08a-0dd948-3-reference.png",
+    "size": "1536x1024",
+    "sourceId": "bank-05f018-07e08a-0dd948",
+    "sheet": "objects-bank-05f018-07e08a-0dd948-3"
+  },
+  {
+    "id": "objects-bank-05f018-07e08a-0dd948-3-unreal",
+    "kind": "object-sheet",
+    "style": "unreal",
+    "reference": "objects-bank-05f018-07e08a-0dd948-3-reference.png",
+    "size": "1536x1024",
+    "sourceId": "bank-05f018-07e08a-0dd948",
+    "sheet": "objects-bank-05f018-07e08a-0dd948-3"
+  },
+  {
+    "id": "objects-bank-05f018-07e08a-0dd948-3-ghibli",
+    "kind": "object-sheet",
+    "style": "ghibli",
+    "reference": "objects-bank-05f018-07e08a-0dd948-3-reference.png",
+    "size": "1536x1024",
+    "sourceId": "bank-05f018-07e08a-0dd948",
+    "sheet": "objects-bank-05f018-07e08a-0dd948-3"
+  },
+  {
+    "id": "objects-bank-037948-07852a-0ddd88-1-pixel-hd",
+    "kind": "object-sheet",
+    "style": "pixel-hd",
+    "reference": "objects-bank-037948-07852a-0ddd88-1-reference.png",
+    "size": "1536x1024",
+    "sourceId": "bank-037948-07852a-0ddd88",
+    "sheet": "objects-bank-037948-07852a-0ddd88-1"
+  },
+  {
+    "id": "objects-bank-037948-07852a-0ddd88-1-unreal",
+    "kind": "object-sheet",
+    "style": "unreal",
+    "reference": "objects-bank-037948-07852a-0ddd88-1-reference.png",
+    "size": "1536x1024",
+    "sourceId": "bank-037948-07852a-0ddd88",
+    "sheet": "objects-bank-037948-07852a-0ddd88-1"
+  },
+  {
+    "id": "objects-bank-037948-07852a-0ddd88-1-ghibli",
+    "kind": "object-sheet",
+    "style": "ghibli",
+    "reference": "objects-bank-037948-07852a-0ddd88-1-reference.png",
+    "size": "1536x1024",
+    "sourceId": "bank-037948-07852a-0ddd88",
+    "sheet": "objects-bank-037948-07852a-0ddd88-1"
+  },
+  {
+    "id": "objects-bank-037948-07852a-0ddd88-2-pixel-hd",
+    "kind": "object-sheet",
+    "style": "pixel-hd",
+    "reference": "objects-bank-037948-07852a-0ddd88-2-reference.png",
+    "size": "1536x1024",
+    "sourceId": "bank-037948-07852a-0ddd88",
+    "sheet": "objects-bank-037948-07852a-0ddd88-2"
+  },
+  {
+    "id": "objects-bank-037948-07852a-0ddd88-2-unreal",
+    "kind": "object-sheet",
+    "style": "unreal",
+    "reference": "objects-bank-037948-07852a-0ddd88-2-reference.png",
+    "size": "1536x1024",
+    "sourceId": "bank-037948-07852a-0ddd88",
+    "sheet": "objects-bank-037948-07852a-0ddd88-2"
+  },
+  {
+    "id": "objects-bank-037948-07852a-0ddd88-2-ghibli",
+    "kind": "object-sheet",
+    "style": "ghibli",
+    "reference": "objects-bank-037948-07852a-0ddd88-2-reference.png",
+    "size": "1536x1024",
+    "sourceId": "bank-037948-07852a-0ddd88",
+    "sheet": "objects-bank-037948-07852a-0ddd88-2"
+  },
+  {
+    "id": "objects-bank-059976-07d64a-0dddc8-1-pixel-hd",
+    "kind": "object-sheet",
+    "style": "pixel-hd",
+    "reference": "objects-bank-059976-07d64a-0dddc8-1-reference.png",
+    "size": "1536x1024",
+    "sourceId": "bank-059976-07d64a-0dddc8",
+    "sheet": "objects-bank-059976-07d64a-0dddc8-1"
+  },
+  {
+    "id": "objects-bank-059976-07d64a-0dddc8-1-unreal",
+    "kind": "object-sheet",
+    "style": "unreal",
+    "reference": "objects-bank-059976-07d64a-0dddc8-1-reference.png",
+    "size": "1536x1024",
+    "sourceId": "bank-059976-07d64a-0dddc8",
+    "sheet": "objects-bank-059976-07d64a-0dddc8-1"
+  },
+  {
+    "id": "objects-bank-059976-07d64a-0dddc8-1-ghibli",
+    "kind": "object-sheet",
+    "style": "ghibli",
+    "reference": "objects-bank-059976-07d64a-0dddc8-1-reference.png",
+    "size": "1536x1024",
+    "sourceId": "bank-059976-07d64a-0dddc8",
+    "sheet": "objects-bank-059976-07d64a-0dddc8-1"
+  },
+  {
+    "id": "objects-bank-059976-07d64a-0dddc8-2-pixel-hd",
+    "kind": "object-sheet",
+    "style": "pixel-hd",
+    "reference": "objects-bank-059976-07d64a-0dddc8-2-reference.png",
+    "size": "1536x1024",
+    "sourceId": "bank-059976-07d64a-0dddc8",
+    "sheet": "objects-bank-059976-07d64a-0dddc8-2"
+  },
+  {
+    "id": "objects-bank-059976-07d64a-0dddc8-2-unreal",
+    "kind": "object-sheet",
+    "style": "unreal",
+    "reference": "objects-bank-059976-07d64a-0dddc8-2-reference.png",
+    "size": "1536x1024",
+    "sourceId": "bank-059976-07d64a-0dddc8",
+    "sheet": "objects-bank-059976-07d64a-0dddc8-2"
+  },
+  {
+    "id": "objects-bank-059976-07d64a-0dddc8-2-ghibli",
+    "kind": "object-sheet",
+    "style": "ghibli",
+    "reference": "objects-bank-059976-07d64a-0dddc8-2-reference.png",
+    "size": "1536x1024",
+    "sourceId": "bank-059976-07d64a-0dddc8",
+    "sheet": "objects-bank-059976-07d64a-0dddc8-2"
+  },
+  {
+    "id": "objects-bank-059976-07d64a-0dddc8-3-pixel-hd",
+    "kind": "object-sheet",
+    "style": "pixel-hd",
+    "reference": "objects-bank-059976-07d64a-0dddc8-3-reference.png",
+    "size": "1536x1024",
+    "sourceId": "bank-059976-07d64a-0dddc8",
+    "sheet": "objects-bank-059976-07d64a-0dddc8-3"
+  },
+  {
+    "id": "objects-bank-059976-07d64a-0dddc8-3-unreal",
+    "kind": "object-sheet",
+    "style": "unreal",
+    "reference": "objects-bank-059976-07d64a-0dddc8-3-reference.png",
+    "size": "1536x1024",
+    "sourceId": "bank-059976-07d64a-0dddc8",
+    "sheet": "objects-bank-059976-07d64a-0dddc8-3"
+  },
+  {
+    "id": "objects-bank-059976-07d64a-0dddc8-3-ghibli",
+    "kind": "object-sheet",
+    "style": "ghibli",
+    "reference": "objects-bank-059976-07d64a-0dddc8-3-reference.png",
+    "size": "1536x1024",
+    "sourceId": "bank-059976-07d64a-0dddc8",
+    "sheet": "objects-bank-059976-07d64a-0dddc8-3"
+  },
+  {
+    "id": "objects-bank-059976-07d64a-0dddc8-4-pixel-hd",
+    "kind": "object-sheet",
+    "style": "pixel-hd",
+    "reference": "objects-bank-059976-07d64a-0dddc8-4-reference.png",
+    "size": "1536x1024",
+    "sourceId": "bank-059976-07d64a-0dddc8",
+    "sheet": "objects-bank-059976-07d64a-0dddc8-4"
+  },
+  {
+    "id": "objects-bank-059976-07d64a-0dddc8-4-unreal",
+    "kind": "object-sheet",
+    "style": "unreal",
+    "reference": "objects-bank-059976-07d64a-0dddc8-4-reference.png",
+    "size": "1536x1024",
+    "sourceId": "bank-059976-07d64a-0dddc8",
+    "sheet": "objects-bank-059976-07d64a-0dddc8-4"
+  },
+  {
+    "id": "objects-bank-059976-07d64a-0dddc8-4-ghibli",
+    "kind": "object-sheet",
+    "style": "ghibli",
+    "reference": "objects-bank-059976-07d64a-0dddc8-4-reference.png",
+    "size": "1536x1024",
+    "sourceId": "bank-059976-07d64a-0dddc8",
+    "sheet": "objects-bank-059976-07d64a-0dddc8-4"
+  },
+  {
+    "id": "objects-bank-059976-07d64a-0dddc8-5-pixel-hd",
+    "kind": "object-sheet",
+    "style": "pixel-hd",
+    "reference": "objects-bank-059976-07d64a-0dddc8-5-reference.png",
+    "size": "1536x1024",
+    "sourceId": "bank-059976-07d64a-0dddc8",
+    "sheet": "objects-bank-059976-07d64a-0dddc8-5"
+  },
+  {
+    "id": "objects-bank-059976-07d64a-0dddc8-5-unreal",
+    "kind": "object-sheet",
+    "style": "unreal",
+    "reference": "objects-bank-059976-07d64a-0dddc8-5-reference.png",
+    "size": "1536x1024",
+    "sourceId": "bank-059976-07d64a-0dddc8",
+    "sheet": "objects-bank-059976-07d64a-0dddc8-5"
+  },
+  {
+    "id": "objects-bank-059976-07d64a-0dddc8-5-ghibli",
+    "kind": "object-sheet",
+    "style": "ghibli",
+    "reference": "objects-bank-059976-07d64a-0dddc8-5-reference.png",
+    "size": "1536x1024",
+    "sourceId": "bank-059976-07d64a-0dddc8",
+    "sheet": "objects-bank-059976-07d64a-0dddc8-5"
+  },
+  {
+    "id": "objects-bank-059976-07d64a-0dddc8-6-pixel-hd",
+    "kind": "object-sheet",
+    "style": "pixel-hd",
+    "reference": "objects-bank-059976-07d64a-0dddc8-6-reference.png",
+    "size": "1536x1024",
+    "sourceId": "bank-059976-07d64a-0dddc8",
+    "sheet": "objects-bank-059976-07d64a-0dddc8-6"
+  },
+  {
+    "id": "objects-bank-059976-07d64a-0dddc8-6-unreal",
+    "kind": "object-sheet",
+    "style": "unreal",
+    "reference": "objects-bank-059976-07d64a-0dddc8-6-reference.png",
+    "size": "1536x1024",
+    "sourceId": "bank-059976-07d64a-0dddc8",
+    "sheet": "objects-bank-059976-07d64a-0dddc8-6"
+  },
+  {
+    "id": "objects-bank-059976-07d64a-0dddc8-6-ghibli",
+    "kind": "object-sheet",
+    "style": "ghibli",
+    "reference": "objects-bank-059976-07d64a-0dddc8-6-reference.png",
+    "size": "1536x1024",
+    "sourceId": "bank-059976-07d64a-0dddc8",
+    "sheet": "objects-bank-059976-07d64a-0dddc8-6"
+  },
+  {
+    "id": "objects-bank-053fd4-07cbea-0dde08-1-pixel-hd",
+    "kind": "object-sheet",
+    "style": "pixel-hd",
+    "reference": "objects-bank-053fd4-07cbea-0dde08-1-reference.png",
+    "size": "1536x1024",
+    "sourceId": "bank-053fd4-07cbea-0dde08",
+    "sheet": "objects-bank-053fd4-07cbea-0dde08-1"
+  },
+  {
+    "id": "objects-bank-053fd4-07cbea-0dde08-1-unreal",
+    "kind": "object-sheet",
+    "style": "unreal",
+    "reference": "objects-bank-053fd4-07cbea-0dde08-1-reference.png",
+    "size": "1536x1024",
+    "sourceId": "bank-053fd4-07cbea-0dde08",
+    "sheet": "objects-bank-053fd4-07cbea-0dde08-1"
+  },
+  {
+    "id": "objects-bank-053fd4-07cbea-0dde08-1-ghibli",
+    "kind": "object-sheet",
+    "style": "ghibli",
+    "reference": "objects-bank-053fd4-07cbea-0dde08-1-reference.png",
+    "size": "1536x1024",
+    "sourceId": "bank-053fd4-07cbea-0dde08",
+    "sheet": "objects-bank-053fd4-07cbea-0dde08-1"
+  },
+  {
+    "id": "objects-bank-053fd4-07cbea-0dde08-2-pixel-hd",
+    "kind": "object-sheet",
+    "style": "pixel-hd",
+    "reference": "objects-bank-053fd4-07cbea-0dde08-2-reference.png",
+    "size": "1536x1024",
+    "sourceId": "bank-053fd4-07cbea-0dde08",
+    "sheet": "objects-bank-053fd4-07cbea-0dde08-2"
+  },
+  {
+    "id": "objects-bank-053fd4-07cbea-0dde08-2-unreal",
+    "kind": "object-sheet",
+    "style": "unreal",
+    "reference": "objects-bank-053fd4-07cbea-0dde08-2-reference.png",
+    "size": "1536x1024",
+    "sourceId": "bank-053fd4-07cbea-0dde08",
+    "sheet": "objects-bank-053fd4-07cbea-0dde08-2"
+  },
+  {
+    "id": "objects-bank-053fd4-07cbea-0dde08-2-ghibli",
+    "kind": "object-sheet",
+    "style": "ghibli",
+    "reference": "objects-bank-053fd4-07cbea-0dde08-2-reference.png",
+    "size": "1536x1024",
+    "sourceId": "bank-053fd4-07cbea-0dde08",
+    "sheet": "objects-bank-053fd4-07cbea-0dde08-2"
+  },
+  {
+    "id": "objects-bank-053fd4-07cbea-0dde08-3-pixel-hd",
+    "kind": "object-sheet",
+    "style": "pixel-hd",
+    "reference": "objects-bank-053fd4-07cbea-0dde08-3-reference.png",
+    "size": "1536x1024",
+    "sourceId": "bank-053fd4-07cbea-0dde08",
+    "sheet": "objects-bank-053fd4-07cbea-0dde08-3"
+  },
+  {
+    "id": "objects-bank-053fd4-07cbea-0dde08-3-unreal",
+    "kind": "object-sheet",
+    "style": "unreal",
+    "reference": "objects-bank-053fd4-07cbea-0dde08-3-reference.png",
+    "size": "1536x1024",
+    "sourceId": "bank-053fd4-07cbea-0dde08",
+    "sheet": "objects-bank-053fd4-07cbea-0dde08-3"
+  },
+  {
+    "id": "objects-bank-053fd4-07cbea-0dde08-3-ghibli",
+    "kind": "object-sheet",
+    "style": "ghibli",
+    "reference": "objects-bank-053fd4-07cbea-0dde08-3-reference.png",
+    "size": "1536x1024",
+    "sourceId": "bank-053fd4-07cbea-0dde08",
+    "sheet": "objects-bank-053fd4-07cbea-0dde08-3"
+  },
+  {
+    "id": "objects-bank-04b710-07a56a-0dde48-1-pixel-hd",
+    "kind": "object-sheet",
+    "style": "pixel-hd",
+    "reference": "objects-bank-04b710-07a56a-0dde48-1-reference.png",
+    "size": "1536x1024",
+    "sourceId": "bank-04b710-07a56a-0dde48",
+    "sheet": "objects-bank-04b710-07a56a-0dde48-1"
+  },
+  {
+    "id": "objects-bank-04b710-07a56a-0dde48-1-unreal",
+    "kind": "object-sheet",
+    "style": "unreal",
+    "reference": "objects-bank-04b710-07a56a-0dde48-1-reference.png",
+    "size": "1536x1024",
+    "sourceId": "bank-04b710-07a56a-0dde48",
+    "sheet": "objects-bank-04b710-07a56a-0dde48-1"
+  },
+  {
+    "id": "objects-bank-04b710-07a56a-0dde48-1-ghibli",
+    "kind": "object-sheet",
+    "style": "ghibli",
+    "reference": "objects-bank-04b710-07a56a-0dde48-1-reference.png",
+    "size": "1536x1024",
+    "sourceId": "bank-04b710-07a56a-0dde48",
+    "sheet": "objects-bank-04b710-07a56a-0dde48-1"
+  },
+  {
+    "id": "objects-bank-06111a-07e50a-0dde88-1-pixel-hd",
+    "kind": "object-sheet",
+    "style": "pixel-hd",
+    "reference": "objects-bank-06111a-07e50a-0dde88-1-reference.png",
+    "size": "1536x1024",
+    "sourceId": "bank-06111a-07e50a-0dde88",
+    "sheet": "objects-bank-06111a-07e50a-0dde88-1"
+  },
+  {
+    "id": "objects-bank-06111a-07e50a-0dde88-1-unreal",
+    "kind": "object-sheet",
+    "style": "unreal",
+    "reference": "objects-bank-06111a-07e50a-0dde88-1-reference.png",
+    "size": "1536x1024",
+    "sourceId": "bank-06111a-07e50a-0dde88",
+    "sheet": "objects-bank-06111a-07e50a-0dde88-1"
+  },
+  {
+    "id": "objects-bank-06111a-07e50a-0dde88-1-ghibli",
+    "kind": "object-sheet",
+    "style": "ghibli",
+    "reference": "objects-bank-06111a-07e50a-0dde88-1-reference.png",
+    "size": "1536x1024",
+    "sourceId": "bank-06111a-07e50a-0dde88",
+    "sheet": "objects-bank-06111a-07e50a-0dde88-1"
+  },
+  {
+    "id": "objects-bank-06111a-07e50a-0dde88-2-pixel-hd",
+    "kind": "object-sheet",
+    "style": "pixel-hd",
+    "reference": "objects-bank-06111a-07e50a-0dde88-2-reference.png",
+    "size": "1536x1024",
+    "sourceId": "bank-06111a-07e50a-0dde88",
+    "sheet": "objects-bank-06111a-07e50a-0dde88-2"
+  },
+  {
+    "id": "objects-bank-06111a-07e50a-0dde88-2-unreal",
+    "kind": "object-sheet",
+    "style": "unreal",
+    "reference": "objects-bank-06111a-07e50a-0dde88-2-reference.png",
+    "size": "1536x1024",
+    "sourceId": "bank-06111a-07e50a-0dde88",
+    "sheet": "objects-bank-06111a-07e50a-0dde88-2"
+  },
+  {
+    "id": "objects-bank-06111a-07e50a-0dde88-2-ghibli",
+    "kind": "object-sheet",
+    "style": "ghibli",
+    "reference": "objects-bank-06111a-07e50a-0dde88-2-reference.png",
+    "size": "1536x1024",
+    "sourceId": "bank-06111a-07e50a-0dde88",
+    "sheet": "objects-bank-06111a-07e50a-0dde88-2"
+  },
+  {
+    "id": "objects-bank-06111a-07e50a-0dde88-3-pixel-hd",
+    "kind": "object-sheet",
+    "style": "pixel-hd",
+    "reference": "objects-bank-06111a-07e50a-0dde88-3-reference.png",
+    "size": "1536x1024",
+    "sourceId": "bank-06111a-07e50a-0dde88",
+    "sheet": "objects-bank-06111a-07e50a-0dde88-3"
+  },
+  {
+    "id": "objects-bank-06111a-07e50a-0dde88-3-unreal",
+    "kind": "object-sheet",
+    "style": "unreal",
+    "reference": "objects-bank-06111a-07e50a-0dde88-3-reference.png",
+    "size": "1536x1024",
+    "sourceId": "bank-06111a-07e50a-0dde88",
+    "sheet": "objects-bank-06111a-07e50a-0dde88-3"
+  },
+  {
+    "id": "objects-bank-06111a-07e50a-0dde88-3-ghibli",
+    "kind": "object-sheet",
+    "style": "ghibli",
+    "reference": "objects-bank-06111a-07e50a-0dde88-3-reference.png",
+    "size": "1536x1024",
+    "sourceId": "bank-06111a-07e50a-0dde88",
+    "sheet": "objects-bank-06111a-07e50a-0dde88-3"
+  },
+  {
+    "id": "objects-bank-06111a-07e50a-0dde88-4-pixel-hd",
+    "kind": "object-sheet",
+    "style": "pixel-hd",
+    "reference": "objects-bank-06111a-07e50a-0dde88-4-reference.png",
+    "size": "1536x1024",
+    "sourceId": "bank-06111a-07e50a-0dde88",
+    "sheet": "objects-bank-06111a-07e50a-0dde88-4"
+  },
+  {
+    "id": "objects-bank-06111a-07e50a-0dde88-4-unreal",
+    "kind": "object-sheet",
+    "style": "unreal",
+    "reference": "objects-bank-06111a-07e50a-0dde88-4-reference.png",
+    "size": "1536x1024",
+    "sourceId": "bank-06111a-07e50a-0dde88",
+    "sheet": "objects-bank-06111a-07e50a-0dde88-4"
+  },
+  {
+    "id": "objects-bank-06111a-07e50a-0dde88-4-ghibli",
+    "kind": "object-sheet",
+    "style": "ghibli",
+    "reference": "objects-bank-06111a-07e50a-0dde88-4-reference.png",
+    "size": "1536x1024",
+    "sourceId": "bank-06111a-07e50a-0dde88",
+    "sheet": "objects-bank-06111a-07e50a-0dde88-4"
+  },
+  {
+    "id": "objects-bank-06111a-07e50a-0dde88-5-pixel-hd",
+    "kind": "object-sheet",
+    "style": "pixel-hd",
+    "reference": "objects-bank-06111a-07e50a-0dde88-5-reference.png",
+    "size": "1536x1024",
+    "sourceId": "bank-06111a-07e50a-0dde88",
+    "sheet": "objects-bank-06111a-07e50a-0dde88-5"
+  },
+  {
+    "id": "objects-bank-06111a-07e50a-0dde88-5-unreal",
+    "kind": "object-sheet",
+    "style": "unreal",
+    "reference": "objects-bank-06111a-07e50a-0dde88-5-reference.png",
+    "size": "1536x1024",
+    "sourceId": "bank-06111a-07e50a-0dde88",
+    "sheet": "objects-bank-06111a-07e50a-0dde88-5"
+  },
+  {
+    "id": "objects-bank-06111a-07e50a-0dde88-5-ghibli",
+    "kind": "object-sheet",
+    "style": "ghibli",
+    "reference": "objects-bank-06111a-07e50a-0dde88-5-reference.png",
+    "size": "1536x1024",
+    "sourceId": "bank-06111a-07e50a-0dde88",
+    "sheet": "objects-bank-06111a-07e50a-0dde88-5"
+  },
+  {
+    "id": "objects-bank-06111a-07e50a-0dde88-6-pixel-hd",
+    "kind": "object-sheet",
+    "style": "pixel-hd",
+    "reference": "objects-bank-06111a-07e50a-0dde88-6-reference.png",
+    "size": "1536x1024",
+    "sourceId": "bank-06111a-07e50a-0dde88",
+    "sheet": "objects-bank-06111a-07e50a-0dde88-6"
+  },
+  {
+    "id": "objects-bank-06111a-07e50a-0dde88-6-unreal",
+    "kind": "object-sheet",
+    "style": "unreal",
+    "reference": "objects-bank-06111a-07e50a-0dde88-6-reference.png",
+    "size": "1536x1024",
+    "sourceId": "bank-06111a-07e50a-0dde88",
+    "sheet": "objects-bank-06111a-07e50a-0dde88-6"
+  },
+  {
+    "id": "objects-bank-06111a-07e50a-0dde88-6-ghibli",
+    "kind": "object-sheet",
+    "style": "ghibli",
+    "reference": "objects-bank-06111a-07e50a-0dde88-6-reference.png",
+    "size": "1536x1024",
+    "sourceId": "bank-06111a-07e50a-0dde88",
+    "sheet": "objects-bank-06111a-07e50a-0dde88-6"
+  },
+  {
+    "id": "objects-bank-06111a-07e50a-0dde88-7-pixel-hd",
+    "kind": "object-sheet",
+    "style": "pixel-hd",
+    "reference": "objects-bank-06111a-07e50a-0dde88-7-reference.png",
+    "size": "1536x1024",
+    "sourceId": "bank-06111a-07e50a-0dde88",
+    "sheet": "objects-bank-06111a-07e50a-0dde88-7"
+  },
+  {
+    "id": "objects-bank-06111a-07e50a-0dde88-7-unreal",
+    "kind": "object-sheet",
+    "style": "unreal",
+    "reference": "objects-bank-06111a-07e50a-0dde88-7-reference.png",
+    "size": "1536x1024",
+    "sourceId": "bank-06111a-07e50a-0dde88",
+    "sheet": "objects-bank-06111a-07e50a-0dde88-7"
+  },
+  {
+    "id": "objects-bank-06111a-07e50a-0dde88-7-ghibli",
+    "kind": "object-sheet",
+    "style": "ghibli",
+    "reference": "objects-bank-06111a-07e50a-0dde88-7-reference.png",
+    "size": "1536x1024",
+    "sourceId": "bank-06111a-07e50a-0dde88",
+    "sheet": "objects-bank-06111a-07e50a-0dde88-7"
+  },
+  {
+    "id": "objects-bank-06111a-07e50a-0dde88-8-pixel-hd",
+    "kind": "object-sheet",
+    "style": "pixel-hd",
+    "reference": "objects-bank-06111a-07e50a-0dde88-8-reference.png",
+    "size": "1536x1024",
+    "sourceId": "bank-06111a-07e50a-0dde88",
+    "sheet": "objects-bank-06111a-07e50a-0dde88-8"
+  },
+  {
+    "id": "objects-bank-06111a-07e50a-0dde88-8-unreal",
+    "kind": "object-sheet",
+    "style": "unreal",
+    "reference": "objects-bank-06111a-07e50a-0dde88-8-reference.png",
+    "size": "1536x1024",
+    "sourceId": "bank-06111a-07e50a-0dde88",
+    "sheet": "objects-bank-06111a-07e50a-0dde88-8"
+  },
+  {
+    "id": "objects-bank-06111a-07e50a-0dde88-8-ghibli",
+    "kind": "object-sheet",
+    "style": "ghibli",
+    "reference": "objects-bank-06111a-07e50a-0dde88-8-reference.png",
+    "size": "1536x1024",
+    "sourceId": "bank-06111a-07e50a-0dde88",
+    "sheet": "objects-bank-06111a-07e50a-0dde88-8"
+  },
+  {
+    "id": "objects-bank-06111a-07e50a-0dde88-9-pixel-hd",
+    "kind": "object-sheet",
+    "style": "pixel-hd",
+    "reference": "objects-bank-06111a-07e50a-0dde88-9-reference.png",
+    "size": "1536x1024",
+    "sourceId": "bank-06111a-07e50a-0dde88",
+    "sheet": "objects-bank-06111a-07e50a-0dde88-9"
+  },
+  {
+    "id": "objects-bank-06111a-07e50a-0dde88-9-unreal",
+    "kind": "object-sheet",
+    "style": "unreal",
+    "reference": "objects-bank-06111a-07e50a-0dde88-9-reference.png",
+    "size": "1536x1024",
+    "sourceId": "bank-06111a-07e50a-0dde88",
+    "sheet": "objects-bank-06111a-07e50a-0dde88-9"
+  },
+  {
+    "id": "objects-bank-06111a-07e50a-0dde88-9-ghibli",
+    "kind": "object-sheet",
+    "style": "ghibli",
+    "reference": "objects-bank-06111a-07e50a-0dde88-9-reference.png",
+    "size": "1536x1024",
+    "sourceId": "bank-06111a-07e50a-0dde88",
+    "sheet": "objects-bank-06111a-07e50a-0dde88-9"
+  },
+  {
+    "id": "objects-bank-066d5c-07efea-0ddec8-1-pixel-hd",
+    "kind": "object-sheet",
+    "style": "pixel-hd",
+    "reference": "objects-bank-066d5c-07efea-0ddec8-1-reference.png",
+    "size": "1536x1024",
+    "sourceId": "bank-066d5c-07efea-0ddec8",
+    "sheet": "objects-bank-066d5c-07efea-0ddec8-1"
+  },
+  {
+    "id": "objects-bank-066d5c-07efea-0ddec8-1-unreal",
+    "kind": "object-sheet",
+    "style": "unreal",
+    "reference": "objects-bank-066d5c-07efea-0ddec8-1-reference.png",
+    "size": "1536x1024",
+    "sourceId": "bank-066d5c-07efea-0ddec8",
+    "sheet": "objects-bank-066d5c-07efea-0ddec8-1"
+  },
+  {
+    "id": "objects-bank-066d5c-07efea-0ddec8-1-ghibli",
+    "kind": "object-sheet",
+    "style": "ghibli",
+    "reference": "objects-bank-066d5c-07efea-0ddec8-1-reference.png",
+    "size": "1536x1024",
+    "sourceId": "bank-066d5c-07efea-0ddec8",
+    "sheet": "objects-bank-066d5c-07efea-0ddec8-1"
+  },
+  {
+    "id": "objects-bank-066d5c-07efea-0ddec8-2-pixel-hd",
+    "kind": "object-sheet",
+    "style": "pixel-hd",
+    "reference": "objects-bank-066d5c-07efea-0ddec8-2-reference.png",
+    "size": "1536x1024",
+    "sourceId": "bank-066d5c-07efea-0ddec8",
+    "sheet": "objects-bank-066d5c-07efea-0ddec8-2"
+  },
+  {
+    "id": "objects-bank-066d5c-07efea-0ddec8-2-unreal",
+    "kind": "object-sheet",
+    "style": "unreal",
+    "reference": "objects-bank-066d5c-07efea-0ddec8-2-reference.png",
+    "size": "1536x1024",
+    "sourceId": "bank-066d5c-07efea-0ddec8",
+    "sheet": "objects-bank-066d5c-07efea-0ddec8-2"
+  },
+  {
+    "id": "objects-bank-066d5c-07efea-0ddec8-2-ghibli",
+    "kind": "object-sheet",
+    "style": "ghibli",
+    "reference": "objects-bank-066d5c-07efea-0ddec8-2-reference.png",
+    "size": "1536x1024",
+    "sourceId": "bank-066d5c-07efea-0ddec8",
+    "sheet": "objects-bank-066d5c-07efea-0ddec8-2"
+  },
+  {
+    "id": "objects-bank-066d5c-07efea-0ddec8-3-pixel-hd",
+    "kind": "object-sheet",
+    "style": "pixel-hd",
+    "reference": "objects-bank-066d5c-07efea-0ddec8-3-reference.png",
+    "size": "1536x1024",
+    "sourceId": "bank-066d5c-07efea-0ddec8",
+    "sheet": "objects-bank-066d5c-07efea-0ddec8-3"
+  },
+  {
+    "id": "objects-bank-066d5c-07efea-0ddec8-3-unreal",
+    "kind": "object-sheet",
+    "style": "unreal",
+    "reference": "objects-bank-066d5c-07efea-0ddec8-3-reference.png",
+    "size": "1536x1024",
+    "sourceId": "bank-066d5c-07efea-0ddec8",
+    "sheet": "objects-bank-066d5c-07efea-0ddec8-3"
+  },
+  {
+    "id": "objects-bank-066d5c-07efea-0ddec8-3-ghibli",
+    "kind": "object-sheet",
+    "style": "ghibli",
+    "reference": "objects-bank-066d5c-07efea-0ddec8-3-reference.png",
+    "size": "1536x1024",
+    "sourceId": "bank-066d5c-07efea-0ddec8",
+    "sheet": "objects-bank-066d5c-07efea-0ddec8-3"
+  },
+  {
+    "id": "objects-bank-0694fe-07f58a-0ddf08-1-pixel-hd",
+    "kind": "object-sheet",
+    "style": "pixel-hd",
+    "reference": "objects-bank-0694fe-07f58a-0ddf08-1-reference.png",
+    "size": "1536x1024",
+    "sourceId": "bank-0694fe-07f58a-0ddf08",
+    "sheet": "objects-bank-0694fe-07f58a-0ddf08-1"
+  },
+  {
+    "id": "objects-bank-0694fe-07f58a-0ddf08-1-unreal",
+    "kind": "object-sheet",
+    "style": "unreal",
+    "reference": "objects-bank-0694fe-07f58a-0ddf08-1-reference.png",
+    "size": "1536x1024",
+    "sourceId": "bank-0694fe-07f58a-0ddf08",
+    "sheet": "objects-bank-0694fe-07f58a-0ddf08-1"
+  },
+  {
+    "id": "objects-bank-0694fe-07f58a-0ddf08-1-ghibli",
+    "kind": "object-sheet",
+    "style": "ghibli",
+    "reference": "objects-bank-0694fe-07f58a-0ddf08-1-reference.png",
+    "size": "1536x1024",
+    "sourceId": "bank-0694fe-07f58a-0ddf08",
+    "sheet": "objects-bank-0694fe-07f58a-0ddf08-1"
+  },
+  {
+    "id": "objects-bank-0694fe-07f58a-0ddf08-2-pixel-hd",
+    "kind": "object-sheet",
+    "style": "pixel-hd",
+    "reference": "objects-bank-0694fe-07f58a-0ddf08-2-reference.png",
+    "size": "1536x1024",
+    "sourceId": "bank-0694fe-07f58a-0ddf08",
+    "sheet": "objects-bank-0694fe-07f58a-0ddf08-2"
+  },
+  {
+    "id": "objects-bank-0694fe-07f58a-0ddf08-2-unreal",
+    "kind": "object-sheet",
+    "style": "unreal",
+    "reference": "objects-bank-0694fe-07f58a-0ddf08-2-reference.png",
+    "size": "1536x1024",
+    "sourceId": "bank-0694fe-07f58a-0ddf08",
+    "sheet": "objects-bank-0694fe-07f58a-0ddf08-2"
+  },
+  {
+    "id": "objects-bank-0694fe-07f58a-0ddf08-2-ghibli",
+    "kind": "object-sheet",
+    "style": "ghibli",
+    "reference": "objects-bank-0694fe-07f58a-0ddf08-2-reference.png",
+    "size": "1536x1024",
+    "sourceId": "bank-0694fe-07f58a-0ddf08",
+    "sheet": "objects-bank-0694fe-07f58a-0ddf08-2"
+  },
+  {
+    "id": "objects-bank-0694fe-07f58a-0ddf08-3-pixel-hd",
+    "kind": "object-sheet",
+    "style": "pixel-hd",
+    "reference": "objects-bank-0694fe-07f58a-0ddf08-3-reference.png",
+    "size": "1536x1024",
+    "sourceId": "bank-0694fe-07f58a-0ddf08",
+    "sheet": "objects-bank-0694fe-07f58a-0ddf08-3"
+  },
+  {
+    "id": "objects-bank-0694fe-07f58a-0ddf08-3-unreal",
+    "kind": "object-sheet",
+    "style": "unreal",
+    "reference": "objects-bank-0694fe-07f58a-0ddf08-3-reference.png",
+    "size": "1536x1024",
+    "sourceId": "bank-0694fe-07f58a-0ddf08",
+    "sheet": "objects-bank-0694fe-07f58a-0ddf08-3"
+  },
+  {
+    "id": "objects-bank-0694fe-07f58a-0ddf08-3-ghibli",
+    "kind": "object-sheet",
+    "style": "ghibli",
+    "reference": "objects-bank-0694fe-07f58a-0ddf08-3-reference.png",
+    "size": "1536x1024",
+    "sourceId": "bank-0694fe-07f58a-0ddf08",
+    "sheet": "objects-bank-0694fe-07f58a-0ddf08-3"
+  },
+  {
+    "id": "objects-bank-0694fe-07f58a-0ddf08-4-pixel-hd",
+    "kind": "object-sheet",
+    "style": "pixel-hd",
+    "reference": "objects-bank-0694fe-07f58a-0ddf08-4-reference.png",
+    "size": "1536x1024",
+    "sourceId": "bank-0694fe-07f58a-0ddf08",
+    "sheet": "objects-bank-0694fe-07f58a-0ddf08-4"
+  },
+  {
+    "id": "objects-bank-0694fe-07f58a-0ddf08-4-unreal",
+    "kind": "object-sheet",
+    "style": "unreal",
+    "reference": "objects-bank-0694fe-07f58a-0ddf08-4-reference.png",
+    "size": "1536x1024",
+    "sourceId": "bank-0694fe-07f58a-0ddf08",
+    "sheet": "objects-bank-0694fe-07f58a-0ddf08-4"
+  },
+  {
+    "id": "objects-bank-0694fe-07f58a-0ddf08-4-ghibli",
+    "kind": "object-sheet",
+    "style": "ghibli",
+    "reference": "objects-bank-0694fe-07f58a-0ddf08-4-reference.png",
+    "size": "1536x1024",
+    "sourceId": "bank-0694fe-07f58a-0ddf08",
+    "sheet": "objects-bank-0694fe-07f58a-0ddf08-4"
+  },
+  {
+    "id": "objects-bank-0694fe-07f58a-0ddf08-5-pixel-hd",
+    "kind": "object-sheet",
+    "style": "pixel-hd",
+    "reference": "objects-bank-0694fe-07f58a-0ddf08-5-reference.png",
+    "size": "1536x1024",
+    "sourceId": "bank-0694fe-07f58a-0ddf08",
+    "sheet": "objects-bank-0694fe-07f58a-0ddf08-5"
+  },
+  {
+    "id": "objects-bank-0694fe-07f58a-0ddf08-5-unreal",
+    "kind": "object-sheet",
+    "style": "unreal",
+    "reference": "objects-bank-0694fe-07f58a-0ddf08-5-reference.png",
+    "size": "1536x1024",
+    "sourceId": "bank-0694fe-07f58a-0ddf08",
+    "sheet": "objects-bank-0694fe-07f58a-0ddf08-5"
+  },
+  {
+    "id": "objects-bank-0694fe-07f58a-0ddf08-5-ghibli",
+    "kind": "object-sheet",
+    "style": "ghibli",
+    "reference": "objects-bank-0694fe-07f58a-0ddf08-5-reference.png",
+    "size": "1536x1024",
+    "sourceId": "bank-0694fe-07f58a-0ddf08",
+    "sheet": "objects-bank-0694fe-07f58a-0ddf08-5"
+  },
+  {
+    "id": "objects-bank-0694fe-07f58a-0ddf48-1-pixel-hd",
+    "kind": "object-sheet",
+    "style": "pixel-hd",
+    "reference": "objects-bank-0694fe-07f58a-0ddf48-1-reference.png",
+    "size": "1536x1024",
+    "sourceId": "bank-0694fe-07f58a-0ddf48",
+    "sheet": "objects-bank-0694fe-07f58a-0ddf48-1"
+  },
+  {
+    "id": "objects-bank-0694fe-07f58a-0ddf48-1-unreal",
+    "kind": "object-sheet",
+    "style": "unreal",
+    "reference": "objects-bank-0694fe-07f58a-0ddf48-1-reference.png",
+    "size": "1536x1024",
+    "sourceId": "bank-0694fe-07f58a-0ddf48",
+    "sheet": "objects-bank-0694fe-07f58a-0ddf48-1"
+  },
+  {
+    "id": "objects-bank-0694fe-07f58a-0ddf48-1-ghibli",
+    "kind": "object-sheet",
+    "style": "ghibli",
+    "reference": "objects-bank-0694fe-07f58a-0ddf48-1-reference.png",
+    "size": "1536x1024",
+    "sourceId": "bank-0694fe-07f58a-0ddf48",
+    "sheet": "objects-bank-0694fe-07f58a-0ddf48-1"
+  },
+  {
+    "id": "objects-bank-0694fe-07f58a-0ddf48-2-pixel-hd",
+    "kind": "object-sheet",
+    "style": "pixel-hd",
+    "reference": "objects-bank-0694fe-07f58a-0ddf48-2-reference.png",
+    "size": "1536x1024",
+    "sourceId": "bank-0694fe-07f58a-0ddf48",
+    "sheet": "objects-bank-0694fe-07f58a-0ddf48-2"
+  },
+  {
+    "id": "objects-bank-0694fe-07f58a-0ddf48-2-unreal",
+    "kind": "object-sheet",
+    "style": "unreal",
+    "reference": "objects-bank-0694fe-07f58a-0ddf48-2-reference.png",
+    "size": "1536x1024",
+    "sourceId": "bank-0694fe-07f58a-0ddf48",
+    "sheet": "objects-bank-0694fe-07f58a-0ddf48-2"
+  },
+  {
+    "id": "objects-bank-0694fe-07f58a-0ddf48-2-ghibli",
+    "kind": "object-sheet",
+    "style": "ghibli",
+    "reference": "objects-bank-0694fe-07f58a-0ddf48-2-reference.png",
+    "size": "1536x1024",
+    "sourceId": "bank-0694fe-07f58a-0ddf48",
+    "sheet": "objects-bank-0694fe-07f58a-0ddf48-2"
+  },
+  {
+    "id": "objects-bank-0694fe-07f58a-0ddf48-3-pixel-hd",
+    "kind": "object-sheet",
+    "style": "pixel-hd",
+    "reference": "objects-bank-0694fe-07f58a-0ddf48-3-reference.png",
+    "size": "1536x1024",
+    "sourceId": "bank-0694fe-07f58a-0ddf48",
+    "sheet": "objects-bank-0694fe-07f58a-0ddf48-3"
+  },
+  {
+    "id": "objects-bank-0694fe-07f58a-0ddf48-3-unreal",
+    "kind": "object-sheet",
+    "style": "unreal",
+    "reference": "objects-bank-0694fe-07f58a-0ddf48-3-reference.png",
+    "size": "1536x1024",
+    "sourceId": "bank-0694fe-07f58a-0ddf48",
+    "sheet": "objects-bank-0694fe-07f58a-0ddf48-3"
+  },
+  {
+    "id": "objects-bank-0694fe-07f58a-0ddf48-3-ghibli",
+    "kind": "object-sheet",
+    "style": "ghibli",
+    "reference": "objects-bank-0694fe-07f58a-0ddf48-3-reference.png",
+    "size": "1536x1024",
+    "sourceId": "bank-0694fe-07f58a-0ddf48",
+    "sheet": "objects-bank-0694fe-07f58a-0ddf48-3"
+  },
+  {
+    "id": "objects-bank-0694fe-07f58a-0ddf48-4-pixel-hd",
+    "kind": "object-sheet",
+    "style": "pixel-hd",
+    "reference": "objects-bank-0694fe-07f58a-0ddf48-4-reference.png",
+    "size": "1536x1024",
+    "sourceId": "bank-0694fe-07f58a-0ddf48",
+    "sheet": "objects-bank-0694fe-07f58a-0ddf48-4"
+  },
+  {
+    "id": "objects-bank-0694fe-07f58a-0ddf48-4-unreal",
+    "kind": "object-sheet",
+    "style": "unreal",
+    "reference": "objects-bank-0694fe-07f58a-0ddf48-4-reference.png",
+    "size": "1536x1024",
+    "sourceId": "bank-0694fe-07f58a-0ddf48",
+    "sheet": "objects-bank-0694fe-07f58a-0ddf48-4"
+  },
+  {
+    "id": "objects-bank-0694fe-07f58a-0ddf48-4-ghibli",
+    "kind": "object-sheet",
+    "style": "ghibli",
+    "reference": "objects-bank-0694fe-07f58a-0ddf48-4-reference.png",
+    "size": "1536x1024",
+    "sourceId": "bank-0694fe-07f58a-0ddf48",
+    "sheet": "objects-bank-0694fe-07f58a-0ddf48-4"
+  },
+  {
+    "id": "objects-bank-0694fe-07f58a-0ddf48-5-pixel-hd",
+    "kind": "object-sheet",
+    "style": "pixel-hd",
+    "reference": "objects-bank-0694fe-07f58a-0ddf48-5-reference.png",
+    "size": "1536x1024",
+    "sourceId": "bank-0694fe-07f58a-0ddf48",
+    "sheet": "objects-bank-0694fe-07f58a-0ddf48-5"
+  },
+  {
+    "id": "objects-bank-0694fe-07f58a-0ddf48-5-unreal",
+    "kind": "object-sheet",
+    "style": "unreal",
+    "reference": "objects-bank-0694fe-07f58a-0ddf48-5-reference.png",
+    "size": "1536x1024",
+    "sourceId": "bank-0694fe-07f58a-0ddf48",
+    "sheet": "objects-bank-0694fe-07f58a-0ddf48-5"
+  },
+  {
+    "id": "objects-bank-0694fe-07f58a-0ddf48-5-ghibli",
+    "kind": "object-sheet",
+    "style": "ghibli",
+    "reference": "objects-bank-0694fe-07f58a-0ddf48-5-reference.png",
+    "size": "1536x1024",
+    "sourceId": "bank-0694fe-07f58a-0ddf48",
+    "sheet": "objects-bank-0694fe-07f58a-0ddf48-5"
+  },
+  {
+    "id": "objects-bank-0694fe-07f58a-0ddf48-6-pixel-hd",
+    "kind": "object-sheet",
+    "style": "pixel-hd",
+    "reference": "objects-bank-0694fe-07f58a-0ddf48-6-reference.png",
+    "size": "1536x1024",
+    "sourceId": "bank-0694fe-07f58a-0ddf48",
+    "sheet": "objects-bank-0694fe-07f58a-0ddf48-6"
+  },
+  {
+    "id": "objects-bank-0694fe-07f58a-0ddf48-6-unreal",
+    "kind": "object-sheet",
+    "style": "unreal",
+    "reference": "objects-bank-0694fe-07f58a-0ddf48-6-reference.png",
+    "size": "1536x1024",
+    "sourceId": "bank-0694fe-07f58a-0ddf48",
+    "sheet": "objects-bank-0694fe-07f58a-0ddf48-6"
+  },
+  {
+    "id": "objects-bank-0694fe-07f58a-0ddf48-6-ghibli",
+    "kind": "object-sheet",
+    "style": "ghibli",
+    "reference": "objects-bank-0694fe-07f58a-0ddf48-6-reference.png",
+    "size": "1536x1024",
+    "sourceId": "bank-0694fe-07f58a-0ddf48",
+    "sheet": "objects-bank-0694fe-07f58a-0ddf48-6"
+  },
+  {
+    "id": "objects-bank-0694fe-07f58a-0ddf48-7-pixel-hd",
+    "kind": "object-sheet",
+    "style": "pixel-hd",
+    "reference": "objects-bank-0694fe-07f58a-0ddf48-7-reference.png",
+    "size": "1536x1024",
+    "sourceId": "bank-0694fe-07f58a-0ddf48",
+    "sheet": "objects-bank-0694fe-07f58a-0ddf48-7"
+  },
+  {
+    "id": "objects-bank-0694fe-07f58a-0ddf48-7-unreal",
+    "kind": "object-sheet",
+    "style": "unreal",
+    "reference": "objects-bank-0694fe-07f58a-0ddf48-7-reference.png",
+    "size": "1536x1024",
+    "sourceId": "bank-0694fe-07f58a-0ddf48",
+    "sheet": "objects-bank-0694fe-07f58a-0ddf48-7"
+  },
+  {
+    "id": "objects-bank-0694fe-07f58a-0ddf48-7-ghibli",
+    "kind": "object-sheet",
+    "style": "ghibli",
+    "reference": "objects-bank-0694fe-07f58a-0ddf48-7-reference.png",
+    "size": "1536x1024",
+    "sourceId": "bank-0694fe-07f58a-0ddf48",
+    "sheet": "objects-bank-0694fe-07f58a-0ddf48-7"
+  },
+  {
+    "id": "objects-bank-0694fe-07f58a-0ddf48-8-pixel-hd",
+    "kind": "object-sheet",
+    "style": "pixel-hd",
+    "reference": "objects-bank-0694fe-07f58a-0ddf48-8-reference.png",
+    "size": "1536x1024",
+    "sourceId": "bank-0694fe-07f58a-0ddf48",
+    "sheet": "objects-bank-0694fe-07f58a-0ddf48-8"
+  },
+  {
+    "id": "objects-bank-0694fe-07f58a-0ddf48-8-unreal",
+    "kind": "object-sheet",
+    "style": "unreal",
+    "reference": "objects-bank-0694fe-07f58a-0ddf48-8-reference.png",
+    "size": "1536x1024",
+    "sourceId": "bank-0694fe-07f58a-0ddf48",
+    "sheet": "objects-bank-0694fe-07f58a-0ddf48-8"
+  },
+  {
+    "id": "objects-bank-0694fe-07f58a-0ddf48-8-ghibli",
+    "kind": "object-sheet",
+    "style": "ghibli",
+    "reference": "objects-bank-0694fe-07f58a-0ddf48-8-reference.png",
+    "size": "1536x1024",
+    "sourceId": "bank-0694fe-07f58a-0ddf48",
+    "sheet": "objects-bank-0694fe-07f58a-0ddf48-8"
+  },
+  {
+    "id": "objects-bank-0694fe-07f58a-0ddf48-9-pixel-hd",
+    "kind": "object-sheet",
+    "style": "pixel-hd",
+    "reference": "objects-bank-0694fe-07f58a-0ddf48-9-reference.png",
+    "size": "1536x1024",
+    "sourceId": "bank-0694fe-07f58a-0ddf48",
+    "sheet": "objects-bank-0694fe-07f58a-0ddf48-9"
+  },
+  {
+    "id": "objects-bank-0694fe-07f58a-0ddf48-9-unreal",
+    "kind": "object-sheet",
+    "style": "unreal",
+    "reference": "objects-bank-0694fe-07f58a-0ddf48-9-reference.png",
+    "size": "1536x1024",
+    "sourceId": "bank-0694fe-07f58a-0ddf48",
+    "sheet": "objects-bank-0694fe-07f58a-0ddf48-9"
+  },
+  {
+    "id": "objects-bank-0694fe-07f58a-0ddf48-9-ghibli",
+    "kind": "object-sheet",
+    "style": "ghibli",
+    "reference": "objects-bank-0694fe-07f58a-0ddf48-9-reference.png",
+    "size": "1536x1024",
+    "sourceId": "bank-0694fe-07f58a-0ddf48",
+    "sheet": "objects-bank-0694fe-07f58a-0ddf48-9"
+  },
+  {
+    "id": "objects-bank-0694fe-07f58a-0ddf48-10-pixel-hd",
+    "kind": "object-sheet",
+    "style": "pixel-hd",
+    "reference": "objects-bank-0694fe-07f58a-0ddf48-10-reference.png",
+    "size": "1536x1024",
+    "sourceId": "bank-0694fe-07f58a-0ddf48",
+    "sheet": "objects-bank-0694fe-07f58a-0ddf48-10"
+  },
+  {
+    "id": "objects-bank-0694fe-07f58a-0ddf48-10-unreal",
+    "kind": "object-sheet",
+    "style": "unreal",
+    "reference": "objects-bank-0694fe-07f58a-0ddf48-10-reference.png",
+    "size": "1536x1024",
+    "sourceId": "bank-0694fe-07f58a-0ddf48",
+    "sheet": "objects-bank-0694fe-07f58a-0ddf48-10"
+  },
+  {
+    "id": "objects-bank-0694fe-07f58a-0ddf48-10-ghibli",
+    "kind": "object-sheet",
+    "style": "ghibli",
+    "reference": "objects-bank-0694fe-07f58a-0ddf48-10-reference.png",
+    "size": "1536x1024",
+    "sourceId": "bank-0694fe-07f58a-0ddf48",
+    "sheet": "objects-bank-0694fe-07f58a-0ddf48-10"
+  },
+  {
+    "id": "objects-bank-06d4e0-07feca-0ddf88-1-pixel-hd",
+    "kind": "object-sheet",
+    "style": "pixel-hd",
+    "reference": "objects-bank-06d4e0-07feca-0ddf88-1-reference.png",
+    "size": "1536x1024",
+    "sourceId": "bank-06d4e0-07feca-0ddf88",
+    "sheet": "objects-bank-06d4e0-07feca-0ddf88-1"
+  },
+  {
+    "id": "objects-bank-06d4e0-07feca-0ddf88-1-unreal",
+    "kind": "object-sheet",
+    "style": "unreal",
+    "reference": "objects-bank-06d4e0-07feca-0ddf88-1-reference.png",
+    "size": "1536x1024",
+    "sourceId": "bank-06d4e0-07feca-0ddf88",
+    "sheet": "objects-bank-06d4e0-07feca-0ddf88-1"
+  },
+  {
+    "id": "objects-bank-06d4e0-07feca-0ddf88-1-ghibli",
+    "kind": "object-sheet",
+    "style": "ghibli",
+    "reference": "objects-bank-06d4e0-07feca-0ddf88-1-reference.png",
+    "size": "1536x1024",
+    "sourceId": "bank-06d4e0-07feca-0ddf88",
+    "sheet": "objects-bank-06d4e0-07feca-0ddf88-1"
+  },
+  {
+    "id": "objects-bank-06d4e0-07feca-0ddf88-2-pixel-hd",
+    "kind": "object-sheet",
+    "style": "pixel-hd",
+    "reference": "objects-bank-06d4e0-07feca-0ddf88-2-reference.png",
+    "size": "1536x1024",
+    "sourceId": "bank-06d4e0-07feca-0ddf88",
+    "sheet": "objects-bank-06d4e0-07feca-0ddf88-2"
+  },
+  {
+    "id": "objects-bank-06d4e0-07feca-0ddf88-2-unreal",
+    "kind": "object-sheet",
+    "style": "unreal",
+    "reference": "objects-bank-06d4e0-07feca-0ddf88-2-reference.png",
+    "size": "1536x1024",
+    "sourceId": "bank-06d4e0-07feca-0ddf88",
+    "sheet": "objects-bank-06d4e0-07feca-0ddf88-2"
+  },
+  {
+    "id": "objects-bank-06d4e0-07feca-0ddf88-2-ghibli",
+    "kind": "object-sheet",
+    "style": "ghibli",
+    "reference": "objects-bank-06d4e0-07feca-0ddf88-2-reference.png",
+    "size": "1536x1024",
+    "sourceId": "bank-06d4e0-07feca-0ddf88",
+    "sheet": "objects-bank-06d4e0-07feca-0ddf88-2"
+  },
+  {
+    "id": "objects-bank-06d4e0-07feca-0ddf88-3-pixel-hd",
+    "kind": "object-sheet",
+    "style": "pixel-hd",
+    "reference": "objects-bank-06d4e0-07feca-0ddf88-3-reference.png",
+    "size": "1536x1024",
+    "sourceId": "bank-06d4e0-07feca-0ddf88",
+    "sheet": "objects-bank-06d4e0-07feca-0ddf88-3"
+  },
+  {
+    "id": "objects-bank-06d4e0-07feca-0ddf88-3-unreal",
+    "kind": "object-sheet",
+    "style": "unreal",
+    "reference": "objects-bank-06d4e0-07feca-0ddf88-3-reference.png",
+    "size": "1536x1024",
+    "sourceId": "bank-06d4e0-07feca-0ddf88",
+    "sheet": "objects-bank-06d4e0-07feca-0ddf88-3"
+  },
+  {
+    "id": "objects-bank-06d4e0-07feca-0ddf88-3-ghibli",
+    "kind": "object-sheet",
+    "style": "ghibli",
+    "reference": "objects-bank-06d4e0-07feca-0ddf88-3-reference.png",
+    "size": "1536x1024",
+    "sourceId": "bank-06d4e0-07feca-0ddf88",
+    "sheet": "objects-bank-06d4e0-07feca-0ddf88-3"
+  },
+  {
+    "id": "objects-bank-06d4e0-07feca-0ddf88-4-pixel-hd",
+    "kind": "object-sheet",
+    "style": "pixel-hd",
+    "reference": "objects-bank-06d4e0-07feca-0ddf88-4-reference.png",
+    "size": "1536x1024",
+    "sourceId": "bank-06d4e0-07feca-0ddf88",
+    "sheet": "objects-bank-06d4e0-07feca-0ddf88-4"
+  },
+  {
+    "id": "objects-bank-06d4e0-07feca-0ddf88-4-unreal",
+    "kind": "object-sheet",
+    "style": "unreal",
+    "reference": "objects-bank-06d4e0-07feca-0ddf88-4-reference.png",
+    "size": "1536x1024",
+    "sourceId": "bank-06d4e0-07feca-0ddf88",
+    "sheet": "objects-bank-06d4e0-07feca-0ddf88-4"
+  },
+  {
+    "id": "objects-bank-06d4e0-07feca-0ddf88-4-ghibli",
+    "kind": "object-sheet",
+    "style": "ghibli",
+    "reference": "objects-bank-06d4e0-07feca-0ddf88-4-reference.png",
+    "size": "1536x1024",
+    "sourceId": "bank-06d4e0-07feca-0ddf88",
+    "sheet": "objects-bank-06d4e0-07feca-0ddf88-4"
+  },
+  {
+    "id": "objects-bank-06d4e0-07feca-0ddf88-5-pixel-hd",
+    "kind": "object-sheet",
+    "style": "pixel-hd",
+    "reference": "objects-bank-06d4e0-07feca-0ddf88-5-reference.png",
+    "size": "1536x1024",
+    "sourceId": "bank-06d4e0-07feca-0ddf88",
+    "sheet": "objects-bank-06d4e0-07feca-0ddf88-5"
+  },
+  {
+    "id": "objects-bank-06d4e0-07feca-0ddf88-5-unreal",
+    "kind": "object-sheet",
+    "style": "unreal",
+    "reference": "objects-bank-06d4e0-07feca-0ddf88-5-reference.png",
+    "size": "1536x1024",
+    "sourceId": "bank-06d4e0-07feca-0ddf88",
+    "sheet": "objects-bank-06d4e0-07feca-0ddf88-5"
+  },
+  {
+    "id": "objects-bank-06d4e0-07feca-0ddf88-5-ghibli",
+    "kind": "object-sheet",
+    "style": "ghibli",
+    "reference": "objects-bank-06d4e0-07feca-0ddf88-5-reference.png",
+    "size": "1536x1024",
+    "sourceId": "bank-06d4e0-07feca-0ddf88",
+    "sheet": "objects-bank-06d4e0-07feca-0ddf88-5"
+  },
+  {
+    "id": "objects-bank-06d4e0-07feca-0ddf88-6-pixel-hd",
+    "kind": "object-sheet",
+    "style": "pixel-hd",
+    "reference": "objects-bank-06d4e0-07feca-0ddf88-6-reference.png",
+    "size": "1536x1024",
+    "sourceId": "bank-06d4e0-07feca-0ddf88",
+    "sheet": "objects-bank-06d4e0-07feca-0ddf88-6"
+  },
+  {
+    "id": "objects-bank-06d4e0-07feca-0ddf88-6-unreal",
+    "kind": "object-sheet",
+    "style": "unreal",
+    "reference": "objects-bank-06d4e0-07feca-0ddf88-6-reference.png",
+    "size": "1536x1024",
+    "sourceId": "bank-06d4e0-07feca-0ddf88",
+    "sheet": "objects-bank-06d4e0-07feca-0ddf88-6"
+  },
+  {
+    "id": "objects-bank-06d4e0-07feca-0ddf88-6-ghibli",
+    "kind": "object-sheet",
+    "style": "ghibli",
+    "reference": "objects-bank-06d4e0-07feca-0ddf88-6-reference.png",
+    "size": "1536x1024",
+    "sourceId": "bank-06d4e0-07feca-0ddf88",
+    "sheet": "objects-bank-06d4e0-07feca-0ddf88-6"
+  },
+  {
+    "id": "objects-bank-06d4e0-07feca-0ddf88-7-pixel-hd",
+    "kind": "object-sheet",
+    "style": "pixel-hd",
+    "reference": "objects-bank-06d4e0-07feca-0ddf88-7-reference.png",
+    "size": "1536x1024",
+    "sourceId": "bank-06d4e0-07feca-0ddf88",
+    "sheet": "objects-bank-06d4e0-07feca-0ddf88-7"
+  },
+  {
+    "id": "objects-bank-06d4e0-07feca-0ddf88-7-unreal",
+    "kind": "object-sheet",
+    "style": "unreal",
+    "reference": "objects-bank-06d4e0-07feca-0ddf88-7-reference.png",
+    "size": "1536x1024",
+    "sourceId": "bank-06d4e0-07feca-0ddf88",
+    "sheet": "objects-bank-06d4e0-07feca-0ddf88-7"
+  },
+  {
+    "id": "objects-bank-06d4e0-07feca-0ddf88-7-ghibli",
+    "kind": "object-sheet",
+    "style": "ghibli",
+    "reference": "objects-bank-06d4e0-07feca-0ddf88-7-reference.png",
+    "size": "1536x1024",
+    "sourceId": "bank-06d4e0-07feca-0ddf88",
+    "sheet": "objects-bank-06d4e0-07feca-0ddf88-7"
+  },
+  {
+    "id": "objects-bank-06d4e0-07feca-0ddf88-8-pixel-hd",
+    "kind": "object-sheet",
+    "style": "pixel-hd",
+    "reference": "objects-bank-06d4e0-07feca-0ddf88-8-reference.png",
+    "size": "1536x1024",
+    "sourceId": "bank-06d4e0-07feca-0ddf88",
+    "sheet": "objects-bank-06d4e0-07feca-0ddf88-8"
+  },
+  {
+    "id": "objects-bank-06d4e0-07feca-0ddf88-8-unreal",
+    "kind": "object-sheet",
+    "style": "unreal",
+    "reference": "objects-bank-06d4e0-07feca-0ddf88-8-reference.png",
+    "size": "1536x1024",
+    "sourceId": "bank-06d4e0-07feca-0ddf88",
+    "sheet": "objects-bank-06d4e0-07feca-0ddf88-8"
+  },
+  {
+    "id": "objects-bank-06d4e0-07feca-0ddf88-8-ghibli",
+    "kind": "object-sheet",
+    "style": "ghibli",
+    "reference": "objects-bank-06d4e0-07feca-0ddf88-8-reference.png",
+    "size": "1536x1024",
+    "sourceId": "bank-06d4e0-07feca-0ddf88",
+    "sheet": "objects-bank-06d4e0-07feca-0ddf88-8"
+  },
+  {
+    "id": "objects-bank-06d4e0-07feca-0ddf88-9-pixel-hd",
+    "kind": "object-sheet",
+    "style": "pixel-hd",
+    "reference": "objects-bank-06d4e0-07feca-0ddf88-9-reference.png",
+    "size": "1536x1024",
+    "sourceId": "bank-06d4e0-07feca-0ddf88",
+    "sheet": "objects-bank-06d4e0-07feca-0ddf88-9"
+  },
+  {
+    "id": "objects-bank-06d4e0-07feca-0ddf88-9-unreal",
+    "kind": "object-sheet",
+    "style": "unreal",
+    "reference": "objects-bank-06d4e0-07feca-0ddf88-9-reference.png",
+    "size": "1536x1024",
+    "sourceId": "bank-06d4e0-07feca-0ddf88",
+    "sheet": "objects-bank-06d4e0-07feca-0ddf88-9"
+  },
+  {
+    "id": "objects-bank-06d4e0-07feca-0ddf88-9-ghibli",
+    "kind": "object-sheet",
+    "style": "ghibli",
+    "reference": "objects-bank-06d4e0-07feca-0ddf88-9-reference.png",
+    "size": "1536x1024",
+    "sourceId": "bank-06d4e0-07feca-0ddf88",
+    "sheet": "objects-bank-06d4e0-07feca-0ddf88-9"
+  },
+  {
+    "id": "objects-bank-06d4e0-07feca-0ddf88-10-pixel-hd",
+    "kind": "object-sheet",
+    "style": "pixel-hd",
+    "reference": "objects-bank-06d4e0-07feca-0ddf88-10-reference.png",
+    "size": "1536x1024",
+    "sourceId": "bank-06d4e0-07feca-0ddf88",
+    "sheet": "objects-bank-06d4e0-07feca-0ddf88-10"
+  },
+  {
+    "id": "objects-bank-06d4e0-07feca-0ddf88-10-unreal",
+    "kind": "object-sheet",
+    "style": "unreal",
+    "reference": "objects-bank-06d4e0-07feca-0ddf88-10-reference.png",
+    "size": "1536x1024",
+    "sourceId": "bank-06d4e0-07feca-0ddf88",
+    "sheet": "objects-bank-06d4e0-07feca-0ddf88-10"
+  },
+  {
+    "id": "objects-bank-06d4e0-07feca-0ddf88-10-ghibli",
+    "kind": "object-sheet",
+    "style": "ghibli",
+    "reference": "objects-bank-06d4e0-07feca-0ddf88-10-reference.png",
+    "size": "1536x1024",
+    "sourceId": "bank-06d4e0-07feca-0ddf88",
+    "sheet": "objects-bank-06d4e0-07feca-0ddf88-10"
+  },
+  {
+    "id": "objects-bank-06ff42-08084a-0ddfc8-1-pixel-hd",
+    "kind": "object-sheet",
+    "style": "pixel-hd",
+    "reference": "objects-bank-06ff42-08084a-0ddfc8-1-reference.png",
+    "size": "1536x1024",
+    "sourceId": "bank-06ff42-08084a-0ddfc8",
+    "sheet": "objects-bank-06ff42-08084a-0ddfc8-1"
+  },
+  {
+    "id": "objects-bank-06ff42-08084a-0ddfc8-1-unreal",
+    "kind": "object-sheet",
+    "style": "unreal",
+    "reference": "objects-bank-06ff42-08084a-0ddfc8-1-reference.png",
+    "size": "1536x1024",
+    "sourceId": "bank-06ff42-08084a-0ddfc8",
+    "sheet": "objects-bank-06ff42-08084a-0ddfc8-1"
+  },
+  {
+    "id": "objects-bank-06ff42-08084a-0ddfc8-1-ghibli",
+    "kind": "object-sheet",
+    "style": "ghibli",
+    "reference": "objects-bank-06ff42-08084a-0ddfc8-1-reference.png",
+    "size": "1536x1024",
+    "sourceId": "bank-06ff42-08084a-0ddfc8",
+    "sheet": "objects-bank-06ff42-08084a-0ddfc8-1"
+  },
+  {
+    "id": "objects-bank-06ff42-08084a-0ddfc8-2-pixel-hd",
+    "kind": "object-sheet",
+    "style": "pixel-hd",
+    "reference": "objects-bank-06ff42-08084a-0ddfc8-2-reference.png",
+    "size": "1536x1024",
+    "sourceId": "bank-06ff42-08084a-0ddfc8",
+    "sheet": "objects-bank-06ff42-08084a-0ddfc8-2"
+  },
+  {
+    "id": "objects-bank-06ff42-08084a-0ddfc8-2-unreal",
+    "kind": "object-sheet",
+    "style": "unreal",
+    "reference": "objects-bank-06ff42-08084a-0ddfc8-2-reference.png",
+    "size": "1536x1024",
+    "sourceId": "bank-06ff42-08084a-0ddfc8",
+    "sheet": "objects-bank-06ff42-08084a-0ddfc8-2"
+  },
+  {
+    "id": "objects-bank-06ff42-08084a-0ddfc8-2-ghibli",
+    "kind": "object-sheet",
+    "style": "ghibli",
+    "reference": "objects-bank-06ff42-08084a-0ddfc8-2-reference.png",
+    "size": "1536x1024",
+    "sourceId": "bank-06ff42-08084a-0ddfc8",
+    "sheet": "objects-bank-06ff42-08084a-0ddfc8-2"
+  },
+  {
+    "id": "objects-bank-06ff42-08084a-0ddfc8-3-pixel-hd",
+    "kind": "object-sheet",
+    "style": "pixel-hd",
+    "reference": "objects-bank-06ff42-08084a-0ddfc8-3-reference.png",
+    "size": "1536x1024",
+    "sourceId": "bank-06ff42-08084a-0ddfc8",
+    "sheet": "objects-bank-06ff42-08084a-0ddfc8-3"
+  },
+  {
+    "id": "objects-bank-06ff42-08084a-0ddfc8-3-unreal",
+    "kind": "object-sheet",
+    "style": "unreal",
+    "reference": "objects-bank-06ff42-08084a-0ddfc8-3-reference.png",
+    "size": "1536x1024",
+    "sourceId": "bank-06ff42-08084a-0ddfc8",
+    "sheet": "objects-bank-06ff42-08084a-0ddfc8-3"
+  },
+  {
+    "id": "objects-bank-06ff42-08084a-0ddfc8-3-ghibli",
+    "kind": "object-sheet",
+    "style": "ghibli",
+    "reference": "objects-bank-06ff42-08084a-0ddfc8-3-reference.png",
+    "size": "1536x1024",
+    "sourceId": "bank-06ff42-08084a-0ddfc8",
+    "sheet": "objects-bank-06ff42-08084a-0ddfc8-3"
+  },
+  {
+    "id": "objects-bank-073c64-080f6a-0de008-1-pixel-hd",
+    "kind": "object-sheet",
+    "style": "pixel-hd",
+    "reference": "objects-bank-073c64-080f6a-0de008-1-reference.png",
+    "size": "1536x1024",
+    "sourceId": "bank-073c64-080f6a-0de008",
+    "sheet": "objects-bank-073c64-080f6a-0de008-1"
+  },
+  {
+    "id": "objects-bank-073c64-080f6a-0de008-1-unreal",
+    "kind": "object-sheet",
+    "style": "unreal",
+    "reference": "objects-bank-073c64-080f6a-0de008-1-reference.png",
+    "size": "1536x1024",
+    "sourceId": "bank-073c64-080f6a-0de008",
+    "sheet": "objects-bank-073c64-080f6a-0de008-1"
+  },
+  {
+    "id": "objects-bank-073c64-080f6a-0de008-1-ghibli",
+    "kind": "object-sheet",
+    "style": "ghibli",
+    "reference": "objects-bank-073c64-080f6a-0de008-1-reference.png",
+    "size": "1536x1024",
+    "sourceId": "bank-073c64-080f6a-0de008",
+    "sheet": "objects-bank-073c64-080f6a-0de008-1"
+  },
+  {
+    "id": "objects-bank-073c64-080f6a-0de008-2-pixel-hd",
+    "kind": "object-sheet",
+    "style": "pixel-hd",
+    "reference": "objects-bank-073c64-080f6a-0de008-2-reference.png",
+    "size": "1536x1024",
+    "sourceId": "bank-073c64-080f6a-0de008",
+    "sheet": "objects-bank-073c64-080f6a-0de008-2"
+  },
+  {
+    "id": "objects-bank-073c64-080f6a-0de008-2-unreal",
+    "kind": "object-sheet",
+    "style": "unreal",
+    "reference": "objects-bank-073c64-080f6a-0de008-2-reference.png",
+    "size": "1536x1024",
+    "sourceId": "bank-073c64-080f6a-0de008",
+    "sheet": "objects-bank-073c64-080f6a-0de008-2"
+  },
+  {
+    "id": "objects-bank-073c64-080f6a-0de008-2-ghibli",
+    "kind": "object-sheet",
+    "style": "ghibli",
+    "reference": "objects-bank-073c64-080f6a-0de008-2-reference.png",
+    "size": "1536x1024",
+    "sourceId": "bank-073c64-080f6a-0de008",
+    "sheet": "objects-bank-073c64-080f6a-0de008-2"
+  },
+  {
+    "id": "objects-bank-073c64-080f6a-0de008-3-pixel-hd",
+    "kind": "object-sheet",
+    "style": "pixel-hd",
+    "reference": "objects-bank-073c64-080f6a-0de008-3-reference.png",
+    "size": "1536x1024",
+    "sourceId": "bank-073c64-080f6a-0de008",
+    "sheet": "objects-bank-073c64-080f6a-0de008-3"
+  },
+  {
+    "id": "objects-bank-073c64-080f6a-0de008-3-unreal",
+    "kind": "object-sheet",
+    "style": "unreal",
+    "reference": "objects-bank-073c64-080f6a-0de008-3-reference.png",
+    "size": "1536x1024",
+    "sourceId": "bank-073c64-080f6a-0de008",
+    "sheet": "objects-bank-073c64-080f6a-0de008-3"
+  },
+  {
+    "id": "objects-bank-073c64-080f6a-0de008-3-ghibli",
+    "kind": "object-sheet",
+    "style": "ghibli",
+    "reference": "objects-bank-073c64-080f6a-0de008-3-reference.png",
+    "size": "1536x1024",
+    "sourceId": "bank-073c64-080f6a-0de008",
+    "sheet": "objects-bank-073c64-080f6a-0de008-3"
+  },
+  {
+    "id": "objects-bank-073c64-080f6a-0de008-4-pixel-hd",
+    "kind": "object-sheet",
+    "style": "pixel-hd",
+    "reference": "objects-bank-073c64-080f6a-0de008-4-reference.png",
+    "size": "1536x1024",
+    "sourceId": "bank-073c64-080f6a-0de008",
+    "sheet": "objects-bank-073c64-080f6a-0de008-4"
+  },
+  {
+    "id": "objects-bank-073c64-080f6a-0de008-4-unreal",
+    "kind": "object-sheet",
+    "style": "unreal",
+    "reference": "objects-bank-073c64-080f6a-0de008-4-reference.png",
+    "size": "1536x1024",
+    "sourceId": "bank-073c64-080f6a-0de008",
+    "sheet": "objects-bank-073c64-080f6a-0de008-4"
+  },
+  {
+    "id": "objects-bank-073c64-080f6a-0de008-4-ghibli",
+    "kind": "object-sheet",
+    "style": "ghibli",
+    "reference": "objects-bank-073c64-080f6a-0de008-4-reference.png",
+    "size": "1536x1024",
+    "sourceId": "bank-073c64-080f6a-0de008",
+    "sheet": "objects-bank-073c64-080f6a-0de008-4"
+  },
+  {
+    "id": "objects-bank-073c64-080f6a-0de008-5-pixel-hd",
+    "kind": "object-sheet",
+    "style": "pixel-hd",
+    "reference": "objects-bank-073c64-080f6a-0de008-5-reference.png",
+    "size": "1536x1024",
+    "sourceId": "bank-073c64-080f6a-0de008",
+    "sheet": "objects-bank-073c64-080f6a-0de008-5"
+  },
+  {
+    "id": "objects-bank-073c64-080f6a-0de008-5-unreal",
+    "kind": "object-sheet",
+    "style": "unreal",
+    "reference": "objects-bank-073c64-080f6a-0de008-5-reference.png",
+    "size": "1536x1024",
+    "sourceId": "bank-073c64-080f6a-0de008",
+    "sheet": "objects-bank-073c64-080f6a-0de008-5"
+  },
+  {
+    "id": "objects-bank-073c64-080f6a-0de008-5-ghibli",
+    "kind": "object-sheet",
+    "style": "ghibli",
+    "reference": "objects-bank-073c64-080f6a-0de008-5-reference.png",
+    "size": "1536x1024",
+    "sourceId": "bank-073c64-080f6a-0de008",
+    "sheet": "objects-bank-073c64-080f6a-0de008-5"
+  },
+  {
+    "id": "objects-bank-073c64-080f6a-0de008-6-pixel-hd",
+    "kind": "object-sheet",
+    "style": "pixel-hd",
+    "reference": "objects-bank-073c64-080f6a-0de008-6-reference.png",
+    "size": "1536x1024",
+    "sourceId": "bank-073c64-080f6a-0de008",
+    "sheet": "objects-bank-073c64-080f6a-0de008-6"
+  },
+  {
+    "id": "objects-bank-073c64-080f6a-0de008-6-unreal",
+    "kind": "object-sheet",
+    "style": "unreal",
+    "reference": "objects-bank-073c64-080f6a-0de008-6-reference.png",
+    "size": "1536x1024",
+    "sourceId": "bank-073c64-080f6a-0de008",
+    "sheet": "objects-bank-073c64-080f6a-0de008-6"
+  },
+  {
+    "id": "objects-bank-073c64-080f6a-0de008-6-ghibli",
+    "kind": "object-sheet",
+    "style": "ghibli",
+    "reference": "objects-bank-073c64-080f6a-0de008-6-reference.png",
+    "size": "1536x1024",
+    "sourceId": "bank-073c64-080f6a-0de008",
+    "sheet": "objects-bank-073c64-080f6a-0de008-6"
+  },
+  {
+    "id": "objects-bank-073c64-080f6a-0de008-7-pixel-hd",
+    "kind": "object-sheet",
+    "style": "pixel-hd",
+    "reference": "objects-bank-073c64-080f6a-0de008-7-reference.png",
+    "size": "1536x1024",
+    "sourceId": "bank-073c64-080f6a-0de008",
+    "sheet": "objects-bank-073c64-080f6a-0de008-7"
+  },
+  {
+    "id": "objects-bank-073c64-080f6a-0de008-7-unreal",
+    "kind": "object-sheet",
+    "style": "unreal",
+    "reference": "objects-bank-073c64-080f6a-0de008-7-reference.png",
+    "size": "1536x1024",
+    "sourceId": "bank-073c64-080f6a-0de008",
+    "sheet": "objects-bank-073c64-080f6a-0de008-7"
+  },
+  {
+    "id": "objects-bank-073c64-080f6a-0de008-7-ghibli",
+    "kind": "object-sheet",
+    "style": "ghibli",
+    "reference": "objects-bank-073c64-080f6a-0de008-7-reference.png",
+    "size": "1536x1024",
+    "sourceId": "bank-073c64-080f6a-0de008",
+    "sheet": "objects-bank-073c64-080f6a-0de008-7"
+  },
+  {
+    "id": "objects-bank-073c64-080f6a-0de008-8-pixel-hd",
+    "kind": "object-sheet",
+    "style": "pixel-hd",
+    "reference": "objects-bank-073c64-080f6a-0de008-8-reference.png",
+    "size": "1536x1024",
+    "sourceId": "bank-073c64-080f6a-0de008",
+    "sheet": "objects-bank-073c64-080f6a-0de008-8"
+  },
+  {
+    "id": "objects-bank-073c64-080f6a-0de008-8-unreal",
+    "kind": "object-sheet",
+    "style": "unreal",
+    "reference": "objects-bank-073c64-080f6a-0de008-8-reference.png",
+    "size": "1536x1024",
+    "sourceId": "bank-073c64-080f6a-0de008",
+    "sheet": "objects-bank-073c64-080f6a-0de008-8"
+  },
+  {
+    "id": "objects-bank-073c64-080f6a-0de008-8-ghibli",
+    "kind": "object-sheet",
+    "style": "ghibli",
+    "reference": "objects-bank-073c64-080f6a-0de008-8-reference.png",
+    "size": "1536x1024",
+    "sourceId": "bank-073c64-080f6a-0de008",
+    "sheet": "objects-bank-073c64-080f6a-0de008-8"
+  },
+  {
+    "id": "objects-bank-073c64-080f6a-0de008-9-pixel-hd",
+    "kind": "object-sheet",
+    "style": "pixel-hd",
+    "reference": "objects-bank-073c64-080f6a-0de008-9-reference.png",
+    "size": "1536x1024",
+    "sourceId": "bank-073c64-080f6a-0de008",
+    "sheet": "objects-bank-073c64-080f6a-0de008-9"
+  },
+  {
+    "id": "objects-bank-073c64-080f6a-0de008-9-unreal",
+    "kind": "object-sheet",
+    "style": "unreal",
+    "reference": "objects-bank-073c64-080f6a-0de008-9-reference.png",
+    "size": "1536x1024",
+    "sourceId": "bank-073c64-080f6a-0de008",
+    "sheet": "objects-bank-073c64-080f6a-0de008-9"
+  },
+  {
+    "id": "objects-bank-073c64-080f6a-0de008-9-ghibli",
+    "kind": "object-sheet",
+    "style": "ghibli",
+    "reference": "objects-bank-073c64-080f6a-0de008-9-reference.png",
+    "size": "1536x1024",
+    "sourceId": "bank-073c64-080f6a-0de008",
+    "sheet": "objects-bank-073c64-080f6a-0de008-9"
+  },
+  {
+    "id": "objects-bank-0694fe-07f58a-0de048-1-pixel-hd",
+    "kind": "object-sheet",
+    "style": "pixel-hd",
+    "reference": "objects-bank-0694fe-07f58a-0de048-1-reference.png",
+    "size": "1536x1024",
+    "sourceId": "bank-0694fe-07f58a-0de048",
+    "sheet": "objects-bank-0694fe-07f58a-0de048-1"
+  },
+  {
+    "id": "objects-bank-0694fe-07f58a-0de048-1-unreal",
+    "kind": "object-sheet",
+    "style": "unreal",
+    "reference": "objects-bank-0694fe-07f58a-0de048-1-reference.png",
+    "size": "1536x1024",
+    "sourceId": "bank-0694fe-07f58a-0de048",
+    "sheet": "objects-bank-0694fe-07f58a-0de048-1"
+  },
+  {
+    "id": "objects-bank-0694fe-07f58a-0de048-1-ghibli",
+    "kind": "object-sheet",
+    "style": "ghibli",
+    "reference": "objects-bank-0694fe-07f58a-0de048-1-reference.png",
+    "size": "1536x1024",
+    "sourceId": "bank-0694fe-07f58a-0de048",
+    "sheet": "objects-bank-0694fe-07f58a-0de048-1"
+  },
+  {
+    "id": "objects-bank-0694fe-07f58a-0de048-2-pixel-hd",
+    "kind": "object-sheet",
+    "style": "pixel-hd",
+    "reference": "objects-bank-0694fe-07f58a-0de048-2-reference.png",
+    "size": "1536x1024",
+    "sourceId": "bank-0694fe-07f58a-0de048",
+    "sheet": "objects-bank-0694fe-07f58a-0de048-2"
+  },
+  {
+    "id": "objects-bank-0694fe-07f58a-0de048-2-unreal",
+    "kind": "object-sheet",
+    "style": "unreal",
+    "reference": "objects-bank-0694fe-07f58a-0de048-2-reference.png",
+    "size": "1536x1024",
+    "sourceId": "bank-0694fe-07f58a-0de048",
+    "sheet": "objects-bank-0694fe-07f58a-0de048-2"
+  },
+  {
+    "id": "objects-bank-0694fe-07f58a-0de048-2-ghibli",
+    "kind": "object-sheet",
+    "style": "ghibli",
+    "reference": "objects-bank-0694fe-07f58a-0de048-2-reference.png",
+    "size": "1536x1024",
+    "sourceId": "bank-0694fe-07f58a-0de048",
+    "sheet": "objects-bank-0694fe-07f58a-0de048-2"
+  },
+  {
+    "id": "objects-bank-0694fe-07f58a-0de048-3-pixel-hd",
+    "kind": "object-sheet",
+    "style": "pixel-hd",
+    "reference": "objects-bank-0694fe-07f58a-0de048-3-reference.png",
+    "size": "1536x1024",
+    "sourceId": "bank-0694fe-07f58a-0de048",
+    "sheet": "objects-bank-0694fe-07f58a-0de048-3"
+  },
+  {
+    "id": "objects-bank-0694fe-07f58a-0de048-3-unreal",
+    "kind": "object-sheet",
+    "style": "unreal",
+    "reference": "objects-bank-0694fe-07f58a-0de048-3-reference.png",
+    "size": "1536x1024",
+    "sourceId": "bank-0694fe-07f58a-0de048",
+    "sheet": "objects-bank-0694fe-07f58a-0de048-3"
+  },
+  {
+    "id": "objects-bank-0694fe-07f58a-0de048-3-ghibli",
+    "kind": "object-sheet",
+    "style": "ghibli",
+    "reference": "objects-bank-0694fe-07f58a-0de048-3-reference.png",
+    "size": "1536x1024",
+    "sourceId": "bank-0694fe-07f58a-0de048",
+    "sheet": "objects-bank-0694fe-07f58a-0de048-3"
+  },
+  {
+    "id": "objects-bank-0694fe-07f58a-0de048-4-pixel-hd",
+    "kind": "object-sheet",
+    "style": "pixel-hd",
+    "reference": "objects-bank-0694fe-07f58a-0de048-4-reference.png",
+    "size": "1536x1024",
+    "sourceId": "bank-0694fe-07f58a-0de048",
+    "sheet": "objects-bank-0694fe-07f58a-0de048-4"
+  },
+  {
+    "id": "objects-bank-0694fe-07f58a-0de048-4-unreal",
+    "kind": "object-sheet",
+    "style": "unreal",
+    "reference": "objects-bank-0694fe-07f58a-0de048-4-reference.png",
+    "size": "1536x1024",
+    "sourceId": "bank-0694fe-07f58a-0de048",
+    "sheet": "objects-bank-0694fe-07f58a-0de048-4"
+  },
+  {
+    "id": "objects-bank-0694fe-07f58a-0de048-4-ghibli",
+    "kind": "object-sheet",
+    "style": "ghibli",
+    "reference": "objects-bank-0694fe-07f58a-0de048-4-reference.png",
+    "size": "1536x1024",
+    "sourceId": "bank-0694fe-07f58a-0de048",
+    "sheet": "objects-bank-0694fe-07f58a-0de048-4"
+  },
+  {
+    "id": "objects-bank-0694fe-07f58a-0de048-5-pixel-hd",
+    "kind": "object-sheet",
+    "style": "pixel-hd",
+    "reference": "objects-bank-0694fe-07f58a-0de048-5-reference.png",
+    "size": "1536x1024",
+    "sourceId": "bank-0694fe-07f58a-0de048",
+    "sheet": "objects-bank-0694fe-07f58a-0de048-5"
+  },
+  {
+    "id": "objects-bank-0694fe-07f58a-0de048-5-unreal",
+    "kind": "object-sheet",
+    "style": "unreal",
+    "reference": "objects-bank-0694fe-07f58a-0de048-5-reference.png",
+    "size": "1536x1024",
+    "sourceId": "bank-0694fe-07f58a-0de048",
+    "sheet": "objects-bank-0694fe-07f58a-0de048-5"
+  },
+  {
+    "id": "objects-bank-0694fe-07f58a-0de048-5-ghibli",
+    "kind": "object-sheet",
+    "style": "ghibli",
+    "reference": "objects-bank-0694fe-07f58a-0de048-5-reference.png",
+    "size": "1536x1024",
+    "sourceId": "bank-0694fe-07f58a-0de048",
+    "sheet": "objects-bank-0694fe-07f58a-0de048-5"
+  },
+  {
+    "id": "objects-bank-0694fe-07f58a-0de048-6-pixel-hd",
+    "kind": "object-sheet",
+    "style": "pixel-hd",
+    "reference": "objects-bank-0694fe-07f58a-0de048-6-reference.png",
+    "size": "1536x1024",
+    "sourceId": "bank-0694fe-07f58a-0de048",
+    "sheet": "objects-bank-0694fe-07f58a-0de048-6"
+  },
+  {
+    "id": "objects-bank-0694fe-07f58a-0de048-6-unreal",
+    "kind": "object-sheet",
+    "style": "unreal",
+    "reference": "objects-bank-0694fe-07f58a-0de048-6-reference.png",
+    "size": "1536x1024",
+    "sourceId": "bank-0694fe-07f58a-0de048",
+    "sheet": "objects-bank-0694fe-07f58a-0de048-6"
+  },
+  {
+    "id": "objects-bank-0694fe-07f58a-0de048-6-ghibli",
+    "kind": "object-sheet",
+    "style": "ghibli",
+    "reference": "objects-bank-0694fe-07f58a-0de048-6-reference.png",
+    "size": "1536x1024",
+    "sourceId": "bank-0694fe-07f58a-0de048",
+    "sheet": "objects-bank-0694fe-07f58a-0de048-6"
+  },
+  {
+    "id": "objects-bank-0694fe-07f58a-0de048-7-pixel-hd",
+    "kind": "object-sheet",
+    "style": "pixel-hd",
+    "reference": "objects-bank-0694fe-07f58a-0de048-7-reference.png",
+    "size": "1536x1024",
+    "sourceId": "bank-0694fe-07f58a-0de048",
+    "sheet": "objects-bank-0694fe-07f58a-0de048-7"
+  },
+  {
+    "id": "objects-bank-0694fe-07f58a-0de048-7-unreal",
+    "kind": "object-sheet",
+    "style": "unreal",
+    "reference": "objects-bank-0694fe-07f58a-0de048-7-reference.png",
+    "size": "1536x1024",
+    "sourceId": "bank-0694fe-07f58a-0de048",
+    "sheet": "objects-bank-0694fe-07f58a-0de048-7"
+  },
+  {
+    "id": "objects-bank-0694fe-07f58a-0de048-7-ghibli",
+    "kind": "object-sheet",
+    "style": "ghibli",
+    "reference": "objects-bank-0694fe-07f58a-0de048-7-reference.png",
+    "size": "1536x1024",
+    "sourceId": "bank-0694fe-07f58a-0de048",
+    "sheet": "objects-bank-0694fe-07f58a-0de048-7"
+  },
+  {
+    "id": "objects-bank-0694fe-07f58a-0de048-8-pixel-hd",
+    "kind": "object-sheet",
+    "style": "pixel-hd",
+    "reference": "objects-bank-0694fe-07f58a-0de048-8-reference.png",
+    "size": "1536x1024",
+    "sourceId": "bank-0694fe-07f58a-0de048",
+    "sheet": "objects-bank-0694fe-07f58a-0de048-8"
+  },
+  {
+    "id": "objects-bank-0694fe-07f58a-0de048-8-unreal",
+    "kind": "object-sheet",
+    "style": "unreal",
+    "reference": "objects-bank-0694fe-07f58a-0de048-8-reference.png",
+    "size": "1536x1024",
+    "sourceId": "bank-0694fe-07f58a-0de048",
+    "sheet": "objects-bank-0694fe-07f58a-0de048-8"
+  },
+  {
+    "id": "objects-bank-0694fe-07f58a-0de048-8-ghibli",
+    "kind": "object-sheet",
+    "style": "ghibli",
+    "reference": "objects-bank-0694fe-07f58a-0de048-8-reference.png",
+    "size": "1536x1024",
+    "sourceId": "bank-0694fe-07f58a-0de048",
+    "sheet": "objects-bank-0694fe-07f58a-0de048-8"
+  },
+  {
+    "id": "objects-bank-0694fe-07f58a-0de048-9-pixel-hd",
+    "kind": "object-sheet",
+    "style": "pixel-hd",
+    "reference": "objects-bank-0694fe-07f58a-0de048-9-reference.png",
+    "size": "1536x1024",
+    "sourceId": "bank-0694fe-07f58a-0de048",
+    "sheet": "objects-bank-0694fe-07f58a-0de048-9"
+  },
+  {
+    "id": "objects-bank-0694fe-07f58a-0de048-9-unreal",
+    "kind": "object-sheet",
+    "style": "unreal",
+    "reference": "objects-bank-0694fe-07f58a-0de048-9-reference.png",
+    "size": "1536x1024",
+    "sourceId": "bank-0694fe-07f58a-0de048",
+    "sheet": "objects-bank-0694fe-07f58a-0de048-9"
+  },
+  {
+    "id": "objects-bank-0694fe-07f58a-0de048-9-ghibli",
+    "kind": "object-sheet",
+    "style": "ghibli",
+    "reference": "objects-bank-0694fe-07f58a-0de048-9-reference.png",
+    "size": "1536x1024",
+    "sourceId": "bank-0694fe-07f58a-0de048",
+    "sheet": "objects-bank-0694fe-07f58a-0de048-9"
+  }
+]

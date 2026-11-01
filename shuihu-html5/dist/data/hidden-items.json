@@ -1,0 +1,5427 @@
+{
+  "formatVersion": 1,
+  "evidence": {
+    "registry": "ROM DC84A group pointers, eight-byte records until mapId=0",
+    "claim": "106A0→1A65C matches current map and front-cell FF6028 then sets FFE500[group*4] bit",
+    "collision": "1A5F6 applies all collected locations on current map as 0x50",
+    "script": "opcode16 grants item<=FF or gold amount from1AAB2"
+  },
+  "items": [
+    {
+      "group": 1,
+      "mapId": "0103",
+      "cellIndex": 62,
+      "x": 2,
+      "y": 6,
+      "eventId": 144,
+      "eventHex": "90",
+      "scriptAddress": "0xe3566",
+      "scriptWords": [
+        22,
+        65281,
+        65535
+      ],
+      "reward": {
+        "kind": "gold",
+        "amount": 200,
+        "encoded": 65281
+      },
+      "pickupFlag": {
+        "ramWord": "0xffe504",
+        "group": 1,
+        "bit": 0
+      },
+      "collectedCollision": 80,
+      "tableAddress": "0xdc880",
+      "reservedWords": [
+        65280,
+        65280
+      ],
+      "classification": "confirmed_hidden_investigation_reward"
+    },
+    {
+      "group": 1,
+      "mapId": "0106",
+      "cellIndex": 26,
+      "x": 6,
+      "y": 2,
+      "eventId": 145,
+      "eventHex": "91",
+      "scriptAddress": "0xe356c",
+      "scriptWords": [
+        22,
+        128,
+        65535
+      ],
+      "reward": {
+        "kind": "item",
+        "id": 128,
+        "count": 1
+      },
+      "pickupFlag": {
+        "ramWord": "0xffe504",
+        "group": 1,
+        "bit": 1
+      },
+      "collectedCollision": 80,
+      "tableAddress": "0xdc888",
+      "reservedWords": [
+        65280,
+        65280
+      ],
+      "classification": "confirmed_hidden_investigation_reward"
+    },
+    {
+      "group": 1,
+      "mapId": "0107",
+      "cellIndex": 32,
+      "x": 2,
+      "y": 3,
+      "eventId": 146,
+      "eventHex": "92",
+      "scriptAddress": "0xe3572",
+      "scriptWords": [
+        22,
+        139,
+        65535
+      ],
+      "reward": {
+        "kind": "item",
+        "id": 139,
+        "count": 1
+      },
+      "pickupFlag": {
+        "ramWord": "0xffe504",
+        "group": 1,
+        "bit": 2
+      },
+      "collectedCollision": 80,
+      "tableAddress": "0xdc890",
+      "reservedWords": [
+        65280,
+        65280
+      ],
+      "classification": "confirmed_hidden_investigation_reward"
+    },
+    {
+      "group": 2,
+      "mapId": "0201",
+      "cellIndex": 37,
+      "x": 7,
+      "y": 3,
+      "eventId": 144,
+      "eventHex": "90",
+      "scriptAddress": "0xe4536",
+      "scriptWords": [
+        22,
+        116,
+        65535
+      ],
+      "reward": {
+        "kind": "item",
+        "id": 116,
+        "count": 1
+      },
+      "pickupFlag": {
+        "ramWord": "0xffe508",
+        "group": 2,
+        "bit": 0
+      },
+      "collectedCollision": 80,
+      "tableAddress": "0xdc89a",
+      "reservedWords": [
+        65280,
+        65280
+      ],
+      "classification": "confirmed_hidden_investigation_reward"
+    },
+    {
+      "group": 2,
+      "mapId": "0203",
+      "cellIndex": 32,
+      "x": 2,
+      "y": 3,
+      "eventId": 145,
+      "eventHex": "91",
+      "scriptAddress": "0xe453c",
+      "scriptWords": [
+        22,
+        137,
+        65535
+      ],
+      "reward": {
+        "kind": "item",
+        "id": 137,
+        "count": 1
+      },
+      "pickupFlag": {
+        "ramWord": "0xffe508",
+        "group": 2,
+        "bit": 1
+      },
+      "collectedCollision": 80,
+      "tableAddress": "0xdc8a2",
+      "reservedWords": [
+        65280,
+        65280
+      ],
+      "classification": "confirmed_hidden_investigation_reward"
+    },
+    {
+      "group": 2,
+      "mapId": "0205",
+      "cellIndex": 31,
+      "x": 1,
+      "y": 3,
+      "eventId": 146,
+      "eventHex": "92",
+      "scriptAddress": "0xe4542",
+      "scriptWords": [
+        22,
+        128,
+        65535
+      ],
+      "reward": {
+        "kind": "item",
+        "id": 128,
+        "count": 1
+      },
+      "pickupFlag": {
+        "ramWord": "0xffe508",
+        "group": 2,
+        "bit": 2
+      },
+      "collectedCollision": 80,
+      "tableAddress": "0xdc8aa",
+      "reservedWords": [
+        65280,
+        65280
+      ],
+      "classification": "confirmed_hidden_investigation_reward"
+    },
+    {
+      "group": 3,
+      "mapId": "0302",
+      "cellIndex": 35,
+      "x": 5,
+      "y": 3,
+      "eventId": 145,
+      "eventHex": "91",
+      "scriptAddress": "0xe543a",
+      "scriptWords": [
+        22,
+        115,
+        65535
+      ],
+      "reward": {
+        "kind": "item",
+        "id": 115,
+        "count": 1
+      },
+      "pickupFlag": {
+        "ramWord": "0xffe50c",
+        "group": 3,
+        "bit": 0
+      },
+      "collectedCollision": 80,
+      "tableAddress": "0xdc8b4",
+      "reservedWords": [
+        65280,
+        65280
+      ],
+      "classification": "confirmed_hidden_investigation_reward"
+    },
+    {
+      "group": 3,
+      "mapId": "0305",
+      "cellIndex": 35,
+      "x": 5,
+      "y": 3,
+      "eventId": 146,
+      "eventHex": "92",
+      "scriptAddress": "0xe5440",
+      "scriptWords": [
+        22,
+        134,
+        65535
+      ],
+      "reward": {
+        "kind": "item",
+        "id": 134,
+        "count": 1
+      },
+      "pickupFlag": {
+        "ramWord": "0xffe50c",
+        "group": 3,
+        "bit": 1
+      },
+      "collectedCollision": 80,
+      "tableAddress": "0xdc8bc",
+      "reservedWords": [
+        65280,
+        65280
+      ],
+      "classification": "confirmed_hidden_investigation_reward"
+    },
+    {
+      "group": 4,
+      "mapId": "0402",
+      "cellIndex": 27,
+      "x": 7,
+      "y": 2,
+      "eventId": 144,
+      "eventHex": "90",
+      "scriptAddress": "0xe5ea6",
+      "scriptWords": [
+        22,
+        65283,
+        65535
+      ],
+      "reward": {
+        "kind": "gold",
+        "amount": 1000,
+        "encoded": 65283
+      },
+      "pickupFlag": {
+        "ramWord": "0xffe510",
+        "group": 4,
+        "bit": 0
+      },
+      "collectedCollision": 80,
+      "tableAddress": "0xdc8c6",
+      "reservedWords": [
+        65280,
+        65280
+      ],
+      "classification": "confirmed_hidden_investigation_reward"
+    },
+    {
+      "group": 4,
+      "mapId": "0404",
+      "cellIndex": 49,
+      "x": 1,
+      "y": 4,
+      "eventId": 145,
+      "eventHex": "91",
+      "scriptAddress": "0xe5eac",
+      "scriptWords": [
+        22,
+        134,
+        65535
+      ],
+      "reward": {
+        "kind": "item",
+        "id": 134,
+        "count": 1
+      },
+      "pickupFlag": {
+        "ramWord": "0xffe510",
+        "group": 4,
+        "bit": 1
+      },
+      "collectedCollision": 80,
+      "tableAddress": "0xdc8ce",
+      "reservedWords": [
+        65280,
+        65280
+      ],
+      "classification": "confirmed_hidden_investigation_reward"
+    },
+    {
+      "group": 4,
+      "mapId": "0407",
+      "cellIndex": 37,
+      "x": 7,
+      "y": 3,
+      "eventId": 146,
+      "eventHex": "92",
+      "scriptAddress": "0xe5eb2",
+      "scriptWords": [
+        22,
+        117,
+        65535
+      ],
+      "reward": {
+        "kind": "item",
+        "id": 117,
+        "count": 1
+      },
+      "pickupFlag": {
+        "ramWord": "0xffe510",
+        "group": 4,
+        "bit": 2
+      },
+      "collectedCollision": 80,
+      "tableAddress": "0xdc8d6",
+      "reservedWords": [
+        65280,
+        65280
+      ],
+      "classification": "confirmed_hidden_investigation_reward"
+    },
+    {
+      "group": 5,
+      "mapId": "0501",
+      "cellIndex": 22,
+      "x": 2,
+      "y": 2,
+      "eventId": 144,
+      "eventHex": "90",
+      "scriptAddress": "0xe688c",
+      "scriptWords": [
+        22,
+        134,
+        65535
+      ],
+      "reward": {
+        "kind": "item",
+        "id": 134,
+        "count": 1
+      },
+      "pickupFlag": {
+        "ramWord": "0xffe514",
+        "group": 5,
+        "bit": 0
+      },
+      "collectedCollision": 80,
+      "tableAddress": "0xdc8e0",
+      "reservedWords": [
+        65280,
+        65280
+      ],
+      "classification": "confirmed_hidden_investigation_reward"
+    },
+    {
+      "group": 5,
+      "mapId": "0502",
+      "cellIndex": 33,
+      "x": 3,
+      "y": 3,
+      "eventId": 145,
+      "eventHex": "91",
+      "scriptAddress": "0xe6892",
+      "scriptWords": [
+        22,
+        117,
+        65535
+      ],
+      "reward": {
+        "kind": "item",
+        "id": 117,
+        "count": 1
+      },
+      "pickupFlag": {
+        "ramWord": "0xffe514",
+        "group": 5,
+        "bit": 1
+      },
+      "collectedCollision": 80,
+      "tableAddress": "0xdc8e8",
+      "reservedWords": [
+        65280,
+        65280
+      ],
+      "classification": "confirmed_hidden_investigation_reward"
+    },
+    {
+      "group": 5,
+      "mapId": "0503",
+      "cellIndex": 26,
+      "x": 6,
+      "y": 2,
+      "eventId": 146,
+      "eventHex": "92",
+      "scriptAddress": "0xe6898",
+      "scriptWords": [
+        22,
+        118,
+        65535
+      ],
+      "reward": {
+        "kind": "item",
+        "id": 118,
+        "count": 1
+      },
+      "pickupFlag": {
+        "ramWord": "0xffe514",
+        "group": 5,
+        "bit": 2
+      },
+      "collectedCollision": 80,
+      "tableAddress": "0xdc8f0",
+      "reservedWords": [
+        65280,
+        65280
+      ],
+      "classification": "confirmed_hidden_investigation_reward"
+    },
+    {
+      "group": 5,
+      "mapId": "0506",
+      "cellIndex": 36,
+      "x": 6,
+      "y": 3,
+      "eventId": 147,
+      "eventHex": "93",
+      "scriptAddress": "0xe689e",
+      "scriptWords": [
+        22,
+        65283,
+        65535
+      ],
+      "reward": {
+        "kind": "gold",
+        "amount": 1000,
+        "encoded": 65283
+      },
+      "pickupFlag": {
+        "ramWord": "0xffe514",
+        "group": 5,
+        "bit": 3
+      },
+      "collectedCollision": 80,
+      "tableAddress": "0xdc8f8",
+      "reservedWords": [
+        65280,
+        65280
+      ],
+      "classification": "confirmed_hidden_investigation_reward"
+    },
+    {
+      "group": 6,
+      "mapId": "0604",
+      "cellIndex": 22,
+      "x": 2,
+      "y": 2,
+      "eventId": 144,
+      "eventHex": "90",
+      "scriptAddress": "0xe73b2",
+      "scriptWords": [
+        22,
+        120,
+        65535
+      ],
+      "reward": {
+        "kind": "item",
+        "id": 120,
+        "count": 1
+      },
+      "pickupFlag": {
+        "ramWord": "0xffe518",
+        "group": 6,
+        "bit": 0
+      },
+      "collectedCollision": 80,
+      "tableAddress": "0xdc902",
+      "reservedWords": [
+        65280,
+        65280
+      ],
+      "classification": "confirmed_hidden_investigation_reward"
+    },
+    {
+      "group": 6,
+      "mapId": "0605",
+      "cellIndex": 22,
+      "x": 2,
+      "y": 2,
+      "eventId": 145,
+      "eventHex": "91",
+      "scriptAddress": "0xe73b8",
+      "scriptWords": [
+        22,
+        113,
+        65535
+      ],
+      "reward": {
+        "kind": "item",
+        "id": 113,
+        "count": 1
+      },
+      "pickupFlag": {
+        "ramWord": "0xffe518",
+        "group": 6,
+        "bit": 1
+      },
+      "collectedCollision": 80,
+      "tableAddress": "0xdc90a",
+      "reservedWords": [
+        65280,
+        65280
+      ],
+      "classification": "confirmed_hidden_investigation_reward"
+    },
+    {
+      "group": 6,
+      "mapId": "0607",
+      "cellIndex": 36,
+      "x": 6,
+      "y": 3,
+      "eventId": 146,
+      "eventHex": "92",
+      "scriptAddress": "0xe73be",
+      "scriptWords": [
+        22,
+        5,
+        65535
+      ],
+      "reward": {
+        "kind": "item",
+        "id": 5,
+        "count": 1
+      },
+      "pickupFlag": {
+        "ramWord": "0xffe518",
+        "group": 6,
+        "bit": 2
+      },
+      "collectedCollision": 80,
+      "tableAddress": "0xdc912",
+      "reservedWords": [
+        65280,
+        65280
+      ],
+      "classification": "confirmed_hidden_investigation_reward"
+    },
+    {
+      "group": 7,
+      "mapId": "0702",
+      "cellIndex": 32,
+      "x": 2,
+      "y": 3,
+      "eventId": 144,
+      "eventHex": "90",
+      "scriptAddress": "0xe7e28",
+      "scriptWords": [
+        22,
+        142,
+        65535
+      ],
+      "reward": {
+        "kind": "item",
+        "id": 142,
+        "count": 1
+      },
+      "pickupFlag": {
+        "ramWord": "0xffe51c",
+        "group": 7,
+        "bit": 0
+      },
+      "collectedCollision": 80,
+      "tableAddress": "0xdc91c",
+      "reservedWords": [
+        65280,
+        65280
+      ],
+      "classification": "confirmed_hidden_investigation_reward"
+    },
+    {
+      "group": 7,
+      "mapId": "0703",
+      "cellIndex": 21,
+      "x": 1,
+      "y": 2,
+      "eventId": 145,
+      "eventHex": "91",
+      "scriptAddress": "0xe7e2e",
+      "scriptWords": [
+        22,
+        129,
+        65535
+      ],
+      "reward": {
+        "kind": "item",
+        "id": 129,
+        "count": 1
+      },
+      "pickupFlag": {
+        "ramWord": "0xffe51c",
+        "group": 7,
+        "bit": 1
+      },
+      "collectedCollision": 80,
+      "tableAddress": "0xdc924",
+      "reservedWords": [
+        65280,
+        65280
+      ],
+      "classification": "confirmed_hidden_investigation_reward"
+    },
+    {
+      "group": 7,
+      "mapId": "0705",
+      "cellIndex": 23,
+      "x": 3,
+      "y": 2,
+      "eventId": 146,
+      "eventHex": "92",
+      "scriptAddress": "0xe7e34",
+      "scriptWords": [
+        22,
+        119,
+        65535
+      ],
+      "reward": {
+        "kind": "item",
+        "id": 119,
+        "count": 1
+      },
+      "pickupFlag": {
+        "ramWord": "0xffe51c",
+        "group": 7,
+        "bit": 2
+      },
+      "collectedCollision": 80,
+      "tableAddress": "0xdc92c",
+      "reservedWords": [
+        65280,
+        65280
+      ],
+      "classification": "confirmed_hidden_investigation_reward"
+    },
+    {
+      "group": 7,
+      "mapId": "0706",
+      "cellIndex": 21,
+      "x": 1,
+      "y": 2,
+      "eventId": 147,
+      "eventHex": "93",
+      "scriptAddress": "0xe7e3a",
+      "scriptWords": [
+        22,
+        122,
+        65535
+      ],
+      "reward": {
+        "kind": "item",
+        "id": 122,
+        "count": 1
+      },
+      "pickupFlag": {
+        "ramWord": "0xffe51c",
+        "group": 7,
+        "bit": 3
+      },
+      "collectedCollision": 80,
+      "tableAddress": "0xdc934",
+      "reservedWords": [
+        65280,
+        65280
+      ],
+      "classification": "confirmed_hidden_investigation_reward"
+    },
+    {
+      "group": 8,
+      "mapId": "0801",
+      "cellIndex": 34,
+      "x": 4,
+      "y": 3,
+      "eventId": 144,
+      "eventHex": "90",
+      "scriptAddress": "0xe8c70",
+      "scriptWords": [
+        22,
+        112,
+        65535
+      ],
+      "reward": {
+        "kind": "item",
+        "id": 112,
+        "count": 1
+      },
+      "pickupFlag": {
+        "ramWord": "0xffe520",
+        "group": 8,
+        "bit": 0
+      },
+      "collectedCollision": 80,
+      "tableAddress": "0xdc93e",
+      "reservedWords": [
+        65280,
+        65280
+      ],
+      "classification": "confirmed_hidden_investigation_reward"
+    },
+    {
+      "group": 8,
+      "mapId": "0805",
+      "cellIndex": 22,
+      "x": 2,
+      "y": 2,
+      "eventId": 145,
+      "eventHex": "91",
+      "scriptAddress": "0xe8c76",
+      "scriptWords": [
+        22,
+        115,
+        65535
+      ],
+      "reward": {
+        "kind": "item",
+        "id": 115,
+        "count": 1
+      },
+      "pickupFlag": {
+        "ramWord": "0xffe520",
+        "group": 8,
+        "bit": 1
+      },
+      "collectedCollision": 80,
+      "tableAddress": "0xdc946",
+      "reservedWords": [
+        65280,
+        65280
+      ],
+      "classification": "confirmed_hidden_investigation_reward"
+    },
+    {
+      "group": 8,
+      "mapId": "0806",
+      "cellIndex": 35,
+      "x": 5,
+      "y": 3,
+      "eventId": 146,
+      "eventHex": "92",
+      "scriptAddress": "0xe8c7c",
+      "scriptWords": [
+        22,
+        65284,
+        65535
+      ],
+      "reward": {
+        "kind": "gold",
+        "amount": 2000,
+        "encoded": 65284
+      },
+      "pickupFlag": {
+        "ramWord": "0xffe520",
+        "group": 8,
+        "bit": 2
+      },
+      "collectedCollision": 80,
+      "tableAddress": "0xdc94e",
+      "reservedWords": [
+        65280,
+        65280
+      ],
+      "classification": "confirmed_hidden_investigation_reward"
+    },
+    {
+      "group": 8,
+      "mapId": "0807",
+      "cellIndex": 24,
+      "x": 4,
+      "y": 2,
+      "eventId": 147,
+      "eventHex": "93",
+      "scriptAddress": "0xe8c82",
+      "scriptWords": [
+        22,
+        129,
+        65535
+      ],
+      "reward": {
+        "kind": "item",
+        "id": 129,
+        "count": 1
+      },
+      "pickupFlag": {
+        "ramWord": "0xffe520",
+        "group": 8,
+        "bit": 3
+      },
+      "collectedCollision": 80,
+      "tableAddress": "0xdc956",
+      "reservedWords": [
+        65280,
+        65280
+      ],
+      "classification": "confirmed_hidden_investigation_reward"
+    },
+    {
+      "group": 9,
+      "mapId": "0902",
+      "cellIndex": 37,
+      "x": 7,
+      "y": 3,
+      "eventId": 144,
+      "eventHex": "90",
+      "scriptAddress": "0xe9aea",
+      "scriptWords": [
+        22,
+        114,
+        65535
+      ],
+      "reward": {
+        "kind": "item",
+        "id": 114,
+        "count": 1
+      },
+      "pickupFlag": {
+        "ramWord": "0xffe524",
+        "group": 9,
+        "bit": 0
+      },
+      "collectedCollision": 80,
+      "tableAddress": "0xdc960",
+      "reservedWords": [
+        65280,
+        65280
+      ],
+      "classification": "confirmed_hidden_investigation_reward"
+    },
+    {
+      "group": 9,
+      "mapId": "0903",
+      "cellIndex": 23,
+      "x": 3,
+      "y": 2,
+      "eventId": 145,
+      "eventHex": "91",
+      "scriptAddress": "0xe9af0",
+      "scriptWords": [
+        22,
+        121,
+        65535
+      ],
+      "reward": {
+        "kind": "item",
+        "id": 121,
+        "count": 1
+      },
+      "pickupFlag": {
+        "ramWord": "0xffe524",
+        "group": 9,
+        "bit": 1
+      },
+      "collectedCollision": 80,
+      "tableAddress": "0xdc968",
+      "reservedWords": [
+        65280,
+        65280
+      ],
+      "classification": "confirmed_hidden_investigation_reward"
+    },
+    {
+      "group": 9,
+      "mapId": "0905",
+      "cellIndex": 36,
+      "x": 6,
+      "y": 3,
+      "eventId": 146,
+      "eventHex": "92",
+      "scriptAddress": "0xe9af6",
+      "scriptWords": [
+        22,
+        141,
+        65535
+      ],
+      "reward": {
+        "kind": "item",
+        "id": 141,
+        "count": 1
+      },
+      "pickupFlag": {
+        "ramWord": "0xffe524",
+        "group": 9,
+        "bit": 2
+      },
+      "collectedCollision": 80,
+      "tableAddress": "0xdc970",
+      "reservedWords": [
+        65280,
+        65280
+      ],
+      "classification": "confirmed_hidden_investigation_reward"
+    },
+    {
+      "group": 10,
+      "mapId": "0a02",
+      "cellIndex": 47,
+      "x": 7,
+      "y": 4,
+      "eventId": 144,
+      "eventHex": "90",
+      "scriptAddress": "0xeac5a",
+      "scriptWords": [
+        22,
+        123,
+        65535
+      ],
+      "reward": {
+        "kind": "item",
+        "id": 123,
+        "count": 1
+      },
+      "pickupFlag": {
+        "ramWord": "0xffe528",
+        "group": 10,
+        "bit": 0
+      },
+      "collectedCollision": 80,
+      "tableAddress": "0xdc97a",
+      "reservedWords": [
+        65280,
+        65280
+      ],
+      "classification": "confirmed_hidden_investigation_reward"
+    },
+    {
+      "group": 10,
+      "mapId": "0a03",
+      "cellIndex": 34,
+      "x": 4,
+      "y": 3,
+      "eventId": 145,
+      "eventHex": "91",
+      "scriptAddress": "0xeac60",
+      "scriptWords": [
+        22,
+        113,
+        65535
+      ],
+      "reward": {
+        "kind": "item",
+        "id": 113,
+        "count": 1
+      },
+      "pickupFlag": {
+        "ramWord": "0xffe528",
+        "group": 10,
+        "bit": 1
+      },
+      "collectedCollision": 80,
+      "tableAddress": "0xdc982",
+      "reservedWords": [
+        65280,
+        65280
+      ],
+      "classification": "confirmed_hidden_investigation_reward"
+    },
+    {
+      "group": 10,
+      "mapId": "0a04",
+      "cellIndex": 52,
+      "x": 2,
+      "y": 5,
+      "eventId": 146,
+      "eventHex": "92",
+      "scriptAddress": "0xeac66",
+      "scriptWords": [
+        22,
+        28,
+        65535
+      ],
+      "reward": {
+        "kind": "item",
+        "id": 28,
+        "count": 1
+      },
+      "pickupFlag": {
+        "ramWord": "0xffe528",
+        "group": 10,
+        "bit": 2
+      },
+      "collectedCollision": 80,
+      "tableAddress": "0xdc98a",
+      "reservedWords": [
+        65280,
+        65280
+      ],
+      "classification": "confirmed_hidden_investigation_reward"
+    },
+    {
+      "group": 10,
+      "mapId": "0a04",
+      "cellIndex": 38,
+      "x": 8,
+      "y": 3,
+      "eventId": 147,
+      "eventHex": "93",
+      "scriptAddress": "0xeac6c",
+      "scriptWords": [
+        22,
+        129,
+        65535
+      ],
+      "reward": {
+        "kind": "item",
+        "id": 129,
+        "count": 1
+      },
+      "pickupFlag": {
+        "ramWord": "0xffe528",
+        "group": 10,
+        "bit": 3
+      },
+      "collectedCollision": 80,
+      "tableAddress": "0xdc992",
+      "reservedWords": [
+        65280,
+        65280
+      ],
+      "classification": "confirmed_hidden_investigation_reward"
+    },
+    {
+      "group": 11,
+      "mapId": "0b01",
+      "cellIndex": 37,
+      "x": 7,
+      "y": 3,
+      "eventId": 144,
+      "eventHex": "90",
+      "scriptAddress": "0xec7f6",
+      "scriptWords": [
+        22,
+        121,
+        65535
+      ],
+      "reward": {
+        "kind": "item",
+        "id": 121,
+        "count": 1
+      },
+      "pickupFlag": {
+        "ramWord": "0xffe52c",
+        "group": 11,
+        "bit": 0
+      },
+      "collectedCollision": 80,
+      "tableAddress": "0xdc99c",
+      "reservedWords": [
+        65280,
+        65280
+      ],
+      "classification": "confirmed_hidden_investigation_reward"
+    },
+    {
+      "group": 11,
+      "mapId": "0b03",
+      "cellIndex": 23,
+      "x": 3,
+      "y": 2,
+      "eventId": 145,
+      "eventHex": "91",
+      "scriptAddress": "0xec7fc",
+      "scriptWords": [
+        22,
+        88,
+        65535
+      ],
+      "reward": {
+        "kind": "item",
+        "id": 88,
+        "count": 1
+      },
+      "pickupFlag": {
+        "ramWord": "0xffe52c",
+        "group": 11,
+        "bit": 1
+      },
+      "collectedCollision": 80,
+      "tableAddress": "0xdc9a4",
+      "reservedWords": [
+        65280,
+        65280
+      ],
+      "classification": "confirmed_hidden_investigation_reward"
+    },
+    {
+      "group": 11,
+      "mapId": "0b03",
+      "cellIndex": 36,
+      "x": 6,
+      "y": 3,
+      "eventId": 146,
+      "eventHex": "92",
+      "scriptAddress": "0xec802",
+      "scriptWords": [
+        22,
+        118,
+        65535
+      ],
+      "reward": {
+        "kind": "item",
+        "id": 118,
+        "count": 1
+      },
+      "pickupFlag": {
+        "ramWord": "0xffe52c",
+        "group": 11,
+        "bit": 2
+      },
+      "collectedCollision": 80,
+      "tableAddress": "0xdc9ac",
+      "reservedWords": [
+        65280,
+        65280
+      ],
+      "classification": "confirmed_hidden_investigation_reward"
+    },
+    {
+      "group": 12,
+      "mapId": "0c01",
+      "cellIndex": 61,
+      "x": 1,
+      "y": 6,
+      "eventId": 144,
+      "eventHex": "90",
+      "scriptAddress": "0xee2be",
+      "scriptWords": [
+        22,
+        42,
+        65535
+      ],
+      "reward": {
+        "kind": "item",
+        "id": 42,
+        "count": 1
+      },
+      "pickupFlag": {
+        "ramWord": "0xffe530",
+        "group": 12,
+        "bit": 0
+      },
+      "collectedCollision": 80,
+      "tableAddress": "0xdc9b6",
+      "reservedWords": [
+        65280,
+        65280
+      ],
+      "classification": "confirmed_hidden_investigation_reward"
+    },
+    {
+      "group": 12,
+      "mapId": "0c02",
+      "cellIndex": 23,
+      "x": 3,
+      "y": 2,
+      "eventId": 145,
+      "eventHex": "91",
+      "scriptAddress": "0xee2c4",
+      "scriptWords": [
+        22,
+        76,
+        65535
+      ],
+      "reward": {
+        "kind": "item",
+        "id": 76,
+        "count": 1
+      },
+      "pickupFlag": {
+        "ramWord": "0xffe530",
+        "group": 12,
+        "bit": 1
+      },
+      "collectedCollision": 80,
+      "tableAddress": "0xdc9be",
+      "reservedWords": [
+        65280,
+        65280
+      ],
+      "classification": "confirmed_hidden_investigation_reward"
+    },
+    {
+      "group": 12,
+      "mapId": "0c02",
+      "cellIndex": 36,
+      "x": 6,
+      "y": 3,
+      "eventId": 146,
+      "eventHex": "92",
+      "scriptAddress": "0xee2ca",
+      "scriptWords": [
+        22,
+        117,
+        65535
+      ],
+      "reward": {
+        "kind": "item",
+        "id": 117,
+        "count": 1
+      },
+      "pickupFlag": {
+        "ramWord": "0xffe530",
+        "group": 12,
+        "bit": 2
+      },
+      "collectedCollision": 80,
+      "tableAddress": "0xdc9c6",
+      "reservedWords": [
+        65280,
+        65280
+      ],
+      "classification": "confirmed_hidden_investigation_reward"
+    }
+  ],
+  "gaps": [
+    "Generic storyline reward op16 is not automatically classified as hidden unless its location exists in the original registry.",
+    "A room without an entry has no confirmed hidden reward; no claim is made that every room contains one."
+  ],
+  "otherRewardScripts": [
+    {
+      "group": 1,
+      "eventId": 113,
+      "eventHex": "71",
+      "rewards": [
+        {
+          "gold": 200
+        }
+      ],
+      "classification": "alias_of_registered_hidden_reward",
+      "scriptAddress": "0xe3566"
+    },
+    {
+      "group": 1,
+      "eventId": 114,
+      "eventHex": "72",
+      "rewards": [
+        {
+          "gold": 200
+        }
+      ],
+      "classification": "alias_of_registered_hidden_reward",
+      "scriptAddress": "0xe3566"
+    },
+    {
+      "group": 1,
+      "eventId": 115,
+      "eventHex": "73",
+      "rewards": [
+        {
+          "gold": 200
+        }
+      ],
+      "classification": "alias_of_registered_hidden_reward",
+      "scriptAddress": "0xe3566"
+    },
+    {
+      "group": 1,
+      "eventId": 116,
+      "eventHex": "74",
+      "rewards": [
+        {
+          "gold": 200
+        }
+      ],
+      "classification": "alias_of_registered_hidden_reward",
+      "scriptAddress": "0xe3566"
+    },
+    {
+      "group": 1,
+      "eventId": 117,
+      "eventHex": "75",
+      "rewards": [
+        {
+          "gold": 200
+        }
+      ],
+      "classification": "alias_of_registered_hidden_reward",
+      "scriptAddress": "0xe3566"
+    },
+    {
+      "group": 1,
+      "eventId": 118,
+      "eventHex": "76",
+      "rewards": [
+        {
+          "gold": 200
+        }
+      ],
+      "classification": "alias_of_registered_hidden_reward",
+      "scriptAddress": "0xe3566"
+    },
+    {
+      "group": 1,
+      "eventId": 119,
+      "eventHex": "77",
+      "rewards": [
+        {
+          "gold": 200
+        }
+      ],
+      "classification": "alias_of_registered_hidden_reward",
+      "scriptAddress": "0xe3566"
+    },
+    {
+      "group": 1,
+      "eventId": 120,
+      "eventHex": "78",
+      "rewards": [
+        {
+          "gold": 200
+        }
+      ],
+      "classification": "alias_of_registered_hidden_reward",
+      "scriptAddress": "0xe3566"
+    },
+    {
+      "group": 1,
+      "eventId": 121,
+      "eventHex": "79",
+      "rewards": [
+        {
+          "gold": 200
+        }
+      ],
+      "classification": "alias_of_registered_hidden_reward",
+      "scriptAddress": "0xe3566"
+    },
+    {
+      "group": 1,
+      "eventId": 122,
+      "eventHex": "7a",
+      "rewards": [
+        {
+          "gold": 200
+        }
+      ],
+      "classification": "alias_of_registered_hidden_reward",
+      "scriptAddress": "0xe3566"
+    },
+    {
+      "group": 1,
+      "eventId": 123,
+      "eventHex": "7b",
+      "rewards": [
+        {
+          "gold": 200
+        }
+      ],
+      "classification": "alias_of_registered_hidden_reward",
+      "scriptAddress": "0xe3566"
+    },
+    {
+      "group": 1,
+      "eventId": 124,
+      "eventHex": "7c",
+      "rewards": [
+        {
+          "gold": 200
+        }
+      ],
+      "classification": "alias_of_registered_hidden_reward",
+      "scriptAddress": "0xe3566"
+    },
+    {
+      "group": 1,
+      "eventId": 125,
+      "eventHex": "7d",
+      "rewards": [
+        {
+          "gold": 200
+        }
+      ],
+      "classification": "alias_of_registered_hidden_reward",
+      "scriptAddress": "0xe3566"
+    },
+    {
+      "group": 1,
+      "eventId": 126,
+      "eventHex": "7e",
+      "rewards": [
+        {
+          "gold": 200
+        }
+      ],
+      "classification": "alias_of_registered_hidden_reward",
+      "scriptAddress": "0xe3566"
+    },
+    {
+      "group": 1,
+      "eventId": 127,
+      "eventHex": "7f",
+      "rewards": [
+        {
+          "gold": 200
+        }
+      ],
+      "classification": "alias_of_registered_hidden_reward",
+      "scriptAddress": "0xe3566"
+    },
+    {
+      "group": 1,
+      "eventId": 128,
+      "eventHex": "80",
+      "rewards": [
+        {
+          "gold": 200
+        }
+      ],
+      "classification": "alias_of_registered_hidden_reward",
+      "scriptAddress": "0xe3566"
+    },
+    {
+      "group": 1,
+      "eventId": 129,
+      "eventHex": "81",
+      "rewards": [
+        {
+          "gold": 200
+        }
+      ],
+      "classification": "alias_of_registered_hidden_reward",
+      "scriptAddress": "0xe3566"
+    },
+    {
+      "group": 1,
+      "eventId": 130,
+      "eventHex": "82",
+      "rewards": [
+        {
+          "gold": 200
+        }
+      ],
+      "classification": "alias_of_registered_hidden_reward",
+      "scriptAddress": "0xe3566"
+    },
+    {
+      "group": 1,
+      "eventId": 131,
+      "eventHex": "83",
+      "rewards": [
+        {
+          "gold": 200
+        }
+      ],
+      "classification": "alias_of_registered_hidden_reward",
+      "scriptAddress": "0xe3566"
+    },
+    {
+      "group": 1,
+      "eventId": 132,
+      "eventHex": "84",
+      "rewards": [
+        {
+          "gold": 200
+        }
+      ],
+      "classification": "alias_of_registered_hidden_reward",
+      "scriptAddress": "0xe3566"
+    },
+    {
+      "group": 1,
+      "eventId": 133,
+      "eventHex": "85",
+      "rewards": [
+        {
+          "gold": 200
+        }
+      ],
+      "classification": "alias_of_registered_hidden_reward",
+      "scriptAddress": "0xe3566"
+    },
+    {
+      "group": 1,
+      "eventId": 134,
+      "eventHex": "86",
+      "rewards": [
+        {
+          "gold": 200
+        }
+      ],
+      "classification": "alias_of_registered_hidden_reward",
+      "scriptAddress": "0xe3566"
+    },
+    {
+      "group": 1,
+      "eventId": 135,
+      "eventHex": "87",
+      "rewards": [
+        {
+          "gold": 200
+        }
+      ],
+      "classification": "alias_of_registered_hidden_reward",
+      "scriptAddress": "0xe3566"
+    },
+    {
+      "group": 1,
+      "eventId": 136,
+      "eventHex": "88",
+      "rewards": [
+        {
+          "gold": 200
+        }
+      ],
+      "classification": "alias_of_registered_hidden_reward",
+      "scriptAddress": "0xe3566"
+    },
+    {
+      "group": 1,
+      "eventId": 137,
+      "eventHex": "89",
+      "rewards": [
+        {
+          "gold": 200
+        }
+      ],
+      "classification": "alias_of_registered_hidden_reward",
+      "scriptAddress": "0xe3566"
+    },
+    {
+      "group": 1,
+      "eventId": 138,
+      "eventHex": "8a",
+      "rewards": [
+        {
+          "gold": 200
+        }
+      ],
+      "classification": "alias_of_registered_hidden_reward",
+      "scriptAddress": "0xe3566"
+    },
+    {
+      "group": 1,
+      "eventId": 139,
+      "eventHex": "8b",
+      "rewards": [
+        {
+          "gold": 200
+        }
+      ],
+      "classification": "alias_of_registered_hidden_reward",
+      "scriptAddress": "0xe3566"
+    },
+    {
+      "group": 1,
+      "eventId": 140,
+      "eventHex": "8c",
+      "rewards": [
+        {
+          "gold": 200
+        }
+      ],
+      "classification": "alias_of_registered_hidden_reward",
+      "scriptAddress": "0xe3566"
+    },
+    {
+      "group": 1,
+      "eventId": 141,
+      "eventHex": "8d",
+      "rewards": [
+        {
+          "gold": 200
+        }
+      ],
+      "classification": "alias_of_registered_hidden_reward",
+      "scriptAddress": "0xe3566"
+    },
+    {
+      "group": 1,
+      "eventId": 142,
+      "eventHex": "8e",
+      "rewards": [
+        {
+          "gold": 200
+        }
+      ],
+      "classification": "alias_of_registered_hidden_reward",
+      "scriptAddress": "0xe3566"
+    },
+    {
+      "group": 1,
+      "eventId": 143,
+      "eventHex": "8f",
+      "rewards": [
+        {
+          "gold": 200
+        }
+      ],
+      "classification": "alias_of_registered_hidden_reward",
+      "scriptAddress": "0xe3566"
+    },
+    {
+      "group": 2,
+      "eventId": 115,
+      "eventHex": "73",
+      "rewards": [
+        {
+          "item": 116,
+          "count": 1
+        }
+      ],
+      "classification": "alias_of_registered_hidden_reward",
+      "scriptAddress": "0xe4536"
+    },
+    {
+      "group": 2,
+      "eventId": 116,
+      "eventHex": "74",
+      "rewards": [
+        {
+          "item": 116,
+          "count": 1
+        }
+      ],
+      "classification": "alias_of_registered_hidden_reward",
+      "scriptAddress": "0xe4536"
+    },
+    {
+      "group": 2,
+      "eventId": 117,
+      "eventHex": "75",
+      "rewards": [
+        {
+          "item": 116,
+          "count": 1
+        }
+      ],
+      "classification": "alias_of_registered_hidden_reward",
+      "scriptAddress": "0xe4536"
+    },
+    {
+      "group": 2,
+      "eventId": 118,
+      "eventHex": "76",
+      "rewards": [
+        {
+          "item": 116,
+          "count": 1
+        }
+      ],
+      "classification": "alias_of_registered_hidden_reward",
+      "scriptAddress": "0xe4536"
+    },
+    {
+      "group": 2,
+      "eventId": 119,
+      "eventHex": "77",
+      "rewards": [
+        {
+          "item": 116,
+          "count": 1
+        }
+      ],
+      "classification": "alias_of_registered_hidden_reward",
+      "scriptAddress": "0xe4536"
+    },
+    {
+      "group": 2,
+      "eventId": 120,
+      "eventHex": "78",
+      "rewards": [
+        {
+          "item": 116,
+          "count": 1
+        }
+      ],
+      "classification": "alias_of_registered_hidden_reward",
+      "scriptAddress": "0xe4536"
+    },
+    {
+      "group": 2,
+      "eventId": 121,
+      "eventHex": "79",
+      "rewards": [
+        {
+          "item": 116,
+          "count": 1
+        }
+      ],
+      "classification": "alias_of_registered_hidden_reward",
+      "scriptAddress": "0xe4536"
+    },
+    {
+      "group": 2,
+      "eventId": 122,
+      "eventHex": "7a",
+      "rewards": [
+        {
+          "item": 116,
+          "count": 1
+        }
+      ],
+      "classification": "alias_of_registered_hidden_reward",
+      "scriptAddress": "0xe4536"
+    },
+    {
+      "group": 2,
+      "eventId": 123,
+      "eventHex": "7b",
+      "rewards": [
+        {
+          "item": 116,
+          "count": 1
+        }
+      ],
+      "classification": "alias_of_registered_hidden_reward",
+      "scriptAddress": "0xe4536"
+    },
+    {
+      "group": 2,
+      "eventId": 124,
+      "eventHex": "7c",
+      "rewards": [
+        {
+          "item": 116,
+          "count": 1
+        }
+      ],
+      "classification": "alias_of_registered_hidden_reward",
+      "scriptAddress": "0xe4536"
+    },
+    {
+      "group": 2,
+      "eventId": 125,
+      "eventHex": "7d",
+      "rewards": [
+        {
+          "item": 116,
+          "count": 1
+        }
+      ],
+      "classification": "alias_of_registered_hidden_reward",
+      "scriptAddress": "0xe4536"
+    },
+    {
+      "group": 2,
+      "eventId": 126,
+      "eventHex": "7e",
+      "rewards": [
+        {
+          "item": 116,
+          "count": 1
+        }
+      ],
+      "classification": "alias_of_registered_hidden_reward",
+      "scriptAddress": "0xe4536"
+    },
+    {
+      "group": 2,
+      "eventId": 127,
+      "eventHex": "7f",
+      "rewards": [
+        {
+          "item": 116,
+          "count": 1
+        }
+      ],
+      "classification": "alias_of_registered_hidden_reward",
+      "scriptAddress": "0xe4536"
+    },
+    {
+      "group": 2,
+      "eventId": 128,
+      "eventHex": "80",
+      "rewards": [
+        {
+          "item": 116,
+          "count": 1
+        }
+      ],
+      "classification": "alias_of_registered_hidden_reward",
+      "scriptAddress": "0xe4536"
+    },
+    {
+      "group": 2,
+      "eventId": 129,
+      "eventHex": "81",
+      "rewards": [
+        {
+          "item": 116,
+          "count": 1
+        }
+      ],
+      "classification": "alias_of_registered_hidden_reward",
+      "scriptAddress": "0xe4536"
+    },
+    {
+      "group": 2,
+      "eventId": 130,
+      "eventHex": "82",
+      "rewards": [
+        {
+          "item": 116,
+          "count": 1
+        }
+      ],
+      "classification": "alias_of_registered_hidden_reward",
+      "scriptAddress": "0xe4536"
+    },
+    {
+      "group": 2,
+      "eventId": 131,
+      "eventHex": "83",
+      "rewards": [
+        {
+          "item": 116,
+          "count": 1
+        }
+      ],
+      "classification": "alias_of_registered_hidden_reward",
+      "scriptAddress": "0xe4536"
+    },
+    {
+      "group": 2,
+      "eventId": 132,
+      "eventHex": "84",
+      "rewards": [
+        {
+          "item": 116,
+          "count": 1
+        }
+      ],
+      "classification": "alias_of_registered_hidden_reward",
+      "scriptAddress": "0xe4536"
+    },
+    {
+      "group": 2,
+      "eventId": 133,
+      "eventHex": "85",
+      "rewards": [
+        {
+          "item": 116,
+          "count": 1
+        }
+      ],
+      "classification": "alias_of_registered_hidden_reward",
+      "scriptAddress": "0xe4536"
+    },
+    {
+      "group": 2,
+      "eventId": 134,
+      "eventHex": "86",
+      "rewards": [
+        {
+          "item": 116,
+          "count": 1
+        }
+      ],
+      "classification": "alias_of_registered_hidden_reward",
+      "scriptAddress": "0xe4536"
+    },
+    {
+      "group": 2,
+      "eventId": 135,
+      "eventHex": "87",
+      "rewards": [
+        {
+          "item": 116,
+          "count": 1
+        }
+      ],
+      "classification": "alias_of_registered_hidden_reward",
+      "scriptAddress": "0xe4536"
+    },
+    {
+      "group": 2,
+      "eventId": 136,
+      "eventHex": "88",
+      "rewards": [
+        {
+          "item": 116,
+          "count": 1
+        }
+      ],
+      "classification": "alias_of_registered_hidden_reward",
+      "scriptAddress": "0xe4536"
+    },
+    {
+      "group": 2,
+      "eventId": 137,
+      "eventHex": "89",
+      "rewards": [
+        {
+          "item": 116,
+          "count": 1
+        }
+      ],
+      "classification": "alias_of_registered_hidden_reward",
+      "scriptAddress": "0xe4536"
+    },
+    {
+      "group": 2,
+      "eventId": 138,
+      "eventHex": "8a",
+      "rewards": [
+        {
+          "item": 116,
+          "count": 1
+        }
+      ],
+      "classification": "alias_of_registered_hidden_reward",
+      "scriptAddress": "0xe4536"
+    },
+    {
+      "group": 2,
+      "eventId": 139,
+      "eventHex": "8b",
+      "rewards": [
+        {
+          "item": 116,
+          "count": 1
+        }
+      ],
+      "classification": "alias_of_registered_hidden_reward",
+      "scriptAddress": "0xe4536"
+    },
+    {
+      "group": 2,
+      "eventId": 140,
+      "eventHex": "8c",
+      "rewards": [
+        {
+          "item": 116,
+          "count": 1
+        }
+      ],
+      "classification": "alias_of_registered_hidden_reward",
+      "scriptAddress": "0xe4536"
+    },
+    {
+      "group": 2,
+      "eventId": 141,
+      "eventHex": "8d",
+      "rewards": [
+        {
+          "item": 116,
+          "count": 1
+        }
+      ],
+      "classification": "alias_of_registered_hidden_reward",
+      "scriptAddress": "0xe4536"
+    },
+    {
+      "group": 2,
+      "eventId": 142,
+      "eventHex": "8e",
+      "rewards": [
+        {
+          "item": 116,
+          "count": 1
+        }
+      ],
+      "classification": "alias_of_registered_hidden_reward",
+      "scriptAddress": "0xe4536"
+    },
+    {
+      "group": 2,
+      "eventId": 143,
+      "eventHex": "8f",
+      "rewards": [
+        {
+          "item": 116,
+          "count": 1
+        }
+      ],
+      "classification": "alias_of_registered_hidden_reward",
+      "scriptAddress": "0xe4536"
+    },
+    {
+      "group": 3,
+      "eventId": 130,
+      "eventHex": "82",
+      "rewards": [
+        {
+          "item": 115,
+          "count": 1
+        }
+      ],
+      "classification": "alias_of_registered_hidden_reward",
+      "scriptAddress": "0xe543a"
+    },
+    {
+      "group": 3,
+      "eventId": 131,
+      "eventHex": "83",
+      "rewards": [
+        {
+          "item": 115,
+          "count": 1
+        }
+      ],
+      "classification": "alias_of_registered_hidden_reward",
+      "scriptAddress": "0xe543a"
+    },
+    {
+      "group": 3,
+      "eventId": 132,
+      "eventHex": "84",
+      "rewards": [
+        {
+          "item": 115,
+          "count": 1
+        }
+      ],
+      "classification": "alias_of_registered_hidden_reward",
+      "scriptAddress": "0xe543a"
+    },
+    {
+      "group": 3,
+      "eventId": 133,
+      "eventHex": "85",
+      "rewards": [
+        {
+          "item": 115,
+          "count": 1
+        }
+      ],
+      "classification": "alias_of_registered_hidden_reward",
+      "scriptAddress": "0xe543a"
+    },
+    {
+      "group": 3,
+      "eventId": 134,
+      "eventHex": "86",
+      "rewards": [
+        {
+          "item": 115,
+          "count": 1
+        }
+      ],
+      "classification": "alias_of_registered_hidden_reward",
+      "scriptAddress": "0xe543a"
+    },
+    {
+      "group": 3,
+      "eventId": 135,
+      "eventHex": "87",
+      "rewards": [
+        {
+          "item": 115,
+          "count": 1
+        }
+      ],
+      "classification": "alias_of_registered_hidden_reward",
+      "scriptAddress": "0xe543a"
+    },
+    {
+      "group": 3,
+      "eventId": 136,
+      "eventHex": "88",
+      "rewards": [
+        {
+          "item": 115,
+          "count": 1
+        }
+      ],
+      "classification": "alias_of_registered_hidden_reward",
+      "scriptAddress": "0xe543a"
+    },
+    {
+      "group": 3,
+      "eventId": 137,
+      "eventHex": "89",
+      "rewards": [
+        {
+          "item": 115,
+          "count": 1
+        }
+      ],
+      "classification": "alias_of_registered_hidden_reward",
+      "scriptAddress": "0xe543a"
+    },
+    {
+      "group": 3,
+      "eventId": 138,
+      "eventHex": "8a",
+      "rewards": [
+        {
+          "item": 115,
+          "count": 1
+        }
+      ],
+      "classification": "alias_of_registered_hidden_reward",
+      "scriptAddress": "0xe543a"
+    },
+    {
+      "group": 3,
+      "eventId": 139,
+      "eventHex": "8b",
+      "rewards": [
+        {
+          "item": 115,
+          "count": 1
+        }
+      ],
+      "classification": "alias_of_registered_hidden_reward",
+      "scriptAddress": "0xe543a"
+    },
+    {
+      "group": 3,
+      "eventId": 140,
+      "eventHex": "8c",
+      "rewards": [
+        {
+          "item": 115,
+          "count": 1
+        }
+      ],
+      "classification": "alias_of_registered_hidden_reward",
+      "scriptAddress": "0xe543a"
+    },
+    {
+      "group": 3,
+      "eventId": 141,
+      "eventHex": "8d",
+      "rewards": [
+        {
+          "item": 115,
+          "count": 1
+        }
+      ],
+      "classification": "alias_of_registered_hidden_reward",
+      "scriptAddress": "0xe543a"
+    },
+    {
+      "group": 3,
+      "eventId": 142,
+      "eventHex": "8e",
+      "rewards": [
+        {
+          "item": 115,
+          "count": 1
+        }
+      ],
+      "classification": "alias_of_registered_hidden_reward",
+      "scriptAddress": "0xe543a"
+    },
+    {
+      "group": 3,
+      "eventId": 143,
+      "eventHex": "8f",
+      "rewards": [
+        {
+          "item": 115,
+          "count": 1
+        }
+      ],
+      "classification": "alias_of_registered_hidden_reward",
+      "scriptAddress": "0xe543a"
+    },
+    {
+      "group": 3,
+      "eventId": 144,
+      "eventHex": "90",
+      "rewards": [
+        {
+          "item": 115,
+          "count": 1
+        }
+      ],
+      "classification": "alias_of_registered_hidden_reward",
+      "scriptAddress": "0xe543a"
+    },
+    {
+      "group": 4,
+      "eventId": 129,
+      "eventHex": "81",
+      "rewards": [
+        {
+          "gold": 1000
+        }
+      ],
+      "classification": "alias_of_registered_hidden_reward",
+      "scriptAddress": "0xe5ea6"
+    },
+    {
+      "group": 4,
+      "eventId": 130,
+      "eventHex": "82",
+      "rewards": [
+        {
+          "gold": 1000
+        }
+      ],
+      "classification": "alias_of_registered_hidden_reward",
+      "scriptAddress": "0xe5ea6"
+    },
+    {
+      "group": 4,
+      "eventId": 131,
+      "eventHex": "83",
+      "rewards": [
+        {
+          "gold": 1000
+        }
+      ],
+      "classification": "alias_of_registered_hidden_reward",
+      "scriptAddress": "0xe5ea6"
+    },
+    {
+      "group": 4,
+      "eventId": 132,
+      "eventHex": "84",
+      "rewards": [
+        {
+          "gold": 1000
+        }
+      ],
+      "classification": "alias_of_registered_hidden_reward",
+      "scriptAddress": "0xe5ea6"
+    },
+    {
+      "group": 4,
+      "eventId": 133,
+      "eventHex": "85",
+      "rewards": [
+        {
+          "gold": 1000
+        }
+      ],
+      "classification": "alias_of_registered_hidden_reward",
+      "scriptAddress": "0xe5ea6"
+    },
+    {
+      "group": 4,
+      "eventId": 134,
+      "eventHex": "86",
+      "rewards": [
+        {
+          "gold": 1000
+        }
+      ],
+      "classification": "alias_of_registered_hidden_reward",
+      "scriptAddress": "0xe5ea6"
+    },
+    {
+      "group": 4,
+      "eventId": 135,
+      "eventHex": "87",
+      "rewards": [
+        {
+          "gold": 1000
+        }
+      ],
+      "classification": "alias_of_registered_hidden_reward",
+      "scriptAddress": "0xe5ea6"
+    },
+    {
+      "group": 4,
+      "eventId": 136,
+      "eventHex": "88",
+      "rewards": [
+        {
+          "gold": 1000
+        }
+      ],
+      "classification": "alias_of_registered_hidden_reward",
+      "scriptAddress": "0xe5ea6"
+    },
+    {
+      "group": 4,
+      "eventId": 137,
+      "eventHex": "89",
+      "rewards": [
+        {
+          "gold": 1000
+        }
+      ],
+      "classification": "alias_of_registered_hidden_reward",
+      "scriptAddress": "0xe5ea6"
+    },
+    {
+      "group": 4,
+      "eventId": 138,
+      "eventHex": "8a",
+      "rewards": [
+        {
+          "gold": 1000
+        }
+      ],
+      "classification": "alias_of_registered_hidden_reward",
+      "scriptAddress": "0xe5ea6"
+    },
+    {
+      "group": 4,
+      "eventId": 139,
+      "eventHex": "8b",
+      "rewards": [
+        {
+          "gold": 1000
+        }
+      ],
+      "classification": "alias_of_registered_hidden_reward",
+      "scriptAddress": "0xe5ea6"
+    },
+    {
+      "group": 4,
+      "eventId": 140,
+      "eventHex": "8c",
+      "rewards": [
+        {
+          "gold": 1000
+        }
+      ],
+      "classification": "alias_of_registered_hidden_reward",
+      "scriptAddress": "0xe5ea6"
+    },
+    {
+      "group": 4,
+      "eventId": 141,
+      "eventHex": "8d",
+      "rewards": [
+        {
+          "gold": 1000
+        }
+      ],
+      "classification": "alias_of_registered_hidden_reward",
+      "scriptAddress": "0xe5ea6"
+    },
+    {
+      "group": 4,
+      "eventId": 142,
+      "eventHex": "8e",
+      "rewards": [
+        {
+          "gold": 1000
+        }
+      ],
+      "classification": "alias_of_registered_hidden_reward",
+      "scriptAddress": "0xe5ea6"
+    },
+    {
+      "group": 4,
+      "eventId": 143,
+      "eventHex": "8f",
+      "rewards": [
+        {
+          "gold": 1000
+        }
+      ],
+      "classification": "alias_of_registered_hidden_reward",
+      "scriptAddress": "0xe5ea6"
+    },
+    {
+      "group": 5,
+      "eventId": 113,
+      "eventHex": "71",
+      "rewards": [
+        {
+          "item": 134,
+          "count": 1
+        }
+      ],
+      "classification": "alias_of_registered_hidden_reward",
+      "scriptAddress": "0xe688c"
+    },
+    {
+      "group": 5,
+      "eventId": 114,
+      "eventHex": "72",
+      "rewards": [
+        {
+          "item": 134,
+          "count": 1
+        }
+      ],
+      "classification": "alias_of_registered_hidden_reward",
+      "scriptAddress": "0xe688c"
+    },
+    {
+      "group": 5,
+      "eventId": 115,
+      "eventHex": "73",
+      "rewards": [
+        {
+          "item": 134,
+          "count": 1
+        }
+      ],
+      "classification": "alias_of_registered_hidden_reward",
+      "scriptAddress": "0xe688c"
+    },
+    {
+      "group": 5,
+      "eventId": 116,
+      "eventHex": "74",
+      "rewards": [
+        {
+          "item": 134,
+          "count": 1
+        }
+      ],
+      "classification": "alias_of_registered_hidden_reward",
+      "scriptAddress": "0xe688c"
+    },
+    {
+      "group": 5,
+      "eventId": 117,
+      "eventHex": "75",
+      "rewards": [
+        {
+          "item": 134,
+          "count": 1
+        }
+      ],
+      "classification": "alias_of_registered_hidden_reward",
+      "scriptAddress": "0xe688c"
+    },
+    {
+      "group": 5,
+      "eventId": 118,
+      "eventHex": "76",
+      "rewards": [
+        {
+          "item": 134,
+          "count": 1
+        }
+      ],
+      "classification": "alias_of_registered_hidden_reward",
+      "scriptAddress": "0xe688c"
+    },
+    {
+      "group": 5,
+      "eventId": 119,
+      "eventHex": "77",
+      "rewards": [
+        {
+          "item": 134,
+          "count": 1
+        }
+      ],
+      "classification": "alias_of_registered_hidden_reward",
+      "scriptAddress": "0xe688c"
+    },
+    {
+      "group": 5,
+      "eventId": 120,
+      "eventHex": "78",
+      "rewards": [
+        {
+          "item": 134,
+          "count": 1
+        }
+      ],
+      "classification": "alias_of_registered_hidden_reward",
+      "scriptAddress": "0xe688c"
+    },
+    {
+      "group": 5,
+      "eventId": 121,
+      "eventHex": "79",
+      "rewards": [
+        {
+          "item": 134,
+          "count": 1
+        }
+      ],
+      "classification": "alias_of_registered_hidden_reward",
+      "scriptAddress": "0xe688c"
+    },
+    {
+      "group": 5,
+      "eventId": 122,
+      "eventHex": "7a",
+      "rewards": [
+        {
+          "item": 134,
+          "count": 1
+        }
+      ],
+      "classification": "alias_of_registered_hidden_reward",
+      "scriptAddress": "0xe688c"
+    },
+    {
+      "group": 5,
+      "eventId": 123,
+      "eventHex": "7b",
+      "rewards": [
+        {
+          "item": 134,
+          "count": 1
+        }
+      ],
+      "classification": "alias_of_registered_hidden_reward",
+      "scriptAddress": "0xe688c"
+    },
+    {
+      "group": 5,
+      "eventId": 124,
+      "eventHex": "7c",
+      "rewards": [
+        {
+          "item": 134,
+          "count": 1
+        }
+      ],
+      "classification": "alias_of_registered_hidden_reward",
+      "scriptAddress": "0xe688c"
+    },
+    {
+      "group": 5,
+      "eventId": 125,
+      "eventHex": "7d",
+      "rewards": [
+        {
+          "item": 134,
+          "count": 1
+        }
+      ],
+      "classification": "alias_of_registered_hidden_reward",
+      "scriptAddress": "0xe688c"
+    },
+    {
+      "group": 5,
+      "eventId": 126,
+      "eventHex": "7e",
+      "rewards": [
+        {
+          "item": 134,
+          "count": 1
+        }
+      ],
+      "classification": "alias_of_registered_hidden_reward",
+      "scriptAddress": "0xe688c"
+    },
+    {
+      "group": 5,
+      "eventId": 127,
+      "eventHex": "7f",
+      "rewards": [
+        {
+          "item": 134,
+          "count": 1
+        }
+      ],
+      "classification": "alias_of_registered_hidden_reward",
+      "scriptAddress": "0xe688c"
+    },
+    {
+      "group": 5,
+      "eventId": 128,
+      "eventHex": "80",
+      "rewards": [
+        {
+          "item": 134,
+          "count": 1
+        }
+      ],
+      "classification": "alias_of_registered_hidden_reward",
+      "scriptAddress": "0xe688c"
+    },
+    {
+      "group": 5,
+      "eventId": 129,
+      "eventHex": "81",
+      "rewards": [
+        {
+          "item": 134,
+          "count": 1
+        }
+      ],
+      "classification": "alias_of_registered_hidden_reward",
+      "scriptAddress": "0xe688c"
+    },
+    {
+      "group": 5,
+      "eventId": 130,
+      "eventHex": "82",
+      "rewards": [
+        {
+          "item": 134,
+          "count": 1
+        }
+      ],
+      "classification": "alias_of_registered_hidden_reward",
+      "scriptAddress": "0xe688c"
+    },
+    {
+      "group": 5,
+      "eventId": 131,
+      "eventHex": "83",
+      "rewards": [
+        {
+          "item": 134,
+          "count": 1
+        }
+      ],
+      "classification": "alias_of_registered_hidden_reward",
+      "scriptAddress": "0xe688c"
+    },
+    {
+      "group": 5,
+      "eventId": 132,
+      "eventHex": "84",
+      "rewards": [
+        {
+          "item": 134,
+          "count": 1
+        }
+      ],
+      "classification": "alias_of_registered_hidden_reward",
+      "scriptAddress": "0xe688c"
+    },
+    {
+      "group": 5,
+      "eventId": 133,
+      "eventHex": "85",
+      "rewards": [
+        {
+          "item": 134,
+          "count": 1
+        }
+      ],
+      "classification": "alias_of_registered_hidden_reward",
+      "scriptAddress": "0xe688c"
+    },
+    {
+      "group": 5,
+      "eventId": 134,
+      "eventHex": "86",
+      "rewards": [
+        {
+          "item": 134,
+          "count": 1
+        }
+      ],
+      "classification": "alias_of_registered_hidden_reward",
+      "scriptAddress": "0xe688c"
+    },
+    {
+      "group": 5,
+      "eventId": 135,
+      "eventHex": "87",
+      "rewards": [
+        {
+          "item": 134,
+          "count": 1
+        }
+      ],
+      "classification": "alias_of_registered_hidden_reward",
+      "scriptAddress": "0xe688c"
+    },
+    {
+      "group": 5,
+      "eventId": 136,
+      "eventHex": "88",
+      "rewards": [
+        {
+          "item": 134,
+          "count": 1
+        }
+      ],
+      "classification": "alias_of_registered_hidden_reward",
+      "scriptAddress": "0xe688c"
+    },
+    {
+      "group": 5,
+      "eventId": 137,
+      "eventHex": "89",
+      "rewards": [
+        {
+          "item": 134,
+          "count": 1
+        }
+      ],
+      "classification": "alias_of_registered_hidden_reward",
+      "scriptAddress": "0xe688c"
+    },
+    {
+      "group": 5,
+      "eventId": 138,
+      "eventHex": "8a",
+      "rewards": [
+        {
+          "item": 134,
+          "count": 1
+        }
+      ],
+      "classification": "alias_of_registered_hidden_reward",
+      "scriptAddress": "0xe688c"
+    },
+    {
+      "group": 5,
+      "eventId": 139,
+      "eventHex": "8b",
+      "rewards": [
+        {
+          "item": 134,
+          "count": 1
+        }
+      ],
+      "classification": "alias_of_registered_hidden_reward",
+      "scriptAddress": "0xe688c"
+    },
+    {
+      "group": 5,
+      "eventId": 140,
+      "eventHex": "8c",
+      "rewards": [
+        {
+          "item": 134,
+          "count": 1
+        }
+      ],
+      "classification": "alias_of_registered_hidden_reward",
+      "scriptAddress": "0xe688c"
+    },
+    {
+      "group": 5,
+      "eventId": 141,
+      "eventHex": "8d",
+      "rewards": [
+        {
+          "item": 134,
+          "count": 1
+        }
+      ],
+      "classification": "alias_of_registered_hidden_reward",
+      "scriptAddress": "0xe688c"
+    },
+    {
+      "group": 5,
+      "eventId": 142,
+      "eventHex": "8e",
+      "rewards": [
+        {
+          "item": 134,
+          "count": 1
+        }
+      ],
+      "classification": "alias_of_registered_hidden_reward",
+      "scriptAddress": "0xe688c"
+    },
+    {
+      "group": 5,
+      "eventId": 143,
+      "eventHex": "8f",
+      "rewards": [
+        {
+          "item": 134,
+          "count": 1
+        }
+      ],
+      "classification": "alias_of_registered_hidden_reward",
+      "scriptAddress": "0xe688c"
+    },
+    {
+      "group": 6,
+      "eventId": 113,
+      "eventHex": "71",
+      "rewards": [
+        {
+          "item": 120,
+          "count": 1
+        }
+      ],
+      "classification": "alias_of_registered_hidden_reward",
+      "scriptAddress": "0xe73b2"
+    },
+    {
+      "group": 6,
+      "eventId": 114,
+      "eventHex": "72",
+      "rewards": [
+        {
+          "item": 120,
+          "count": 1
+        }
+      ],
+      "classification": "alias_of_registered_hidden_reward",
+      "scriptAddress": "0xe73b2"
+    },
+    {
+      "group": 6,
+      "eventId": 115,
+      "eventHex": "73",
+      "rewards": [
+        {
+          "item": 120,
+          "count": 1
+        }
+      ],
+      "classification": "alias_of_registered_hidden_reward",
+      "scriptAddress": "0xe73b2"
+    },
+    {
+      "group": 6,
+      "eventId": 116,
+      "eventHex": "74",
+      "rewards": [
+        {
+          "item": 120,
+          "count": 1
+        }
+      ],
+      "classification": "alias_of_registered_hidden_reward",
+      "scriptAddress": "0xe73b2"
+    },
+    {
+      "group": 6,
+      "eventId": 117,
+      "eventHex": "75",
+      "rewards": [
+        {
+          "item": 120,
+          "count": 1
+        }
+      ],
+      "classification": "alias_of_registered_hidden_reward",
+      "scriptAddress": "0xe73b2"
+    },
+    {
+      "group": 6,
+      "eventId": 118,
+      "eventHex": "76",
+      "rewards": [
+        {
+          "item": 120,
+          "count": 1
+        }
+      ],
+      "classification": "alias_of_registered_hidden_reward",
+      "scriptAddress": "0xe73b2"
+    },
+    {
+      "group": 6,
+      "eventId": 119,
+      "eventHex": "77",
+      "rewards": [
+        {
+          "item": 120,
+          "count": 1
+        }
+      ],
+      "classification": "alias_of_registered_hidden_reward",
+      "scriptAddress": "0xe73b2"
+    },
+    {
+      "group": 6,
+      "eventId": 120,
+      "eventHex": "78",
+      "rewards": [
+        {
+          "item": 120,
+          "count": 1
+        }
+      ],
+      "classification": "alias_of_registered_hidden_reward",
+      "scriptAddress": "0xe73b2"
+    },
+    {
+      "group": 6,
+      "eventId": 121,
+      "eventHex": "79",
+      "rewards": [
+        {
+          "item": 120,
+          "count": 1
+        }
+      ],
+      "classification": "alias_of_registered_hidden_reward",
+      "scriptAddress": "0xe73b2"
+    },
+    {
+      "group": 6,
+      "eventId": 122,
+      "eventHex": "7a",
+      "rewards": [
+        {
+          "item": 120,
+          "count": 1
+        }
+      ],
+      "classification": "alias_of_registered_hidden_reward",
+      "scriptAddress": "0xe73b2"
+    },
+    {
+      "group": 6,
+      "eventId": 123,
+      "eventHex": "7b",
+      "rewards": [
+        {
+          "item": 120,
+          "count": 1
+        }
+      ],
+      "classification": "alias_of_registered_hidden_reward",
+      "scriptAddress": "0xe73b2"
+    },
+    {
+      "group": 6,
+      "eventId": 124,
+      "eventHex": "7c",
+      "rewards": [
+        {
+          "item": 120,
+          "count": 1
+        }
+      ],
+      "classification": "alias_of_registered_hidden_reward",
+      "scriptAddress": "0xe73b2"
+    },
+    {
+      "group": 6,
+      "eventId": 125,
+      "eventHex": "7d",
+      "rewards": [
+        {
+          "item": 120,
+          "count": 1
+        }
+      ],
+      "classification": "alias_of_registered_hidden_reward",
+      "scriptAddress": "0xe73b2"
+    },
+    {
+      "group": 6,
+      "eventId": 126,
+      "eventHex": "7e",
+      "rewards": [
+        {
+          "item": 120,
+          "count": 1
+        }
+      ],
+      "classification": "alias_of_registered_hidden_reward",
+      "scriptAddress": "0xe73b2"
+    },
+    {
+      "group": 6,
+      "eventId": 127,
+      "eventHex": "7f",
+      "rewards": [
+        {
+          "item": 120,
+          "count": 1
+        }
+      ],
+      "classification": "alias_of_registered_hidden_reward",
+      "scriptAddress": "0xe73b2"
+    },
+    {
+      "group": 6,
+      "eventId": 128,
+      "eventHex": "80",
+      "rewards": [
+        {
+          "item": 120,
+          "count": 1
+        }
+      ],
+      "classification": "alias_of_registered_hidden_reward",
+      "scriptAddress": "0xe73b2"
+    },
+    {
+      "group": 6,
+      "eventId": 129,
+      "eventHex": "81",
+      "rewards": [
+        {
+          "item": 120,
+          "count": 1
+        }
+      ],
+      "classification": "alias_of_registered_hidden_reward",
+      "scriptAddress": "0xe73b2"
+    },
+    {
+      "group": 6,
+      "eventId": 130,
+      "eventHex": "82",
+      "rewards": [
+        {
+          "item": 120,
+          "count": 1
+        }
+      ],
+      "classification": "alias_of_registered_hidden_reward",
+      "scriptAddress": "0xe73b2"
+    },
+    {
+      "group": 6,
+      "eventId": 131,
+      "eventHex": "83",
+      "rewards": [
+        {
+          "item": 120,
+          "count": 1
+        }
+      ],
+      "classification": "alias_of_registered_hidden_reward",
+      "scriptAddress": "0xe73b2"
+    },
+    {
+      "group": 6,
+      "eventId": 132,
+      "eventHex": "84",
+      "rewards": [
+        {
+          "item": 120,
+          "count": 1
+        }
+      ],
+      "classification": "alias_of_registered_hidden_reward",
+      "scriptAddress": "0xe73b2"
+    },
+    {
+      "group": 6,
+      "eventId": 133,
+      "eventHex": "85",
+      "rewards": [
+        {
+          "item": 120,
+          "count": 1
+        }
+      ],
+      "classification": "alias_of_registered_hidden_reward",
+      "scriptAddress": "0xe73b2"
+    },
+    {
+      "group": 6,
+      "eventId": 134,
+      "eventHex": "86",
+      "rewards": [
+        {
+          "item": 120,
+          "count": 1
+        }
+      ],
+      "classification": "alias_of_registered_hidden_reward",
+      "scriptAddress": "0xe73b2"
+    },
+    {
+      "group": 6,
+      "eventId": 135,
+      "eventHex": "87",
+      "rewards": [
+        {
+          "item": 120,
+          "count": 1
+        }
+      ],
+      "classification": "alias_of_registered_hidden_reward",
+      "scriptAddress": "0xe73b2"
+    },
+    {
+      "group": 6,
+      "eventId": 136,
+      "eventHex": "88",
+      "rewards": [
+        {
+          "item": 120,
+          "count": 1
+        }
+      ],
+      "classification": "alias_of_registered_hidden_reward",
+      "scriptAddress": "0xe73b2"
+    },
+    {
+      "group": 6,
+      "eventId": 137,
+      "eventHex": "89",
+      "rewards": [
+        {
+          "item": 120,
+          "count": 1
+        }
+      ],
+      "classification": "alias_of_registered_hidden_reward",
+      "scriptAddress": "0xe73b2"
+    },
+    {
+      "group": 6,
+      "eventId": 138,
+      "eventHex": "8a",
+      "rewards": [
+        {
+          "item": 120,
+          "count": 1
+        }
+      ],
+      "classification": "alias_of_registered_hidden_reward",
+      "scriptAddress": "0xe73b2"
+    },
+    {
+      "group": 6,
+      "eventId": 139,
+      "eventHex": "8b",
+      "rewards": [
+        {
+          "item": 120,
+          "count": 1
+        }
+      ],
+      "classification": "alias_of_registered_hidden_reward",
+      "scriptAddress": "0xe73b2"
+    },
+    {
+      "group": 6,
+      "eventId": 140,
+      "eventHex": "8c",
+      "rewards": [
+        {
+          "item": 120,
+          "count": 1
+        }
+      ],
+      "classification": "alias_of_registered_hidden_reward",
+      "scriptAddress": "0xe73b2"
+    },
+    {
+      "group": 6,
+      "eventId": 141,
+      "eventHex": "8d",
+      "rewards": [
+        {
+          "item": 120,
+          "count": 1
+        }
+      ],
+      "classification": "alias_of_registered_hidden_reward",
+      "scriptAddress": "0xe73b2"
+    },
+    {
+      "group": 6,
+      "eventId": 142,
+      "eventHex": "8e",
+      "rewards": [
+        {
+          "item": 120,
+          "count": 1
+        }
+      ],
+      "classification": "alias_of_registered_hidden_reward",
+      "scriptAddress": "0xe73b2"
+    },
+    {
+      "group": 6,
+      "eventId": 143,
+      "eventHex": "8f",
+      "rewards": [
+        {
+          "item": 120,
+          "count": 1
+        }
+      ],
+      "classification": "alias_of_registered_hidden_reward",
+      "scriptAddress": "0xe73b2"
+    },
+    {
+      "group": 7,
+      "eventId": 113,
+      "eventHex": "71",
+      "rewards": [
+        {
+          "item": 142,
+          "count": 1
+        }
+      ],
+      "classification": "alias_of_registered_hidden_reward",
+      "scriptAddress": "0xe7e28"
+    },
+    {
+      "group": 7,
+      "eventId": 114,
+      "eventHex": "72",
+      "rewards": [
+        {
+          "item": 142,
+          "count": 1
+        }
+      ],
+      "classification": "alias_of_registered_hidden_reward",
+      "scriptAddress": "0xe7e28"
+    },
+    {
+      "group": 7,
+      "eventId": 115,
+      "eventHex": "73",
+      "rewards": [
+        {
+          "item": 142,
+          "count": 1
+        }
+      ],
+      "classification": "alias_of_registered_hidden_reward",
+      "scriptAddress": "0xe7e28"
+    },
+    {
+      "group": 7,
+      "eventId": 116,
+      "eventHex": "74",
+      "rewards": [
+        {
+          "item": 142,
+          "count": 1
+        }
+      ],
+      "classification": "alias_of_registered_hidden_reward",
+      "scriptAddress": "0xe7e28"
+    },
+    {
+      "group": 7,
+      "eventId": 117,
+      "eventHex": "75",
+      "rewards": [
+        {
+          "item": 142,
+          "count": 1
+        }
+      ],
+      "classification": "alias_of_registered_hidden_reward",
+      "scriptAddress": "0xe7e28"
+    },
+    {
+      "group": 7,
+      "eventId": 118,
+      "eventHex": "76",
+      "rewards": [
+        {
+          "item": 142,
+          "count": 1
+        }
+      ],
+      "classification": "alias_of_registered_hidden_reward",
+      "scriptAddress": "0xe7e28"
+    },
+    {
+      "group": 7,
+      "eventId": 119,
+      "eventHex": "77",
+      "rewards": [
+        {
+          "item": 142,
+          "count": 1
+        }
+      ],
+      "classification": "alias_of_registered_hidden_reward",
+      "scriptAddress": "0xe7e28"
+    },
+    {
+      "group": 7,
+      "eventId": 120,
+      "eventHex": "78",
+      "rewards": [
+        {
+          "item": 142,
+          "count": 1
+        }
+      ],
+      "classification": "alias_of_registered_hidden_reward",
+      "scriptAddress": "0xe7e28"
+    },
+    {
+      "group": 7,
+      "eventId": 121,
+      "eventHex": "79",
+      "rewards": [
+        {
+          "item": 142,
+          "count": 1
+        }
+      ],
+      "classification": "alias_of_registered_hidden_reward",
+      "scriptAddress": "0xe7e28"
+    },
+    {
+      "group": 7,
+      "eventId": 122,
+      "eventHex": "7a",
+      "rewards": [
+        {
+          "item": 142,
+          "count": 1
+        }
+      ],
+      "classification": "alias_of_registered_hidden_reward",
+      "scriptAddress": "0xe7e28"
+    },
+    {
+      "group": 7,
+      "eventId": 123,
+      "eventHex": "7b",
+      "rewards": [
+        {
+          "item": 142,
+          "count": 1
+        }
+      ],
+      "classification": "alias_of_registered_hidden_reward",
+      "scriptAddress": "0xe7e28"
+    },
+    {
+      "group": 7,
+      "eventId": 124,
+      "eventHex": "7c",
+      "rewards": [
+        {
+          "item": 142,
+          "count": 1
+        }
+      ],
+      "classification": "alias_of_registered_hidden_reward",
+      "scriptAddress": "0xe7e28"
+    },
+    {
+      "group": 7,
+      "eventId": 125,
+      "eventHex": "7d",
+      "rewards": [
+        {
+          "item": 142,
+          "count": 1
+        }
+      ],
+      "classification": "alias_of_registered_hidden_reward",
+      "scriptAddress": "0xe7e28"
+    },
+    {
+      "group": 7,
+      "eventId": 126,
+      "eventHex": "7e",
+      "rewards": [
+        {
+          "item": 142,
+          "count": 1
+        }
+      ],
+      "classification": "alias_of_registered_hidden_reward",
+      "scriptAddress": "0xe7e28"
+    },
+    {
+      "group": 7,
+      "eventId": 127,
+      "eventHex": "7f",
+      "rewards": [
+        {
+          "item": 142,
+          "count": 1
+        }
+      ],
+      "classification": "alias_of_registered_hidden_reward",
+      "scriptAddress": "0xe7e28"
+    },
+    {
+      "group": 7,
+      "eventId": 128,
+      "eventHex": "80",
+      "rewards": [
+        {
+          "item": 142,
+          "count": 1
+        }
+      ],
+      "classification": "alias_of_registered_hidden_reward",
+      "scriptAddress": "0xe7e28"
+    },
+    {
+      "group": 7,
+      "eventId": 129,
+      "eventHex": "81",
+      "rewards": [
+        {
+          "item": 142,
+          "count": 1
+        }
+      ],
+      "classification": "alias_of_registered_hidden_reward",
+      "scriptAddress": "0xe7e28"
+    },
+    {
+      "group": 7,
+      "eventId": 130,
+      "eventHex": "82",
+      "rewards": [
+        {
+          "item": 142,
+          "count": 1
+        }
+      ],
+      "classification": "alias_of_registered_hidden_reward",
+      "scriptAddress": "0xe7e28"
+    },
+    {
+      "group": 7,
+      "eventId": 131,
+      "eventHex": "83",
+      "rewards": [
+        {
+          "item": 142,
+          "count": 1
+        }
+      ],
+      "classification": "alias_of_registered_hidden_reward",
+      "scriptAddress": "0xe7e28"
+    },
+    {
+      "group": 7,
+      "eventId": 132,
+      "eventHex": "84",
+      "rewards": [
+        {
+          "item": 142,
+          "count": 1
+        }
+      ],
+      "classification": "alias_of_registered_hidden_reward",
+      "scriptAddress": "0xe7e28"
+    },
+    {
+      "group": 7,
+      "eventId": 133,
+      "eventHex": "85",
+      "rewards": [
+        {
+          "item": 142,
+          "count": 1
+        }
+      ],
+      "classification": "alias_of_registered_hidden_reward",
+      "scriptAddress": "0xe7e28"
+    },
+    {
+      "group": 7,
+      "eventId": 134,
+      "eventHex": "86",
+      "rewards": [
+        {
+          "item": 142,
+          "count": 1
+        }
+      ],
+      "classification": "alias_of_registered_hidden_reward",
+      "scriptAddress": "0xe7e28"
+    },
+    {
+      "group": 7,
+      "eventId": 135,
+      "eventHex": "87",
+      "rewards": [
+        {
+          "item": 142,
+          "count": 1
+        }
+      ],
+      "classification": "alias_of_registered_hidden_reward",
+      "scriptAddress": "0xe7e28"
+    },
+    {
+      "group": 7,
+      "eventId": 136,
+      "eventHex": "88",
+      "rewards": [
+        {
+          "item": 142,
+          "count": 1
+        }
+      ],
+      "classification": "alias_of_registered_hidden_reward",
+      "scriptAddress": "0xe7e28"
+    },
+    {
+      "group": 7,
+      "eventId": 137,
+      "eventHex": "89",
+      "rewards": [
+        {
+          "item": 142,
+          "count": 1
+        }
+      ],
+      "classification": "alias_of_registered_hidden_reward",
+      "scriptAddress": "0xe7e28"
+    },
+    {
+      "group": 7,
+      "eventId": 138,
+      "eventHex": "8a",
+      "rewards": [
+        {
+          "item": 142,
+          "count": 1
+        }
+      ],
+      "classification": "alias_of_registered_hidden_reward",
+      "scriptAddress": "0xe7e28"
+    },
+    {
+      "group": 7,
+      "eventId": 139,
+      "eventHex": "8b",
+      "rewards": [
+        {
+          "item": 142,
+          "count": 1
+        }
+      ],
+      "classification": "alias_of_registered_hidden_reward",
+      "scriptAddress": "0xe7e28"
+    },
+    {
+      "group": 7,
+      "eventId": 140,
+      "eventHex": "8c",
+      "rewards": [
+        {
+          "item": 142,
+          "count": 1
+        }
+      ],
+      "classification": "alias_of_registered_hidden_reward",
+      "scriptAddress": "0xe7e28"
+    },
+    {
+      "group": 7,
+      "eventId": 141,
+      "eventHex": "8d",
+      "rewards": [
+        {
+          "item": 142,
+          "count": 1
+        }
+      ],
+      "classification": "alias_of_registered_hidden_reward",
+      "scriptAddress": "0xe7e28"
+    },
+    {
+      "group": 7,
+      "eventId": 142,
+      "eventHex": "8e",
+      "rewards": [
+        {
+          "item": 142,
+          "count": 1
+        }
+      ],
+      "classification": "alias_of_registered_hidden_reward",
+      "scriptAddress": "0xe7e28"
+    },
+    {
+      "group": 7,
+      "eventId": 143,
+      "eventHex": "8f",
+      "rewards": [
+        {
+          "item": 142,
+          "count": 1
+        }
+      ],
+      "classification": "alias_of_registered_hidden_reward",
+      "scriptAddress": "0xe7e28"
+    },
+    {
+      "group": 8,
+      "eventId": 129,
+      "eventHex": "81",
+      "rewards": [
+        {
+          "item": 112,
+          "count": 1
+        }
+      ],
+      "classification": "alias_of_registered_hidden_reward",
+      "scriptAddress": "0xe8c70"
+    },
+    {
+      "group": 8,
+      "eventId": 130,
+      "eventHex": "82",
+      "rewards": [
+        {
+          "item": 112,
+          "count": 1
+        }
+      ],
+      "classification": "alias_of_registered_hidden_reward",
+      "scriptAddress": "0xe8c70"
+    },
+    {
+      "group": 8,
+      "eventId": 131,
+      "eventHex": "83",
+      "rewards": [
+        {
+          "item": 112,
+          "count": 1
+        }
+      ],
+      "classification": "alias_of_registered_hidden_reward",
+      "scriptAddress": "0xe8c70"
+    },
+    {
+      "group": 8,
+      "eventId": 132,
+      "eventHex": "84",
+      "rewards": [
+        {
+          "item": 112,
+          "count": 1
+        }
+      ],
+      "classification": "alias_of_registered_hidden_reward",
+      "scriptAddress": "0xe8c70"
+    },
+    {
+      "group": 8,
+      "eventId": 133,
+      "eventHex": "85",
+      "rewards": [
+        {
+          "item": 112,
+          "count": 1
+        }
+      ],
+      "classification": "alias_of_registered_hidden_reward",
+      "scriptAddress": "0xe8c70"
+    },
+    {
+      "group": 8,
+      "eventId": 134,
+      "eventHex": "86",
+      "rewards": [
+        {
+          "item": 112,
+          "count": 1
+        }
+      ],
+      "classification": "alias_of_registered_hidden_reward",
+      "scriptAddress": "0xe8c70"
+    },
+    {
+      "group": 8,
+      "eventId": 135,
+      "eventHex": "87",
+      "rewards": [
+        {
+          "item": 112,
+          "count": 1
+        }
+      ],
+      "classification": "alias_of_registered_hidden_reward",
+      "scriptAddress": "0xe8c70"
+    },
+    {
+      "group": 8,
+      "eventId": 136,
+      "eventHex": "88",
+      "rewards": [
+        {
+          "item": 112,
+          "count": 1
+        }
+      ],
+      "classification": "alias_of_registered_hidden_reward",
+      "scriptAddress": "0xe8c70"
+    },
+    {
+      "group": 8,
+      "eventId": 137,
+      "eventHex": "89",
+      "rewards": [
+        {
+          "item": 112,
+          "count": 1
+        }
+      ],
+      "classification": "alias_of_registered_hidden_reward",
+      "scriptAddress": "0xe8c70"
+    },
+    {
+      "group": 8,
+      "eventId": 138,
+      "eventHex": "8a",
+      "rewards": [
+        {
+          "item": 112,
+          "count": 1
+        }
+      ],
+      "classification": "alias_of_registered_hidden_reward",
+      "scriptAddress": "0xe8c70"
+    },
+    {
+      "group": 8,
+      "eventId": 139,
+      "eventHex": "8b",
+      "rewards": [
+        {
+          "item": 112,
+          "count": 1
+        }
+      ],
+      "classification": "alias_of_registered_hidden_reward",
+      "scriptAddress": "0xe8c70"
+    },
+    {
+      "group": 8,
+      "eventId": 140,
+      "eventHex": "8c",
+      "rewards": [
+        {
+          "item": 112,
+          "count": 1
+        }
+      ],
+      "classification": "alias_of_registered_hidden_reward",
+      "scriptAddress": "0xe8c70"
+    },
+    {
+      "group": 8,
+      "eventId": 141,
+      "eventHex": "8d",
+      "rewards": [
+        {
+          "item": 112,
+          "count": 1
+        }
+      ],
+      "classification": "alias_of_registered_hidden_reward",
+      "scriptAddress": "0xe8c70"
+    },
+    {
+      "group": 8,
+      "eventId": 142,
+      "eventHex": "8e",
+      "rewards": [
+        {
+          "item": 112,
+          "count": 1
+        }
+      ],
+      "classification": "alias_of_registered_hidden_reward",
+      "scriptAddress": "0xe8c70"
+    },
+    {
+      "group": 8,
+      "eventId": 143,
+      "eventHex": "8f",
+      "rewards": [
+        {
+          "item": 112,
+          "count": 1
+        }
+      ],
+      "classification": "alias_of_registered_hidden_reward",
+      "scriptAddress": "0xe8c70"
+    },
+    {
+      "group": 9,
+      "eventId": 113,
+      "eventHex": "71",
+      "rewards": [
+        {
+          "item": 114,
+          "count": 1
+        }
+      ],
+      "classification": "alias_of_registered_hidden_reward",
+      "scriptAddress": "0xe9aea"
+    },
+    {
+      "group": 9,
+      "eventId": 114,
+      "eventHex": "72",
+      "rewards": [
+        {
+          "item": 114,
+          "count": 1
+        }
+      ],
+      "classification": "alias_of_registered_hidden_reward",
+      "scriptAddress": "0xe9aea"
+    },
+    {
+      "group": 9,
+      "eventId": 115,
+      "eventHex": "73",
+      "rewards": [
+        {
+          "item": 114,
+          "count": 1
+        }
+      ],
+      "classification": "alias_of_registered_hidden_reward",
+      "scriptAddress": "0xe9aea"
+    },
+    {
+      "group": 9,
+      "eventId": 116,
+      "eventHex": "74",
+      "rewards": [
+        {
+          "item": 114,
+          "count": 1
+        }
+      ],
+      "classification": "alias_of_registered_hidden_reward",
+      "scriptAddress": "0xe9aea"
+    },
+    {
+      "group": 9,
+      "eventId": 117,
+      "eventHex": "75",
+      "rewards": [
+        {
+          "item": 114,
+          "count": 1
+        }
+      ],
+      "classification": "alias_of_registered_hidden_reward",
+      "scriptAddress": "0xe9aea"
+    },
+    {
+      "group": 9,
+      "eventId": 118,
+      "eventHex": "76",
+      "rewards": [
+        {
+          "item": 114,
+          "count": 1
+        }
+      ],
+      "classification": "alias_of_registered_hidden_reward",
+      "scriptAddress": "0xe9aea"
+    },
+    {
+      "group": 9,
+      "eventId": 119,
+      "eventHex": "77",
+      "rewards": [
+        {
+          "item": 114,
+          "count": 1
+        }
+      ],
+      "classification": "alias_of_registered_hidden_reward",
+      "scriptAddress": "0xe9aea"
+    },
+    {
+      "group": 9,
+      "eventId": 120,
+      "eventHex": "78",
+      "rewards": [
+        {
+          "item": 114,
+          "count": 1
+        }
+      ],
+      "classification": "alias_of_registered_hidden_reward",
+      "scriptAddress": "0xe9aea"
+    },
+    {
+      "group": 9,
+      "eventId": 121,
+      "eventHex": "79",
+      "rewards": [
+        {
+          "item": 114,
+          "count": 1
+        }
+      ],
+      "classification": "alias_of_registered_hidden_reward",
+      "scriptAddress": "0xe9aea"
+    },
+    {
+      "group": 9,
+      "eventId": 122,
+      "eventHex": "7a",
+      "rewards": [
+        {
+          "item": 114,
+          "count": 1
+        }
+      ],
+      "classification": "alias_of_registered_hidden_reward",
+      "scriptAddress": "0xe9aea"
+    },
+    {
+      "group": 9,
+      "eventId": 123,
+      "eventHex": "7b",
+      "rewards": [
+        {
+          "item": 114,
+          "count": 1
+        }
+      ],
+      "classification": "alias_of_registered_hidden_reward",
+      "scriptAddress": "0xe9aea"
+    },
+    {
+      "group": 9,
+      "eventId": 124,
+      "eventHex": "7c",
+      "rewards": [
+        {
+          "item": 114,
+          "count": 1
+        }
+      ],
+      "classification": "alias_of_registered_hidden_reward",
+      "scriptAddress": "0xe9aea"
+    },
+    {
+      "group": 9,
+      "eventId": 125,
+      "eventHex": "7d",
+      "rewards": [
+        {
+          "item": 114,
+          "count": 1
+        }
+      ],
+      "classification": "alias_of_registered_hidden_reward",
+      "scriptAddress": "0xe9aea"
+    },
+    {
+      "group": 9,
+      "eventId": 126,
+      "eventHex": "7e",
+      "rewards": [
+        {
+          "item": 114,
+          "count": 1
+        }
+      ],
+      "classification": "alias_of_registered_hidden_reward",
+      "scriptAddress": "0xe9aea"
+    },
+    {
+      "group": 9,
+      "eventId": 127,
+      "eventHex": "7f",
+      "rewards": [
+        {
+          "item": 114,
+          "count": 1
+        }
+      ],
+      "classification": "alias_of_registered_hidden_reward",
+      "scriptAddress": "0xe9aea"
+    },
+    {
+      "group": 9,
+      "eventId": 128,
+      "eventHex": "80",
+      "rewards": [
+        {
+          "item": 114,
+          "count": 1
+        }
+      ],
+      "classification": "alias_of_registered_hidden_reward",
+      "scriptAddress": "0xe9aea"
+    },
+    {
+      "group": 9,
+      "eventId": 129,
+      "eventHex": "81",
+      "rewards": [
+        {
+          "item": 114,
+          "count": 1
+        }
+      ],
+      "classification": "alias_of_registered_hidden_reward",
+      "scriptAddress": "0xe9aea"
+    },
+    {
+      "group": 9,
+      "eventId": 130,
+      "eventHex": "82",
+      "rewards": [
+        {
+          "item": 114,
+          "count": 1
+        }
+      ],
+      "classification": "alias_of_registered_hidden_reward",
+      "scriptAddress": "0xe9aea"
+    },
+    {
+      "group": 9,
+      "eventId": 131,
+      "eventHex": "83",
+      "rewards": [
+        {
+          "item": 114,
+          "count": 1
+        }
+      ],
+      "classification": "alias_of_registered_hidden_reward",
+      "scriptAddress": "0xe9aea"
+    },
+    {
+      "group": 9,
+      "eventId": 132,
+      "eventHex": "84",
+      "rewards": [
+        {
+          "item": 114,
+          "count": 1
+        }
+      ],
+      "classification": "alias_of_registered_hidden_reward",
+      "scriptAddress": "0xe9aea"
+    },
+    {
+      "group": 9,
+      "eventId": 133,
+      "eventHex": "85",
+      "rewards": [
+        {
+          "item": 114,
+          "count": 1
+        }
+      ],
+      "classification": "alias_of_registered_hidden_reward",
+      "scriptAddress": "0xe9aea"
+    },
+    {
+      "group": 9,
+      "eventId": 134,
+      "eventHex": "86",
+      "rewards": [
+        {
+          "item": 114,
+          "count": 1
+        }
+      ],
+      "classification": "alias_of_registered_hidden_reward",
+      "scriptAddress": "0xe9aea"
+    },
+    {
+      "group": 9,
+      "eventId": 135,
+      "eventHex": "87",
+      "rewards": [
+        {
+          "item": 114,
+          "count": 1
+        }
+      ],
+      "classification": "alias_of_registered_hidden_reward",
+      "scriptAddress": "0xe9aea"
+    },
+    {
+      "group": 9,
+      "eventId": 136,
+      "eventHex": "88",
+      "rewards": [
+        {
+          "item": 114,
+          "count": 1
+        }
+      ],
+      "classification": "alias_of_registered_hidden_reward",
+      "scriptAddress": "0xe9aea"
+    },
+    {
+      "group": 9,
+      "eventId": 137,
+      "eventHex": "89",
+      "rewards": [
+        {
+          "item": 114,
+          "count": 1
+        }
+      ],
+      "classification": "alias_of_registered_hidden_reward",
+      "scriptAddress": "0xe9aea"
+    },
+    {
+      "group": 9,
+      "eventId": 138,
+      "eventHex": "8a",
+      "rewards": [
+        {
+          "item": 114,
+          "count": 1
+        }
+      ],
+      "classification": "alias_of_registered_hidden_reward",
+      "scriptAddress": "0xe9aea"
+    },
+    {
+      "group": 9,
+      "eventId": 139,
+      "eventHex": "8b",
+      "rewards": [
+        {
+          "item": 114,
+          "count": 1
+        }
+      ],
+      "classification": "alias_of_registered_hidden_reward",
+      "scriptAddress": "0xe9aea"
+    },
+    {
+      "group": 9,
+      "eventId": 140,
+      "eventHex": "8c",
+      "rewards": [
+        {
+          "item": 114,
+          "count": 1
+        }
+      ],
+      "classification": "alias_of_registered_hidden_reward",
+      "scriptAddress": "0xe9aea"
+    },
+    {
+      "group": 9,
+      "eventId": 141,
+      "eventHex": "8d",
+      "rewards": [
+        {
+          "item": 114,
+          "count": 1
+        }
+      ],
+      "classification": "alias_of_registered_hidden_reward",
+      "scriptAddress": "0xe9aea"
+    },
+    {
+      "group": 9,
+      "eventId": 142,
+      "eventHex": "8e",
+      "rewards": [
+        {
+          "item": 114,
+          "count": 1
+        }
+      ],
+      "classification": "alias_of_registered_hidden_reward",
+      "scriptAddress": "0xe9aea"
+    },
+    {
+      "group": 9,
+      "eventId": 143,
+      "eventHex": "8f",
+      "rewards": [
+        {
+          "item": 114,
+          "count": 1
+        }
+      ],
+      "classification": "alias_of_registered_hidden_reward",
+      "scriptAddress": "0xe9aea"
+    },
+    {
+      "group": 10,
+      "eventId": 72,
+      "eventHex": "48",
+      "rewards": [
+        {
+          "item": 75,
+          "count": 1
+        },
+        {
+          "item": 89,
+          "count": 1
+        },
+        {
+          "item": 84,
+          "count": 1
+        }
+      ],
+      "classification": "storyline_reward_not_hidden_location",
+      "scriptAddress": "0xea618"
+    },
+    {
+      "group": 10,
+      "eventId": 115,
+      "eventHex": "73",
+      "rewards": [
+        {
+          "item": 123,
+          "count": 1
+        }
+      ],
+      "classification": "alias_of_registered_hidden_reward",
+      "scriptAddress": "0xeac5a"
+    },
+    {
+      "group": 10,
+      "eventId": 116,
+      "eventHex": "74",
+      "rewards": [
+        {
+          "item": 123,
+          "count": 1
+        }
+      ],
+      "classification": "alias_of_registered_hidden_reward",
+      "scriptAddress": "0xeac5a"
+    },
+    {
+      "group": 10,
+      "eventId": 117,
+      "eventHex": "75",
+      "rewards": [
+        {
+          "item": 123,
+          "count": 1
+        }
+      ],
+      "classification": "alias_of_registered_hidden_reward",
+      "scriptAddress": "0xeac5a"
+    },
+    {
+      "group": 10,
+      "eventId": 118,
+      "eventHex": "76",
+      "rewards": [
+        {
+          "item": 123,
+          "count": 1
+        }
+      ],
+      "classification": "alias_of_registered_hidden_reward",
+      "scriptAddress": "0xeac5a"
+    },
+    {
+      "group": 10,
+      "eventId": 119,
+      "eventHex": "77",
+      "rewards": [
+        {
+          "item": 123,
+          "count": 1
+        }
+      ],
+      "classification": "alias_of_registered_hidden_reward",
+      "scriptAddress": "0xeac5a"
+    },
+    {
+      "group": 10,
+      "eventId": 120,
+      "eventHex": "78",
+      "rewards": [
+        {
+          "item": 123,
+          "count": 1
+        }
+      ],
+      "classification": "alias_of_registered_hidden_reward",
+      "scriptAddress": "0xeac5a"
+    },
+    {
+      "group": 10,
+      "eventId": 121,
+      "eventHex": "79",
+      "rewards": [
+        {
+          "item": 123,
+          "count": 1
+        }
+      ],
+      "classification": "alias_of_registered_hidden_reward",
+      "scriptAddress": "0xeac5a"
+    },
+    {
+      "group": 10,
+      "eventId": 122,
+      "eventHex": "7a",
+      "rewards": [
+        {
+          "item": 123,
+          "count": 1
+        }
+      ],
+      "classification": "alias_of_registered_hidden_reward",
+      "scriptAddress": "0xeac5a"
+    },
+    {
+      "group": 10,
+      "eventId": 123,
+      "eventHex": "7b",
+      "rewards": [
+        {
+          "item": 123,
+          "count": 1
+        }
+      ],
+      "classification": "alias_of_registered_hidden_reward",
+      "scriptAddress": "0xeac5a"
+    },
+    {
+      "group": 10,
+      "eventId": 124,
+      "eventHex": "7c",
+      "rewards": [
+        {
+          "item": 123,
+          "count": 1
+        }
+      ],
+      "classification": "alias_of_registered_hidden_reward",
+      "scriptAddress": "0xeac5a"
+    },
+    {
+      "group": 10,
+      "eventId": 125,
+      "eventHex": "7d",
+      "rewards": [
+        {
+          "item": 123,
+          "count": 1
+        }
+      ],
+      "classification": "alias_of_registered_hidden_reward",
+      "scriptAddress": "0xeac5a"
+    },
+    {
+      "group": 10,
+      "eventId": 126,
+      "eventHex": "7e",
+      "rewards": [
+        {
+          "item": 123,
+          "count": 1
+        }
+      ],
+      "classification": "alias_of_registered_hidden_reward",
+      "scriptAddress": "0xeac5a"
+    },
+    {
+      "group": 10,
+      "eventId": 127,
+      "eventHex": "7f",
+      "rewards": [
+        {
+          "item": 123,
+          "count": 1
+        }
+      ],
+      "classification": "alias_of_registered_hidden_reward",
+      "scriptAddress": "0xeac5a"
+    },
+    {
+      "group": 10,
+      "eventId": 128,
+      "eventHex": "80",
+      "rewards": [
+        {
+          "item": 123,
+          "count": 1
+        }
+      ],
+      "classification": "alias_of_registered_hidden_reward",
+      "scriptAddress": "0xeac5a"
+    },
+    {
+      "group": 10,
+      "eventId": 129,
+      "eventHex": "81",
+      "rewards": [
+        {
+          "item": 123,
+          "count": 1
+        }
+      ],
+      "classification": "alias_of_registered_hidden_reward",
+      "scriptAddress": "0xeac5a"
+    },
+    {
+      "group": 10,
+      "eventId": 130,
+      "eventHex": "82",
+      "rewards": [
+        {
+          "item": 123,
+          "count": 1
+        }
+      ],
+      "classification": "alias_of_registered_hidden_reward",
+      "scriptAddress": "0xeac5a"
+    },
+    {
+      "group": 10,
+      "eventId": 131,
+      "eventHex": "83",
+      "rewards": [
+        {
+          "item": 123,
+          "count": 1
+        }
+      ],
+      "classification": "alias_of_registered_hidden_reward",
+      "scriptAddress": "0xeac5a"
+    },
+    {
+      "group": 10,
+      "eventId": 132,
+      "eventHex": "84",
+      "rewards": [
+        {
+          "item": 123,
+          "count": 1
+        }
+      ],
+      "classification": "alias_of_registered_hidden_reward",
+      "scriptAddress": "0xeac5a"
+    },
+    {
+      "group": 10,
+      "eventId": 133,
+      "eventHex": "85",
+      "rewards": [
+        {
+          "item": 123,
+          "count": 1
+        }
+      ],
+      "classification": "alias_of_registered_hidden_reward",
+      "scriptAddress": "0xeac5a"
+    },
+    {
+      "group": 10,
+      "eventId": 134,
+      "eventHex": "86",
+      "rewards": [
+        {
+          "item": 123,
+          "count": 1
+        }
+      ],
+      "classification": "alias_of_registered_hidden_reward",
+      "scriptAddress": "0xeac5a"
+    },
+    {
+      "group": 10,
+      "eventId": 135,
+      "eventHex": "87",
+      "rewards": [
+        {
+          "item": 123,
+          "count": 1
+        }
+      ],
+      "classification": "alias_of_registered_hidden_reward",
+      "scriptAddress": "0xeac5a"
+    },
+    {
+      "group": 10,
+      "eventId": 136,
+      "eventHex": "88",
+      "rewards": [
+        {
+          "item": 123,
+          "count": 1
+        }
+      ],
+      "classification": "alias_of_registered_hidden_reward",
+      "scriptAddress": "0xeac5a"
+    },
+    {
+      "group": 10,
+      "eventId": 137,
+      "eventHex": "89",
+      "rewards": [
+        {
+          "item": 123,
+          "count": 1
+        }
+      ],
+      "classification": "alias_of_registered_hidden_reward",
+      "scriptAddress": "0xeac5a"
+    },
+    {
+      "group": 10,
+      "eventId": 138,
+      "eventHex": "8a",
+      "rewards": [
+        {
+          "item": 123,
+          "count": 1
+        }
+      ],
+      "classification": "alias_of_registered_hidden_reward",
+      "scriptAddress": "0xeac5a"
+    },
+    {
+      "group": 10,
+      "eventId": 139,
+      "eventHex": "8b",
+      "rewards": [
+        {
+          "item": 123,
+          "count": 1
+        }
+      ],
+      "classification": "alias_of_registered_hidden_reward",
+      "scriptAddress": "0xeac5a"
+    },
+    {
+      "group": 10,
+      "eventId": 140,
+      "eventHex": "8c",
+      "rewards": [
+        {
+          "item": 123,
+          "count": 1
+        }
+      ],
+      "classification": "alias_of_registered_hidden_reward",
+      "scriptAddress": "0xeac5a"
+    },
+    {
+      "group": 10,
+      "eventId": 141,
+      "eventHex": "8d",
+      "rewards": [
+        {
+          "item": 123,
+          "count": 1
+        }
+      ],
+      "classification": "alias_of_registered_hidden_reward",
+      "scriptAddress": "0xeac5a"
+    },
+    {
+      "group": 10,
+      "eventId": 142,
+      "eventHex": "8e",
+      "rewards": [
+        {
+          "item": 123,
+          "count": 1
+        }
+      ],
+      "classification": "alias_of_registered_hidden_reward",
+      "scriptAddress": "0xeac5a"
+    },
+    {
+      "group": 10,
+      "eventId": 143,
+      "eventHex": "8f",
+      "rewards": [
+        {
+          "item": 123,
+          "count": 1
+        }
+      ],
+      "classification": "alias_of_registered_hidden_reward",
+      "scriptAddress": "0xeac5a"
+    },
+    {
+      "group": 11,
+      "eventId": 113,
+      "eventHex": "71",
+      "rewards": [
+        {
+          "item": 121,
+          "count": 1
+        }
+      ],
+      "classification": "alias_of_registered_hidden_reward",
+      "scriptAddress": "0xec7f6"
+    },
+    {
+      "group": 11,
+      "eventId": 114,
+      "eventHex": "72",
+      "rewards": [
+        {
+          "item": 121,
+          "count": 1
+        }
+      ],
+      "classification": "alias_of_registered_hidden_reward",
+      "scriptAddress": "0xec7f6"
+    },
+    {
+      "group": 11,
+      "eventId": 115,
+      "eventHex": "73",
+      "rewards": [
+        {
+          "item": 121,
+          "count": 1
+        }
+      ],
+      "classification": "alias_of_registered_hidden_reward",
+      "scriptAddress": "0xec7f6"
+    },
+    {
+      "group": 11,
+      "eventId": 116,
+      "eventHex": "74",
+      "rewards": [
+        {
+          "item": 121,
+          "count": 1
+        }
+      ],
+      "classification": "alias_of_registered_hidden_reward",
+      "scriptAddress": "0xec7f6"
+    },
+    {
+      "group": 11,
+      "eventId": 117,
+      "eventHex": "75",
+      "rewards": [
+        {
+          "item": 121,
+          "count": 1
+        }
+      ],
+      "classification": "alias_of_registered_hidden_reward",
+      "scriptAddress": "0xec7f6"
+    },
+    {
+      "group": 11,
+      "eventId": 118,
+      "eventHex": "76",
+      "rewards": [
+        {
+          "item": 121,
+          "count": 1
+        }
+      ],
+      "classification": "alias_of_registered_hidden_reward",
+      "scriptAddress": "0xec7f6"
+    },
+    {
+      "group": 11,
+      "eventId": 119,
+      "eventHex": "77",
+      "rewards": [
+        {
+          "item": 121,
+          "count": 1
+        }
+      ],
+      "classification": "alias_of_registered_hidden_reward",
+      "scriptAddress": "0xec7f6"
+    },
+    {
+      "group": 11,
+      "eventId": 120,
+      "eventHex": "78",
+      "rewards": [
+        {
+          "item": 121,
+          "count": 1
+        }
+      ],
+      "classification": "alias_of_registered_hidden_reward",
+      "scriptAddress": "0xec7f6"
+    },
+    {
+      "group": 11,
+      "eventId": 121,
+      "eventHex": "79",
+      "rewards": [
+        {
+          "item": 121,
+          "count": 1
+        }
+      ],
+      "classification": "alias_of_registered_hidden_reward",
+      "scriptAddress": "0xec7f6"
+    },
+    {
+      "group": 11,
+      "eventId": 122,
+      "eventHex": "7a",
+      "rewards": [
+        {
+          "item": 121,
+          "count": 1
+        }
+      ],
+      "classification": "alias_of_registered_hidden_reward",
+      "scriptAddress": "0xec7f6"
+    },
+    {
+      "group": 11,
+      "eventId": 123,
+      "eventHex": "7b",
+      "rewards": [
+        {
+          "item": 121,
+          "count": 1
+        }
+      ],
+      "classification": "alias_of_registered_hidden_reward",
+      "scriptAddress": "0xec7f6"
+    },
+    {
+      "group": 11,
+      "eventId": 124,
+      "eventHex": "7c",
+      "rewards": [
+        {
+          "item": 121,
+          "count": 1
+        }
+      ],
+      "classification": "alias_of_registered_hidden_reward",
+      "scriptAddress": "0xec7f6"
+    },
+    {
+      "group": 11,
+      "eventId": 125,
+      "eventHex": "7d",
+      "rewards": [
+        {
+          "item": 121,
+          "count": 1
+        }
+      ],
+      "classification": "alias_of_registered_hidden_reward",
+      "scriptAddress": "0xec7f6"
+    },
+    {
+      "group": 11,
+      "eventId": 126,
+      "eventHex": "7e",
+      "rewards": [
+        {
+          "item": 121,
+          "count": 1
+        }
+      ],
+      "classification": "alias_of_registered_hidden_reward",
+      "scriptAddress": "0xec7f6"
+    },
+    {
+      "group": 11,
+      "eventId": 127,
+      "eventHex": "7f",
+      "rewards": [
+        {
+          "item": 121,
+          "count": 1
+        }
+      ],
+      "classification": "alias_of_registered_hidden_reward",
+      "scriptAddress": "0xec7f6"
+    },
+    {
+      "group": 11,
+      "eventId": 128,
+      "eventHex": "80",
+      "rewards": [
+        {
+          "item": 121,
+          "count": 1
+        }
+      ],
+      "classification": "alias_of_registered_hidden_reward",
+      "scriptAddress": "0xec7f6"
+    },
+    {
+      "group": 11,
+      "eventId": 129,
+      "eventHex": "81",
+      "rewards": [
+        {
+          "item": 121,
+          "count": 1
+        }
+      ],
+      "classification": "alias_of_registered_hidden_reward",
+      "scriptAddress": "0xec7f6"
+    },
+    {
+      "group": 11,
+      "eventId": 130,
+      "eventHex": "82",
+      "rewards": [
+        {
+          "item": 121,
+          "count": 1
+        }
+      ],
+      "classification": "alias_of_registered_hidden_reward",
+      "scriptAddress": "0xec7f6"
+    },
+    {
+      "group": 11,
+      "eventId": 131,
+      "eventHex": "83",
+      "rewards": [
+        {
+          "item": 121,
+          "count": 1
+        }
+      ],
+      "classification": "alias_of_registered_hidden_reward",
+      "scriptAddress": "0xec7f6"
+    },
+    {
+      "group": 11,
+      "eventId": 132,
+      "eventHex": "84",
+      "rewards": [
+        {
+          "item": 121,
+          "count": 1
+        }
+      ],
+      "classification": "alias_of_registered_hidden_reward",
+      "scriptAddress": "0xec7f6"
+    },
+    {
+      "group": 11,
+      "eventId": 133,
+      "eventHex": "85",
+      "rewards": [
+        {
+          "item": 121,
+          "count": 1
+        }
+      ],
+      "classification": "alias_of_registered_hidden_reward",
+      "scriptAddress": "0xec7f6"
+    },
+    {
+      "group": 11,
+      "eventId": 134,
+      "eventHex": "86",
+      "rewards": [
+        {
+          "item": 121,
+          "count": 1
+        }
+      ],
+      "classification": "alias_of_registered_hidden_reward",
+      "scriptAddress": "0xec7f6"
+    },
+    {
+      "group": 11,
+      "eventId": 135,
+      "eventHex": "87",
+      "rewards": [
+        {
+          "item": 121,
+          "count": 1
+        }
+      ],
+      "classification": "alias_of_registered_hidden_reward",
+      "scriptAddress": "0xec7f6"
+    },
+    {
+      "group": 11,
+      "eventId": 136,
+      "eventHex": "88",
+      "rewards": [
+        {
+          "item": 121,
+          "count": 1
+        }
+      ],
+      "classification": "alias_of_registered_hidden_reward",
+      "scriptAddress": "0xec7f6"
+    },
+    {
+      "group": 11,
+      "eventId": 137,
+      "eventHex": "89",
+      "rewards": [
+        {
+          "item": 121,
+          "count": 1
+        }
+      ],
+      "classification": "alias_of_registered_hidden_reward",
+      "scriptAddress": "0xec7f6"
+    },
+    {
+      "group": 11,
+      "eventId": 138,
+      "eventHex": "8a",
+      "rewards": [
+        {
+          "item": 121,
+          "count": 1
+        }
+      ],
+      "classification": "alias_of_registered_hidden_reward",
+      "scriptAddress": "0xec7f6"
+    },
+    {
+      "group": 11,
+      "eventId": 139,
+      "eventHex": "8b",
+      "rewards": [
+        {
+          "item": 121,
+          "count": 1
+        }
+      ],
+      "classification": "alias_of_registered_hidden_reward",
+      "scriptAddress": "0xec7f6"
+    },
+    {
+      "group": 11,
+      "eventId": 140,
+      "eventHex": "8c",
+      "rewards": [
+        {
+          "item": 121,
+          "count": 1
+        }
+      ],
+      "classification": "alias_of_registered_hidden_reward",
+      "scriptAddress": "0xec7f6"
+    },
+    {
+      "group": 11,
+      "eventId": 141,
+      "eventHex": "8d",
+      "rewards": [
+        {
+          "item": 121,
+          "count": 1
+        }
+      ],
+      "classification": "alias_of_registered_hidden_reward",
+      "scriptAddress": "0xec7f6"
+    },
+    {
+      "group": 11,
+      "eventId": 142,
+      "eventHex": "8e",
+      "rewards": [
+        {
+          "item": 121,
+          "count": 1
+        }
+      ],
+      "classification": "alias_of_registered_hidden_reward",
+      "scriptAddress": "0xec7f6"
+    },
+    {
+      "group": 11,
+      "eventId": 143,
+      "eventHex": "8f",
+      "rewards": [
+        {
+          "item": 121,
+          "count": 1
+        }
+      ],
+      "classification": "alias_of_registered_hidden_reward",
+      "scriptAddress": "0xec7f6"
+    },
+    {
+      "group": 12,
+      "eventId": 113,
+      "eventHex": "71",
+      "rewards": [
+        {
+          "item": 42,
+          "count": 1
+        }
+      ],
+      "classification": "alias_of_registered_hidden_reward",
+      "scriptAddress": "0xee2be"
+    },
+    {
+      "group": 12,
+      "eventId": 114,
+      "eventHex": "72",
+      "rewards": [
+        {
+          "item": 42,
+          "count": 1
+        }
+      ],
+      "classification": "alias_of_registered_hidden_reward",
+      "scriptAddress": "0xee2be"
+    },
+    {
+      "group": 12,
+      "eventId": 115,
+      "eventHex": "73",
+      "rewards": [
+        {
+          "item": 42,
+          "count": 1
+        }
+      ],
+      "classification": "alias_of_registered_hidden_reward",
+      "scriptAddress": "0xee2be"
+    },
+    {
+      "group": 12,
+      "eventId": 116,
+      "eventHex": "74",
+      "rewards": [
+        {
+          "item": 42,
+          "count": 1
+        }
+      ],
+      "classification": "alias_of_registered_hidden_reward",
+      "scriptAddress": "0xee2be"
+    },
+    {
+      "group": 12,
+      "eventId": 117,
+      "eventHex": "75",
+      "rewards": [
+        {
+          "item": 42,
+          "count": 1
+        }
+      ],
+      "classification": "alias_of_registered_hidden_reward",
+      "scriptAddress": "0xee2be"
+    },
+    {
+      "group": 12,
+      "eventId": 118,
+      "eventHex": "76",
+      "rewards": [
+        {
+          "item": 42,
+          "count": 1
+        }
+      ],
+      "classification": "alias_of_registered_hidden_reward",
+      "scriptAddress": "0xee2be"
+    },
+    {
+      "group": 12,
+      "eventId": 119,
+      "eventHex": "77",
+      "rewards": [
+        {
+          "item": 42,
+          "count": 1
+        }
+      ],
+      "classification": "alias_of_registered_hidden_reward",
+      "scriptAddress": "0xee2be"
+    },
+    {
+      "group": 12,
+      "eventId": 120,
+      "eventHex": "78",
+      "rewards": [
+        {
+          "item": 42,
+          "count": 1
+        }
+      ],
+      "classification": "alias_of_registered_hidden_reward",
+      "scriptAddress": "0xee2be"
+    },
+    {
+      "group": 12,
+      "eventId": 121,
+      "eventHex": "79",
+      "rewards": [
+        {
+          "item": 42,
+          "count": 1
+        }
+      ],
+      "classification": "alias_of_registered_hidden_reward",
+      "scriptAddress": "0xee2be"
+    },
+    {
+      "group": 12,
+      "eventId": 122,
+      "eventHex": "7a",
+      "rewards": [
+        {
+          "item": 42,
+          "count": 1
+        }
+      ],
+      "classification": "alias_of_registered_hidden_reward",
+      "scriptAddress": "0xee2be"
+    },
+    {
+      "group": 12,
+      "eventId": 123,
+      "eventHex": "7b",
+      "rewards": [
+        {
+          "item": 42,
+          "count": 1
+        }
+      ],
+      "classification": "alias_of_registered_hidden_reward",
+      "scriptAddress": "0xee2be"
+    },
+    {
+      "group": 12,
+      "eventId": 124,
+      "eventHex": "7c",
+      "rewards": [
+        {
+          "item": 42,
+          "count": 1
+        }
+      ],
+      "classification": "alias_of_registered_hidden_reward",
+      "scriptAddress": "0xee2be"
+    },
+    {
+      "group": 12,
+      "eventId": 125,
+      "eventHex": "7d",
+      "rewards": [
+        {
+          "item": 42,
+          "count": 1
+        }
+      ],
+      "classification": "alias_of_registered_hidden_reward",
+      "scriptAddress": "0xee2be"
+    },
+    {
+      "group": 12,
+      "eventId": 126,
+      "eventHex": "7e",
+      "rewards": [
+        {
+          "item": 42,
+          "count": 1
+        }
+      ],
+      "classification": "alias_of_registered_hidden_reward",
+      "scriptAddress": "0xee2be"
+    },
+    {
+      "group": 12,
+      "eventId": 127,
+      "eventHex": "7f",
+      "rewards": [
+        {
+          "item": 42,
+          "count": 1
+        }
+      ],
+      "classification": "alias_of_registered_hidden_reward",
+      "scriptAddress": "0xee2be"
+    },
+    {
+      "group": 12,
+      "eventId": 128,
+      "eventHex": "80",
+      "rewards": [
+        {
+          "item": 42,
+          "count": 1
+        }
+      ],
+      "classification": "alias_of_registered_hidden_reward",
+      "scriptAddress": "0xee2be"
+    },
+    {
+      "group": 12,
+      "eventId": 129,
+      "eventHex": "81",
+      "rewards": [
+        {
+          "item": 42,
+          "count": 1
+        }
+      ],
+      "classification": "alias_of_registered_hidden_reward",
+      "scriptAddress": "0xee2be"
+    },
+    {
+      "group": 12,
+      "eventId": 130,
+      "eventHex": "82",
+      "rewards": [
+        {
+          "item": 42,
+          "count": 1
+        }
+      ],
+      "classification": "alias_of_registered_hidden_reward",
+      "scriptAddress": "0xee2be"
+    },
+    {
+      "group": 12,
+      "eventId": 131,
+      "eventHex": "83",
+      "rewards": [
+        {
+          "item": 42,
+          "count": 1
+        }
+      ],
+      "classification": "alias_of_registered_hidden_reward",
+      "scriptAddress": "0xee2be"
+    },
+    {
+      "group": 12,
+      "eventId": 132,
+      "eventHex": "84",
+      "rewards": [
+        {
+          "item": 42,
+          "count": 1
+        }
+      ],
+      "classification": "alias_of_registered_hidden_reward",
+      "scriptAddress": "0xee2be"
+    },
+    {
+      "group": 12,
+      "eventId": 133,
+      "eventHex": "85",
+      "rewards": [
+        {
+          "item": 42,
+          "count": 1
+        }
+      ],
+      "classification": "alias_of_registered_hidden_reward",
+      "scriptAddress": "0xee2be"
+    },
+    {
+      "group": 12,
+      "eventId": 134,
+      "eventHex": "86",
+      "rewards": [
+        {
+          "item": 42,
+          "count": 1
+        }
+      ],
+      "classification": "alias_of_registered_hidden_reward",
+      "scriptAddress": "0xee2be"
+    },
+    {
+      "group": 12,
+      "eventId": 135,
+      "eventHex": "87",
+      "rewards": [
+        {
+          "item": 42,
+          "count": 1
+        }
+      ],
+      "classification": "alias_of_registered_hidden_reward",
+      "scriptAddress": "0xee2be"
+    },
+    {
+      "group": 12,
+      "eventId": 136,
+      "eventHex": "88",
+      "rewards": [
+        {
+          "item": 42,
+          "count": 1
+        }
+      ],
+      "classification": "alias_of_registered_hidden_reward",
+      "scriptAddress": "0xee2be"
+    },
+    {
+      "group": 12,
+      "eventId": 137,
+      "eventHex": "89",
+      "rewards": [
+        {
+          "item": 42,
+          "count": 1
+        }
+      ],
+      "classification": "alias_of_registered_hidden_reward",
+      "scriptAddress": "0xee2be"
+    },
+    {
+      "group": 12,
+      "eventId": 138,
+      "eventHex": "8a",
+      "rewards": [
+        {
+          "item": 42,
+          "count": 1
+        }
+      ],
+      "classification": "alias_of_registered_hidden_reward",
+      "scriptAddress": "0xee2be"
+    },
+    {
+      "group": 12,
+      "eventId": 139,
+      "eventHex": "8b",
+      "rewards": [
+        {
+          "item": 42,
+          "count": 1
+        }
+      ],
+      "classification": "alias_of_registered_hidden_reward",
+      "scriptAddress": "0xee2be"
+    },
+    {
+      "group": 12,
+      "eventId": 140,
+      "eventHex": "8c",
+      "rewards": [
+        {
+          "item": 42,
+          "count": 1
+        }
+      ],
+      "classification": "alias_of_registered_hidden_reward",
+      "scriptAddress": "0xee2be"
+    },
+    {
+      "group": 12,
+      "eventId": 141,
+      "eventHex": "8d",
+      "rewards": [
+        {
+          "item": 42,
+          "count": 1
+        }
+      ],
+      "classification": "alias_of_registered_hidden_reward",
+      "scriptAddress": "0xee2be"
+    },
+    {
+      "group": 12,
+      "eventId": 142,
+      "eventHex": "8e",
+      "rewards": [
+        {
+          "item": 42,
+          "count": 1
+        }
+      ],
+      "classification": "alias_of_registered_hidden_reward",
+      "scriptAddress": "0xee2be"
+    },
+    {
+      "group": 12,
+      "eventId": 143,
+      "eventHex": "8f",
+      "rewards": [
+        {
+          "item": 42,
+          "count": 1
+        }
+      ],
+      "classification": "alias_of_registered_hidden_reward",
+      "scriptAddress": "0xee2be"
+    }
+  ],
+  "otherInvestigationCells": [
+    {
+      "mapId": "0400",
+      "x": 9,
+      "y": 12,
+      "eventId": 128,
+      "eventHex": "80",
+      "classification": "investigation_cell_not_in_pickup_registry"
+    },
+    {
+      "mapId": "0800",
+      "x": 18,
+      "y": 5,
+      "eventId": 128,
+      "eventHex": "80",
+      "classification": "investigation_cell_not_in_pickup_registry"
+    }
+  ],
+  "summary": {
+    "confirmedHiddenLocations": 39,
+    "itemLocations": 35,
+    "goldLocations": 4,
+    "totalGold": 4200,
+    "otherRewardScriptAliases": 320,
+    "storylineRewardScripts": 1,
+    "otherInvestigationCells": 2
+  }
+}

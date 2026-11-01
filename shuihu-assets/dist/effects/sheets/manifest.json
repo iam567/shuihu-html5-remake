@@ -1,0 +1,43 @@
+{
+  "version": 1,
+  "frameWidth": 96,
+  "frameHeight": 96,
+  "columns": 4,
+  "rows": 4,
+  "frameCount": 16,
+  "fps": 16,
+  "background": "transparent",
+  "status": "prototype-awaiting-review",
+  "items": [
+    {
+      "id": 3,
+      "sheet": "item-3.svg",
+      "kind": "slash",
+      "impactFrame": 8
+    },
+    {
+      "id": 22,
+      "sheet": "item-22.svg",
+      "kind": "arrow",
+      "impactFrame": 8
+    },
+    {
+      "id": 33,
+      "sheet": "item-33.svg",
+      "kind": "thrust",
+      "impactFrame": 8
+    },
+    {
+      "id": 46,
+      "sheet": "item-46.svg",
+      "kind": "shot",
+      "impactFrame": 8
+    },
+    {
+      "id": 65,
+      "sheet": "item-65.svg",
+      "kind": "fire",
+      "impactFrame": 8
+    }
+  ]
+}

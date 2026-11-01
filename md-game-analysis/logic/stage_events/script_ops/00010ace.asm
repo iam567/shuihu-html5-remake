@@ -1,0 +1,13 @@
+00010ace  move.l A3,(0x00ff6130).l  ; len 6
+00010ad4  lea (0xffe000).l,A2  ; len 6
+00010ada  move.w #0xf,D0w  ; len 4
+00010ade  clr.l (A2)+  ; len 2
+00010ae0  clr.l (A2)+  ; len 2
+00010ae2  clr.l (A2)+  ; len 2
+00010ae4  clr.l (A2)+  ; len 2
+00010ae6  dbf D0w,0x00010ade  ; len 4
+00010aea  clr.b (0x00ffe116).l  ; len 6
+00010af0  move.b #0x2,(0x00ffe1f6).l  ; len 8
+00010af8  lea (0xffe780).l,A2  ; len 6
+00010afe  lea (0xffe630).l,A3  ; len 6
+00010b04  clr.w D0w  ; len 2

@@ -1,0 +1,58 @@
+{
+ "0605-ghibli": {
+  "judged": 91,
+  "flagged": 0,
+  "boundaryFlagged": 0,
+  "uncertain": 0,
+  "tileVersionFlagged": 1,
+  "tileVersionBoundaryFlagged": 0,
+  "medianShiftPx": 4.0,
+  "medianScore": 0.828,
+  "size": [
+   1280,
+   1280
+  ]
+ },
+ "0605-hd2d": {
+  "judged": 91,
+  "flagged": 1,
+  "boundaryFlagged": 0,
+  "uncertain": 0,
+  "tileVersionFlagged": 0,
+  "tileVersionBoundaryFlagged": 0,
+  "medianShiftPx": 0.0,
+  "medianScore": 0.715,
+  "size": [
+   1280,
+   1280
+  ]
+ },
+ "0102-ghibli": {
+  "judged": 139,
+  "flagged": 2,
+  "boundaryFlagged": 2,
+  "uncertain": 0,
+  "tileVersionFlagged": 4,
+  "tileVersionBoundaryFlagged": 4,
+  "medianShiftPx": 8.0,
+  "medianScore": 0.756,
+  "size": [
+   1280,
+   1920
+  ]
+ },
+ "0102-hd2d": {
+  "judged": 139,
+  "flagged": 0,
+  "boundaryFlagged": 0,
+  "uncertain": 0,
+  "tileVersionFlagged": 0,
+  "tileVersionBoundaryFlagged": 0,
+  "medianShiftPx": 0.0,
+  "medianScore": 0.864,
+  "size": [
+   1280,
+   1920
+  ]
+ }
+}

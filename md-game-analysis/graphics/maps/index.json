@@ -1,0 +1,1858 @@
+[
+  {
+    "map_id": "0100",
+    "width_blocks": 24,
+    "height_blocks": 20,
+    "dimension_status": "inferred_from_script_pattern_and_matching_area",
+    "dimension_candidates": [
+      [
+        24,
+        20
+      ]
+    ],
+    "tiles_rom": "0x32386",
+    "metatiles_rom": "0x772aa",
+    "palette_rom": "0xdd948",
+    "tile_count": 686
+  },
+  {
+    "map_id": "0101",
+    "width_blocks": 10,
+    "height_blocks": 10,
+    "dimension_status": "inferred_from_script_pattern_and_matching_area",
+    "dimension_candidates": [
+      [
+        10,
+        10
+      ]
+    ],
+    "tiles_rom": "0x37948",
+    "metatiles_rom": "0x7852a",
+    "palette_rom": "0xdd988",
+    "tile_count": 758
+  },
+  {
+    "map_id": "0102",
+    "width_blocks": 10,
+    "height_blocks": 15,
+    "dimension_status": "inferred_from_script_pattern_and_matching_area",
+    "dimension_candidates": [
+      [
+        10,
+        15
+      ]
+    ],
+    "tiles_rom": "0x37948",
+    "metatiles_rom": "0x7852a",
+    "palette_rom": "0xdd988",
+    "tile_count": 758
+  },
+  {
+    "map_id": "0103",
+    "width_blocks": 10,
+    "height_blocks": 10,
+    "dimension_status": "inferred_from_script_pattern_and_matching_area",
+    "dimension_candidates": [
+      [
+        10,
+        10
+      ]
+    ],
+    "tiles_rom": "0x37948",
+    "metatiles_rom": "0x7852a",
+    "palette_rom": "0xdd988",
+    "tile_count": 758
+  },
+  {
+    "map_id": "0104",
+    "width_blocks": 10,
+    "height_blocks": 10,
+    "dimension_status": "inferred_from_script_pattern_and_matching_area",
+    "dimension_candidates": [
+      [
+        10,
+        10
+      ]
+    ],
+    "tiles_rom": "0x37948",
+    "metatiles_rom": "0x7852a",
+    "palette_rom": "0xdd988",
+    "tile_count": 758
+  },
+  {
+    "map_id": "0105",
+    "width_blocks": 10,
+    "height_blocks": 10,
+    "dimension_status": "inferred_from_script_pattern_and_matching_area",
+    "dimension_candidates": [
+      [
+        10,
+        10
+      ]
+    ],
+    "tiles_rom": "0x37948",
+    "metatiles_rom": "0x7852a",
+    "palette_rom": "0xdd988",
+    "tile_count": 758
+  },
+  {
+    "map_id": "0106",
+    "width_blocks": 10,
+    "height_blocks": 10,
+    "dimension_status": "inferred_from_script_pattern_and_matching_area",
+    "dimension_candidates": [
+      [
+        10,
+        10
+      ]
+    ],
+    "tiles_rom": "0x37948",
+    "metatiles_rom": "0x7852a",
+    "palette_rom": "0xdd988",
+    "tile_count": 758
+  },
+  {
+    "map_id": "0107",
+    "width_blocks": 10,
+    "height_blocks": 10,
+    "dimension_status": "inferred_from_script_pattern_and_matching_area",
+    "dimension_candidates": [
+      [
+        10,
+        10
+      ]
+    ],
+    "tiles_rom": "0x37948",
+    "metatiles_rom": "0x7852a",
+    "palette_rom": "0xdd988",
+    "tile_count": 758
+  },
+  {
+    "map_id": "0200",
+    "width_blocks": 24,
+    "height_blocks": 15,
+    "dimension_status": "inferred_from_script_pattern_and_matching_area",
+    "dimension_candidates": [
+      [
+        24,
+        15
+      ]
+    ],
+    "tiles_rom": "0x3d80a",
+    "metatiles_rom": "0x77b8a",
+    "palette_rom": "0xdd9c8",
+    "tile_count": 741
+  },
+  {
+    "map_id": "0201",
+    "width_blocks": 10,
+    "height_blocks": 10,
+    "dimension_status": "inferred_from_script_pattern_and_matching_area",
+    "dimension_candidates": [
+      [
+        10,
+        10
+      ]
+    ],
+    "tiles_rom": "0x37948",
+    "metatiles_rom": "0x7852a",
+    "palette_rom": "0xdda08",
+    "tile_count": 758
+  },
+  {
+    "map_id": "0202",
+    "width_blocks": 10,
+    "height_blocks": 10,
+    "dimension_status": "inferred_from_script_pattern_and_matching_area",
+    "dimension_candidates": [
+      [
+        10,
+        10
+      ]
+    ],
+    "tiles_rom": "0x37948",
+    "metatiles_rom": "0x7852a",
+    "palette_rom": "0xdda08",
+    "tile_count": 758
+  },
+  {
+    "map_id": "0203",
+    "width_blocks": 10,
+    "height_blocks": 10,
+    "dimension_status": "inferred_from_script_pattern_and_matching_area",
+    "dimension_candidates": [
+      [
+        10,
+        10
+      ]
+    ],
+    "tiles_rom": "0x37948",
+    "metatiles_rom": "0x7852a",
+    "palette_rom": "0xdda08",
+    "tile_count": 758
+  },
+  {
+    "map_id": "0204",
+    "width_blocks": 10,
+    "height_blocks": 10,
+    "dimension_status": "inferred_from_script_pattern_and_matching_area",
+    "dimension_candidates": [
+      [
+        10,
+        10
+      ]
+    ],
+    "tiles_rom": "0x37948",
+    "metatiles_rom": "0x7852a",
+    "palette_rom": "0xdda08",
+    "tile_count": 758
+  },
+  {
+    "map_id": "0205",
+    "width_blocks": 10,
+    "height_blocks": 10,
+    "dimension_status": "inferred_from_script_pattern_and_matching_area",
+    "dimension_candidates": [
+      [
+        10,
+        10
+      ]
+    ],
+    "tiles_rom": "0x37948",
+    "metatiles_rom": "0x7852a",
+    "palette_rom": "0xdda08",
+    "tile_count": 758
+  },
+  {
+    "map_id": "0206",
+    "width_blocks": 24,
+    "height_blocks": 15,
+    "dimension_status": "inferred_from_script_pattern_and_matching_area",
+    "dimension_candidates": [
+      [
+        24,
+        15
+      ]
+    ],
+    "tiles_rom": "0x434ac",
+    "metatiles_rom": "0x799ea",
+    "palette_rom": "0xdda48",
+    "tile_count": 488
+  },
+  {
+    "map_id": "0207",
+    "width_blocks": 16,
+    "height_blocks": 23,
+    "dimension_status": "inferred_from_script_pattern_and_matching_area",
+    "dimension_candidates": [
+      [
+        16,
+        23
+      ]
+    ],
+    "tiles_rom": "0x471ae",
+    "metatiles_rom": "0x79eea",
+    "palette_rom": "0xdda88",
+    "tile_count": 555
+  },
+  {
+    "map_id": "0300",
+    "width_blocks": 32,
+    "height_blocks": 15,
+    "dimension_status": "inferred_from_script_pattern_and_matching_area",
+    "dimension_candidates": [
+      [
+        32,
+        15
+      ]
+    ],
+    "tiles_rom": "0x32386",
+    "metatiles_rom": "0x772aa",
+    "palette_rom": "0xddac8",
+    "tile_count": 686
+  },
+  {
+    "map_id": "0301",
+    "width_blocks": 10,
+    "height_blocks": 10,
+    "dimension_status": "inferred_from_script_pattern_and_matching_area",
+    "dimension_candidates": [
+      [
+        10,
+        10
+      ]
+    ],
+    "tiles_rom": "0x37948",
+    "metatiles_rom": "0x7852a",
+    "palette_rom": "0xddb08",
+    "tile_count": 758
+  },
+  {
+    "map_id": "0302",
+    "width_blocks": 10,
+    "height_blocks": 10,
+    "dimension_status": "inferred_from_script_pattern_and_matching_area",
+    "dimension_candidates": [
+      [
+        10,
+        10
+      ]
+    ],
+    "tiles_rom": "0x37948",
+    "metatiles_rom": "0x7852a",
+    "palette_rom": "0xddb08",
+    "tile_count": 758
+  },
+  {
+    "map_id": "0303",
+    "width_blocks": 10,
+    "height_blocks": 10,
+    "dimension_status": "inferred_from_script_pattern_and_matching_area",
+    "dimension_candidates": [
+      [
+        10,
+        10
+      ]
+    ],
+    "tiles_rom": "0x37948",
+    "metatiles_rom": "0x7852a",
+    "palette_rom": "0xddb08",
+    "tile_count": 758
+  },
+  {
+    "map_id": "0304",
+    "width_blocks": 10,
+    "height_blocks": 10,
+    "dimension_status": "inferred_from_script_pattern_and_matching_area",
+    "dimension_candidates": [
+      [
+        10,
+        10
+      ]
+    ],
+    "tiles_rom": "0x37948",
+    "metatiles_rom": "0x7852a",
+    "palette_rom": "0xddb08",
+    "tile_count": 758
+  },
+  {
+    "map_id": "0305",
+    "width_blocks": 10,
+    "height_blocks": 10,
+    "dimension_status": "inferred_from_script_pattern_and_matching_area",
+    "dimension_candidates": [
+      [
+        10,
+        10
+      ]
+    ],
+    "tiles_rom": "0x37948",
+    "metatiles_rom": "0x7852a",
+    "palette_rom": "0xddb08",
+    "tile_count": 758
+  },
+  {
+    "map_id": "0306",
+    "width_blocks": 10,
+    "height_blocks": 10,
+    "dimension_status": "inferred_from_script_pattern_and_matching_area",
+    "dimension_candidates": [
+      [
+        10,
+        10
+      ]
+    ],
+    "tiles_rom": "0x37948",
+    "metatiles_rom": "0x7852a",
+    "palette_rom": "0xddb08",
+    "tile_count": 758
+  },
+  {
+    "map_id": "0307",
+    "width_blocks": 24,
+    "height_blocks": 25,
+    "dimension_status": "inferred_from_script_pattern_and_matching_area",
+    "dimension_candidates": [
+      [
+        24,
+        25
+      ]
+    ],
+    "tiles_rom": "0x4b710",
+    "metatiles_rom": "0x7a56a",
+    "palette_rom": "0xddb48",
+    "tile_count": 435
+  },
+  {
+    "map_id": "0308",
+    "width_blocks": 13,
+    "height_blocks": 25,
+    "dimension_status": "inferred_from_script_pattern_and_matching_area",
+    "dimension_candidates": [
+      [
+        13,
+        25
+      ]
+    ],
+    "tiles_rom": "0x4ed72",
+    "metatiles_rom": "0x7afaa",
+    "palette_rom": "0xddb88",
+    "tile_count": 659
+  },
+  {
+    "map_id": "0309",
+    "width_blocks": 12,
+    "height_blocks": 30,
+    "dimension_status": "inferred_from_same_group_matching_area",
+    "dimension_candidates": [
+      [
+        12,
+        30
+      ]
+    ],
+    "tiles_rom": "0x471ae",
+    "metatiles_rom": "0x79eea",
+    "palette_rom": "0xddbc8",
+    "tile_count": 555
+  },
+  {
+    "map_id": "0400",
+    "width_blocks": 16,
+    "height_blocks": 28,
+    "dimension_status": "inferred_from_script_pattern_and_matching_area",
+    "dimension_candidates": [
+      [
+        16,
+        28
+      ]
+    ],
+    "tiles_rom": "0x32386",
+    "metatiles_rom": "0x772aa",
+    "palette_rom": "0xddc08",
+    "tile_count": 686
+  },
+  {
+    "map_id": "0401",
+    "width_blocks": 10,
+    "height_blocks": 10,
+    "dimension_status": "inferred_from_script_pattern_and_matching_area",
+    "dimension_candidates": [
+      [
+        10,
+        10
+      ]
+    ],
+    "tiles_rom": "0x37948",
+    "metatiles_rom": "0x7852a",
+    "palette_rom": "0xddc48",
+    "tile_count": 758
+  },
+  {
+    "map_id": "0402",
+    "width_blocks": 10,
+    "height_blocks": 10,
+    "dimension_status": "inferred_from_script_pattern_and_matching_area",
+    "dimension_candidates": [
+      [
+        10,
+        10
+      ]
+    ],
+    "tiles_rom": "0x37948",
+    "metatiles_rom": "0x7852a",
+    "palette_rom": "0xddc48",
+    "tile_count": 758
+  },
+  {
+    "map_id": "0403",
+    "width_blocks": 10,
+    "height_blocks": 10,
+    "dimension_status": "inferred_from_script_pattern_and_matching_area",
+    "dimension_candidates": [
+      [
+        10,
+        10
+      ]
+    ],
+    "tiles_rom": "0x37948",
+    "metatiles_rom": "0x7852a",
+    "palette_rom": "0xddc48",
+    "tile_count": 758
+  },
+  {
+    "map_id": "0404",
+    "width_blocks": 12,
+    "height_blocks": 12,
+    "dimension_status": "inferred_from_script_pattern_and_matching_area",
+    "dimension_candidates": [
+      [
+        12,
+        12
+      ]
+    ],
+    "tiles_rom": "0x37948",
+    "metatiles_rom": "0x7852a",
+    "palette_rom": "0xddc48",
+    "tile_count": 758
+  },
+  {
+    "map_id": "0405",
+    "width_blocks": 10,
+    "height_blocks": 12,
+    "dimension_status": "inferred_from_script_pattern_and_matching_area",
+    "dimension_candidates": [
+      [
+        10,
+        12
+      ]
+    ],
+    "tiles_rom": "0x37948",
+    "metatiles_rom": "0x7852a",
+    "palette_rom": "0xddc48",
+    "tile_count": 758
+  },
+  {
+    "map_id": "0406",
+    "width_blocks": 10,
+    "height_blocks": 10,
+    "dimension_status": "inferred_from_script_pattern_and_matching_area",
+    "dimension_candidates": [
+      [
+        10,
+        10
+      ]
+    ],
+    "tiles_rom": "0x37948",
+    "metatiles_rom": "0x7852a",
+    "palette_rom": "0xddc48",
+    "tile_count": 758
+  },
+  {
+    "map_id": "0407",
+    "width_blocks": 10,
+    "height_blocks": 10,
+    "dimension_status": "inferred_from_script_pattern_and_matching_area",
+    "dimension_candidates": [
+      [
+        10,
+        10
+      ]
+    ],
+    "tiles_rom": "0x37948",
+    "metatiles_rom": "0x7852a",
+    "palette_rom": "0xddc48",
+    "tile_count": 758
+  },
+  {
+    "map_id": "0408",
+    "width_blocks": 24,
+    "height_blocks": 15,
+    "dimension_status": "explicit_battle_opcode_0025_dimensions",
+    "dimension_candidates": [
+      [
+        24,
+        15
+      ]
+    ],
+    "tiles_rom": "0x37948",
+    "metatiles_rom": "0x7bdaa",
+    "palette_rom": "0xddc48",
+    "tile_count": 758
+  },
+  {
+    "map_id": "0409",
+    "width_blocks": 24,
+    "height_blocks": 20,
+    "dimension_status": "inferred_from_script_pattern_and_matching_area",
+    "dimension_candidates": [
+      [
+        24,
+        20
+      ]
+    ],
+    "tiles_rom": "0x53fd4",
+    "metatiles_rom": "0x7cbea",
+    "palette_rom": "0xddc88",
+    "tile_count": 717
+  },
+  {
+    "map_id": "0500",
+    "width_blocks": 24,
+    "height_blocks": 18,
+    "dimension_status": "inferred_from_script_pattern_and_matching_area",
+    "dimension_candidates": [
+      [
+        24,
+        18
+      ]
+    ],
+    "tiles_rom": "0x32386",
+    "metatiles_rom": "0x772aa",
+    "palette_rom": "0xddc08",
+    "tile_count": 686
+  },
+  {
+    "map_id": "0501",
+    "width_blocks": 10,
+    "height_blocks": 10,
+    "dimension_status": "inferred_from_script_pattern_and_matching_area",
+    "dimension_candidates": [
+      [
+        10,
+        10
+      ]
+    ],
+    "tiles_rom": "0x37948",
+    "metatiles_rom": "0x7852a",
+    "palette_rom": "0xddc48",
+    "tile_count": 758
+  },
+  {
+    "map_id": "0502",
+    "width_blocks": 10,
+    "height_blocks": 10,
+    "dimension_status": "inferred_from_script_pattern_and_matching_area",
+    "dimension_candidates": [
+      [
+        10,
+        10
+      ]
+    ],
+    "tiles_rom": "0x37948",
+    "metatiles_rom": "0x7852a",
+    "palette_rom": "0xddc48",
+    "tile_count": 758
+  },
+  {
+    "map_id": "0503",
+    "width_blocks": 10,
+    "height_blocks": 10,
+    "dimension_status": "inferred_from_script_pattern_and_matching_area",
+    "dimension_candidates": [
+      [
+        10,
+        10
+      ]
+    ],
+    "tiles_rom": "0x37948",
+    "metatiles_rom": "0x7852a",
+    "palette_rom": "0xddc48",
+    "tile_count": 758
+  },
+  {
+    "map_id": "0504",
+    "width_blocks": 10,
+    "height_blocks": 10,
+    "dimension_status": "inferred_from_script_pattern_and_matching_area",
+    "dimension_candidates": [
+      [
+        10,
+        10
+      ]
+    ],
+    "tiles_rom": "0x37948",
+    "metatiles_rom": "0x7852a",
+    "palette_rom": "0xddc48",
+    "tile_count": 758
+  },
+  {
+    "map_id": "0505",
+    "width_blocks": 10,
+    "height_blocks": 10,
+    "dimension_status": "inferred_from_script_pattern_and_matching_area",
+    "dimension_candidates": [
+      [
+        10,
+        10
+      ]
+    ],
+    "tiles_rom": "0x37948",
+    "metatiles_rom": "0x7852a",
+    "palette_rom": "0xddc48",
+    "tile_count": 758
+  },
+  {
+    "map_id": "0506",
+    "width_blocks": 10,
+    "height_blocks": 10,
+    "dimension_status": "inferred_from_script_pattern_and_matching_area",
+    "dimension_candidates": [
+      [
+        10,
+        10
+      ]
+    ],
+    "tiles_rom": "0x37948",
+    "metatiles_rom": "0x7852a",
+    "palette_rom": "0xddc48",
+    "tile_count": 758
+  },
+  {
+    "map_id": "0507",
+    "width_blocks": 13,
+    "height_blocks": 25,
+    "dimension_status": "inferred_from_script_pattern_and_matching_area",
+    "dimension_candidates": [
+      [
+        13,
+        25
+      ]
+    ],
+    "tiles_rom": "0x4ed72",
+    "metatiles_rom": "0x7afaa",
+    "palette_rom": "0xddb88",
+    "tile_count": 659
+  },
+  {
+    "map_id": "0508",
+    "width_blocks": 24,
+    "height_blocks": 23,
+    "dimension_status": "inferred_from_script_pattern_and_matching_area",
+    "dimension_candidates": [
+      [
+        24,
+        23
+      ]
+    ],
+    "tiles_rom": "0x59976",
+    "metatiles_rom": "0x7d64a",
+    "palette_rom": "0xddcc8",
+    "tile_count": 693
+  },
+  {
+    "map_id": "0509",
+    "width_blocks": 11,
+    "height_blocks": 15,
+    "dimension_status": "inferred_from_script_pattern_and_matching_area",
+    "dimension_candidates": [
+      [
+        11,
+        15
+      ]
+    ],
+    "tiles_rom": "0x4ed72",
+    "metatiles_rom": "0x7afaa",
+    "palette_rom": "0xddd08",
+    "tile_count": 659
+  },
+  {
+    "map_id": "0600",
+    "width_blocks": 24,
+    "height_blocks": 15,
+    "dimension_status": "inferred_from_script_pattern_and_matching_area",
+    "dimension_candidates": [
+      [
+        24,
+        15
+      ]
+    ],
+    "tiles_rom": "0x32386",
+    "metatiles_rom": "0x772aa",
+    "palette_rom": "0xddc08",
+    "tile_count": 686
+  },
+  {
+    "map_id": "0601",
+    "width_blocks": 10,
+    "height_blocks": 10,
+    "dimension_status": "inferred_from_script_pattern_and_matching_area",
+    "dimension_candidates": [
+      [
+        10,
+        10
+      ]
+    ],
+    "tiles_rom": "0x37948",
+    "metatiles_rom": "0x7852a",
+    "palette_rom": "0xddc48",
+    "tile_count": 758
+  },
+  {
+    "map_id": "0602",
+    "width_blocks": 10,
+    "height_blocks": 13,
+    "dimension_status": "inferred_from_script_pattern_and_matching_area",
+    "dimension_candidates": [
+      [
+        10,
+        13
+      ]
+    ],
+    "tiles_rom": "0x37948",
+    "metatiles_rom": "0x7852a",
+    "palette_rom": "0xddc48",
+    "tile_count": 758
+  },
+  {
+    "map_id": "0603",
+    "width_blocks": 10,
+    "height_blocks": 10,
+    "dimension_status": "inferred_from_script_pattern_and_matching_area",
+    "dimension_candidates": [
+      [
+        10,
+        10
+      ]
+    ],
+    "tiles_rom": "0x37948",
+    "metatiles_rom": "0x7852a",
+    "palette_rom": "0xddc48",
+    "tile_count": 758
+  },
+  {
+    "map_id": "0604",
+    "width_blocks": 10,
+    "height_blocks": 10,
+    "dimension_status": "inferred_from_script_pattern_and_matching_area",
+    "dimension_candidates": [
+      [
+        10,
+        10
+      ]
+    ],
+    "tiles_rom": "0x37948",
+    "metatiles_rom": "0x7852a",
+    "palette_rom": "0xddc48",
+    "tile_count": 758
+  },
+  {
+    "map_id": "0605",
+    "width_blocks": 10,
+    "height_blocks": 10,
+    "dimension_status": "inferred_from_script_pattern_and_matching_area",
+    "dimension_candidates": [
+      [
+        10,
+        10
+      ]
+    ],
+    "tiles_rom": "0x37948",
+    "metatiles_rom": "0x7852a",
+    "palette_rom": "0xddc48",
+    "tile_count": 758
+  },
+  {
+    "map_id": "0606",
+    "width_blocks": 10,
+    "height_blocks": 10,
+    "dimension_status": "inferred_from_script_pattern_and_matching_area",
+    "dimension_candidates": [
+      [
+        10,
+        10
+      ]
+    ],
+    "tiles_rom": "0x37948",
+    "metatiles_rom": "0x7852a",
+    "palette_rom": "0xddc48",
+    "tile_count": 758
+  },
+  {
+    "map_id": "0607",
+    "width_blocks": 10,
+    "height_blocks": 10,
+    "dimension_status": "inferred_from_script_pattern_and_matching_area",
+    "dimension_candidates": [
+      [
+        10,
+        10
+      ]
+    ],
+    "tiles_rom": "0x37948",
+    "metatiles_rom": "0x7852a",
+    "palette_rom": "0xddc48",
+    "tile_count": 758
+  },
+  {
+    "map_id": "0608",
+    "width_blocks": 10,
+    "height_blocks": 10,
+    "dimension_status": "inferred_from_script_pattern_and_matching_area",
+    "dimension_candidates": [
+      [
+        10,
+        10
+      ]
+    ],
+    "tiles_rom": "0x37948",
+    "metatiles_rom": "0x7852a",
+    "palette_rom": "0xddc48",
+    "tile_count": 758
+  },
+  {
+    "map_id": "0609",
+    "width_blocks": 24,
+    "height_blocks": 17,
+    "dimension_status": "inferred_from_script_pattern_and_matching_area",
+    "dimension_candidates": [
+      [
+        24,
+        17
+      ]
+    ],
+    "tiles_rom": "0x37948",
+    "metatiles_rom": "0x7852a",
+    "palette_rom": "0xddc48",
+    "tile_count": 758
+  },
+  {
+    "map_id": "0700",
+    "width_blocks": 16,
+    "height_blocks": 23,
+    "dimension_status": "inferred_from_script_pattern_and_matching_area",
+    "dimension_candidates": [
+      [
+        16,
+        23
+      ]
+    ],
+    "tiles_rom": "0x3d80a",
+    "metatiles_rom": "0x77b8a",
+    "palette_rom": "0xdd9c8",
+    "tile_count": 741
+  },
+  {
+    "map_id": "0701",
+    "width_blocks": 11,
+    "height_blocks": 13,
+    "dimension_status": "inferred_from_script_pattern_and_matching_area",
+    "dimension_candidates": [
+      [
+        11,
+        13
+      ]
+    ],
+    "tiles_rom": "0x4ed72",
+    "metatiles_rom": "0x7afaa",
+    "palette_rom": "0xddb88",
+    "tile_count": 659
+  },
+  {
+    "map_id": "0702",
+    "width_blocks": 10,
+    "height_blocks": 10,
+    "dimension_status": "inferred_from_script_pattern_and_matching_area",
+    "dimension_candidates": [
+      [
+        10,
+        10
+      ]
+    ],
+    "tiles_rom": "0x37948",
+    "metatiles_rom": "0x7852a",
+    "palette_rom": "0xdda08",
+    "tile_count": 758
+  },
+  {
+    "map_id": "0703",
+    "width_blocks": 10,
+    "height_blocks": 10,
+    "dimension_status": "inferred_from_script_pattern_and_matching_area",
+    "dimension_candidates": [
+      [
+        10,
+        10
+      ]
+    ],
+    "tiles_rom": "0x37948",
+    "metatiles_rom": "0x7852a",
+    "palette_rom": "0xdda08",
+    "tile_count": 758
+  },
+  {
+    "map_id": "0704",
+    "width_blocks": 10,
+    "height_blocks": 10,
+    "dimension_status": "inferred_from_script_pattern_and_matching_area",
+    "dimension_candidates": [
+      [
+        10,
+        10
+      ]
+    ],
+    "tiles_rom": "0x37948",
+    "metatiles_rom": "0x7852a",
+    "palette_rom": "0xdda08",
+    "tile_count": 758
+  },
+  {
+    "map_id": "0705",
+    "width_blocks": 10,
+    "height_blocks": 10,
+    "dimension_status": "inferred_from_script_pattern_and_matching_area",
+    "dimension_candidates": [
+      [
+        10,
+        10
+      ]
+    ],
+    "tiles_rom": "0x37948",
+    "metatiles_rom": "0x7852a",
+    "palette_rom": "0xdda08",
+    "tile_count": 758
+  },
+  {
+    "map_id": "0706",
+    "width_blocks": 10,
+    "height_blocks": 10,
+    "dimension_status": "inferred_from_script_pattern_and_matching_area",
+    "dimension_candidates": [
+      [
+        10,
+        10
+      ]
+    ],
+    "tiles_rom": "0x37948",
+    "metatiles_rom": "0x7852a",
+    "palette_rom": "0xdda08",
+    "tile_count": 758
+  },
+  {
+    "map_id": "0707",
+    "width_blocks": 24,
+    "height_blocks": 20,
+    "dimension_status": "inferred_from_script_pattern_and_matching_area",
+    "dimension_candidates": [
+      [
+        24,
+        20
+      ]
+    ],
+    "tiles_rom": "0x53fd4",
+    "metatiles_rom": "0x7cbea",
+    "palette_rom": "0xddc88",
+    "tile_count": 717
+  },
+  {
+    "map_id": "0708",
+    "width_blocks": 24,
+    "height_blocks": 25,
+    "dimension_status": "inferred_from_script_pattern_and_matching_area",
+    "dimension_candidates": [
+      [
+        24,
+        25
+      ]
+    ],
+    "tiles_rom": "0x4b710",
+    "metatiles_rom": "0x7a56a",
+    "palette_rom": "0xddb48",
+    "tile_count": 435
+  },
+  {
+    "map_id": "0709",
+    "width_blocks": 32,
+    "height_blocks": 15,
+    "dimension_status": "inferred_from_script_pattern_and_matching_area",
+    "dimension_candidates": [
+      [
+        32,
+        15
+      ]
+    ],
+    "tiles_rom": "0x471ae",
+    "metatiles_rom": "0x79eea",
+    "palette_rom": "0xddd48",
+    "tile_count": 555
+  },
+  {
+    "map_id": "0800",
+    "width_blocks": 24,
+    "height_blocks": 15,
+    "dimension_status": "inferred_from_script_pattern_and_matching_area",
+    "dimension_candidates": [
+      [
+        24,
+        15
+      ]
+    ],
+    "tiles_rom": "0x32386",
+    "metatiles_rom": "0x772aa",
+    "palette_rom": "0xdd948",
+    "tile_count": 686
+  },
+  {
+    "map_id": "0801",
+    "width_blocks": 10,
+    "height_blocks": 10,
+    "dimension_status": "inferred_from_script_pattern_and_matching_area",
+    "dimension_candidates": [
+      [
+        10,
+        10
+      ]
+    ],
+    "tiles_rom": "0x37948",
+    "metatiles_rom": "0x7852a",
+    "palette_rom": "0xdd988",
+    "tile_count": 758
+  },
+  {
+    "map_id": "0802",
+    "width_blocks": 10,
+    "height_blocks": 12,
+    "dimension_status": "inferred_from_script_pattern_and_matching_area",
+    "dimension_candidates": [
+      [
+        10,
+        12
+      ]
+    ],
+    "tiles_rom": "0x37948",
+    "metatiles_rom": "0x7852a",
+    "palette_rom": "0xdd988",
+    "tile_count": 758
+  },
+  {
+    "map_id": "0803",
+    "width_blocks": 10,
+    "height_blocks": 10,
+    "dimension_status": "inferred_from_script_pattern_and_matching_area",
+    "dimension_candidates": [
+      [
+        10,
+        10
+      ]
+    ],
+    "tiles_rom": "0x37948",
+    "metatiles_rom": "0x7852a",
+    "palette_rom": "0xdd988",
+    "tile_count": 758
+  },
+  {
+    "map_id": "0804",
+    "width_blocks": 10,
+    "height_blocks": 10,
+    "dimension_status": "inferred_from_script_pattern_and_matching_area",
+    "dimension_candidates": [
+      [
+        10,
+        10
+      ]
+    ],
+    "tiles_rom": "0x37948",
+    "metatiles_rom": "0x7852a",
+    "palette_rom": "0xdd988",
+    "tile_count": 758
+  },
+  {
+    "map_id": "0805",
+    "width_blocks": 10,
+    "height_blocks": 10,
+    "dimension_status": "inferred_from_script_pattern_and_matching_area",
+    "dimension_candidates": [
+      [
+        10,
+        10
+      ]
+    ],
+    "tiles_rom": "0x37948",
+    "metatiles_rom": "0x7852a",
+    "palette_rom": "0xdd988",
+    "tile_count": 758
+  },
+  {
+    "map_id": "0806",
+    "width_blocks": 10,
+    "height_blocks": 10,
+    "dimension_status": "inferred_from_script_pattern_and_matching_area",
+    "dimension_candidates": [
+      [
+        10,
+        10
+      ]
+    ],
+    "tiles_rom": "0x37948",
+    "metatiles_rom": "0x7852a",
+    "palette_rom": "0xdd988",
+    "tile_count": 758
+  },
+  {
+    "map_id": "0807",
+    "width_blocks": 10,
+    "height_blocks": 10,
+    "dimension_status": "inferred_from_script_pattern_and_matching_area",
+    "dimension_candidates": [
+      [
+        10,
+        10
+      ]
+    ],
+    "tiles_rom": "0x37948",
+    "metatiles_rom": "0x7852a",
+    "palette_rom": "0xdd988",
+    "tile_count": 758
+  },
+  {
+    "map_id": "0808",
+    "width_blocks": 15,
+    "height_blocks": 20,
+    "dimension_status": "inferred_from_script_pattern_and_matching_area",
+    "dimension_candidates": [
+      [
+        15,
+        20
+      ]
+    ],
+    "tiles_rom": "0x5f018",
+    "metatiles_rom": "0x7e08a",
+    "palette_rom": "0xdd948",
+    "tile_count": 264
+  },
+  {
+    "map_id": "0809",
+    "width_blocks": 24,
+    "height_blocks": 25,
+    "dimension_status": "inferred_from_script_pattern_and_matching_area",
+    "dimension_candidates": [
+      [
+        24,
+        25
+      ]
+    ],
+    "tiles_rom": "0x37948",
+    "metatiles_rom": "0x7852a",
+    "palette_rom": "0xddd88",
+    "tile_count": 758
+  },
+  {
+    "map_id": "080a",
+    "width_blocks": 10,
+    "height_blocks": 10,
+    "dimension_status": "inferred_from_script_pattern_and_matching_area",
+    "dimension_candidates": [
+      [
+        10,
+        10
+      ]
+    ],
+    "tiles_rom": "0x37948",
+    "metatiles_rom": "0x7852a",
+    "palette_rom": "0xddd88",
+    "tile_count": 758
+  },
+  {
+    "map_id": "080b",
+    "width_blocks": 10,
+    "height_blocks": 10,
+    "dimension_status": "inferred_from_script_pattern_and_matching_area",
+    "dimension_candidates": [
+      [
+        10,
+        10
+      ]
+    ],
+    "tiles_rom": "0x37948",
+    "metatiles_rom": "0x7852a",
+    "palette_rom": "0xddd88",
+    "tile_count": 758
+  },
+  {
+    "map_id": "0900",
+    "width_blocks": 16,
+    "height_blocks": 20,
+    "dimension_status": "inferred_from_script_pattern_and_matching_area",
+    "dimension_candidates": [
+      [
+        16,
+        20
+      ]
+    ],
+    "tiles_rom": "0x3d80a",
+    "metatiles_rom": "0x77b8a",
+    "palette_rom": "0xdd9c8",
+    "tile_count": 741
+  },
+  {
+    "map_id": "0901",
+    "width_blocks": 10,
+    "height_blocks": 13,
+    "dimension_status": "inferred_from_script_pattern_and_matching_area",
+    "dimension_candidates": [
+      [
+        10,
+        13
+      ]
+    ],
+    "tiles_rom": "0x37948",
+    "metatiles_rom": "0x7852a",
+    "palette_rom": "0xdd988",
+    "tile_count": 758
+  },
+  {
+    "map_id": "0902",
+    "width_blocks": 10,
+    "height_blocks": 10,
+    "dimension_status": "inferred_from_script_pattern_and_matching_area",
+    "dimension_candidates": [
+      [
+        10,
+        10
+      ]
+    ],
+    "tiles_rom": "0x37948",
+    "metatiles_rom": "0x7852a",
+    "palette_rom": "0xdd988",
+    "tile_count": 758
+  },
+  {
+    "map_id": "0903",
+    "width_blocks": 10,
+    "height_blocks": 10,
+    "dimension_status": "inferred_from_script_pattern_and_matching_area",
+    "dimension_candidates": [
+      [
+        10,
+        10
+      ]
+    ],
+    "tiles_rom": "0x37948",
+    "metatiles_rom": "0x7852a",
+    "palette_rom": "0xdd988",
+    "tile_count": 758
+  },
+  {
+    "map_id": "0904",
+    "width_blocks": 10,
+    "height_blocks": 10,
+    "dimension_status": "inferred_from_script_pattern_and_matching_area",
+    "dimension_candidates": [
+      [
+        10,
+        10
+      ]
+    ],
+    "tiles_rom": "0x37948",
+    "metatiles_rom": "0x7852a",
+    "palette_rom": "0xdd988",
+    "tile_count": 758
+  },
+  {
+    "map_id": "0905",
+    "width_blocks": 10,
+    "height_blocks": 10,
+    "dimension_status": "inferred_from_script_pattern_and_matching_area",
+    "dimension_candidates": [
+      [
+        10,
+        10
+      ]
+    ],
+    "tiles_rom": "0x37948",
+    "metatiles_rom": "0x7852a",
+    "palette_rom": "0xdd988",
+    "tile_count": 758
+  },
+  {
+    "map_id": "0906",
+    "width_blocks": 16,
+    "height_blocks": 30,
+    "dimension_status": "inferred_from_script_pattern_and_matching_area",
+    "dimension_candidates": [
+      [
+        16,
+        30
+      ]
+    ],
+    "tiles_rom": "0x59976",
+    "metatiles_rom": "0x7d64a",
+    "palette_rom": "0xdddc8",
+    "tile_count": 693
+  },
+  {
+    "map_id": "0907",
+    "width_blocks": 32,
+    "height_blocks": 20,
+    "dimension_status": "inferred_from_script_pattern_and_matching_area",
+    "dimension_candidates": [
+      [
+        32,
+        20
+      ]
+    ],
+    "tiles_rom": "0x53fd4",
+    "metatiles_rom": "0x7cbea",
+    "palette_rom": "0xdde08",
+    "tile_count": 717
+  },
+  {
+    "map_id": "0908",
+    "width_blocks": 24,
+    "height_blocks": 25,
+    "dimension_status": "inferred_from_script_pattern_and_matching_area",
+    "dimension_candidates": [
+      [
+        24,
+        25
+      ]
+    ],
+    "tiles_rom": "0x4b710",
+    "metatiles_rom": "0x7a56a",
+    "palette_rom": "0xdde48",
+    "tile_count": 435
+  },
+  {
+    "map_id": "0a00",
+    "width_blocks": 15,
+    "height_blocks": 25,
+    "dimension_status": "inferred_from_script_pattern_and_matching_area",
+    "dimension_candidates": [
+      [
+        15,
+        25
+      ]
+    ],
+    "tiles_rom": "0x6111a",
+    "metatiles_rom": "0x7e50a",
+    "palette_rom": "0xdde88",
+    "tile_count": 738
+  },
+  {
+    "map_id": "0a01",
+    "width_blocks": 10,
+    "height_blocks": 15,
+    "dimension_status": "inferred_from_script_pattern_and_matching_area",
+    "dimension_candidates": [
+      [
+        10,
+        15
+      ]
+    ],
+    "tiles_rom": "0x66d5c",
+    "metatiles_rom": "0x7efea",
+    "palette_rom": "0xddec8",
+    "tile_count": 317
+  },
+  {
+    "map_id": "0a02",
+    "width_blocks": 10,
+    "height_blocks": 10,
+    "dimension_status": "inferred_from_script_pattern_and_matching_area",
+    "dimension_candidates": [
+      [
+        10,
+        10
+      ]
+    ],
+    "tiles_rom": "0x37948",
+    "metatiles_rom": "0x7852a",
+    "palette_rom": "0xdd988",
+    "tile_count": 758
+  },
+  {
+    "map_id": "0a03",
+    "width_blocks": 10,
+    "height_blocks": 10,
+    "dimension_status": "inferred_from_script_pattern_and_matching_area",
+    "dimension_candidates": [
+      [
+        10,
+        10
+      ]
+    ],
+    "tiles_rom": "0x37948",
+    "metatiles_rom": "0x7852a",
+    "palette_rom": "0xdd988",
+    "tile_count": 758
+  },
+  {
+    "map_id": "0a04",
+    "width_blocks": 10,
+    "height_blocks": 10,
+    "dimension_status": "inferred_from_script_pattern_and_matching_area",
+    "dimension_candidates": [
+      [
+        10,
+        10
+      ]
+    ],
+    "tiles_rom": "0x37948",
+    "metatiles_rom": "0x7852a",
+    "palette_rom": "0xdd988",
+    "tile_count": 758
+  },
+  {
+    "map_id": "0a05",
+    "width_blocks": 10,
+    "height_blocks": 10,
+    "dimension_status": "inferred_from_script_pattern_and_matching_area",
+    "dimension_candidates": [
+      [
+        10,
+        10
+      ]
+    ],
+    "tiles_rom": "0x37948",
+    "metatiles_rom": "0x7852a",
+    "palette_rom": "0xdd988",
+    "tile_count": 758
+  },
+  {
+    "map_id": "0a06",
+    "width_blocks": 24,
+    "height_blocks": 25,
+    "dimension_status": "explicit_battle_opcode_0025_dimensions",
+    "dimension_candidates": [
+      [
+        24,
+        25
+      ]
+    ],
+    "tiles_rom": "0x694fe",
+    "metatiles_rom": "0x7f58a",
+    "palette_rom": "0xddf08",
+    "tile_count": 511
+  },
+  {
+    "map_id": "0a07",
+    "width_blocks": 11,
+    "height_blocks": 12,
+    "dimension_status": "inferred_from_script_pattern_and_matching_area",
+    "dimension_candidates": [
+      [
+        11,
+        12
+      ]
+    ],
+    "tiles_rom": "0x694fe",
+    "metatiles_rom": "0x7f58a",
+    "palette_rom": "0xddf48",
+    "tile_count": 511
+  },
+  {
+    "map_id": "0a08",
+    "width_blocks": 24,
+    "height_blocks": 30,
+    "dimension_status": "inferred_from_script_pattern_and_matching_area",
+    "dimension_candidates": [
+      [
+        24,
+        30
+      ]
+    ],
+    "tiles_rom": "0x694fe",
+    "metatiles_rom": "0x7f58a",
+    "palette_rom": "0xddf48",
+    "tile_count": 511
+  },
+  {
+    "map_id": "0b00",
+    "width_blocks": 16,
+    "height_blocks": 15,
+    "dimension_status": "inferred_from_script_pattern_and_matching_area",
+    "dimension_candidates": [
+      [
+        16,
+        15
+      ]
+    ],
+    "tiles_rom": "0x3d80a",
+    "metatiles_rom": "0x77b8a",
+    "palette_rom": "0xdd9c8",
+    "tile_count": 741
+  },
+  {
+    "map_id": "0b01",
+    "width_blocks": 10,
+    "height_blocks": 10,
+    "dimension_status": "inferred_from_script_pattern_and_matching_area",
+    "dimension_candidates": [
+      [
+        10,
+        10
+      ]
+    ],
+    "tiles_rom": "0x37948",
+    "metatiles_rom": "0x7852a",
+    "palette_rom": "0xdd988",
+    "tile_count": 758
+  },
+  {
+    "map_id": "0b02",
+    "width_blocks": 10,
+    "height_blocks": 10,
+    "dimension_status": "inferred_from_script_pattern_and_matching_area",
+    "dimension_candidates": [
+      [
+        10,
+        10
+      ]
+    ],
+    "tiles_rom": "0x37948",
+    "metatiles_rom": "0x7852a",
+    "palette_rom": "0xdd988",
+    "tile_count": 758
+  },
+  {
+    "map_id": "0b03",
+    "width_blocks": 10,
+    "height_blocks": 10,
+    "dimension_status": "inferred_from_script_pattern_and_matching_area",
+    "dimension_candidates": [
+      [
+        10,
+        10
+      ]
+    ],
+    "tiles_rom": "0x37948",
+    "metatiles_rom": "0x7852a",
+    "palette_rom": "0xdd988",
+    "tile_count": 758
+  },
+  {
+    "map_id": "0b04",
+    "width_blocks": 10,
+    "height_blocks": 10,
+    "dimension_status": "inferred_from_script_pattern_and_matching_area",
+    "dimension_candidates": [
+      [
+        10,
+        10
+      ]
+    ],
+    "tiles_rom": "0x37948",
+    "metatiles_rom": "0x7852a",
+    "palette_rom": "0xdd988",
+    "tile_count": 758
+  },
+  {
+    "map_id": "0b05",
+    "width_blocks": 32,
+    "height_blocks": 25,
+    "dimension_status": "inferred_from_script_pattern_and_matching_area",
+    "dimension_candidates": [
+      [
+        32,
+        25
+      ]
+    ],
+    "tiles_rom": "0x6d4e0",
+    "metatiles_rom": "0x7feca",
+    "palette_rom": "0xddf88",
+    "tile_count": 339
+  },
+  {
+    "map_id": "0b06",
+    "width_blocks": 24,
+    "height_blocks": 30,
+    "dimension_status": "inferred_from_script_pattern_and_matching_area",
+    "dimension_candidates": [
+      [
+        24,
+        30
+      ]
+    ],
+    "tiles_rom": "0x6111a",
+    "metatiles_rom": "0x7e50a",
+    "palette_rom": "0xdde88",
+    "tile_count": 738
+  },
+  {
+    "map_id": "0b07",
+    "width_blocks": 24,
+    "height_blocks": 25,
+    "dimension_status": "inferred_from_script_pattern_and_matching_area",
+    "dimension_candidates": [
+      [
+        24,
+        25
+      ]
+    ],
+    "tiles_rom": "0x53fd4",
+    "metatiles_rom": "0x7cbea",
+    "palette_rom": "0xddc88",
+    "tile_count": 717
+  },
+  {
+    "map_id": "0b08",
+    "width_blocks": 32,
+    "height_blocks": 20,
+    "dimension_status": "inferred_from_script_pattern_and_matching_area",
+    "dimension_candidates": [
+      [
+        32,
+        20
+      ]
+    ],
+    "tiles_rom": "0x32386",
+    "metatiles_rom": "0x772aa",
+    "palette_rom": "0xdd948",
+    "tile_count": 686
+  },
+  {
+    "map_id": "0b09",
+    "width_blocks": 24,
+    "height_blocks": 25,
+    "dimension_status": "inferred_from_script_pattern_and_matching_area",
+    "dimension_candidates": [
+      [
+        24,
+        25
+      ]
+    ],
+    "tiles_rom": "0x6ff42",
+    "metatiles_rom": "0x8084a",
+    "palette_rom": "0xddfc8",
+    "tile_count": 489
+  },
+  {
+    "map_id": "0b0a",
+    "width_blocks": 24,
+    "height_blocks": 30,
+    "dimension_status": "inferred_from_script_pattern_and_matching_area",
+    "dimension_candidates": [
+      [
+        24,
+        30
+      ]
+    ],
+    "tiles_rom": "0x4b710",
+    "metatiles_rom": "0x7a56a",
+    "palette_rom": "0xddb48",
+    "tile_count": 435
+  },
+  {
+    "map_id": "0c00",
+    "width_blocks": 16,
+    "height_blocks": 13,
+    "dimension_status": "inferred_from_script_pattern_and_matching_area",
+    "dimension_candidates": [
+      [
+        16,
+        13
+      ]
+    ],
+    "tiles_rom": "0x3d80a",
+    "metatiles_rom": "0x77b8a",
+    "palette_rom": "0xdd9c8",
+    "tile_count": 741
+  },
+  {
+    "map_id": "0c01",
+    "width_blocks": 10,
+    "height_blocks": 10,
+    "dimension_status": "inferred_from_script_pattern_and_matching_area",
+    "dimension_candidates": [
+      [
+        10,
+        10
+      ]
+    ],
+    "tiles_rom": "0x37948",
+    "metatiles_rom": "0x7852a",
+    "palette_rom": "0xdd988",
+    "tile_count": 758
+  },
+  {
+    "map_id": "0c02",
+    "width_blocks": 10,
+    "height_blocks": 10,
+    "dimension_status": "inferred_from_script_pattern_and_matching_area",
+    "dimension_candidates": [
+      [
+        10,
+        10
+      ]
+    ],
+    "tiles_rom": "0x37948",
+    "metatiles_rom": "0x7852a",
+    "palette_rom": "0xdd988",
+    "tile_count": 758
+  },
+  {
+    "map_id": "0c03",
+    "width_blocks": 10,
+    "height_blocks": 10,
+    "dimension_status": "inferred_from_script_pattern_and_matching_area",
+    "dimension_candidates": [
+      [
+        10,
+        10
+      ]
+    ],
+    "tiles_rom": "0x37948",
+    "metatiles_rom": "0x7852a",
+    "palette_rom": "0xdd988",
+    "tile_count": 758
+  },
+  {
+    "map_id": "0c04",
+    "width_blocks": 24,
+    "height_blocks": 30,
+    "dimension_status": "inferred_from_script_pattern_and_matching_area",
+    "dimension_candidates": [
+      [
+        24,
+        30
+      ]
+    ],
+    "tiles_rom": "0x73c64",
+    "metatiles_rom": "0x80f6a",
+    "palette_rom": "0xde008",
+    "tile_count": 418
+  },
+  {
+    "map_id": "0c05",
+    "width_blocks": 32,
+    "height_blocks": 20,
+    "dimension_status": "inferred_from_script_pattern_and_matching_area",
+    "dimension_candidates": [
+      [
+        32,
+        20
+      ]
+    ],
+    "tiles_rom": "0x59976",
+    "metatiles_rom": "0x7d64a",
+    "palette_rom": "0xddcc8",
+    "tile_count": 693
+  },
+  {
+    "map_id": "0c06",
+    "width_blocks": 24,
+    "height_blocks": 25,
+    "dimension_status": "inferred_from_script_pattern_and_matching_area",
+    "dimension_candidates": [
+      [
+        24,
+        25
+      ]
+    ],
+    "tiles_rom": "0x694fe",
+    "metatiles_rom": "0x7f58a",
+    "palette_rom": "0xde048",
+    "tile_count": 511
+  },
+  {
+    "map_id": "0c07",
+    "width_blocks": 24,
+    "height_blocks": 30,
+    "dimension_status": "inferred_from_script_pattern_and_matching_area",
+    "dimension_candidates": [
+      [
+        24,
+        30
+      ]
+    ],
+    "tiles_rom": "0x6ff42",
+    "metatiles_rom": "0x8084a",
+    "palette_rom": "0xddfc8",
+    "tile_count": 489
+  },
+  {
+    "map_id": "0c08",
+    "width_blocks": 24,
+    "height_blocks": 20,
+    "dimension_status": "inferred_from_script_pattern_and_matching_area",
+    "dimension_candidates": [
+      [
+        24,
+        20
+      ]
+    ],
+    "tiles_rom": "0x6d4e0",
+    "metatiles_rom": "0x7feca",
+    "palette_rom": "0xddf88",
+    "tile_count": 339
+  }
+]

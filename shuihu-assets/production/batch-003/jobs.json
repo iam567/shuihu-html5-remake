@@ -1,0 +1,698 @@
+[
+  {
+    "id": "bank-03d80a-077b8a-0dd9c8-pixel-hd",
+    "kind": "map-bank",
+    "style": "pixel-hd",
+    "reference": "bank-03d80a-077b8a-0dd9c8.png",
+    "prompt": "Edit this modular RPG environment atlas in modern crisp high-definition JRPG pixel art, clean clustered shading and sharp readable details. Preserve every tile position, size ratio, grid boundary, blank black space, orientation and object footprint EXACTLY. Do not rearrange or merge cells. Do not make a complete scene. Redraw details with much clearer forms. Neighboring pieces must connect seamlessly. Preserve all signs and inscriptions as source glyph silhouettes; never replace characters with guessed words. Original 32px tile boundaries must remain at the identical proportional coordinates. Increase resolution while keeping the entire canvas aspect ratio. No borders or extra objects. This is a candidate atlas for later geometry and lettering validation.",
+    "size": "auto"
+  },
+  {
+    "id": "bank-03d80a-077b8a-0dd9c8-unreal",
+    "kind": "map-bank",
+    "style": "unreal",
+    "reference": "bank-03d80a-077b8a-0dd9c8.png",
+    "prompt": "Edit this modular RPG environment atlas in Unreal Engine quality stylized-realistic PBR game assets, clear silhouettes and soft neutral lighting. Preserve every tile position, size ratio, grid boundary, blank black space, orientation and object footprint EXACTLY. Do not rearrange or merge cells. Do not make a complete scene. Redraw details with much clearer forms. Neighboring pieces must connect seamlessly. Preserve all signs and inscriptions as source glyph silhouettes; never replace characters with guessed words. Original 32px tile boundaries must remain at the identical proportional coordinates. Increase resolution while keeping the entire canvas aspect ratio. No borders or extra objects. This is a candidate atlas for later geometry and lettering validation.",
+    "size": "auto"
+  },
+  {
+    "id": "bank-03d80a-077b8a-0dd9c8-ghibli",
+    "kind": "map-bank",
+    "style": "ghibli",
+    "reference": "bank-03d80a-077b8a-0dd9c8.png",
+    "prompt": "Edit this modular RPG environment atlas in Studio Ghibli inspired hand-painted animation background art, refined clear shapes and warm colors. Preserve every tile position, size ratio, grid boundary, blank black space, orientation and object footprint EXACTLY. Do not rearrange or merge cells. Do not make a complete scene. Redraw details with much clearer forms. Neighboring pieces must connect seamlessly. Preserve all signs and inscriptions as source glyph silhouettes; never replace characters with guessed words. Original 32px tile boundaries must remain at the identical proportional coordinates. Increase resolution while keeping the entire canvas aspect ratio. No borders or extra objects. This is a candidate atlas for later geometry and lettering validation.",
+    "size": "auto"
+  },
+  {
+    "id": "bank-037948-07852a-0dda08-pixel-hd",
+    "kind": "map-bank",
+    "style": "pixel-hd",
+    "reference": "bank-037948-07852a-0dda08.png",
+    "prompt": "Edit this modular RPG environment atlas in modern crisp high-definition JRPG pixel art, clean clustered shading and sharp readable details. Preserve every tile position, size ratio, grid boundary, blank black space, orientation and object footprint EXACTLY. Do not rearrange or merge cells. Do not make a complete scene. Redraw details with much clearer forms. Neighboring pieces must connect seamlessly. Preserve all signs and inscriptions as source glyph silhouettes; never replace characters with guessed words. Original 32px tile boundaries must remain at the identical proportional coordinates. Increase resolution while keeping the entire canvas aspect ratio. No borders or extra objects. This is a candidate atlas for later geometry and lettering validation.",
+    "size": "auto"
+  },
+  {
+    "id": "bank-037948-07852a-0dda08-unreal",
+    "kind": "map-bank",
+    "style": "unreal",
+    "reference": "bank-037948-07852a-0dda08.png",
+    "prompt": "Edit this modular RPG environment atlas in Unreal Engine quality stylized-realistic PBR game assets, clear silhouettes and soft neutral lighting. Preserve every tile position, size ratio, grid boundary, blank black space, orientation and object footprint EXACTLY. Do not rearrange or merge cells. Do not make a complete scene. Redraw details with much clearer forms. Neighboring pieces must connect seamlessly. Preserve all signs and inscriptions as source glyph silhouettes; never replace characters with guessed words. Original 32px tile boundaries must remain at the identical proportional coordinates. Increase resolution while keeping the entire canvas aspect ratio. No borders or extra objects. This is a candidate atlas for later geometry and lettering validation.",
+    "size": "auto"
+  },
+  {
+    "id": "bank-037948-07852a-0dda08-ghibli",
+    "kind": "map-bank",
+    "style": "ghibli",
+    "reference": "bank-037948-07852a-0dda08.png",
+    "prompt": "Edit this modular RPG environment atlas in Studio Ghibli inspired hand-painted animation background art, refined clear shapes and warm colors. Preserve every tile position, size ratio, grid boundary, blank black space, orientation and object footprint EXACTLY. Do not rearrange or merge cells. Do not make a complete scene. Redraw details with much clearer forms. Neighboring pieces must connect seamlessly. Preserve all signs and inscriptions as source glyph silhouettes; never replace characters with guessed words. Original 32px tile boundaries must remain at the identical proportional coordinates. Increase resolution while keeping the entire canvas aspect ratio. No borders or extra objects. This is a candidate atlas for later geometry and lettering validation.",
+    "size": "auto"
+  },
+  {
+    "id": "bank-0434ac-0799ea-0dda48-pixel-hd",
+    "kind": "map-bank",
+    "style": "pixel-hd",
+    "reference": "bank-0434ac-0799ea-0dda48.png",
+    "prompt": "Edit this modular RPG environment atlas in modern crisp high-definition JRPG pixel art, clean clustered shading and sharp readable details. Preserve every tile position, size ratio, grid boundary, blank black space, orientation and object footprint EXACTLY. Do not rearrange or merge cells. Do not make a complete scene. Redraw details with much clearer forms. Neighboring pieces must connect seamlessly. Preserve all signs and inscriptions as source glyph silhouettes; never replace characters with guessed words. Original 32px tile boundaries must remain at the identical proportional coordinates. Increase resolution while keeping the entire canvas aspect ratio. No borders or extra objects. This is a candidate atlas for later geometry and lettering validation.",
+    "size": "auto"
+  },
+  {
+    "id": "bank-0434ac-0799ea-0dda48-unreal",
+    "kind": "map-bank",
+    "style": "unreal",
+    "reference": "bank-0434ac-0799ea-0dda48.png",
+    "prompt": "Edit this modular RPG environment atlas in Unreal Engine quality stylized-realistic PBR game assets, clear silhouettes and soft neutral lighting. Preserve every tile position, size ratio, grid boundary, blank black space, orientation and object footprint EXACTLY. Do not rearrange or merge cells. Do not make a complete scene. Redraw details with much clearer forms. Neighboring pieces must connect seamlessly. Preserve all signs and inscriptions as source glyph silhouettes; never replace characters with guessed words. Original 32px tile boundaries must remain at the identical proportional coordinates. Increase resolution while keeping the entire canvas aspect ratio. No borders or extra objects. This is a candidate atlas for later geometry and lettering validation.",
+    "size": "auto"
+  },
+  {
+    "id": "bank-0434ac-0799ea-0dda48-ghibli",
+    "kind": "map-bank",
+    "style": "ghibli",
+    "reference": "bank-0434ac-0799ea-0dda48.png",
+    "prompt": "Edit this modular RPG environment atlas in Studio Ghibli inspired hand-painted animation background art, refined clear shapes and warm colors. Preserve every tile position, size ratio, grid boundary, blank black space, orientation and object footprint EXACTLY. Do not rearrange or merge cells. Do not make a complete scene. Redraw details with much clearer forms. Neighboring pieces must connect seamlessly. Preserve all signs and inscriptions as source glyph silhouettes; never replace characters with guessed words. Original 32px tile boundaries must remain at the identical proportional coordinates. Increase resolution while keeping the entire canvas aspect ratio. No borders or extra objects. This is a candidate atlas for later geometry and lettering validation.",
+    "size": "auto"
+  },
+  {
+    "id": "bank-0471ae-079eea-0dda88-pixel-hd",
+    "kind": "map-bank",
+    "style": "pixel-hd",
+    "reference": "bank-0471ae-079eea-0dda88.png",
+    "prompt": "Edit this modular RPG environment atlas in modern crisp high-definition JRPG pixel art, clean clustered shading and sharp readable details. Preserve every tile position, size ratio, grid boundary, blank black space, orientation and object footprint EXACTLY. Do not rearrange or merge cells. Do not make a complete scene. Redraw details with much clearer forms. Neighboring pieces must connect seamlessly. Preserve all signs and inscriptions as source glyph silhouettes; never replace characters with guessed words. Original 32px tile boundaries must remain at the identical proportional coordinates. Increase resolution while keeping the entire canvas aspect ratio. No borders or extra objects. This is a candidate atlas for later geometry and lettering validation.",
+    "size": "auto"
+  },
+  {
+    "id": "bank-0471ae-079eea-0dda88-unreal",
+    "kind": "map-bank",
+    "style": "unreal",
+    "reference": "bank-0471ae-079eea-0dda88.png",
+    "prompt": "Edit this modular RPG environment atlas in Unreal Engine quality stylized-realistic PBR game assets, clear silhouettes and soft neutral lighting. Preserve every tile position, size ratio, grid boundary, blank black space, orientation and object footprint EXACTLY. Do not rearrange or merge cells. Do not make a complete scene. Redraw details with much clearer forms. Neighboring pieces must connect seamlessly. Preserve all signs and inscriptions as source glyph silhouettes; never replace characters with guessed words. Original 32px tile boundaries must remain at the identical proportional coordinates. Increase resolution while keeping the entire canvas aspect ratio. No borders or extra objects. This is a candidate atlas for later geometry and lettering validation.",
+    "size": "auto"
+  },
+  {
+    "id": "bank-0471ae-079eea-0dda88-ghibli",
+    "kind": "map-bank",
+    "style": "ghibli",
+    "reference": "bank-0471ae-079eea-0dda88.png",
+    "prompt": "Edit this modular RPG environment atlas in Studio Ghibli inspired hand-painted animation background art, refined clear shapes and warm colors. Preserve every tile position, size ratio, grid boundary, blank black space, orientation and object footprint EXACTLY. Do not rearrange or merge cells. Do not make a complete scene. Redraw details with much clearer forms. Neighboring pieces must connect seamlessly. Preserve all signs and inscriptions as source glyph silhouettes; never replace characters with guessed words. Original 32px tile boundaries must remain at the identical proportional coordinates. Increase resolution while keeping the entire canvas aspect ratio. No borders or extra objects. This is a candidate atlas for later geometry and lettering validation.",
+    "size": "auto"
+  },
+  {
+    "id": "bank-032386-0772aa-0ddac8-pixel-hd",
+    "kind": "map-bank",
+    "style": "pixel-hd",
+    "reference": "bank-032386-0772aa-0ddac8.png",
+    "prompt": "Edit this modular RPG environment atlas in modern crisp high-definition JRPG pixel art, clean clustered shading and sharp readable details. Preserve every tile position, size ratio, grid boundary, blank black space, orientation and object footprint EXACTLY. Do not rearrange or merge cells. Do not make a complete scene. Redraw details with much clearer forms. Neighboring pieces must connect seamlessly. Preserve all signs and inscriptions as source glyph silhouettes; never replace characters with guessed words. Original 32px tile boundaries must remain at the identical proportional coordinates. Increase resolution while keeping the entire canvas aspect ratio. No borders or extra objects. This is a candidate atlas for later geometry and lettering validation.",
+    "size": "auto"
+  },
+  {
+    "id": "bank-032386-0772aa-0ddac8-unreal",
+    "kind": "map-bank",
+    "style": "unreal",
+    "reference": "bank-032386-0772aa-0ddac8.png",
+    "prompt": "Edit this modular RPG environment atlas in Unreal Engine quality stylized-realistic PBR game assets, clear silhouettes and soft neutral lighting. Preserve every tile position, size ratio, grid boundary, blank black space, orientation and object footprint EXACTLY. Do not rearrange or merge cells. Do not make a complete scene. Redraw details with much clearer forms. Neighboring pieces must connect seamlessly. Preserve all signs and inscriptions as source glyph silhouettes; never replace characters with guessed words. Original 32px tile boundaries must remain at the identical proportional coordinates. Increase resolution while keeping the entire canvas aspect ratio. No borders or extra objects. This is a candidate atlas for later geometry and lettering validation.",
+    "size": "auto"
+  },
+  {
+    "id": "bank-032386-0772aa-0ddac8-ghibli",
+    "kind": "map-bank",
+    "style": "ghibli",
+    "reference": "bank-032386-0772aa-0ddac8.png",
+    "prompt": "Edit this modular RPG environment atlas in Studio Ghibli inspired hand-painted animation background art, refined clear shapes and warm colors. Preserve every tile position, size ratio, grid boundary, blank black space, orientation and object footprint EXACTLY. Do not rearrange or merge cells. Do not make a complete scene. Redraw details with much clearer forms. Neighboring pieces must connect seamlessly. Preserve all signs and inscriptions as source glyph silhouettes; never replace characters with guessed words. Original 32px tile boundaries must remain at the identical proportional coordinates. Increase resolution while keeping the entire canvas aspect ratio. No borders or extra objects. This is a candidate atlas for later geometry and lettering validation.",
+    "size": "auto"
+  },
+  {
+    "id": "bank-037948-07852a-0ddb08-pixel-hd",
+    "kind": "map-bank",
+    "style": "pixel-hd",
+    "reference": "bank-037948-07852a-0ddb08.png",
+    "prompt": "Edit this modular RPG environment atlas in modern crisp high-definition JRPG pixel art, clean clustered shading and sharp readable details. Preserve every tile position, size ratio, grid boundary, blank black space, orientation and object footprint EXACTLY. Do not rearrange or merge cells. Do not make a complete scene. Redraw details with much clearer forms. Neighboring pieces must connect seamlessly. Preserve all signs and inscriptions as source glyph silhouettes; never replace characters with guessed words. Original 32px tile boundaries must remain at the identical proportional coordinates. Increase resolution while keeping the entire canvas aspect ratio. No borders or extra objects. This is a candidate atlas for later geometry and lettering validation.",
+    "size": "auto"
+  },
+  {
+    "id": "bank-037948-07852a-0ddb08-unreal",
+    "kind": "map-bank",
+    "style": "unreal",
+    "reference": "bank-037948-07852a-0ddb08.png",
+    "prompt": "Edit this modular RPG environment atlas in Unreal Engine quality stylized-realistic PBR game assets, clear silhouettes and soft neutral lighting. Preserve every tile position, size ratio, grid boundary, blank black space, orientation and object footprint EXACTLY. Do not rearrange or merge cells. Do not make a complete scene. Redraw details with much clearer forms. Neighboring pieces must connect seamlessly. Preserve all signs and inscriptions as source glyph silhouettes; never replace characters with guessed words. Original 32px tile boundaries must remain at the identical proportional coordinates. Increase resolution while keeping the entire canvas aspect ratio. No borders or extra objects. This is a candidate atlas for later geometry and lettering validation.",
+    "size": "auto"
+  },
+  {
+    "id": "bank-037948-07852a-0ddb08-ghibli",
+    "kind": "map-bank",
+    "style": "ghibli",
+    "reference": "bank-037948-07852a-0ddb08.png",
+    "prompt": "Edit this modular RPG environment atlas in Studio Ghibli inspired hand-painted animation background art, refined clear shapes and warm colors. Preserve every tile position, size ratio, grid boundary, blank black space, orientation and object footprint EXACTLY. Do not rearrange or merge cells. Do not make a complete scene. Redraw details with much clearer forms. Neighboring pieces must connect seamlessly. Preserve all signs and inscriptions as source glyph silhouettes; never replace characters with guessed words. Original 32px tile boundaries must remain at the identical proportional coordinates. Increase resolution while keeping the entire canvas aspect ratio. No borders or extra objects. This is a candidate atlas for later geometry and lettering validation.",
+    "size": "auto"
+  },
+  {
+    "id": "bank-04b710-07a56a-0ddb48-pixel-hd",
+    "kind": "map-bank",
+    "style": "pixel-hd",
+    "reference": "bank-04b710-07a56a-0ddb48.png",
+    "prompt": "Edit this modular RPG environment atlas in modern crisp high-definition JRPG pixel art, clean clustered shading and sharp readable details. Preserve every tile position, size ratio, grid boundary, blank black space, orientation and object footprint EXACTLY. Do not rearrange or merge cells. Do not make a complete scene. Redraw details with much clearer forms. Neighboring pieces must connect seamlessly. Preserve all signs and inscriptions as source glyph silhouettes; never replace characters with guessed words. Original 32px tile boundaries must remain at the identical proportional coordinates. Increase resolution while keeping the entire canvas aspect ratio. No borders or extra objects. This is a candidate atlas for later geometry and lettering validation.",
+    "size": "auto"
+  },
+  {
+    "id": "bank-04b710-07a56a-0ddb48-unreal",
+    "kind": "map-bank",
+    "style": "unreal",
+    "reference": "bank-04b710-07a56a-0ddb48.png",
+    "prompt": "Edit this modular RPG environment atlas in Unreal Engine quality stylized-realistic PBR game assets, clear silhouettes and soft neutral lighting. Preserve every tile position, size ratio, grid boundary, blank black space, orientation and object footprint EXACTLY. Do not rearrange or merge cells. Do not make a complete scene. Redraw details with much clearer forms. Neighboring pieces must connect seamlessly. Preserve all signs and inscriptions as source glyph silhouettes; never replace characters with guessed words. Original 32px tile boundaries must remain at the identical proportional coordinates. Increase resolution while keeping the entire canvas aspect ratio. No borders or extra objects. This is a candidate atlas for later geometry and lettering validation.",
+    "size": "auto"
+  },
+  {
+    "id": "bank-04b710-07a56a-0ddb48-ghibli",
+    "kind": "map-bank",
+    "style": "ghibli",
+    "reference": "bank-04b710-07a56a-0ddb48.png",
+    "prompt": "Edit this modular RPG environment atlas in Studio Ghibli inspired hand-painted animation background art, refined clear shapes and warm colors. Preserve every tile position, size ratio, grid boundary, blank black space, orientation and object footprint EXACTLY. Do not rearrange or merge cells. Do not make a complete scene. Redraw details with much clearer forms. Neighboring pieces must connect seamlessly. Preserve all signs and inscriptions as source glyph silhouettes; never replace characters with guessed words. Original 32px tile boundaries must remain at the identical proportional coordinates. Increase resolution while keeping the entire canvas aspect ratio. No borders or extra objects. This is a candidate atlas for later geometry and lettering validation.",
+    "size": "auto"
+  },
+  {
+    "id": "bank-04ed72-07afaa-0ddb88-pixel-hd",
+    "kind": "map-bank",
+    "style": "pixel-hd",
+    "reference": "bank-04ed72-07afaa-0ddb88.png",
+    "prompt": "Edit this modular RPG environment atlas in modern crisp high-definition JRPG pixel art, clean clustered shading and sharp readable details. Preserve every tile position, size ratio, grid boundary, blank black space, orientation and object footprint EXACTLY. Do not rearrange or merge cells. Do not make a complete scene. Redraw details with much clearer forms. Neighboring pieces must connect seamlessly. Preserve all signs and inscriptions as source glyph silhouettes; never replace characters with guessed words. Original 32px tile boundaries must remain at the identical proportional coordinates. Increase resolution while keeping the entire canvas aspect ratio. No borders or extra objects. This is a candidate atlas for later geometry and lettering validation.",
+    "size": "auto"
+  },
+  {
+    "id": "bank-04ed72-07afaa-0ddb88-unreal",
+    "kind": "map-bank",
+    "style": "unreal",
+    "reference": "bank-04ed72-07afaa-0ddb88.png",
+    "prompt": "Edit this modular RPG environment atlas in Unreal Engine quality stylized-realistic PBR game assets, clear silhouettes and soft neutral lighting. Preserve every tile position, size ratio, grid boundary, blank black space, orientation and object footprint EXACTLY. Do not rearrange or merge cells. Do not make a complete scene. Redraw details with much clearer forms. Neighboring pieces must connect seamlessly. Preserve all signs and inscriptions as source glyph silhouettes; never replace characters with guessed words. Original 32px tile boundaries must remain at the identical proportional coordinates. Increase resolution while keeping the entire canvas aspect ratio. No borders or extra objects. This is a candidate atlas for later geometry and lettering validation.",
+    "size": "auto"
+  },
+  {
+    "id": "bank-04ed72-07afaa-0ddb88-ghibli",
+    "kind": "map-bank",
+    "style": "ghibli",
+    "reference": "bank-04ed72-07afaa-0ddb88.png",
+    "prompt": "Edit this modular RPG environment atlas in Studio Ghibli inspired hand-painted animation background art, refined clear shapes and warm colors. Preserve every tile position, size ratio, grid boundary, blank black space, orientation and object footprint EXACTLY. Do not rearrange or merge cells. Do not make a complete scene. Redraw details with much clearer forms. Neighboring pieces must connect seamlessly. Preserve all signs and inscriptions as source glyph silhouettes; never replace characters with guessed words. Original 32px tile boundaries must remain at the identical proportional coordinates. Increase resolution while keeping the entire canvas aspect ratio. No borders or extra objects. This is a candidate atlas for later geometry and lettering validation.",
+    "size": "auto"
+  },
+  {
+    "id": "bank-0471ae-079eea-0ddbc8-pixel-hd",
+    "kind": "map-bank",
+    "style": "pixel-hd",
+    "reference": "bank-0471ae-079eea-0ddbc8.png",
+    "prompt": "Edit this modular RPG environment atlas in modern crisp high-definition JRPG pixel art, clean clustered shading and sharp readable details. Preserve every tile position, size ratio, grid boundary, blank black space, orientation and object footprint EXACTLY. Do not rearrange or merge cells. Do not make a complete scene. Redraw details with much clearer forms. Neighboring pieces must connect seamlessly. Preserve all signs and inscriptions as source glyph silhouettes; never replace characters with guessed words. Original 32px tile boundaries must remain at the identical proportional coordinates. Increase resolution while keeping the entire canvas aspect ratio. No borders or extra objects. This is a candidate atlas for later geometry and lettering validation.",
+    "size": "auto"
+  },
+  {
+    "id": "bank-0471ae-079eea-0ddbc8-unreal",
+    "kind": "map-bank",
+    "style": "unreal",
+    "reference": "bank-0471ae-079eea-0ddbc8.png",
+    "prompt": "Edit this modular RPG environment atlas in Unreal Engine quality stylized-realistic PBR game assets, clear silhouettes and soft neutral lighting. Preserve every tile position, size ratio, grid boundary, blank black space, orientation and object footprint EXACTLY. Do not rearrange or merge cells. Do not make a complete scene. Redraw details with much clearer forms. Neighboring pieces must connect seamlessly. Preserve all signs and inscriptions as source glyph silhouettes; never replace characters with guessed words. Original 32px tile boundaries must remain at the identical proportional coordinates. Increase resolution while keeping the entire canvas aspect ratio. No borders or extra objects. This is a candidate atlas for later geometry and lettering validation.",
+    "size": "auto"
+  },
+  {
+    "id": "bank-0471ae-079eea-0ddbc8-ghibli",
+    "kind": "map-bank",
+    "style": "ghibli",
+    "reference": "bank-0471ae-079eea-0ddbc8.png",
+    "prompt": "Edit this modular RPG environment atlas in Studio Ghibli inspired hand-painted animation background art, refined clear shapes and warm colors. Preserve every tile position, size ratio, grid boundary, blank black space, orientation and object footprint EXACTLY. Do not rearrange or merge cells. Do not make a complete scene. Redraw details with much clearer forms. Neighboring pieces must connect seamlessly. Preserve all signs and inscriptions as source glyph silhouettes; never replace characters with guessed words. Original 32px tile boundaries must remain at the identical proportional coordinates. Increase resolution while keeping the entire canvas aspect ratio. No borders or extra objects. This is a candidate atlas for later geometry and lettering validation.",
+    "size": "auto"
+  },
+  {
+    "id": "bank-032386-0772aa-0ddc08-pixel-hd",
+    "kind": "map-bank",
+    "style": "pixel-hd",
+    "reference": "bank-032386-0772aa-0ddc08.png",
+    "prompt": "Edit this modular RPG environment atlas in modern crisp high-definition JRPG pixel art, clean clustered shading and sharp readable details. Preserve every tile position, size ratio, grid boundary, blank black space, orientation and object footprint EXACTLY. Do not rearrange or merge cells. Do not make a complete scene. Redraw details with much clearer forms. Neighboring pieces must connect seamlessly. Preserve all signs and inscriptions as source glyph silhouettes; never replace characters with guessed words. Original 32px tile boundaries must remain at the identical proportional coordinates. Increase resolution while keeping the entire canvas aspect ratio. No borders or extra objects. This is a candidate atlas for later geometry and lettering validation.",
+    "size": "auto"
+  },
+  {
+    "id": "bank-032386-0772aa-0ddc08-unreal",
+    "kind": "map-bank",
+    "style": "unreal",
+    "reference": "bank-032386-0772aa-0ddc08.png",
+    "prompt": "Edit this modular RPG environment atlas in Unreal Engine quality stylized-realistic PBR game assets, clear silhouettes and soft neutral lighting. Preserve every tile position, size ratio, grid boundary, blank black space, orientation and object footprint EXACTLY. Do not rearrange or merge cells. Do not make a complete scene. Redraw details with much clearer forms. Neighboring pieces must connect seamlessly. Preserve all signs and inscriptions as source glyph silhouettes; never replace characters with guessed words. Original 32px tile boundaries must remain at the identical proportional coordinates. Increase resolution while keeping the entire canvas aspect ratio. No borders or extra objects. This is a candidate atlas for later geometry and lettering validation.",
+    "size": "auto"
+  },
+  {
+    "id": "bank-032386-0772aa-0ddc08-ghibli",
+    "kind": "map-bank",
+    "style": "ghibli",
+    "reference": "bank-032386-0772aa-0ddc08.png",
+    "prompt": "Edit this modular RPG environment atlas in Studio Ghibli inspired hand-painted animation background art, refined clear shapes and warm colors. Preserve every tile position, size ratio, grid boundary, blank black space, orientation and object footprint EXACTLY. Do not rearrange or merge cells. Do not make a complete scene. Redraw details with much clearer forms. Neighboring pieces must connect seamlessly. Preserve all signs and inscriptions as source glyph silhouettes; never replace characters with guessed words. Original 32px tile boundaries must remain at the identical proportional coordinates. Increase resolution while keeping the entire canvas aspect ratio. No borders or extra objects. This is a candidate atlas for later geometry and lettering validation.",
+    "size": "auto"
+  },
+  {
+    "id": "bank-037948-07852a-0ddc48-pixel-hd",
+    "kind": "map-bank",
+    "style": "pixel-hd",
+    "reference": "bank-037948-07852a-0ddc48.png",
+    "prompt": "Edit this modular RPG environment atlas in modern crisp high-definition JRPG pixel art, clean clustered shading and sharp readable details. Preserve every tile position, size ratio, grid boundary, blank black space, orientation and object footprint EXACTLY. Do not rearrange or merge cells. Do not make a complete scene. Redraw details with much clearer forms. Neighboring pieces must connect seamlessly. Preserve all signs and inscriptions as source glyph silhouettes; never replace characters with guessed words. Original 32px tile boundaries must remain at the identical proportional coordinates. Increase resolution while keeping the entire canvas aspect ratio. No borders or extra objects. This is a candidate atlas for later geometry and lettering validation.",
+    "size": "auto"
+  },
+  {
+    "id": "bank-037948-07852a-0ddc48-unreal",
+    "kind": "map-bank",
+    "style": "unreal",
+    "reference": "bank-037948-07852a-0ddc48.png",
+    "prompt": "Edit this modular RPG environment atlas in Unreal Engine quality stylized-realistic PBR game assets, clear silhouettes and soft neutral lighting. Preserve every tile position, size ratio, grid boundary, blank black space, orientation and object footprint EXACTLY. Do not rearrange or merge cells. Do not make a complete scene. Redraw details with much clearer forms. Neighboring pieces must connect seamlessly. Preserve all signs and inscriptions as source glyph silhouettes; never replace characters with guessed words. Original 32px tile boundaries must remain at the identical proportional coordinates. Increase resolution while keeping the entire canvas aspect ratio. No borders or extra objects. This is a candidate atlas for later geometry and lettering validation.",
+    "size": "auto"
+  },
+  {
+    "id": "bank-037948-07852a-0ddc48-ghibli",
+    "kind": "map-bank",
+    "style": "ghibli",
+    "reference": "bank-037948-07852a-0ddc48.png",
+    "prompt": "Edit this modular RPG environment atlas in Studio Ghibli inspired hand-painted animation background art, refined clear shapes and warm colors. Preserve every tile position, size ratio, grid boundary, blank black space, orientation and object footprint EXACTLY. Do not rearrange or merge cells. Do not make a complete scene. Redraw details with much clearer forms. Neighboring pieces must connect seamlessly. Preserve all signs and inscriptions as source glyph silhouettes; never replace characters with guessed words. Original 32px tile boundaries must remain at the identical proportional coordinates. Increase resolution while keeping the entire canvas aspect ratio. No borders or extra objects. This is a candidate atlas for later geometry and lettering validation.",
+    "size": "auto"
+  },
+  {
+    "id": "bank-037948-07bdaa-0ddc48-pixel-hd",
+    "kind": "map-bank",
+    "style": "pixel-hd",
+    "reference": "bank-037948-07bdaa-0ddc48.png",
+    "prompt": "Edit this modular RPG environment atlas in modern crisp high-definition JRPG pixel art, clean clustered shading and sharp readable details. Preserve every tile position, size ratio, grid boundary, blank black space, orientation and object footprint EXACTLY. Do not rearrange or merge cells. Do not make a complete scene. Redraw details with much clearer forms. Neighboring pieces must connect seamlessly. Preserve all signs and inscriptions as source glyph silhouettes; never replace characters with guessed words. Original 32px tile boundaries must remain at the identical proportional coordinates. Increase resolution while keeping the entire canvas aspect ratio. No borders or extra objects. This is a candidate atlas for later geometry and lettering validation.",
+    "size": "auto"
+  },
+  {
+    "id": "bank-037948-07bdaa-0ddc48-unreal",
+    "kind": "map-bank",
+    "style": "unreal",
+    "reference": "bank-037948-07bdaa-0ddc48.png",
+    "prompt": "Edit this modular RPG environment atlas in Unreal Engine quality stylized-realistic PBR game assets, clear silhouettes and soft neutral lighting. Preserve every tile position, size ratio, grid boundary, blank black space, orientation and object footprint EXACTLY. Do not rearrange or merge cells. Do not make a complete scene. Redraw details with much clearer forms. Neighboring pieces must connect seamlessly. Preserve all signs and inscriptions as source glyph silhouettes; never replace characters with guessed words. Original 32px tile boundaries must remain at the identical proportional coordinates. Increase resolution while keeping the entire canvas aspect ratio. No borders or extra objects. This is a candidate atlas for later geometry and lettering validation.",
+    "size": "auto"
+  },
+  {
+    "id": "bank-037948-07bdaa-0ddc48-ghibli",
+    "kind": "map-bank",
+    "style": "ghibli",
+    "reference": "bank-037948-07bdaa-0ddc48.png",
+    "prompt": "Edit this modular RPG environment atlas in Studio Ghibli inspired hand-painted animation background art, refined clear shapes and warm colors. Preserve every tile position, size ratio, grid boundary, blank black space, orientation and object footprint EXACTLY. Do not rearrange or merge cells. Do not make a complete scene. Redraw details with much clearer forms. Neighboring pieces must connect seamlessly. Preserve all signs and inscriptions as source glyph silhouettes; never replace characters with guessed words. Original 32px tile boundaries must remain at the identical proportional coordinates. Increase resolution while keeping the entire canvas aspect ratio. No borders or extra objects. This is a candidate atlas for later geometry and lettering validation.",
+    "size": "auto"
+  },
+  {
+    "id": "bank-053fd4-07cbea-0ddc88-pixel-hd",
+    "kind": "map-bank",
+    "style": "pixel-hd",
+    "reference": "bank-053fd4-07cbea-0ddc88.png",
+    "prompt": "Edit this modular RPG environment atlas in modern crisp high-definition JRPG pixel art, clean clustered shading and sharp readable details. Preserve every tile position, size ratio, grid boundary, blank black space, orientation and object footprint EXACTLY. Do not rearrange or merge cells. Do not make a complete scene. Redraw details with much clearer forms. Neighboring pieces must connect seamlessly. Preserve all signs and inscriptions as source glyph silhouettes; never replace characters with guessed words. Original 32px tile boundaries must remain at the identical proportional coordinates. Increase resolution while keeping the entire canvas aspect ratio. No borders or extra objects. This is a candidate atlas for later geometry and lettering validation.",
+    "size": "auto"
+  },
+  {
+    "id": "bank-053fd4-07cbea-0ddc88-unreal",
+    "kind": "map-bank",
+    "style": "unreal",
+    "reference": "bank-053fd4-07cbea-0ddc88.png",
+    "prompt": "Edit this modular RPG environment atlas in Unreal Engine quality stylized-realistic PBR game assets, clear silhouettes and soft neutral lighting. Preserve every tile position, size ratio, grid boundary, blank black space, orientation and object footprint EXACTLY. Do not rearrange or merge cells. Do not make a complete scene. Redraw details with much clearer forms. Neighboring pieces must connect seamlessly. Preserve all signs and inscriptions as source glyph silhouettes; never replace characters with guessed words. Original 32px tile boundaries must remain at the identical proportional coordinates. Increase resolution while keeping the entire canvas aspect ratio. No borders or extra objects. This is a candidate atlas for later geometry and lettering validation.",
+    "size": "auto"
+  },
+  {
+    "id": "bank-053fd4-07cbea-0ddc88-ghibli",
+    "kind": "map-bank",
+    "style": "ghibli",
+    "reference": "bank-053fd4-07cbea-0ddc88.png",
+    "prompt": "Edit this modular RPG environment atlas in Studio Ghibli inspired hand-painted animation background art, refined clear shapes and warm colors. Preserve every tile position, size ratio, grid boundary, blank black space, orientation and object footprint EXACTLY. Do not rearrange or merge cells. Do not make a complete scene. Redraw details with much clearer forms. Neighboring pieces must connect seamlessly. Preserve all signs and inscriptions as source glyph silhouettes; never replace characters with guessed words. Original 32px tile boundaries must remain at the identical proportional coordinates. Increase resolution while keeping the entire canvas aspect ratio. No borders or extra objects. This is a candidate atlas for later geometry and lettering validation.",
+    "size": "auto"
+  },
+  {
+    "id": "bank-059976-07d64a-0ddcc8-pixel-hd",
+    "kind": "map-bank",
+    "style": "pixel-hd",
+    "reference": "bank-059976-07d64a-0ddcc8.png",
+    "prompt": "Edit this modular RPG environment atlas in modern crisp high-definition JRPG pixel art, clean clustered shading and sharp readable details. Preserve every tile position, size ratio, grid boundary, blank black space, orientation and object footprint EXACTLY. Do not rearrange or merge cells. Do not make a complete scene. Redraw details with much clearer forms. Neighboring pieces must connect seamlessly. Preserve all signs and inscriptions as source glyph silhouettes; never replace characters with guessed words. Original 32px tile boundaries must remain at the identical proportional coordinates. Increase resolution while keeping the entire canvas aspect ratio. No borders or extra objects. This is a candidate atlas for later geometry and lettering validation.",
+    "size": "auto"
+  },
+  {
+    "id": "bank-059976-07d64a-0ddcc8-unreal",
+    "kind": "map-bank",
+    "style": "unreal",
+    "reference": "bank-059976-07d64a-0ddcc8.png",
+    "prompt": "Edit this modular RPG environment atlas in Unreal Engine quality stylized-realistic PBR game assets, clear silhouettes and soft neutral lighting. Preserve every tile position, size ratio, grid boundary, blank black space, orientation and object footprint EXACTLY. Do not rearrange or merge cells. Do not make a complete scene. Redraw details with much clearer forms. Neighboring pieces must connect seamlessly. Preserve all signs and inscriptions as source glyph silhouettes; never replace characters with guessed words. Original 32px tile boundaries must remain at the identical proportional coordinates. Increase resolution while keeping the entire canvas aspect ratio. No borders or extra objects. This is a candidate atlas for later geometry and lettering validation.",
+    "size": "auto"
+  },
+  {
+    "id": "bank-059976-07d64a-0ddcc8-ghibli",
+    "kind": "map-bank",
+    "style": "ghibli",
+    "reference": "bank-059976-07d64a-0ddcc8.png",
+    "prompt": "Edit this modular RPG environment atlas in Studio Ghibli inspired hand-painted animation background art, refined clear shapes and warm colors. Preserve every tile position, size ratio, grid boundary, blank black space, orientation and object footprint EXACTLY. Do not rearrange or merge cells. Do not make a complete scene. Redraw details with much clearer forms. Neighboring pieces must connect seamlessly. Preserve all signs and inscriptions as source glyph silhouettes; never replace characters with guessed words. Original 32px tile boundaries must remain at the identical proportional coordinates. Increase resolution while keeping the entire canvas aspect ratio. No borders or extra objects. This is a candidate atlas for later geometry and lettering validation.",
+    "size": "auto"
+  },
+  {
+    "id": "bank-04ed72-07afaa-0ddd08-pixel-hd",
+    "kind": "map-bank",
+    "style": "pixel-hd",
+    "reference": "bank-04ed72-07afaa-0ddd08.png",
+    "prompt": "Edit this modular RPG environment atlas in modern crisp high-definition JRPG pixel art, clean clustered shading and sharp readable details. Preserve every tile position, size ratio, grid boundary, blank black space, orientation and object footprint EXACTLY. Do not rearrange or merge cells. Do not make a complete scene. Redraw details with much clearer forms. Neighboring pieces must connect seamlessly. Preserve all signs and inscriptions as source glyph silhouettes; never replace characters with guessed words. Original 32px tile boundaries must remain at the identical proportional coordinates. Increase resolution while keeping the entire canvas aspect ratio. No borders or extra objects. This is a candidate atlas for later geometry and lettering validation.",
+    "size": "auto"
+  },
+  {
+    "id": "bank-04ed72-07afaa-0ddd08-unreal",
+    "kind": "map-bank",
+    "style": "unreal",
+    "reference": "bank-04ed72-07afaa-0ddd08.png",
+    "prompt": "Edit this modular RPG environment atlas in Unreal Engine quality stylized-realistic PBR game assets, clear silhouettes and soft neutral lighting. Preserve every tile position, size ratio, grid boundary, blank black space, orientation and object footprint EXACTLY. Do not rearrange or merge cells. Do not make a complete scene. Redraw details with much clearer forms. Neighboring pieces must connect seamlessly. Preserve all signs and inscriptions as source glyph silhouettes; never replace characters with guessed words. Original 32px tile boundaries must remain at the identical proportional coordinates. Increase resolution while keeping the entire canvas aspect ratio. No borders or extra objects. This is a candidate atlas for later geometry and lettering validation.",
+    "size": "auto"
+  },
+  {
+    "id": "bank-04ed72-07afaa-0ddd08-ghibli",
+    "kind": "map-bank",
+    "style": "ghibli",
+    "reference": "bank-04ed72-07afaa-0ddd08.png",
+    "prompt": "Edit this modular RPG environment atlas in Studio Ghibli inspired hand-painted animation background art, refined clear shapes and warm colors. Preserve every tile position, size ratio, grid boundary, blank black space, orientation and object footprint EXACTLY. Do not rearrange or merge cells. Do not make a complete scene. Redraw details with much clearer forms. Neighboring pieces must connect seamlessly. Preserve all signs and inscriptions as source glyph silhouettes; never replace characters with guessed words. Original 32px tile boundaries must remain at the identical proportional coordinates. Increase resolution while keeping the entire canvas aspect ratio. No borders or extra objects. This is a candidate atlas for later geometry and lettering validation.",
+    "size": "auto"
+  },
+  {
+    "id": "bank-0471ae-079eea-0ddd48-pixel-hd",
+    "kind": "map-bank",
+    "style": "pixel-hd",
+    "reference": "bank-0471ae-079eea-0ddd48.png",
+    "prompt": "Edit this modular RPG environment atlas in modern crisp high-definition JRPG pixel art, clean clustered shading and sharp readable details. Preserve every tile position, size ratio, grid boundary, blank black space, orientation and object footprint EXACTLY. Do not rearrange or merge cells. Do not make a complete scene. Redraw details with much clearer forms. Neighboring pieces must connect seamlessly. Preserve all signs and inscriptions as source glyph silhouettes; never replace characters with guessed words. Original 32px tile boundaries must remain at the identical proportional coordinates. Increase resolution while keeping the entire canvas aspect ratio. No borders or extra objects. This is a candidate atlas for later geometry and lettering validation.",
+    "size": "auto"
+  },
+  {
+    "id": "bank-0471ae-079eea-0ddd48-unreal",
+    "kind": "map-bank",
+    "style": "unreal",
+    "reference": "bank-0471ae-079eea-0ddd48.png",
+    "prompt": "Edit this modular RPG environment atlas in Unreal Engine quality stylized-realistic PBR game assets, clear silhouettes and soft neutral lighting. Preserve every tile position, size ratio, grid boundary, blank black space, orientation and object footprint EXACTLY. Do not rearrange or merge cells. Do not make a complete scene. Redraw details with much clearer forms. Neighboring pieces must connect seamlessly. Preserve all signs and inscriptions as source glyph silhouettes; never replace characters with guessed words. Original 32px tile boundaries must remain at the identical proportional coordinates. Increase resolution while keeping the entire canvas aspect ratio. No borders or extra objects. This is a candidate atlas for later geometry and lettering validation.",
+    "size": "auto"
+  },
+  {
+    "id": "bank-0471ae-079eea-0ddd48-ghibli",
+    "kind": "map-bank",
+    "style": "ghibli",
+    "reference": "bank-0471ae-079eea-0ddd48.png",
+    "prompt": "Edit this modular RPG environment atlas in Studio Ghibli inspired hand-painted animation background art, refined clear shapes and warm colors. Preserve every tile position, size ratio, grid boundary, blank black space, orientation and object footprint EXACTLY. Do not rearrange or merge cells. Do not make a complete scene. Redraw details with much clearer forms. Neighboring pieces must connect seamlessly. Preserve all signs and inscriptions as source glyph silhouettes; never replace characters with guessed words. Original 32px tile boundaries must remain at the identical proportional coordinates. Increase resolution while keeping the entire canvas aspect ratio. No borders or extra objects. This is a candidate atlas for later geometry and lettering validation.",
+    "size": "auto"
+  },
+  {
+    "id": "bank-05f018-07e08a-0dd948-pixel-hd",
+    "kind": "map-bank",
+    "style": "pixel-hd",
+    "reference": "bank-05f018-07e08a-0dd948.png",
+    "prompt": "Edit this modular RPG environment atlas in modern crisp high-definition JRPG pixel art, clean clustered shading and sharp readable details. Preserve every tile position, size ratio, grid boundary, blank black space, orientation and object footprint EXACTLY. Do not rearrange or merge cells. Do not make a complete scene. Redraw details with much clearer forms. Neighboring pieces must connect seamlessly. Preserve all signs and inscriptions as source glyph silhouettes; never replace characters with guessed words. Original 32px tile boundaries must remain at the identical proportional coordinates. Increase resolution while keeping the entire canvas aspect ratio. No borders or extra objects. This is a candidate atlas for later geometry and lettering validation.",
+    "size": "auto"
+  },
+  {
+    "id": "bank-05f018-07e08a-0dd948-unreal",
+    "kind": "map-bank",
+    "style": "unreal",
+    "reference": "bank-05f018-07e08a-0dd948.png",
+    "prompt": "Edit this modular RPG environment atlas in Unreal Engine quality stylized-realistic PBR game assets, clear silhouettes and soft neutral lighting. Preserve every tile position, size ratio, grid boundary, blank black space, orientation and object footprint EXACTLY. Do not rearrange or merge cells. Do not make a complete scene. Redraw details with much clearer forms. Neighboring pieces must connect seamlessly. Preserve all signs and inscriptions as source glyph silhouettes; never replace characters with guessed words. Original 32px tile boundaries must remain at the identical proportional coordinates. Increase resolution while keeping the entire canvas aspect ratio. No borders or extra objects. This is a candidate atlas for later geometry and lettering validation.",
+    "size": "auto"
+  },
+  {
+    "id": "bank-05f018-07e08a-0dd948-ghibli",
+    "kind": "map-bank",
+    "style": "ghibli",
+    "reference": "bank-05f018-07e08a-0dd948.png",
+    "prompt": "Edit this modular RPG environment atlas in Studio Ghibli inspired hand-painted animation background art, refined clear shapes and warm colors. Preserve every tile position, size ratio, grid boundary, blank black space, orientation and object footprint EXACTLY. Do not rearrange or merge cells. Do not make a complete scene. Redraw details with much clearer forms. Neighboring pieces must connect seamlessly. Preserve all signs and inscriptions as source glyph silhouettes; never replace characters with guessed words. Original 32px tile boundaries must remain at the identical proportional coordinates. Increase resolution while keeping the entire canvas aspect ratio. No borders or extra objects. This is a candidate atlas for later geometry and lettering validation.",
+    "size": "auto"
+  },
+  {
+    "id": "bank-037948-07852a-0ddd88-pixel-hd",
+    "kind": "map-bank",
+    "style": "pixel-hd",
+    "reference": "bank-037948-07852a-0ddd88.png",
+    "prompt": "Edit this modular RPG environment atlas in modern crisp high-definition JRPG pixel art, clean clustered shading and sharp readable details. Preserve every tile position, size ratio, grid boundary, blank black space, orientation and object footprint EXACTLY. Do not rearrange or merge cells. Do not make a complete scene. Redraw details with much clearer forms. Neighboring pieces must connect seamlessly. Preserve all signs and inscriptions as source glyph silhouettes; never replace characters with guessed words. Original 32px tile boundaries must remain at the identical proportional coordinates. Increase resolution while keeping the entire canvas aspect ratio. No borders or extra objects. This is a candidate atlas for later geometry and lettering validation.",
+    "size": "auto"
+  },
+  {
+    "id": "bank-037948-07852a-0ddd88-unreal",
+    "kind": "map-bank",
+    "style": "unreal",
+    "reference": "bank-037948-07852a-0ddd88.png",
+    "prompt": "Edit this modular RPG environment atlas in Unreal Engine quality stylized-realistic PBR game assets, clear silhouettes and soft neutral lighting. Preserve every tile position, size ratio, grid boundary, blank black space, orientation and object footprint EXACTLY. Do not rearrange or merge cells. Do not make a complete scene. Redraw details with much clearer forms. Neighboring pieces must connect seamlessly. Preserve all signs and inscriptions as source glyph silhouettes; never replace characters with guessed words. Original 32px tile boundaries must remain at the identical proportional coordinates. Increase resolution while keeping the entire canvas aspect ratio. No borders or extra objects. This is a candidate atlas for later geometry and lettering validation.",
+    "size": "auto"
+  },
+  {
+    "id": "bank-037948-07852a-0ddd88-ghibli",
+    "kind": "map-bank",
+    "style": "ghibli",
+    "reference": "bank-037948-07852a-0ddd88.png",
+    "prompt": "Edit this modular RPG environment atlas in Studio Ghibli inspired hand-painted animation background art, refined clear shapes and warm colors. Preserve every tile position, size ratio, grid boundary, blank black space, orientation and object footprint EXACTLY. Do not rearrange or merge cells. Do not make a complete scene. Redraw details with much clearer forms. Neighboring pieces must connect seamlessly. Preserve all signs and inscriptions as source glyph silhouettes; never replace characters with guessed words. Original 32px tile boundaries must remain at the identical proportional coordinates. Increase resolution while keeping the entire canvas aspect ratio. No borders or extra objects. This is a candidate atlas for later geometry and lettering validation.",
+    "size": "auto"
+  },
+  {
+    "id": "bank-059976-07d64a-0dddc8-pixel-hd",
+    "kind": "map-bank",
+    "style": "pixel-hd",
+    "reference": "bank-059976-07d64a-0dddc8.png",
+    "prompt": "Edit this modular RPG environment atlas in modern crisp high-definition JRPG pixel art, clean clustered shading and sharp readable details. Preserve every tile position, size ratio, grid boundary, blank black space, orientation and object footprint EXACTLY. Do not rearrange or merge cells. Do not make a complete scene. Redraw details with much clearer forms. Neighboring pieces must connect seamlessly. Preserve all signs and inscriptions as source glyph silhouettes; never replace characters with guessed words. Original 32px tile boundaries must remain at the identical proportional coordinates. Increase resolution while keeping the entire canvas aspect ratio. No borders or extra objects. This is a candidate atlas for later geometry and lettering validation.",
+    "size": "auto"
+  },
+  {
+    "id": "bank-059976-07d64a-0dddc8-unreal",
+    "kind": "map-bank",
+    "style": "unreal",
+    "reference": "bank-059976-07d64a-0dddc8.png",
+    "prompt": "Edit this modular RPG environment atlas in Unreal Engine quality stylized-realistic PBR game assets, clear silhouettes and soft neutral lighting. Preserve every tile position, size ratio, grid boundary, blank black space, orientation and object footprint EXACTLY. Do not rearrange or merge cells. Do not make a complete scene. Redraw details with much clearer forms. Neighboring pieces must connect seamlessly. Preserve all signs and inscriptions as source glyph silhouettes; never replace characters with guessed words. Original 32px tile boundaries must remain at the identical proportional coordinates. Increase resolution while keeping the entire canvas aspect ratio. No borders or extra objects. This is a candidate atlas for later geometry and lettering validation.",
+    "size": "auto"
+  },
+  {
+    "id": "bank-059976-07d64a-0dddc8-ghibli",
+    "kind": "map-bank",
+    "style": "ghibli",
+    "reference": "bank-059976-07d64a-0dddc8.png",
+    "prompt": "Edit this modular RPG environment atlas in Studio Ghibli inspired hand-painted animation background art, refined clear shapes and warm colors. Preserve every tile position, size ratio, grid boundary, blank black space, orientation and object footprint EXACTLY. Do not rearrange or merge cells. Do not make a complete scene. Redraw details with much clearer forms. Neighboring pieces must connect seamlessly. Preserve all signs and inscriptions as source glyph silhouettes; never replace characters with guessed words. Original 32px tile boundaries must remain at the identical proportional coordinates. Increase resolution while keeping the entire canvas aspect ratio. No borders or extra objects. This is a candidate atlas for later geometry and lettering validation.",
+    "size": "auto"
+  },
+  {
+    "id": "bank-053fd4-07cbea-0dde08-pixel-hd",
+    "kind": "map-bank",
+    "style": "pixel-hd",
+    "reference": "bank-053fd4-07cbea-0dde08.png",
+    "prompt": "Edit this modular RPG environment atlas in modern crisp high-definition JRPG pixel art, clean clustered shading and sharp readable details. Preserve every tile position, size ratio, grid boundary, blank black space, orientation and object footprint EXACTLY. Do not rearrange or merge cells. Do not make a complete scene. Redraw details with much clearer forms. Neighboring pieces must connect seamlessly. Preserve all signs and inscriptions as source glyph silhouettes; never replace characters with guessed words. Original 32px tile boundaries must remain at the identical proportional coordinates. Increase resolution while keeping the entire canvas aspect ratio. No borders or extra objects. This is a candidate atlas for later geometry and lettering validation.",
+    "size": "auto"
+  },
+  {
+    "id": "bank-053fd4-07cbea-0dde08-unreal",
+    "kind": "map-bank",
+    "style": "unreal",
+    "reference": "bank-053fd4-07cbea-0dde08.png",
+    "prompt": "Edit this modular RPG environment atlas in Unreal Engine quality stylized-realistic PBR game assets, clear silhouettes and soft neutral lighting. Preserve every tile position, size ratio, grid boundary, blank black space, orientation and object footprint EXACTLY. Do not rearrange or merge cells. Do not make a complete scene. Redraw details with much clearer forms. Neighboring pieces must connect seamlessly. Preserve all signs and inscriptions as source glyph silhouettes; never replace characters with guessed words. Original 32px tile boundaries must remain at the identical proportional coordinates. Increase resolution while keeping the entire canvas aspect ratio. No borders or extra objects. This is a candidate atlas for later geometry and lettering validation.",
+    "size": "auto"
+  },
+  {
+    "id": "bank-053fd4-07cbea-0dde08-ghibli",
+    "kind": "map-bank",
+    "style": "ghibli",
+    "reference": "bank-053fd4-07cbea-0dde08.png",
+    "prompt": "Edit this modular RPG environment atlas in Studio Ghibli inspired hand-painted animation background art, refined clear shapes and warm colors. Preserve every tile position, size ratio, grid boundary, blank black space, orientation and object footprint EXACTLY. Do not rearrange or merge cells. Do not make a complete scene. Redraw details with much clearer forms. Neighboring pieces must connect seamlessly. Preserve all signs and inscriptions as source glyph silhouettes; never replace characters with guessed words. Original 32px tile boundaries must remain at the identical proportional coordinates. Increase resolution while keeping the entire canvas aspect ratio. No borders or extra objects. This is a candidate atlas for later geometry and lettering validation.",
+    "size": "auto"
+  },
+  {
+    "id": "bank-04b710-07a56a-0dde48-pixel-hd",
+    "kind": "map-bank",
+    "style": "pixel-hd",
+    "reference": "bank-04b710-07a56a-0dde48.png",
+    "prompt": "Edit this modular RPG environment atlas in modern crisp high-definition JRPG pixel art, clean clustered shading and sharp readable details. Preserve every tile position, size ratio, grid boundary, blank black space, orientation and object footprint EXACTLY. Do not rearrange or merge cells. Do not make a complete scene. Redraw details with much clearer forms. Neighboring pieces must connect seamlessly. Preserve all signs and inscriptions as source glyph silhouettes; never replace characters with guessed words. Original 32px tile boundaries must remain at the identical proportional coordinates. Increase resolution while keeping the entire canvas aspect ratio. No borders or extra objects. This is a candidate atlas for later geometry and lettering validation.",
+    "size": "auto"
+  },
+  {
+    "id": "bank-04b710-07a56a-0dde48-unreal",
+    "kind": "map-bank",
+    "style": "unreal",
+    "reference": "bank-04b710-07a56a-0dde48.png",
+    "prompt": "Edit this modular RPG environment atlas in Unreal Engine quality stylized-realistic PBR game assets, clear silhouettes and soft neutral lighting. Preserve every tile position, size ratio, grid boundary, blank black space, orientation and object footprint EXACTLY. Do not rearrange or merge cells. Do not make a complete scene. Redraw details with much clearer forms. Neighboring pieces must connect seamlessly. Preserve all signs and inscriptions as source glyph silhouettes; never replace characters with guessed words. Original 32px tile boundaries must remain at the identical proportional coordinates. Increase resolution while keeping the entire canvas aspect ratio. No borders or extra objects. This is a candidate atlas for later geometry and lettering validation.",
+    "size": "auto"
+  },
+  {
+    "id": "bank-04b710-07a56a-0dde48-ghibli",
+    "kind": "map-bank",
+    "style": "ghibli",
+    "reference": "bank-04b710-07a56a-0dde48.png",
+    "prompt": "Edit this modular RPG environment atlas in Studio Ghibli inspired hand-painted animation background art, refined clear shapes and warm colors. Preserve every tile position, size ratio, grid boundary, blank black space, orientation and object footprint EXACTLY. Do not rearrange or merge cells. Do not make a complete scene. Redraw details with much clearer forms. Neighboring pieces must connect seamlessly. Preserve all signs and inscriptions as source glyph silhouettes; never replace characters with guessed words. Original 32px tile boundaries must remain at the identical proportional coordinates. Increase resolution while keeping the entire canvas aspect ratio. No borders or extra objects. This is a candidate atlas for later geometry and lettering validation.",
+    "size": "auto"
+  },
+  {
+    "id": "bank-06111a-07e50a-0dde88-pixel-hd",
+    "kind": "map-bank",
+    "style": "pixel-hd",
+    "reference": "bank-06111a-07e50a-0dde88.png",
+    "prompt": "Edit this modular RPG environment atlas in modern crisp high-definition JRPG pixel art, clean clustered shading and sharp readable details. Preserve every tile position, size ratio, grid boundary, blank black space, orientation and object footprint EXACTLY. Do not rearrange or merge cells. Do not make a complete scene. Redraw details with much clearer forms. Neighboring pieces must connect seamlessly. Preserve all signs and inscriptions as source glyph silhouettes; never replace characters with guessed words. Original 32px tile boundaries must remain at the identical proportional coordinates. Increase resolution while keeping the entire canvas aspect ratio. No borders or extra objects. This is a candidate atlas for later geometry and lettering validation.",
+    "size": "auto"
+  },
+  {
+    "id": "bank-06111a-07e50a-0dde88-unreal",
+    "kind": "map-bank",
+    "style": "unreal",
+    "reference": "bank-06111a-07e50a-0dde88.png",
+    "prompt": "Edit this modular RPG environment atlas in Unreal Engine quality stylized-realistic PBR game assets, clear silhouettes and soft neutral lighting. Preserve every tile position, size ratio, grid boundary, blank black space, orientation and object footprint EXACTLY. Do not rearrange or merge cells. Do not make a complete scene. Redraw details with much clearer forms. Neighboring pieces must connect seamlessly. Preserve all signs and inscriptions as source glyph silhouettes; never replace characters with guessed words. Original 32px tile boundaries must remain at the identical proportional coordinates. Increase resolution while keeping the entire canvas aspect ratio. No borders or extra objects. This is a candidate atlas for later geometry and lettering validation.",
+    "size": "auto"
+  },
+  {
+    "id": "bank-06111a-07e50a-0dde88-ghibli",
+    "kind": "map-bank",
+    "style": "ghibli",
+    "reference": "bank-06111a-07e50a-0dde88.png",
+    "prompt": "Edit this modular RPG environment atlas in Studio Ghibli inspired hand-painted animation background art, refined clear shapes and warm colors. Preserve every tile position, size ratio, grid boundary, blank black space, orientation and object footprint EXACTLY. Do not rearrange or merge cells. Do not make a complete scene. Redraw details with much clearer forms. Neighboring pieces must connect seamlessly. Preserve all signs and inscriptions as source glyph silhouettes; never replace characters with guessed words. Original 32px tile boundaries must remain at the identical proportional coordinates. Increase resolution while keeping the entire canvas aspect ratio. No borders or extra objects. This is a candidate atlas for later geometry and lettering validation.",
+    "size": "auto"
+  },
+  {
+    "id": "bank-066d5c-07efea-0ddec8-pixel-hd",
+    "kind": "map-bank",
+    "style": "pixel-hd",
+    "reference": "bank-066d5c-07efea-0ddec8.png",
+    "prompt": "Edit this modular RPG environment atlas in modern crisp high-definition JRPG pixel art, clean clustered shading and sharp readable details. Preserve every tile position, size ratio, grid boundary, blank black space, orientation and object footprint EXACTLY. Do not rearrange or merge cells. Do not make a complete scene. Redraw details with much clearer forms. Neighboring pieces must connect seamlessly. Preserve all signs and inscriptions as source glyph silhouettes; never replace characters with guessed words. Original 32px tile boundaries must remain at the identical proportional coordinates. Increase resolution while keeping the entire canvas aspect ratio. No borders or extra objects. This is a candidate atlas for later geometry and lettering validation.",
+    "size": "auto"
+  },
+  {
+    "id": "bank-066d5c-07efea-0ddec8-unreal",
+    "kind": "map-bank",
+    "style": "unreal",
+    "reference": "bank-066d5c-07efea-0ddec8.png",
+    "prompt": "Edit this modular RPG environment atlas in Unreal Engine quality stylized-realistic PBR game assets, clear silhouettes and soft neutral lighting. Preserve every tile position, size ratio, grid boundary, blank black space, orientation and object footprint EXACTLY. Do not rearrange or merge cells. Do not make a complete scene. Redraw details with much clearer forms. Neighboring pieces must connect seamlessly. Preserve all signs and inscriptions as source glyph silhouettes; never replace characters with guessed words. Original 32px tile boundaries must remain at the identical proportional coordinates. Increase resolution while keeping the entire canvas aspect ratio. No borders or extra objects. This is a candidate atlas for later geometry and lettering validation.",
+    "size": "auto"
+  },
+  {
+    "id": "bank-066d5c-07efea-0ddec8-ghibli",
+    "kind": "map-bank",
+    "style": "ghibli",
+    "reference": "bank-066d5c-07efea-0ddec8.png",
+    "prompt": "Edit this modular RPG environment atlas in Studio Ghibli inspired hand-painted animation background art, refined clear shapes and warm colors. Preserve every tile position, size ratio, grid boundary, blank black space, orientation and object footprint EXACTLY. Do not rearrange or merge cells. Do not make a complete scene. Redraw details with much clearer forms. Neighboring pieces must connect seamlessly. Preserve all signs and inscriptions as source glyph silhouettes; never replace characters with guessed words. Original 32px tile boundaries must remain at the identical proportional coordinates. Increase resolution while keeping the entire canvas aspect ratio. No borders or extra objects. This is a candidate atlas for later geometry and lettering validation.",
+    "size": "auto"
+  },
+  {
+    "id": "bank-0694fe-07f58a-0ddf08-pixel-hd",
+    "kind": "map-bank",
+    "style": "pixel-hd",
+    "reference": "bank-0694fe-07f58a-0ddf08.png",
+    "prompt": "Edit this modular RPG environment atlas in modern crisp high-definition JRPG pixel art, clean clustered shading and sharp readable details. Preserve every tile position, size ratio, grid boundary, blank black space, orientation and object footprint EXACTLY. Do not rearrange or merge cells. Do not make a complete scene. Redraw details with much clearer forms. Neighboring pieces must connect seamlessly. Preserve all signs and inscriptions as source glyph silhouettes; never replace characters with guessed words. Original 32px tile boundaries must remain at the identical proportional coordinates. Increase resolution while keeping the entire canvas aspect ratio. No borders or extra objects. This is a candidate atlas for later geometry and lettering validation.",
+    "size": "auto"
+  },
+  {
+    "id": "bank-0694fe-07f58a-0ddf08-unreal",
+    "kind": "map-bank",
+    "style": "unreal",
+    "reference": "bank-0694fe-07f58a-0ddf08.png",
+    "prompt": "Edit this modular RPG environment atlas in Unreal Engine quality stylized-realistic PBR game assets, clear silhouettes and soft neutral lighting. Preserve every tile position, size ratio, grid boundary, blank black space, orientation and object footprint EXACTLY. Do not rearrange or merge cells. Do not make a complete scene. Redraw details with much clearer forms. Neighboring pieces must connect seamlessly. Preserve all signs and inscriptions as source glyph silhouettes; never replace characters with guessed words. Original 32px tile boundaries must remain at the identical proportional coordinates. Increase resolution while keeping the entire canvas aspect ratio. No borders or extra objects. This is a candidate atlas for later geometry and lettering validation.",
+    "size": "auto"
+  },
+  {
+    "id": "bank-0694fe-07f58a-0ddf08-ghibli",
+    "kind": "map-bank",
+    "style": "ghibli",
+    "reference": "bank-0694fe-07f58a-0ddf08.png",
+    "prompt": "Edit this modular RPG environment atlas in Studio Ghibli inspired hand-painted animation background art, refined clear shapes and warm colors. Preserve every tile position, size ratio, grid boundary, blank black space, orientation and object footprint EXACTLY. Do not rearrange or merge cells. Do not make a complete scene. Redraw details with much clearer forms. Neighboring pieces must connect seamlessly. Preserve all signs and inscriptions as source glyph silhouettes; never replace characters with guessed words. Original 32px tile boundaries must remain at the identical proportional coordinates. Increase resolution while keeping the entire canvas aspect ratio. No borders or extra objects. This is a candidate atlas for later geometry and lettering validation.",
+    "size": "auto"
+  },
+  {
+    "id": "bank-0694fe-07f58a-0ddf48-pixel-hd",
+    "kind": "map-bank",
+    "style": "pixel-hd",
+    "reference": "bank-0694fe-07f58a-0ddf48.png",
+    "prompt": "Edit this modular RPG environment atlas in modern crisp high-definition JRPG pixel art, clean clustered shading and sharp readable details. Preserve every tile position, size ratio, grid boundary, blank black space, orientation and object footprint EXACTLY. Do not rearrange or merge cells. Do not make a complete scene. Redraw details with much clearer forms. Neighboring pieces must connect seamlessly. Preserve all signs and inscriptions as source glyph silhouettes; never replace characters with guessed words. Original 32px tile boundaries must remain at the identical proportional coordinates. Increase resolution while keeping the entire canvas aspect ratio. No borders or extra objects. This is a candidate atlas for later geometry and lettering validation.",
+    "size": "auto"
+  },
+  {
+    "id": "bank-0694fe-07f58a-0ddf48-unreal",
+    "kind": "map-bank",
+    "style": "unreal",
+    "reference": "bank-0694fe-07f58a-0ddf48.png",
+    "prompt": "Edit this modular RPG environment atlas in Unreal Engine quality stylized-realistic PBR game assets, clear silhouettes and soft neutral lighting. Preserve every tile position, size ratio, grid boundary, blank black space, orientation and object footprint EXACTLY. Do not rearrange or merge cells. Do not make a complete scene. Redraw details with much clearer forms. Neighboring pieces must connect seamlessly. Preserve all signs and inscriptions as source glyph silhouettes; never replace characters with guessed words. Original 32px tile boundaries must remain at the identical proportional coordinates. Increase resolution while keeping the entire canvas aspect ratio. No borders or extra objects. This is a candidate atlas for later geometry and lettering validation.",
+    "size": "auto"
+  },
+  {
+    "id": "bank-0694fe-07f58a-0ddf48-ghibli",
+    "kind": "map-bank",
+    "style": "ghibli",
+    "reference": "bank-0694fe-07f58a-0ddf48.png",
+    "prompt": "Edit this modular RPG environment atlas in Studio Ghibli inspired hand-painted animation background art, refined clear shapes and warm colors. Preserve every tile position, size ratio, grid boundary, blank black space, orientation and object footprint EXACTLY. Do not rearrange or merge cells. Do not make a complete scene. Redraw details with much clearer forms. Neighboring pieces must connect seamlessly. Preserve all signs and inscriptions as source glyph silhouettes; never replace characters with guessed words. Original 32px tile boundaries must remain at the identical proportional coordinates. Increase resolution while keeping the entire canvas aspect ratio. No borders or extra objects. This is a candidate atlas for later geometry and lettering validation.",
+    "size": "auto"
+  },
+  {
+    "id": "bank-06d4e0-07feca-0ddf88-pixel-hd",
+    "kind": "map-bank",
+    "style": "pixel-hd",
+    "reference": "bank-06d4e0-07feca-0ddf88.png",
+    "prompt": "Edit this modular RPG environment atlas in modern crisp high-definition JRPG pixel art, clean clustered shading and sharp readable details. Preserve every tile position, size ratio, grid boundary, blank black space, orientation and object footprint EXACTLY. Do not rearrange or merge cells. Do not make a complete scene. Redraw details with much clearer forms. Neighboring pieces must connect seamlessly. Preserve all signs and inscriptions as source glyph silhouettes; never replace characters with guessed words. Original 32px tile boundaries must remain at the identical proportional coordinates. Increase resolution while keeping the entire canvas aspect ratio. No borders or extra objects. This is a candidate atlas for later geometry and lettering validation.",
+    "size": "auto"
+  },
+  {
+    "id": "bank-06d4e0-07feca-0ddf88-unreal",
+    "kind": "map-bank",
+    "style": "unreal",
+    "reference": "bank-06d4e0-07feca-0ddf88.png",
+    "prompt": "Edit this modular RPG environment atlas in Unreal Engine quality stylized-realistic PBR game assets, clear silhouettes and soft neutral lighting. Preserve every tile position, size ratio, grid boundary, blank black space, orientation and object footprint EXACTLY. Do not rearrange or merge cells. Do not make a complete scene. Redraw details with much clearer forms. Neighboring pieces must connect seamlessly. Preserve all signs and inscriptions as source glyph silhouettes; never replace characters with guessed words. Original 32px tile boundaries must remain at the identical proportional coordinates. Increase resolution while keeping the entire canvas aspect ratio. No borders or extra objects. This is a candidate atlas for later geometry and lettering validation.",
+    "size": "auto"
+  },
+  {
+    "id": "bank-06d4e0-07feca-0ddf88-ghibli",
+    "kind": "map-bank",
+    "style": "ghibli",
+    "reference": "bank-06d4e0-07feca-0ddf88.png",
+    "prompt": "Edit this modular RPG environment atlas in Studio Ghibli inspired hand-painted animation background art, refined clear shapes and warm colors. Preserve every tile position, size ratio, grid boundary, blank black space, orientation and object footprint EXACTLY. Do not rearrange or merge cells. Do not make a complete scene. Redraw details with much clearer forms. Neighboring pieces must connect seamlessly. Preserve all signs and inscriptions as source glyph silhouettes; never replace characters with guessed words. Original 32px tile boundaries must remain at the identical proportional coordinates. Increase resolution while keeping the entire canvas aspect ratio. No borders or extra objects. This is a candidate atlas for later geometry and lettering validation.",
+    "size": "auto"
+  },
+  {
+    "id": "bank-06ff42-08084a-0ddfc8-pixel-hd",
+    "kind": "map-bank",
+    "style": "pixel-hd",
+    "reference": "bank-06ff42-08084a-0ddfc8.png",
+    "prompt": "Edit this modular RPG environment atlas in modern crisp high-definition JRPG pixel art, clean clustered shading and sharp readable details. Preserve every tile position, size ratio, grid boundary, blank black space, orientation and object footprint EXACTLY. Do not rearrange or merge cells. Do not make a complete scene. Redraw details with much clearer forms. Neighboring pieces must connect seamlessly. Preserve all signs and inscriptions as source glyph silhouettes; never replace characters with guessed words. Original 32px tile boundaries must remain at the identical proportional coordinates. Increase resolution while keeping the entire canvas aspect ratio. No borders or extra objects. This is a candidate atlas for later geometry and lettering validation.",
+    "size": "auto"
+  },
+  {
+    "id": "bank-06ff42-08084a-0ddfc8-unreal",
+    "kind": "map-bank",
+    "style": "unreal",
+    "reference": "bank-06ff42-08084a-0ddfc8.png",
+    "prompt": "Edit this modular RPG environment atlas in Unreal Engine quality stylized-realistic PBR game assets, clear silhouettes and soft neutral lighting. Preserve every tile position, size ratio, grid boundary, blank black space, orientation and object footprint EXACTLY. Do not rearrange or merge cells. Do not make a complete scene. Redraw details with much clearer forms. Neighboring pieces must connect seamlessly. Preserve all signs and inscriptions as source glyph silhouettes; never replace characters with guessed words. Original 32px tile boundaries must remain at the identical proportional coordinates. Increase resolution while keeping the entire canvas aspect ratio. No borders or extra objects. This is a candidate atlas for later geometry and lettering validation.",
+    "size": "auto"
+  },
+  {
+    "id": "bank-06ff42-08084a-0ddfc8-ghibli",
+    "kind": "map-bank",
+    "style": "ghibli",
+    "reference": "bank-06ff42-08084a-0ddfc8.png",
+    "prompt": "Edit this modular RPG environment atlas in Studio Ghibli inspired hand-painted animation background art, refined clear shapes and warm colors. Preserve every tile position, size ratio, grid boundary, blank black space, orientation and object footprint EXACTLY. Do not rearrange or merge cells. Do not make a complete scene. Redraw details with much clearer forms. Neighboring pieces must connect seamlessly. Preserve all signs and inscriptions as source glyph silhouettes; never replace characters with guessed words. Original 32px tile boundaries must remain at the identical proportional coordinates. Increase resolution while keeping the entire canvas aspect ratio. No borders or extra objects. This is a candidate atlas for later geometry and lettering validation.",
+    "size": "auto"
+  },
+  {
+    "id": "bank-073c64-080f6a-0de008-pixel-hd",
+    "kind": "map-bank",
+    "style": "pixel-hd",
+    "reference": "bank-073c64-080f6a-0de008.png",
+    "prompt": "Edit this modular RPG environment atlas in modern crisp high-definition JRPG pixel art, clean clustered shading and sharp readable details. Preserve every tile position, size ratio, grid boundary, blank black space, orientation and object footprint EXACTLY. Do not rearrange or merge cells. Do not make a complete scene. Redraw details with much clearer forms. Neighboring pieces must connect seamlessly. Preserve all signs and inscriptions as source glyph silhouettes; never replace characters with guessed words. Original 32px tile boundaries must remain at the identical proportional coordinates. Increase resolution while keeping the entire canvas aspect ratio. No borders or extra objects. This is a candidate atlas for later geometry and lettering validation.",
+    "size": "auto"
+  },
+  {
+    "id": "bank-073c64-080f6a-0de008-unreal",
+    "kind": "map-bank",
+    "style": "unreal",
+    "reference": "bank-073c64-080f6a-0de008.png",
+    "prompt": "Edit this modular RPG environment atlas in Unreal Engine quality stylized-realistic PBR game assets, clear silhouettes and soft neutral lighting. Preserve every tile position, size ratio, grid boundary, blank black space, orientation and object footprint EXACTLY. Do not rearrange or merge cells. Do not make a complete scene. Redraw details with much clearer forms. Neighboring pieces must connect seamlessly. Preserve all signs and inscriptions as source glyph silhouettes; never replace characters with guessed words. Original 32px tile boundaries must remain at the identical proportional coordinates. Increase resolution while keeping the entire canvas aspect ratio. No borders or extra objects. This is a candidate atlas for later geometry and lettering validation.",
+    "size": "auto"
+  },
+  {
+    "id": "bank-073c64-080f6a-0de008-ghibli",
+    "kind": "map-bank",
+    "style": "ghibli",
+    "reference": "bank-073c64-080f6a-0de008.png",
+    "prompt": "Edit this modular RPG environment atlas in Studio Ghibli inspired hand-painted animation background art, refined clear shapes and warm colors. Preserve every tile position, size ratio, grid boundary, blank black space, orientation and object footprint EXACTLY. Do not rearrange or merge cells. Do not make a complete scene. Redraw details with much clearer forms. Neighboring pieces must connect seamlessly. Preserve all signs and inscriptions as source glyph silhouettes; never replace characters with guessed words. Original 32px tile boundaries must remain at the identical proportional coordinates. Increase resolution while keeping the entire canvas aspect ratio. No borders or extra objects. This is a candidate atlas for later geometry and lettering validation.",
+    "size": "auto"
+  },
+  {
+    "id": "bank-0694fe-07f58a-0de048-pixel-hd",
+    "kind": "map-bank",
+    "style": "pixel-hd",
+    "reference": "bank-0694fe-07f58a-0de048.png",
+    "prompt": "Edit this modular RPG environment atlas in modern crisp high-definition JRPG pixel art, clean clustered shading and sharp readable details. Preserve every tile position, size ratio, grid boundary, blank black space, orientation and object footprint EXACTLY. Do not rearrange or merge cells. Do not make a complete scene. Redraw details with much clearer forms. Neighboring pieces must connect seamlessly. Preserve all signs and inscriptions as source glyph silhouettes; never replace characters with guessed words. Original 32px tile boundaries must remain at the identical proportional coordinates. Increase resolution while keeping the entire canvas aspect ratio. No borders or extra objects. This is a candidate atlas for later geometry and lettering validation.",
+    "size": "auto"
+  },
+  {
+    "id": "bank-0694fe-07f58a-0de048-unreal",
+    "kind": "map-bank",
+    "style": "unreal",
+    "reference": "bank-0694fe-07f58a-0de048.png",
+    "prompt": "Edit this modular RPG environment atlas in Unreal Engine quality stylized-realistic PBR game assets, clear silhouettes and soft neutral lighting. Preserve every tile position, size ratio, grid boundary, blank black space, orientation and object footprint EXACTLY. Do not rearrange or merge cells. Do not make a complete scene. Redraw details with much clearer forms. Neighboring pieces must connect seamlessly. Preserve all signs and inscriptions as source glyph silhouettes; never replace characters with guessed words. Original 32px tile boundaries must remain at the identical proportional coordinates. Increase resolution while keeping the entire canvas aspect ratio. No borders or extra objects. This is a candidate atlas for later geometry and lettering validation.",
+    "size": "auto"
+  },
+  {
+    "id": "bank-0694fe-07f58a-0de048-ghibli",
+    "kind": "map-bank",
+    "style": "ghibli",
+    "reference": "bank-0694fe-07f58a-0de048.png",
+    "prompt": "Edit this modular RPG environment atlas in Studio Ghibli inspired hand-painted animation background art, refined clear shapes and warm colors. Preserve every tile position, size ratio, grid boundary, blank black space, orientation and object footprint EXACTLY. Do not rearrange or merge cells. Do not make a complete scene. Redraw details with much clearer forms. Neighboring pieces must connect seamlessly. Preserve all signs and inscriptions as source glyph silhouettes; never replace characters with guessed words. Original 32px tile boundaries must remain at the identical proportional coordinates. Increase resolution while keeping the entire canvas aspect ratio. No borders or extra objects. This is a candidate atlas for later geometry and lettering validation.",
+    "size": "auto"
+  }
+]

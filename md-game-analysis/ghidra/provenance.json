@@ -1,0 +1,25 @@
+{
+  "ghidra": {
+    "version": "12.1.4",
+    "source": "https://github.com/NationalSecurityAgency/ghidra/releases/tag/Ghidra_12.1.4_build",
+    "url": "https://github.com/NationalSecurityAgency/ghidra/releases/download/Ghidra_12.1.4_build/ghidra_12.1.4_PUBLIC_20260921.zip",
+    "expected_sha256": "ddac49f903da9d5bac833e5cc79395098b9c33cfd3279be5f31bd00387d2d4db"
+  },
+  "java": {
+    "version": "21.0.13+9",
+    "source": "https://github.com/adoptium/temurin21-binaries/releases/tag/jdk-21.0.13%2B9",
+    "expected_sha256": "bf036b35b071bfb2f54f2c0af8ee8d88afa95ee6eb3dce02c0f94cfc2524d04a"
+  },
+  "install_root": "/Users/taoo/.local/share/rea-engines",
+  "global_configuration_modified": false,
+  "analysis": {
+    "language": "68000:BE:32:default",
+    "base_address": 0,
+    "reset_vector": 1210,
+    "limitation": "Ghidra language permits 68040 instructions; hardware mapping and seed labels are analyst supplied. RAM mirrors are independent modeled blocks, not coherent hardware aliases."
+  },
+  "downloads_sha256_verified": true,
+  "native_decompiler_built_from_bundled_sources": true,
+  "native_build_command": "make -j6 ghidra_opt ARCH_TYPE='-arch arm64' ADDITIONAL_FLAGS='-mmacosx-version-min=11.0' OSDIR=mac_arm_64",
+  "analysis_completed": true
+}

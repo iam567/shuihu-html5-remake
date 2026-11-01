@@ -1,0 +1,2423 @@
+[
+  {
+    "id": 0,
+    "rom": 1934518,
+    "raw": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "route": "psg",
+    "channel_index": 0,
+    "priority": 0,
+    "sequence_id": 0,
+    "sequence_pointer": 1935714
+  },
+  {
+    "id": 1,
+    "rom": 1934522,
+    "raw": [
+      15,
+      1,
+      0,
+      0
+    ],
+    "route": "psg",
+    "channel_index": 0,
+    "priority": 15,
+    "sequence_id": 1,
+    "sequence_pointer": 1935714
+  },
+  {
+    "id": 2,
+    "rom": 1934526,
+    "raw": [
+      31,
+      1,
+      0,
+      0
+    ],
+    "route": "psg",
+    "channel_index": 1,
+    "priority": 15,
+    "sequence_id": 1,
+    "sequence_pointer": 1935714
+  },
+  {
+    "id": 3,
+    "rom": 1934530,
+    "raw": [
+      47,
+      1,
+      0,
+      0
+    ],
+    "route": "psg",
+    "channel_index": 2,
+    "priority": 15,
+    "sequence_id": 1,
+    "sequence_pointer": 1935714
+  },
+  {
+    "id": 4,
+    "rom": 1934534,
+    "raw": [
+      255,
+      212,
+      0,
+      0
+    ],
+    "route": "z80",
+    "mailbox_A00020": 212,
+    "mailbox_A00022": 0
+  },
+  {
+    "id": 5,
+    "rom": 1934538,
+    "raw": [
+      255,
+      210,
+      0,
+      0
+    ],
+    "route": "z80",
+    "mailbox_A00020": 210,
+    "mailbox_A00022": 0
+  },
+  {
+    "id": 6,
+    "rom": 1934542,
+    "raw": [
+      255,
+      209,
+      0,
+      0
+    ],
+    "route": "z80",
+    "mailbox_A00020": 209,
+    "mailbox_A00022": 0
+  },
+  {
+    "id": 7,
+    "rom": 1934546,
+    "raw": [
+      255,
+      208,
+      0,
+      0
+    ],
+    "route": "z80",
+    "mailbox_A00020": 208,
+    "mailbox_A00022": 0
+  },
+  {
+    "id": 8,
+    "rom": 1934550,
+    "raw": [
+      255,
+      207,
+      0,
+      0
+    ],
+    "route": "z80",
+    "mailbox_A00020": 207,
+    "mailbox_A00022": 0
+  },
+  {
+    "id": 9,
+    "rom": 1934554,
+    "raw": [
+      255,
+      206,
+      0,
+      0
+    ],
+    "route": "z80",
+    "mailbox_A00020": 206,
+    "mailbox_A00022": 0
+  },
+  {
+    "id": 10,
+    "rom": 1934558,
+    "raw": [
+      255,
+      205,
+      0,
+      0
+    ],
+    "route": "z80",
+    "mailbox_A00020": 205,
+    "mailbox_A00022": 0
+  },
+  {
+    "id": 11,
+    "rom": 1934562,
+    "raw": [
+      255,
+      204,
+      0,
+      0
+    ],
+    "route": "z80",
+    "mailbox_A00020": 204,
+    "mailbox_A00022": 0
+  },
+  {
+    "id": 12,
+    "rom": 1934566,
+    "raw": [
+      255,
+      203,
+      0,
+      0
+    ],
+    "route": "z80",
+    "mailbox_A00020": 203,
+    "mailbox_A00022": 0
+  },
+  {
+    "id": 13,
+    "rom": 1934570,
+    "raw": [
+      255,
+      202,
+      0,
+      0
+    ],
+    "route": "z80",
+    "mailbox_A00020": 202,
+    "mailbox_A00022": 0
+  },
+  {
+    "id": 14,
+    "rom": 1934574,
+    "raw": [
+      255,
+      201,
+      0,
+      0
+    ],
+    "route": "z80",
+    "mailbox_A00020": 201,
+    "mailbox_A00022": 0
+  },
+  {
+    "id": 15,
+    "rom": 1934578,
+    "raw": [
+      255,
+      200,
+      0,
+      0
+    ],
+    "route": "z80",
+    "mailbox_A00020": 200,
+    "mailbox_A00022": 0
+  },
+  {
+    "id": 16,
+    "rom": 1934582,
+    "raw": [
+      255,
+      199,
+      0,
+      0
+    ],
+    "route": "z80",
+    "mailbox_A00020": 199,
+    "mailbox_A00022": 0
+  },
+  {
+    "id": 17,
+    "rom": 1934586,
+    "raw": [
+      255,
+      198,
+      0,
+      0
+    ],
+    "route": "z80",
+    "mailbox_A00020": 198,
+    "mailbox_A00022": 0
+  },
+  {
+    "id": 18,
+    "rom": 1934590,
+    "raw": [
+      255,
+      197,
+      0,
+      0
+    ],
+    "route": "z80",
+    "mailbox_A00020": 197,
+    "mailbox_A00022": 0
+  },
+  {
+    "id": 19,
+    "rom": 1934594,
+    "raw": [
+      255,
+      196,
+      0,
+      0
+    ],
+    "route": "z80",
+    "mailbox_A00020": 196,
+    "mailbox_A00022": 0
+  },
+  {
+    "id": 20,
+    "rom": 1934598,
+    "raw": [
+      255,
+      195,
+      0,
+      0
+    ],
+    "route": "z80",
+    "mailbox_A00020": 195,
+    "mailbox_A00022": 0
+  },
+  {
+    "id": 21,
+    "rom": 1934602,
+    "raw": [
+      255,
+      194,
+      0,
+      0
+    ],
+    "route": "z80",
+    "mailbox_A00020": 194,
+    "mailbox_A00022": 0
+  },
+  {
+    "id": 22,
+    "rom": 1934606,
+    "raw": [
+      255,
+      193,
+      0,
+      0
+    ],
+    "route": "z80",
+    "mailbox_A00020": 193,
+    "mailbox_A00022": 0
+  },
+  {
+    "id": 23,
+    "rom": 1934610,
+    "raw": [
+      255,
+      192,
+      0,
+      0
+    ],
+    "route": "z80",
+    "mailbox_A00020": 192,
+    "mailbox_A00022": 0
+  },
+  {
+    "id": 24,
+    "rom": 1934614,
+    "raw": [
+      255,
+      191,
+      0,
+      0
+    ],
+    "route": "z80",
+    "mailbox_A00020": 191,
+    "mailbox_A00022": 0
+  },
+  {
+    "id": 25,
+    "rom": 1934618,
+    "raw": [
+      255,
+      190,
+      0,
+      0
+    ],
+    "route": "z80",
+    "mailbox_A00020": 190,
+    "mailbox_A00022": 0
+  },
+  {
+    "id": 26,
+    "rom": 1934622,
+    "raw": [
+      255,
+      189,
+      0,
+      0
+    ],
+    "route": "z80",
+    "mailbox_A00020": 189,
+    "mailbox_A00022": 0
+  },
+  {
+    "id": 27,
+    "rom": 1934626,
+    "raw": [
+      255,
+      188,
+      0,
+      0
+    ],
+    "route": "z80",
+    "mailbox_A00020": 188,
+    "mailbox_A00022": 0
+  },
+  {
+    "id": 28,
+    "rom": 1934630,
+    "raw": [
+      255,
+      187,
+      0,
+      0
+    ],
+    "route": "z80",
+    "mailbox_A00020": 187,
+    "mailbox_A00022": 0
+  },
+  {
+    "id": 29,
+    "rom": 1934634,
+    "raw": [
+      255,
+      186,
+      0,
+      0
+    ],
+    "route": "z80",
+    "mailbox_A00020": 186,
+    "mailbox_A00022": 0
+  },
+  {
+    "id": 30,
+    "rom": 1934638,
+    "raw": [
+      255,
+      185,
+      0,
+      0
+    ],
+    "route": "z80",
+    "mailbox_A00020": 185,
+    "mailbox_A00022": 0
+  },
+  {
+    "id": 31,
+    "rom": 1934642,
+    "raw": [
+      255,
+      184,
+      0,
+      0
+    ],
+    "route": "z80",
+    "mailbox_A00020": 184,
+    "mailbox_A00022": 0
+  },
+  {
+    "id": 32,
+    "rom": 1934646,
+    "raw": [
+      255,
+      183,
+      0,
+      0
+    ],
+    "route": "z80",
+    "mailbox_A00020": 183,
+    "mailbox_A00022": 0
+  },
+  {
+    "id": 33,
+    "rom": 1934650,
+    "raw": [
+      255,
+      182,
+      0,
+      0
+    ],
+    "route": "z80",
+    "mailbox_A00020": 182,
+    "mailbox_A00022": 0
+  },
+  {
+    "id": 34,
+    "rom": 1934654,
+    "raw": [
+      255,
+      181,
+      0,
+      0
+    ],
+    "route": "z80",
+    "mailbox_A00020": 181,
+    "mailbox_A00022": 0
+  },
+  {
+    "id": 35,
+    "rom": 1934658,
+    "raw": [
+      255,
+      180,
+      0,
+      0
+    ],
+    "route": "z80",
+    "mailbox_A00020": 180,
+    "mailbox_A00022": 0
+  },
+  {
+    "id": 36,
+    "rom": 1934662,
+    "raw": [
+      255,
+      179,
+      0,
+      0
+    ],
+    "route": "z80",
+    "mailbox_A00020": 179,
+    "mailbox_A00022": 0
+  },
+  {
+    "id": 37,
+    "rom": 1934666,
+    "raw": [
+      255,
+      178,
+      0,
+      0
+    ],
+    "route": "z80",
+    "mailbox_A00020": 178,
+    "mailbox_A00022": 0
+  },
+  {
+    "id": 38,
+    "rom": 1934670,
+    "raw": [
+      255,
+      177,
+      0,
+      0
+    ],
+    "route": "z80",
+    "mailbox_A00020": 177,
+    "mailbox_A00022": 0
+  },
+  {
+    "id": 39,
+    "rom": 1934674,
+    "raw": [
+      255,
+      176,
+      0,
+      0
+    ],
+    "route": "z80",
+    "mailbox_A00020": 176,
+    "mailbox_A00022": 0
+  },
+  {
+    "id": 40,
+    "rom": 1934678,
+    "raw": [
+      255,
+      175,
+      0,
+      0
+    ],
+    "route": "z80",
+    "mailbox_A00020": 175,
+    "mailbox_A00022": 0
+  },
+  {
+    "id": 41,
+    "rom": 1934682,
+    "raw": [
+      255,
+      174,
+      0,
+      0
+    ],
+    "route": "z80",
+    "mailbox_A00020": 174,
+    "mailbox_A00022": 0
+  },
+  {
+    "id": 42,
+    "rom": 1934686,
+    "raw": [
+      255,
+      173,
+      0,
+      0
+    ],
+    "route": "z80",
+    "mailbox_A00020": 173,
+    "mailbox_A00022": 0
+  },
+  {
+    "id": 43,
+    "rom": 1934690,
+    "raw": [
+      255,
+      172,
+      0,
+      0
+    ],
+    "route": "z80",
+    "mailbox_A00020": 172,
+    "mailbox_A00022": 0
+  },
+  {
+    "id": 44,
+    "rom": 1934694,
+    "raw": [
+      255,
+      171,
+      0,
+      0
+    ],
+    "route": "z80",
+    "mailbox_A00020": 171,
+    "mailbox_A00022": 0
+  },
+  {
+    "id": 45,
+    "rom": 1934698,
+    "raw": [
+      255,
+      170,
+      0,
+      0
+    ],
+    "route": "z80",
+    "mailbox_A00020": 170,
+    "mailbox_A00022": 0
+  },
+  {
+    "id": 46,
+    "rom": 1934702,
+    "raw": [
+      255,
+      169,
+      0,
+      0
+    ],
+    "route": "z80",
+    "mailbox_A00020": 169,
+    "mailbox_A00022": 0
+  },
+  {
+    "id": 47,
+    "rom": 1934706,
+    "raw": [
+      255,
+      168,
+      0,
+      0
+    ],
+    "route": "z80",
+    "mailbox_A00020": 168,
+    "mailbox_A00022": 0
+  },
+  {
+    "id": 48,
+    "rom": 1934710,
+    "raw": [
+      255,
+      167,
+      0,
+      0
+    ],
+    "route": "z80",
+    "mailbox_A00020": 167,
+    "mailbox_A00022": 0
+  },
+  {
+    "id": 49,
+    "rom": 1934714,
+    "raw": [
+      255,
+      166,
+      0,
+      0
+    ],
+    "route": "z80",
+    "mailbox_A00020": 166,
+    "mailbox_A00022": 0
+  },
+  {
+    "id": 50,
+    "rom": 1934718,
+    "raw": [
+      255,
+      165,
+      0,
+      0
+    ],
+    "route": "z80",
+    "mailbox_A00020": 165,
+    "mailbox_A00022": 0
+  },
+  {
+    "id": 51,
+    "rom": 1934722,
+    "raw": [
+      255,
+      164,
+      0,
+      0
+    ],
+    "route": "z80",
+    "mailbox_A00020": 164,
+    "mailbox_A00022": 0
+  },
+  {
+    "id": 52,
+    "rom": 1934726,
+    "raw": [
+      255,
+      163,
+      0,
+      0
+    ],
+    "route": "z80",
+    "mailbox_A00020": 163,
+    "mailbox_A00022": 0
+  },
+  {
+    "id": 53,
+    "rom": 1934730,
+    "raw": [
+      255,
+      162,
+      0,
+      0
+    ],
+    "route": "z80",
+    "mailbox_A00020": 162,
+    "mailbox_A00022": 0
+  },
+  {
+    "id": 54,
+    "rom": 1934734,
+    "raw": [
+      255,
+      161,
+      0,
+      0
+    ],
+    "route": "z80",
+    "mailbox_A00020": 161,
+    "mailbox_A00022": 0
+  },
+  {
+    "id": 55,
+    "rom": 1934738,
+    "raw": [
+      255,
+      140,
+      0,
+      0
+    ],
+    "route": "z80",
+    "mailbox_A00020": 140,
+    "mailbox_A00022": 0
+  },
+  {
+    "id": 56,
+    "rom": 1934742,
+    "raw": [
+      255,
+      141,
+      0,
+      0
+    ],
+    "route": "z80",
+    "mailbox_A00020": 141,
+    "mailbox_A00022": 0
+  },
+  {
+    "id": 57,
+    "rom": 1934746,
+    "raw": [
+      255,
+      142,
+      0,
+      0
+    ],
+    "route": "z80",
+    "mailbox_A00020": 142,
+    "mailbox_A00022": 0
+  },
+  {
+    "id": 58,
+    "rom": 1934750,
+    "raw": [
+      255,
+      143,
+      0,
+      0
+    ],
+    "route": "z80",
+    "mailbox_A00020": 143,
+    "mailbox_A00022": 0
+  },
+  {
+    "id": 59,
+    "rom": 1934754,
+    "raw": [
+      255,
+      144,
+      0,
+      0
+    ],
+    "route": "z80",
+    "mailbox_A00020": 144,
+    "mailbox_A00022": 0
+  },
+  {
+    "id": 60,
+    "rom": 1934758,
+    "raw": [
+      255,
+      145,
+      0,
+      0
+    ],
+    "route": "z80",
+    "mailbox_A00020": 145,
+    "mailbox_A00022": 0
+  },
+  {
+    "id": 61,
+    "rom": 1934762,
+    "raw": [
+      255,
+      133,
+      0,
+      0
+    ],
+    "route": "z80",
+    "mailbox_A00020": 133,
+    "mailbox_A00022": 0
+  },
+  {
+    "id": 62,
+    "rom": 1934766,
+    "raw": [
+      255,
+      211,
+      0,
+      0
+    ],
+    "route": "z80",
+    "mailbox_A00020": 211,
+    "mailbox_A00022": 0
+  },
+  {
+    "id": 63,
+    "rom": 1934770,
+    "raw": [
+      255,
+      154,
+      0,
+      0
+    ],
+    "route": "z80",
+    "mailbox_A00020": 154,
+    "mailbox_A00022": 0
+  },
+  {
+    "id": 64,
+    "rom": 1934774,
+    "raw": [
+      255,
+      157,
+      0,
+      0
+    ],
+    "route": "z80",
+    "mailbox_A00020": 157,
+    "mailbox_A00022": 0
+  },
+  {
+    "id": 65,
+    "rom": 1934778,
+    "raw": [
+      255,
+      158,
+      0,
+      0
+    ],
+    "route": "z80",
+    "mailbox_A00020": 158,
+    "mailbox_A00022": 0
+  },
+  {
+    "id": 66,
+    "rom": 1934782,
+    "raw": [
+      255,
+      213,
+      0,
+      0
+    ],
+    "route": "z80",
+    "mailbox_A00020": 213,
+    "mailbox_A00022": 0
+  },
+  {
+    "id": 67,
+    "rom": 1934786,
+    "raw": [
+      255,
+      214,
+      0,
+      0
+    ],
+    "route": "z80",
+    "mailbox_A00020": 214,
+    "mailbox_A00022": 0
+  },
+  {
+    "id": 68,
+    "rom": 1934790,
+    "raw": [
+      255,
+      215,
+      0,
+      0
+    ],
+    "route": "z80",
+    "mailbox_A00020": 215,
+    "mailbox_A00022": 0
+  },
+  {
+    "id": 69,
+    "rom": 1934794,
+    "raw": [
+      14,
+      4,
+      0,
+      0
+    ],
+    "route": "psg",
+    "channel_index": 0,
+    "priority": 14,
+    "sequence_id": 4,
+    "sequence_pointer": 1935716
+  },
+  {
+    "id": 70,
+    "rom": 1934798,
+    "raw": [
+      255,
+      219,
+      0,
+      0
+    ],
+    "route": "z80",
+    "mailbox_A00020": 219,
+    "mailbox_A00022": 0
+  },
+  {
+    "id": 71,
+    "rom": 1934802,
+    "raw": [
+      255,
+      216,
+      0,
+      0
+    ],
+    "route": "z80",
+    "mailbox_A00020": 216,
+    "mailbox_A00022": 0
+  },
+  {
+    "id": 72,
+    "rom": 1934806,
+    "raw": [
+      255,
+      227,
+      0,
+      0
+    ],
+    "route": "z80",
+    "mailbox_A00020": 227,
+    "mailbox_A00022": 0
+  },
+  {
+    "id": 73,
+    "rom": 1934810,
+    "raw": [
+      255,
+      217,
+      0,
+      0
+    ],
+    "route": "z80",
+    "mailbox_A00020": 217,
+    "mailbox_A00022": 0
+  },
+  {
+    "id": 74,
+    "rom": 1934814,
+    "raw": [
+      1,
+      121,
+      0,
+      0
+    ],
+    "route": "psg",
+    "channel_index": 0,
+    "priority": 1,
+    "sequence_id": 121,
+    "sequence_pointer": 1939550
+  },
+  {
+    "id": 75,
+    "rom": 1934818,
+    "raw": [
+      255,
+      218,
+      0,
+      0
+    ],
+    "route": "z80",
+    "mailbox_A00020": 218,
+    "mailbox_A00022": 0
+  },
+  {
+    "id": 76,
+    "rom": 1934822,
+    "raw": [
+      255,
+      238,
+      0,
+      0
+    ],
+    "route": "z80",
+    "mailbox_A00020": 238,
+    "mailbox_A00022": 0
+  },
+  {
+    "id": 77,
+    "rom": 1934826,
+    "raw": [
+      1,
+      121,
+      0,
+      0
+    ],
+    "route": "psg",
+    "channel_index": 0,
+    "priority": 1,
+    "sequence_id": 121,
+    "sequence_pointer": 1939550
+  },
+  {
+    "id": 78,
+    "rom": 1934830,
+    "raw": [
+      255,
+      220,
+      0,
+      0
+    ],
+    "route": "z80",
+    "mailbox_A00020": 220,
+    "mailbox_A00022": 0
+  },
+  {
+    "id": 79,
+    "rom": 1934834,
+    "raw": [
+      255,
+      228,
+      0,
+      0
+    ],
+    "route": "z80",
+    "mailbox_A00020": 228,
+    "mailbox_A00022": 0
+  },
+  {
+    "id": 80,
+    "rom": 1934838,
+    "raw": [
+      255,
+      220,
+      0,
+      0
+    ],
+    "route": "z80",
+    "mailbox_A00020": 220,
+    "mailbox_A00022": 0
+  },
+  {
+    "id": 81,
+    "rom": 1934842,
+    "raw": [
+      255,
+      220,
+      0,
+      0
+    ],
+    "route": "z80",
+    "mailbox_A00020": 220,
+    "mailbox_A00022": 0
+  },
+  {
+    "id": 82,
+    "rom": 1934846,
+    "raw": [
+      255,
+      220,
+      0,
+      0
+    ],
+    "route": "z80",
+    "mailbox_A00020": 220,
+    "mailbox_A00022": 0
+  },
+  {
+    "id": 83,
+    "rom": 1934850,
+    "raw": [
+      255,
+      220,
+      0,
+      0
+    ],
+    "route": "z80",
+    "mailbox_A00020": 220,
+    "mailbox_A00022": 0
+  },
+  {
+    "id": 84,
+    "rom": 1934854,
+    "raw": [
+      255,
+      221,
+      0,
+      0
+    ],
+    "route": "z80",
+    "mailbox_A00020": 221,
+    "mailbox_A00022": 0
+  },
+  {
+    "id": 85,
+    "rom": 1934858,
+    "raw": [
+      255,
+      221,
+      0,
+      0
+    ],
+    "route": "z80",
+    "mailbox_A00020": 221,
+    "mailbox_A00022": 0
+  },
+  {
+    "id": 86,
+    "rom": 1934862,
+    "raw": [
+      255,
+      223,
+      0,
+      0
+    ],
+    "route": "z80",
+    "mailbox_A00020": 223,
+    "mailbox_A00022": 0
+  },
+  {
+    "id": 87,
+    "rom": 1934866,
+    "raw": [
+      255,
+      221,
+      0,
+      0
+    ],
+    "route": "z80",
+    "mailbox_A00020": 221,
+    "mailbox_A00022": 0
+  },
+  {
+    "id": 88,
+    "rom": 1934870,
+    "raw": [
+      255,
+      221,
+      0,
+      0
+    ],
+    "route": "z80",
+    "mailbox_A00020": 221,
+    "mailbox_A00022": 0
+  },
+  {
+    "id": 89,
+    "rom": 1934874,
+    "raw": [
+      255,
+      221,
+      0,
+      0
+    ],
+    "route": "z80",
+    "mailbox_A00020": 221,
+    "mailbox_A00022": 0
+  },
+  {
+    "id": 90,
+    "rom": 1934878,
+    "raw": [
+      255,
+      224,
+      0,
+      0
+    ],
+    "route": "z80",
+    "mailbox_A00020": 224,
+    "mailbox_A00022": 0
+  },
+  {
+    "id": 91,
+    "rom": 1934882,
+    "raw": [
+      255,
+      221,
+      0,
+      0
+    ],
+    "route": "z80",
+    "mailbox_A00020": 221,
+    "mailbox_A00022": 0
+  },
+  {
+    "id": 92,
+    "rom": 1934886,
+    "raw": [
+      255,
+      226,
+      0,
+      0
+    ],
+    "route": "z80",
+    "mailbox_A00020": 226,
+    "mailbox_A00022": 0
+  },
+  {
+    "id": 93,
+    "rom": 1934890,
+    "raw": [
+      255,
+      225,
+      0,
+      0
+    ],
+    "route": "z80",
+    "mailbox_A00020": 225,
+    "mailbox_A00022": 0
+  },
+  {
+    "id": 94,
+    "rom": 1934894,
+    "raw": [
+      255,
+      226,
+      0,
+      0
+    ],
+    "route": "z80",
+    "mailbox_A00020": 226,
+    "mailbox_A00022": 0
+  },
+  {
+    "id": 95,
+    "rom": 1934898,
+    "raw": [
+      255,
+      226,
+      0,
+      0
+    ],
+    "route": "z80",
+    "mailbox_A00020": 226,
+    "mailbox_A00022": 0
+  },
+  {
+    "id": 96,
+    "rom": 1934902,
+    "raw": [
+      255,
+      222,
+      0,
+      0
+    ],
+    "route": "z80",
+    "mailbox_A00020": 222,
+    "mailbox_A00022": 0
+  },
+  {
+    "id": 97,
+    "rom": 1934906,
+    "raw": [
+      1,
+      110,
+      0,
+      0
+    ],
+    "route": "psg",
+    "channel_index": 0,
+    "priority": 1,
+    "sequence_id": 110,
+    "sequence_pointer": 1938664
+  },
+  {
+    "id": 98,
+    "rom": 1934910,
+    "raw": [
+      255,
+      222,
+      0,
+      0
+    ],
+    "route": "z80",
+    "mailbox_A00020": 222,
+    "mailbox_A00022": 0
+  },
+  {
+    "id": 99,
+    "rom": 1934914,
+    "raw": [
+      255,
+      222,
+      0,
+      0
+    ],
+    "route": "z80",
+    "mailbox_A00020": 222,
+    "mailbox_A00022": 0
+  },
+  {
+    "id": 100,
+    "rom": 1934918,
+    "raw": [
+      1,
+      32,
+      0,
+      0
+    ],
+    "route": "psg",
+    "channel_index": 0,
+    "priority": 1,
+    "sequence_id": 32,
+    "sequence_pointer": 1936228
+  },
+  {
+    "id": 101,
+    "rom": 1934922,
+    "raw": [
+      255,
+      247,
+      0,
+      0
+    ],
+    "route": "z80",
+    "mailbox_A00020": 247,
+    "mailbox_A00022": 0
+  },
+  {
+    "id": 102,
+    "rom": 1934926,
+    "raw": [
+      255,
+      220,
+      0,
+      0
+    ],
+    "route": "z80",
+    "mailbox_A00020": 220,
+    "mailbox_A00022": 0
+  },
+  {
+    "id": 103,
+    "rom": 1934930,
+    "raw": [
+      255,
+      249,
+      0,
+      0
+    ],
+    "route": "z80",
+    "mailbox_A00020": 249,
+    "mailbox_A00022": 0
+  },
+  {
+    "id": 104,
+    "rom": 1934934,
+    "raw": [
+      255,
+      250,
+      0,
+      0
+    ],
+    "route": "z80",
+    "mailbox_A00020": 250,
+    "mailbox_A00022": 0
+  },
+  {
+    "id": 105,
+    "rom": 1934938,
+    "raw": [
+      33,
+      36,
+      0,
+      0
+    ],
+    "route": "psg",
+    "channel_index": 2,
+    "priority": 1,
+    "sequence_id": 36,
+    "sequence_pointer": 1936346
+  },
+  {
+    "id": 106,
+    "rom": 1934942,
+    "raw": [
+      1,
+      106,
+      0,
+      0
+    ],
+    "route": "psg",
+    "channel_index": 0,
+    "priority": 1,
+    "sequence_id": 106,
+    "sequence_pointer": 1938558
+  },
+  {
+    "id": 107,
+    "rom": 1934946,
+    "raw": [
+      1,
+      39,
+      0,
+      0
+    ],
+    "route": "psg",
+    "channel_index": 0,
+    "priority": 1,
+    "sequence_id": 39,
+    "sequence_pointer": 1936636
+  },
+  {
+    "id": 108,
+    "rom": 1934950,
+    "raw": [
+      1,
+      37,
+      0,
+      0
+    ],
+    "route": "psg",
+    "channel_index": 0,
+    "priority": 1,
+    "sequence_id": 37,
+    "sequence_pointer": 1936518
+  },
+  {
+    "id": 109,
+    "rom": 1934954,
+    "raw": [
+      255,
+      243,
+      0,
+      0
+    ],
+    "route": "z80",
+    "mailbox_A00020": 243,
+    "mailbox_A00022": 0
+  },
+  {
+    "id": 110,
+    "rom": 1934958,
+    "raw": [
+      255,
+      229,
+      0,
+      0
+    ],
+    "route": "z80",
+    "mailbox_A00020": 229,
+    "mailbox_A00022": 0
+  },
+  {
+    "id": 111,
+    "rom": 1934962,
+    "raw": [
+      255,
+      230,
+      0,
+      0
+    ],
+    "route": "z80",
+    "mailbox_A00020": 230,
+    "mailbox_A00022": 0
+  },
+  {
+    "id": 112,
+    "rom": 1934966,
+    "raw": [
+      1,
+      38,
+      0,
+      0
+    ],
+    "route": "psg",
+    "channel_index": 0,
+    "priority": 1,
+    "sequence_id": 38,
+    "sequence_pointer": 1936562
+  },
+  {
+    "id": 113,
+    "rom": 1934970,
+    "raw": [
+      1,
+      107,
+      0,
+      0
+    ],
+    "route": "psg",
+    "channel_index": 0,
+    "priority": 1,
+    "sequence_id": 107,
+    "sequence_pointer": 1938594
+  },
+  {
+    "id": 114,
+    "rom": 1934974,
+    "raw": [
+      17,
+      43,
+      0,
+      0
+    ],
+    "route": "psg",
+    "channel_index": 1,
+    "priority": 1,
+    "sequence_id": 43,
+    "sequence_pointer": 1935714
+  },
+  {
+    "id": 115,
+    "rom": 1934978,
+    "raw": [
+      1,
+      44,
+      0,
+      0
+    ],
+    "route": "psg",
+    "channel_index": 0,
+    "priority": 1,
+    "sequence_id": 44,
+    "sequence_pointer": 1935714
+  },
+  {
+    "id": 116,
+    "rom": 1934982,
+    "raw": [
+      1,
+      45,
+      0,
+      0
+    ],
+    "route": "psg",
+    "channel_index": 0,
+    "priority": 1,
+    "sequence_id": 45,
+    "sequence_pointer": 1935714
+  },
+  {
+    "id": 117,
+    "rom": 1934986,
+    "raw": [
+      1,
+      46,
+      0,
+      0
+    ],
+    "route": "psg",
+    "channel_index": 0,
+    "priority": 1,
+    "sequence_id": 46,
+    "sequence_pointer": 1935714
+  },
+  {
+    "id": 118,
+    "rom": 1934990,
+    "raw": [
+      33,
+      47,
+      0,
+      0
+    ],
+    "route": "psg",
+    "channel_index": 2,
+    "priority": 1,
+    "sequence_id": 47,
+    "sequence_pointer": 1935714
+  },
+  {
+    "id": 119,
+    "rom": 1934994,
+    "raw": [
+      33,
+      48,
+      0,
+      0
+    ],
+    "route": "psg",
+    "channel_index": 2,
+    "priority": 1,
+    "sequence_id": 48,
+    "sequence_pointer": 1936710
+  },
+  {
+    "id": 120,
+    "rom": 1934998,
+    "raw": [
+      1,
+      120,
+      0,
+      0
+    ],
+    "route": "psg",
+    "channel_index": 0,
+    "priority": 1,
+    "sequence_id": 120,
+    "sequence_pointer": 1939334
+  },
+  {
+    "id": 121,
+    "rom": 1935002,
+    "raw": [
+      33,
+      49,
+      0,
+      0
+    ],
+    "route": "psg",
+    "channel_index": 2,
+    "priority": 1,
+    "sequence_id": 49,
+    "sequence_pointer": 1936874
+  },
+  {
+    "id": 122,
+    "rom": 1935006,
+    "raw": [
+      33,
+      50,
+      0,
+      0
+    ],
+    "route": "psg",
+    "channel_index": 2,
+    "priority": 1,
+    "sequence_id": 50,
+    "sequence_pointer": 1935714
+  },
+  {
+    "id": 123,
+    "rom": 1935010,
+    "raw": [
+      33,
+      115,
+      0,
+      0
+    ],
+    "route": "psg",
+    "channel_index": 2,
+    "priority": 1,
+    "sequence_id": 115,
+    "sequence_pointer": 1939262
+  },
+  {
+    "id": 124,
+    "rom": 1935014,
+    "raw": [
+      255,
+      248,
+      0,
+      0
+    ],
+    "route": "z80",
+    "mailbox_A00020": 248,
+    "mailbox_A00022": 0
+  },
+  {
+    "id": 125,
+    "rom": 1935018,
+    "raw": [
+      255,
+      249,
+      0,
+      0
+    ],
+    "route": "z80",
+    "mailbox_A00020": 249,
+    "mailbox_A00022": 0
+  },
+  {
+    "id": 126,
+    "rom": 1935022,
+    "raw": [
+      1,
+      11,
+      0,
+      0
+    ],
+    "route": "psg",
+    "channel_index": 0,
+    "priority": 1,
+    "sequence_id": 11,
+    "sequence_pointer": 2063584
+  },
+  {
+    "id": 127,
+    "rom": 1935026,
+    "raw": [
+      16,
+      28,
+      0,
+      0
+    ],
+    "route": "psg",
+    "channel_index": 1,
+    "priority": 0,
+    "sequence_id": 28,
+    "sequence_pointer": 2063658
+  },
+  {
+    "id": 128,
+    "rom": 1935030,
+    "raw": [
+      33,
+      35,
+      0,
+      0
+    ],
+    "route": "psg",
+    "channel_index": 2,
+    "priority": 1,
+    "sequence_id": 35,
+    "sequence_pointer": 1934210
+  },
+  {
+    "id": 129,
+    "rom": 1935034,
+    "raw": [
+      2,
+      55,
+      0,
+      0
+    ],
+    "route": "psg",
+    "channel_index": 0,
+    "priority": 2,
+    "sequence_id": 55,
+    "sequence_pointer": 2063780
+  },
+  {
+    "id": 130,
+    "rom": 1935038,
+    "raw": [
+      1,
+      114,
+      0,
+      0
+    ],
+    "route": "psg",
+    "channel_index": 0,
+    "priority": 1,
+    "sequence_id": 114,
+    "sequence_pointer": 1933050
+  },
+  {
+    "id": 131,
+    "rom": 1935042,
+    "raw": [
+      33,
+      33,
+      0,
+      0
+    ],
+    "route": "psg",
+    "channel_index": 2,
+    "priority": 1,
+    "sequence_id": 33,
+    "sequence_pointer": 1933290
+  },
+  {
+    "id": 132,
+    "rom": 1935046,
+    "raw": [
+      33,
+      74,
+      0,
+      0
+    ],
+    "route": "psg",
+    "channel_index": 2,
+    "priority": 1,
+    "sequence_id": 74,
+    "sequence_pointer": 1933402
+  },
+  {
+    "id": 133,
+    "rom": 1935050,
+    "raw": [
+      1,
+      87,
+      0,
+      0
+    ],
+    "route": "psg",
+    "channel_index": 0,
+    "priority": 1,
+    "sequence_id": 87,
+    "sequence_pointer": 1933602
+  },
+  {
+    "id": 134,
+    "rom": 1935054,
+    "raw": [
+      34,
+      98,
+      0,
+      0
+    ],
+    "route": "psg",
+    "channel_index": 2,
+    "priority": 2,
+    "sequence_id": 98,
+    "sequence_pointer": 1933684
+  },
+  {
+    "id": 135,
+    "rom": 1935058,
+    "raw": [
+      255,
+      252,
+      0,
+      0
+    ],
+    "route": "z80",
+    "mailbox_A00020": 252,
+    "mailbox_A00022": 0
+  },
+  {
+    "id": 136,
+    "rom": 1935062,
+    "raw": [
+      14,
+      104,
+      0,
+      0
+    ],
+    "route": "psg",
+    "channel_index": 0,
+    "priority": 14,
+    "sequence_id": 104,
+    "sequence_pointer": 1935714
+  },
+  {
+    "id": 137,
+    "rom": 1935066,
+    "raw": [
+      255,
+      222,
+      0,
+      0
+    ],
+    "route": "z80",
+    "mailbox_A00020": 222,
+    "mailbox_A00022": 0
+  },
+  {
+    "id": 138,
+    "rom": 1935070,
+    "raw": [
+      1,
+      112,
+      0,
+      0
+    ],
+    "route": "psg",
+    "channel_index": 0,
+    "priority": 1,
+    "sequence_id": 112,
+    "sequence_pointer": 1939104
+  },
+  {
+    "id": 139,
+    "rom": 1935074,
+    "raw": [
+      255,
+      215,
+      0,
+      0
+    ],
+    "route": "z80",
+    "mailbox_A00020": 215,
+    "mailbox_A00022": 0
+  },
+  {
+    "id": 140,
+    "rom": 1935078,
+    "raw": [
+      1,
+      60,
+      0,
+      0
+    ],
+    "route": "psg",
+    "channel_index": 0,
+    "priority": 1,
+    "sequence_id": 60,
+    "sequence_pointer": 1937136
+  },
+  {
+    "id": 141,
+    "rom": 1935082,
+    "raw": [
+      33,
+      61,
+      0,
+      0
+    ],
+    "route": "psg",
+    "channel_index": 2,
+    "priority": 1,
+    "sequence_id": 61,
+    "sequence_pointer": 1937206
+  },
+  {
+    "id": 142,
+    "rom": 1935086,
+    "raw": [
+      33,
+      62,
+      0,
+      0
+    ],
+    "route": "psg",
+    "channel_index": 2,
+    "priority": 1,
+    "sequence_id": 62,
+    "sequence_pointer": 1935714
+  },
+  {
+    "id": 143,
+    "rom": 1935090,
+    "raw": [
+      1,
+      105,
+      0,
+      0
+    ],
+    "route": "psg",
+    "channel_index": 0,
+    "priority": 1,
+    "sequence_id": 105,
+    "sequence_pointer": 1935714
+  },
+  {
+    "id": 144,
+    "rom": 1935094,
+    "raw": [
+      246,
+      228,
+      0,
+      0
+    ],
+    "route": "z80",
+    "mailbox_A00020": 228,
+    "mailbox_A00022": 0
+  },
+  {
+    "id": 145,
+    "rom": 1935098,
+    "raw": [
+      255,
+      228,
+      1,
+      0
+    ],
+    "route": "z80",
+    "mailbox_A00020": 228,
+    "mailbox_A00022": 1
+  },
+  {
+    "id": 146,
+    "rom": 1935102,
+    "raw": [
+      255,
+      244,
+      0,
+      0
+    ],
+    "route": "z80",
+    "mailbox_A00020": 244,
+    "mailbox_A00022": 0
+  },
+  {
+    "id": 147,
+    "rom": 1935106,
+    "raw": [
+      255,
+      213,
+      0,
+      0
+    ],
+    "route": "z80",
+    "mailbox_A00020": 213,
+    "mailbox_A00022": 0
+  },
+  {
+    "id": 148,
+    "rom": 1935110,
+    "raw": [
+      255,
+      216,
+      0,
+      0
+    ],
+    "route": "z80",
+    "mailbox_A00020": 216,
+    "mailbox_A00022": 0
+  },
+  {
+    "id": 149,
+    "rom": 1935114,
+    "raw": [
+      255,
+      243,
+      0,
+      0
+    ],
+    "route": "z80",
+    "mailbox_A00020": 243,
+    "mailbox_A00022": 0
+  },
+  {
+    "id": 150,
+    "rom": 1935118,
+    "raw": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "route": "psg",
+    "channel_index": 0,
+    "priority": 0,
+    "sequence_id": 0,
+    "sequence_pointer": 1935714
+  },
+  {
+    "id": 151,
+    "rom": 1935122,
+    "raw": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "route": "psg",
+    "channel_index": 0,
+    "priority": 0,
+    "sequence_id": 0,
+    "sequence_pointer": 1935714
+  },
+  {
+    "id": 152,
+    "rom": 1935126,
+    "raw": [
+      33,
+      67,
+      0,
+      0
+    ],
+    "route": "psg",
+    "channel_index": 2,
+    "priority": 1,
+    "sequence_id": 67,
+    "sequence_pointer": 1937280
+  },
+  {
+    "id": 153,
+    "rom": 1935130,
+    "raw": [
+      255,
+      223,
+      0,
+      0
+    ],
+    "route": "z80",
+    "mailbox_A00020": 223,
+    "mailbox_A00022": 0
+  },
+  {
+    "id": 154,
+    "rom": 1935134,
+    "raw": [
+      1,
+      68,
+      0,
+      0
+    ],
+    "route": "psg",
+    "channel_index": 0,
+    "priority": 1,
+    "sequence_id": 68,
+    "sequence_pointer": 1937348
+  },
+  {
+    "id": 155,
+    "rom": 1935138,
+    "raw": [
+      255,
+      226,
+      0,
+      0
+    ],
+    "route": "z80",
+    "mailbox_A00020": 226,
+    "mailbox_A00022": 0
+  },
+  {
+    "id": 156,
+    "rom": 1935142,
+    "raw": [
+      1,
+      69,
+      0,
+      0
+    ],
+    "route": "psg",
+    "channel_index": 0,
+    "priority": 1,
+    "sequence_id": 69,
+    "sequence_pointer": 1935714
+  },
+  {
+    "id": 157,
+    "rom": 1935146,
+    "raw": [
+      33,
+      70,
+      0,
+      0
+    ],
+    "route": "psg",
+    "channel_index": 2,
+    "priority": 1,
+    "sequence_id": 70,
+    "sequence_pointer": 1935714
+  },
+  {
+    "id": 158,
+    "rom": 1935150,
+    "raw": [
+      255,
+      232,
+      0,
+      0
+    ],
+    "route": "z80",
+    "mailbox_A00020": 232,
+    "mailbox_A00022": 0
+  },
+  {
+    "id": 159,
+    "rom": 1935154,
+    "raw": [
+      255,
+      245,
+      0,
+      0
+    ],
+    "route": "z80",
+    "mailbox_A00020": 245,
+    "mailbox_A00022": 0
+  },
+  {
+    "id": 160,
+    "rom": 1935158,
+    "raw": [
+      33,
+      71,
+      0,
+      0
+    ],
+    "route": "psg",
+    "channel_index": 2,
+    "priority": 1,
+    "sequence_id": 71,
+    "sequence_pointer": 1937394
+  },
+  {
+    "id": 161,
+    "rom": 1935162,
+    "raw": [
+      17,
+      72,
+      0,
+      0
+    ],
+    "route": "psg",
+    "channel_index": 1,
+    "priority": 1,
+    "sequence_id": 72,
+    "sequence_pointer": 1935714
+  },
+  {
+    "id": 162,
+    "rom": 1935166,
+    "raw": [
+      1,
+      73,
+      0,
+      0
+    ],
+    "route": "psg",
+    "channel_index": 0,
+    "priority": 1,
+    "sequence_id": 73,
+    "sequence_pointer": 1937864
+  },
+  {
+    "id": 163,
+    "rom": 1935170,
+    "raw": [
+      33,
+      74,
+      0,
+      0
+    ],
+    "route": "psg",
+    "channel_index": 2,
+    "priority": 1,
+    "sequence_id": 74,
+    "sequence_pointer": 1933402
+  },
+  {
+    "id": 164,
+    "rom": 1935174,
+    "raw": [
+      33,
+      75,
+      0,
+      0
+    ],
+    "route": "psg",
+    "channel_index": 2,
+    "priority": 1,
+    "sequence_id": 75,
+    "sequence_pointer": 1937912
+  },
+  {
+    "id": 165,
+    "rom": 1935178,
+    "raw": [
+      33,
+      76,
+      0,
+      0
+    ],
+    "route": "psg",
+    "channel_index": 2,
+    "priority": 1,
+    "sequence_id": 76,
+    "sequence_pointer": 1937980
+  },
+  {
+    "id": 166,
+    "rom": 1935182,
+    "raw": [
+      33,
+      77,
+      0,
+      0
+    ],
+    "route": "psg",
+    "channel_index": 2,
+    "priority": 1,
+    "sequence_id": 77,
+    "sequence_pointer": 1935714
+  },
+  {
+    "id": 167,
+    "rom": 1935186,
+    "raw": [
+      255,
+      227,
+      0,
+      0
+    ],
+    "route": "z80",
+    "mailbox_A00020": 227,
+    "mailbox_A00022": 0
+  },
+  {
+    "id": 168,
+    "rom": 1935190,
+    "raw": [
+      255,
+      253,
+      0,
+      0
+    ],
+    "route": "z80",
+    "mailbox_A00020": 253,
+    "mailbox_A00022": 0
+  },
+  {
+    "id": 169,
+    "rom": 1935194,
+    "raw": [
+      1,
+      79,
+      0,
+      0
+    ],
+    "route": "psg",
+    "channel_index": 0,
+    "priority": 1,
+    "sequence_id": 79,
+    "sequence_pointer": 1935714
+  },
+  {
+    "id": 170,
+    "rom": 1935198,
+    "raw": [
+      255,
+      221,
+      0,
+      0
+    ],
+    "route": "z80",
+    "mailbox_A00020": 221,
+    "mailbox_A00022": 0
+  },
+  {
+    "id": 171,
+    "rom": 1935202,
+    "raw": [
+      33,
+      106,
+      0,
+      0
+    ],
+    "route": "psg",
+    "channel_index": 2,
+    "priority": 1,
+    "sequence_id": 106,
+    "sequence_pointer": 1938558
+  },
+  {
+    "id": 172,
+    "rom": 1935206,
+    "raw": [
+      1,
+      80,
+      0,
+      0
+    ],
+    "route": "psg",
+    "channel_index": 0,
+    "priority": 1,
+    "sequence_id": 80,
+    "sequence_pointer": 1935714
+  },
+  {
+    "id": 173,
+    "rom": 1935210,
+    "raw": [
+      1,
+      81,
+      0,
+      0
+    ],
+    "route": "psg",
+    "channel_index": 0,
+    "priority": 1,
+    "sequence_id": 81,
+    "sequence_pointer": 1935714
+  },
+  {
+    "id": 174,
+    "rom": 1935214,
+    "raw": [
+      1,
+      82,
+      0,
+      0
+    ],
+    "route": "psg",
+    "channel_index": 0,
+    "priority": 1,
+    "sequence_id": 82,
+    "sequence_pointer": 1938050
+  },
+  {
+    "id": 175,
+    "rom": 1935218,
+    "raw": [
+      17,
+      83,
+      0,
+      0
+    ],
+    "route": "psg",
+    "channel_index": 1,
+    "priority": 1,
+    "sequence_id": 83,
+    "sequence_pointer": 1935714
+  },
+  {
+    "id": 176,
+    "rom": 1935222,
+    "raw": [
+      1,
+      118,
+      0,
+      0
+    ],
+    "route": "psg",
+    "channel_index": 0,
+    "priority": 1,
+    "sequence_id": 118,
+    "sequence_pointer": 1939306
+  }
+]

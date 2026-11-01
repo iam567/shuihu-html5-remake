@@ -1,0 +1,50 @@
+[
+ {
+  "id": "physical-1",
+  "kind": "vfx",
+  "size": "1536x1280",
+  "sourceId": "physical"
+ },
+ {
+  "id": "physical-2",
+  "kind": "vfx",
+  "size": "1536x1280",
+  "sourceId": "physical"
+ },
+ {
+  "id": "elements-1",
+  "kind": "vfx",
+  "size": "1536x1280",
+  "sourceId": "elements"
+ },
+ {
+  "id": "elements-2",
+  "kind": "vfx",
+  "size": "1536x1280",
+  "sourceId": "elements"
+ },
+ {
+  "id": "nature-1",
+  "kind": "vfx",
+  "size": "1536x1280",
+  "sourceId": "nature"
+ },
+ {
+  "id": "nature-2",
+  "kind": "vfx",
+  "size": "1536x1280",
+  "sourceId": "nature"
+ },
+ {
+  "id": "mystic-1",
+  "kind": "vfx",
+  "size": "1536x1280",
+  "sourceId": "mystic"
+ },
+ {
+  "id": "mystic-2",
+  "kind": "vfx",
+  "size": "1536x1280",
+  "sourceId": "mystic"
+ }
+]

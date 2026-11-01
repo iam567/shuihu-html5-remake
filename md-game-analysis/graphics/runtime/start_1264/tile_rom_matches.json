@@ -1,0 +1,628 @@
+[
+  {
+    "name": "portrait_afu",
+    "tiles": [
+      {
+        "x": 3,
+        "y": 13,
+        "attr": 50460,
+        "tile": 1308,
+        "rom_first_exact_match": "0x160a38"
+      },
+      {
+        "x": 4,
+        "y": 13,
+        "attr": 50466,
+        "tile": 1314,
+        "rom_first_exact_match": "0x166978"
+      },
+      {
+        "x": 5,
+        "y": 13,
+        "attr": 50472,
+        "tile": 1320,
+        "rom_first_exact_match": "0x166a38"
+      },
+      {
+        "x": 6,
+        "y": 13,
+        "attr": 50478,
+        "tile": 1326,
+        "rom_first_exact_match": "0x166af8"
+      },
+      {
+        "x": 7,
+        "y": 13,
+        "attr": 50484,
+        "tile": 1332,
+        "rom_first_exact_match": "0x166bb8"
+      },
+      {
+        "x": 8,
+        "y": 13,
+        "attr": 50490,
+        "tile": 1338,
+        "rom_first_exact_match": "0x160978"
+      },
+      {
+        "x": 3,
+        "y": 14,
+        "attr": 50461,
+        "tile": 1309,
+        "rom_first_exact_match": "0x1668d8"
+      },
+      {
+        "x": 4,
+        "y": 14,
+        "attr": 50467,
+        "tile": 1315,
+        "rom_first_exact_match": "0x166998"
+      },
+      {
+        "x": 5,
+        "y": 14,
+        "attr": 50473,
+        "tile": 1321,
+        "rom_first_exact_match": "0x166a58"
+      },
+      {
+        "x": 6,
+        "y": 14,
+        "attr": 50479,
+        "tile": 1327,
+        "rom_first_exact_match": "0x166b18"
+      },
+      {
+        "x": 7,
+        "y": 14,
+        "attr": 50485,
+        "tile": 1333,
+        "rom_first_exact_match": "0x166bd8"
+      },
+      {
+        "x": 8,
+        "y": 14,
+        "attr": 50491,
+        "tile": 1339,
+        "rom_first_exact_match": "0x160578"
+      },
+      {
+        "x": 3,
+        "y": 15,
+        "attr": 50462,
+        "tile": 1310,
+        "rom_first_exact_match": "0x1668f8"
+      },
+      {
+        "x": 4,
+        "y": 15,
+        "attr": 50468,
+        "tile": 1316,
+        "rom_first_exact_match": "0x1669b8"
+      },
+      {
+        "x": 5,
+        "y": 15,
+        "attr": 50474,
+        "tile": 1322,
+        "rom_first_exact_match": "0x166a78"
+      },
+      {
+        "x": 6,
+        "y": 15,
+        "attr": 50480,
+        "tile": 1328,
+        "rom_first_exact_match": "0x166b38"
+      },
+      {
+        "x": 7,
+        "y": 15,
+        "attr": 50486,
+        "tile": 1334,
+        "rom_first_exact_match": "0x166bf8"
+      },
+      {
+        "x": 8,
+        "y": 15,
+        "attr": 50492,
+        "tile": 1340,
+        "rom_first_exact_match": "0x160578"
+      },
+      {
+        "x": 3,
+        "y": 16,
+        "attr": 50463,
+        "tile": 1311,
+        "rom_first_exact_match": "0x1601ac"
+      },
+      {
+        "x": 4,
+        "y": 16,
+        "attr": 50469,
+        "tile": 1317,
+        "rom_first_exact_match": "0x1669d8"
+      },
+      {
+        "x": 5,
+        "y": 16,
+        "attr": 50475,
+        "tile": 1323,
+        "rom_first_exact_match": "0x166a98"
+      },
+      {
+        "x": 6,
+        "y": 16,
+        "attr": 50481,
+        "tile": 1329,
+        "rom_first_exact_match": "0x166b58"
+      },
+      {
+        "x": 7,
+        "y": 16,
+        "attr": 50487,
+        "tile": 1335,
+        "rom_first_exact_match": "0x166c18"
+      },
+      {
+        "x": 8,
+        "y": 16,
+        "attr": 50493,
+        "tile": 1341,
+        "rom_first_exact_match": "0x160578"
+      },
+      {
+        "x": 3,
+        "y": 17,
+        "attr": 50464,
+        "tile": 1312,
+        "rom_first_exact_match": "0x1601b4"
+      },
+      {
+        "x": 4,
+        "y": 17,
+        "attr": 50470,
+        "tile": 1318,
+        "rom_first_exact_match": "0x1669f8"
+      },
+      {
+        "x": 5,
+        "y": 17,
+        "attr": 50476,
+        "tile": 1324,
+        "rom_first_exact_match": "0x166ab8"
+      },
+      {
+        "x": 6,
+        "y": 17,
+        "attr": 50482,
+        "tile": 1330,
+        "rom_first_exact_match": "0x166b78"
+      },
+      {
+        "x": 7,
+        "y": 17,
+        "attr": 50488,
+        "tile": 1336,
+        "rom_first_exact_match": "0x166c38"
+      },
+      {
+        "x": 8,
+        "y": 17,
+        "attr": 50494,
+        "tile": 1342,
+        "rom_first_exact_match": "0x160578"
+      },
+      {
+        "x": 3,
+        "y": 18,
+        "attr": 50465,
+        "tile": 1313,
+        "rom_first_exact_match": "0x160658"
+      },
+      {
+        "x": 4,
+        "y": 18,
+        "attr": 50471,
+        "tile": 1319,
+        "rom_first_exact_match": "0x161918"
+      },
+      {
+        "x": 5,
+        "y": 18,
+        "attr": 50477,
+        "tile": 1325,
+        "rom_first_exact_match": "0x166ad8"
+      },
+      {
+        "x": 6,
+        "y": 18,
+        "attr": 50483,
+        "tile": 1331,
+        "rom_first_exact_match": "0x166b98"
+      },
+      {
+        "x": 7,
+        "y": 18,
+        "attr": 50489,
+        "tile": 1337,
+        "rom_first_exact_match": "0x166c58"
+      },
+      {
+        "x": 8,
+        "y": 18,
+        "attr": 50495,
+        "tile": 1343,
+        "rom_first_exact_match": "0x166d18"
+      }
+    ]
+  },
+  {
+    "name": "dialogue",
+    "tiles": [
+      {
+        "x": 4,
+        "y": 20,
+        "attr": 50496,
+        "tile": 1344,
+        "rom_first_exact_match": null
+      },
+      {
+        "x": 5,
+        "y": 20,
+        "attr": 50497,
+        "tile": 1345,
+        "rom_first_exact_match": null
+      },
+      {
+        "x": 6,
+        "y": 20,
+        "attr": 50500,
+        "tile": 1348,
+        "rom_first_exact_match": null
+      },
+      {
+        "x": 7,
+        "y": 20,
+        "attr": 50501,
+        "tile": 1349,
+        "rom_first_exact_match": null
+      },
+      {
+        "x": 8,
+        "y": 20,
+        "attr": 50504,
+        "tile": 1352,
+        "rom_first_exact_match": null
+      },
+      {
+        "x": 9,
+        "y": 20,
+        "attr": 50505,
+        "tile": 1353,
+        "rom_first_exact_match": null
+      },
+      {
+        "x": 10,
+        "y": 20,
+        "attr": 50508,
+        "tile": 1356,
+        "rom_first_exact_match": "0x836d1"
+      },
+      {
+        "x": 11,
+        "y": 20,
+        "attr": 50509,
+        "tile": 1357,
+        "rom_first_exact_match": null
+      },
+      {
+        "x": 12,
+        "y": 20,
+        "attr": 50512,
+        "tile": 1360,
+        "rom_first_exact_match": null
+      },
+      {
+        "x": 13,
+        "y": 20,
+        "attr": 50513,
+        "tile": 1361,
+        "rom_first_exact_match": null
+      },
+      {
+        "x": 14,
+        "y": 20,
+        "attr": 50516,
+        "tile": 1364,
+        "rom_first_exact_match": null
+      },
+      {
+        "x": 15,
+        "y": 20,
+        "attr": 50517,
+        "tile": 1365,
+        "rom_first_exact_match": null
+      },
+      {
+        "x": 16,
+        "y": 20,
+        "attr": 50520,
+        "tile": 1368,
+        "rom_first_exact_match": null
+      },
+      {
+        "x": 17,
+        "y": 20,
+        "attr": 50521,
+        "tile": 1369,
+        "rom_first_exact_match": null
+      },
+      {
+        "x": 18,
+        "y": 20,
+        "attr": 50524,
+        "tile": 1372,
+        "rom_first_exact_match": null
+      },
+      {
+        "x": 19,
+        "y": 20,
+        "attr": 50525,
+        "tile": 1373,
+        "rom_first_exact_match": null
+      },
+      {
+        "x": 20,
+        "y": 20,
+        "attr": 50528,
+        "tile": 1376,
+        "rom_first_exact_match": null
+      },
+      {
+        "x": 21,
+        "y": 20,
+        "attr": 50529,
+        "tile": 1377,
+        "rom_first_exact_match": null
+      },
+      {
+        "x": 22,
+        "y": 20,
+        "attr": 50532,
+        "tile": 1380,
+        "rom_first_exact_match": null
+      },
+      {
+        "x": 23,
+        "y": 20,
+        "attr": 50533,
+        "tile": 1381,
+        "rom_first_exact_match": null
+      },
+      {
+        "x": 24,
+        "y": 20,
+        "attr": 50536,
+        "tile": 1384,
+        "rom_first_exact_match": null
+      },
+      {
+        "x": 25,
+        "y": 20,
+        "attr": 50537,
+        "tile": 1385,
+        "rom_first_exact_match": null
+      },
+      {
+        "x": 26,
+        "y": 20,
+        "attr": 50540,
+        "tile": 1388,
+        "rom_first_exact_match": null
+      },
+      {
+        "x": 27,
+        "y": 20,
+        "attr": 50541,
+        "tile": 1389,
+        "rom_first_exact_match": null
+      },
+      {
+        "x": 28,
+        "y": 20,
+        "attr": 50544,
+        "tile": 1392,
+        "rom_first_exact_match": null
+      },
+      {
+        "x": 29,
+        "y": 20,
+        "attr": 50545,
+        "tile": 1393,
+        "rom_first_exact_match": null
+      },
+      {
+        "x": 4,
+        "y": 21,
+        "attr": 50498,
+        "tile": 1346,
+        "rom_first_exact_match": null
+      },
+      {
+        "x": 5,
+        "y": 21,
+        "attr": 50499,
+        "tile": 1347,
+        "rom_first_exact_match": null
+      },
+      {
+        "x": 6,
+        "y": 21,
+        "attr": 50502,
+        "tile": 1350,
+        "rom_first_exact_match": null
+      },
+      {
+        "x": 7,
+        "y": 21,
+        "attr": 50503,
+        "tile": 1351,
+        "rom_first_exact_match": null
+      },
+      {
+        "x": 8,
+        "y": 21,
+        "attr": 50506,
+        "tile": 1354,
+        "rom_first_exact_match": null
+      },
+      {
+        "x": 9,
+        "y": 21,
+        "attr": 50507,
+        "tile": 1355,
+        "rom_first_exact_match": null
+      },
+      {
+        "x": 10,
+        "y": 21,
+        "attr": 50510,
+        "tile": 1358,
+        "rom_first_exact_match": "0x836d1"
+      },
+      {
+        "x": 11,
+        "y": 21,
+        "attr": 50511,
+        "tile": 1359,
+        "rom_first_exact_match": "0x16a6c4"
+      },
+      {
+        "x": 12,
+        "y": 21,
+        "attr": 50514,
+        "tile": 1362,
+        "rom_first_exact_match": null
+      },
+      {
+        "x": 13,
+        "y": 21,
+        "attr": 50515,
+        "tile": 1363,
+        "rom_first_exact_match": null
+      },
+      {
+        "x": 14,
+        "y": 21,
+        "attr": 50518,
+        "tile": 1366,
+        "rom_first_exact_match": null
+      },
+      {
+        "x": 15,
+        "y": 21,
+        "attr": 50519,
+        "tile": 1367,
+        "rom_first_exact_match": null
+      },
+      {
+        "x": 16,
+        "y": 21,
+        "attr": 50522,
+        "tile": 1370,
+        "rom_first_exact_match": null
+      },
+      {
+        "x": 17,
+        "y": 21,
+        "attr": 50523,
+        "tile": 1371,
+        "rom_first_exact_match": null
+      },
+      {
+        "x": 18,
+        "y": 21,
+        "attr": 50526,
+        "tile": 1374,
+        "rom_first_exact_match": null
+      },
+      {
+        "x": 19,
+        "y": 21,
+        "attr": 50527,
+        "tile": 1375,
+        "rom_first_exact_match": null
+      },
+      {
+        "x": 20,
+        "y": 21,
+        "attr": 50530,
+        "tile": 1378,
+        "rom_first_exact_match": null
+      },
+      {
+        "x": 21,
+        "y": 21,
+        "attr": 50531,
+        "tile": 1379,
+        "rom_first_exact_match": null
+      },
+      {
+        "x": 22,
+        "y": 21,
+        "attr": 50534,
+        "tile": 1382,
+        "rom_first_exact_match": null
+      },
+      {
+        "x": 23,
+        "y": 21,
+        "attr": 50535,
+        "tile": 1383,
+        "rom_first_exact_match": null
+      },
+      {
+        "x": 24,
+        "y": 21,
+        "attr": 50538,
+        "tile": 1386,
+        "rom_first_exact_match": null
+      },
+      {
+        "x": 25,
+        "y": 21,
+        "attr": 50539,
+        "tile": 1387,
+        "rom_first_exact_match": null
+      },
+      {
+        "x": 26,
+        "y": 21,
+        "attr": 50542,
+        "tile": 1390,
+        "rom_first_exact_match": null
+      },
+      {
+        "x": 27,
+        "y": 21,
+        "attr": 50543,
+        "tile": 1391,
+        "rom_first_exact_match": null
+      },
+      {
+        "x": 28,
+        "y": 21,
+        "attr": 50546,
+        "tile": 1394,
+        "rom_first_exact_match": null
+      },
+      {
+        "x": 29,
+        "y": 21,
+        "attr": 50547,
+        "tile": 1395,
+        "rom_first_exact_match": null
+      }
+    ]
+  }
+]

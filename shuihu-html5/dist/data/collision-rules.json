@@ -1,0 +1,49 @@
+{
+  "tileSize": 32,
+  "directions": {
+    "0": "up",
+    "1": "down",
+    "2": "left",
+    "3": "right"
+  },
+  "terrain": {
+    "walkableMin": 0,
+    "walkableMax": 79,
+    "stepEventMin": 1,
+    "stepEventMax": 79,
+    "blockedMin": 80,
+    "touchBlockedEventMin": 81,
+    "touchBlockedEventMax": 127,
+    "explicitInteractMin": 128,
+    "explicitInteractMax": 175
+  },
+  "npcCollision": {
+    "slots": [
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15
+    ],
+    "activeWhen": "characterId != 0",
+    "rule": "Block destination tile if it overlaps active NPC 32x32 sprite footprint. Non-grid-aligned x/y include both floor and ceil tile positions. Party slots0..7 are not checked by routine0x7AF6.",
+    "source": "0x7AF6..0x7B88"
+  },
+  "touchAdaptation": {
+    "movement": "Four-neighbor path over values0..79; apply bounds and dynamic NPC footprints",
+    "npcInteraction": "Path to a walkable cardinal neighbor of actor; face actor; invoke original NPC interaction rather than enter actor tile",
+    "objectInteraction": "For raw128..175 path to a cardinal walkable neighbor and invoke explicit interaction",
+    "eventTiles": "Values1..79 can be walked on and trigger scripts; do not erase or normalize these codes",
+    "exitUi": "Every inventory/shop/dialogue overlay must expose close or cancel; this is requested HTML5 behavior, not inferred ROM control mapping"
+  },
+  "evidence": [
+    "0xA4C compares target to0x4F before moving",
+    "0xD30 step events1..0x4F",
+    "0xD92 blocked contact events0x51..0x7F",
+    "0x9C2 explicit interaction0x80..0xAF",
+    "0x7AF6 checks NPC tile footprint"
+  ]
+}

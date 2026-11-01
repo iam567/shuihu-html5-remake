@@ -1,0 +1,27 @@
+00014184  lea (0xffb000).l,A1  ; len 6
+0001418a  lea (0xffd000).l,A3  ; len 6
+00014190  lea (0x14200).l,A5  ; len 6
+00014196  move.w #0x28,D0w  ; len 4
+0001419a  move.w (0x00ff613a).l,D1w  ; len 6
+000141a0  move.w (0x00ff613c).l,D2w  ; len 6
+000141a6  add.w (A5)+,D1w  ; len 2
+000141a8  add.w (A5)+,D2w  ; len 2
+000141aa  cmpi.w #0x0,D1w  ; len 4
+000141ae  blt.w 0x000141fa  ; len 4
+000141b2  cmp.b (0x00ffe108).l,D1b  ; len 6
+000141b8  bge.w 0x000141fa  ; len 4
+000141bc  cmpi.w #0x0,D2w  ; len 4
+000141c0  blt.w 0x000141fa  ; len 4
+000141c4  cmp.b (0x00ffe109).l,D2b  ; len 6
+000141ca  bge.w 0x000141fa  ; len 4
+000141ce  move.w D2w,D4w  ; len 2
+000141d0  jsr 0x00006902.l  ; len 6
+000141d6  cmpi.b #0x7f,(0x0,A1,D3w*0x1)  ; len 6
+000141dc  beq.w 0x000141fa  ; len 4
+000141e0  cmpi.b #0x4f,(0x0,A3,D3w*0x1)  ; len 6
+000141e6  bhi.w 0x000141fa  ; len 4
+000141ea  move.w D1w,(0x00ff613a).l  ; len 6
+000141f0  move.w D4w,(0x00ff613c).l  ; len 6
+000141f6  bra.w 0x000141fe  ; len 4
+000141fa  dbf D0w,0x0001419a  ; len 4
+000141fe  rts  ; len 2

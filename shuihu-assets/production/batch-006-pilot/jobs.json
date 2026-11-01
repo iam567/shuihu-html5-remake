@@ -1,0 +1,29 @@
+[
+  {
+    "id": "objects-bank-032386-0772aa-0dd948-1-pixel-hd",
+    "kind": "object-sheet",
+    "style": "pixel-hd",
+    "reference": "objects-bank-032386-0772aa-0dd948-1-reference.png",
+    "size": "1536x1024",
+    "sourceId": "bank-032386-0772aa-0dd948",
+    "sheet": "objects-bank-032386-0772aa-0dd948-1"
+  },
+  {
+    "id": "objects-bank-032386-0772aa-0dd948-1-unreal",
+    "kind": "object-sheet",
+    "style": "unreal",
+    "reference": "objects-bank-032386-0772aa-0dd948-1-reference.png",
+    "size": "1536x1024",
+    "sourceId": "bank-032386-0772aa-0dd948",
+    "sheet": "objects-bank-032386-0772aa-0dd948-1"
+  },
+  {
+    "id": "objects-bank-032386-0772aa-0dd948-1-ghibli",
+    "kind": "object-sheet",
+    "style": "ghibli",
+    "reference": "objects-bank-032386-0772aa-0dd948-1-reference.png",
+    "size": "1536x1024",
+    "sourceId": "bank-032386-0772aa-0dd948",
+    "sheet": "objects-bank-032386-0772aa-0dd948-1"
+  }
+]

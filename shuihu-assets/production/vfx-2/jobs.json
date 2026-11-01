@@ -1,0 +1,74 @@
+[
+ {
+  "id": "blades-1",
+  "kind": "vfx",
+  "size": "1536x1280",
+  "sourceId": "blades"
+ },
+ {
+  "id": "blades-2",
+  "kind": "vfx",
+  "size": "1536x1280",
+  "sourceId": "blades"
+ },
+ {
+  "id": "missiles-1",
+  "kind": "vfx",
+  "size": "1536x1280",
+  "sourceId": "missiles"
+ },
+ {
+  "id": "missiles-2",
+  "kind": "vfx",
+  "size": "1536x1280",
+  "sourceId": "missiles"
+ },
+ {
+  "id": "strategy-1",
+  "kind": "vfx",
+  "size": "1536x1280",
+  "sourceId": "strategy"
+ },
+ {
+  "id": "strategy-2",
+  "kind": "vfx",
+  "size": "1536x1280",
+  "sourceId": "strategy"
+ },
+ {
+  "id": "curses-1",
+  "kind": "vfx",
+  "size": "1536x1280",
+  "sourceId": "curses"
+ },
+ {
+  "id": "curses-2",
+  "kind": "vfx",
+  "size": "1536x1280",
+  "sourceId": "curses"
+ },
+ {
+  "id": "deities-1",
+  "kind": "vfx",
+  "size": "1536x1280",
+  "sourceId": "deities"
+ },
+ {
+  "id": "deities-2",
+  "kind": "vfx",
+  "size": "1536x1280",
+  "sourceId": "deities"
+ },
+ {
+  "id": "items-1",
+  "kind": "vfx",
+  "size": "1536x1280",
+  "sourceId": "items"
+ },
+ {
+  "id": "items-2",
+  "kind": "vfx",
+  "size": "1536x1280",
+  "sourceId": "items"
+ }
+]

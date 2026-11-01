@@ -1,0 +1,38 @@
+[
+ {
+  "id": "landscape-1",
+  "kind": "title",
+  "size": "1536x1024",
+  "sourceId": "landscape"
+ },
+ {
+  "id": "landscape-2",
+  "kind": "title",
+  "size": "1536x1024",
+  "sourceId": "landscape"
+ },
+ {
+  "id": "logo-1",
+  "kind": "title",
+  "size": "1536x1024",
+  "sourceId": "logo"
+ },
+ {
+  "id": "logo-2",
+  "kind": "title",
+  "size": "1536x1024",
+  "sourceId": "logo"
+ },
+ {
+  "id": "cranes-1",
+  "kind": "title",
+  "size": "1536x1024",
+  "sourceId": "cranes"
+ },
+ {
+  "id": "cranes-2",
+  "kind": "title",
+  "size": "1536x1024",
+  "sourceId": "cranes"
+ }
+]

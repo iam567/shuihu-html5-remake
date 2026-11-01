@@ -1,0 +1,4241 @@
+{
+  "bank-032386-0772aa-0dd948-pixel-hd": {
+    "columnBounds": [
+      0,
+      136,
+      271,
+      407,
+      542,
+      678,
+      814,
+      949,
+      1085,
+      1221,
+      1356,
+      1492,
+      1628,
+      1763,
+      1899,
+      2034,
+      2170
+    ],
+    "rowBounds": [
+      22,
+      161,
+      296,
+      433,
+      570,
+      709
+    ],
+    "x": 0,
+    "y": 23.4375,
+    "scaleX": 4.23828125,
+    "scaleY": 4.23828125,
+    "maskError": 0.005046875461064623,
+    "sourceSize": [
+      512,
+      160
+    ],
+    "generatedSize": [
+      2170,
+      725
+    ],
+    "method": "source-black-slot-mask-registration",
+    "status": "alignment-candidate-needs-visual-review",
+    "image": "production/batch-001/bank-032386-0772aa-0dd948-pixel-hd.png"
+  },
+  "bank-032386-0772aa-0dd948-unreal": {
+    "columnBounds": [
+      0,
+      136,
+      271,
+      407,
+      542,
+      678,
+      814,
+      949,
+      1085,
+      1221,
+      1356,
+      1492,
+      1628,
+      1763,
+      1899,
+      2034,
+      2170
+    ],
+    "rowBounds": [
+      23,
+      161,
+      296,
+      431,
+      566,
+      702
+    ],
+    "x": 0,
+    "y": 23.4375,
+    "scaleX": 4.23828125,
+    "scaleY": 4.23828125,
+    "maskError": 0.00520879405666897,
+    "sourceSize": [
+      512,
+      160
+    ],
+    "generatedSize": [
+      2170,
+      725
+    ],
+    "method": "source-black-slot-mask-registration",
+    "status": "alignment-candidate-needs-visual-review",
+    "image": "production/batch-001/bank-032386-0772aa-0dd948-unreal.png"
+  },
+  "bank-032386-0772aa-0dd948-ghibli": {
+    "columnBounds": [
+      0,
+      136,
+      271,
+      407,
+      542,
+      678,
+      814,
+      949,
+      1085,
+      1221,
+      1356,
+      1492,
+      1628,
+      1763,
+      1899,
+      2034,
+      2170
+    ],
+    "rowBounds": [
+      24,
+      160,
+      296,
+      435,
+      573,
+      685
+    ],
+    "x": 0,
+    "y": 23.4375,
+    "scaleX": 4.23828125,
+    "scaleY": 4.23828125,
+    "maskError": 0.0,
+    "sourceSize": [
+      512,
+      160
+    ],
+    "generatedSize": [
+      2170,
+      725
+    ],
+    "method": "source-black-slot-mask-registration",
+    "status": "alignment-candidate-needs-visual-review",
+    "image": "production/batch-001/bank-032386-0772aa-0dd948-ghibli.png"
+  },
+  "bank-037948-07852a-0dd988-pixel-hd": {
+    "columnBounds": [
+      0,
+      94,
+      189,
+      284,
+      378,
+      472,
+      567,
+      662,
+      756,
+      850,
+      945,
+      1040,
+      1134,
+      1228,
+      1323,
+      1418,
+      1512
+    ],
+    "rowBounds": [
+      0,
+      95,
+      189,
+      284,
+      378,
+      473,
+      567,
+      662,
+      756,
+      851,
+      945,
+      1040
+    ],
+    "x": 0,
+    "y": 0,
+    "scaleX": 2.953125,
+    "scaleY": 2.9545454545454546,
+    "maskError": 0.016411087879724263,
+    "sourceSize": [
+      512,
+      352
+    ],
+    "generatedSize": [
+      1512,
+      1040
+    ],
+    "method": "aspect-matched-exact-grid",
+    "status": "alignment-candidate-needs-visual-review",
+    "image": "production/batch-001/bank-037948-07852a-0dd988-pixel-hd.png"
+  },
+  "bank-037948-07852a-0dd988-unreal": {
+    "columnBounds": [
+      0,
+      94,
+      189,
+      284,
+      378,
+      472,
+      567,
+      662,
+      756,
+      850,
+      945,
+      1040,
+      1134,
+      1228,
+      1323,
+      1418,
+      1512
+    ],
+    "rowBounds": [
+      0,
+      95,
+      189,
+      284,
+      378,
+      473,
+      567,
+      662,
+      756,
+      851,
+      945,
+      1040
+    ],
+    "x": 0,
+    "y": 0,
+    "scaleX": 2.953125,
+    "scaleY": 2.9545454545454546,
+    "maskError": 0.008346433178517205,
+    "sourceSize": [
+      512,
+      352
+    ],
+    "generatedSize": [
+      1512,
+      1040
+    ],
+    "method": "aspect-matched-exact-grid",
+    "status": "alignment-candidate-needs-visual-review",
+    "image": "production/batch-001/bank-037948-07852a-0dd988-unreal.png"
+  },
+  "bank-037948-07852a-0dd988-ghibli": {
+    "columnBounds": [
+      0,
+      94,
+      189,
+      284,
+      378,
+      472,
+      567,
+      662,
+      756,
+      850,
+      945,
+      1040,
+      1134,
+      1228,
+      1323,
+      1418,
+      1512
+    ],
+    "rowBounds": [
+      0,
+      95,
+      189,
+      284,
+      378,
+      473,
+      567,
+      662,
+      756,
+      851,
+      945,
+      1040
+    ],
+    "x": 0,
+    "y": 0,
+    "scaleX": 2.953125,
+    "scaleY": 2.9545454545454546,
+    "maskError": 0.006411089483539523,
+    "sourceSize": [
+      512,
+      352
+    ],
+    "generatedSize": [
+      1512,
+      1040
+    ],
+    "method": "aspect-matched-exact-grid",
+    "status": "alignment-candidate-needs-visual-review",
+    "image": "production/batch-001/bank-037948-07852a-0dd988-ghibli.png"
+  },
+  "bank-0434ac-0799ea-0dda48-pixel-hd": {
+    "columnBounds": [
+      0,
+      136,
+      271,
+      407,
+      542,
+      678,
+      814,
+      949,
+      1085,
+      1221,
+      1356,
+      1492,
+      1628,
+      1763,
+      1899,
+      2034,
+      2170
+    ],
+    "rowBounds": [
+      162,
+      302,
+      441,
+      579
+    ],
+    "x": 0,
+    "y": 159.0625,
+    "scaleX": 4.23828125,
+    "scaleY": 4.23828125,
+    "maskError": 0.01649782075001779,
+    "sourceSize": [
+      512,
+      96
+    ],
+    "generatedSize": [
+      2170,
+      725
+    ],
+    "method": "source-black-slot-mask-registration",
+    "status": "alignment-candidate-needs-visual-review",
+    "image": "production/batch-003/bank-0434ac-0799ea-0dda48-pixel-hd.png"
+  },
+  "bank-0434ac-0799ea-0dda48-unreal": {
+    "columnBounds": [
+      0,
+      136,
+      271,
+      407,
+      542,
+      678,
+      814,
+      949,
+      1085,
+      1221,
+      1356,
+      1492,
+      1628,
+      1763,
+      1899,
+      2034,
+      2170
+    ],
+    "rowBounds": [
+      158,
+      298,
+      440,
+      578
+    ],
+    "x": 0,
+    "y": 159.0625,
+    "scaleX": 4.23828125,
+    "scaleY": 4.23828125,
+    "maskError": 0.01769364855328158,
+    "sourceSize": [
+      512,
+      96
+    ],
+    "generatedSize": [
+      2170,
+      725
+    ],
+    "method": "source-black-slot-mask-registration",
+    "status": "alignment-candidate-needs-visual-review",
+    "image": "production/batch-003/bank-0434ac-0799ea-0dda48-unreal.png"
+  },
+  "bank-0434ac-0799ea-0dda48-ghibli": {
+    "columnBounds": [
+      0,
+      136,
+      271,
+      407,
+      542,
+      678,
+      814,
+      949,
+      1085,
+      1221,
+      1356,
+      1492,
+      1628,
+      1763,
+      1899,
+      2034,
+      2170
+    ],
+    "rowBounds": [
+      160,
+      302,
+      441,
+      576
+    ],
+    "x": 0,
+    "y": 159.0625,
+    "scaleX": 4.23828125,
+    "scaleY": 4.23828125,
+    "maskError": 2.7693973853175666e-05,
+    "sourceSize": [
+      512,
+      96
+    ],
+    "generatedSize": [
+      2170,
+      725
+    ],
+    "method": "source-black-slot-mask-registration",
+    "status": "alignment-candidate-needs-visual-review",
+    "image": "production/batch-003/bank-0434ac-0799ea-0dda48-ghibli.png"
+  },
+  "bank-03d80a-077b8a-0dd9c8-pixel-hd": {
+    "columnBounds": [
+      0,
+      136,
+      271,
+      407,
+      542,
+      678,
+      814,
+      949,
+      1085,
+      1221,
+      1356,
+      1492,
+      1628,
+      1763,
+      1899,
+      2034,
+      2170
+    ],
+    "rowBounds": [
+      22,
+      162,
+      301,
+      441,
+      578,
+      680
+    ],
+    "x": 0,
+    "y": 23.4375,
+    "scaleX": 4.23828125,
+    "scaleY": 4.23828125,
+    "maskError": 0.024699907375191597,
+    "sourceSize": [
+      512,
+      160
+    ],
+    "generatedSize": [
+      2170,
+      725
+    ],
+    "method": "source-black-slot-mask-registration",
+    "status": "alignment-candidate-needs-visual-review",
+    "image": "production/batch-003/bank-03d80a-077b8a-0dd9c8-pixel-hd.png"
+  },
+  "bank-03d80a-077b8a-0dd9c8-unreal": {
+    "columnBounds": [
+      0,
+      136,
+      271,
+      407,
+      542,
+      678,
+      814,
+      949,
+      1085,
+      1221,
+      1356,
+      1492,
+      1628,
+      1763,
+      1899,
+      2034,
+      2170
+    ],
+    "rowBounds": [
+      38,
+      161,
+      302,
+      441,
+      580,
+      683
+    ],
+    "x": 0,
+    "y": 23.4375,
+    "scaleX": 4.23828125,
+    "scaleY": 4.23828125,
+    "maskError": 0.034982519524231606,
+    "sourceSize": [
+      512,
+      160
+    ],
+    "generatedSize": [
+      2170,
+      725
+    ],
+    "method": "source-black-slot-mask-registration",
+    "status": "alignment-candidate-needs-visual-review",
+    "image": "production/batch-003/bank-03d80a-077b8a-0dd9c8-unreal.png"
+  },
+  "bank-03d80a-077b8a-0dd9c8-ghibli": {
+    "columnBounds": [
+      0,
+      136,
+      271,
+      407,
+      542,
+      678,
+      814,
+      949,
+      1085,
+      1221,
+      1356,
+      1492,
+      1628,
+      1763,
+      1899,
+      2034,
+      2170
+    ],
+    "rowBounds": [
+      24,
+      162,
+      299,
+      439,
+      577,
+      681
+    ],
+    "x": 0,
+    "y": 23.4375,
+    "scaleX": 4.23828125,
+    "scaleY": 4.23828125,
+    "maskError": 0.0625,
+    "sourceSize": [
+      512,
+      160
+    ],
+    "generatedSize": [
+      2170,
+      725
+    ],
+    "method": "source-black-slot-mask-registration",
+    "status": "alignment-candidate-needs-visual-review",
+    "image": "production/batch-003/bank-03d80a-077b8a-0dd9c8-ghibli.png"
+  },
+  "bank-037948-07852a-0dda08-pixel-hd": {
+    "columnBounds": [
+      0,
+      104,
+      209,
+      314,
+      418,
+      522,
+      627,
+      732,
+      836,
+      940,
+      1045,
+      1150,
+      1254,
+      1358,
+      1463,
+      1568,
+      1672
+    ],
+    "rowBounds": [
+      0,
+      105,
+      209,
+      314,
+      418,
+      523,
+      627,
+      732,
+      836,
+      941
+    ],
+    "x": 0,
+    "y": 0,
+    "scaleX": 3.265625,
+    "scaleY": 3.267361111111111,
+    "maskError": 0.21399257683961073,
+    "sourceSize": [
+      512,
+      288
+    ],
+    "generatedSize": [
+      1672,
+      941
+    ],
+    "method": "aspect-matched-exact-grid",
+    "status": "alignment-candidate-needs-visual-review",
+    "image": "production/batch-003/bank-037948-07852a-0dda08-pixel-hd.png"
+  },
+  "bank-037948-07852a-0dda08-unreal": {
+    "columnBounds": [
+      0,
+      104,
+      209,
+      314,
+      418,
+      522,
+      627,
+      732,
+      836,
+      940,
+      1045,
+      1150,
+      1254,
+      1358,
+      1463,
+      1568,
+      1672
+    ],
+    "rowBounds": [
+      0,
+      105,
+      209,
+      314,
+      418,
+      523,
+      627,
+      732,
+      836,
+      941
+    ],
+    "x": 0,
+    "y": 0,
+    "scaleX": 3.265625,
+    "scaleY": 3.267361111111111,
+    "maskError": 0.24572492089395373,
+    "sourceSize": [
+      512,
+      288
+    ],
+    "generatedSize": [
+      1672,
+      941
+    ],
+    "method": "aspect-matched-exact-grid",
+    "status": "alignment-candidate-needs-visual-review",
+    "image": "production/batch-003/bank-037948-07852a-0dda08-unreal.png"
+  },
+  "bank-037948-07852a-0dda08-ghibli": {
+    "columnBounds": [
+      0,
+      104,
+      209,
+      314,
+      418,
+      522,
+      627,
+      732,
+      836,
+      940,
+      1045,
+      1150,
+      1254,
+      1358,
+      1463,
+      1568,
+      1672
+    ],
+    "rowBounds": [
+      0,
+      105,
+      209,
+      314,
+      418,
+      523,
+      627,
+      732,
+      836,
+      941
+    ],
+    "x": 0,
+    "y": 0,
+    "scaleX": 3.265625,
+    "scaleY": 3.267361111111111,
+    "maskError": 0.08785898515334896,
+    "sourceSize": [
+      512,
+      288
+    ],
+    "generatedSize": [
+      1672,
+      941
+    ],
+    "method": "aspect-matched-exact-grid",
+    "status": "alignment-candidate-needs-visual-review",
+    "image": "production/batch-003/bank-037948-07852a-0dda08-ghibli.png"
+  },
+  "bank-0471ae-079eea-0dda88-pixel-hd": {
+    "columnBounds": [
+      0,
+      136,
+      271,
+      407,
+      542,
+      678,
+      814,
+      949,
+      1085,
+      1221,
+      1356,
+      1492,
+      1628,
+      1763,
+      1899,
+      2034,
+      2170
+    ],
+    "rowBounds": [
+      160,
+      299,
+      436,
+      572
+    ],
+    "x": 0,
+    "y": 159.0625,
+    "scaleX": 4.23828125,
+    "scaleY": 4.23828125,
+    "maskError": 0.025074676266464212,
+    "sourceSize": [
+      512,
+      96
+    ],
+    "generatedSize": [
+      2170,
+      725
+    ],
+    "method": "source-black-slot-mask-registration",
+    "status": "alignment-candidate-needs-visual-review",
+    "image": "production/batch-003/bank-0471ae-079eea-0dda88-pixel-hd.png"
+  },
+  "bank-0471ae-079eea-0dda88-unreal": {
+    "columnBounds": [
+      0,
+      136,
+      271,
+      407,
+      542,
+      678,
+      814,
+      949,
+      1085,
+      1221,
+      1356,
+      1492,
+      1628,
+      1763,
+      1899,
+      2034,
+      2170
+    ],
+    "rowBounds": [
+      155,
+      298,
+      438,
+      578
+    ],
+    "x": 0,
+    "y": 159.0625,
+    "scaleX": 4.23828125,
+    "scaleY": 4.23828125,
+    "maskError": 0.009123626442324867,
+    "sourceSize": [
+      512,
+      96
+    ],
+    "generatedSize": [
+      2170,
+      725
+    ],
+    "method": "source-black-slot-mask-registration",
+    "status": "alignment-candidate-needs-visual-review",
+    "image": "production/batch-003/bank-0471ae-079eea-0dda88-unreal.png"
+  },
+  "bank-0471ae-079eea-0dda88-ghibli": {
+    "columnBounds": [
+      0,
+      136,
+      271,
+      407,
+      542,
+      678,
+      813,
+      949,
+      1084,
+      1220,
+      1356,
+      1491,
+      1627,
+      1762,
+      1898,
+      2033,
+      2169
+    ],
+    "rowBounds": [
+      152,
+      298,
+      435,
+      573
+    ],
+    "x": 0,
+    "y": 159.15625,
+    "scaleX": 4.236328125,
+    "scaleY": 4.236328125,
+    "maskError": 0.0,
+    "sourceSize": [
+      512,
+      96
+    ],
+    "generatedSize": [
+      2169,
+      725
+    ],
+    "method": "source-black-slot-mask-registration",
+    "status": "alignment-candidate-needs-visual-review",
+    "image": "production/batch-003/bank-0471ae-079eea-0dda88-ghibli.png"
+  },
+  "bank-032386-0772aa-0ddac8-pixel-hd": {
+    "columnBounds": [
+      0,
+      136,
+      271,
+      407,
+      542,
+      678,
+      814,
+      949,
+      1085,
+      1221,
+      1356,
+      1492,
+      1628,
+      1763,
+      1899,
+      2034,
+      2170
+    ],
+    "rowBounds": [
+      15,
+      164,
+      302,
+      441,
+      582,
+      717
+    ],
+    "x": 0,
+    "y": 23.4375,
+    "scaleX": 4.23828125,
+    "scaleY": 4.23828125,
+    "maskError": 0.031671032239819,
+    "sourceSize": [
+      512,
+      160
+    ],
+    "generatedSize": [
+      2170,
+      725
+    ],
+    "method": "source-black-slot-mask-registration",
+    "status": "alignment-candidate-needs-visual-review",
+    "image": "production/batch-003/bank-032386-0772aa-0ddac8-pixel-hd.png"
+  },
+  "bank-032386-0772aa-0ddac8-unreal": {
+    "columnBounds": [
+      0,
+      136,
+      271,
+      407,
+      542,
+      678,
+      814,
+      949,
+      1085,
+      1221,
+      1356,
+      1492,
+      1628,
+      1763,
+      1899,
+      2034,
+      2170
+    ],
+    "rowBounds": [
+      22,
+      164,
+      301,
+      440,
+      579,
+      717
+    ],
+    "x": 0,
+    "y": 23.4375,
+    "scaleX": 4.23828125,
+    "scaleY": 4.23828125,
+    "maskError": 0.03324479166666667,
+    "sourceSize": [
+      512,
+      160
+    ],
+    "generatedSize": [
+      2170,
+      725
+    ],
+    "method": "source-black-slot-mask-registration",
+    "status": "alignment-candidate-needs-visual-review",
+    "image": "production/batch-003/bank-032386-0772aa-0ddac8-unreal.png"
+  },
+  "bank-032386-0772aa-0ddac8-ghibli": {
+    "columnBounds": [
+      0,
+      136,
+      271,
+      407,
+      542,
+      678,
+      814,
+      949,
+      1085,
+      1221,
+      1356,
+      1492,
+      1628,
+      1763,
+      1899,
+      2034,
+      2170
+    ],
+    "rowBounds": [
+      15,
+      163,
+      300,
+      440,
+      577,
+      713
+    ],
+    "x": 0,
+    "y": 23.4375,
+    "scaleX": 4.23828125,
+    "scaleY": 4.23828125,
+    "maskError": 0.026977293363883232,
+    "sourceSize": [
+      512,
+      160
+    ],
+    "generatedSize": [
+      2170,
+      725
+    ],
+    "method": "source-black-slot-mask-registration",
+    "status": "alignment-candidate-needs-visual-review",
+    "image": "production/batch-003/bank-032386-0772aa-0ddac8-ghibli.png"
+  },
+  "bank-037948-07852a-0ddb08-pixel-hd": {
+    "columnBounds": [
+      0,
+      111,
+      222,
+      333,
+      444,
+      554,
+      665,
+      776,
+      887,
+      998,
+      1109,
+      1220,
+      1330,
+      1441,
+      1552,
+      1663,
+      1774
+    ],
+    "rowBounds": [
+      0,
+      111,
+      222,
+      333,
+      444,
+      554,
+      665,
+      776,
+      887
+    ],
+    "x": 0,
+    "y": 0,
+    "scaleX": 3.46484375,
+    "scaleY": 3.46484375,
+    "maskError": 0.021370636631371003,
+    "sourceSize": [
+      512,
+      256
+    ],
+    "generatedSize": [
+      1774,
+      887
+    ],
+    "method": "aspect-matched-exact-grid",
+    "status": "alignment-candidate-needs-visual-review",
+    "image": "production/batch-003/bank-037948-07852a-0ddb08-pixel-hd.png"
+  },
+  "bank-037948-07852a-0ddb08-unreal": {
+    "columnBounds": [
+      0,
+      111,
+      222,
+      333,
+      444,
+      554,
+      665,
+      776,
+      887,
+      998,
+      1109,
+      1220,
+      1330,
+      1441,
+      1552,
+      1663,
+      1774
+    ],
+    "rowBounds": [
+      0,
+      111,
+      222,
+      333,
+      444,
+      554,
+      665,
+      776,
+      887
+    ],
+    "x": 0,
+    "y": 0,
+    "scaleX": 3.46484375,
+    "scaleY": 3.46484375,
+    "maskError": 0.02293955365850718,
+    "sourceSize": [
+      512,
+      256
+    ],
+    "generatedSize": [
+      1774,
+      887
+    ],
+    "method": "aspect-matched-exact-grid",
+    "status": "alignment-candidate-needs-visual-review",
+    "image": "production/batch-003/bank-037948-07852a-0ddb08-unreal.png"
+  },
+  "bank-037948-07852a-0ddb08-ghibli": {
+    "columnBounds": [
+      0,
+      111,
+      222,
+      333,
+      444,
+      554,
+      665,
+      776,
+      887,
+      998,
+      1109,
+      1220,
+      1330,
+      1441,
+      1552,
+      1663,
+      1774
+    ],
+    "rowBounds": [
+      0,
+      111,
+      222,
+      333,
+      444,
+      554,
+      665,
+      776,
+      887
+    ],
+    "x": 0,
+    "y": 0,
+    "scaleX": 3.46484375,
+    "scaleY": 3.46484375,
+    "maskError": 0.028371492985449758,
+    "sourceSize": [
+      512,
+      256
+    ],
+    "generatedSize": [
+      1774,
+      887
+    ],
+    "method": "aspect-matched-exact-grid",
+    "status": "alignment-candidate-needs-visual-review",
+    "image": "production/batch-003/bank-037948-07852a-0ddb08-ghibli.png"
+  },
+  "bank-04b710-07a56a-0ddb48-pixel-hd": {
+    "columnBounds": [
+      0,
+      128,
+      256,
+      384,
+      512,
+      640,
+      768,
+      896,
+      1024,
+      1152,
+      1280,
+      1408,
+      1536,
+      1664,
+      1792,
+      1920,
+      2048
+    ],
+    "rowBounds": [
+      0,
+      128,
+      256,
+      384,
+      512,
+      640,
+      768
+    ],
+    "x": 0,
+    "y": 0,
+    "scaleX": 4.0,
+    "scaleY": 4.0,
+    "maskError": 0.0740745336328976,
+    "sourceSize": [
+      512,
+      192
+    ],
+    "generatedSize": [
+      2048,
+      768
+    ],
+    "method": "aspect-matched-exact-grid",
+    "status": "alignment-candidate-needs-visual-review",
+    "image": "production/batch-003/bank-04b710-07a56a-0ddb48-pixel-hd.png"
+  },
+  "bank-04b710-07a56a-0ddb48-unreal": {
+    "columnBounds": [
+      0,
+      128,
+      256,
+      384,
+      512,
+      640,
+      768,
+      896,
+      1024,
+      1152,
+      1280,
+      1408,
+      1536,
+      1664,
+      1792,
+      1920,
+      2048
+    ],
+    "rowBounds": [
+      0,
+      128,
+      256,
+      384,
+      512,
+      640,
+      768
+    ],
+    "x": 0,
+    "y": 0,
+    "scaleX": 4.0,
+    "scaleY": 4.0,
+    "maskError": 0.09870456211419752,
+    "sourceSize": [
+      512,
+      192
+    ],
+    "generatedSize": [
+      2048,
+      768
+    ],
+    "method": "aspect-matched-exact-grid",
+    "status": "alignment-candidate-needs-visual-review",
+    "image": "production/batch-003/bank-04b710-07a56a-0ddb48-unreal.png"
+  },
+  "bank-04b710-07a56a-0ddb48-ghibli": {
+    "columnBounds": [
+      0,
+      128,
+      256,
+      384,
+      512,
+      640,
+      768,
+      896,
+      1024,
+      1152,
+      1280,
+      1408,
+      1536,
+      1664,
+      1792,
+      1920,
+      2048
+    ],
+    "rowBounds": [
+      0,
+      128,
+      256,
+      384,
+      512,
+      640,
+      768
+    ],
+    "x": 0,
+    "y": 0,
+    "scaleX": 4.0,
+    "scaleY": 4.0,
+    "maskError": 0.0740745336328976,
+    "sourceSize": [
+      512,
+      192
+    ],
+    "generatedSize": [
+      2048,
+      768
+    ],
+    "method": "aspect-matched-exact-grid",
+    "status": "alignment-candidate-needs-visual-review",
+    "image": "production/batch-003/bank-04b710-07a56a-0ddb48-ghibli.png"
+  },
+  "bank-04ed72-07afaa-0ddb88-pixel-hd": {
+    "columnBounds": [
+      0,
+      119,
+      237,
+      356,
+      474,
+      593,
+      711,
+      830,
+      948,
+      1067,
+      1186,
+      1304,
+      1423,
+      1541,
+      1660,
+      1778,
+      1897
+    ],
+    "rowBounds": [
+      0,
+      118,
+      237,
+      355,
+      474,
+      592,
+      711,
+      829
+    ],
+    "x": 0,
+    "y": 0,
+    "scaleX": 3.705078125,
+    "scaleY": 3.700892857142857,
+    "maskError": 0.050670750931525906,
+    "sourceSize": [
+      512,
+      224
+    ],
+    "generatedSize": [
+      1897,
+      829
+    ],
+    "method": "aspect-matched-exact-grid",
+    "status": "alignment-candidate-needs-visual-review",
+    "image": "production/batch-003/bank-04ed72-07afaa-0ddb88-pixel-hd.png"
+  },
+  "bank-04ed72-07afaa-0ddb88-unreal": {
+    "columnBounds": [
+      0,
+      118,
+      237,
+      356,
+      474,
+      592,
+      711,
+      830,
+      948,
+      1066,
+      1185,
+      1304,
+      1422,
+      1540,
+      1659,
+      1778,
+      1896
+    ],
+    "rowBounds": [
+      0,
+      119,
+      237,
+      356,
+      474,
+      593,
+      711,
+      830
+    ],
+    "x": 0,
+    "y": 0,
+    "scaleX": 3.703125,
+    "scaleY": 3.705357142857143,
+    "maskError": 0.11901922084660618,
+    "sourceSize": [
+      512,
+      224
+    ],
+    "generatedSize": [
+      1896,
+      830
+    ],
+    "method": "aspect-matched-exact-grid",
+    "status": "alignment-candidate-needs-visual-review",
+    "image": "production/batch-003/bank-04ed72-07afaa-0ddb88-unreal.png"
+  },
+  "bank-04ed72-07afaa-0ddb88-ghibli": {
+    "columnBounds": [
+      0,
+      119,
+      237,
+      356,
+      474,
+      593,
+      711,
+      830,
+      948,
+      1067,
+      1186,
+      1304,
+      1423,
+      1541,
+      1660,
+      1778,
+      1897
+    ],
+    "rowBounds": [
+      0,
+      118,
+      237,
+      355,
+      474,
+      592,
+      711,
+      829
+    ],
+    "x": 0,
+    "y": 0,
+    "scaleX": 3.705078125,
+    "scaleY": 3.700892857142857,
+    "maskError": 0.0006023169095420719,
+    "sourceSize": [
+      512,
+      224
+    ],
+    "generatedSize": [
+      1897,
+      829
+    ],
+    "method": "aspect-matched-exact-grid",
+    "status": "alignment-candidate-needs-visual-review",
+    "image": "production/batch-003/bank-04ed72-07afaa-0ddb88-ghibli.png"
+  },
+  "bank-0471ae-079eea-0ddbc8-pixel-hd": {
+    "columnBounds": [
+      0,
+      136,
+      271,
+      407,
+      542,
+      678,
+      814,
+      949,
+      1085,
+      1221,
+      1356,
+      1492,
+      1628,
+      1763,
+      1899,
+      2034,
+      2170
+    ],
+    "rowBounds": [
+      88,
+      227,
+      363,
+      503,
+      644
+    ],
+    "x": 0,
+    "y": 91.25,
+    "scaleX": 4.23828125,
+    "scaleY": 4.23828125,
+    "maskError": 0.025759872980267714,
+    "sourceSize": [
+      512,
+      128
+    ],
+    "generatedSize": [
+      2170,
+      725
+    ],
+    "method": "source-black-slot-mask-registration",
+    "status": "alignment-candidate-needs-visual-review",
+    "image": "production/batch-003/bank-0471ae-079eea-0ddbc8-pixel-hd.png"
+  },
+  "bank-0471ae-079eea-0ddbc8-unreal": {
+    "columnBounds": [
+      0,
+      136,
+      271,
+      407,
+      542,
+      678,
+      813,
+      949,
+      1084,
+      1220,
+      1356,
+      1491,
+      1627,
+      1762,
+      1898,
+      2033,
+      2169
+    ],
+    "rowBounds": [
+      89,
+      228,
+      363,
+      502,
+      637
+    ],
+    "x": 0,
+    "y": 91.375,
+    "scaleX": 4.236328125,
+    "scaleY": 4.236328125,
+    "maskError": 0.04836756608032017,
+    "sourceSize": [
+      512,
+      128
+    ],
+    "generatedSize": [
+      2169,
+      725
+    ],
+    "method": "source-black-slot-mask-registration",
+    "status": "alignment-candidate-needs-visual-review",
+    "image": "production/batch-003/bank-0471ae-079eea-0ddbc8-unreal.png"
+  },
+  "bank-0471ae-079eea-0ddbc8-ghibli": {
+    "columnBounds": [
+      0,
+      136,
+      271,
+      407,
+      542,
+      678,
+      814,
+      949,
+      1085,
+      1221,
+      1356,
+      1492,
+      1628,
+      1763,
+      1899,
+      2034,
+      2170
+    ],
+    "rowBounds": [
+      89,
+      228,
+      364,
+      505,
+      642
+    ],
+    "x": 0,
+    "y": 91.25,
+    "scaleX": 4.23828125,
+    "scaleY": 4.23828125,
+    "maskError": 0.030045273723946105,
+    "sourceSize": [
+      512,
+      128
+    ],
+    "generatedSize": [
+      2170,
+      725
+    ],
+    "method": "source-black-slot-mask-registration",
+    "status": "alignment-candidate-needs-visual-review",
+    "image": "production/batch-003/bank-0471ae-079eea-0ddbc8-ghibli.png"
+  },
+  "bank-032386-0772aa-0ddc08-pixel-hd": {
+    "columnBounds": [
+      0,
+      136,
+      271,
+      407,
+      542,
+      678,
+      814,
+      949,
+      1085,
+      1221,
+      1356,
+      1492,
+      1628,
+      1763,
+      1899,
+      2034,
+      2170
+    ],
+    "rowBounds": [
+      22,
+      161,
+      298,
+      435,
+      572,
+      710
+    ],
+    "x": 0,
+    "y": 23.4375,
+    "scaleX": 4.23828125,
+    "scaleY": 4.23828125,
+    "maskError": 0.027033168595634927,
+    "sourceSize": [
+      512,
+      160
+    ],
+    "generatedSize": [
+      2170,
+      725
+    ],
+    "method": "source-black-slot-mask-registration",
+    "status": "alignment-candidate-needs-visual-review",
+    "image": "production/batch-003/bank-032386-0772aa-0ddc08-pixel-hd.png"
+  },
+  "bank-032386-0772aa-0ddc08-unreal": {
+    "columnBounds": [
+      0,
+      136,
+      271,
+      407,
+      542,
+      678,
+      814,
+      949,
+      1085,
+      1221,
+      1356,
+      1492,
+      1628,
+      1763,
+      1899,
+      2034,
+      2170
+    ],
+    "rowBounds": [
+      21,
+      159,
+      297,
+      440,
+      575,
+      714
+    ],
+    "x": 0,
+    "y": 23.4375,
+    "scaleX": 4.23828125,
+    "scaleY": 4.23828125,
+    "maskError": 0.032389181164012515,
+    "sourceSize": [
+      512,
+      160
+    ],
+    "generatedSize": [
+      2170,
+      725
+    ],
+    "method": "source-black-slot-mask-registration",
+    "status": "alignment-candidate-needs-visual-review",
+    "image": "production/batch-003/bank-032386-0772aa-0ddc08-unreal.png"
+  },
+  "bank-032386-0772aa-0ddc08-ghibli": {
+    "columnBounds": [
+      0,
+      136,
+      271,
+      407,
+      542,
+      678,
+      814,
+      949,
+      1085,
+      1221,
+      1356,
+      1492,
+      1628,
+      1763,
+      1899,
+      2034,
+      2170
+    ],
+    "rowBounds": [
+      22,
+      161,
+      301,
+      442,
+      581,
+      720
+    ],
+    "x": 0,
+    "y": 23.4375,
+    "scaleX": 4.23828125,
+    "scaleY": 4.23828125,
+    "maskError": 0.04092791228871631,
+    "sourceSize": [
+      512,
+      160
+    ],
+    "generatedSize": [
+      2170,
+      725
+    ],
+    "method": "source-black-slot-mask-registration",
+    "status": "alignment-candidate-needs-visual-review",
+    "image": "production/batch-003/bank-032386-0772aa-0ddc08-ghibli.png"
+  },
+  "bank-037948-07852a-0ddc48-pixel-hd": {
+    "columnBounds": [
+      0,
+      111,
+      222,
+      333,
+      444,
+      554,
+      665,
+      776,
+      887,
+      998,
+      1109,
+      1220,
+      1330,
+      1441,
+      1552,
+      1663,
+      1774
+    ],
+    "rowBounds": [
+      0,
+      111,
+      222,
+      333,
+      444,
+      554,
+      665,
+      776,
+      887
+    ],
+    "x": 0,
+    "y": 0,
+    "scaleX": 3.46484375,
+    "scaleY": 3.46484375,
+    "maskError": 0.09670017249740473,
+    "sourceSize": [
+      512,
+      256
+    ],
+    "generatedSize": [
+      1774,
+      887
+    ],
+    "method": "aspect-matched-exact-grid",
+    "status": "alignment-candidate-needs-visual-review",
+    "image": "production/batch-003/bank-037948-07852a-0ddc48-pixel-hd.png"
+  },
+  "bank-037948-07852a-0ddc48-unreal": {
+    "columnBounds": [
+      0,
+      111,
+      222,
+      333,
+      444,
+      554,
+      665,
+      776,
+      887,
+      998,
+      1109,
+      1220,
+      1330,
+      1441,
+      1552,
+      1663,
+      1774
+    ],
+    "rowBounds": [
+      0,
+      111,
+      222,
+      333,
+      444,
+      554,
+      665,
+      776,
+      887
+    ],
+    "x": 0,
+    "y": 0,
+    "scaleX": 3.46484375,
+    "scaleY": 3.46484375,
+    "maskError": 0.1365070702063352,
+    "sourceSize": [
+      512,
+      256
+    ],
+    "generatedSize": [
+      1774,
+      887
+    ],
+    "method": "aspect-matched-exact-grid",
+    "status": "alignment-candidate-needs-visual-review",
+    "image": "production/batch-003/bank-037948-07852a-0ddc48-unreal.png"
+  },
+  "bank-037948-07852a-0ddc48-ghibli": {
+    "columnBounds": [
+      0,
+      111,
+      222,
+      333,
+      444,
+      554,
+      665,
+      776,
+      887,
+      998,
+      1109,
+      1220,
+      1330,
+      1441,
+      1552,
+      1663,
+      1774
+    ],
+    "rowBounds": [
+      0,
+      111,
+      222,
+      333,
+      444,
+      554,
+      665,
+      776,
+      887
+    ],
+    "x": 0,
+    "y": 0,
+    "scaleX": 3.46484375,
+    "scaleY": 3.46484375,
+    "maskError": 0.17719672084346544,
+    "sourceSize": [
+      512,
+      256
+    ],
+    "generatedSize": [
+      1774,
+      887
+    ],
+    "method": "aspect-matched-exact-grid",
+    "status": "alignment-candidate-needs-visual-review",
+    "image": "production/batch-003/bank-037948-07852a-0ddc48-ghibli.png"
+  },
+  "bank-037948-07bdaa-0ddc48-pixel-hd": {
+    "columnBounds": [
+      0,
+      111,
+      222,
+      333,
+      444,
+      554,
+      665,
+      776,
+      887,
+      998,
+      1109,
+      1220,
+      1330,
+      1441,
+      1552,
+      1663,
+      1774
+    ],
+    "rowBounds": [
+      0,
+      111,
+      222,
+      333,
+      444,
+      554,
+      665,
+      776,
+      887
+    ],
+    "x": 0,
+    "y": 0,
+    "scaleX": 3.46484375,
+    "scaleY": 3.46484375,
+    "maskError": 0.060864259318364644,
+    "sourceSize": [
+      512,
+      256
+    ],
+    "generatedSize": [
+      1774,
+      887
+    ],
+    "method": "aspect-matched-exact-grid",
+    "status": "alignment-candidate-needs-visual-review",
+    "image": "production/batch-003/bank-037948-07bdaa-0ddc48-pixel-hd.png"
+  },
+  "bank-037948-07bdaa-0ddc48-unreal": {
+    "columnBounds": [
+      0,
+      111,
+      222,
+      333,
+      444,
+      554,
+      665,
+      776,
+      887,
+      998,
+      1109,
+      1220,
+      1330,
+      1441,
+      1552,
+      1663,
+      1774
+    ],
+    "rowBounds": [
+      0,
+      111,
+      222,
+      333,
+      444,
+      554,
+      665,
+      776,
+      887
+    ],
+    "x": 0,
+    "y": 0,
+    "scaleX": 3.46484375,
+    "scaleY": 3.46484375,
+    "maskError": 0.05858405375871083,
+    "sourceSize": [
+      512,
+      256
+    ],
+    "generatedSize": [
+      1774,
+      887
+    ],
+    "method": "aspect-matched-exact-grid",
+    "status": "alignment-candidate-needs-visual-review",
+    "image": "production/batch-003/bank-037948-07bdaa-0ddc48-unreal.png"
+  },
+  "bank-037948-07bdaa-0ddc48-ghibli": {
+    "columnBounds": [
+      0,
+      111,
+      222,
+      333,
+      444,
+      554,
+      665,
+      776,
+      887,
+      998,
+      1109,
+      1220,
+      1330,
+      1441,
+      1552,
+      1663,
+      1774
+    ],
+    "rowBounds": [
+      0,
+      111,
+      222,
+      333,
+      444,
+      554,
+      665,
+      776,
+      887
+    ],
+    "x": 0,
+    "y": 0,
+    "scaleX": 3.46484375,
+    "scaleY": 3.46484375,
+    "maskError": 0.07865083231719405,
+    "sourceSize": [
+      512,
+      256
+    ],
+    "generatedSize": [
+      1774,
+      887
+    ],
+    "method": "aspect-matched-exact-grid",
+    "status": "alignment-candidate-needs-visual-review",
+    "image": "production/batch-003/bank-037948-07bdaa-0ddc48-ghibli.png"
+  },
+  "bank-053fd4-07cbea-0ddc88-pixel-hd": {
+    "columnBounds": [
+      0,
+      128,
+      256,
+      384,
+      512,
+      640,
+      768,
+      896,
+      1024,
+      1152,
+      1280,
+      1408,
+      1536,
+      1664,
+      1792,
+      1920,
+      2048
+    ],
+    "rowBounds": [
+      0,
+      128,
+      256,
+      384,
+      512,
+      640,
+      768
+    ],
+    "x": 0,
+    "y": 0,
+    "scaleX": 4.0,
+    "scaleY": 4.0,
+    "maskError": 0.014900101294986891,
+    "sourceSize": [
+      512,
+      192
+    ],
+    "generatedSize": [
+      2048,
+      768
+    ],
+    "method": "aspect-matched-exact-grid",
+    "status": "alignment-candidate-needs-visual-review",
+    "image": "production/batch-003/bank-053fd4-07cbea-0ddc88-pixel-hd.png"
+  },
+  "bank-053fd4-07cbea-0ddc88-unreal": {
+    "columnBounds": [
+      0,
+      128,
+      256,
+      384,
+      512,
+      640,
+      768,
+      896,
+      1024,
+      1152,
+      1280,
+      1408,
+      1536,
+      1664,
+      1792,
+      1920,
+      2048
+    ],
+    "rowBounds": [
+      0,
+      128,
+      256,
+      384,
+      512,
+      640,
+      768
+    ],
+    "x": 0,
+    "y": 0,
+    "scaleX": 4.0,
+    "scaleY": 4.0,
+    "maskError": 0.00592085584333042,
+    "sourceSize": [
+      512,
+      192
+    ],
+    "generatedSize": [
+      2048,
+      768
+    ],
+    "method": "aspect-matched-exact-grid",
+    "status": "alignment-candidate-needs-visual-review",
+    "image": "production/batch-003/bank-053fd4-07cbea-0ddc88-unreal.png"
+  },
+  "bank-053fd4-07cbea-0ddc88-ghibli": {
+    "columnBounds": [
+      0,
+      128,
+      256,
+      384,
+      512,
+      640,
+      768,
+      896,
+      1024,
+      1152,
+      1280,
+      1408,
+      1536,
+      1664,
+      1792,
+      1920,
+      2048
+    ],
+    "rowBounds": [
+      0,
+      128,
+      256,
+      384,
+      512,
+      640,
+      768
+    ],
+    "x": 0,
+    "y": 0,
+    "scaleX": 4.0,
+    "scaleY": 4.0,
+    "maskError": 0.0,
+    "sourceSize": [
+      512,
+      192
+    ],
+    "generatedSize": [
+      2048,
+      768
+    ],
+    "method": "aspect-matched-exact-grid",
+    "status": "alignment-candidate-needs-visual-review",
+    "image": "production/batch-003/bank-053fd4-07cbea-0ddc88-ghibli.png"
+  },
+  "bank-059976-07d64a-0ddcc8-pixel-hd": {
+    "columnBounds": [
+      0,
+      128,
+      256,
+      384,
+      512,
+      640,
+      768,
+      896,
+      1024,
+      1152,
+      1280,
+      1408,
+      1536,
+      1664,
+      1792,
+      1920,
+      2048
+    ],
+    "rowBounds": [
+      0,
+      128,
+      256,
+      384,
+      512,
+      640,
+      768
+    ],
+    "x": 0,
+    "y": 0,
+    "scaleX": 4.0,
+    "scaleY": 4.0,
+    "maskError": 0.28010885647123895,
+    "sourceSize": [
+      512,
+      192
+    ],
+    "generatedSize": [
+      2048,
+      768
+    ],
+    "method": "aspect-matched-exact-grid",
+    "status": "alignment-candidate-needs-visual-review",
+    "image": "production/batch-003/bank-059976-07d64a-0ddcc8-pixel-hd.png"
+  },
+  "bank-059976-07d64a-0ddcc8-unreal": {
+    "columnBounds": [
+      0,
+      128,
+      256,
+      384,
+      512,
+      640,
+      768,
+      896,
+      1024,
+      1152,
+      1280,
+      1408,
+      1536,
+      1664,
+      1792,
+      1920,
+      2048
+    ],
+    "rowBounds": [
+      0,
+      128,
+      256,
+      384,
+      512,
+      640,
+      768
+    ],
+    "x": 0,
+    "y": 0,
+    "scaleX": 4.0,
+    "scaleY": 4.0,
+    "maskError": 0.3393515784160361,
+    "sourceSize": [
+      512,
+      192
+    ],
+    "generatedSize": [
+      2048,
+      768
+    ],
+    "method": "aspect-matched-exact-grid",
+    "status": "alignment-candidate-needs-visual-review",
+    "image": "production/batch-003/bank-059976-07d64a-0ddcc8-unreal.png"
+  },
+  "bank-059976-07d64a-0ddcc8-ghibli": {
+    "columnBounds": [
+      0,
+      128,
+      256,
+      384,
+      512,
+      640,
+      768,
+      896,
+      1024,
+      1152,
+      1280,
+      1408,
+      1536,
+      1664,
+      1792,
+      1920,
+      2048
+    ],
+    "rowBounds": [
+      0,
+      128,
+      256,
+      384,
+      512,
+      640,
+      768
+    ],
+    "x": 0,
+    "y": 0,
+    "scaleX": 4.0,
+    "scaleY": 4.0,
+    "maskError": 0.033203286917098444,
+    "sourceSize": [
+      512,
+      192
+    ],
+    "generatedSize": [
+      2048,
+      768
+    ],
+    "method": "aspect-matched-exact-grid",
+    "status": "alignment-candidate-needs-visual-review",
+    "image": "production/batch-003/bank-059976-07d64a-0ddcc8-ghibli.png"
+  },
+  "bank-04ed72-07afaa-0ddd08-pixel-hd": {
+    "columnBounds": [
+      0,
+      118,
+      237,
+      356,
+      474,
+      592,
+      711,
+      830,
+      948,
+      1066,
+      1185,
+      1304,
+      1422,
+      1540,
+      1659,
+      1778,
+      1896
+    ],
+    "rowBounds": [
+      0,
+      119,
+      237,
+      356,
+      474,
+      593,
+      711,
+      830
+    ],
+    "x": 0,
+    "y": 0,
+    "scaleX": 3.703125,
+    "scaleY": 3.705357142857143,
+    "maskError": 0.048288196919600415,
+    "sourceSize": [
+      512,
+      224
+    ],
+    "generatedSize": [
+      1896,
+      830
+    ],
+    "method": "aspect-matched-exact-grid",
+    "status": "alignment-candidate-needs-visual-review",
+    "image": "production/batch-003/bank-04ed72-07afaa-0ddd08-pixel-hd.png"
+  },
+  "bank-04ed72-07afaa-0ddd08-unreal": {
+    "columnBounds": [
+      0,
+      118,
+      237,
+      356,
+      474,
+      592,
+      711,
+      830,
+      948,
+      1066,
+      1185,
+      1304,
+      1422,
+      1540,
+      1659,
+      1778,
+      1896
+    ],
+    "rowBounds": [
+      0,
+      119,
+      237,
+      356,
+      474,
+      593,
+      711,
+      830
+    ],
+    "x": 0,
+    "y": 0,
+    "scaleX": 3.703125,
+    "scaleY": 3.705357142857143,
+    "maskError": 0.05607836165679556,
+    "sourceSize": [
+      512,
+      224
+    ],
+    "generatedSize": [
+      1896,
+      830
+    ],
+    "method": "aspect-matched-exact-grid",
+    "status": "alignment-candidate-needs-visual-review",
+    "image": "production/batch-003/bank-04ed72-07afaa-0ddd08-unreal.png"
+  },
+  "bank-04ed72-07afaa-0ddd08-ghibli": {
+    "columnBounds": [
+      0,
+      118,
+      237,
+      356,
+      474,
+      592,
+      711,
+      830,
+      948,
+      1066,
+      1185,
+      1304,
+      1422,
+      1540,
+      1659,
+      1778,
+      1896
+    ],
+    "rowBounds": [
+      0,
+      119,
+      237,
+      356,
+      474,
+      593,
+      711,
+      830
+    ],
+    "x": 0,
+    "y": 0,
+    "scaleX": 3.703125,
+    "scaleY": 3.705357142857143,
+    "maskError": 0.0233912130773691,
+    "sourceSize": [
+      512,
+      224
+    ],
+    "generatedSize": [
+      1896,
+      830
+    ],
+    "method": "aspect-matched-exact-grid",
+    "status": "alignment-candidate-needs-visual-review",
+    "image": "production/batch-003/bank-04ed72-07afaa-0ddd08-ghibli.png"
+  },
+  "bank-0471ae-079eea-0ddd48-pixel-hd": {
+    "columnBounds": [
+      0,
+      136,
+      271,
+      407,
+      542,
+      678,
+      814,
+      949,
+      1085,
+      1221,
+      1356,
+      1492,
+      1628,
+      1763,
+      1899,
+      2034,
+      2170
+    ],
+    "rowBounds": [
+      89,
+      228,
+      361,
+      500,
+      638
+    ],
+    "x": 0,
+    "y": 91.25,
+    "scaleX": 4.23828125,
+    "scaleY": 4.23828125,
+    "maskError": 0.061291130862592476,
+    "sourceSize": [
+      512,
+      128
+    ],
+    "generatedSize": [
+      2170,
+      725
+    ],
+    "method": "source-black-slot-mask-registration",
+    "status": "alignment-candidate-needs-visual-review",
+    "image": "production/batch-003/bank-0471ae-079eea-0ddd48-pixel-hd.png"
+  },
+  "bank-0471ae-079eea-0ddd48-unreal": {
+    "columnBounds": [
+      0,
+      136,
+      271,
+      407,
+      542,
+      678,
+      814,
+      949,
+      1085,
+      1221,
+      1356,
+      1492,
+      1628,
+      1763,
+      1899,
+      2034,
+      2170
+    ],
+    "rowBounds": [
+      90,
+      228,
+      362,
+      500,
+      636
+    ],
+    "x": 0,
+    "y": 91.25,
+    "scaleX": 4.23828125,
+    "scaleY": 4.23828125,
+    "maskError": 0.015751966745751276,
+    "sourceSize": [
+      512,
+      128
+    ],
+    "generatedSize": [
+      2170,
+      725
+    ],
+    "method": "source-black-slot-mask-registration",
+    "status": "alignment-candidate-needs-visual-review",
+    "image": "production/batch-003/bank-0471ae-079eea-0ddd48-unreal.png"
+  },
+  "bank-0471ae-079eea-0ddd48-ghibli": {
+    "columnBounds": [
+      0,
+      136,
+      271,
+      407,
+      542,
+      678,
+      813,
+      949,
+      1084,
+      1220,
+      1356,
+      1491,
+      1627,
+      1762,
+      1898,
+      2033,
+      2169
+    ],
+    "rowBounds": [
+      91,
+      229,
+      362,
+      501,
+      637
+    ],
+    "x": 0,
+    "y": 91.375,
+    "scaleX": 4.236328125,
+    "scaleY": 4.236328125,
+    "maskError": 0.02779151404151404,
+    "sourceSize": [
+      512,
+      128
+    ],
+    "generatedSize": [
+      2169,
+      725
+    ],
+    "method": "source-black-slot-mask-registration",
+    "status": "alignment-candidate-needs-visual-review",
+    "image": "production/batch-003/bank-0471ae-079eea-0ddd48-ghibli.png"
+  },
+  "bank-05f018-07e08a-0dd948-pixel-hd": {
+    "columnBounds": [
+      0,
+      136,
+      271,
+      407,
+      542,
+      678,
+      814,
+      949,
+      1085,
+      1221,
+      1356,
+      1492,
+      1628,
+      1763,
+      1899,
+      2034,
+      2170
+    ],
+    "rowBounds": [
+      157,
+      295,
+      437,
+      580
+    ],
+    "x": 0,
+    "y": 159.0625,
+    "scaleX": 4.23828125,
+    "scaleY": 4.23828125,
+    "maskError": 0.0031331282110267623,
+    "sourceSize": [
+      512,
+      96
+    ],
+    "generatedSize": [
+      2170,
+      725
+    ],
+    "method": "source-black-slot-mask-registration",
+    "status": "alignment-candidate-needs-visual-review",
+    "image": "production/batch-003/bank-05f018-07e08a-0dd948-pixel-hd.png"
+  },
+  "bank-05f018-07e08a-0dd948-unreal": {
+    "columnBounds": [
+      0,
+      136,
+      271,
+      407,
+      542,
+      678,
+      814,
+      949,
+      1085,
+      1221,
+      1356,
+      1492,
+      1628,
+      1763,
+      1899,
+      2034,
+      2170
+    ],
+    "rowBounds": [
+      155,
+      297,
+      436,
+      573
+    ],
+    "x": 0,
+    "y": 159.0625,
+    "scaleX": 4.23828125,
+    "scaleY": 4.23828125,
+    "maskError": 0.006124896020314347,
+    "sourceSize": [
+      512,
+      96
+    ],
+    "generatedSize": [
+      2170,
+      725
+    ],
+    "method": "source-black-slot-mask-registration",
+    "status": "alignment-candidate-needs-visual-review",
+    "image": "production/batch-003/bank-05f018-07e08a-0dd948-unreal.png"
+  },
+  "bank-05f018-07e08a-0dd948-ghibli": {
+    "columnBounds": [
+      0,
+      136,
+      271,
+      407,
+      542,
+      678,
+      813,
+      949,
+      1084,
+      1220,
+      1356,
+      1491,
+      1627,
+      1762,
+      1898,
+      2033,
+      2169
+    ],
+    "rowBounds": [
+      158,
+      296,
+      436,
+      573
+    ],
+    "x": 0,
+    "y": 159.15625,
+    "scaleX": 4.236328125,
+    "scaleY": 4.236328125,
+    "maskError": 0.0,
+    "sourceSize": [
+      512,
+      96
+    ],
+    "generatedSize": [
+      2169,
+      725
+    ],
+    "method": "source-black-slot-mask-registration",
+    "status": "alignment-candidate-needs-visual-review",
+    "image": "production/batch-003/bank-05f018-07e08a-0dd948-ghibli.png"
+  },
+  "bank-037948-07852a-0ddd88-pixel-hd": {
+    "columnBounds": [
+      0,
+      99,
+      198,
+      297,
+      396,
+      496,
+      595,
+      694,
+      793,
+      892,
+      991,
+      1090,
+      1190,
+      1289,
+      1388,
+      1487,
+      1586
+    ],
+    "rowBounds": [
+      0,
+      99,
+      198,
+      298,
+      397,
+      496,
+      595,
+      694,
+      794,
+      893,
+      992
+    ],
+    "x": 0,
+    "y": 0,
+    "scaleX": 3.09765625,
+    "scaleY": 3.1,
+    "maskError": 0.07179184151321763,
+    "sourceSize": [
+      512,
+      320
+    ],
+    "generatedSize": [
+      1586,
+      992
+    ],
+    "method": "aspect-matched-exact-grid",
+    "status": "alignment-candidate-needs-visual-review",
+    "image": "production/batch-003/bank-037948-07852a-0ddd88-pixel-hd.png"
+  },
+  "bank-037948-07852a-0ddd88-unreal": {
+    "columnBounds": [
+      0,
+      99,
+      198,
+      297,
+      396,
+      496,
+      595,
+      694,
+      793,
+      892,
+      991,
+      1090,
+      1190,
+      1289,
+      1388,
+      1487,
+      1586
+    ],
+    "rowBounds": [
+      0,
+      99,
+      198,
+      298,
+      397,
+      496,
+      595,
+      694,
+      794,
+      893,
+      992
+    ],
+    "x": 0,
+    "y": 0,
+    "scaleX": 3.09765625,
+    "scaleY": 3.1,
+    "maskError": 0.048871726953914695,
+    "sourceSize": [
+      512,
+      320
+    ],
+    "generatedSize": [
+      1586,
+      992
+    ],
+    "method": "aspect-matched-exact-grid",
+    "status": "alignment-candidate-needs-visual-review",
+    "image": "production/batch-003/bank-037948-07852a-0ddd88-unreal.png"
+  },
+  "bank-037948-07852a-0ddd88-ghibli": {
+    "columnBounds": [
+      0,
+      99,
+      198,
+      297,
+      396,
+      496,
+      595,
+      694,
+      793,
+      892,
+      991,
+      1090,
+      1190,
+      1289,
+      1388,
+      1487,
+      1586
+    ],
+    "rowBounds": [
+      0,
+      99,
+      198,
+      298,
+      397,
+      496,
+      595,
+      694,
+      794,
+      893,
+      992
+    ],
+    "x": 0,
+    "y": 0,
+    "scaleX": 3.09765625,
+    "scaleY": 3.1,
+    "maskError": 0.04483327981790194,
+    "sourceSize": [
+      512,
+      320
+    ],
+    "generatedSize": [
+      1586,
+      992
+    ],
+    "method": "aspect-matched-exact-grid",
+    "status": "alignment-candidate-needs-visual-review",
+    "image": "production/batch-003/bank-037948-07852a-0ddd88-ghibli.png"
+  },
+  "bank-059976-07d64a-0dddc8-pixel-hd": {
+    "columnBounds": [
+      0,
+      136,
+      271,
+      407,
+      542,
+      678,
+      814,
+      949,
+      1085,
+      1221,
+      1356,
+      1492,
+      1628,
+      1763,
+      1899,
+      2034,
+      2170
+    ],
+    "rowBounds": [
+      22,
+      160,
+      302,
+      441,
+      580,
+      681
+    ],
+    "x": 0,
+    "y": 23.4375,
+    "scaleX": 4.23828125,
+    "scaleY": 4.23828125,
+    "maskError": 0.06464968449422077,
+    "sourceSize": [
+      512,
+      160
+    ],
+    "generatedSize": [
+      2170,
+      725
+    ],
+    "method": "source-black-slot-mask-registration",
+    "status": "alignment-candidate-needs-visual-review",
+    "image": "production/batch-003/bank-059976-07d64a-0dddc8-pixel-hd.png"
+  },
+  "bank-059976-07d64a-0dddc8-unreal": {
+    "columnBounds": [
+      0,
+      136,
+      271,
+      407,
+      542,
+      678,
+      814,
+      949,
+      1085,
+      1221,
+      1356,
+      1492,
+      1628,
+      1763,
+      1899,
+      2034,
+      2170
+    ],
+    "rowBounds": [
+      22,
+      160,
+      303,
+      440,
+      581,
+      684
+    ],
+    "x": 0,
+    "y": 23.4375,
+    "scaleX": 4.23828125,
+    "scaleY": 4.23828125,
+    "maskError": 0.0391120623544094,
+    "sourceSize": [
+      512,
+      160
+    ],
+    "generatedSize": [
+      2170,
+      725
+    ],
+    "method": "source-black-slot-mask-registration",
+    "status": "alignment-candidate-needs-visual-review",
+    "image": "production/batch-003/bank-059976-07d64a-0dddc8-unreal.png"
+  },
+  "bank-059976-07d64a-0dddc8-ghibli": {
+    "columnBounds": [
+      0,
+      136,
+      271,
+      407,
+      542,
+      678,
+      814,
+      949,
+      1085,
+      1221,
+      1356,
+      1492,
+      1628,
+      1763,
+      1899,
+      2034,
+      2170
+    ],
+    "rowBounds": [
+      15,
+      157,
+      300,
+      439,
+      579,
+      682
+    ],
+    "x": 0,
+    "y": 23.4375,
+    "scaleX": 4.23828125,
+    "scaleY": 4.23828125,
+    "maskError": 0.08070130476721969,
+    "sourceSize": [
+      512,
+      160
+    ],
+    "generatedSize": [
+      2170,
+      725
+    ],
+    "method": "source-black-slot-mask-registration",
+    "status": "alignment-candidate-needs-visual-review",
+    "image": "production/batch-003/bank-059976-07d64a-0dddc8-ghibli.png"
+  },
+  "bank-053fd4-07cbea-0dde08-pixel-hd": {
+    "columnBounds": [
+      0,
+      136,
+      271,
+      407,
+      542,
+      678,
+      814,
+      949,
+      1085,
+      1221,
+      1356,
+      1492,
+      1628,
+      1763,
+      1899,
+      2034,
+      2170
+    ],
+    "rowBounds": [
+      17,
+      157,
+      299,
+      440,
+      579,
+      717
+    ],
+    "x": 0,
+    "y": 23.4375,
+    "scaleX": 4.23828125,
+    "scaleY": 4.23828125,
+    "maskError": 0.04430816971338298,
+    "sourceSize": [
+      512,
+      160
+    ],
+    "generatedSize": [
+      2170,
+      725
+    ],
+    "method": "source-black-slot-mask-registration",
+    "status": "alignment-candidate-needs-visual-review",
+    "image": "production/batch-003/bank-053fd4-07cbea-0dde08-pixel-hd.png"
+  },
+  "bank-053fd4-07cbea-0dde08-unreal": {
+    "columnBounds": [
+      0,
+      136,
+      271,
+      407,
+      542,
+      678,
+      814,
+      949,
+      1085,
+      1221,
+      1356,
+      1492,
+      1628,
+      1763,
+      1899,
+      2034,
+      2170
+    ],
+    "rowBounds": [
+      16,
+      157,
+      298,
+      439,
+      578,
+      713
+    ],
+    "x": 0,
+    "y": 23.4375,
+    "scaleX": 4.23828125,
+    "scaleY": 4.23828125,
+    "maskError": 0.048226307572209214,
+    "sourceSize": [
+      512,
+      160
+    ],
+    "generatedSize": [
+      2170,
+      725
+    ],
+    "method": "source-black-slot-mask-registration",
+    "status": "alignment-candidate-needs-visual-review",
+    "image": "production/batch-003/bank-053fd4-07cbea-0dde08-unreal.png"
+  },
+  "bank-053fd4-07cbea-0dde08-ghibli": {
+    "columnBounds": [
+      0,
+      136,
+      271,
+      407,
+      542,
+      678,
+      814,
+      949,
+      1085,
+      1221,
+      1356,
+      1492,
+      1628,
+      1763,
+      1899,
+      2034,
+      2170
+    ],
+    "rowBounds": [
+      21,
+      160,
+      301,
+      441,
+      580,
+      717
+    ],
+    "x": 0,
+    "y": 23.4375,
+    "scaleX": 4.23828125,
+    "scaleY": 4.23828125,
+    "maskError": 0.059927448456860224,
+    "sourceSize": [
+      512,
+      160
+    ],
+    "generatedSize": [
+      2170,
+      725
+    ],
+    "method": "source-black-slot-mask-registration",
+    "status": "alignment-candidate-needs-visual-review",
+    "image": "production/batch-003/bank-053fd4-07cbea-0dde08-ghibli.png"
+  },
+  "bank-04b710-07a56a-0dde48-pixel-hd": {
+    "columnBounds": [
+      0,
+      136,
+      271,
+      407,
+      542,
+      678,
+      814,
+      949,
+      1085,
+      1221,
+      1356,
+      1492,
+      1628,
+      1763,
+      1899,
+      2034,
+      2170
+    ],
+    "rowBounds": [
+      15,
+      160,
+      298,
+      437,
+      563,
+      712
+    ],
+    "x": 0,
+    "y": 23.4375,
+    "scaleX": 4.23828125,
+    "scaleY": 4.23828125,
+    "maskError": 0.06571944967767014,
+    "sourceSize": [
+      512,
+      160
+    ],
+    "generatedSize": [
+      2170,
+      725
+    ],
+    "method": "source-black-slot-mask-registration",
+    "status": "alignment-candidate-needs-visual-review",
+    "image": "production/batch-003/bank-04b710-07a56a-0dde48-pixel-hd.png"
+  },
+  "bank-04b710-07a56a-0dde48-unreal": {
+    "columnBounds": [
+      0,
+      136,
+      271,
+      407,
+      542,
+      678,
+      814,
+      949,
+      1085,
+      1221,
+      1356,
+      1492,
+      1628,
+      1763,
+      1899,
+      2034,
+      2170
+    ],
+    "rowBounds": [
+      16,
+      161,
+      297,
+      437,
+      564,
+      708
+    ],
+    "x": 0,
+    "y": 23.4375,
+    "scaleX": 4.23828125,
+    "scaleY": 4.23828125,
+    "maskError": 0.06026346064232529,
+    "sourceSize": [
+      512,
+      160
+    ],
+    "generatedSize": [
+      2170,
+      725
+    ],
+    "method": "source-black-slot-mask-registration",
+    "status": "alignment-candidate-needs-visual-review",
+    "image": "production/batch-003/bank-04b710-07a56a-0dde48-unreal.png"
+  },
+  "bank-04b710-07a56a-0dde48-ghibli": {
+    "columnBounds": [
+      0,
+      136,
+      271,
+      407,
+      542,
+      678,
+      814,
+      949,
+      1085,
+      1221,
+      1356,
+      1492,
+      1628,
+      1763,
+      1899,
+      2034,
+      2170
+    ],
+    "rowBounds": [
+      15,
+      163,
+      303,
+      440,
+      574,
+      714
+    ],
+    "x": 0,
+    "y": 23.4375,
+    "scaleX": 4.23828125,
+    "scaleY": 4.23828125,
+    "maskError": 0.06757069346943166,
+    "sourceSize": [
+      512,
+      160
+    ],
+    "generatedSize": [
+      2170,
+      725
+    ],
+    "method": "source-black-slot-mask-registration",
+    "status": "alignment-candidate-needs-visual-review",
+    "image": "production/batch-003/bank-04b710-07a56a-0dde48-ghibli.png"
+  },
+  "bank-06111a-07e50a-0dde88-pixel-hd": {
+    "columnBounds": [
+      0,
+      128,
+      256,
+      384,
+      512,
+      640,
+      768,
+      896,
+      1024,
+      1152,
+      1280,
+      1408,
+      1536,
+      1664,
+      1792,
+      1920,
+      2048
+    ],
+    "rowBounds": [
+      0,
+      128,
+      256,
+      384,
+      512,
+      640,
+      768
+    ],
+    "x": 0,
+    "y": 0,
+    "scaleX": 4.0,
+    "scaleY": 4.0,
+    "maskError": 0.0198110747896118,
+    "sourceSize": [
+      512,
+      192
+    ],
+    "generatedSize": [
+      2048,
+      768
+    ],
+    "method": "aspect-matched-exact-grid",
+    "status": "alignment-candidate-needs-visual-review",
+    "image": "production/batch-003/bank-06111a-07e50a-0dde88-pixel-hd.png"
+  },
+  "bank-06111a-07e50a-0dde88-unreal": {
+    "columnBounds": [
+      0,
+      128,
+      256,
+      384,
+      512,
+      640,
+      768,
+      896,
+      1024,
+      1152,
+      1280,
+      1408,
+      1536,
+      1664,
+      1792,
+      1920,
+      2048
+    ],
+    "rowBounds": [
+      0,
+      128,
+      256,
+      384,
+      512,
+      640,
+      768
+    ],
+    "x": 0,
+    "y": 0,
+    "scaleX": 4.0,
+    "scaleY": 4.0,
+    "maskError": 0.025087495265510188,
+    "sourceSize": [
+      512,
+      192
+    ],
+    "generatedSize": [
+      2048,
+      768
+    ],
+    "method": "aspect-matched-exact-grid",
+    "status": "alignment-candidate-needs-visual-review",
+    "image": "production/batch-003/bank-06111a-07e50a-0dde88-unreal.png"
+  },
+  "bank-06111a-07e50a-0dde88-ghibli": {
+    "columnBounds": [
+      0,
+      128,
+      256,
+      384,
+      512,
+      640,
+      768,
+      896,
+      1024,
+      1152,
+      1280,
+      1408,
+      1536,
+      1664,
+      1792,
+      1920,
+      2048
+    ],
+    "rowBounds": [
+      0,
+      128,
+      256,
+      384,
+      512,
+      640,
+      768
+    ],
+    "x": 0,
+    "y": 0,
+    "scaleX": 4.0,
+    "scaleY": 4.0,
+    "maskError": 2.7814136125655935e-06,
+    "sourceSize": [
+      512,
+      192
+    ],
+    "generatedSize": [
+      2048,
+      768
+    ],
+    "method": "aspect-matched-exact-grid",
+    "status": "alignment-candidate-needs-visual-review",
+    "image": "production/batch-003/bank-06111a-07e50a-0dde88-ghibli.png"
+  },
+  "bank-066d5c-07efea-0ddec8-pixel-hd": {
+    "columnBounds": [
+      0,
+      136,
+      271,
+      407,
+      542,
+      678,
+      814,
+      949,
+      1085,
+      1221,
+      1356,
+      1492,
+      1628,
+      1763,
+      1899,
+      2034,
+      2170
+    ],
+    "rowBounds": [
+      160,
+      295,
+      436,
+      567
+    ],
+    "x": 0,
+    "y": 159.0625,
+    "scaleX": 4.23828125,
+    "scaleY": 4.23828125,
+    "maskError": 0.10435261141427375,
+    "sourceSize": [
+      512,
+      96
+    ],
+    "generatedSize": [
+      2170,
+      725
+    ],
+    "method": "source-black-slot-mask-registration",
+    "status": "alignment-candidate-needs-visual-review",
+    "image": "production/batch-003/bank-066d5c-07efea-0ddec8-pixel-hd.png"
+  },
+  "bank-066d5c-07efea-0ddec8-unreal": {
+    "columnBounds": [
+      0,
+      136,
+      271,
+      407,
+      542,
+      678,
+      814,
+      949,
+      1085,
+      1221,
+      1356,
+      1492,
+      1628,
+      1763,
+      1899,
+      2034,
+      2170
+    ],
+    "rowBounds": [
+      161,
+      303,
+      448,
+      587
+    ],
+    "x": 0,
+    "y": 159.0625,
+    "scaleX": 4.23828125,
+    "scaleY": 4.23828125,
+    "maskError": 0.052098886678320064,
+    "sourceSize": [
+      512,
+      96
+    ],
+    "generatedSize": [
+      2170,
+      725
+    ],
+    "method": "source-black-slot-mask-registration",
+    "status": "alignment-candidate-needs-visual-review",
+    "image": "production/batch-003/bank-066d5c-07efea-0ddec8-unreal.png"
+  },
+  "bank-066d5c-07efea-0ddec8-ghibli": {
+    "columnBounds": [
+      0,
+      136,
+      271,
+      407,
+      542,
+      678,
+      814,
+      949,
+      1085,
+      1221,
+      1356,
+      1492,
+      1628,
+      1763,
+      1899,
+      2034,
+      2170
+    ],
+    "rowBounds": [
+      179,
+      294,
+      434,
+      567
+    ],
+    "x": 0,
+    "y": 159.0625,
+    "scaleX": 4.23828125,
+    "scaleY": 4.23828125,
+    "maskError": 0.0916690064578236,
+    "sourceSize": [
+      512,
+      96
+    ],
+    "generatedSize": [
+      2170,
+      725
+    ],
+    "method": "source-black-slot-mask-registration",
+    "status": "alignment-candidate-needs-visual-review",
+    "image": "production/batch-003/bank-066d5c-07efea-0ddec8-ghibli.png"
+  },
+  "bank-0694fe-07f58a-0ddf08-pixel-hd": {
+    "columnBounds": [
+      0,
+      136,
+      271,
+      407,
+      542,
+      678,
+      814,
+      949,
+      1085,
+      1221,
+      1356,
+      1492,
+      1628,
+      1763,
+      1899,
+      2034,
+      2170
+    ],
+    "rowBounds": [
+      144,
+      293,
+      432,
+      580
+    ],
+    "x": 0,
+    "y": 159.0625,
+    "scaleX": 4.23828125,
+    "scaleY": 4.23828125,
+    "maskError": 0.24632056858398835,
+    "sourceSize": [
+      512,
+      96
+    ],
+    "generatedSize": [
+      2170,
+      725
+    ],
+    "method": "source-black-slot-mask-registration",
+    "status": "alignment-candidate-needs-visual-review",
+    "image": "production/batch-003/bank-0694fe-07f58a-0ddf08-pixel-hd.png"
+  },
+  "bank-0694fe-07f58a-0ddf08-unreal": {
+    "columnBounds": [
+      0,
+      136,
+      271,
+      407,
+      542,
+      678,
+      814,
+      949,
+      1085,
+      1221,
+      1356,
+      1492,
+      1628,
+      1763,
+      1899,
+      2034,
+      2170
+    ],
+    "rowBounds": [
+      156,
+      295,
+      433,
+      568
+    ],
+    "x": 0,
+    "y": 159.0625,
+    "scaleX": 4.23828125,
+    "scaleY": 4.23828125,
+    "maskError": 0.37424855850890704,
+    "sourceSize": [
+      512,
+      96
+    ],
+    "generatedSize": [
+      2170,
+      725
+    ],
+    "method": "source-black-slot-mask-registration",
+    "status": "alignment-candidate-needs-visual-review",
+    "image": "production/batch-003/bank-0694fe-07f58a-0ddf08-unreal.png"
+  },
+  "bank-0694fe-07f58a-0ddf08-ghibli": {
+    "columnBounds": [
+      0,
+      136,
+      271,
+      407,
+      542,
+      678,
+      813,
+      949,
+      1084,
+      1220,
+      1356,
+      1491,
+      1627,
+      1762,
+      1898,
+      2033,
+      2169
+    ],
+    "rowBounds": [
+      154,
+      295,
+      429,
+      567
+    ],
+    "x": 0,
+    "y": 159.15625,
+    "scaleX": 4.236328125,
+    "scaleY": 4.236328125,
+    "maskError": 0.29285953700607553,
+    "sourceSize": [
+      512,
+      96
+    ],
+    "generatedSize": [
+      2169,
+      725
+    ],
+    "method": "source-black-slot-mask-registration",
+    "status": "alignment-candidate-needs-visual-review",
+    "image": "production/batch-003/bank-0694fe-07f58a-0ddf08-ghibli.png"
+  },
+  "bank-0694fe-07f58a-0ddf48-pixel-hd": {
+    "columnBounds": [
+      0,
+      136,
+      271,
+      407,
+      542,
+      678,
+      814,
+      949,
+      1085,
+      1221,
+      1356,
+      1492,
+      1628,
+      1763,
+      1899,
+      2034,
+      2170
+    ],
+    "rowBounds": [
+      82,
+      230,
+      366,
+      503,
+      644
+    ],
+    "x": 0,
+    "y": 91.25,
+    "scaleX": 4.23828125,
+    "scaleY": 4.23828125,
+    "maskError": 0.2640409255225856,
+    "sourceSize": [
+      512,
+      128
+    ],
+    "generatedSize": [
+      2170,
+      725
+    ],
+    "method": "source-black-slot-mask-registration",
+    "status": "alignment-candidate-needs-visual-review",
+    "image": "production/batch-003/bank-0694fe-07f58a-0ddf48-pixel-hd.png"
+  },
+  "bank-0694fe-07f58a-0ddf48-unreal": {
+    "columnBounds": [
+      0,
+      136,
+      271,
+      407,
+      542,
+      678,
+      814,
+      949,
+      1085,
+      1221,
+      1356,
+      1492,
+      1628,
+      1763,
+      1899,
+      2034,
+      2170
+    ],
+    "rowBounds": [
+      88,
+      227,
+      364,
+      500,
+      642
+    ],
+    "x": 0,
+    "y": 91.25,
+    "scaleX": 4.23828125,
+    "scaleY": 4.23828125,
+    "maskError": 0.31690433438223425,
+    "sourceSize": [
+      512,
+      128
+    ],
+    "generatedSize": [
+      2170,
+      725
+    ],
+    "method": "source-black-slot-mask-registration",
+    "status": "alignment-candidate-needs-visual-review",
+    "image": "production/batch-003/bank-0694fe-07f58a-0ddf48-unreal.png"
+  },
+  "bank-0694fe-07f58a-0ddf48-ghibli": {
+    "columnBounds": [
+      0,
+      136,
+      271,
+      407,
+      542,
+      678,
+      814,
+      949,
+      1085,
+      1221,
+      1356,
+      1492,
+      1628,
+      1763,
+      1899,
+      2034,
+      2170
+    ],
+    "rowBounds": [
+      88,
+      228,
+      363,
+      499,
+      636
+    ],
+    "x": 0,
+    "y": 91.25,
+    "scaleX": 4.23828125,
+    "scaleY": 4.23828125,
+    "maskError": 0.3573319546473909,
+    "sourceSize": [
+      512,
+      128
+    ],
+    "generatedSize": [
+      2170,
+      725
+    ],
+    "method": "source-black-slot-mask-registration",
+    "status": "alignment-candidate-needs-visual-review",
+    "image": "production/batch-003/bank-0694fe-07f58a-0ddf48-ghibli.png"
+  },
+  "bank-06d4e0-07feca-0ddf88-pixel-hd": {
+    "columnBounds": [
+      0,
+      136,
+      271,
+      407,
+      542,
+      678,
+      814,
+      949,
+      1085,
+      1221,
+      1356,
+      1492,
+      1628,
+      1763,
+      1899,
+      2034,
+      2170
+    ],
+    "rowBounds": [
+      25,
+      165,
+      303,
+      445,
+      576,
+      714
+    ],
+    "x": 0,
+    "y": 23.4375,
+    "scaleX": 4.23828125,
+    "scaleY": 4.23828125,
+    "maskError": 0.47203336278947133,
+    "sourceSize": [
+      512,
+      160
+    ],
+    "generatedSize": [
+      2170,
+      725
+    ],
+    "method": "source-black-slot-mask-registration",
+    "status": "alignment-candidate-needs-visual-review",
+    "image": "production/batch-003/bank-06d4e0-07feca-0ddf88-pixel-hd.png"
+  },
+  "bank-06d4e0-07feca-0ddf88-unreal": {
+    "columnBounds": [
+      0,
+      136,
+      271,
+      407,
+      542,
+      678,
+      814,
+      949,
+      1085,
+      1221,
+      1356,
+      1492,
+      1628,
+      1763,
+      1899,
+      2034,
+      2170
+    ],
+    "rowBounds": [
+      22,
+      162,
+      305,
+      438,
+      577,
+      715
+    ],
+    "x": 0,
+    "y": 23.4375,
+    "scaleX": 4.23828125,
+    "scaleY": 4.23828125,
+    "maskError": 0.5316201991790183,
+    "sourceSize": [
+      512,
+      160
+    ],
+    "generatedSize": [
+      2170,
+      725
+    ],
+    "method": "source-black-slot-mask-registration",
+    "status": "alignment-candidate-needs-visual-review",
+    "image": "production/batch-003/bank-06d4e0-07feca-0ddf88-unreal.png"
+  },
+  "bank-06d4e0-07feca-0ddf88-ghibli": {
+    "columnBounds": [
+      0,
+      136,
+      271,
+      407,
+      542,
+      678,
+      814,
+      949,
+      1085,
+      1221,
+      1356,
+      1492,
+      1628,
+      1763,
+      1899,
+      2034,
+      2170
+    ],
+    "rowBounds": [
+      23,
+      164,
+      299,
+      436,
+      575,
+      724
+    ],
+    "x": 0,
+    "y": 23.4375,
+    "scaleX": 4.23828125,
+    "scaleY": 4.23828125,
+    "maskError": 0.7324166328180377,
+    "sourceSize": [
+      512,
+      160
+    ],
+    "generatedSize": [
+      2170,
+      725
+    ],
+    "method": "source-black-slot-mask-registration",
+    "status": "alignment-candidate-needs-visual-review",
+    "image": "production/batch-003/bank-06d4e0-07feca-0ddf88-ghibli.png"
+  },
+  "bank-06ff42-08084a-0ddfc8-pixel-hd": {
+    "columnBounds": [
+      0,
+      136,
+      271,
+      407,
+      542,
+      678,
+      814,
+      949,
+      1085,
+      1221,
+      1356,
+      1492,
+      1628,
+      1763,
+      1899,
+      2034,
+      2170
+    ],
+    "rowBounds": [
+      89,
+      227,
+      363,
+      500,
+      636
+    ],
+    "x": 0,
+    "y": 91.25,
+    "scaleX": 4.23828125,
+    "scaleY": 4.23828125,
+    "maskError": 0.10603599381741646,
+    "sourceSize": [
+      512,
+      128
+    ],
+    "generatedSize": [
+      2170,
+      725
+    ],
+    "method": "source-black-slot-mask-registration",
+    "status": "alignment-candidate-needs-visual-review",
+    "image": "production/batch-003/bank-06ff42-08084a-0ddfc8-pixel-hd.png"
+  },
+  "bank-06ff42-08084a-0ddfc8-unreal": {
+    "columnBounds": [
+      0,
+      136,
+      271,
+      407,
+      542,
+      678,
+      813,
+      949,
+      1084,
+      1220,
+      1356,
+      1491,
+      1627,
+      1762,
+      1898,
+      2033,
+      2169
+    ],
+    "rowBounds": [
+      88,
+      228,
+      366,
+      504,
+      643
+    ],
+    "x": 0,
+    "y": 91.375,
+    "scaleX": 4.236328125,
+    "scaleY": 4.236328125,
+    "maskError": 0.10324493276727897,
+    "sourceSize": [
+      512,
+      128
+    ],
+    "generatedSize": [
+      2169,
+      725
+    ],
+    "method": "source-black-slot-mask-registration",
+    "status": "alignment-candidate-needs-visual-review",
+    "image": "production/batch-003/bank-06ff42-08084a-0ddfc8-unreal.png"
+  },
+  "bank-06ff42-08084a-0ddfc8-ghibli": {
+    "columnBounds": [
+      0,
+      136,
+      271,
+      407,
+      542,
+      678,
+      814,
+      949,
+      1085,
+      1221,
+      1356,
+      1492,
+      1628,
+      1763,
+      1899,
+      2034,
+      2170
+    ],
+    "rowBounds": [
+      89,
+      227,
+      363,
+      500,
+      637
+    ],
+    "x": 0,
+    "y": 91.25,
+    "scaleX": 4.23828125,
+    "scaleY": 4.23828125,
+    "maskError": 4.7533632286995514e-05,
+    "sourceSize": [
+      512,
+      128
+    ],
+    "generatedSize": [
+      2170,
+      725
+    ],
+    "method": "source-black-slot-mask-registration",
+    "status": "alignment-candidate-needs-visual-review",
+    "image": "production/batch-003/bank-06ff42-08084a-0ddfc8-ghibli.png"
+  },
+  "bank-073c64-080f6a-0de008-pixel-hd": {
+    "columnBounds": [
+      0,
+      136,
+      271,
+      407,
+      542,
+      678,
+      813,
+      949,
+      1084,
+      1220,
+      1356,
+      1491,
+      1627,
+      1762,
+      1898,
+      2033,
+      2169
+    ],
+    "rowBounds": [
+      23,
+      162,
+      299,
+      438,
+      552,
+      704
+    ],
+    "x": 0,
+    "y": 23.59375,
+    "scaleX": 4.236328125,
+    "scaleY": 4.236328125,
+    "maskError": 0.05937816237651396,
+    "sourceSize": [
+      512,
+      160
+    ],
+    "generatedSize": [
+      2169,
+      725
+    ],
+    "method": "source-black-slot-mask-registration",
+    "status": "alignment-candidate-needs-visual-review",
+    "image": "production/batch-003/bank-073c64-080f6a-0de008-pixel-hd.png"
+  },
+  "bank-073c64-080f6a-0de008-unreal": {
+    "columnBounds": [
+      0,
+      136,
+      271,
+      407,
+      542,
+      678,
+      813,
+      949,
+      1084,
+      1220,
+      1356,
+      1491,
+      1627,
+      1762,
+      1898,
+      2033,
+      2169
+    ],
+    "rowBounds": [
+      2,
+      162,
+      300,
+      436,
+      572,
+      698
+    ],
+    "x": 0,
+    "y": 23.59375,
+    "scaleX": 4.236328125,
+    "scaleY": 4.236328125,
+    "maskError": 0.016422862703550308,
+    "sourceSize": [
+      512,
+      160
+    ],
+    "generatedSize": [
+      2169,
+      725
+    ],
+    "method": "source-black-slot-mask-registration",
+    "status": "alignment-candidate-needs-visual-review",
+    "image": "production/batch-003/bank-073c64-080f6a-0de008-unreal.png"
+  },
+  "bank-073c64-080f6a-0de008-ghibli": {
+    "columnBounds": [
+      0,
+      136,
+      271,
+      407,
+      542,
+      678,
+      814,
+      949,
+      1085,
+      1221,
+      1356,
+      1492,
+      1628,
+      1763,
+      1899,
+      2034,
+      2170
+    ],
+    "rowBounds": [
+      29,
+      161,
+      297,
+      436,
+      551,
+      700
+    ],
+    "x": 0,
+    "y": 23.4375,
+    "scaleX": 4.23828125,
+    "scaleY": 4.23828125,
+    "maskError": 1.3824884792626729e-06,
+    "sourceSize": [
+      512,
+      160
+    ],
+    "generatedSize": [
+      2170,
+      725
+    ],
+    "method": "source-black-slot-mask-registration",
+    "status": "alignment-candidate-needs-visual-review",
+    "image": "production/batch-003/bank-073c64-080f6a-0de008-ghibli.png"
+  },
+  "bank-0694fe-07f58a-0de048-pixel-hd": {
+    "columnBounds": [
+      0,
+      136,
+      271,
+      407,
+      542,
+      678,
+      814,
+      949,
+      1085,
+      1221,
+      1356,
+      1492,
+      1628,
+      1763,
+      1899,
+      2034,
+      2170
+    ],
+    "rowBounds": [
+      25,
+      162,
+      298,
+      435,
+      563,
+      708
+    ],
+    "x": 0,
+    "y": 23.4375,
+    "scaleX": 4.23828125,
+    "scaleY": 4.23828125,
+    "maskError": 0.24407550968232694,
+    "sourceSize": [
+      512,
+      160
+    ],
+    "generatedSize": [
+      2170,
+      725
+    ],
+    "method": "source-black-slot-mask-registration",
+    "status": "alignment-candidate-needs-visual-review",
+    "image": "production/batch-003/bank-0694fe-07f58a-0de048-pixel-hd.png"
+  },
+  "bank-0694fe-07f58a-0de048-unreal": {
+    "columnBounds": [
+      0,
+      136,
+      271,
+      407,
+      542,
+      678,
+      813,
+      949,
+      1084,
+      1220,
+      1356,
+      1491,
+      1627,
+      1762,
+      1898,
+      2033,
+      2169
+    ],
+    "rowBounds": [
+      19,
+      160,
+      295,
+      432,
+      565,
+      705
+    ],
+    "x": 0,
+    "y": 23.59375,
+    "scaleX": 4.236328125,
+    "scaleY": 4.236328125,
+    "maskError": 0.19261664613693616,
+    "sourceSize": [
+      512,
+      160
+    ],
+    "generatedSize": [
+      2169,
+      725
+    ],
+    "method": "source-black-slot-mask-registration",
+    "status": "alignment-candidate-needs-visual-review",
+    "image": "production/batch-003/bank-0694fe-07f58a-0de048-unreal.png"
+  },
+  "bank-0694fe-07f58a-0de048-ghibli": {
+    "columnBounds": [
+      0,
+      136,
+      271,
+      407,
+      542,
+      678,
+      814,
+      949,
+      1085,
+      1221,
+      1356,
+      1492,
+      1628,
+      1763,
+      1899,
+      2034,
+      2170
+    ],
+    "rowBounds": [
+      19,
+      158,
+      297,
+      434,
+      564,
+      703
+    ],
+    "x": 0,
+    "y": 23.4375,
+    "scaleX": 4.23828125,
+    "scaleY": 4.23828125,
+    "maskError": 0.2474019954779613,
+    "sourceSize": [
+      512,
+      160
+    ],
+    "generatedSize": [
+      2170,
+      725
+    ],
+    "method": "source-black-slot-mask-registration",
+    "status": "alignment-candidate-needs-visual-review",
+    "image": "production/batch-003/bank-0694fe-07f58a-0de048-ghibli.png"
+  }
+}

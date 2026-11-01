@@ -1,0 +1,36 @@
+{
+  "concurrency": 10,
+  "model": "gpt-image-2.5-sunburst",
+  "jobs": {
+    "bank-053fd4-07cbea-0dde08-pixel-hd-repair": {
+      "state": "generated-awaiting-review",
+      "updatedAt": 1793236997.1440399,
+      "exitCode": 0
+    },
+    "bank-053fd4-07cbea-0dde08-unreal-repair": {
+      "state": "generated-awaiting-review",
+      "updatedAt": 1793236997.1940577,
+      "exitCode": 0
+    },
+    "bank-053fd4-07cbea-0dde08-ghibli-repair": {
+      "state": "generated-awaiting-review",
+      "updatedAt": 1793236997.8485394,
+      "exitCode": 0
+    },
+    "bank-04b710-07a56a-0dde48-pixel-hd-repair": {
+      "state": "generated-awaiting-review",
+      "updatedAt": 1793236997.9487903,
+      "exitCode": 0
+    },
+    "bank-04b710-07a56a-0dde48-unreal-repair": {
+      "state": "generated-awaiting-review",
+      "updatedAt": 1793236998.0498335,
+      "exitCode": 0
+    },
+    "bank-04b710-07a56a-0dde48-ghibli-repair": {
+      "state": "generated-awaiting-review",
+      "updatedAt": 1793236999.8069143,
+      "exitCode": 0
+    }
+  }
+}

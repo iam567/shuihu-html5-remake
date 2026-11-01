@@ -1,0 +1,425 @@
+{
+ "note": "HD walk sheets: 3x3 cells front/back/left x idle/step-left/step-right, right = mirrored left. Original frames 0-8 map to cells in reading order; feet on a common baseline; scale is map tiles per cell pixel.",
+ "sheets": {
+  "100400": {
+   "image": "assets/characters-hd/100400.webp",
+   "cell": 160,
+   "scale": 0.0084375,
+   "source": "sprites-hd-1/100400.png",
+   "style": "hd-painted"
+  },
+  "120000": {
+   "image": "assets/characters-hd/120000.webp",
+   "cell": 160,
+   "scale": 0.0084375,
+   "source": "sprites-hd-1/120000.png",
+   "style": "hd-painted"
+  },
+  "121600": {
+   "image": "assets/characters-hd/121600.webp",
+   "cell": 160,
+   "scale": 0.0084375,
+   "source": "sprites-hd-1/121600.png",
+   "style": "hd-painted"
+  },
+  "12f200": {
+   "image": "assets/characters-hd/12f200.webp",
+   "cell": 160,
+   "scale": 0.0084375,
+   "source": "sprites-hd-1/12f200.png",
+   "style": "hd-painted"
+  },
+  "101a00": {
+   "image": "assets/characters-hd/101a00.webp",
+   "cell": 160,
+   "scale": 0.0084375,
+   "source": "sprites-hd-1/101a00.png",
+   "style": "hd-painted"
+  },
+  "103000": {
+   "image": "assets/characters-hd/103000.webp",
+   "cell": 160,
+   "scale": 0.0084375,
+   "source": "sprites-hd-1/103000.png",
+   "style": "hd-painted"
+  },
+  "104600": {
+   "image": "assets/characters-hd/104600.webp",
+   "cell": 160,
+   "scale": 0.0084375,
+   "source": "sprites-hd-1/104600.png",
+   "style": "hd-painted"
+  },
+  "105c00": {
+   "image": "assets/characters-hd/105c00.webp",
+   "cell": 160,
+   "scale": 0.0084375,
+   "source": "sprites-hd-1/105c00.png",
+   "style": "hd-painted"
+  },
+  "107200": {
+   "image": "assets/characters-hd/107200.webp",
+   "cell": 160,
+   "scale": 0.0084375,
+   "source": "sprites-hd-1/107200.png",
+   "style": "hd-painted"
+  },
+  "108800": {
+   "image": "assets/characters-hd/108800.webp",
+   "cell": 160,
+   "scale": 0.0084375,
+   "source": "sprites-hd-1/108800.png",
+   "style": "hd-painted"
+  },
+  "109e00": {
+   "image": "assets/characters-hd/109e00.webp",
+   "cell": 160,
+   "scale": 0.0084375,
+   "source": "sprites-hd-1/109e00.png",
+   "style": "hd-painted"
+  },
+  "10b400": {
+   "image": "assets/characters-hd/10b400.webp",
+   "cell": 160,
+   "scale": 0.0084375,
+   "source": "sprites-hd-1/10b400.png",
+   "style": "hd-painted"
+  },
+  "10ca00": {
+   "image": "assets/characters-hd/10ca00.webp",
+   "cell": 160,
+   "scale": 0.0084375,
+   "source": "sprites-hd-1/10ca00.png",
+   "style": "hd-painted"
+  },
+  "10e000": {
+   "image": "assets/characters-hd/10e000.webp",
+   "cell": 160,
+   "scale": 0.0084375,
+   "source": "sprites-hd-1/10e000.png",
+   "style": "hd-painted"
+  },
+  "10f600": {
+   "image": "assets/characters-hd/10f600.webp",
+   "cell": 160,
+   "scale": 0.0084375,
+   "source": "sprites-hd-1/10f600.png",
+   "style": "hd-painted"
+  },
+  "110c00": {
+   "image": "assets/characters-hd/110c00.webp",
+   "cell": 160,
+   "scale": 0.0084375,
+   "source": "sprites-hd-1/110c00.png",
+   "style": "hd-painted"
+  },
+  "112200": {
+   "image": "assets/characters-hd/112200.webp",
+   "cell": 160,
+   "scale": 0.0084375,
+   "source": "sprites-hd-1/112200.png",
+   "style": "hd-painted"
+  },
+  "113800": {
+   "image": "assets/characters-hd/113800.webp",
+   "cell": 160,
+   "scale": 0.0084375,
+   "source": "sprites-hd-1/113800.png",
+   "style": "hd-painted"
+  },
+  "114e00": {
+   "image": "assets/characters-hd/114e00.webp",
+   "cell": 160,
+   "scale": 0.0084375,
+   "source": "sprites-hd-1/114e00.png",
+   "style": "hd-painted"
+  },
+  "116400": {
+   "image": "assets/characters-hd/116400.webp",
+   "cell": 160,
+   "scale": 0.0084375,
+   "source": "sprites-hd-1/116400.png",
+   "style": "hd-painted"
+  },
+  "117a00": {
+   "image": "assets/characters-hd/117a00.webp",
+   "cell": 160,
+   "scale": 0.0084375,
+   "source": "sprites-hd-1/117a00.png",
+   "style": "hd-painted"
+  },
+  "119000": {
+   "image": "assets/characters-hd/119000.webp",
+   "cell": 160,
+   "scale": 0.0084375,
+   "source": "sprites-hd-1/119000.png",
+   "style": "hd-painted"
+  },
+  "11a600": {
+   "image": "assets/characters-hd/11a600.webp",
+   "cell": 160,
+   "scale": 0.0084375,
+   "source": "sprites-hd-1/11a600.png",
+   "style": "hd-painted"
+  },
+  "11bc00": {
+   "image": "assets/characters-hd/11bc00.webp",
+   "cell": 160,
+   "scale": 0.0084375,
+   "source": "sprites-hd-1/11bc00.png",
+   "style": "hd-painted"
+  },
+  "11d200": {
+   "image": "assets/characters-hd/11d200.webp",
+   "cell": 160,
+   "scale": 0.0084375,
+   "source": "sprites-hd-1/11d200.png",
+   "style": "hd-painted"
+  },
+  "11e800": {
+   "image": "assets/characters-hd/11e800.webp",
+   "cell": 160,
+   "scale": 0.0084375,
+   "source": "sprites-hd-1/11e800.png",
+   "style": "hd-painted"
+  },
+  "122c00": {
+   "image": "assets/characters-hd/122c00.webp",
+   "cell": 160,
+   "scale": 0.0084375,
+   "source": "sprites-hd-1/122c00.png",
+   "style": "hd-painted"
+  },
+  "124200": {
+   "image": "assets/characters-hd/124200.webp",
+   "cell": 160,
+   "scale": 0.0084375,
+   "source": "sprites-hd-1/124200.png",
+   "style": "hd-painted"
+  },
+  "125800": {
+   "image": "assets/characters-hd/125800.webp",
+   "cell": 160,
+   "scale": 0.0084375,
+   "source": "sprites-hd-1/125800.png",
+   "style": "hd-painted"
+  },
+  "126e00": {
+   "image": "assets/characters-hd/126e00.webp",
+   "cell": 160,
+   "scale": 0.0084375,
+   "source": "sprites-hd-1/126e00.png",
+   "style": "hd-painted"
+  },
+  "128400": {
+   "image": "assets/characters-hd/128400.webp",
+   "cell": 160,
+   "scale": 0.0084375,
+   "source": "sprites-hd-1/128400.png",
+   "style": "hd-painted"
+  },
+  "129a00": {
+   "image": "assets/characters-hd/129a00.webp",
+   "cell": 160,
+   "scale": 0.0084375,
+   "source": "sprites-hd-1/129a00.png",
+   "style": "hd-painted"
+  },
+  "12b000": {
+   "image": "assets/characters-hd/12b000.webp",
+   "cell": 160,
+   "scale": 0.0084375,
+   "source": "sprites-hd-1/12b000.png",
+   "style": "hd-painted"
+  },
+  "12c600": {
+   "image": "assets/characters-hd/12c600.webp",
+   "cell": 160,
+   "scale": 0.0084375,
+   "source": "sprites-hd-1/12c600.png",
+   "style": "hd-painted"
+  },
+  "12dc00": {
+   "image": "assets/characters-hd/12dc00.webp",
+   "cell": 160,
+   "scale": 0.0084375,
+   "source": "sprites-hd-1/12dc00.png",
+   "style": "hd-painted"
+  },
+  "130800": {
+   "image": "assets/characters-hd/130800.webp",
+   "cell": 160,
+   "scale": 0.0084375,
+   "source": "sprites-hd-1/130800.png",
+   "style": "hd-painted"
+  },
+  "131e00": {
+   "image": "assets/characters-hd/131e00.webp",
+   "cell": 160,
+   "scale": 0.0084375,
+   "source": "sprites-hd-1/131e00.png",
+   "style": "hd-painted"
+  },
+  "133400": {
+   "image": "assets/characters-hd/133400.webp",
+   "cell": 160,
+   "scale": 0.0084375,
+   "source": "sprites-hd-1/133400.png",
+   "style": "hd-painted"
+  },
+  "134a00": {
+   "image": "assets/characters-hd/134a00.webp",
+   "cell": 160,
+   "scale": 0.0084375,
+   "source": "sprites-hd-1/134a00.png",
+   "style": "hd-painted"
+  },
+  "136000": {
+   "image": "assets/characters-hd/136000.webp",
+   "cell": 160,
+   "scale": 0.0084375,
+   "source": "sprites-hd-1/136000.png",
+   "style": "hd-painted"
+  },
+  "137600": {
+   "image": "assets/characters-hd/137600.webp",
+   "cell": 160,
+   "scale": 0.0084375,
+   "source": "sprites-hd-1/137600.png",
+   "style": "hd-painted"
+  },
+  "138c00": {
+   "image": "assets/characters-hd/138c00.webp",
+   "cell": 160,
+   "scale": 0.0084375,
+   "source": "sprites-hd-1/138c00.png",
+   "style": "hd-painted"
+  },
+  "13a200": {
+   "image": "assets/characters-hd/13a200.webp",
+   "cell": 160,
+   "scale": 0.0084375,
+   "source": "sprites-hd-1/13a200.png",
+   "style": "hd-painted"
+  },
+  "13b800": {
+   "image": "assets/characters-hd/13b800.webp",
+   "cell": 160,
+   "scale": 0.0084375,
+   "source": "sprites-hd-1/13b800.png",
+   "style": "hd-painted"
+  },
+  "13ce00": {
+   "image": "assets/characters-hd/13ce00.webp",
+   "cell": 160,
+   "scale": 0.0084375,
+   "source": "sprites-hd-1/13ce00.png",
+   "style": "hd-painted"
+  },
+  "13e400": {
+   "image": "assets/characters-hd/13e400.webp",
+   "cell": 160,
+   "scale": 0.0084375,
+   "source": "sprites-hd-1/13e400.png",
+   "style": "hd-painted"
+  },
+  "140000": {
+   "image": "assets/characters-hd/140000.webp",
+   "cell": 160,
+   "scale": 0.0084375,
+   "source": "sprites-hd-1/140000.png",
+   "style": "hd-painted"
+  },
+  "141600": {
+   "image": "assets/characters-hd/141600.webp",
+   "cell": 160,
+   "scale": 0.0084375,
+   "source": "sprites-hd-1/141600.png",
+   "style": "hd-painted"
+  },
+  "142c00": {
+   "image": "assets/characters-hd/142c00.webp",
+   "cell": 160,
+   "scale": 0.0084375,
+   "source": "sprites-hd-1/142c00.png",
+   "style": "hd-painted"
+  },
+  "144200": {
+   "image": "assets/characters-hd/144200.webp",
+   "cell": 160,
+   "scale": 0.0084375,
+   "source": "sprites-hd-1/144200.png",
+   "style": "hd-painted"
+  },
+  "145800": {
+   "image": "assets/characters-hd/145800.webp",
+   "cell": 160,
+   "scale": 0.0084375,
+   "source": "sprites-hd-1/145800.png",
+   "style": "hd-painted"
+  },
+  "146e00": {
+   "image": "assets/characters-hd/146e00.webp",
+   "cell": 160,
+   "scale": 0.0084375,
+   "source": "sprites-hd-1/146e00.png",
+   "style": "hd-painted"
+  },
+  "148400": {
+   "image": "assets/characters-hd/148400.webp",
+   "cell": 160,
+   "scale": 0.0084375,
+   "source": "sprites-hd-1/148400.png",
+   "style": "hd-painted"
+  },
+  "149a00": {
+   "image": "assets/characters-hd/149a00.webp",
+   "cell": 160,
+   "scale": 0.0084375,
+   "source": "sprites-hd-1/149a00.png",
+   "style": "hd-painted"
+  },
+  "14b000": {
+   "image": "assets/characters-hd/14b000.webp",
+   "cell": 160,
+   "scale": 0.0084375,
+   "source": "sprites-hd-1/14b000.png",
+   "style": "hd-painted"
+  },
+  "14c600": {
+   "image": "assets/characters-hd/14c600.webp",
+   "cell": 160,
+   "scale": 0.0084375,
+   "source": "sprites-hd-1/14c600.png",
+   "style": "hd-painted"
+  },
+  "14dc00": {
+   "image": "assets/characters-hd/14dc00.webp",
+   "cell": 160,
+   "scale": 0.0084375,
+   "source": "sprites-hd-1/14dc00.png",
+   "style": "hd-painted"
+  },
+  "14f200": {
+   "image": "assets/characters-hd/14f200.webp",
+   "cell": 160,
+   "scale": 0.0084375,
+   "source": "sprites-hd-1/14f200.png",
+   "style": "hd-painted"
+  },
+  "150800": {
+   "image": "assets/characters-hd/150800.webp",
+   "cell": 160,
+   "scale": 0.0084375,
+   "source": "sprites-hd-1/150800.png",
+   "style": "hd-painted"
+  },
+  "151e00": {
+   "image": "assets/characters-hd/151e00.webp",
+   "cell": 160,
+   "scale": 0.0084375,
+   "source": "sprites-hd-1/151e00.png",
+   "style": "hd-painted"
+  }
+ }
+}
